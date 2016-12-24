@@ -1,1 +1,61 @@
-{"title":"Need for Speed Hot Pursuit 2","uid":3293215,"size":643655680,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:0c38e79455bc9d7c7399c1810e3f1ce18795000b&amp;dn=Need+for+Speed+Hot+Pursuit+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":2,"uploader":"graul","files":1,"time":1109011412,"description":"Need for Speed underground 2 Standard .ISO fÃƒÂ¶r PC!\n\nS/N: C959-7PVQ-SWGF-LEG4","torrent":{"xt":"urn:btih:0c38e79455bc9d7c7399c1810e3f1ce18795000b","amp;dn":"Need+for+Speed+Hot+Pursuit+2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0c38e79455bc9d7c7399c1810e3f1ce18795000b","infoHashBuffer":{"type":"Buffer","data":[12,56,231,148,85,188,157,124,115,153,193,129,14,63,28,225,135,149,0,11]},"announce":[],"urlList":[]}}
+{
+  "title": "Need for Speed Hot Pursuit 2",
+  "uid": 3293215,
+  "size": 643655680,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:0c38e79455bc9d7c7399c1810e3f1ce18795000b&amp;dn=Need+for+Speed+Hot+Pursuit+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 2,
+  "uploader": "graul",
+  "files": 1,
+  "time": 1109011412,
+  "description": "Need for Speed underground 2 Standard .ISO fÃƒÂ¶r PC!\n\nS/N: C959-7PVQ-SWGF-LEG4",
+  "parsed": {
+    "xt": "urn:btih:0c38e79455bc9d7c7399c1810e3f1ce18795000b",
+    "dn": "Need for Speed Hot Pursuit 2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0c38e79455bc9d7c7399c1810e3f1ce18795000b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        12,
+        56,
+        231,
+        148,
+        85,
+        188,
+        157,
+        124,
+        115,
+        153,
+        193,
+        129,
+        14,
+        63,
+        28,
+        225,
+        135,
+        149,
+        0,
+        11
+      ]
+    },
+    "name": "Need for Speed Hot Pursuit 2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 127,
+  "last_updated": "2016-12-24T16:48:39.592Z"
+}

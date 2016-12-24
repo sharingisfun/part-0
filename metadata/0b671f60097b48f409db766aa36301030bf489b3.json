@@ -1,1 +1,63 @@
-{"title":"Young Thug - I'm Up 2016","uid":13439207,"size":92436352,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0b671f60097b48f409db766aa36301030bf489b3&amp;dn=Young+Thug+-+I%27m+Up+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":1,"uploader":"annuaireweb","files":9,"time":1454683265,"description":"1. F Cancer (Boosie) [feat. Quavo]\r\n2. My Boys (feat. Trouble, Ralo, Lil Durk)\r\n3. For My People (feat. Duke)\r\n4. King TROUP\r\n5. Ridin (feat. Lil Durk)\r\n6. Hercules\r\n7. Special (feat. Offset and Solo Lucci)\r\n8. Bread Winners (feat. Young Butta)\r\n9. Family (feat. Dora and Dolly)","torrent":{"xt":"urn:btih:0b671f60097b48f409db766aa36301030bf489b3","amp;dn":"Young+Thug+-+I%27m+Up+2016","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0b671f60097b48f409db766aa36301030bf489b3","infoHashBuffer":{"type":"Buffer","data":[11,103,31,96,9,123,72,244,9,219,118,106,163,99,1,3,11,244,137,179]},"announce":[],"urlList":[]}}
+{
+  "title": "Young Thug - I'm Up 2016",
+  "uid": 13439207,
+  "size": 92436352,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0b671f60097b48f409db766aa36301030bf489b3&amp;dn=Young+Thug+-+I%27m+Up+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 1,
+  "uploader": "annuaireweb",
+  "files": 9,
+  "time": 1454683265,
+  "description": "1. F Cancer (Boosie) [feat. Quavo]\r\n2. My Boys (feat. Trouble, Ralo, Lil Durk)\r\n3. For My People (feat. Duke)\r\n4. King TROUP\r\n5. Ridin (feat. Lil Durk)\r\n6. Hercules\r\n7. Special (feat. Offset and Solo Lucci)\r\n8. Bread Winners (feat. Young Butta)\r\n9. Family (feat. Dora and Dolly)",
+  "parsed": {
+    "xt": "urn:btih:0b671f60097b48f409db766aa36301030bf489b3",
+    "dn": "Young Thug - I'm Up 2016",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "0b671f60097b48f409db766aa36301030bf489b3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        11,
+        103,
+        31,
+        96,
+        9,
+        123,
+        72,
+        244,
+        9,
+        219,
+        118,
+        106,
+        163,
+        99,
+        1,
+        3,
+        11,
+        244,
+        137,
+        179
+      ]
+    },
+    "name": "Young Thug - I'm Up 2016",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 95,
+  "last_updated": "2016-12-24T16:42:11.984Z"
+}

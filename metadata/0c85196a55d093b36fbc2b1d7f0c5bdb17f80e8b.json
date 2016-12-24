@@ -1,1 +1,61 @@
-{"title":"Breaking Bad S05E11 HDTV x264-ASAP[ettv]","uid":8849636,"size":333546069,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:0c85196a55d093b36fbc2b1d7f0c5bdb17f80e8b&amp;dn=Breaking+Bad+S05E11+HDTV+x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":111,"leechers":5,"uploader":"ettv","files":2,"time":1377489949,"description":"x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n","torrent":{"xt":"urn:btih:0c85196a55d093b36fbc2b1d7f0c5bdb17f80e8b","amp;dn":"Breaking+Bad+S05E11+HDTV+x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0c85196a55d093b36fbc2b1d7f0c5bdb17f80e8b","infoHashBuffer":{"type":"Buffer","data":[12,133,25,106,85,208,147,179,111,188,43,29,127,12,91,219,23,248,14,139]},"announce":[],"urlList":[]}}
+{
+  "title": "Breaking Bad S05E11 HDTV x264-ASAP[ettv]",
+  "uid": 8849636,
+  "size": 333546069,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:0c85196a55d093b36fbc2b1d7f0c5bdb17f80e8b&amp;dn=Breaking+Bad+S05E11+HDTV+x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 111,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1377489949,
+  "description": "x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n",
+  "parsed": {
+    "xt": "urn:btih:0c85196a55d093b36fbc2b1d7f0c5bdb17f80e8b",
+    "dn": "Breaking Bad S05E11 HDTV x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0c85196a55d093b36fbc2b1d7f0c5bdb17f80e8b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        12,
+        133,
+        25,
+        106,
+        85,
+        208,
+        147,
+        179,
+        111,
+        188,
+        43,
+        29,
+        127,
+        12,
+        91,
+        219,
+        23,
+        248,
+        14,
+        139
+      ]
+    },
+    "name": "Breaking Bad S05E11 HDTV x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 116,
+  "peers": 51,
+  "last_updated": "2016-12-24T16:51:06.192Z"
+}

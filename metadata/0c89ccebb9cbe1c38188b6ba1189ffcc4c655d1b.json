@@ -1,1 +1,61 @@
-{"title":"Royal Blood - Royal Blood [MP3-320kbps-2014]","uid":10868913,"size":80808129,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0c89ccebb9cbe1c38188b6ba1189ffcc4c655d1b&amp;dn=Royal+Blood+-+Royal+Blood+%5BMP3-320kbps-2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":122,"leechers":2,"uploader":"simpsonrony","files":-1,"time":1408951343,"description":"Source: https://itunes.apple.com/nz/album/royal-blood/id891695026\nPerformer : Royal Blood\nAlbum : Royal Blood\nAudio Format: MP3\nAudio Bitrate: 320Kbps\nEncoded By: SSR\n\nTrack List:\n**********\n\n01 Out of the Black [Explicit]\n02 Come On Over\n03 Figure It Out\n04 You Can Be So Cruel\n05 Blood Hands\n06 Little Monster\n07 Loose Change\n08 Careless\n09 Ten Tonne Skeleton\n10 Better Strangers ","torrent":{"xt":"urn:btih:0c89ccebb9cbe1c38188b6ba1189ffcc4c655d1b","amp;dn":"Royal+Blood+-+Royal+Blood+%5BMP3-320kbps-2014%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0c89ccebb9cbe1c38188b6ba1189ffcc4c655d1b","infoHashBuffer":{"type":"Buffer","data":[12,137,204,235,185,203,225,195,129,136,182,186,17,137,255,204,76,101,93,27]},"announce":[],"urlList":[]}}
+{
+  "title": "Royal Blood - Royal Blood [MP3-320kbps-2014]",
+  "uid": 10868913,
+  "size": 80808129,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0c89ccebb9cbe1c38188b6ba1189ffcc4c655d1b&amp;dn=Royal+Blood+-+Royal+Blood+%5BMP3-320kbps-2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 122,
+  "leechers": 2,
+  "uploader": "simpsonrony",
+  "files": -1,
+  "time": 1408951343,
+  "description": "Source: https://itunes.apple.com/nz/album/royal-blood/id891695026\nPerformer : Royal Blood\nAlbum : Royal Blood\nAudio Format: MP3\nAudio Bitrate: 320Kbps\nEncoded By: SSR\n\nTrack List:\n**********\n\n01 Out of the Black [Explicit]\n02 Come On Over\n03 Figure It Out\n04 You Can Be So Cruel\n05 Blood Hands\n06 Little Monster\n07 Loose Change\n08 Careless\n09 Ten Tonne Skeleton\n10 Better Strangers ",
+  "parsed": {
+    "xt": "urn:btih:0c89ccebb9cbe1c38188b6ba1189ffcc4c655d1b",
+    "dn": "Royal Blood - Royal Blood [MP3-320kbps-2014]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0c89ccebb9cbe1c38188b6ba1189ffcc4c655d1b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        12,
+        137,
+        204,
+        235,
+        185,
+        203,
+        225,
+        195,
+        129,
+        136,
+        182,
+        186,
+        17,
+        137,
+        255,
+        204,
+        76,
+        101,
+        93,
+        27
+      ]
+    },
+    "name": "Royal Blood - Royal Blood [MP3-320kbps-2014]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 124,
+  "peers": 13,
+  "last_updated": "2016-12-24T16:51:12.213Z"
+}

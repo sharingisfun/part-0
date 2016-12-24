@@ -1,1 +1,61 @@
-{"title":"Banshee.S01E03.HDTV.x264-EVOLVE.[VTV].mp4","uid":8065942,"size":324413956,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:0c0d35105945b43ee4b9ccbf9abac19cad8623e7&amp;dn=Banshee.S01E03.HDTV.x264-EVOLVE.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":6,"uploader":"VTV","files":1,"time":1359178328,"description":"Banshee 1x03 (HDTV-x264-EVOLVE)[VTV]","torrent":{"xt":"urn:btih:0c0d35105945b43ee4b9ccbf9abac19cad8623e7","amp;dn":"Banshee.S01E03.HDTV.x264-EVOLVE.%5BVTV%5D.mp4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0c0d35105945b43ee4b9ccbf9abac19cad8623e7","infoHashBuffer":{"type":"Buffer","data":[12,13,53,16,89,69,180,62,228,185,204,191,154,186,193,156,173,134,35,231]},"announce":[],"urlList":[]}}
+{
+  "title": "Banshee.S01E03.HDTV.x264-EVOLVE.[VTV].mp4",
+  "uid": 8065942,
+  "size": 324413956,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:0c0d35105945b43ee4b9ccbf9abac19cad8623e7&amp;dn=Banshee.S01E03.HDTV.x264-EVOLVE.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 6,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1359178328,
+  "description": "Banshee 1x03 (HDTV-x264-EVOLVE)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:0c0d35105945b43ee4b9ccbf9abac19cad8623e7",
+    "dn": "Banshee.S01E03.HDTV.x264-EVOLVE.[VTV].mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0c0d35105945b43ee4b9ccbf9abac19cad8623e7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        12,
+        13,
+        53,
+        16,
+        89,
+        69,
+        180,
+        62,
+        228,
+        185,
+        204,
+        191,
+        154,
+        186,
+        193,
+        156,
+        173,
+        134,
+        35,
+        231
+      ]
+    },
+    "name": "Banshee.S01E03.HDTV.x264-EVOLVE.[VTV].mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 22,
+  "last_updated": "2016-12-24T16:47:35.333Z"
+}

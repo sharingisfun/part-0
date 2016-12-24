@@ -1,1 +1,61 @@
-{"title":"Scorpion.S01E22.HDTV.x264-LOL[ettv]","uid":11829588,"size":336930091,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:0b65ba4f51a4dddf279db506c669801379c1a093&amp;dn=Scorpion.S01E22.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":376,"leechers":67,"uploader":"ettv","files":4,"time":1429588976,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:0b65ba4f51a4dddf279db506c669801379c1a093","amp;dn":"Scorpion.S01E22.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0b65ba4f51a4dddf279db506c669801379c1a093","infoHashBuffer":{"type":"Buffer","data":[11,101,186,79,81,164,221,223,39,157,181,6,198,105,128,19,121,193,160,147]},"announce":[],"urlList":[]}}
+{
+  "title": "Scorpion.S01E22.HDTV.x264-LOL[ettv]",
+  "uid": 11829588,
+  "size": 336930091,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:0b65ba4f51a4dddf279db506c669801379c1a093&amp;dn=Scorpion.S01E22.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 376,
+  "leechers": 67,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1429588976,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:0b65ba4f51a4dddf279db506c669801379c1a093",
+    "dn": "Scorpion.S01E22.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0b65ba4f51a4dddf279db506c669801379c1a093",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        11,
+        101,
+        186,
+        79,
+        81,
+        164,
+        221,
+        223,
+        39,
+        157,
+        181,
+        6,
+        198,
+        105,
+        128,
+        19,
+        121,
+        193,
+        160,
+        147
+      ]
+    },
+    "name": "Scorpion.S01E22.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 443,
+  "peers": 25,
+  "last_updated": "2016-12-24T16:42:07.967Z"
+}

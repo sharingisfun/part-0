@@ -1,1 +1,61 @@
-{"title":"Mac OS X 10.7 Install DVD.iso","uid":6861882,"size":4473169920,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:0d4aefbd872e8dcadf181c608068dbc4ecd2f038&amp;dn=Mac+OS+X+10.7+Install+DVD.iso&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":9,"uploader":"Olarila","files":1,"time":1322930900,"description":"Mac OS X 10.7 Lion Install DVD Bootable... (INTEL ONLY) just burn it and installit....\n:0)) AND GUYS...PLEASE..... SEED IT... :D\n\nMD5 (Mac OS X 10.7 Install DVD.iso) = 1e0d5d5355d659a7c146a1bc67f1badb\n\nContents:\n\nInstall Mac OS X Lion.app (GM) from App Store\nMD5 (InstallESD.dmg) = b5d3753c62bfb69866e94dca9336a44a\n\nPatched/added files:\n\nSystem/Installation/Packages/OSInstall.mpkg (patched: MBR, Platform check, 2 GB RAM check)\nSystem/Library/PrivateFrameworks/Install.framework/Frameworks/OSInstall.framework/Versions/A/OSInstall (patched: MBR by nawcom)\nSystem/Library/Caches/com.apple.kext.caches/Startup/Extensions.mkext (added kext cache to speed boot)\nusr/standalone/i386/cdboot (added Chameleon v2.1svn r1703)\nExtra\nExtra/Preboot.dmg\n\nPreboot.dmg contents:\nExtra/Extensions.mkext\nExtra/org.chameleon.Boot.plist\n\nExtensions.mkext contents:\nFakeSMC.kext\nAppleACPIPS2Nub.kext\nVoodooPS2Controller.kext\nVoodooPS2Keyboard.kext\nVoodooPS2Mouse.kext\nVoodooPS2Trackpad.kext\nNullCPUPowerManagement.kext\n\nThe boot: prompt waits for you to type advanced startup options. (just press F8 to enter the prompt)\n\nIf you don\\'t type anything, the computer continues starting up normally. It\nuses the kernel and configuration files on the startup device, which it also\nuses as the root device.\n\nSome Useful Boot Options: USBBusFix=Yes... GraphicsEnabler=Yes or No...-v (Verbose Mode)...-x (Safe Mode)....-s (Single User Mode)....\n\nAtt: here`s the link for all boot flags and some examples...  &lt;a href=&quot;\nhttp://forge.voodooprojects.org/p/chameleon/source/tree/HEAD/trunk/doc/BootHelp.txt&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://forge.voodooprojects.org/p/chameleon/source/tree/HEAD/trunk/doc/BootHelp.txt&lt;/a&gt;","torrent":{"xt":"urn:btih:0d4aefbd872e8dcadf181c608068dbc4ecd2f038","amp;dn":"Mac+OS+X+10.7+Install+DVD.iso","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0d4aefbd872e8dcadf181c608068dbc4ecd2f038","infoHashBuffer":{"type":"Buffer","data":[13,74,239,189,135,46,141,202,223,24,28,96,128,104,219,196,236,210,240,56]},"announce":[],"urlList":[]}}
+{
+  "title": "Mac OS X 10.7 Install DVD.iso",
+  "uid": 6861882,
+  "size": 4473169920,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:0d4aefbd872e8dcadf181c608068dbc4ecd2f038&amp;dn=Mac+OS+X+10.7+Install+DVD.iso&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 9,
+  "uploader": "Olarila",
+  "files": 1,
+  "time": 1322930900,
+  "description": "Mac OS X 10.7 Lion Install DVD Bootable... (INTEL ONLY) just burn it and installit....\n:0)) AND GUYS...PLEASE..... SEED IT... :D\n\nMD5 (Mac OS X 10.7 Install DVD.iso) = 1e0d5d5355d659a7c146a1bc67f1badb\n\nContents:\n\nInstall Mac OS X Lion.app (GM) from App Store\nMD5 (InstallESD.dmg) = b5d3753c62bfb69866e94dca9336a44a\n\nPatched/added files:\n\nSystem/Installation/Packages/OSInstall.mpkg (patched: MBR, Platform check, 2 GB RAM check)\nSystem/Library/PrivateFrameworks/Install.framework/Frameworks/OSInstall.framework/Versions/A/OSInstall (patched: MBR by nawcom)\nSystem/Library/Caches/com.apple.kext.caches/Startup/Extensions.mkext (added kext cache to speed boot)\nusr/standalone/i386/cdboot (added Chameleon v2.1svn r1703)\nExtra\nExtra/Preboot.dmg\n\nPreboot.dmg contents:\nExtra/Extensions.mkext\nExtra/org.chameleon.Boot.plist\n\nExtensions.mkext contents:\nFakeSMC.kext\nAppleACPIPS2Nub.kext\nVoodooPS2Controller.kext\nVoodooPS2Keyboard.kext\nVoodooPS2Mouse.kext\nVoodooPS2Trackpad.kext\nNullCPUPowerManagement.kext\n\nThe boot: prompt waits for you to type advanced startup options. (just press F8 to enter the prompt)\n\nIf you don\\'t type anything, the computer continues starting up normally. It\nuses the kernel and configuration files on the startup device, which it also\nuses as the root device.\n\nSome Useful Boot Options: USBBusFix=Yes... GraphicsEnabler=Yes or No...-v (Verbose Mode)...-x (Safe Mode)....-s (Single User Mode)....\n\nAtt: here`s the link for all boot flags and some examples...  &lt;a href=&quot;\nhttp://forge.voodooprojects.org/p/chameleon/source/tree/HEAD/trunk/doc/BootHelp.txt&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://forge.voodooprojects.org/p/chameleon/source/tree/HEAD/trunk/doc/BootHelp.txt&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:0d4aefbd872e8dcadf181c608068dbc4ecd2f038",
+    "dn": "Mac OS X 10.7 Install DVD.iso",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0d4aefbd872e8dcadf181c608068dbc4ecd2f038",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        13,
+        74,
+        239,
+        189,
+        135,
+        46,
+        141,
+        202,
+        223,
+        24,
+        28,
+        96,
+        128,
+        104,
+        219,
+        196,
+        236,
+        210,
+        240,
+        56
+      ]
+    },
+    "name": "Mac OS X 10.7 Install DVD.iso",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 84,
+  "last_updated": "2016-12-24T16:57:11.840Z"
+}

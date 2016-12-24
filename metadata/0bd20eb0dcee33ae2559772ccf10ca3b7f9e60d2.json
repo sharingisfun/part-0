@@ -1,1 +1,61 @@
-{"title":"Rebelution - Peace Of Mind (Deluxe) - 128 kbps","uid":6955476,"size":142526927,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0bd20eb0dcee33ae2559772ccf10ca3b7f9e60d2&amp;dn=Rebelution+-+Peace+Of+Mind+%28Deluxe%29+-+128+kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":1,"uploader":"troozdell","files":36,"time":1326561095,"description":"Rebelution - Peace of Mind deluxe album Includes the full 12 track album in studio, acoustic and dub versions for a total of 36 tracks. \n\nTracklisting: \n 1. Sky is the Limit \n 2. Comfort Zone \n 3. Good Vibes (Feat. Lutan Fyah) \n 4. Route Around \n 5. Meant to Be (Feat. Jacob Hemphill of SOJA) \n 6. Life on the Line \n 7. Closer I Get (Feat. John Popper) \n 8. Lady in White \n 9. So High (Feat. Zumbi of Zion I) \n10. Day By Day \n11. Calling Me Out \n12. Honeypot","torrent":{"xt":"urn:btih:0bd20eb0dcee33ae2559772ccf10ca3b7f9e60d2","amp;dn":"Rebelution+-+Peace+Of+Mind+%28Deluxe%29+-+128+kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0bd20eb0dcee33ae2559772ccf10ca3b7f9e60d2","infoHashBuffer":{"type":"Buffer","data":[11,210,14,176,220,238,51,174,37,89,119,44,207,16,202,59,127,158,96,210]},"announce":[],"urlList":[]}}
+{
+  "title": "Rebelution - Peace Of Mind (Deluxe) - 128 kbps",
+  "uid": 6955476,
+  "size": 142526927,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0bd20eb0dcee33ae2559772ccf10ca3b7f9e60d2&amp;dn=Rebelution+-+Peace+Of+Mind+%28Deluxe%29+-+128+kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 1,
+  "uploader": "troozdell",
+  "files": 36,
+  "time": 1326561095,
+  "description": "Rebelution - Peace of Mind deluxe album Includes the full 12 track album in studio, acoustic and dub versions for a total of 36 tracks. \n\nTracklisting: \n 1. Sky is the Limit \n 2. Comfort Zone \n 3. Good Vibes (Feat. Lutan Fyah) \n 4. Route Around \n 5. Meant to Be (Feat. Jacob Hemphill of SOJA) \n 6. Life on the Line \n 7. Closer I Get (Feat. John Popper) \n 8. Lady in White \n 9. So High (Feat. Zumbi of Zion I) \n10. Day By Day \n11. Calling Me Out \n12. Honeypot",
+  "parsed": {
+    "xt": "urn:btih:0bd20eb0dcee33ae2559772ccf10ca3b7f9e60d2",
+    "dn": "Rebelution - Peace Of Mind (Deluxe) - 128 kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0bd20eb0dcee33ae2559772ccf10ca3b7f9e60d2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        11,
+        210,
+        14,
+        176,
+        220,
+        238,
+        51,
+        174,
+        37,
+        89,
+        119,
+        44,
+        207,
+        16,
+        202,
+        59,
+        127,
+        158,
+        96,
+        210
+      ]
+    },
+    "name": "Rebelution - Peace Of Mind (Deluxe) - 128 kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 32,
+  "last_updated": "2016-12-24T16:46:12.995Z"
+}

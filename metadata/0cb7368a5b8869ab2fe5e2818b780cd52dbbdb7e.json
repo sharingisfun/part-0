@@ -1,1 +1,61 @@
-{"title":"Warcraft 3 ROC Davidh42aaa","uid":3779507,"size":740821200,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:0cb7368a5b8869ab2fe5e2818b780cd52dbbdb7e&amp;dn=Warcraft+3+ROC+Davidh42aaa&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":1,"uploader":"davidh42aaa","files":1,"time":1187644175,"description":"Warcraft 3 Reign of Chaos..","torrent":{"xt":"urn:btih:0cb7368a5b8869ab2fe5e2818b780cd52dbbdb7e","amp;dn":"Warcraft+3+ROC+Davidh42aaa","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0cb7368a5b8869ab2fe5e2818b780cd52dbbdb7e","infoHashBuffer":{"type":"Buffer","data":[12,183,54,138,91,136,105,171,47,229,226,129,139,120,12,213,45,187,219,126]},"announce":[],"urlList":[]}}
+{
+  "title": "Warcraft 3 ROC Davidh42aaa",
+  "uid": 3779507,
+  "size": 740821200,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:0cb7368a5b8869ab2fe5e2818b780cd52dbbdb7e&amp;dn=Warcraft+3+ROC+Davidh42aaa&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 1,
+  "uploader": "davidh42aaa",
+  "files": 1,
+  "time": 1187644175,
+  "description": "Warcraft 3 Reign of Chaos..",
+  "parsed": {
+    "xt": "urn:btih:0cb7368a5b8869ab2fe5e2818b780cd52dbbdb7e",
+    "dn": "Warcraft 3 ROC Davidh42aaa",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0cb7368a5b8869ab2fe5e2818b780cd52dbbdb7e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        12,
+        183,
+        54,
+        138,
+        91,
+        136,
+        105,
+        171,
+        47,
+        229,
+        226,
+        129,
+        139,
+        120,
+        12,
+        213,
+        45,
+        187,
+        219,
+        126
+      ]
+    },
+    "name": "Warcraft 3 ROC Davidh42aaa",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 138,
+  "last_updated": "2016-12-24T16:52:34.693Z"
+}

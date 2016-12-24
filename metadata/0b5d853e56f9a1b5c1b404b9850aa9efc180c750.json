@@ -1,1 +1,61 @@
-{"title":"Coldplay - Ghost Stories (Mp3 @VBRV0)","uid":10618500,"size":108883716,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:0b5d853e56f9a1b5c1b404b9850aa9efc180c750&amp;dn=Coldplay+-+Ghost+Stories+%28Mp3+%40VBRV0%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":100,"leechers":0,"uploader":"TheVaultMusic","files":12,"time":1406148786,"description":"Album Name: Ghost Stories\n\nGenre: Alternative / Rock\n\nFormat: Mp3\n\nBit Rate: VBR\n\nSize: 104.50MB\n\nYear Of Release: 2014\n\nTracklist:\n\n\n01. Always In My Head\n\n02. Magic\n\n03. Ink\n\n04. True Love\n\n05. Midnight\n\n06. Anothers Arms\n\n07. Oceans\n\n08. A Sky Full Of Stars\n\n09. O\n\nwebsite: http://www.thevaultmusic.net","torrent":{"xt":"urn:btih:0b5d853e56f9a1b5c1b404b9850aa9efc180c750","amp;dn":"Coldplay+-+Ghost+Stories+%28Mp3+%40VBRV0%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0b5d853e56f9a1b5c1b404b9850aa9efc180c750","infoHashBuffer":{"type":"Buffer","data":[11,93,133,62,86,249,161,181,193,180,4,185,133,10,169,239,193,128,199,80]},"announce":[],"urlList":[]}}
+{
+  "title": "Coldplay - Ghost Stories (Mp3 @VBRV0)",
+  "uid": 10618500,
+  "size": 108883716,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:0b5d853e56f9a1b5c1b404b9850aa9efc180c750&amp;dn=Coldplay+-+Ghost+Stories+%28Mp3+%40VBRV0%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 100,
+  "leechers": 0,
+  "uploader": "TheVaultMusic",
+  "files": 12,
+  "time": 1406148786,
+  "description": "Album Name: Ghost Stories\n\nGenre: Alternative / Rock\n\nFormat: Mp3\n\nBit Rate: VBR\n\nSize: 104.50MB\n\nYear Of Release: 2014\n\nTracklist:\n\n\n01. Always In My Head\n\n02. Magic\n\n03. Ink\n\n04. True Love\n\n05. Midnight\n\n06. Anothers Arms\n\n07. Oceans\n\n08. A Sky Full Of Stars\n\n09. O\n\nwebsite: http://www.thevaultmusic.net",
+  "parsed": {
+    "xt": "urn:btih:0b5d853e56f9a1b5c1b404b9850aa9efc180c750",
+    "dn": "Coldplay - Ghost Stories (Mp3 @VBRV0)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0b5d853e56f9a1b5c1b404b9850aa9efc180c750",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        11,
+        93,
+        133,
+        62,
+        86,
+        249,
+        161,
+        181,
+        193,
+        180,
+        4,
+        185,
+        133,
+        10,
+        169,
+        239,
+        193,
+        128,
+        199,
+        80
+      ]
+    },
+    "name": "Coldplay - Ghost Stories (Mp3 @VBRV0)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 100,
+  "peers": 190,
+  "last_updated": "2016-12-24T16:41:47.881Z"
+}

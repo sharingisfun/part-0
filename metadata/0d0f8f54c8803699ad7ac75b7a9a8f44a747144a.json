@@ -1,1 +1,61 @@
-{"title":"Niresh 12495 OSX 10.8 ISO for Windows Computers","uid":7611973,"size":4700071813,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:0d0f8f54c8803699ad7ac75b7a9a8f44a747144a&amp;dn=Niresh+12495+OSX+10.8+ISO+for+Windows+Computers&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":6,"uploader":"adnan1102","files":-1,"time":1347093037,"description":"Torrent Originally Created by Niresh12495\n\n\n\n\n\nInstructions:-\n\nBurn The ISO to a DvD Then boot From it\nand Don't Forgot to Edit The Bios Settings\nSATA as AHCI\nACPI as S3\nLegacyUSB as ON\nUEFI Boot to OFF (In Some MotherBoards it May Cause to Stuck on Boot0 Error)\nand Remove All Unnecessary USB Devices Except KB and Mouse\nInstalling on an External Volume Will Probably Fail Because External Volumes are Now Owned by Root\n\nThis Distro Support MBR so You Can Erase The First Partiton as &quot;Mac OS X Extended (Journaled)&quot;\nand Install Without Wiping The Entire Partition\n\nIt is Better to try USB Installation\n\nHp Laptop Users Type\n&quot;Kernel Cache&quot;=/hp -v\nBefore Booting\n\nAtom Users type\n&quot;Kernel Cache&quot;=/atom -v\nBefore Booting\n\nWarning\nDo Not Select Any FakeSMC Plugins","torrent":{"xt":"urn:btih:0d0f8f54c8803699ad7ac75b7a9a8f44a747144a","amp;dn":"Niresh+12495+OSX+10.8+ISO+for+Windows+Computers","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0d0f8f54c8803699ad7ac75b7a9a8f44a747144a","infoHashBuffer":{"type":"Buffer","data":[13,15,143,84,200,128,54,153,173,122,199,91,122,154,143,68,167,71,20,74]},"announce":[],"urlList":[]}}
+{
+  "title": "Niresh 12495 OSX 10.8 ISO for Windows Computers",
+  "uid": 7611973,
+  "size": 4700071813,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:0d0f8f54c8803699ad7ac75b7a9a8f44a747144a&amp;dn=Niresh+12495+OSX+10.8+ISO+for+Windows+Computers&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 6,
+  "uploader": "adnan1102",
+  "files": -1,
+  "time": 1347093037,
+  "description": "Torrent Originally Created by Niresh12495\n\n\n\n\n\nInstructions:-\n\nBurn The ISO to a DvD Then boot From it\nand Don't Forgot to Edit The Bios Settings\nSATA as AHCI\nACPI as S3\nLegacyUSB as ON\nUEFI Boot to OFF (In Some MotherBoards it May Cause to Stuck on Boot0 Error)\nand Remove All Unnecessary USB Devices Except KB and Mouse\nInstalling on an External Volume Will Probably Fail Because External Volumes are Now Owned by Root\n\nThis Distro Support MBR so You Can Erase The First Partiton as &quot;Mac OS X Extended (Journaled)&quot;\nand Install Without Wiping The Entire Partition\n\nIt is Better to try USB Installation\n\nHp Laptop Users Type\n&quot;Kernel Cache&quot;=/hp -v\nBefore Booting\n\nAtom Users type\n&quot;Kernel Cache&quot;=/atom -v\nBefore Booting\n\nWarning\nDo Not Select Any FakeSMC Plugins",
+  "parsed": {
+    "xt": "urn:btih:0d0f8f54c8803699ad7ac75b7a9a8f44a747144a",
+    "dn": "Niresh 12495 OSX 10.8 ISO for Windows Computers",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0d0f8f54c8803699ad7ac75b7a9a8f44a747144a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        13,
+        15,
+        143,
+        84,
+        200,
+        128,
+        54,
+        153,
+        173,
+        122,
+        199,
+        91,
+        122,
+        154,
+        143,
+        68,
+        167,
+        71,
+        20,
+        74
+      ]
+    },
+    "name": "Niresh 12495 OSX 10.8 ISO for Windows Computers",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 49,
+  "last_updated": "2016-12-24T16:55:27.436Z"
+}

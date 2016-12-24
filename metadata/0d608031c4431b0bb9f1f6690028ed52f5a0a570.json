@@ -1,1 +1,61 @@
-{"title":"Not Another Teen Movie[ENG][2001] -Jns","uid":4695795,"size":731148288,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:0d608031c4431b0bb9f1f6690028ed52f5a0a570&amp;dn=Not+Another+Teen+Movie%5BENG%5D%5B2001%5D+-Jns&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":5,"uploader":"allovher","files":-1,"time":1233552559,"description":"A sendup of all the teen movies that have accumulated in the past two decades.  &lt;a href=&quot;\nhttp://www.imdb.com/title/tt0277371/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt0277371/&lt;/a&gt;\n\nTrailer: &lt;a href=&quot;\nhttp://www.imdb.com/video/screenplay/vi547225881/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/video/screenplay/vi547225881/&lt;/a&gt;","torrent":{"xt":"urn:btih:0d608031c4431b0bb9f1f6690028ed52f5a0a570","amp;dn":"Not+Another+Teen+Movie%5BENG%5D%5B2001%5D+-Jns","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0d608031c4431b0bb9f1f6690028ed52f5a0a570","infoHashBuffer":{"type":"Buffer","data":[13,96,128,49,196,67,27,11,185,241,246,105,0,40,237,82,245,160,165,112]},"announce":[],"urlList":[]}}
+{
+  "title": "Not Another Teen Movie[ENG][2001] -Jns",
+  "uid": 4695795,
+  "size": 731148288,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:0d608031c4431b0bb9f1f6690028ed52f5a0a570&amp;dn=Not+Another+Teen+Movie%5BENG%5D%5B2001%5D+-Jns&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 5,
+  "uploader": "allovher",
+  "files": -1,
+  "time": 1233552559,
+  "description": "A sendup of all the teen movies that have accumulated in the past two decades.  &lt;a href=&quot;\nhttp://www.imdb.com/title/tt0277371/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt0277371/&lt;/a&gt;\n\nTrailer: &lt;a href=&quot;\nhttp://www.imdb.com/video/screenplay/vi547225881/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/video/screenplay/vi547225881/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:0d608031c4431b0bb9f1f6690028ed52f5a0a570",
+    "dn": "Not Another Teen Movie[ENG][2001] -Jns",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0d608031c4431b0bb9f1f6690028ed52f5a0a570",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        13,
+        96,
+        128,
+        49,
+        196,
+        67,
+        27,
+        11,
+        185,
+        241,
+        246,
+        105,
+        0,
+        40,
+        237,
+        82,
+        245,
+        160,
+        165,
+        112
+      ]
+    },
+    "name": "Not Another Teen Movie[ENG][2001] -Jns",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 66,
+  "peers": 33,
+  "last_updated": "2016-12-24T16:57:35.985Z"
+}

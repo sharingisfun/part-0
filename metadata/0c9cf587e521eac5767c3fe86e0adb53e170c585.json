@@ -1,1 +1,61 @@
-{"title":"Microsoft Office for Mac Home and Business 2011 v14.1.3","uid":6980465,"size":1335792282,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:0c9cf587e521eac5767c3fe86e0adb53e170c585&amp;dn=Microsoft+Office+for+Mac+Home+and+Business+2011+v14.1.3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":218,"leechers":8,"uploader":"appraider","files":1,"time":1327385163,"description":"No serial required. Installation Instructions included. Tested and working.\n\n\n\nWhat is the difference between Office 2011 Home and Student and Office 2011 Home and Bussiness?\n\n1. Work product from the Home &amp; Student edition must be for exactly that, home use or student use. The license stipulates that you cannot use this version for commercial, governmental, non-profit organization nor any other activities outside of literally home &amp; student use. \n\n2. The Business version contains Outlook, the Student edition doesn't. \n\n3. Both versions have multiple-license options. The prices listed here for the Home &amp; Student version appear to be the single license. The Home version does have a 3 license option available at some retailers. \n\nFor complete info, refer to Microsoft's Office for Mac site.","torrent":{"xt":"urn:btih:0c9cf587e521eac5767c3fe86e0adb53e170c585","amp;dn":"Microsoft+Office+for+Mac+Home+and+Business+2011+v14.1.3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0c9cf587e521eac5767c3fe86e0adb53e170c585","infoHashBuffer":{"type":"Buffer","data":[12,156,245,135,229,33,234,197,118,124,63,232,110,10,219,83,225,112,197,133]},"announce":[],"urlList":[]}}
+{
+  "title": "Microsoft Office for Mac Home and Business 2011 v14.1.3",
+  "uid": 6980465,
+  "size": 1335792282,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:0c9cf587e521eac5767c3fe86e0adb53e170c585&amp;dn=Microsoft+Office+for+Mac+Home+and+Business+2011+v14.1.3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 218,
+  "leechers": 8,
+  "uploader": "appraider",
+  "files": 1,
+  "time": 1327385163,
+  "description": "No serial required. Installation Instructions included. Tested and working.\n\n\n\nWhat is the difference between Office 2011 Home and Student and Office 2011 Home and Bussiness?\n\n1. Work product from the Home &amp; Student edition must be for exactly that, home use or student use. The license stipulates that you cannot use this version for commercial, governmental, non-profit organization nor any other activities outside of literally home &amp; student use. \n\n2. The Business version contains Outlook, the Student edition doesn't. \n\n3. Both versions have multiple-license options. The prices listed here for the Home &amp; Student version appear to be the single license. The Home version does have a 3 license option available at some retailers. \n\nFor complete info, refer to Microsoft's Office for Mac site.",
+  "parsed": {
+    "xt": "urn:btih:0c9cf587e521eac5767c3fe86e0adb53e170c585",
+    "dn": "Microsoft Office for Mac Home and Business 2011 v14.1.3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0c9cf587e521eac5767c3fe86e0adb53e170c585",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        12,
+        156,
+        245,
+        135,
+        229,
+        33,
+        234,
+        197,
+        118,
+        124,
+        63,
+        232,
+        110,
+        10,
+        219,
+        83,
+        225,
+        112,
+        197,
+        133
+      ]
+    },
+    "name": "Microsoft Office for Mac Home and Business 2011 v14.1.3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 226,
+  "peers": 30,
+  "last_updated": "2016-12-24T16:51:54.399Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Linux Shell Scripting Cookbook 2nd Ed (2013)","uid":8953142,"size":6394285,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:0c6ceaf9faedef5069434c47648893823d889d6e&amp;dn=Linux+Shell+Scripting+Cookbook+2nd+Ed+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":"d347hBy73","files":-1,"time":1379936870,"description":"Linux Shell Scripting Cookbook, 2nd Edition\n\nBook Details:\n\nPages: 384 \nPublisher: Packt Publishing; 2nd Edition (May 2013)\nLanguage: English\nISBN-10: 1782162747\nISBN-13: 978-1782162742\nFormat: PDF, EPUB\n\n\nBook Description:\n\nThe shell remains one of the most powerful tools on a computer system  yet a large number of users are unaware of how much one can accomplish with it. Using a combination of simple commands, we will see how to solve complex problems in day to day computer usage.\n\nLinux Shell Scripting Cookbook, Second Edition will take you through useful real-world recipes designed to make your daily life easy when working with the shell. The book shows the reader how to effectively use the shell to accomplish complex tasks with ease.\n\nThe book discusses basics of using the shell, general commands and proceeds to show the reader how to use them to perform complex tasks with ease.\n\nStarting with the basics of the shell, we will learn simple commands with their usages allowing us to perform operations on files of different kind. The book then proceeds to explain text processing, web interaction and concludes with backups, monitoring and other sysadmin tasks.\n\nLinux Shell Scripting Cookbook, Second Edition serves as an excellent guide to solving day to day problems using the shell and few powerful commands together to create solutions.\n\nWhat you will learn from this book:\n\nExplore a variety of regular usage tasks and how it can be made faster using shell command\nWrite shell scripts that can dig data from web and process it with few lines of code\nUse different kinds of tools together to create solutions\nInteract with simple web API from scripts\nPerform and automate tasks such as automating backups and restore with archiving tools\nCreate and maintain file/folder archives, compression formats and encrypting techniques with shell\nSet up Ethernet and Wireless LAN with the shell script\nMonitor different activities on the network using logging techniques\n\nApproach:\n\nThis book is written in cookbook style and it offers learning through recipes with examples and illustrations. Each recipe contains step-by-step instructions about everything necessary to execute a particular task. The book is designed so that you can read it from start to end for beginners or just open up any chapter and start following the recipes as a reference for advanced users.\n\nWho this book is for?:\n\nThis book is both for the casual GNU/Linux users who want to do amazing things with the shell, and for advanced users looking for ways to make their lives with the shell more productive.\n\nYou can start writing scripts and one-liners by simply looking at the similar recipe and its descriptions without any working knowledge of shell scripting or Linux. Intermediate/advanced users as well as system administrators/ developers and programmers can use this book as a reference when they face problems while coding.\n","torrent":{"xt":"urn:btih:0c6ceaf9faedef5069434c47648893823d889d6e","amp;dn":"Linux+Shell+Scripting+Cookbook+2nd+Ed+%282013%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0c6ceaf9faedef5069434c47648893823d889d6e","infoHashBuffer":{"type":"Buffer","data":[12,108,234,249,250,237,239,80,105,67,76,71,100,136,147,130,61,136,157,110]},"announce":[],"urlList":[]}}
+{
+  "title": "Linux Shell Scripting Cookbook 2nd Ed (2013)",
+  "uid": 8953142,
+  "size": 6394285,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:0c6ceaf9faedef5069434c47648893823d889d6e&amp;dn=Linux+Shell+Scripting+Cookbook+2nd+Ed+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": "d347hBy73",
+  "files": -1,
+  "time": 1379936870,
+  "description": "Linux Shell Scripting Cookbook, 2nd Edition\n\nBook Details:\n\nPages: 384 \nPublisher: Packt Publishing; 2nd Edition (May 2013)\nLanguage: English\nISBN-10: 1782162747\nISBN-13: 978-1782162742\nFormat: PDF, EPUB\n\n\nBook Description:\n\nThe shell remains one of the most powerful tools on a computer system  yet a large number of users are unaware of how much one can accomplish with it. Using a combination of simple commands, we will see how to solve complex problems in day to day computer usage.\n\nLinux Shell Scripting Cookbook, Second Edition will take you through useful real-world recipes designed to make your daily life easy when working with the shell. The book shows the reader how to effectively use the shell to accomplish complex tasks with ease.\n\nThe book discusses basics of using the shell, general commands and proceeds to show the reader how to use them to perform complex tasks with ease.\n\nStarting with the basics of the shell, we will learn simple commands with their usages allowing us to perform operations on files of different kind. The book then proceeds to explain text processing, web interaction and concludes with backups, monitoring and other sysadmin tasks.\n\nLinux Shell Scripting Cookbook, Second Edition serves as an excellent guide to solving day to day problems using the shell and few powerful commands together to create solutions.\n\nWhat you will learn from this book:\n\nExplore a variety of regular usage tasks and how it can be made faster using shell command\nWrite shell scripts that can dig data from web and process it with few lines of code\nUse different kinds of tools together to create solutions\nInteract with simple web API from scripts\nPerform and automate tasks such as automating backups and restore with archiving tools\nCreate and maintain file/folder archives, compression formats and encrypting techniques with shell\nSet up Ethernet and Wireless LAN with the shell script\nMonitor different activities on the network using logging techniques\n\nApproach:\n\nThis book is written in cookbook style and it offers learning through recipes with examples and illustrations. Each recipe contains step-by-step instructions about everything necessary to execute a particular task. The book is designed so that you can read it from start to end for beginners or just open up any chapter and start following the recipes as a reference for advanced users.\n\nWho this book is for?:\n\nThis book is both for the casual GNU/Linux users who want to do amazing things with the shell, and for advanced users looking for ways to make their lives with the shell more productive.\n\nYou can start writing scripts and one-liners by simply looking at the similar recipe and its descriptions without any working knowledge of shell scripting or Linux. Intermediate/advanced users as well as system administrators/ developers and programmers can use this book as a reference when they face problems while coding.\n",
+  "parsed": {
+    "xt": "urn:btih:0c6ceaf9faedef5069434c47648893823d889d6e",
+    "dn": "Linux Shell Scripting Cookbook 2nd Ed (2013)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0c6ceaf9faedef5069434c47648893823d889d6e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        12,
+        108,
+        234,
+        249,
+        250,
+        237,
+        239,
+        80,
+        105,
+        67,
+        76,
+        71,
+        100,
+        136,
+        147,
+        130,
+        61,
+        136,
+        157,
+        110
+      ]
+    },
+    "name": "Linux Shell Scripting Cookbook 2nd Ed (2013)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 24,
+  "last_updated": "2016-12-24T16:50:07.933Z"
+}

@@ -1,1 +1,61 @@
-{"title":"The.Brink.S01E02.HDTV.x264-ASAP[ettv]","uid":12072510,"size":175047762,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:0b9f84ed20fe0f6d488d2927ee43c08ebcd084a9&amp;dn=The.Brink.S01E02.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":383,"leechers":10,"uploader":"ettv","files":3,"time":1435554315,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                    &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:0b9f84ed20fe0f6d488d2927ee43c08ebcd084a9","amp;dn":"The.Brink.S01E02.HDTV.x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0b9f84ed20fe0f6d488d2927ee43c08ebcd084a9","infoHashBuffer":{"type":"Buffer","data":[11,159,132,237,32,254,15,109,72,141,41,39,238,67,192,142,188,208,132,169]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Brink.S01E02.HDTV.x264-ASAP[ettv]",
+  "uid": 12072510,
+  "size": 175047762,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:0b9f84ed20fe0f6d488d2927ee43c08ebcd084a9&amp;dn=The.Brink.S01E02.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 383,
+  "leechers": 10,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1435554315,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                    &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:0b9f84ed20fe0f6d488d2927ee43c08ebcd084a9",
+    "dn": "The.Brink.S01E02.HDTV.x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0b9f84ed20fe0f6d488d2927ee43c08ebcd084a9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        11,
+        159,
+        132,
+        237,
+        32,
+        254,
+        15,
+        109,
+        72,
+        141,
+        41,
+        39,
+        238,
+        67,
+        192,
+        142,
+        188,
+        208,
+        132,
+        169
+      ]
+    },
+    "name": "The.Brink.S01E02.HDTV.x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 393,
+  "peers": 16,
+  "last_updated": "2016-12-24T16:44:30.558Z"
+}

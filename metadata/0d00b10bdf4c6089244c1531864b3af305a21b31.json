@@ -1,1 +1,61 @@
-{"title":"Final Cut Pro X 10.0.9 Mac OS X [pogackers]","uid":9035091,"size":1582186292,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:0d00b10bdf4c6089244c1531864b3af305a21b31&amp;dn=Final+Cut+Pro+X+10.0.9+Mac+OS+X+%5Bpogackers%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":3,"uploader":"pogackers","files":-1,"time":1381450818,"description":"/* Always the latest shares. Before anyone else. */\n\nWhatÃ¢â‚¬â„¢s New in Version 10.0.9\n\nAddresses issues resulting in green artifacts when using Sony XAVC media\nFixes several issues related to interlaced media and retimed segments which could cause exports to not complete\nIncludes stability improvements\n &lt;a href=&quot;\nhttp://www.apple.com/finalcutpro/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.apple.com/finalcutpro/&lt;/a&gt;\n\nEnjoy!","torrent":{"xt":"urn:btih:0d00b10bdf4c6089244c1531864b3af305a21b31","amp;dn":"Final+Cut+Pro+X+10.0.9+Mac+OS+X+%5Bpogackers%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0d00b10bdf4c6089244c1531864b3af305a21b31","infoHashBuffer":{"type":"Buffer","data":[13,0,177,11,223,76,96,137,36,76,21,49,134,75,58,243,5,162,27,49]},"announce":[],"urlList":[]}}
+{
+  "title": "Final Cut Pro X 10.0.9 Mac OS X [pogackers]",
+  "uid": 9035091,
+  "size": 1582186292,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:0d00b10bdf4c6089244c1531864b3af305a21b31&amp;dn=Final+Cut+Pro+X+10.0.9+Mac+OS+X+%5Bpogackers%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 3,
+  "uploader": "pogackers",
+  "files": -1,
+  "time": 1381450818,
+  "description": "/* Always the latest shares. Before anyone else. */\n\nWhatÃ¢â‚¬â„¢s New in Version 10.0.9\n\nAddresses issues resulting in green artifacts when using Sony XAVC media\nFixes several issues related to interlaced media and retimed segments which could cause exports to not complete\nIncludes stability improvements\n &lt;a href=&quot;\nhttp://www.apple.com/finalcutpro/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.apple.com/finalcutpro/&lt;/a&gt;\n\nEnjoy!",
+  "parsed": {
+    "xt": "urn:btih:0d00b10bdf4c6089244c1531864b3af305a21b31",
+    "dn": "Final Cut Pro X 10.0.9 Mac OS X [pogackers]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0d00b10bdf4c6089244c1531864b3af305a21b31",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        13,
+        0,
+        177,
+        11,
+        223,
+        76,
+        96,
+        137,
+        36,
+        76,
+        21,
+        49,
+        134,
+        75,
+        58,
+        243,
+        5,
+        162,
+        27,
+        49
+      ]
+    },
+    "name": "Final Cut Pro X 10.0.9 Mac OS X [pogackers]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 6,
+  "last_updated": "2016-12-24T16:54:51.251Z"
+}
