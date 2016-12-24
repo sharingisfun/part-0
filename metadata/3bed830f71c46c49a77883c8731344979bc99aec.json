@@ -1,1 +1,61 @@
-{"title":"The League Season 1","uid":6408645,"size":1345467510,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3bed830f71c46c49a77883c8731344979bc99aec&amp;dn=The+League+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":9,"uploader":"j4dyce","files":6,"time":1305853143,"description":"Complete first season of The League, a show about a group of friends and their fantasy football league.  ","torrent":{"xt":"urn:btih:3bed830f71c46c49a77883c8731344979bc99aec","amp;dn":"The+League+Season+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3bed830f71c46c49a77883c8731344979bc99aec","infoHashBuffer":{"type":"Buffer","data":[59,237,131,15,113,196,108,73,167,120,131,200,115,19,68,151,155,201,154,236]},"announce":[],"urlList":[]}}
+{
+  "title": "The League Season 1",
+  "uid": 6408645,
+  "size": 1345467510,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3bed830f71c46c49a77883c8731344979bc99aec&amp;dn=The+League+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 9,
+  "uploader": "j4dyce",
+  "files": 6,
+  "time": 1305853143,
+  "description": "Complete first season of The League, a show about a group of friends and their fantasy football league.  ",
+  "parsed": {
+    "xt": "urn:btih:3bed830f71c46c49a77883c8731344979bc99aec",
+    "dn": "The League Season 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3bed830f71c46c49a77883c8731344979bc99aec",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        59,
+        237,
+        131,
+        15,
+        113,
+        196,
+        108,
+        73,
+        167,
+        120,
+        131,
+        200,
+        115,
+        19,
+        68,
+        151,
+        155,
+        201,
+        154,
+        236
+      ]
+    },
+    "name": "The League Season 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 67,
+  "last_updated": "2016-12-24T22:41:25.091Z"
+}

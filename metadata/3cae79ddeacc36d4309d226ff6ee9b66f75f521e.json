@@ -1,1 +1,61 @@
-{"title":"Mass.Effect.All.DLC-SiMON (2xDVD5)","uid":7092982,"size":7695697513,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:3cae79ddeacc36d4309d226ff6ee9b66f75f521e&amp;dn=Mass.Effect.All.DLC-SiMON+%282xDVD5%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":12,"uploader":".BONE.","files":-1,"time":1331435344,"description":"Including\n- Bring Down The Sky\n- Pinnacle Station","torrent":{"xt":"urn:btih:3cae79ddeacc36d4309d226ff6ee9b66f75f521e","amp;dn":"Mass.Effect.All.DLC-SiMON+%282xDVD5%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3cae79ddeacc36d4309d226ff6ee9b66f75f521e","infoHashBuffer":{"type":"Buffer","data":[60,174,121,221,234,204,54,212,48,157,34,111,246,238,155,102,247,95,82,30]},"announce":[],"urlList":[]}}
+{
+  "title": "Mass.Effect.All.DLC-SiMON (2xDVD5)",
+  "uid": 7092982,
+  "size": 7695697513,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:3cae79ddeacc36d4309d226ff6ee9b66f75f521e&amp;dn=Mass.Effect.All.DLC-SiMON+%282xDVD5%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 12,
+  "uploader": ".BONE.",
+  "files": -1,
+  "time": 1331435344,
+  "description": "Including\n- Bring Down The Sky\n- Pinnacle Station",
+  "parsed": {
+    "xt": "urn:btih:3cae79ddeacc36d4309d226ff6ee9b66f75f521e",
+    "dn": "Mass.Effect.All.DLC-SiMON (2xDVD5)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3cae79ddeacc36d4309d226ff6ee9b66f75f521e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        60,
+        174,
+        121,
+        221,
+        234,
+        204,
+        54,
+        212,
+        48,
+        157,
+        34,
+        111,
+        246,
+        238,
+        155,
+        102,
+        247,
+        95,
+        82,
+        30
+      ]
+    },
+    "name": "Mass.Effect.All.DLC-SiMON (2xDVD5)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 152,
+  "last_updated": "2016-12-24T22:45:38.221Z"
+}

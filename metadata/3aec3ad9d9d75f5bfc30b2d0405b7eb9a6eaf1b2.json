@@ -1,1 +1,61 @@
-{"title":"Nas - I Am","uid":3834366,"size":94511189,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3aec3ad9d9d75f5bfc30b2d0405b7eb9a6eaf1b2&amp;dn=Nas+-+I+Am&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":"Neiviesis1919","files":16,"time":1191863866,"description":"    -=Uploaded by neIVIesis=-\n-=Rating and Feedback Encouraged=-","torrent":{"xt":"urn:btih:3aec3ad9d9d75f5bfc30b2d0405b7eb9a6eaf1b2","amp;dn":"Nas+-+I+Am","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3aec3ad9d9d75f5bfc30b2d0405b7eb9a6eaf1b2","infoHashBuffer":{"type":"Buffer","data":[58,236,58,217,217,215,95,91,252,48,178,208,64,91,126,185,166,234,241,178]},"announce":[],"urlList":[]}}
+{
+  "title": "Nas - I Am",
+  "uid": 3834366,
+  "size": 94511189,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3aec3ad9d9d75f5bfc30b2d0405b7eb9a6eaf1b2&amp;dn=Nas+-+I+Am&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": "Neiviesis1919",
+  "files": 16,
+  "time": 1191863866,
+  "description": "    -=Uploaded by neIVIesis=-\n-=Rating and Feedback Encouraged=-",
+  "parsed": {
+    "xt": "urn:btih:3aec3ad9d9d75f5bfc30b2d0405b7eb9a6eaf1b2",
+    "dn": "Nas - I Am",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3aec3ad9d9d75f5bfc30b2d0405b7eb9a6eaf1b2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        58,
+        236,
+        58,
+        217,
+        217,
+        215,
+        95,
+        91,
+        252,
+        48,
+        178,
+        208,
+        64,
+        91,
+        126,
+        185,
+        166,
+        234,
+        241,
+        178
+      ]
+    },
+    "name": "Nas - I Am",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 0,
+  "last_updated": "2016-12-24T22:34:57.735Z"
+}

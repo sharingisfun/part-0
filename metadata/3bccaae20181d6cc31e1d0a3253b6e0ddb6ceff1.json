@@ -1,1 +1,61 @@
-{"title":"LMFAO - Party Rock Anthem [2011-Single@320][TJ]","uid":6142952,"size":10689269,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3bccaae20181d6cc31e1d0a3253b6e0ddb6ceff1&amp;dn=LMFAO+-+Party+Rock+Anthem+%5B2011-Single%40320%5D%5BTJ%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":125,"leechers":0,"uploader":".TJ.","files":-1,"time":1296566654,"description":"-----------------------------\nLMFAO - Party Rock Anthem\n-----------------------------\n\n  Quality....320 kbps\n\n  Genre......Pop\n\n  Duration...4:23\n_____________________________\n\nRequested by SoftWarez","torrent":{"xt":"urn:btih:3bccaae20181d6cc31e1d0a3253b6e0ddb6ceff1","amp;dn":"LMFAO+-+Party+Rock+Anthem+%5B2011-Single%40320%5D%5BTJ%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3bccaae20181d6cc31e1d0a3253b6e0ddb6ceff1","infoHashBuffer":{"type":"Buffer","data":[59,204,170,226,1,129,214,204,49,225,208,163,37,59,110,13,219,108,239,241]},"announce":[],"urlList":[]}}
+{
+  "title": "LMFAO - Party Rock Anthem [2011-Single@320][TJ]",
+  "uid": 6142952,
+  "size": 10689269,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3bccaae20181d6cc31e1d0a3253b6e0ddb6ceff1&amp;dn=LMFAO+-+Party+Rock+Anthem+%5B2011-Single%40320%5D%5BTJ%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 125,
+  "leechers": 0,
+  "uploader": ".TJ.",
+  "files": -1,
+  "time": 1296566654,
+  "description": "-----------------------------\nLMFAO - Party Rock Anthem\n-----------------------------\n\n  Quality....320 kbps\n\n  Genre......Pop\n\n  Duration...4:23\n_____________________________\n\nRequested by SoftWarez",
+  "parsed": {
+    "xt": "urn:btih:3bccaae20181d6cc31e1d0a3253b6e0ddb6ceff1",
+    "dn": "LMFAO - Party Rock Anthem [2011-Single@320][TJ]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3bccaae20181d6cc31e1d0a3253b6e0ddb6ceff1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        59,
+        204,
+        170,
+        226,
+        1,
+        129,
+        214,
+        204,
+        49,
+        225,
+        208,
+        163,
+        37,
+        59,
+        110,
+        13,
+        219,
+        108,
+        239,
+        241
+      ]
+    },
+    "name": "LMFAO - Party Rock Anthem [2011-Single@320][TJ]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 125,
+  "peers": 50,
+  "last_updated": "2016-12-24T22:40:12.796Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Howard Stern Show AUG 10 2016 Wed","uid":15537027,"size":195988594,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:3d0e7edff60ad657dbea0da9effab944f30e641f&amp;dn=Howard+Stern+Show+AUG+10+2016+Wed&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":3,"uploader":"mc_gregor","files":3,"time":1470885236,"description":"The Howard Stern Show (+ The Wrap-Up Show)\r\n2016-08-10 - LIVE\r\n\r\nProstate Karaoke And Music Discussions. 08/10/16. 7:00am\r\nRIP Jack Davis And A Few Phone Calls. 08/10/16. 7:20am\r\nWendy The Slow Adult Visits. 08/10/16. 7:50am\r\nHoward Takes Some Calls. 08/10/16. 8:35am\r\nMemet Records Some Yelling In Harlem. 08/10/16. 8:40am\r\nHugh Grant Visits. 08/10/16. 9:00am\r\nA Few More Phone Calls. 08/10/16. 10:20am\r\nRobin's News. 08/10/16. 10:30am","torrent":{"xt":"urn:btih:3d0e7edff60ad657dbea0da9effab944f30e641f","amp;dn":"Howard+Stern+Show+AUG+10+2016+Wed","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3d0e7edff60ad657dbea0da9effab944f30e641f","infoHashBuffer":{"type":"Buffer","data":[61,14,126,223,246,10,214,87,219,234,13,169,239,250,185,68,243,14,100,31]},"announce":[],"urlList":[]}}
+{
+  "title": "Howard Stern Show AUG 10 2016 Wed",
+  "uid": 15537027,
+  "size": 195988594,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:3d0e7edff60ad657dbea0da9effab944f30e641f&amp;dn=Howard+Stern+Show+AUG+10+2016+Wed&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 3,
+  "uploader": "mc_gregor",
+  "files": 3,
+  "time": 1470885236,
+  "description": "The Howard Stern Show (+ The Wrap-Up Show)\r\n2016-08-10 - LIVE\r\n\r\nProstate Karaoke And Music Discussions. 08/10/16. 7:00am\r\nRIP Jack Davis And A Few Phone Calls. 08/10/16. 7:20am\r\nWendy The Slow Adult Visits. 08/10/16. 7:50am\r\nHoward Takes Some Calls. 08/10/16. 8:35am\r\nMemet Records Some Yelling In Harlem. 08/10/16. 8:40am\r\nHugh Grant Visits. 08/10/16. 9:00am\r\nA Few More Phone Calls. 08/10/16. 10:20am\r\nRobin's News. 08/10/16. 10:30am",
+  "parsed": {
+    "xt": "urn:btih:3d0e7edff60ad657dbea0da9effab944f30e641f",
+    "dn": "Howard Stern Show AUG 10 2016 Wed",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "3d0e7edff60ad657dbea0da9effab944f30e641f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        61,
+        14,
+        126,
+        223,
+        246,
+        10,
+        214,
+        87,
+        219,
+        234,
+        13,
+        169,
+        239,
+        250,
+        185,
+        68,
+        243,
+        14,
+        100,
+        31
+      ]
+    },
+    "name": "Howard Stern Show AUG 10 2016 Wed",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 28,
+  "last_updated": "2016-12-24T22:47:58.839Z"
+}

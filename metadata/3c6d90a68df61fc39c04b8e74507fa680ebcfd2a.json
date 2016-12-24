@@ -1,1 +1,61 @@
-{"title":"Young The Giant - Young The Giant","uid":6114199,"size":96651493,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3c6d90a68df61fc39c04b8e74507fa680ebcfd2a&amp;dn=Young+The+Giant+-+Young+The+Giant&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":1,"uploader":"puffead","files":14,"time":1295480357,"description":"I noticed there weren't any working torrents for this album or band for that matter so i tracked down the album and created this i will be seeding for at least a couple weeks","torrent":{"xt":"urn:btih:3c6d90a68df61fc39c04b8e74507fa680ebcfd2a","amp;dn":"Young+The+Giant+-+Young+The+Giant","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3c6d90a68df61fc39c04b8e74507fa680ebcfd2a","infoHashBuffer":{"type":"Buffer","data":[60,109,144,166,141,246,31,195,156,4,184,231,69,7,250,104,14,188,253,42]},"announce":[],"urlList":[]}}
+{
+  "title": "Young The Giant - Young The Giant",
+  "uid": 6114199,
+  "size": 96651493,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3c6d90a68df61fc39c04b8e74507fa680ebcfd2a&amp;dn=Young+The+Giant+-+Young+The+Giant&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 1,
+  "uploader": "puffead",
+  "files": 14,
+  "time": 1295480357,
+  "description": "I noticed there weren't any working torrents for this album or band for that matter so i tracked down the album and created this i will be seeding for at least a couple weeks",
+  "parsed": {
+    "xt": "urn:btih:3c6d90a68df61fc39c04b8e74507fa680ebcfd2a",
+    "dn": "Young The Giant - Young The Giant",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3c6d90a68df61fc39c04b8e74507fa680ebcfd2a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        60,
+        109,
+        144,
+        166,
+        141,
+        246,
+        31,
+        195,
+        156,
+        4,
+        184,
+        231,
+        69,
+        7,
+        250,
+        104,
+        14,
+        188,
+        253,
+        42
+      ]
+    },
+    "name": "Young The Giant - Young The Giant",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 0,
+  "last_updated": "2016-12-24T22:43:57.820Z"
+}

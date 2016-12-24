@@ -1,1 +1,61 @@
-{"title":"Spiderman Trilogy 720p BRRip - Illidan91","uid":6404117,"size":2258796535,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:3ccf0dc1cc6f012931955d704a4edbdbd6e40dfe&amp;dn=Spiderman+Trilogy+720p+BRRip+-+Illidan91&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":18,"uploader":"Illidan91","files":25,"time":1305752375,"description":"Spiderman Trilogy\n\nAll three movies in spectacular HD and minimum filesize!! ","torrent":{"xt":"urn:btih:3ccf0dc1cc6f012931955d704a4edbdbd6e40dfe","amp;dn":"Spiderman+Trilogy+720p+BRRip+-+Illidan91","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3ccf0dc1cc6f012931955d704a4edbdbd6e40dfe","infoHashBuffer":{"type":"Buffer","data":[60,207,13,193,204,111,1,41,49,149,93,112,74,78,219,219,214,228,13,254]},"announce":[],"urlList":[]}}
+{
+  "title": "Spiderman Trilogy 720p BRRip - Illidan91",
+  "uid": 6404117,
+  "size": 2258796535,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:3ccf0dc1cc6f012931955d704a4edbdbd6e40dfe&amp;dn=Spiderman+Trilogy+720p+BRRip+-+Illidan91&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 18,
+  "uploader": "Illidan91",
+  "files": 25,
+  "time": 1305752375,
+  "description": "Spiderman Trilogy\n\nAll three movies in spectacular HD and minimum filesize!! ",
+  "parsed": {
+    "xt": "urn:btih:3ccf0dc1cc6f012931955d704a4edbdbd6e40dfe",
+    "dn": "Spiderman Trilogy 720p BRRip - Illidan91",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3ccf0dc1cc6f012931955d704a4edbdbd6e40dfe",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        60,
+        207,
+        13,
+        193,
+        204,
+        111,
+        1,
+        41,
+        49,
+        149,
+        93,
+        112,
+        74,
+        78,
+        219,
+        219,
+        214,
+        228,
+        13,
+        254
+      ]
+    },
+    "name": "Spiderman Trilogy 720p BRRip - Illidan91",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 74,
+  "peers": 17,
+  "last_updated": "2016-12-24T22:46:22.393Z"
+}

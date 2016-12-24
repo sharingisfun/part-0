@@ -1,1 +1,61 @@
-{"title":"Serious Sam - The Second Encounter","uid":3507580,"size":649420600,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:3cdd16f9955761318999ab40c2ed7a457d8f08f9&amp;dn=Serious+Sam+-+The+Second+Encounter&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":77,"leechers":4,"uploader":"WinstonSmith6079","files":3,"time":1153991516,"description":"This a CD image (in .BIN &amp; .CUE) of Serious Sam: The Second Encounter.  Created from an original CD-ROM from the Serious Sam Gold Edition collection (of which this is 2 of 2 CDs).  Needs the latest update patch (v1.07) which can be d/led from here: &lt;a href=&quot;\nhttp://files.seriouszone.com/download.php?fileid=398&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://files.seriouszone.com/download.php?fileid=398&lt;/a&gt;\nThis bundle includes a picture (in .JPG) of the front of the Serious Sam: The Second Encounter packaging (not from the Serious Sam Gold Edition collection).","torrent":{"xt":"urn:btih:3cdd16f9955761318999ab40c2ed7a457d8f08f9","amp;dn":"Serious+Sam+-+The+Second+Encounter","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3cdd16f9955761318999ab40c2ed7a457d8f08f9","infoHashBuffer":{"type":"Buffer","data":[60,221,22,249,149,87,97,49,137,153,171,64,194,237,122,69,125,143,8,249]},"announce":[],"urlList":[]}}
+{
+  "title": "Serious Sam - The Second Encounter",
+  "uid": 3507580,
+  "size": 649420600,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:3cdd16f9955761318999ab40c2ed7a457d8f08f9&amp;dn=Serious+Sam+-+The+Second+Encounter&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 77,
+  "leechers": 4,
+  "uploader": "WinstonSmith6079",
+  "files": 3,
+  "time": 1153991516,
+  "description": "This a CD image (in .BIN &amp; .CUE) of Serious Sam: The Second Encounter.  Created from an original CD-ROM from the Serious Sam Gold Edition collection (of which this is 2 of 2 CDs).  Needs the latest update patch (v1.07) which can be d/led from here: &lt;a href=&quot;\nhttp://files.seriouszone.com/download.php?fileid=398&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://files.seriouszone.com/download.php?fileid=398&lt;/a&gt;\nThis bundle includes a picture (in .JPG) of the front of the Serious Sam: The Second Encounter packaging (not from the Serious Sam Gold Edition collection).",
+  "parsed": {
+    "xt": "urn:btih:3cdd16f9955761318999ab40c2ed7a457d8f08f9",
+    "dn": "Serious Sam - The Second Encounter",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3cdd16f9955761318999ab40c2ed7a457d8f08f9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        60,
+        221,
+        22,
+        249,
+        149,
+        87,
+        97,
+        49,
+        137,
+        153,
+        171,
+        64,
+        194,
+        237,
+        122,
+        69,
+        125,
+        143,
+        8,
+        249
+      ]
+    },
+    "name": "Serious Sam - The Second Encounter",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 81,
+  "peers": 154,
+  "last_updated": "2016-12-24T22:46:40.483Z"
+}

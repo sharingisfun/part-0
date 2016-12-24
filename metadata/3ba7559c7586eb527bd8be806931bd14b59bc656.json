@@ -1,1 +1,61 @@
-{"title":"Friday the 13th COLLECTION","uid":9092672,"size":7757984361,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:3ba7559c7586eb527bd8be806931bd14b59bc656&amp;dn=Friday+the+13th+COLLECTION&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":25,"uploader":"infidelwarez","files":10,"time":1382632158,"description":"They were warned...They are doomed...And on Friday the 13th, nothing will save them.\n\n\nFriday the 13th                                 (1980)\nFriday the 13th Part 2                          (1981)\nFriday the 13th Part 3                          (1982)\nFriday the 13th The Final Chapter               (1984)\nFriday the 13th A New Beginning                 (1985)\nFriday the 13th Part VI Jason Lives             (1986)\nFriday the 13th Part VII The New Blood          (1988)\nFriday the 13th Part VIII Jason Takes Manhattan (1989)\nJason Goes To Hell - The Final Friday           (1993)\nFriday the 13th [Killer Cut {Extended} ]        (2009)","torrent":{"xt":"urn:btih:3ba7559c7586eb527bd8be806931bd14b59bc656","amp;dn":"Friday+the+13th+COLLECTION","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3ba7559c7586eb527bd8be806931bd14b59bc656","infoHashBuffer":{"type":"Buffer","data":[59,167,85,156,117,134,235,82,123,216,190,128,105,49,189,20,181,155,198,86]},"announce":[],"urlList":[]}}
+{
+  "title": "Friday the 13th COLLECTION",
+  "uid": 9092672,
+  "size": 7757984361,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:3ba7559c7586eb527bd8be806931bd14b59bc656&amp;dn=Friday+the+13th+COLLECTION&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 25,
+  "uploader": "infidelwarez",
+  "files": 10,
+  "time": 1382632158,
+  "description": "They were warned...They are doomed...And on Friday the 13th, nothing will save them.\n\n\nFriday the 13th                                 (1980)\nFriday the 13th Part 2                          (1981)\nFriday the 13th Part 3                          (1982)\nFriday the 13th The Final Chapter               (1984)\nFriday the 13th A New Beginning                 (1985)\nFriday the 13th Part VI Jason Lives             (1986)\nFriday the 13th Part VII The New Blood          (1988)\nFriday the 13th Part VIII Jason Takes Manhattan (1989)\nJason Goes To Hell - The Final Friday           (1993)\nFriday the 13th [Killer Cut {Extended} ]        (2009)",
+  "parsed": {
+    "xt": "urn:btih:3ba7559c7586eb527bd8be806931bd14b59bc656",
+    "dn": "Friday the 13th COLLECTION",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3ba7559c7586eb527bd8be806931bd14b59bc656",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        59,
+        167,
+        85,
+        156,
+        117,
+        134,
+        235,
+        82,
+        123,
+        216,
+        190,
+        128,
+        105,
+        49,
+        189,
+        20,
+        181,
+        155,
+        198,
+        86
+      ]
+    },
+    "name": "Friday the 13th COLLECTION",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 52,
+  "last_updated": "2016-12-24T22:39:30.657Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Rust (1379, Devblog 114) 32Bit + 64Bit","uid":14886683,"size":1800633300,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:3b70900433a04bfdfd0344af9f90d6626d919a54&amp;dn=Rust+%281379%2C+Devblog+114%29+32Bit+%2B+64Bit&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":77,"leechers":2,"uploader":"Alkad","files":2,"time":1465740063,"description":"close Steam\r\nrun Launcher.exe\r\n\r\nto connect to the server, press F1 and use the command: \r\n\r\nclient.connect rust-exp.alkad.org:28015 - Alkad\r\nclient.connect rust-exp.alkad.org:28019 - Alkad 2\r\nclient.connect rust-exp.alkad.org:22222 - Hardcore Survive\r\nclient.connect rust-exp.alkad.org:6666 - SkullServer\r\nclient.connect survival-instinct.ru:29015","torrent":{"xt":"urn:btih:3b70900433a04bfdfd0344af9f90d6626d919a54","amp;dn":"Rust+%281379%2C+Devblog+114%29+32Bit+%2B+64Bit","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3b70900433a04bfdfd0344af9f90d6626d919a54","infoHashBuffer":{"type":"Buffer","data":[59,112,144,4,51,160,75,253,253,3,68,175,159,144,214,98,109,145,154,84]},"announce":[],"urlList":[]}}
+{
+  "title": "Rust (1379, Devblog 114) 32Bit + 64Bit",
+  "uid": 14886683,
+  "size": 1800633300,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:3b70900433a04bfdfd0344af9f90d6626d919a54&amp;dn=Rust+%281379%2C+Devblog+114%29+32Bit+%2B+64Bit&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 77,
+  "leechers": 2,
+  "uploader": "Alkad",
+  "files": 2,
+  "time": 1465740063,
+  "description": "close Steam\r\nrun Launcher.exe\r\n\r\nto connect to the server, press F1 and use the command: \r\n\r\nclient.connect rust-exp.alkad.org:28015 - Alkad\r\nclient.connect rust-exp.alkad.org:28019 - Alkad 2\r\nclient.connect rust-exp.alkad.org:22222 - Hardcore Survive\r\nclient.connect rust-exp.alkad.org:6666 - SkullServer\r\nclient.connect survival-instinct.ru:29015",
+  "parsed": {
+    "xt": "urn:btih:3b70900433a04bfdfd0344af9f90d6626d919a54",
+    "dn": "Rust (1379, Devblog 114) 32Bit   64Bit",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "3b70900433a04bfdfd0344af9f90d6626d919a54",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        59,
+        112,
+        144,
+        4,
+        51,
+        160,
+        75,
+        253,
+        253,
+        3,
+        68,
+        175,
+        159,
+        144,
+        214,
+        98,
+        109,
+        145,
+        154,
+        84
+      ]
+    },
+    "name": "Rust (1379, Devblog 114) 32Bit   64Bit",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 306,
+  "last_updated": "2016-12-24T22:38:10.403Z"
+}

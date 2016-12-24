@@ -1,1 +1,61 @@
-{"title":"Alesso feat. Tove Lo - Heroes","uid":11033928,"size":9102765,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3cd3a9e145f7350ab0035c3c05e7d3a64b8e1cbb&amp;dn=Alesso+feat.+Tove+Lo+-+Heroes&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":281,"leechers":3,"uploader":"pamabego","files":-1,"time":1410759460,"description":" &lt;a href=&quot;https://itunes.apple.com/nz/album/heroes-we-could-be-feat.-tove/id918666598&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://itunes.apple.com/nz/album/heroes-we-could-be-feat.-tove/id918666598&lt;/a&gt;","torrent":{"xt":"urn:btih:3cd3a9e145f7350ab0035c3c05e7d3a64b8e1cbb","amp;dn":"Alesso+feat.+Tove+Lo+-+Heroes","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3cd3a9e145f7350ab0035c3c05e7d3a64b8e1cbb","infoHashBuffer":{"type":"Buffer","data":[60,211,169,225,69,247,53,10,176,3,92,60,5,231,211,166,75,142,28,187]},"announce":[],"urlList":[]}}
+{
+  "title": "Alesso feat. Tove Lo - Heroes",
+  "uid": 11033928,
+  "size": 9102765,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3cd3a9e145f7350ab0035c3c05e7d3a64b8e1cbb&amp;dn=Alesso+feat.+Tove+Lo+-+Heroes&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 281,
+  "leechers": 3,
+  "uploader": "pamabego",
+  "files": -1,
+  "time": 1410759460,
+  "description": " &lt;a href=&quot;https://itunes.apple.com/nz/album/heroes-we-could-be-feat.-tove/id918666598&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://itunes.apple.com/nz/album/heroes-we-could-be-feat.-tove/id918666598&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:3cd3a9e145f7350ab0035c3c05e7d3a64b8e1cbb",
+    "dn": "Alesso feat. Tove Lo - Heroes",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3cd3a9e145f7350ab0035c3c05e7d3a64b8e1cbb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        60,
+        211,
+        169,
+        225,
+        69,
+        247,
+        53,
+        10,
+        176,
+        3,
+        92,
+        60,
+        5,
+        231,
+        211,
+        166,
+        75,
+        142,
+        28,
+        187
+      ]
+    },
+    "name": "Alesso feat. Tove Lo - Heroes",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 284,
+  "peers": 105,
+  "last_updated": "2016-12-24T22:46:26.410Z"
+}

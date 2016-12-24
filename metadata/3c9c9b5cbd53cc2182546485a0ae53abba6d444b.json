@@ -1,1 +1,63 @@
-{"title":"Osiris: New Dawn v0.938","uid":15964320,"size":16008615,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:3c9c9b5cbd53cc2182546485a0ae53abba6d444b&amp;dn=Osiris%3A+New+Dawn+v0.938&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":39,"uploader":"trwetwr","files":4,"time":1475707413,"description":"Good Game","torrent":{"xt":"urn:btih:3c9c9b5cbd53cc2182546485a0ae53abba6d444b","amp;dn":"Osiris%3A+New+Dawn+v0.938","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3c9c9b5cbd53cc2182546485a0ae53abba6d444b","infoHashBuffer":{"type":"Buffer","data":[60,156,155,92,189,83,204,33,130,84,100,133,160,174,83,171,186,109,68,75]},"announce":[],"urlList":[]}}
+{
+  "title": "Osiris: New Dawn v0.938",
+  "uid": 15964320,
+  "size": 16008615,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:3c9c9b5cbd53cc2182546485a0ae53abba6d444b&amp;dn=Osiris%3A+New+Dawn+v0.938&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 39,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475707413,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:3c9c9b5cbd53cc2182546485a0ae53abba6d444b",
+    "dn": "Osiris: New Dawn v0.938",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "3c9c9b5cbd53cc2182546485a0ae53abba6d444b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        60,
+        156,
+        155,
+        92,
+        189,
+        83,
+        204,
+        33,
+        130,
+        84,
+        100,
+        133,
+        160,
+        174,
+        83,
+        171,
+        186,
+        109,
+        68,
+        75
+      ]
+    },
+    "name": "Osiris: New Dawn v0.938",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 100,
+  "peers": 2,
+  "last_updated": "2016-12-24T22:45:12.113Z"
+}

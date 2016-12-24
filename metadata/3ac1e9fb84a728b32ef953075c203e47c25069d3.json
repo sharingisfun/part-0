@@ -1,1 +1,61 @@
-{"title":"Super Mario Bros 3 for Android v1.0","uid":9706549,"size":2824405,"categoryP":"games","categoryS":"android","magnet":"?xt=urn:btih:3ac1e9fb84a728b32ef953075c203e47c25069d3&amp;dn=Super+Mario+Bros+3+for+Android+v1.0&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":1,"uploader":"Androider","files":-1,"time":1394069571,"description":"\nSuper Mario Bros. 3 centers on plumbers Mario and Luigi who embark on a quest to save Princess Toadstool and the rulers of seven different kingdoms from the antagonist Bowser and his children, the Koopalings. The player, as Mario or Luigi, is able to defeat enemies by stomping them or using items that bestow magical powers.\n\nMario and Luigi are given a wider range of abilities than in previous Super Mario games, including flying or sliding down slopes. In addition, Super Mario Bros. 3 introduces numerous elements, such as new enemy characters and the use of a world map to transition between levels, that have reappeared in or have influenced subsequent Mario games.\n\nMore info:\n\nNot available on Google Play Store.","torrent":{"xt":"urn:btih:3ac1e9fb84a728b32ef953075c203e47c25069d3","amp;dn":"Super+Mario+Bros+3+for+Android+v1.0","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3ac1e9fb84a728b32ef953075c203e47c25069d3","infoHashBuffer":{"type":"Buffer","data":[58,193,233,251,132,167,40,179,46,249,83,7,92,32,62,71,194,80,105,211]},"announce":[],"urlList":[]}}
+{
+  "title": "Super Mario Bros 3 for Android v1.0",
+  "uid": 9706549,
+  "size": 2824405,
+  "categoryP": "games",
+  "categoryS": "android",
+  "magnet": "?xt=urn:btih:3ac1e9fb84a728b32ef953075c203e47c25069d3&amp;dn=Super+Mario+Bros+3+for+Android+v1.0&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 1,
+  "uploader": "Androider",
+  "files": -1,
+  "time": 1394069571,
+  "description": "\nSuper Mario Bros. 3 centers on plumbers Mario and Luigi who embark on a quest to save Princess Toadstool and the rulers of seven different kingdoms from the antagonist Bowser and his children, the Koopalings. The player, as Mario or Luigi, is able to defeat enemies by stomping them or using items that bestow magical powers.\n\nMario and Luigi are given a wider range of abilities than in previous Super Mario games, including flying or sliding down slopes. In addition, Super Mario Bros. 3 introduces numerous elements, such as new enemy characters and the use of a world map to transition between levels, that have reappeared in or have influenced subsequent Mario games.\n\nMore info:\n\nNot available on Google Play Store.",
+  "parsed": {
+    "xt": "urn:btih:3ac1e9fb84a728b32ef953075c203e47c25069d3",
+    "dn": "Super Mario Bros 3 for Android v1.0",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3ac1e9fb84a728b32ef953075c203e47c25069d3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        58,
+        193,
+        233,
+        251,
+        132,
+        167,
+        40,
+        179,
+        46,
+        249,
+        83,
+        7,
+        92,
+        32,
+        62,
+        71,
+        194,
+        80,
+        105,
+        211
+      ]
+    },
+    "name": "Super Mario Bros 3 for Android v1.0",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 74,
+  "peers": 238,
+  "last_updated": "2016-12-24T22:33:39.425Z"
+}

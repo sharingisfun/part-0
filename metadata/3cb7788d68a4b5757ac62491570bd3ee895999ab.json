@@ -1,1 +1,63 @@
-{"title":"Nicolas Jaar - Sirens (2016) NEW","uid":15929149,"size":83432911,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3cb7788d68a4b5757ac62491570bd3ee895999ab&amp;dn=Nicolas+Jaar+-+Sirens+%282016%29+NEW&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":4,"uploader":"gabenrick","files":6,"time":1475341620,"description":"Sirens is a thoughtful study in contrasts, both musical and political. It's only Nicolas Jaar's second LP, but it is the mark of an enduring electronic composer","torrent":{"xt":"urn:btih:3cb7788d68a4b5757ac62491570bd3ee895999ab","amp;dn":"Nicolas+Jaar+-+Sirens+%282016%29+NEW","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3cb7788d68a4b5757ac62491570bd3ee895999ab","infoHashBuffer":{"type":"Buffer","data":[60,183,120,141,104,164,181,117,122,198,36,145,87,11,211,238,137,89,153,171]},"announce":[],"urlList":[]}}
+{
+  "title": "Nicolas Jaar - Sirens (2016) NEW",
+  "uid": 15929149,
+  "size": 83432911,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3cb7788d68a4b5757ac62491570bd3ee895999ab&amp;dn=Nicolas+Jaar+-+Sirens+%282016%29+NEW&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 4,
+  "uploader": "gabenrick",
+  "files": 6,
+  "time": 1475341620,
+  "description": "Sirens is a thoughtful study in contrasts, both musical and political. It's only Nicolas Jaar's second LP, but it is the mark of an enduring electronic composer",
+  "parsed": {
+    "xt": "urn:btih:3cb7788d68a4b5757ac62491570bd3ee895999ab",
+    "dn": "Nicolas Jaar - Sirens (2016) NEW",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "3cb7788d68a4b5757ac62491570bd3ee895999ab",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        60,
+        183,
+        120,
+        141,
+        104,
+        164,
+        181,
+        117,
+        122,
+        198,
+        36,
+        145,
+        87,
+        11,
+        211,
+        238,
+        137,
+        89,
+        153,
+        171
+      ]
+    },
+    "name": "Nicolas Jaar - Sirens (2016) NEW",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 118,
+  "last_updated": "2016-12-24T22:45:52.279Z"
+}

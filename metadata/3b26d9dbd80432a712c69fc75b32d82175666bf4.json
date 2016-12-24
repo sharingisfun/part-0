@@ -1,1 +1,63 @@
-{"title":"Notorious.S01E04.XviD-AFG","uid":16030730,"size":389490108,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3b26d9dbd80432a712c69fc75b32d82175666bf4&amp;dn=Notorious.S01E04.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":209,"leechers":81,"uploader":"TvTeam","files":7,"time":1476418443,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:3b26d9dbd80432a712c69fc75b32d82175666bf4","amp;dn":"Notorious.S01E04.XviD-AFG","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3b26d9dbd80432a712c69fc75b32d82175666bf4","infoHashBuffer":{"type":"Buffer","data":[59,38,217,219,216,4,50,167,18,198,159,199,91,50,216,33,117,102,107,244]},"announce":[],"urlList":[]}}
+{
+  "title": "Notorious.S01E04.XviD-AFG",
+  "uid": 16030730,
+  "size": 389490108,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3b26d9dbd80432a712c69fc75b32d82175666bf4&amp;dn=Notorious.S01E04.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 209,
+  "leechers": 81,
+  "uploader": "TvTeam",
+  "files": 7,
+  "time": 1476418443,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:3b26d9dbd80432a712c69fc75b32d82175666bf4",
+    "dn": "Notorious.S01E04.XviD-AFG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "3b26d9dbd80432a712c69fc75b32d82175666bf4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        59,
+        38,
+        217,
+        219,
+        216,
+        4,
+        50,
+        167,
+        18,
+        198,
+        159,
+        199,
+        91,
+        50,
+        216,
+        33,
+        117,
+        102,
+        107,
+        244
+      ]
+    },
+    "name": "Notorious.S01E04.XviD-AFG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 290,
+  "peers": 34,
+  "last_updated": "2016-12-24T22:36:18.002Z"
+}

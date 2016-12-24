@@ -1,1 +1,61 @@
-{"title":"Adobe.Photoshop.CS6.Multilingual","uid":7345375,"size":1567598198,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:3b4cd374037ed4270acbbfc4c3bcf345d573ef84&amp;dn=Adobe.Photoshop.CS6.Multilingual&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":197,"leechers":1,"uploader":"reddnre","files":1,"time":1339411839,"description":"Adobe Photoshop CS6 Final Multilingual","torrent":{"xt":"urn:btih:3b4cd374037ed4270acbbfc4c3bcf345d573ef84","amp;dn":"Adobe.Photoshop.CS6.Multilingual","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3b4cd374037ed4270acbbfc4c3bcf345d573ef84","infoHashBuffer":{"type":"Buffer","data":[59,76,211,116,3,126,212,39,10,203,191,196,195,188,243,69,213,115,239,132]},"announce":[],"urlList":[]}}
+{
+  "title": "Adobe.Photoshop.CS6.Multilingual",
+  "uid": 7345375,
+  "size": 1567598198,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:3b4cd374037ed4270acbbfc4c3bcf345d573ef84&amp;dn=Adobe.Photoshop.CS6.Multilingual&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 197,
+  "leechers": 1,
+  "uploader": "reddnre",
+  "files": 1,
+  "time": 1339411839,
+  "description": "Adobe Photoshop CS6 Final Multilingual",
+  "parsed": {
+    "xt": "urn:btih:3b4cd374037ed4270acbbfc4c3bcf345d573ef84",
+    "dn": "Adobe.Photoshop.CS6.Multilingual",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3b4cd374037ed4270acbbfc4c3bcf345d573ef84",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        59,
+        76,
+        211,
+        116,
+        3,
+        126,
+        212,
+        39,
+        10,
+        203,
+        191,
+        196,
+        195,
+        188,
+        243,
+        69,
+        213,
+        115,
+        239,
+        132
+      ]
+    },
+    "name": "Adobe.Photoshop.CS6.Multilingual",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 198,
+  "peers": 25,
+  "last_updated": "2016-12-24T22:37:12.195Z"
+}

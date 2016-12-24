@@ -1,1 +1,61 @@
-{"title":"soul.plane.unrated.dvdrip.xvid-dvp.(osloskop.net).avi","uid":3574498,"size":734236672,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:3aa9cc90cea7314dfd71dc41cf9f9e1ad54d2272&amp;dn=soul.plane.unrated.dvdrip.xvid-dvp.%28osloskop.net%29.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":3,"uploader":"jboo7","files":1,"time":1165781448,"description":"===== File Info ===== \nFileSize           : 700M\nPlayTime           : 01:31:58.143\nVideoCount         : 1\nAudioCount         : 1\n              ===== Video Info ===== \nVideo 0# Stream\nVideoCodec         : XVID\nVideoWidth         : 576 piexs\nVideoHeight        : 304 piexs\nVideoFrameRate     : 23.976fps\nVideoFrameCount    : 132303\nVideoBitRate       : 920621\n              ===== Audio Info ===== \nAudio 0# Stream\nAudioCodec         : MP3\nAudioBitRate       : 130848\nAudioChannels      : 2\nAudioSampleRate    : 48000\n","torrent":{"xt":"urn:btih:3aa9cc90cea7314dfd71dc41cf9f9e1ad54d2272","amp;dn":"soul.plane.unrated.dvdrip.xvid-dvp.%28osloskop.net%29.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3aa9cc90cea7314dfd71dc41cf9f9e1ad54d2272","infoHashBuffer":{"type":"Buffer","data":[58,169,204,144,206,167,49,77,253,113,220,65,207,159,158,26,213,77,34,114]},"announce":[],"urlList":[]}}
+{
+  "title": "soul.plane.unrated.dvdrip.xvid-dvp.(osloskop.net).avi",
+  "uid": 3574498,
+  "size": 734236672,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:3aa9cc90cea7314dfd71dc41cf9f9e1ad54d2272&amp;dn=soul.plane.unrated.dvdrip.xvid-dvp.%28osloskop.net%29.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 3,
+  "uploader": "jboo7",
+  "files": 1,
+  "time": 1165781448,
+  "description": "===== File Info ===== \nFileSize           : 700M\nPlayTime           : 01:31:58.143\nVideoCount         : 1\nAudioCount         : 1\n              ===== Video Info ===== \nVideo 0# Stream\nVideoCodec         : XVID\nVideoWidth         : 576 piexs\nVideoHeight        : 304 piexs\nVideoFrameRate     : 23.976fps\nVideoFrameCount    : 132303\nVideoBitRate       : 920621\n              ===== Audio Info ===== \nAudio 0# Stream\nAudioCodec         : MP3\nAudioBitRate       : 130848\nAudioChannels      : 2\nAudioSampleRate    : 48000\n",
+  "parsed": {
+    "xt": "urn:btih:3aa9cc90cea7314dfd71dc41cf9f9e1ad54d2272",
+    "dn": "soul.plane.unrated.dvdrip.xvid-dvp.(osloskop.net).avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3aa9cc90cea7314dfd71dc41cf9f9e1ad54d2272",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        58,
+        169,
+        204,
+        144,
+        206,
+        167,
+        49,
+        77,
+        253,
+        113,
+        220,
+        65,
+        207,
+        159,
+        158,
+        26,
+        213,
+        77,
+        34,
+        114
+      ]
+    },
+    "name": "soul.plane.unrated.dvdrip.xvid-dvp.(osloskop.net).avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 15,
+  "last_updated": "2016-12-24T22:32:49.189Z"
+}

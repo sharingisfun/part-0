@@ -1,1 +1,63 @@
-{"title":"Zygor Guides (Elite) 6.0.14435","uid":15707415,"size":20462187,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:3b309c62bb15912bb0670e9bd4873b74920d9604&amp;dn=Zygor+Guides+%28Elite%29+6.0.14435&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":1,"uploader":"zygorfree","files":1,"time":1472536051,"description":"Zygor Guides (Elite) 6.0.14435\r\nUpdated 30 August 2016 @ 05:50AM (GMT +2).\r\n\r\n\r\nUnzip to your Interface folder in World of Warcraft\r\n** Contains no historical data\r\n** If you want historical data (Gold Guides) support the developer by paying\r\n\r\nThis is ready for Legion questing","torrent":{"xt":"urn:btih:3b309c62bb15912bb0670e9bd4873b74920d9604","amp;dn":"Zygor+Guides+%28Elite%29+6.0.14435","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3b309c62bb15912bb0670e9bd4873b74920d9604","infoHashBuffer":{"type":"Buffer","data":[59,48,156,98,187,21,145,43,176,103,14,155,212,135,59,116,146,13,150,4]},"announce":[],"urlList":[]}}
+{
+  "title": "Zygor Guides (Elite) 6.0.14435",
+  "uid": 15707415,
+  "size": 20462187,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:3b309c62bb15912bb0670e9bd4873b74920d9604&amp;dn=Zygor+Guides+%28Elite%29+6.0.14435&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 1,
+  "uploader": "zygorfree",
+  "files": 1,
+  "time": 1472536051,
+  "description": "Zygor Guides (Elite) 6.0.14435\r\nUpdated 30 August 2016 @ 05:50AM (GMT +2).\r\n\r\n\r\nUnzip to your Interface folder in World of Warcraft\r\n** Contains no historical data\r\n** If you want historical data (Gold Guides) support the developer by paying\r\n\r\nThis is ready for Legion questing",
+  "parsed": {
+    "xt": "urn:btih:3b309c62bb15912bb0670e9bd4873b74920d9604",
+    "dn": "Zygor Guides (Elite) 6.0.14435",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "3b309c62bb15912bb0670e9bd4873b74920d9604",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        59,
+        48,
+        156,
+        98,
+        187,
+        21,
+        145,
+        43,
+        176,
+        103,
+        14,
+        155,
+        212,
+        135,
+        59,
+        116,
+        146,
+        13,
+        150,
+        4
+      ]
+    },
+    "name": "Zygor Guides (Elite) 6.0.14435",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 25,
+  "last_updated": "2016-12-24T22:36:32.046Z"
+}

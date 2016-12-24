@@ -1,1 +1,61 @@
-{"title":"Xpadder v2014.01.01 [mindcrasher]","uid":9856123,"size":795384,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:3c190f5f53bde5ca9ab8d8e3c336ae20493d2b9b&amp;dn=Xpadder+v2014.01.01+%5Bmindcrasher%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":1,"uploader":"mindcrasher","files":-1,"time":1396222608,"description":"What is Xpadder?\nXpadder simulates the keyboard and mouse using your gamepad\n\n\nTechnical details?\n- Supports Windows XP, Vista, 7 and 8\n- Works on both the 32 and 64 bit versions of Windows\n- Full keyboard and mouse emulation\n- Supports up to 16 controllers at the same time (multiplayer)\n- Rumble force feedback and advanced fine-tuning options\n- Create a layout for any controller that Windows can see\n- Multiple profile management using sharable files\n- Designed for gamepads, joysticks and arcade sticks\n- Also works with steering wheels, dance mats, drum kits, guitars...\nFor more information read the full list of features\nWhat new functions does Xpadder let you do with your controller?\n- Play PC games with poor or no gamepad support\n- Add gamepad support to emulated, internet browser and DOS games\n- Play multiplayer games with each player using a gamepad\n- Control video/music players using their shortcut keys\n- Use your gamepad with any Windows program\n\n\nSupport, controller images and profiles?\nThe Xpadder forum is the number one place for support, controller images, tutorials, downloads and development news","torrent":{"xt":"urn:btih:3c190f5f53bde5ca9ab8d8e3c336ae20493d2b9b","amp;dn":"Xpadder+v2014.01.01+%5Bmindcrasher%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3c190f5f53bde5ca9ab8d8e3c336ae20493d2b9b","infoHashBuffer":{"type":"Buffer","data":[60,25,15,95,83,189,229,202,154,184,216,227,195,54,174,32,73,61,43,155]},"announce":[],"urlList":[]}}
+{
+  "title": "Xpadder v2014.01.01 [mindcrasher]",
+  "uid": 9856123,
+  "size": 795384,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:3c190f5f53bde5ca9ab8d8e3c336ae20493d2b9b&amp;dn=Xpadder+v2014.01.01+%5Bmindcrasher%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 1,
+  "uploader": "mindcrasher",
+  "files": -1,
+  "time": 1396222608,
+  "description": "What is Xpadder?\nXpadder simulates the keyboard and mouse using your gamepad\n\n\nTechnical details?\n- Supports Windows XP, Vista, 7 and 8\n- Works on both the 32 and 64 bit versions of Windows\n- Full keyboard and mouse emulation\n- Supports up to 16 controllers at the same time (multiplayer)\n- Rumble force feedback and advanced fine-tuning options\n- Create a layout for any controller that Windows can see\n- Multiple profile management using sharable files\n- Designed for gamepads, joysticks and arcade sticks\n- Also works with steering wheels, dance mats, drum kits, guitars...\nFor more information read the full list of features\nWhat new functions does Xpadder let you do with your controller?\n- Play PC games with poor or no gamepad support\n- Add gamepad support to emulated, internet browser and DOS games\n- Play multiplayer games with each player using a gamepad\n- Control video/music players using their shortcut keys\n- Use your gamepad with any Windows program\n\n\nSupport, controller images and profiles?\nThe Xpadder forum is the number one place for support, controller images, tutorials, downloads and development news",
+  "parsed": {
+    "xt": "urn:btih:3c190f5f53bde5ca9ab8d8e3c336ae20493d2b9b",
+    "dn": "Xpadder v2014.01.01 [mindcrasher]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3c190f5f53bde5ca9ab8d8e3c336ae20493d2b9b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        60,
+        25,
+        15,
+        95,
+        83,
+        189,
+        229,
+        202,
+        154,
+        184,
+        216,
+        227,
+        195,
+        54,
+        174,
+        32,
+        73,
+        61,
+        43,
+        155
+      ]
+    },
+    "name": "Xpadder v2014.01.01 [mindcrasher]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 34,
+  "last_updated": "2016-12-24T22:42:29.442Z"
+}

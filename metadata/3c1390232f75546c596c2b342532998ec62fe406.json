@@ -1,1 +1,61 @@
-{"title":"Joystick Mapper 1.1","uid":8267907,"size":906374,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:3c1390232f75546c596c2b342532998ec62fe406&amp;dn=Joystick+Mapper+1.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":0,"uploader":"ThePerfectDisguise","files":1,"time":1363545714,"description":" &lt;a href=&quot;http://joystickmapper.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://joystickmapper.com/&lt;/a&gt;\n\nIf you like this application please consider buying it on the Mac App Store for $4.99. It is well worth the price.\n\nAdditional note: This is not the latest version. Latest version is 1.1.1\n\nJoystick Mapper is an application for Mac OS X that lets you map keyboard keys, mouse axes, mouse buttons and mouse wheel to any joystick or gamepad button/axis/hat.\n\nIn other words: This App will let you play any game or use any app with any joystick or gamepad, even the ones that are not compatible with joysticks.\n\nFeatures:\n\nUse any axis, dpads or buttons on your joystick to simulate keyboard and mouse;\nMap any of the 4 directions from an Analog Stick independently;\nAnalog Shoulder Triggers can be used as buttons;\nSmooth mouse movement;\nAdjust mouse speed for analog sticks per direction individually, this can help with crappy gamepads;\nAny &quot;weird&quot; combination you want:\nButton/Dpad/Analog Stick/Analog Trigger --&gt; Keyboard/Mouse/Click/Scroll;\nReady-to-use examples, easily modifiable;\nCompatible with USB and Bluetooth Joysticks;\n(If it does not explicitly say &quot;Mac compatible&quot;, please check compatibility. I have a list of tested gamepads here, please help expanding it)\nEasy to use interface.\nRequirements:\n\nA Mac with OS X 10.6.6 or higher;\nOne or more USB or Bluetooth joysticks/Gamepads;\nJust a little bit of disc space.","torrent":{"xt":"urn:btih:3c1390232f75546c596c2b342532998ec62fe406","amp;dn":"Joystick+Mapper+1.1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3c1390232f75546c596c2b342532998ec62fe406","infoHashBuffer":{"type":"Buffer","data":[60,19,144,35,47,117,84,108,89,108,43,52,37,50,153,142,198,47,228,6]},"announce":[],"urlList":[]}}
+{
+  "title": "Joystick Mapper 1.1",
+  "uid": 8267907,
+  "size": 906374,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:3c1390232f75546c596c2b342532998ec62fe406&amp;dn=Joystick+Mapper+1.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 0,
+  "uploader": "ThePerfectDisguise",
+  "files": 1,
+  "time": 1363545714,
+  "description": " &lt;a href=&quot;http://joystickmapper.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://joystickmapper.com/&lt;/a&gt;\n\nIf you like this application please consider buying it on the Mac App Store for $4.99. It is well worth the price.\n\nAdditional note: This is not the latest version. Latest version is 1.1.1\n\nJoystick Mapper is an application for Mac OS X that lets you map keyboard keys, mouse axes, mouse buttons and mouse wheel to any joystick or gamepad button/axis/hat.\n\nIn other words: This App will let you play any game or use any app with any joystick or gamepad, even the ones that are not compatible with joysticks.\n\nFeatures:\n\nUse any axis, dpads or buttons on your joystick to simulate keyboard and mouse;\nMap any of the 4 directions from an Analog Stick independently;\nAnalog Shoulder Triggers can be used as buttons;\nSmooth mouse movement;\nAdjust mouse speed for analog sticks per direction individually, this can help with crappy gamepads;\nAny &quot;weird&quot; combination you want:\nButton/Dpad/Analog Stick/Analog Trigger --&gt; Keyboard/Mouse/Click/Scroll;\nReady-to-use examples, easily modifiable;\nCompatible with USB and Bluetooth Joysticks;\n(If it does not explicitly say &quot;Mac compatible&quot;, please check compatibility. I have a list of tested gamepads here, please help expanding it)\nEasy to use interface.\nRequirements:\n\nA Mac with OS X 10.6.6 or higher;\nOne or more USB or Bluetooth joysticks/Gamepads;\nJust a little bit of disc space.",
+  "parsed": {
+    "xt": "urn:btih:3c1390232f75546c596c2b342532998ec62fe406",
+    "dn": "Joystick Mapper 1.1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3c1390232f75546c596c2b342532998ec62fe406",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        60,
+        19,
+        144,
+        35,
+        47,
+        117,
+        84,
+        108,
+        89,
+        108,
+        43,
+        52,
+        37,
+        50,
+        153,
+        142,
+        198,
+        47,
+        228,
+        6
+      ]
+    },
+    "name": "Joystick Mapper 1.1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 16,
+  "last_updated": "2016-12-24T22:42:21.359Z"
+}

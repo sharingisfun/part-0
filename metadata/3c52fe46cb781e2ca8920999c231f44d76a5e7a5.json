@@ -1,1 +1,61 @@
-{"title":"The Harry Potter Audiobook Collection  (Stephen Fry)","uid":10400464,"size":1812579313,"categoryP":"audio","categoryS":"audio_books","magnet":"?xt=urn:btih:3c52fe46cb781e2ca8920999c231f44d76a5e7a5&amp;dn=The+Harry+Potter+Audiobook+Collection++%28Stephen+Fry%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":122,"leechers":20,"uploader":"Robin1966","files":200,"time":1403358391,"description":"Audio Books : Fantasy : MP3/Variable : English\n\nHarry Potter Audio Books 1-7 Unabridged\nRead by Stephen Fry\n\n\n\n\nEnjoy and Seed!!","torrent":{"xt":"urn:btih:3c52fe46cb781e2ca8920999c231f44d76a5e7a5","amp;dn":"The+Harry+Potter+Audiobook+Collection++%28Stephen+Fry%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3c52fe46cb781e2ca8920999c231f44d76a5e7a5","infoHashBuffer":{"type":"Buffer","data":[60,82,254,70,203,120,30,44,168,146,9,153,194,49,244,77,118,165,231,165]},"announce":[],"urlList":[]}}
+{
+  "title": "The Harry Potter Audiobook Collection  (Stephen Fry)",
+  "uid": 10400464,
+  "size": 1812579313,
+  "categoryP": "audio",
+  "categoryS": "audio_books",
+  "magnet": "?xt=urn:btih:3c52fe46cb781e2ca8920999c231f44d76a5e7a5&amp;dn=The+Harry+Potter+Audiobook+Collection++%28Stephen+Fry%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 122,
+  "leechers": 20,
+  "uploader": "Robin1966",
+  "files": 200,
+  "time": 1403358391,
+  "description": "Audio Books : Fantasy : MP3/Variable : English\n\nHarry Potter Audio Books 1-7 Unabridged\nRead by Stephen Fry\n\n\n\n\nEnjoy and Seed!!",
+  "parsed": {
+    "xt": "urn:btih:3c52fe46cb781e2ca8920999c231f44d76a5e7a5",
+    "dn": "The Harry Potter Audiobook Collection  (Stephen Fry)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3c52fe46cb781e2ca8920999c231f44d76a5e7a5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        60,
+        82,
+        254,
+        70,
+        203,
+        120,
+        30,
+        44,
+        168,
+        146,
+        9,
+        153,
+        194,
+        49,
+        244,
+        77,
+        118,
+        165,
+        231,
+        165
+      ]
+    },
+    "name": "The Harry Potter Audiobook Collection  (Stephen Fry)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 142,
+  "peers": 51,
+  "last_updated": "2016-12-24T22:43:35.744Z"
+}
