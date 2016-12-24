@@ -1,1 +1,61 @@
-{"title":"Coldplay - Ghost Stories (2014)","uid":10134855,"size":108811525,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:05bf1e293865d4a90f8bb6b843ed111a656e335a&amp;dn=Coldplay+-+Ghost+Stories+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":1,"uploader":"santicaz","files":9,"time":1399936308,"description":"Artist: Coldplay\n\nAlbum: Ghost Stories\n\nReleased: 2014\n\nStyle: Pop Rock\n\nFormat: MP3 237Kbps\n\nSize: 103 Mb\n\n\nTracklist:\n01 Ã¢â‚¬â€œ Always In My Head\n02 Ã¢â‚¬â€œ Magic\n03 Ã¢â‚¬â€œ Ink\n04 Ã¢â‚¬â€œ True Love\n05 Ã¢â‚¬â€œ Midnight\n06 Ã¢â‚¬â€œ AnotherÃ¢â‚¬â„¢s Arms\n07 Ã¢â‚¬â€œ Oceans\n08 Ã¢â‚¬â€œ A Sky Full Of Stars\n09 Ã¢â‚¬â€œ O","torrent":{"xt":"urn:btih:05bf1e293865d4a90f8bb6b843ed111a656e335a","amp;dn":"Coldplay+-+Ghost+Stories+%282014%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"05bf1e293865d4a90f8bb6b843ed111a656e335a","infoHashBuffer":{"type":"Buffer","data":[5,191,30,41,56,101,212,169,15,139,182,184,67,237,17,26,101,110,51,90]},"announce":[],"urlList":[]}}
+{
+  "title": "Coldplay - Ghost Stories (2014)",
+  "uid": 10134855,
+  "size": 108811525,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:05bf1e293865d4a90f8bb6b843ed111a656e335a&amp;dn=Coldplay+-+Ghost+Stories+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 1,
+  "uploader": "santicaz",
+  "files": 9,
+  "time": 1399936308,
+  "description": "Artist: Coldplay\n\nAlbum: Ghost Stories\n\nReleased: 2014\n\nStyle: Pop Rock\n\nFormat: MP3 237Kbps\n\nSize: 103 Mb\n\n\nTracklist:\n01 Ã¢â‚¬â€œ Always In My Head\n02 Ã¢â‚¬â€œ Magic\n03 Ã¢â‚¬â€œ Ink\n04 Ã¢â‚¬â€œ True Love\n05 Ã¢â‚¬â€œ Midnight\n06 Ã¢â‚¬â€œ AnotherÃ¢â‚¬â„¢s Arms\n07 Ã¢â‚¬â€œ Oceans\n08 Ã¢â‚¬â€œ A Sky Full Of Stars\n09 Ã¢â‚¬â€œ O",
+  "parsed": {
+    "xt": "urn:btih:05bf1e293865d4a90f8bb6b843ed111a656e335a",
+    "dn": "Coldplay - Ghost Stories (2014)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "05bf1e293865d4a90f8bb6b843ed111a656e335a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        5,
+        191,
+        30,
+        41,
+        56,
+        101,
+        212,
+        169,
+        15,
+        139,
+        182,
+        184,
+        67,
+        237,
+        17,
+        26,
+        101,
+        110,
+        51,
+        90
+      ]
+    },
+    "name": "Coldplay - Ghost Stories (2014)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 9,
+  "last_updated": "2016-12-24T15:59:05.317Z"
+}

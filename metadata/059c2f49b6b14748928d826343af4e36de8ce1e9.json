@@ -1,1 +1,61 @@
-{"title":"Strand Of Oaks - Heal (2014) [mp3@320]","uid":10636826,"size":103735722,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:059c2f49b6b14748928d826343af4e36de8ce1e9&amp;dn=Strand+Of+Oaks+-+Heal+%282014%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":3,"uploader":"qculfj","files":11,"time":1406399775,"description":"01. Goshen Ã¢â‚¬â„¢97\n02. Heal\n03. Same Emotions\n04. Shut In\n05. Woke Up To The Light\n06. JM\n07. Plymouth\n08. Mirage Year\n09. For Me\n10. Wait For Love","torrent":{"xt":"urn:btih:059c2f49b6b14748928d826343af4e36de8ce1e9","amp;dn":"Strand+Of+Oaks+-+Heal+%282014%29+%5Bmp3%40320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"059c2f49b6b14748928d826343af4e36de8ce1e9","infoHashBuffer":{"type":"Buffer","data":[5,156,47,73,182,177,71,72,146,141,130,99,67,175,78,54,222,140,225,233]},"announce":[],"urlList":[]}}
+{
+  "title": "Strand Of Oaks - Heal (2014) [mp3@320]",
+  "uid": 10636826,
+  "size": 103735722,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:059c2f49b6b14748928d826343af4e36de8ce1e9&amp;dn=Strand+Of+Oaks+-+Heal+%282014%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 3,
+  "uploader": "qculfj",
+  "files": 11,
+  "time": 1406399775,
+  "description": "01. Goshen Ã¢â‚¬â„¢97\n02. Heal\n03. Same Emotions\n04. Shut In\n05. Woke Up To The Light\n06. JM\n07. Plymouth\n08. Mirage Year\n09. For Me\n10. Wait For Love",
+  "parsed": {
+    "xt": "urn:btih:059c2f49b6b14748928d826343af4e36de8ce1e9",
+    "dn": "Strand Of Oaks - Heal (2014) [mp3@320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "059c2f49b6b14748928d826343af4e36de8ce1e9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        5,
+        156,
+        47,
+        73,
+        182,
+        177,
+        71,
+        72,
+        146,
+        141,
+        130,
+        99,
+        67,
+        175,
+        78,
+        54,
+        222,
+        140,
+        225,
+        233
+      ]
+    },
+    "name": "Strand Of Oaks - Heal (2014) [mp3@320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 27,
+  "last_updated": "2016-12-24T15:58:09.164Z"
+}

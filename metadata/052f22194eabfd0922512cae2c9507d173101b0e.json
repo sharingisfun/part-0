@@ -1,1 +1,61 @@
-{"title":"Criminal Minds Season 7","uid":7285360,"size":8566671580,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:052f22194eabfd0922512cae2c9507d173101b0e&amp;dn=Criminal+Minds+Season+7&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":26,"uploader":"MikeyD88","files":24,"time":1337566190,"description":"This is the complete season of criminal minds.  I did not create the episodes, I just collected them all into a complete season.\n\nAll in AVI","torrent":{"xt":"urn:btih:052f22194eabfd0922512cae2c9507d173101b0e","amp;dn":"Criminal+Minds+Season+7","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"052f22194eabfd0922512cae2c9507d173101b0e","infoHashBuffer":{"type":"Buffer","data":[5,47,34,25,78,171,253,9,34,81,44,174,44,149,7,209,115,16,27,14]},"announce":[],"urlList":[]}}
+{
+  "title": "Criminal Minds Season 7",
+  "uid": 7285360,
+  "size": 8566671580,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:052f22194eabfd0922512cae2c9507d173101b0e&amp;dn=Criminal+Minds+Season+7&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 26,
+  "uploader": "MikeyD88",
+  "files": 24,
+  "time": 1337566190,
+  "description": "This is the complete season of criminal minds.  I did not create the episodes, I just collected them all into a complete season.\n\nAll in AVI",
+  "parsed": {
+    "xt": "urn:btih:052f22194eabfd0922512cae2c9507d173101b0e",
+    "dn": "Criminal Minds Season 7",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "052f22194eabfd0922512cae2c9507d173101b0e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        5,
+        47,
+        34,
+        25,
+        78,
+        171,
+        253,
+        9,
+        34,
+        81,
+        44,
+        174,
+        44,
+        149,
+        7,
+        209,
+        115,
+        16,
+        27,
+        14
+      ]
+    },
+    "name": "Criminal Minds Season 7",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 338,
+  "last_updated": "2016-12-24T15:54:36.595Z"
+}

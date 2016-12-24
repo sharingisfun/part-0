@@ -1,1 +1,61 @@
-{"title":"PVRIS - White Noise [2014]  FLAC + 320","uid":11333814,"size":370255784,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:050b482cd245d61dd249969fb9b02a6662d33822&amp;dn=PVRIS+-+White+Noise+%5B2014%5D++FLAC+%2B+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":8,"uploader":"ShineNJ","files":-1,"time":1414712049,"description":"PVRIS - White Noise [2014]\n\n\nFLAC or 320 MP3 (LAME 3.99.5/44.1 kHz/Joint Stereo/No transcode)\nYou choose! ^_^\n\n\nTrack listing:\n\n1. Smoke \n2. St. Patrick\n3. My House\n4. Holy \n5. White Noise \n6. Fire \n7. Eyelids \n8. Mirrors \n9. Ghosts \n10. Let Them In\n\nEnjoy!","torrent":{"xt":"urn:btih:050b482cd245d61dd249969fb9b02a6662d33822","amp;dn":"PVRIS+-+White+Noise+%5B2014%5D++FLAC+%2B+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"050b482cd245d61dd249969fb9b02a6662d33822","infoHashBuffer":{"type":"Buffer","data":[5,11,72,44,210,69,214,29,210,73,150,159,185,176,42,102,98,211,56,34]},"announce":[],"urlList":[]}}
+{
+  "title": "PVRIS - White Noise [2014]  FLAC + 320",
+  "uid": 11333814,
+  "size": 370255784,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:050b482cd245d61dd249969fb9b02a6662d33822&amp;dn=PVRIS+-+White+Noise+%5B2014%5D++FLAC+%2B+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 8,
+  "uploader": "ShineNJ",
+  "files": -1,
+  "time": 1414712049,
+  "description": "PVRIS - White Noise [2014]\n\n\nFLAC or 320 MP3 (LAME 3.99.5/44.1 kHz/Joint Stereo/No transcode)\nYou choose! ^_^\n\n\nTrack listing:\n\n1. Smoke \n2. St. Patrick\n3. My House\n4. Holy \n5. White Noise \n6. Fire \n7. Eyelids \n8. Mirrors \n9. Ghosts \n10. Let Them In\n\nEnjoy!",
+  "parsed": {
+    "xt": "urn:btih:050b482cd245d61dd249969fb9b02a6662d33822",
+    "dn": "PVRIS - White Noise [2014]  FLAC   320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "050b482cd245d61dd249969fb9b02a6662d33822",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        5,
+        11,
+        72,
+        44,
+        210,
+        69,
+        214,
+        29,
+        210,
+        73,
+        150,
+        159,
+        185,
+        176,
+        42,
+        102,
+        98,
+        211,
+        56,
+        34
+      ]
+    },
+    "name": "PVRIS - White Noise [2014]  FLAC   320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 76,
+  "last_updated": "2016-12-24T15:53:42.461Z"
+}

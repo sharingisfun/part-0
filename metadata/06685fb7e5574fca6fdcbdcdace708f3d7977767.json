@@ -1,1 +1,63 @@
-{"title":"Outlander Season 2","uid":15333994,"size":5394785936,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:06685fb7e5574fca6fdcbdcdace708f3d7977767&amp;dn=Outlander+Season+2&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":10,"uploader":"ialyshah","files":13,"time":1468764869,"description":"Outlander Season 2 Complete Season\r\nHD Quality\r\nA.R. Shah","torrent":{"xt":"urn:btih:06685fb7e5574fca6fdcbdcdace708f3d7977767","amp;dn":"Outlander+Season+2","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"06685fb7e5574fca6fdcbdcdace708f3d7977767","infoHashBuffer":{"type":"Buffer","data":[6,104,95,183,229,87,79,202,111,220,189,205,172,231,8,243,215,151,119,103]},"announce":[],"urlList":[]}}
+{
+  "title": "Outlander Season 2",
+  "uid": 15333994,
+  "size": 5394785936,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:06685fb7e5574fca6fdcbdcdace708f3d7977767&amp;dn=Outlander+Season+2&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 10,
+  "uploader": "ialyshah",
+  "files": 13,
+  "time": 1468764869,
+  "description": "Outlander Season 2 Complete Season\r\nHD Quality\r\nA.R. Shah",
+  "parsed": {
+    "xt": "urn:btih:06685fb7e5574fca6fdcbdcdace708f3d7977767",
+    "dn": "Outlander Season 2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "06685fb7e5574fca6fdcbdcdace708f3d7977767",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        6,
+        104,
+        95,
+        183,
+        229,
+        87,
+        79,
+        202,
+        111,
+        220,
+        189,
+        205,
+        172,
+        231,
+        8,
+        243,
+        215,
+        151,
+        119,
+        103
+      ]
+    },
+    "name": "Outlander Season 2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 100,
+  "last_updated": "2016-12-24T16:04:22.107Z"
+}

@@ -1,1 +1,61 @@
-{"title":"El Ãºnico superviviente DVDScreener","uid":9424518,"size":1821351938,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:0655ac567a2bae1ecf12e44fe6b2b974794965cc&amp;dn=El+%26uacute%3Bnico+superviviente+DVDScreener&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":110,"leechers":1,"uploader":"Miguel223","files":1,"time":1388663687,"description":"","torrent":{"xt":"urn:btih:0655ac567a2bae1ecf12e44fe6b2b974794965cc","amp;dn":"El+%26uacute%3Bnico+superviviente+DVDScreener","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0655ac567a2bae1ecf12e44fe6b2b974794965cc","infoHashBuffer":{"type":"Buffer","data":[6,85,172,86,122,43,174,30,207,18,228,79,230,178,185,116,121,73,101,204]},"announce":[],"urlList":[]}}
+{
+  "title": "El Ãºnico superviviente DVDScreener",
+  "uid": 9424518,
+  "size": 1821351938,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:0655ac567a2bae1ecf12e44fe6b2b974794965cc&amp;dn=El+%26uacute%3Bnico+superviviente+DVDScreener&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 110,
+  "leechers": 1,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1388663687,
+  "description": "",
+  "parsed": {
+    "xt": "urn:btih:0655ac567a2bae1ecf12e44fe6b2b974794965cc",
+    "dn": "El &uacute;nico superviviente DVDScreener",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0655ac567a2bae1ecf12e44fe6b2b974794965cc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        6,
+        85,
+        172,
+        86,
+        122,
+        43,
+        174,
+        30,
+        207,
+        18,
+        228,
+        79,
+        230,
+        178,
+        185,
+        116,
+        121,
+        73,
+        101,
+        204
+      ]
+    },
+    "name": "El &uacute;nico superviviente DVDScreener",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 111,
+  "peers": 22,
+  "last_updated": "2016-12-24T16:03:58.043Z"
+}

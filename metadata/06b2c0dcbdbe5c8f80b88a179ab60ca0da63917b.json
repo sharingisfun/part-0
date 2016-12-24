@@ -1,1 +1,61 @@
-{"title":"Bring Me The Horizon - Drown","uid":11255477,"size":5889757,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:06b2c0dcbdbe5c8f80b88a179ab60ca0da63917b&amp;dn=Bring+Me+The+Horizon+-+Drown&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":0,"uploader":"soadyer","files":1,"time":1413850640,"description":"Release - October 21st, 2014\nGenre - Metalcore\nQuality - MP3 | 192kbps\n \n Tracklist: \n1. Drown","torrent":{"xt":"urn:btih:06b2c0dcbdbe5c8f80b88a179ab60ca0da63917b","amp;dn":"Bring+Me+The+Horizon+-+Drown","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"06b2c0dcbdbe5c8f80b88a179ab60ca0da63917b","infoHashBuffer":{"type":"Buffer","data":[6,178,192,220,189,190,92,143,128,184,138,23,154,182,12,160,218,99,145,123]},"announce":[],"urlList":[]}}
+{
+  "title": "Bring Me The Horizon - Drown",
+  "uid": 11255477,
+  "size": 5889757,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:06b2c0dcbdbe5c8f80b88a179ab60ca0da63917b&amp;dn=Bring+Me+The+Horizon+-+Drown&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 0,
+  "uploader": "soadyer",
+  "files": 1,
+  "time": 1413850640,
+  "description": "Release - October 21st, 2014\nGenre - Metalcore\nQuality - MP3 | 192kbps\n \n Tracklist: \n1. Drown",
+  "parsed": {
+    "xt": "urn:btih:06b2c0dcbdbe5c8f80b88a179ab60ca0da63917b",
+    "dn": "Bring Me The Horizon - Drown",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "06b2c0dcbdbe5c8f80b88a179ab60ca0da63917b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        6,
+        178,
+        192,
+        220,
+        189,
+        190,
+        92,
+        143,
+        128,
+        184,
+        138,
+        23,
+        154,
+        182,
+        12,
+        160,
+        218,
+        99,
+        145,
+        123
+      ]
+    },
+    "name": "Bring Me The Horizon - Drown",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 24,
+  "last_updated": "2016-12-24T16:06:32.453Z"
+}

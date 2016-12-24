@@ -1,1 +1,63 @@
-{"title":"Salt and Sanctuary v1.0.0.4","uid":14691905,"size":586418052,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:04b72f6a1baac9b8b72d23544e1beb191b44037a&amp;dn=Salt+and+Sanctuary+v1.0.0.4&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":2,"uploader":"mercs215","files":1,"time":1464210403,"description":"Install instructions:\r\n- Download and unzip\r\n- Play (launch that game via salt.exe)\r\n\r\nChangelog:\r\n- Added controls reset to defaults\r\n- Implemented crash logging (crash logs appear as crash.log in game directory)\r\n- Fixed strong mace attack requiring no stamina\r\n- Fixed work menu exploit allowing one turn-in to earn all turn-ins\r\n- Fixed missing mouse support to Candlelit lady dialog\r\n- Fixed mouse causing store items to show as 0 gp\r\n- Fixed throwables: now able to hold throw as with crossbows/arrows\r\n- Swapped gamepad LT/L2/RT/R2 icons for arrows when using mouse\r\n- Removed LT/L2/RT/R2 in some windows when using mouse\r\n- Fixed Light Armor skill node appearing as Assassin when using mouse\r\n- Implemented mouse alternative to L3 stat toggle\r\n- Updated German strings","torrent":{"xt":"urn:btih:04b72f6a1baac9b8b72d23544e1beb191b44037a","amp;dn":"Salt+and+Sanctuary+v1.0.0.4","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"04b72f6a1baac9b8b72d23544e1beb191b44037a","infoHashBuffer":{"type":"Buffer","data":[4,183,47,106,27,170,201,184,183,45,35,84,78,27,235,25,27,68,3,122]},"announce":[],"urlList":[]}}
+{
+  "title": "Salt and Sanctuary v1.0.0.4",
+  "uid": 14691905,
+  "size": 586418052,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:04b72f6a1baac9b8b72d23544e1beb191b44037a&amp;dn=Salt+and+Sanctuary+v1.0.0.4&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 2,
+  "uploader": "mercs215",
+  "files": 1,
+  "time": 1464210403,
+  "description": "Install instructions:\r\n- Download and unzip\r\n- Play (launch that game via salt.exe)\r\n\r\nChangelog:\r\n- Added controls reset to defaults\r\n- Implemented crash logging (crash logs appear as crash.log in game directory)\r\n- Fixed strong mace attack requiring no stamina\r\n- Fixed work menu exploit allowing one turn-in to earn all turn-ins\r\n- Fixed missing mouse support to Candlelit lady dialog\r\n- Fixed mouse causing store items to show as 0 gp\r\n- Fixed throwables: now able to hold throw as with crossbows/arrows\r\n- Swapped gamepad LT/L2/RT/R2 icons for arrows when using mouse\r\n- Removed LT/L2/RT/R2 in some windows when using mouse\r\n- Fixed Light Armor skill node appearing as Assassin when using mouse\r\n- Implemented mouse alternative to L3 stat toggle\r\n- Updated German strings",
+  "parsed": {
+    "xt": "urn:btih:04b72f6a1baac9b8b72d23544e1beb191b44037a",
+    "dn": "Salt and Sanctuary v1.0.0.4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "04b72f6a1baac9b8b72d23544e1beb191b44037a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        4,
+        183,
+        47,
+        106,
+        27,
+        170,
+        201,
+        184,
+        183,
+        45,
+        35,
+        84,
+        78,
+        27,
+        235,
+        25,
+        27,
+        68,
+        3,
+        122
+      ]
+    },
+    "name": "Salt and Sanctuary v1.0.0.4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 101,
+  "last_updated": "2016-12-24T15:51:10.073Z"
+}

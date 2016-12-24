@@ -1,1 +1,63 @@
-{"title":"Castle Crashers v2.5 (Inclu DLC)","uid":13242134,"size":183776794,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:05f5cc7f31fcc2aaec5d787a5724f4d615e9d534&amp;dn=Castle+Crashers+v2.5+%28Inclu+DLC%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":0,"uploader":"dauphong","files":1,"time":1453063432,"description":"Hack, slash, and smash your way to victory in this newly updated edition of the insanely popular 2D arcade adventure from The Behemoth! Up to four friends can play locally or online and save your princess, defend your kingdom, and crash some castles!\r\n\r\nWith the new Barbarian Makeover Update, Castle Crashers now delivers uncapped framerate and a new Ultra texture quality mode. We even built a new, fast-paced multiplayer minigame just for you and your friends!","torrent":{"xt":"urn:btih:05f5cc7f31fcc2aaec5d787a5724f4d615e9d534","amp;dn":"Castle+Crashers+v2.5+%28Inclu+DLC%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"05f5cc7f31fcc2aaec5d787a5724f4d615e9d534","infoHashBuffer":{"type":"Buffer","data":[5,245,204,127,49,252,194,170,236,93,120,122,87,36,244,214,21,233,213,52]},"announce":[],"urlList":[]}}
+{
+  "title": "Castle Crashers v2.5 (Inclu DLC)",
+  "uid": 13242134,
+  "size": 183776794,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:05f5cc7f31fcc2aaec5d787a5724f4d615e9d534&amp;dn=Castle+Crashers+v2.5+%28Inclu+DLC%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 0,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1453063432,
+  "description": "Hack, slash, and smash your way to victory in this newly updated edition of the insanely popular 2D arcade adventure from The Behemoth! Up to four friends can play locally or online and save your princess, defend your kingdom, and crash some castles!\r\n\r\nWith the new Barbarian Makeover Update, Castle Crashers now delivers uncapped framerate and a new Ultra texture quality mode. We even built a new, fast-paced multiplayer minigame just for you and your friends!",
+  "parsed": {
+    "xt": "urn:btih:05f5cc7f31fcc2aaec5d787a5724f4d615e9d534",
+    "dn": "Castle Crashers v2.5 (Inclu DLC)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "05f5cc7f31fcc2aaec5d787a5724f4d615e9d534",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        5,
+        245,
+        204,
+        127,
+        49,
+        252,
+        194,
+        170,
+        236,
+        93,
+        120,
+        122,
+        87,
+        36,
+        244,
+        214,
+        21,
+        233,
+        213,
+        52
+      ]
+    },
+    "name": "Castle Crashers v2.5 (Inclu DLC)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 100,
+  "last_updated": "2016-12-24T16:00:41.560Z"
+}

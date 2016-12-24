@@ -1,1 +1,61 @@
-{"title":"Extant S02E03 HDTV x264","uid":12181366,"size":245131656,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:059e6a6c3c04d59cd72fad728a18e6c30e728731&amp;dn=Extant+S02E03+HDTV+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":5,"uploader":"OvoJeKraj","files":3,"time":1438453880,"description":"Video : x264\nAudio : AAC 2ch 48khz\nAspect Ratio : 16:9\nFrame Rate : 23.976024 fps","torrent":{"xt":"urn:btih:059e6a6c3c04d59cd72fad728a18e6c30e728731","amp;dn":"Extant+S02E03+HDTV+x264","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"059e6a6c3c04d59cd72fad728a18e6c30e728731","infoHashBuffer":{"type":"Buffer","data":[5,158,106,108,60,4,213,156,215,47,173,114,138,24,230,195,14,114,135,49]},"announce":[],"urlList":[]}}
+{
+  "title": "Extant S02E03 HDTV x264",
+  "uid": 12181366,
+  "size": 245131656,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:059e6a6c3c04d59cd72fad728a18e6c30e728731&amp;dn=Extant+S02E03+HDTV+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 5,
+  "uploader": "OvoJeKraj",
+  "files": 3,
+  "time": 1438453880,
+  "description": "Video : x264\nAudio : AAC 2ch 48khz\nAspect Ratio : 16:9\nFrame Rate : 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:059e6a6c3c04d59cd72fad728a18e6c30e728731",
+    "dn": "Extant S02E03 HDTV x264",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "059e6a6c3c04d59cd72fad728a18e6c30e728731",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        5,
+        158,
+        106,
+        108,
+        60,
+        4,
+        213,
+        156,
+        215,
+        47,
+        173,
+        114,
+        138,
+        24,
+        230,
+        195,
+        14,
+        114,
+        135,
+        49
+      ]
+    },
+    "name": "Extant S02E03 HDTV x264",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 4,
+  "last_updated": "2016-12-24T15:58:15.177Z"
+}

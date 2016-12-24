@@ -1,1 +1,61 @@
-{"title":"Banda do Mar (2014) [320kbps]","uid":10956965,"size":114986440,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:05a70bcb385a8b7717bbe77a469593e19b3ee6bf&amp;dn=Banda+do+Mar+%282014%29+%5B320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":109,"leechers":1,"uploader":"lascooguy","files":-1,"time":1409687137,"description":"Banda do Mar Ã¢â‚¬â€œ Banda do Mar [Album] (2014)\nQuality: 320kbps\nGenres: Pop, Music\nReleased: 2014/08/05\n\n\nTracklist:\n\n1.  &quot;Cidade Nova&quot; 2:56\n2.  &quot;Mais NinguÃƒÂ©m&quot; 2:48\n3.  &quot;Hey Nana&quot; 3:05\n4.  &quot;Muitos Chocolates&quot; 2:19\n5.  &quot;Pode Ser&quot; 4:27\n6.  &quot;Mia&quot; 4:09\n7.  &quot;Dia Clarear&quot; 3:41\n8.  &quot;Me Sinto Ãƒâ€œtima&quot; 3:53\n9.  &quot;Faz Tempo&quot; 4:22\n10. &quot;Seja Como For&quot; 3:39\n11. &quot;Solar&quot; 3:32\n12. &quot;Vamo Embora&quot; 5:27","torrent":{"xt":"urn:btih:05a70bcb385a8b7717bbe77a469593e19b3ee6bf","amp;dn":"Banda+do+Mar+%282014%29+%5B320kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"05a70bcb385a8b7717bbe77a469593e19b3ee6bf","infoHashBuffer":{"type":"Buffer","data":[5,167,11,203,56,90,139,119,23,187,231,122,70,149,147,225,155,62,230,191]},"announce":[],"urlList":[]}}
+{
+  "title": "Banda do Mar (2014) [320kbps]",
+  "uid": 10956965,
+  "size": 114986440,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:05a70bcb385a8b7717bbe77a469593e19b3ee6bf&amp;dn=Banda+do+Mar+%282014%29+%5B320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 109,
+  "leechers": 1,
+  "uploader": "lascooguy",
+  "files": -1,
+  "time": 1409687137,
+  "description": "Banda do Mar Ã¢â‚¬â€œ Banda do Mar [Album] (2014)\nQuality: 320kbps\nGenres: Pop, Music\nReleased: 2014/08/05\n\n\nTracklist:\n\n1.  &quot;Cidade Nova&quot; 2:56\n2.  &quot;Mais NinguÃƒÂ©m&quot; 2:48\n3.  &quot;Hey Nana&quot; 3:05\n4.  &quot;Muitos Chocolates&quot; 2:19\n5.  &quot;Pode Ser&quot; 4:27\n6.  &quot;Mia&quot; 4:09\n7.  &quot;Dia Clarear&quot; 3:41\n8.  &quot;Me Sinto Ãƒâ€œtima&quot; 3:53\n9.  &quot;Faz Tempo&quot; 4:22\n10. &quot;Seja Como For&quot; 3:39\n11. &quot;Solar&quot; 3:32\n12. &quot;Vamo Embora&quot; 5:27",
+  "parsed": {
+    "xt": "urn:btih:05a70bcb385a8b7717bbe77a469593e19b3ee6bf",
+    "dn": "Banda do Mar (2014) [320kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "05a70bcb385a8b7717bbe77a469593e19b3ee6bf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        5,
+        167,
+        11,
+        203,
+        56,
+        90,
+        139,
+        119,
+        23,
+        187,
+        231,
+        122,
+        70,
+        149,
+        147,
+        225,
+        155,
+        62,
+        230,
+        191
+      ]
+    },
+    "name": "Banda do Mar (2014) [320kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 110,
+  "peers": 35,
+  "last_updated": "2016-12-24T15:58:31.220Z"
+}

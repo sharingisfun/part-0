@@ -1,1 +1,61 @@
-{"title":"iGO Primo 2.0.1 (9.6.7.281004) (07 feb 2013) Android-(All Langua","uid":9651809,"size":536442672,"categoryP":"applications","categoryS":"android","magnet":"?xt=urn:btih:05d8caf4e63d222cba5f42cc95ba719898c92be9&amp;dn=iGO+Primo+2.0.1+%289.6.7.281004%29+%2807+feb+2013%29+Android-%28All+Langua&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":1,"uploader":"sususa","files":1,"time":1393089375,"description":"iGO Primo 2.0.1 (9.6.7.281004) (07 feb 2013) Android-(All Languages and Voices )\n\n\n\niGO Maps: http://android-zone.org/viewtopic.php?f=25&amp;t=7\n\n\n\nPlace folder named iGO into the root of sd card and then install included apk.\n\nMaps are not included you must download them from the link above.\n\nSupported resolutions:320*240,480*320,800*480,854*480,960*540,1024*600,1280*720,1280*800","torrent":{"xt":"urn:btih:05d8caf4e63d222cba5f42cc95ba719898c92be9","amp;dn":"iGO+Primo+2.0.1+%289.6.7.281004%29+%2807+feb+2013%29+Android-%28All+Langua","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"05d8caf4e63d222cba5f42cc95ba719898c92be9","infoHashBuffer":{"type":"Buffer","data":[5,216,202,244,230,61,34,44,186,95,66,204,149,186,113,152,152,201,43,233]},"announce":[],"urlList":[]}}
+{
+  "title": "iGO Primo 2.0.1 (9.6.7.281004) (07 feb 2013) Android-(All Langua",
+  "uid": 9651809,
+  "size": 536442672,
+  "categoryP": "applications",
+  "categoryS": "android",
+  "magnet": "?xt=urn:btih:05d8caf4e63d222cba5f42cc95ba719898c92be9&amp;dn=iGO+Primo+2.0.1+%289.6.7.281004%29+%2807+feb+2013%29+Android-%28All+Langua&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 1,
+  "uploader": "sususa",
+  "files": 1,
+  "time": 1393089375,
+  "description": "iGO Primo 2.0.1 (9.6.7.281004) (07 feb 2013) Android-(All Languages and Voices )\n\n\n\niGO Maps: http://android-zone.org/viewtopic.php?f=25&amp;t=7\n\n\n\nPlace folder named iGO into the root of sd card and then install included apk.\n\nMaps are not included you must download them from the link above.\n\nSupported resolutions:320*240,480*320,800*480,854*480,960*540,1024*600,1280*720,1280*800",
+  "parsed": {
+    "xt": "urn:btih:05d8caf4e63d222cba5f42cc95ba719898c92be9",
+    "dn": "iGO Primo 2.0.1 (9.6.7.281004) (07 feb 2013) Android-(All Langua",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "05d8caf4e63d222cba5f42cc95ba719898c92be9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        5,
+        216,
+        202,
+        244,
+        230,
+        61,
+        34,
+        44,
+        186,
+        95,
+        66,
+        204,
+        149,
+        186,
+        113,
+        152,
+        152,
+        201,
+        43,
+        233
+      ]
+    },
+    "name": "iGO Primo 2.0.1 (9.6.7.281004) (07 feb 2013) Android-(All Langua",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 153,
+  "last_updated": "2016-12-24T16:00:01.451Z"
+}

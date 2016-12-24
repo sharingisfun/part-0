@@ -1,1 +1,63 @@
-{"title":"Once.Upon.A.Time.S05E04.HDTV.x264-FUM[ettv]","uid":12595822,"size":322350263,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:0506df5381eb43259dbaaef0f0ab534a85275cb5&amp;dn=Once.Upon.A.Time.S05E04.HDTV.x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":1,"uploader":"ettv","files":2,"time":1445226738,"description":"Torrent Description\r\nettv - ExtraTorrent TV Shows\r\n\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n       \nhttp://extratorrent.cc/\r\n\r\n\r\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:0506df5381eb43259dbaaef0f0ab534a85275cb5","amp;dn":"Once.Upon.A.Time.S05E04.HDTV.x264-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0506df5381eb43259dbaaef0f0ab534a85275cb5","infoHashBuffer":{"type":"Buffer","data":[5,6,223,83,129,235,67,37,157,186,174,240,240,171,83,74,133,39,92,181]},"announce":[],"urlList":[]}}
+{
+  "title": "Once.Upon.A.Time.S05E04.HDTV.x264-FUM[ettv]",
+  "uid": 12595822,
+  "size": 322350263,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:0506df5381eb43259dbaaef0f0ab534a85275cb5&amp;dn=Once.Upon.A.Time.S05E04.HDTV.x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1445226738,
+  "description": "Torrent Description\r\nettv - ExtraTorrent TV Shows\r\n\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n       \nhttp://extratorrent.cc/\r\n\r\n\r\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:0506df5381eb43259dbaaef0f0ab534a85275cb5",
+    "dn": "Once.Upon.A.Time.S05E04.HDTV.x264-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "0506df5381eb43259dbaaef0f0ab534a85275cb5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        5,
+        6,
+        223,
+        83,
+        129,
+        235,
+        67,
+        37,
+        157,
+        186,
+        174,
+        240,
+        240,
+        171,
+        83,
+        74,
+        133,
+        39,
+        92,
+        181
+      ]
+    },
+    "name": "Once.Upon.A.Time.S05E04.HDTV.x264-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 61,
+  "last_updated": "2016-12-24T15:53:28.428Z"
+}

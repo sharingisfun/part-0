@@ -1,1 +1,61 @@
-{"title":"Teen Titans Season 1-5","uid":4565978,"size":13374411880,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:06d12c97a05fad40202ba711a0fbd0fb90394c99&amp;dn=Teen+Titans+Season+1-5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":110,"leechers":85,"uploader":"Xnova45","files":71,"time":1228867915,"description":"Teen Titans (All 5 Seasons + Tokyo) &amp;#039;nuff said :)","torrent":{"xt":"urn:btih:06d12c97a05fad40202ba711a0fbd0fb90394c99","amp;dn":"Teen+Titans+Season+1-5","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"06d12c97a05fad40202ba711a0fbd0fb90394c99","infoHashBuffer":{"type":"Buffer","data":[6,209,44,151,160,95,173,64,32,43,167,17,160,251,208,251,144,57,76,153]},"announce":[],"urlList":[]}}
+{
+  "title": "Teen Titans Season 1-5",
+  "uid": 4565978,
+  "size": 13374411880,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:06d12c97a05fad40202ba711a0fbd0fb90394c99&amp;dn=Teen+Titans+Season+1-5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 110,
+  "leechers": 85,
+  "uploader": "Xnova45",
+  "files": 71,
+  "time": 1228867915,
+  "description": "Teen Titans (All 5 Seasons + Tokyo) &amp;#039;nuff said :)",
+  "parsed": {
+    "xt": "urn:btih:06d12c97a05fad40202ba711a0fbd0fb90394c99",
+    "dn": "Teen Titans Season 1-5",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "06d12c97a05fad40202ba711a0fbd0fb90394c99",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        6,
+        209,
+        44,
+        151,
+        160,
+        95,
+        173,
+        64,
+        32,
+        43,
+        167,
+        17,
+        160,
+        251,
+        208,
+        251,
+        144,
+        57,
+        76,
+        153
+      ]
+    },
+    "name": "Teen Titans Season 1-5",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 195,
+  "peers": 57,
+  "last_updated": "2016-12-24T16:07:12.552Z"
+}

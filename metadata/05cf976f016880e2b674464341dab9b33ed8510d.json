@@ -1,1 +1,61 @@
-{"title":"PC_Jaws.Unleashed-.direct.play.rip.-ToeD","uid":3897260,"size":1127079192,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:05cf976f016880e2b674464341dab9b33ed8510d&amp;dn=PC_Jaws.Unleashed-.direct.play.rip.-ToeD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":2,"uploader":"Subzero!","files":5,"time":1195347425,"description":"Jaws Unleashed, Multi 5 Rip!...\n\n","torrent":{"xt":"urn:btih:05cf976f016880e2b674464341dab9b33ed8510d","amp;dn":"PC_Jaws.Unleashed-.direct.play.rip.-ToeD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"05cf976f016880e2b674464341dab9b33ed8510d","infoHashBuffer":{"type":"Buffer","data":[5,207,151,111,1,104,128,226,182,116,70,67,65,218,185,179,62,216,81,13]},"announce":[],"urlList":[]}}
+{
+  "title": "PC_Jaws.Unleashed-.direct.play.rip.-ToeD",
+  "uid": 3897260,
+  "size": 1127079192,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:05cf976f016880e2b674464341dab9b33ed8510d&amp;dn=PC_Jaws.Unleashed-.direct.play.rip.-ToeD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 2,
+  "uploader": "Subzero!",
+  "files": 5,
+  "time": 1195347425,
+  "description": "Jaws Unleashed, Multi 5 Rip!...\n\n",
+  "parsed": {
+    "xt": "urn:btih:05cf976f016880e2b674464341dab9b33ed8510d",
+    "dn": "PC_Jaws.Unleashed-.direct.play.rip.-ToeD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "05cf976f016880e2b674464341dab9b33ed8510d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        5,
+        207,
+        151,
+        111,
+        1,
+        104,
+        128,
+        226,
+        182,
+        116,
+        70,
+        67,
+        65,
+        218,
+        185,
+        179,
+        62,
+        216,
+        81,
+        13
+      ]
+    },
+    "name": "PC_Jaws.Unleashed-.direct.play.rip.-ToeD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 7,
+  "last_updated": "2016-12-24T15:59:35.385Z"
+}
