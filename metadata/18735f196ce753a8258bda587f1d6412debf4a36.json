@@ -1,1 +1,61 @@
-{"title":"[Indie] Phoenix - Discography 2000-2013 (By Jamal The Moroccan)","uid":9203947,"size":1279686870,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:18735f196ce753a8258bda587f1d6412debf4a36&amp;dn=%5BIndie%5D+Phoenix+-+Discography+2000-2013+%28By+Jamal+The+Moroccan%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":25,"uploader":"abdenna","files":-1,"time":1384647605,"description":"[Indie] Phoenix - Discography 2000-2013 (By Jamal The Moroccan)","torrent":{"xt":"urn:btih:18735f196ce753a8258bda587f1d6412debf4a36","amp;dn":"%5BIndie%5D+Phoenix+-+Discography+2000-2013+%28By+Jamal+The+Moroccan%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"18735f196ce753a8258bda587f1d6412debf4a36","infoHashBuffer":{"type":"Buffer","data":[24,115,95,25,108,231,83,168,37,139,218,88,127,29,100,18,222,191,74,54]},"announce":[],"urlList":[]}}
+{
+  "title": "[Indie] Phoenix - Discography 2000-2013 (By Jamal The Moroccan)",
+  "uid": 9203947,
+  "size": 1279686870,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:18735f196ce753a8258bda587f1d6412debf4a36&amp;dn=%5BIndie%5D+Phoenix+-+Discography+2000-2013+%28By+Jamal+The+Moroccan%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 25,
+  "uploader": "abdenna",
+  "files": -1,
+  "time": 1384647605,
+  "description": "[Indie] Phoenix - Discography 2000-2013 (By Jamal The Moroccan)",
+  "parsed": {
+    "xt": "urn:btih:18735f196ce753a8258bda587f1d6412debf4a36",
+    "dn": "[Indie] Phoenix - Discography 2000-2013 (By Jamal The Moroccan)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "18735f196ce753a8258bda587f1d6412debf4a36",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        24,
+        115,
+        95,
+        25,
+        108,
+        231,
+        83,
+        168,
+        37,
+        139,
+        218,
+        88,
+        127,
+        29,
+        100,
+        18,
+        222,
+        191,
+        74,
+        54
+      ]
+    },
+    "name": "[Indie] Phoenix - Discography 2000-2013 (By Jamal The Moroccan)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 87,
+  "peers": 14,
+  "last_updated": "2016-12-24T18:22:46.833Z"
+}

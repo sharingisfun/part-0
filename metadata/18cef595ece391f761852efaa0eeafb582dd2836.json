@@ -1,1 +1,61 @@
-{"title":"GTA Vice City","uid":4921243,"size":631384697,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:18cef595ece391f761852efaa0eeafb582dd2836&amp;dn=GTA+Vice+City&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":5,"uploader":"jgsboom","files":1,"time":1243671539,"description":"GTA Vice City Full Version\nqueit old one. More fun to discover with cheating tricks.","torrent":{"xt":"urn:btih:18cef595ece391f761852efaa0eeafb582dd2836","amp;dn":"GTA+Vice+City","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"18cef595ece391f761852efaa0eeafb582dd2836","infoHashBuffer":{"type":"Buffer","data":[24,206,245,149,236,227,145,247,97,133,46,250,160,238,175,181,130,221,40,54]},"announce":[],"urlList":[]}}
+{
+  "title": "GTA Vice City",
+  "uid": 4921243,
+  "size": 631384697,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:18cef595ece391f761852efaa0eeafb582dd2836&amp;dn=GTA+Vice+City&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 5,
+  "uploader": "jgsboom",
+  "files": 1,
+  "time": 1243671539,
+  "description": "GTA Vice City Full Version\nqueit old one. More fun to discover with cheating tricks.",
+  "parsed": {
+    "xt": "urn:btih:18cef595ece391f761852efaa0eeafb582dd2836",
+    "dn": "GTA Vice City",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "18cef595ece391f761852efaa0eeafb582dd2836",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        24,
+        206,
+        245,
+        149,
+        236,
+        227,
+        145,
+        247,
+        97,
+        133,
+        46,
+        250,
+        160,
+        238,
+        175,
+        181,
+        130,
+        221,
+        40,
+        54
+      ]
+    },
+    "name": "GTA Vice City",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 84,
+  "peers": 177,
+  "last_updated": "2016-12-24T18:25:31.441Z"
+}

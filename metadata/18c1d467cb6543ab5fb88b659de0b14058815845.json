@@ -1,1 +1,61 @@
-{"title":"Bruno Mars - Locked Out of Heaven {2012-Single}","uid":7704104,"size":9443573,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:18c1d467cb6543ab5fb88b659de0b14058815845&amp;dn=Bruno+Mars+-+Locked+Out+of+Heaven+%7B2012-Single%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":121,"leechers":2,"uploader":"Oz","files":-1,"time":1349633697,"description":"General\n\nFormat : MPEG Audio\nFile size : 9.01 MiB\nDuration : 3mn 53s\nOverall bit rate mode : Constant\nOverall bit rate : 320 Kbps\nAlbum : Locked Out of Heaven - Single\nAlbum/Performer : Bruno Mars\nPart/Position : 1\nTrack name : Locked Out of Heaven\nTrack name/Position : 1\nPerformer : Bruno Mars\nEncoded by : Oz\nGenre : Pop\nRecorded date : 2012\nCover : Yes\nCover type : Cover (front)\nCover MIME : image/jpeg\n\nAudio\n\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nDuration : 3mn 53s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nStream size : 8.91 MiB (99%)\n\n\n&gt;&gt;&gt;Don't Forget To Like My Page:","torrent":{"xt":"urn:btih:18c1d467cb6543ab5fb88b659de0b14058815845","amp;dn":"Bruno+Mars+-+Locked+Out+of+Heaven+%7B2012-Single%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"18c1d467cb6543ab5fb88b659de0b14058815845","infoHashBuffer":{"type":"Buffer","data":[24,193,212,103,203,101,67,171,95,184,139,101,157,224,177,64,88,129,88,69]},"announce":[],"urlList":[]}}
+{
+  "title": "Bruno Mars - Locked Out of Heaven {2012-Single}",
+  "uid": 7704104,
+  "size": 9443573,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:18c1d467cb6543ab5fb88b659de0b14058815845&amp;dn=Bruno+Mars+-+Locked+Out+of+Heaven+%7B2012-Single%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 121,
+  "leechers": 2,
+  "uploader": "Oz",
+  "files": -1,
+  "time": 1349633697,
+  "description": "General\n\nFormat : MPEG Audio\nFile size : 9.01 MiB\nDuration : 3mn 53s\nOverall bit rate mode : Constant\nOverall bit rate : 320 Kbps\nAlbum : Locked Out of Heaven - Single\nAlbum/Performer : Bruno Mars\nPart/Position : 1\nTrack name : Locked Out of Heaven\nTrack name/Position : 1\nPerformer : Bruno Mars\nEncoded by : Oz\nGenre : Pop\nRecorded date : 2012\nCover : Yes\nCover type : Cover (front)\nCover MIME : image/jpeg\n\nAudio\n\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nDuration : 3mn 53s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nStream size : 8.91 MiB (99%)\n\n\n&gt;&gt;&gt;Don't Forget To Like My Page:",
+  "parsed": {
+    "xt": "urn:btih:18c1d467cb6543ab5fb88b659de0b14058815845",
+    "dn": "Bruno Mars - Locked Out of Heaven {2012-Single}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "18c1d467cb6543ab5fb88b659de0b14058815845",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        24,
+        193,
+        212,
+        103,
+        203,
+        101,
+        67,
+        171,
+        95,
+        184,
+        139,
+        101,
+        157,
+        224,
+        177,
+        64,
+        88,
+        129,
+        88,
+        69
+      ]
+    },
+    "name": "Bruno Mars - Locked Out of Heaven {2012-Single}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 123,
+  "peers": 52,
+  "last_updated": "2016-12-24T18:25:03.331Z"
+}

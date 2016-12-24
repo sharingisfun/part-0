@@ -1,1 +1,61 @@
-{"title":"Salem S01E01 HDTV x264-2HD [eztv]","uid":10008029,"size":372809500,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:19f47f3e425fba0519aedba73c92d533ed41e5a4&amp;dn=Salem+S01E01+HDTV+x264-2HD+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":20,"uploader":"eztv","files":1,"time":1398065201,"description":"Help us by donating with Bitcoin: 1EZTVaGQ6UsjYJ9fwqGnd45oZ6HGT7WKZd\n\n#EZTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by eztv.\n &lt;a href=&quot;\nhttps://eztv.it/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://eztv.it/&lt;/a&gt;\n\nEpisode: Salem S01E01 HDTV x264-2HD\nScreenshots:\n\n\n","torrent":{"xt":"urn:btih:19f47f3e425fba0519aedba73c92d533ed41e5a4","amp;dn":"Salem+S01E01+HDTV+x264-2HD+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"19f47f3e425fba0519aedba73c92d533ed41e5a4","infoHashBuffer":{"type":"Buffer","data":[25,244,127,62,66,95,186,5,25,174,219,167,60,146,213,51,237,65,229,164]},"announce":[],"urlList":[]}}
+{
+  "title": "Salem S01E01 HDTV x264-2HD [eztv]",
+  "uid": 10008029,
+  "size": 372809500,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:19f47f3e425fba0519aedba73c92d533ed41e5a4&amp;dn=Salem+S01E01+HDTV+x264-2HD+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 20,
+  "uploader": "eztv",
+  "files": 1,
+  "time": 1398065201,
+  "description": "Help us by donating with Bitcoin: 1EZTVaGQ6UsjYJ9fwqGnd45oZ6HGT7WKZd\n\n#EZTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by eztv.\n &lt;a href=&quot;\nhttps://eztv.it/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://eztv.it/&lt;/a&gt;\n\nEpisode: Salem S01E01 HDTV x264-2HD\nScreenshots:\n\n\n",
+  "parsed": {
+    "xt": "urn:btih:19f47f3e425fba0519aedba73c92d533ed41e5a4",
+    "dn": "Salem S01E01 HDTV x264-2HD [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "19f47f3e425fba0519aedba73c92d533ed41e5a4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        25,
+        244,
+        127,
+        62,
+        66,
+        95,
+        186,
+        5,
+        25,
+        174,
+        219,
+        167,
+        60,
+        146,
+        213,
+        51,
+        237,
+        65,
+        229,
+        164
+      ]
+    },
+    "name": "Salem S01E01 HDTV x264-2HD [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 96,
+  "peers": 26,
+  "last_updated": "2016-12-24T18:34:27.474Z"
+}

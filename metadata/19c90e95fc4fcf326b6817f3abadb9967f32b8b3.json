@@ -1,1 +1,61 @@
-{"title":"Tekken 3 For PC (fully working with sound)","uid":7170269,"size":470796788,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:19c90e95fc4fcf326b6817f3abadb9967f32b8b3&amp;dn=Tekken+3+For+PC+%28fully+working+with+sound%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":6,"uploader":"Gleeze1","files":1,"time":1333937504,"description":"Basically a Fully Working Tekken 3 ISO and the pSX emulator (not the epsxe emulator), i also made a nice little way to launch it, so it acts in the same way a windows game would launch.\n\nWhat makes this version different from the others is that this is not a rip, it is the full game, and has fully working sound, without the user having to fiddle about with drivers.\n\n\n\n\nContents of README:\n\n\n\nInstructions:\n\nSimply extract the folder 'NAMCO' to the root of your C: drive, \nand then launch the game from C:NAMCOTekken 3 and click 'Launch Tekken 3'\nYou can make a desktop shortcut to it for convinience :-)\n\nTo attach controllers to the game, you will need to plug them in, then click on\n'psxfin.exe', then click file, go to config, and then go to the controllers tab at the top.\nfrom there you can map the controls as you like\nYou can also edit everything else in psxfin.exe, like sound, and graphics options.\n\nThis is really just an emulator with a psx .bin copy of tekken 3, however it is very compatible\nand fully works with sound just like the original.\n\nAll I did was make a neat little way to launch the game, as if it was a windows\napplication... and made a neat icon too :-)\n\n\n!!WARNING!!\nThe shortcuts and interface I made will not work unless the directory is extracted to exactly\nthe root of your C: drive!\nIf your native Operating system drive uses a different letter, you will have to:\n\n1. Rename 'Tekken 3.bat' to 'Tekken 3.txt'\n2. Open 'Tekken 3.txt', and change the drive letter in the path to the bin file to your\ndrive letter\n3. Save the file in notepad, then close it\n4. Rename 'Tekken 3.txt' back to 'Tekken 3.bat'\n\nAnd the launcher should then work :-)\n\nThis can also be used to set up your own custom directory for the game, but I would only\nrecommend you change anything if you are sure that you know what you are doing!\n\n\nHope this little pack helps anyone struggling with Tekken 3 emulation :-D\n\n\nCheers!\n\n~DaGleese\n\n\n*N.B. I do not take any responsibility for your use of this software, and I also do not claim\nany credibility for the production of the brilliant pSX emulator, I am merely redistributing\nit.\n\n*N.B.N.B. I apologise if this guide insulted your intelligence, i am merely trying to help\nthe masses B-)","torrent":{"xt":"urn:btih:19c90e95fc4fcf326b6817f3abadb9967f32b8b3","amp;dn":"Tekken+3+For+PC+%28fully+working+with+sound%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"19c90e95fc4fcf326b6817f3abadb9967f32b8b3","infoHashBuffer":{"type":"Buffer","data":[25,201,14,149,252,79,207,50,107,104,23,243,171,173,185,150,127,50,184,179]},"announce":[],"urlList":[]}}
+{
+  "title": "Tekken 3 For PC (fully working with sound)",
+  "uid": 7170269,
+  "size": 470796788,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:19c90e95fc4fcf326b6817f3abadb9967f32b8b3&amp;dn=Tekken+3+For+PC+%28fully+working+with+sound%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 6,
+  "uploader": "Gleeze1",
+  "files": 1,
+  "time": 1333937504,
+  "description": "Basically a Fully Working Tekken 3 ISO and the pSX emulator (not the epsxe emulator), i also made a nice little way to launch it, so it acts in the same way a windows game would launch.\n\nWhat makes this version different from the others is that this is not a rip, it is the full game, and has fully working sound, without the user having to fiddle about with drivers.\n\n\n\n\nContents of README:\n\n\n\nInstructions:\n\nSimply extract the folder 'NAMCO' to the root of your C: drive, \nand then launch the game from C:NAMCOTekken 3 and click 'Launch Tekken 3'\nYou can make a desktop shortcut to it for convinience :-)\n\nTo attach controllers to the game, you will need to plug them in, then click on\n'psxfin.exe', then click file, go to config, and then go to the controllers tab at the top.\nfrom there you can map the controls as you like\nYou can also edit everything else in psxfin.exe, like sound, and graphics options.\n\nThis is really just an emulator with a psx .bin copy of tekken 3, however it is very compatible\nand fully works with sound just like the original.\n\nAll I did was make a neat little way to launch the game, as if it was a windows\napplication... and made a neat icon too :-)\n\n\n!!WARNING!!\nThe shortcuts and interface I made will not work unless the directory is extracted to exactly\nthe root of your C: drive!\nIf your native Operating system drive uses a different letter, you will have to:\n\n1. Rename 'Tekken 3.bat' to 'Tekken 3.txt'\n2. Open 'Tekken 3.txt', and change the drive letter in the path to the bin file to your\ndrive letter\n3. Save the file in notepad, then close it\n4. Rename 'Tekken 3.txt' back to 'Tekken 3.bat'\n\nAnd the launcher should then work :-)\n\nThis can also be used to set up your own custom directory for the game, but I would only\nrecommend you change anything if you are sure that you know what you are doing!\n\n\nHope this little pack helps anyone struggling with Tekken 3 emulation :-D\n\n\nCheers!\n\n~DaGleese\n\n\n*N.B. I do not take any responsibility for your use of this software, and I also do not claim\nany credibility for the production of the brilliant pSX emulator, I am merely redistributing\nit.\n\n*N.B.N.B. I apologise if this guide insulted your intelligence, i am merely trying to help\nthe masses B-)",
+  "parsed": {
+    "xt": "urn:btih:19c90e95fc4fcf326b6817f3abadb9967f32b8b3",
+    "dn": "Tekken 3 For PC (fully working with sound)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "19c90e95fc4fcf326b6817f3abadb9967f32b8b3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        25,
+        201,
+        14,
+        149,
+        252,
+        79,
+        207,
+        50,
+        107,
+        104,
+        23,
+        243,
+        171,
+        173,
+        185,
+        150,
+        127,
+        50,
+        184,
+        179
+      ]
+    },
+    "name": "Tekken 3 For PC (fully working with sound)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 216,
+  "last_updated": "2016-12-24T18:32:53.161Z"
+}

@@ -1,1 +1,61 @@
-{"title":"RailsTutorials -  The Ruby on Rails Tutorial (3RD ED.)","uid":11831899,"size":13012218154,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:19f93659b86b852481c5db933b15f159e80bd049&amp;dn=RailsTutorials+-++The+Ruby+on+Rails+Tutorial+%283RD+ED.%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":23,"uploader":"NepsterJay","files":19,"time":1429625750,"description":"RUBY ON RAILS TUTORIAL (3RD ED.)\nLearn Web Development with Rails\n\nThe Ruby on Rails Tutorial book and screencast series teach you how to develop and deploy real, industrial-strength web applications with Ruby on Rails, the open-source web framework that powers top websites such as Twitter, Hulu, GitHub, and the Yellow Pages. The Ruby on Rails Tutorial book is available for free online and is available for purchase as an ebook (PDF, EPUB, and MOBI formats). The companion screencast series includes 12 individual lessons, one for each chapter of the Ruby on Rails Tutorial book. All purchases also include a free copy of the Solutions Manual for Exercises, with solutions to every exercise in the book.\n\nABOUT THE AUTHOR\nMichael Hartl\n\nMichael Hartl is the author of the Ruby on Rails Tutorial, one of the leading introductions to web development, and is a cofounder of the Softcover self-publishing platform. His prior experience includes writing and developing RailsSpace, an extremely obsolete Rails tutorial book, and developing Insoshi, a once-popular and now-obsolete social networking platform in Ruby on Rails. In 2011, Michael received a Ruby Hero Award for his contributions to the Ruby community. He is a graduate of Harvard College, has a Ph.D. in Physics from Caltech, and is an alumnus of the Y Combinator entrepreneur program","torrent":{"xt":"urn:btih:19f93659b86b852481c5db933b15f159e80bd049","amp;dn":"RailsTutorials+-++The+Ruby+on+Rails+Tutorial+%283RD+ED.%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"19f93659b86b852481c5db933b15f159e80bd049","infoHashBuffer":{"type":"Buffer","data":[25,249,54,89,184,107,133,36,129,197,219,147,59,21,241,89,232,11,208,73]},"announce":[],"urlList":[]}}
+{
+  "title": "RailsTutorials -  The Ruby on Rails Tutorial (3RD ED.)",
+  "uid": 11831899,
+  "size": 13012218154,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:19f93659b86b852481c5db933b15f159e80bd049&amp;dn=RailsTutorials+-++The+Ruby+on+Rails+Tutorial+%283RD+ED.%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 23,
+  "uploader": "NepsterJay",
+  "files": 19,
+  "time": 1429625750,
+  "description": "RUBY ON RAILS TUTORIAL (3RD ED.)\nLearn Web Development with Rails\n\nThe Ruby on Rails Tutorial book and screencast series teach you how to develop and deploy real, industrial-strength web applications with Ruby on Rails, the open-source web framework that powers top websites such as Twitter, Hulu, GitHub, and the Yellow Pages. The Ruby on Rails Tutorial book is available for free online and is available for purchase as an ebook (PDF, EPUB, and MOBI formats). The companion screencast series includes 12 individual lessons, one for each chapter of the Ruby on Rails Tutorial book. All purchases also include a free copy of the Solutions Manual for Exercises, with solutions to every exercise in the book.\n\nABOUT THE AUTHOR\nMichael Hartl\n\nMichael Hartl is the author of the Ruby on Rails Tutorial, one of the leading introductions to web development, and is a cofounder of the Softcover self-publishing platform. His prior experience includes writing and developing RailsSpace, an extremely obsolete Rails tutorial book, and developing Insoshi, a once-popular and now-obsolete social networking platform in Ruby on Rails. In 2011, Michael received a Ruby Hero Award for his contributions to the Ruby community. He is a graduate of Harvard College, has a Ph.D. in Physics from Caltech, and is an alumnus of the Y Combinator entrepreneur program",
+  "parsed": {
+    "xt": "urn:btih:19f93659b86b852481c5db933b15f159e80bd049",
+    "dn": "RailsTutorials -  The Ruby on Rails Tutorial (3RD ED.)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "19f93659b86b852481c5db933b15f159e80bd049",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        25,
+        249,
+        54,
+        89,
+        184,
+        107,
+        133,
+        36,
+        129,
+        197,
+        219,
+        147,
+        59,
+        21,
+        241,
+        89,
+        232,
+        11,
+        208,
+        73
+      ]
+    },
+    "name": "RailsTutorials -  The Ruby on Rails Tutorial (3RD ED.)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 101,
+  "last_updated": "2016-12-24T18:34:41.516Z"
+}

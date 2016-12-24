@@ -1,1 +1,61 @@
-{"title":"The.Walking.Dead.S02E13.FiNAL.FRENCH.LD.HDTV.XviD-MiND","uid":7209519,"size":368563413,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:1a4899d753548423259551eab144fb9adea0b66a&amp;dn=The.Walking.Dead.S02E13.FiNAL.FRENCH.LD.HDTV.XviD-MiND&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":178,"leechers":8,"uploader":"maximersk","files":2,"time":1335193200,"description":"The.Walking.Dead.S02E13.FiNAL.FRENCH.LD.HDTV.XviD-MiND","torrent":{"xt":"urn:btih:1a4899d753548423259551eab144fb9adea0b66a","amp;dn":"The.Walking.Dead.S02E13.FiNAL.FRENCH.LD.HDTV.XviD-MiND","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1a4899d753548423259551eab144fb9adea0b66a","infoHashBuffer":{"type":"Buffer","data":[26,72,153,215,83,84,132,35,37,149,81,234,177,68,251,154,222,160,182,106]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Walking.Dead.S02E13.FiNAL.FRENCH.LD.HDTV.XviD-MiND",
+  "uid": 7209519,
+  "size": 368563413,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:1a4899d753548423259551eab144fb9adea0b66a&amp;dn=The.Walking.Dead.S02E13.FiNAL.FRENCH.LD.HDTV.XviD-MiND&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 178,
+  "leechers": 8,
+  "uploader": "maximersk",
+  "files": 2,
+  "time": 1335193200,
+  "description": "The.Walking.Dead.S02E13.FiNAL.FRENCH.LD.HDTV.XviD-MiND",
+  "parsed": {
+    "xt": "urn:btih:1a4899d753548423259551eab144fb9adea0b66a",
+    "dn": "The.Walking.Dead.S02E13.FiNAL.FRENCH.LD.HDTV.XviD-MiND",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1a4899d753548423259551eab144fb9adea0b66a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        26,
+        72,
+        153,
+        215,
+        83,
+        84,
+        132,
+        35,
+        37,
+        149,
+        81,
+        234,
+        177,
+        68,
+        251,
+        154,
+        222,
+        160,
+        182,
+        106
+      ]
+    },
+    "name": "The.Walking.Dead.S02E13.FiNAL.FRENCH.LD.HDTV.XviD-MiND",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 186,
+  "peers": 184,
+  "last_updated": "2016-12-24T18:37:02.024Z"
+}

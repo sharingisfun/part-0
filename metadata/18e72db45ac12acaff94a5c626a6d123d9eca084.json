@@ -1,1 +1,61 @@
-{"title":"Painters Guild v1.071","uid":12348832,"size":55838963,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:18e72db45ac12acaff94a5c626a6d123d9eca084&amp;dn=Painters+Guild+v1.071&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":199,"leechers":0,"uploader":"dauphong","files":1,"time":1441389332,"description":"\nAbout This Game\nPainters Guild is a management sim where you control an art academy in the Italian Renaissance.\n\n    Paint artwork as beautiful as the Mona Lisa.\n    Hire painters like Leonardo da Vinci, Michelangelo and millions of randomly generated artists.\n    Expand your guild and customize it with furniture and other options.\n    Play in 3 different cities: Florence, Venice and Rome. \n\nSystem Requirements\n\n    Minimum:\n        OS: Windows XP\n        Processor: 2.33GHz or faster x86-compatible processor\n        Memory: 1 GB RAM\n        Graphics: Any\n        Hard Drive: 200 MB available space\n        Sound Card: Any","torrent":{"xt":"urn:btih:18e72db45ac12acaff94a5c626a6d123d9eca084","amp;dn":"Painters+Guild+v1.071","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"18e72db45ac12acaff94a5c626a6d123d9eca084","infoHashBuffer":{"type":"Buffer","data":[24,231,45,180,90,193,42,202,255,148,165,198,38,166,209,35,217,236,160,132]},"announce":[],"urlList":[]}}
+{
+  "title": "Painters Guild v1.071",
+  "uid": 12348832,
+  "size": 55838963,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:18e72db45ac12acaff94a5c626a6d123d9eca084&amp;dn=Painters+Guild+v1.071&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 199,
+  "leechers": 0,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1441389332,
+  "description": "\nAbout This Game\nPainters Guild is a management sim where you control an art academy in the Italian Renaissance.\n\n    Paint artwork as beautiful as the Mona Lisa.\n    Hire painters like Leonardo da Vinci, Michelangelo and millions of randomly generated artists.\n    Expand your guild and customize it with furniture and other options.\n    Play in 3 different cities: Florence, Venice and Rome. \n\nSystem Requirements\n\n    Minimum:\n        OS: Windows XP\n        Processor: 2.33GHz or faster x86-compatible processor\n        Memory: 1 GB RAM\n        Graphics: Any\n        Hard Drive: 200 MB available space\n        Sound Card: Any",
+  "parsed": {
+    "xt": "urn:btih:18e72db45ac12acaff94a5c626a6d123d9eca084",
+    "dn": "Painters Guild v1.071",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "18e72db45ac12acaff94a5c626a6d123d9eca084",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        24,
+        231,
+        45,
+        180,
+        90,
+        193,
+        42,
+        202,
+        255,
+        148,
+        165,
+        198,
+        38,
+        166,
+        209,
+        35,
+        217,
+        236,
+        160,
+        132
+      ]
+    },
+    "name": "Painters Guild v1.071",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 199,
+  "peers": 129,
+  "last_updated": "2016-12-24T18:26:09.617Z"
+}

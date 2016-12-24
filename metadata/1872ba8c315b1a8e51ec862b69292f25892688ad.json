@@ -1,1 +1,61 @@
-{"title":"Dr House - Saison 1 HDTV FR - ComplÃƒÆ’Ã‚Â¨te","uid":4846840,"size":7962943488,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:1872ba8c315b1a8e51ec862b69292f25892688ad&amp;dn=Dr+House+-+Saison+1+HDTV+FR+-+Compl%C3%83%C2%A8te&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":88,"leechers":32,"uploader":"lebonprince","files":22,"time":1239718221,"description":"Saison 01 ComplÃƒÆ’Ã‚Â¨te Fr\n22 Episodes\n\n\n","torrent":{"xt":"urn:btih:1872ba8c315b1a8e51ec862b69292f25892688ad","amp;dn":"Dr+House+-+Saison+1+HDTV+FR+-+Compl%C3%83%C2%A8te","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1872ba8c315b1a8e51ec862b69292f25892688ad","infoHashBuffer":{"type":"Buffer","data":[24,114,186,140,49,91,26,142,81,236,134,43,105,41,47,37,137,38,136,173]},"announce":[],"urlList":[]}}
+{
+  "title": "Dr House - Saison 1 HDTV FR - ComplÃƒÆ’Ã‚Â¨te",
+  "uid": 4846840,
+  "size": 7962943488,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:1872ba8c315b1a8e51ec862b69292f25892688ad&amp;dn=Dr+House+-+Saison+1+HDTV+FR+-+Compl%C3%83%C2%A8te&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 88,
+  "leechers": 32,
+  "uploader": "lebonprince",
+  "files": 22,
+  "time": 1239718221,
+  "description": "Saison 01 ComplÃƒÆ’Ã‚Â¨te Fr\n22 Episodes\n\n\n",
+  "parsed": {
+    "xt": "urn:btih:1872ba8c315b1a8e51ec862b69292f25892688ad",
+    "dn": "Dr House - Saison 1 HDTV FR - ComplÃ¨te",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1872ba8c315b1a8e51ec862b69292f25892688ad",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        24,
+        114,
+        186,
+        140,
+        49,
+        91,
+        26,
+        142,
+        81,
+        236,
+        134,
+        43,
+        105,
+        41,
+        47,
+        37,
+        137,
+        38,
+        136,
+        173
+      ]
+    },
+    "name": "Dr House - Saison 1 HDTV FR - ComplÃ¨te",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 120,
+  "peers": 178,
+  "last_updated": "2016-12-24T18:22:44.826Z"
+}

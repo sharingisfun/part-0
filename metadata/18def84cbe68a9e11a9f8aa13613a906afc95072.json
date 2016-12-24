@@ -1,1 +1,63 @@
-{"title":"Niall Horan - This Town MP3 , 2016","uid":15918123,"size":9627540,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:18def84cbe68a9e11a9f8aa13613a906afc95072&amp;dn=Niall+Horan+-+This+Town+MP3+%2C+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":7,"uploader":"NikiPink","files":1,"time":1475221642,"description":"Genre:\r\nPop\r\n\r\nRelease Date:\r\nSeptember 2016","torrent":{"xt":"urn:btih:18def84cbe68a9e11a9f8aa13613a906afc95072","amp;dn":"Niall+Horan+-+This+Town+MP3+%2C+2016","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"18def84cbe68a9e11a9f8aa13613a906afc95072","infoHashBuffer":{"type":"Buffer","data":[24,222,248,76,190,104,169,225,26,159,138,161,54,19,169,6,175,201,80,114]},"announce":[],"urlList":[]}}
+{
+  "title": "Niall Horan - This Town MP3 , 2016",
+  "uid": 15918123,
+  "size": 9627540,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:18def84cbe68a9e11a9f8aa13613a906afc95072&amp;dn=Niall+Horan+-+This+Town+MP3+%2C+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 7,
+  "uploader": "NikiPink",
+  "files": 1,
+  "time": 1475221642,
+  "description": "Genre:\r\nPop\r\n\r\nRelease Date:\r\nSeptember 2016",
+  "parsed": {
+    "xt": "urn:btih:18def84cbe68a9e11a9f8aa13613a906afc95072",
+    "dn": "Niall Horan - This Town MP3 , 2016",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "18def84cbe68a9e11a9f8aa13613a906afc95072",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        24,
+        222,
+        248,
+        76,
+        190,
+        104,
+        169,
+        225,
+        26,
+        159,
+        138,
+        161,
+        54,
+        19,
+        169,
+        6,
+        175,
+        201,
+        80,
+        114
+      ]
+    },
+    "name": "Niall Horan - This Town MP3 , 2016",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 267,
+  "last_updated": "2016-12-24T18:26:03.592Z"
+}

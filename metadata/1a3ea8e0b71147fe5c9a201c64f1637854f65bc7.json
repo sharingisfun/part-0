@@ -1,1 +1,63 @@
-{"title":"The.Block.AU.S12E18.HDTV.x264-FQM","uid":15867088,"size":335893898,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:1a3ea8e0b71147fe5c9a201c64f1637854f65bc7&amp;dn=The.Block.AU.S12E18.HDTV.x264-FQM&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":4,"uploader":"TvTeam","files":4,"time":1474380288,"description":"Torrent from:\r\n~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:1a3ea8e0b71147fe5c9a201c64f1637854f65bc7","amp;dn":"The.Block.AU.S12E18.HDTV.x264-FQM","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1a3ea8e0b71147fe5c9a201c64f1637854f65bc7","infoHashBuffer":{"type":"Buffer","data":[26,62,168,224,183,17,71,254,92,154,32,28,100,241,99,120,84,246,91,199]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Block.AU.S12E18.HDTV.x264-FQM",
+  "uid": 15867088,
+  "size": 335893898,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:1a3ea8e0b71147fe5c9a201c64f1637854f65bc7&amp;dn=The.Block.AU.S12E18.HDTV.x264-FQM&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 4,
+  "uploader": "TvTeam",
+  "files": 4,
+  "time": 1474380288,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:1a3ea8e0b71147fe5c9a201c64f1637854f65bc7",
+    "dn": "The.Block.AU.S12E18.HDTV.x264-FQM",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1a3ea8e0b71147fe5c9a201c64f1637854f65bc7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        26,
+        62,
+        168,
+        224,
+        183,
+        17,
+        71,
+        254,
+        92,
+        154,
+        32,
+        28,
+        100,
+        241,
+        99,
+        120,
+        84,
+        246,
+        91,
+        199
+      ]
+    },
+    "name": "The.Block.AU.S12E18.HDTV.x264-FQM",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 6,
+  "last_updated": "2016-12-24T18:36:37.941Z"
+}

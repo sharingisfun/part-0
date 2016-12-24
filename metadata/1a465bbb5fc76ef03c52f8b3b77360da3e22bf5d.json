@@ -1,1 +1,61 @@
-{"title":"Allah-Las - Allah-Las","uid":9531872,"size":96107978,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1a465bbb5fc76ef03c52f8b3b77360da3e22bf5d&amp;dn=Allah-Las+-+Allah-Las&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":1,"uploader":"backflipman","files":12,"time":1390858987,"description":"Allah-Las great debut album, 2012.\n\nTracklist:\n\n1.\nCatamaran 03:32\n2.\nDon't You Forget It 03:04\n3.\nBusman's Holiday 03:28\n4.\nSacred Sands 03:31\n5.\nNo Voodoo 03:01\n6.\nSandy 02:44\n7.\nEla Navega 03:54\n8.\nTell Me (What's On Your Mind) 03:32\n9.\nCatalina 03:43\n10.\nVis-A-Vis 03:28\n11.\nSeven Point Five 02:47\n12.\nLong Journey 03:12\n\n","torrent":{"xt":"urn:btih:1a465bbb5fc76ef03c52f8b3b77360da3e22bf5d","amp;dn":"Allah-Las+-+Allah-Las","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1a465bbb5fc76ef03c52f8b3b77360da3e22bf5d","infoHashBuffer":{"type":"Buffer","data":[26,70,91,187,95,199,110,240,60,82,248,179,183,115,96,218,62,34,191,93]},"announce":[],"urlList":[]}}
+{
+  "title": "Allah-Las - Allah-Las",
+  "uid": 9531872,
+  "size": 96107978,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1a465bbb5fc76ef03c52f8b3b77360da3e22bf5d&amp;dn=Allah-Las+-+Allah-Las&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 1,
+  "uploader": "backflipman",
+  "files": 12,
+  "time": 1390858987,
+  "description": "Allah-Las great debut album, 2012.\n\nTracklist:\n\n1.\nCatamaran 03:32\n2.\nDon't You Forget It 03:04\n3.\nBusman's Holiday 03:28\n4.\nSacred Sands 03:31\n5.\nNo Voodoo 03:01\n6.\nSandy 02:44\n7.\nEla Navega 03:54\n8.\nTell Me (What's On Your Mind) 03:32\n9.\nCatalina 03:43\n10.\nVis-A-Vis 03:28\n11.\nSeven Point Five 02:47\n12.\nLong Journey 03:12\n\n",
+  "parsed": {
+    "xt": "urn:btih:1a465bbb5fc76ef03c52f8b3b77360da3e22bf5d",
+    "dn": "Allah-Las - Allah-Las",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1a465bbb5fc76ef03c52f8b3b77360da3e22bf5d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        26,
+        70,
+        91,
+        187,
+        95,
+        199,
+        110,
+        240,
+        60,
+        82,
+        248,
+        179,
+        183,
+        115,
+        96,
+        218,
+        62,
+        34,
+        191,
+        93
+      ]
+    },
+    "name": "Allah-Las - Allah-Las",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 38,
+  "last_updated": "2016-12-24T18:37:00.018Z"
+}

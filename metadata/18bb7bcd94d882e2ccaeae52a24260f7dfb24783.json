@@ -1,1 +1,61 @@
-{"title":"Ray.Donovan.S03E01.HDTV.x264-BATV[ettv]","uid":12083328,"size":348047906,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:18bb7bcd94d882e2ccaeae52a24260f7dfb24783&amp;dn=Ray.Donovan.S03E01.HDTV.x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":624,"leechers":26,"uploader":"ettv","files":3,"time":1435838137,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                  &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:18bb7bcd94d882e2ccaeae52a24260f7dfb24783","amp;dn":"Ray.Donovan.S03E01.HDTV.x264-BATV%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"18bb7bcd94d882e2ccaeae52a24260f7dfb24783","infoHashBuffer":{"type":"Buffer","data":[24,187,123,205,148,216,130,226,204,174,174,82,162,66,96,247,223,178,71,131]},"announce":[],"urlList":[]}}
+{
+  "title": "Ray.Donovan.S03E01.HDTV.x264-BATV[ettv]",
+  "uid": 12083328,
+  "size": 348047906,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:18bb7bcd94d882e2ccaeae52a24260f7dfb24783&amp;dn=Ray.Donovan.S03E01.HDTV.x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 624,
+  "leechers": 26,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1435838137,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                  &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:18bb7bcd94d882e2ccaeae52a24260f7dfb24783",
+    "dn": "Ray.Donovan.S03E01.HDTV.x264-BATV[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "18bb7bcd94d882e2ccaeae52a24260f7dfb24783",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        24,
+        187,
+        123,
+        205,
+        148,
+        216,
+        130,
+        226,
+        204,
+        174,
+        174,
+        82,
+        162,
+        66,
+        96,
+        247,
+        223,
+        178,
+        71,
+        131
+      ]
+    },
+    "name": "Ray.Donovan.S03E01.HDTV.x264-BATV[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 650,
+  "peers": 28,
+  "last_updated": "2016-12-24T18:24:45.241Z"
+}
