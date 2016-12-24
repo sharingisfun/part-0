@@ -1,1 +1,61 @@
-{"title":"Chicago.PD.S02E18.HDTV.x264-LOL[ettv]","uid":11791292,"size":297689860,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:28614d69a5be3d66a5fc6214a77e03c10de1646b&amp;dn=Chicago.PD.S02E18.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":10,"uploader":"ettv","files":4,"time":1427950634,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:28614d69a5be3d66a5fc6214a77e03c10de1646b","amp;dn":"Chicago.PD.S02E18.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"28614d69a5be3d66a5fc6214a77e03c10de1646b","infoHashBuffer":{"type":"Buffer","data":[40,97,77,105,165,190,61,102,165,252,98,20,167,126,3,193,13,225,100,107]},"announce":[],"urlList":[]}}
+{
+  "title": "Chicago.PD.S02E18.HDTV.x264-LOL[ettv]",
+  "uid": 11791292,
+  "size": 297689860,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:28614d69a5be3d66a5fc6214a77e03c10de1646b&amp;dn=Chicago.PD.S02E18.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 10,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1427950634,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:28614d69a5be3d66a5fc6214a77e03c10de1646b",
+    "dn": "Chicago.PD.S02E18.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "28614d69a5be3d66a5fc6214a77e03c10de1646b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        40,
+        97,
+        77,
+        105,
+        165,
+        190,
+        61,
+        102,
+        165,
+        252,
+        98,
+        20,
+        167,
+        126,
+        3,
+        193,
+        13,
+        225,
+        100,
+        107
+      ]
+    },
+    "name": "Chicago.PD.S02E18.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 20,
+  "last_updated": "2016-12-24T20:25:08.877Z"
+}

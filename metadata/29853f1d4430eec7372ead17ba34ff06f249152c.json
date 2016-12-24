@@ -1,1 +1,61 @@
-{"title":"Zuma Deluxe 1.0.0.2 (full)","uid":3519770,"size":5075543,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:29853f1d4430eec7372ead17ba34ff06f249152c&amp;dn=Zuma+Deluxe+1.0.0.2+%28full%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":"meet_ball","files":3,"time":1157471759,"description":"Zuma Deluxe 1.0.0.2 (full)","torrent":{"xt":"urn:btih:29853f1d4430eec7372ead17ba34ff06f249152c","amp;dn":"Zuma+Deluxe+1.0.0.2+%28full%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"29853f1d4430eec7372ead17ba34ff06f249152c","infoHashBuffer":{"type":"Buffer","data":[41,133,63,29,68,48,238,199,55,46,173,23,186,52,255,6,242,73,21,44]},"announce":[],"urlList":[]}}
+{
+  "title": "Zuma Deluxe 1.0.0.2 (full)",
+  "uid": 3519770,
+  "size": 5075543,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:29853f1d4430eec7372ead17ba34ff06f249152c&amp;dn=Zuma+Deluxe+1.0.0.2+%28full%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": "meet_ball",
+  "files": 3,
+  "time": 1157471759,
+  "description": "Zuma Deluxe 1.0.0.2 (full)",
+  "parsed": {
+    "xt": "urn:btih:29853f1d4430eec7372ead17ba34ff06f249152c",
+    "dn": "Zuma Deluxe 1.0.0.2 (full)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "29853f1d4430eec7372ead17ba34ff06f249152c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        41,
+        133,
+        63,
+        29,
+        68,
+        48,
+        238,
+        199,
+        55,
+        46,
+        173,
+        23,
+        186,
+        52,
+        255,
+        6,
+        242,
+        73,
+        21,
+        44
+      ]
+    },
+    "name": "Zuma Deluxe 1.0.0.2 (full)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 20,
+  "last_updated": "2016-12-24T20:33:18.662Z"
+}

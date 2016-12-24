@@ -1,1 +1,61 @@
-{"title":"1408 2007 1080p BluRay x264","uid":9342522,"size":1766412712,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:280403f480d74a39838ed9348c696583638545cc&amp;dn=1408+2007+1080p+BluRay+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":111,"leechers":21,"uploader":"GFGTORRZ","files":-1,"time":1386961996,"description":"1408 2007 1080p BluRay x264","torrent":{"xt":"urn:btih:280403f480d74a39838ed9348c696583638545cc","amp;dn":"1408+2007+1080p+BluRay+x264","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"280403f480d74a39838ed9348c696583638545cc","infoHashBuffer":{"type":"Buffer","data":[40,4,3,244,128,215,74,57,131,142,217,52,140,105,101,131,99,133,69,204]},"announce":[],"urlList":[]}}
+{
+  "title": "1408 2007 1080p BluRay x264",
+  "uid": 9342522,
+  "size": 1766412712,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:280403f480d74a39838ed9348c696583638545cc&amp;dn=1408+2007+1080p+BluRay+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 111,
+  "leechers": 21,
+  "uploader": "GFGTORRZ",
+  "files": -1,
+  "time": 1386961996,
+  "description": "1408 2007 1080p BluRay x264",
+  "parsed": {
+    "xt": "urn:btih:280403f480d74a39838ed9348c696583638545cc",
+    "dn": "1408 2007 1080p BluRay x264",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "280403f480d74a39838ed9348c696583638545cc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        40,
+        4,
+        3,
+        244,
+        128,
+        215,
+        74,
+        57,
+        131,
+        142,
+        217,
+        52,
+        140,
+        105,
+        101,
+        131,
+        99,
+        133,
+        69,
+        204
+      ]
+    },
+    "name": "1408 2007 1080p BluRay x264",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 132,
+  "peers": 341,
+  "last_updated": "2016-12-24T20:21:32.082Z"
+}

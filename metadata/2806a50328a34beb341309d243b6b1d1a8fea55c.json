@@ -1,1 +1,61 @@
-{"title":"minion 2015","uid":12111162,"size":1552330752,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:2806a50328a34beb341309d243b6b1d1a8fea55c&amp;dn=minion+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":85,"leechers":3,"uploader":"healed12","files":1,"time":1436577294,"description":"minion 2015 copy only","torrent":{"xt":"urn:btih:2806a50328a34beb341309d243b6b1d1a8fea55c","amp;dn":"minion+2015","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2806a50328a34beb341309d243b6b1d1a8fea55c","infoHashBuffer":{"type":"Buffer","data":[40,6,165,3,40,163,75,235,52,19,9,210,67,182,177,209,168,254,165,92]},"announce":[],"urlList":[]}}
+{
+  "title": "minion 2015",
+  "uid": 12111162,
+  "size": 1552330752,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:2806a50328a34beb341309d243b6b1d1a8fea55c&amp;dn=minion+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 85,
+  "leechers": 3,
+  "uploader": "healed12",
+  "files": 1,
+  "time": 1436577294,
+  "description": "minion 2015 copy only",
+  "parsed": {
+    "xt": "urn:btih:2806a50328a34beb341309d243b6b1d1a8fea55c",
+    "dn": "minion 2015",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2806a50328a34beb341309d243b6b1d1a8fea55c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        40,
+        6,
+        165,
+        3,
+        40,
+        163,
+        75,
+        235,
+        52,
+        19,
+        9,
+        210,
+        67,
+        182,
+        177,
+        209,
+        168,
+        254,
+        165,
+        92
+      ]
+    },
+    "name": "minion 2015",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 88,
+  "peers": 22,
+  "last_updated": "2016-12-24T20:21:38.108Z"
+}

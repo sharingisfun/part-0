@@ -1,1 +1,63 @@
-{"title":"Romance of the Three Kingdoms 13-SKIDROW","uid":15964346,"size":10421717,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:284c5e51555adecebb02f5efb5c3707bad3bbc07&amp;dn=Romance+of+the+Three+Kingdoms+13-SKIDROW&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":106,"leechers":73,"uploader":"trwetwr","files":5,"time":1475707669,"description":"Good Game","torrent":{"xt":"urn:btih:284c5e51555adecebb02f5efb5c3707bad3bbc07","amp;dn":"Romance+of+the+Three+Kingdoms+13-SKIDROW","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"284c5e51555adecebb02f5efb5c3707bad3bbc07","infoHashBuffer":{"type":"Buffer","data":[40,76,94,81,85,90,222,206,187,2,245,239,181,195,112,123,173,59,188,7]},"announce":[],"urlList":[]}}
+{
+  "title": "Romance of the Three Kingdoms 13-SKIDROW",
+  "uid": 15964346,
+  "size": 10421717,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:284c5e51555adecebb02f5efb5c3707bad3bbc07&amp;dn=Romance+of+the+Three+Kingdoms+13-SKIDROW&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 106,
+  "leechers": 73,
+  "uploader": "trwetwr",
+  "files": 5,
+  "time": 1475707669,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:284c5e51555adecebb02f5efb5c3707bad3bbc07",
+    "dn": "Romance of the Three Kingdoms 13-SKIDROW",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "284c5e51555adecebb02f5efb5c3707bad3bbc07",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        40,
+        76,
+        94,
+        81,
+        85,
+        90,
+        222,
+        206,
+        187,
+        2,
+        245,
+        239,
+        181,
+        195,
+        112,
+        123,
+        173,
+        59,
+        188,
+        7
+      ]
+    },
+    "name": "Romance of the Three Kingdoms 13-SKIDROW",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 179,
+  "peers": 4,
+  "last_updated": "2016-12-24T20:24:08.656Z"
+}

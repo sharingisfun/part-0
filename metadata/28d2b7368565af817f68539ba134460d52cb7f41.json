@@ -1,1 +1,61 @@
-{"title":"Luke Bryan - Tailgates &amp; Tanlines (320 kbps)","uid":7075100,"size":114924404,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:28d2b7368565af817f68539ba134460d52cb7f41&amp;dn=Luke+Bryan+-+Tailgates+%26amp%3B+Tanlines+%28320+kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":103,"leechers":4,"uploader":"prius4845","files":-1,"time":1330807475,"description":"Luke Bryan - Tailgates &amp; Tanlines (320 kbps)\n\nThis is a Re-up from rhv786 from a different torrent site.\n\nI deserve no thank-yous, but comments are appreciated.","torrent":{"xt":"urn:btih:28d2b7368565af817f68539ba134460d52cb7f41","amp;dn":"Luke+Bryan+-+Tailgates+%26amp%3B+Tanlines+%28320+kbps%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"28d2b7368565af817f68539ba134460d52cb7f41","infoHashBuffer":{"type":"Buffer","data":[40,210,183,54,133,101,175,129,127,104,83,155,161,52,70,13,82,203,127,65]},"announce":[],"urlList":[]}}
+{
+  "title": "Luke Bryan - Tailgates &amp; Tanlines (320 kbps)",
+  "uid": 7075100,
+  "size": 114924404,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:28d2b7368565af817f68539ba134460d52cb7f41&amp;dn=Luke+Bryan+-+Tailgates+%26amp%3B+Tanlines+%28320+kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 103,
+  "leechers": 4,
+  "uploader": "prius4845",
+  "files": -1,
+  "time": 1330807475,
+  "description": "Luke Bryan - Tailgates &amp; Tanlines (320 kbps)\n\nThis is a Re-up from rhv786 from a different torrent site.\n\nI deserve no thank-yous, but comments are appreciated.",
+  "parsed": {
+    "xt": "urn:btih:28d2b7368565af817f68539ba134460d52cb7f41",
+    "dn": "Luke Bryan - Tailgates &amp; Tanlines (320 kbps)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "28d2b7368565af817f68539ba134460d52cb7f41",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        40,
+        210,
+        183,
+        54,
+        133,
+        101,
+        175,
+        129,
+        127,
+        104,
+        83,
+        155,
+        161,
+        52,
+        70,
+        13,
+        82,
+        203,
+        127,
+        65
+      ]
+    },
+    "name": "Luke Bryan - Tailgates &amp; Tanlines (320 kbps)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 107,
+  "peers": 84,
+  "last_updated": "2016-12-24T20:28:21.602Z"
+}

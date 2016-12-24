@@ -1,1 +1,61 @@
-{"title":"FKA twigs - M3LL155X EP 2015 320 kbps m4a","uid":12229877,"size":44314206,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:297f155fc7c3035d0e850824c12b4d60484ce508&amp;dn=FKA+twigs+-+M3LL155X+EP+2015+320+kbps+m4a&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":137,"leechers":4,"uploader":"Jackcrawf","files":5,"time":1439549576,"description":"FKA twigs' new EP M3LL15X\n\n----------\n\nIf you love FKA twigs as much as you should, why don't you also buy her album?\n\nFKA twigs' website: &lt;a href=&quot;\nhttp://m3ll155x.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://m3ll155x.com/&lt;/a&gt;","torrent":{"xt":"urn:btih:297f155fc7c3035d0e850824c12b4d60484ce508","amp;dn":"FKA+twigs+-+M3LL155X+EP+2015+320+kbps+m4a","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"297f155fc7c3035d0e850824c12b4d60484ce508","infoHashBuffer":{"type":"Buffer","data":[41,127,21,95,199,195,3,93,14,133,8,36,193,43,77,96,72,76,229,8]},"announce":[],"urlList":[]}}
+{
+  "title": "FKA twigs - M3LL155X EP 2015 320 kbps m4a",
+  "uid": 12229877,
+  "size": 44314206,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:297f155fc7c3035d0e850824c12b4d60484ce508&amp;dn=FKA+twigs+-+M3LL155X+EP+2015+320+kbps+m4a&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 137,
+  "leechers": 4,
+  "uploader": "Jackcrawf",
+  "files": 5,
+  "time": 1439549576,
+  "description": "FKA twigs' new EP M3LL15X\n\n----------\n\nIf you love FKA twigs as much as you should, why don't you also buy her album?\n\nFKA twigs' website: &lt;a href=&quot;\nhttp://m3ll155x.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://m3ll155x.com/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:297f155fc7c3035d0e850824c12b4d60484ce508",
+    "dn": "FKA twigs - M3LL155X EP 2015 320 kbps m4a",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "297f155fc7c3035d0e850824c12b4d60484ce508",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        41,
+        127,
+        21,
+        95,
+        199,
+        195,
+        3,
+        93,
+        14,
+        133,
+        8,
+        36,
+        193,
+        43,
+        77,
+        96,
+        72,
+        76,
+        229,
+        8
+      ]
+    },
+    "name": "FKA twigs - M3LL155X EP 2015 320 kbps m4a",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 141,
+  "peers": 42,
+  "last_updated": "2016-12-24T20:33:06.617Z"
+}

@@ -1,1 +1,63 @@
-{"title":"The Witness [Update 10] (2016)","uid":15964328,"size":6621510,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:290d2fa825247fa382c0d5c429dd56c9fddcd60d&amp;dn=The+Witness+%5BUpdate+10%5D+%282016%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":36,"uploader":"trwetwr","files":4,"time":1475707480,"description":"Good Game","torrent":{"xt":"urn:btih:290d2fa825247fa382c0d5c429dd56c9fddcd60d","amp;dn":"The+Witness+%5BUpdate+10%5D+%282016%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"290d2fa825247fa382c0d5c429dd56c9fddcd60d","infoHashBuffer":{"type":"Buffer","data":[41,13,47,168,37,36,127,163,130,192,213,196,41,221,86,201,253,220,214,13]},"announce":[],"urlList":[]}}
+{
+  "title": "The Witness [Update 10] (2016)",
+  "uid": 15964328,
+  "size": 6621510,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:290d2fa825247fa382c0d5c429dd56c9fddcd60d&amp;dn=The+Witness+%5BUpdate+10%5D+%282016%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 36,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475707480,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:290d2fa825247fa382c0d5c429dd56c9fddcd60d",
+    "dn": "The Witness [Update 10] (2016)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "290d2fa825247fa382c0d5c429dd56c9fddcd60d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        41,
+        13,
+        47,
+        168,
+        37,
+        36,
+        127,
+        163,
+        130,
+        192,
+        213,
+        196,
+        41,
+        221,
+        86,
+        201,
+        253,
+        220,
+        214,
+        13
+      ]
+    },
+    "name": "The Witness [Update 10] (2016)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 0,
+  "last_updated": "2016-12-24T20:29:59.936Z"
+}

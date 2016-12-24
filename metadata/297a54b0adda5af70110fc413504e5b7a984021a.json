@@ -1,1 +1,61 @@
-{"title":"The Simpsons - Season 10 [Complete]","uid":3999531,"size":2063245312,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:297a54b0adda5af70110fc413504e5b7a984021a&amp;dn=The+Simpsons+-+Season+10+%5BComplete%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":10,"uploader":"killerdemon","files":23,"time":1201479800,"description":"Complete Season 10 of The Simpsons","torrent":{"xt":"urn:btih:297a54b0adda5af70110fc413504e5b7a984021a","amp;dn":"The+Simpsons+-+Season+10+%5BComplete%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"297a54b0adda5af70110fc413504e5b7a984021a","infoHashBuffer":{"type":"Buffer","data":[41,122,84,176,173,218,90,247,1,16,252,65,53,4,229,183,169,132,2,26]},"announce":[],"urlList":[]}}
+{
+  "title": "The Simpsons - Season 10 [Complete]",
+  "uid": 3999531,
+  "size": 2063245312,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:297a54b0adda5af70110fc413504e5b7a984021a&amp;dn=The+Simpsons+-+Season+10+%5BComplete%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 10,
+  "uploader": "killerdemon",
+  "files": 23,
+  "time": 1201479800,
+  "description": "Complete Season 10 of The Simpsons",
+  "parsed": {
+    "xt": "urn:btih:297a54b0adda5af70110fc413504e5b7a984021a",
+    "dn": "The Simpsons - Season 10 [Complete]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "297a54b0adda5af70110fc413504e5b7a984021a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        41,
+        122,
+        84,
+        176,
+        173,
+        218,
+        90,
+        247,
+        1,
+        16,
+        252,
+        65,
+        53,
+        4,
+        229,
+        183,
+        169,
+        132,
+        2,
+        26
+      ]
+    },
+    "name": "The Simpsons - Season 10 [Complete]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 242,
+  "last_updated": "2016-12-24T20:32:56.574Z"
+}

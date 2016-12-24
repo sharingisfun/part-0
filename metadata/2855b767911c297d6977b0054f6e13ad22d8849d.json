@@ -1,1 +1,61 @@
-{"title":"G.R.L. - Ugly Heart (2014 single)","uid":10551025,"size":8087100,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2855b767911c297d6977b0054f6e13ad22d8849d&amp;dn=G.R.L.+-+Ugly+Heart+%282014+single%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":90,"leechers":0,"uploader":"sergelover","files":-1,"time":1405296512,"description":"Ugly Heart is an official single from the girl band's 2014 debut album. \nThey're signed to Kemosabe Records. \nPure-pop, guitar-driven song.\n\n03:19, 320 kbps, 2014, including cover\n\nEnjoy and seed.\n\nHave a nice day. Filip","torrent":{"xt":"urn:btih:2855b767911c297d6977b0054f6e13ad22d8849d","amp;dn":"G.R.L.+-+Ugly+Heart+%282014+single%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2855b767911c297d6977b0054f6e13ad22d8849d","infoHashBuffer":{"type":"Buffer","data":[40,85,183,103,145,28,41,125,105,119,176,5,79,110,19,173,34,216,132,157]},"announce":[],"urlList":[]}}
+{
+  "title": "G.R.L. - Ugly Heart (2014 single)",
+  "uid": 10551025,
+  "size": 8087100,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2855b767911c297d6977b0054f6e13ad22d8849d&amp;dn=G.R.L.+-+Ugly+Heart+%282014+single%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 90,
+  "leechers": 0,
+  "uploader": "sergelover",
+  "files": -1,
+  "time": 1405296512,
+  "description": "Ugly Heart is an official single from the girl band's 2014 debut album. \nThey're signed to Kemosabe Records. \nPure-pop, guitar-driven song.\n\n03:19, 320 kbps, 2014, including cover\n\nEnjoy and seed.\n\nHave a nice day. Filip",
+  "parsed": {
+    "xt": "urn:btih:2855b767911c297d6977b0054f6e13ad22d8849d",
+    "dn": "G.R.L. - Ugly Heart (2014 single)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2855b767911c297d6977b0054f6e13ad22d8849d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        40,
+        85,
+        183,
+        103,
+        145,
+        28,
+        41,
+        125,
+        105,
+        119,
+        176,
+        5,
+        79,
+        110,
+        19,
+        173,
+        34,
+        216,
+        132,
+        157
+      ]
+    },
+    "name": "G.R.L. - Ugly Heart (2014 single)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 90,
+  "peers": 73,
+  "last_updated": "2016-12-24T20:24:38.770Z"
+}

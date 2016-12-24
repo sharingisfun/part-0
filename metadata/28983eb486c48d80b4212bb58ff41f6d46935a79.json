@@ -1,1 +1,61 @@
-{"title":"Salem.S02E01.HDTV.x264-KILLERS[ettv]","uid":11798976,"size":342650388,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:28983eb486c48d80b4212bb58ff41f6d46935a79&amp;dn=Salem.S02E01.HDTV.x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":322,"leechers":96,"uploader":"ettv","files":4,"time":1428296708,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:28983eb486c48d80b4212bb58ff41f6d46935a79","amp;dn":"Salem.S02E01.HDTV.x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"28983eb486c48d80b4212bb58ff41f6d46935a79","infoHashBuffer":{"type":"Buffer","data":[40,152,62,180,134,196,141,128,180,33,43,181,143,244,31,109,70,147,90,121]},"announce":[],"urlList":[]}}
+{
+  "title": "Salem.S02E01.HDTV.x264-KILLERS[ettv]",
+  "uid": 11798976,
+  "size": 342650388,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:28983eb486c48d80b4212bb58ff41f6d46935a79&amp;dn=Salem.S02E01.HDTV.x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 322,
+  "leechers": 96,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1428296708,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:28983eb486c48d80b4212bb58ff41f6d46935a79",
+    "dn": "Salem.S02E01.HDTV.x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "28983eb486c48d80b4212bb58ff41f6d46935a79",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        40,
+        152,
+        62,
+        180,
+        134,
+        196,
+        141,
+        128,
+        180,
+        33,
+        43,
+        181,
+        143,
+        244,
+        31,
+        109,
+        70,
+        147,
+        90,
+        121
+      ]
+    },
+    "name": "Salem.S02E01.HDTV.x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 418,
+  "peers": 3,
+  "last_updated": "2016-12-24T20:26:29.201Z"
+}

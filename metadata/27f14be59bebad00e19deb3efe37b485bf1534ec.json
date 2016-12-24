@@ -1,1 +1,61 @@
-{"title":"Metallica - Ride The Lightning","uid":6274298,"size":114112431,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:27f14be59bebad00e19deb3efe37b485bf1534ec&amp;dn=Metallica+-+Ride+The+Lightning&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":2,"uploader":"VirtualVernon","files":9,"time":1301195847,"description":"1. \t&quot;Fight Fire with Fire&quot;   \tJames Hetfield, Lars Ulrich, Cliff Burton \t4:45\n2. \t&quot;Ride the Lightning&quot;   \tHetfield, Ulrich, Burton, Dave Mustaine \t6:36\n3. \t&quot;For Whom the Bell Tolls&quot;   \tHetfield, Ulrich, Burton \t5:09\n4. \t&quot;Fade to Black&quot;   \tHetfield, Ulrich, Burton, Kirk Hammett \t6:57\n5. \t&quot;Trapped Under Ice&quot;   \tHetfield, Ulrich, Hammett \t4:04\n6. \t&quot;Escape&quot;   \tHetfield, Ulrich, Hammett \t4:24\n7. \t&quot;Creeping Death&quot;   \tHetfield, Ulrich, Burton, Hammett \t6:36\n8. \t&quot;The Call of Ktulu&quot; (Instrumental) \tHetfield, Ulrich, Burton, Mustaine \t8:53","torrent":{"xt":"urn:btih:27f14be59bebad00e19deb3efe37b485bf1534ec","amp;dn":"Metallica+-+Ride+The+Lightning","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"27f14be59bebad00e19deb3efe37b485bf1534ec","infoHashBuffer":{"type":"Buffer","data":[39,241,75,229,155,235,173,0,225,157,235,62,254,55,180,133,191,21,52,236]},"announce":[],"urlList":[]}}
+{
+  "title": "Metallica - Ride The Lightning",
+  "uid": 6274298,
+  "size": 114112431,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:27f14be59bebad00e19deb3efe37b485bf1534ec&amp;dn=Metallica+-+Ride+The+Lightning&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 2,
+  "uploader": "VirtualVernon",
+  "files": 9,
+  "time": 1301195847,
+  "description": "1. \t&quot;Fight Fire with Fire&quot;   \tJames Hetfield, Lars Ulrich, Cliff Burton \t4:45\n2. \t&quot;Ride the Lightning&quot;   \tHetfield, Ulrich, Burton, Dave Mustaine \t6:36\n3. \t&quot;For Whom the Bell Tolls&quot;   \tHetfield, Ulrich, Burton \t5:09\n4. \t&quot;Fade to Black&quot;   \tHetfield, Ulrich, Burton, Kirk Hammett \t6:57\n5. \t&quot;Trapped Under Ice&quot;   \tHetfield, Ulrich, Hammett \t4:04\n6. \t&quot;Escape&quot;   \tHetfield, Ulrich, Hammett \t4:24\n7. \t&quot;Creeping Death&quot;   \tHetfield, Ulrich, Burton, Hammett \t6:36\n8. \t&quot;The Call of Ktulu&quot; (Instrumental) \tHetfield, Ulrich, Burton, Mustaine \t8:53",
+  "parsed": {
+    "xt": "urn:btih:27f14be59bebad00e19deb3efe37b485bf1534ec",
+    "dn": "Metallica - Ride The Lightning",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "27f14be59bebad00e19deb3efe37b485bf1534ec",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        39,
+        241,
+        75,
+        229,
+        155,
+        235,
+        173,
+        0,
+        225,
+        157,
+        235,
+        62,
+        254,
+        55,
+        180,
+        133,
+        191,
+        21,
+        52,
+        236
+      ]
+    },
+    "name": "Metallica - Ride The Lightning",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 18,
+  "last_updated": "2016-12-24T20:20:47.904Z"
+}

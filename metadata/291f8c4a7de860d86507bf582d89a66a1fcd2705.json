@@ -1,1 +1,61 @@
-{"title":"Gotham S01E06 HDTV x264-LOL[ettv]","uid":11304372,"size":210437027,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:291f8c4a7de860d86507bf582d89a66a1fcd2705&amp;dn=Gotham+S01E06+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":2,"uploader":"ettv","files":2,"time":1414457992,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:291f8c4a7de860d86507bf582d89a66a1fcd2705","amp;dn":"Gotham+S01E06+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"291f8c4a7de860d86507bf582d89a66a1fcd2705","infoHashBuffer":{"type":"Buffer","data":[41,31,140,74,125,232,96,216,101,7,191,88,45,137,166,106,31,205,39,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Gotham S01E06 HDTV x264-LOL[ettv]",
+  "uid": 11304372,
+  "size": 210437027,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:291f8c4a7de860d86507bf582d89a66a1fcd2705&amp;dn=Gotham+S01E06+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1414457992,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:291f8c4a7de860d86507bf582d89a66a1fcd2705",
+    "dn": "Gotham S01E06 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "291f8c4a7de860d86507bf582d89a66a1fcd2705",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        41,
+        31,
+        140,
+        74,
+        125,
+        232,
+        96,
+        216,
+        101,
+        7,
+        191,
+        88,
+        45,
+        137,
+        166,
+        106,
+        31,
+        205,
+        39,
+        5
+      ]
+    },
+    "name": "Gotham S01E06 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 16,
+  "last_updated": "2016-12-24T20:30:30.054Z"
+}

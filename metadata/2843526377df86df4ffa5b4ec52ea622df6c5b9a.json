@@ -1,1 +1,61 @@
-{"title":"Rosetta Stone - French - Level 1, 2, 3, 4, 5","uid":8262912,"size":2058420866,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:2843526377df86df4ffa5b4ec52ea622df6c5b9a&amp;dn=Rosetta+Stone+-+French+-+Level+1%2C+2%2C+3%2C+4%2C+5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":194,"leechers":10,"uploader":"yousef86","files":-1,"time":1363426732,"description":"*************************************************\nRosetta Stone - French - Level 1, 2, 3, 4, 5\n*************************************************\nImage\n-------------------------------------------------\nGeneral Information\n-------------------------------------------------\nType.................: Application\nPlatform.............: Windows Vista/7/8\nPart Size............: 350MB - 458MB\nNumber of Parts......: 5\nImage Format.........: .iso\nBurn Tested..........: Yes\n\n\n\n\n\n-------------------------------------------------\nGenerated with Cool NFO Creator\n-------------------------------------------------","torrent":{"xt":"urn:btih:2843526377df86df4ffa5b4ec52ea622df6c5b9a","amp;dn":"Rosetta+Stone+-+French+-+Level+1%2C+2%2C+3%2C+4%2C+5","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2843526377df86df4ffa5b4ec52ea622df6c5b9a","infoHashBuffer":{"type":"Buffer","data":[40,67,82,99,119,223,134,223,79,250,91,78,197,46,166,34,223,108,91,154]},"announce":[],"urlList":[]}}
+{
+  "title": "Rosetta Stone - French - Level 1, 2, 3, 4, 5",
+  "uid": 8262912,
+  "size": 2058420866,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:2843526377df86df4ffa5b4ec52ea622df6c5b9a&amp;dn=Rosetta+Stone+-+French+-+Level+1%2C+2%2C+3%2C+4%2C+5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 194,
+  "leechers": 10,
+  "uploader": "yousef86",
+  "files": -1,
+  "time": 1363426732,
+  "description": "*************************************************\nRosetta Stone - French - Level 1, 2, 3, 4, 5\n*************************************************\nImage\n-------------------------------------------------\nGeneral Information\n-------------------------------------------------\nType.................: Application\nPlatform.............: Windows Vista/7/8\nPart Size............: 350MB - 458MB\nNumber of Parts......: 5\nImage Format.........: .iso\nBurn Tested..........: Yes\n\n\n\n\n\n-------------------------------------------------\nGenerated with Cool NFO Creator\n-------------------------------------------------",
+  "parsed": {
+    "xt": "urn:btih:2843526377df86df4ffa5b4ec52ea622df6c5b9a",
+    "dn": "Rosetta Stone - French - Level 1, 2, 3, 4, 5",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2843526377df86df4ffa5b4ec52ea622df6c5b9a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        40,
+        67,
+        82,
+        99,
+        119,
+        223,
+        134,
+        223,
+        79,
+        250,
+        91,
+        78,
+        197,
+        46,
+        166,
+        34,
+        223,
+        108,
+        91,
+        154
+      ]
+    },
+    "name": "Rosetta Stone - French - Level 1, 2, 3, 4, 5",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 204,
+  "peers": 35,
+  "last_updated": "2016-12-24T20:23:48.598Z"
+}
