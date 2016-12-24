@@ -1,1 +1,61 @@
-{"title":"Ghost Adventures S11E01 Edinburgh Manor HDTV x264-SPASM","uid":12272254,"size":234710251,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:10a5d8e08a7dc0d0b4c6ddfb40de64250e6c967d&amp;dn=Ghost+Adventures+S11E01+Edinburgh+Manor+HDTV+x264-SPASM&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":3,"uploader":"LegendET","files":2,"time":1440305149,"description":"Video\nFormat: AVC\nWidth: 720 pixels\nHeight: 404 pixels\nAudio\nFormat: AAC\nBit rate: Variable\nSource: 720p DHD","torrent":{"xt":"urn:btih:10a5d8e08a7dc0d0b4c6ddfb40de64250e6c967d","amp;dn":"Ghost+Adventures+S11E01+Edinburgh+Manor+HDTV+x264-SPASM","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"10a5d8e08a7dc0d0b4c6ddfb40de64250e6c967d","infoHashBuffer":{"type":"Buffer","data":[16,165,216,224,138,125,192,208,180,198,221,251,64,222,100,37,14,108,150,125]},"announce":[],"urlList":[]}}
+{
+  "title": "Ghost Adventures S11E01 Edinburgh Manor HDTV x264-SPASM",
+  "uid": 12272254,
+  "size": 234710251,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:10a5d8e08a7dc0d0b4c6ddfb40de64250e6c967d&amp;dn=Ghost+Adventures+S11E01+Edinburgh+Manor+HDTV+x264-SPASM&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 3,
+  "uploader": "LegendET",
+  "files": 2,
+  "time": 1440305149,
+  "description": "Video\nFormat: AVC\nWidth: 720 pixels\nHeight: 404 pixels\nAudio\nFormat: AAC\nBit rate: Variable\nSource: 720p DHD",
+  "parsed": {
+    "xt": "urn:btih:10a5d8e08a7dc0d0b4c6ddfb40de64250e6c967d",
+    "dn": "Ghost Adventures S11E01 Edinburgh Manor HDTV x264-SPASM",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "10a5d8e08a7dc0d0b4c6ddfb40de64250e6c967d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        16,
+        165,
+        216,
+        224,
+        138,
+        125,
+        192,
+        208,
+        180,
+        198,
+        221,
+        251,
+        64,
+        222,
+        100,
+        37,
+        14,
+        108,
+        150,
+        125
+      ]
+    },
+    "name": "Ghost Adventures S11E01 Edinburgh Manor HDTV x264-SPASM",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 4,
+  "last_updated": "2016-12-24T17:22:08.604Z"
+}

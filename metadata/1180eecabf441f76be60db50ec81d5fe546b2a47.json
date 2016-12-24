@@ -1,1 +1,61 @@
-{"title":"J Dilla - Donuts","uid":11626768,"size":94647168,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1180eecabf441f76be60db50ec81d5fe546b2a47&amp;dn=J+Dilla+-+Donuts&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":1,"uploader":null,"files":31,"time":1417631908,"description":"J Dilla - Donuts","torrent":{"xt":"urn:btih:1180eecabf441f76be60db50ec81d5fe546b2a47","amp;dn":"J+Dilla+-+Donuts","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1180eecabf441f76be60db50ec81d5fe546b2a47","infoHashBuffer":{"type":"Buffer","data":[17,128,238,202,191,68,31,118,190,96,219,80,236,129,213,254,84,107,42,71]},"announce":[],"urlList":[]}}
+{
+  "title": "J Dilla - Donuts",
+  "uid": 11626768,
+  "size": 94647168,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1180eecabf441f76be60db50ec81d5fe546b2a47&amp;dn=J+Dilla+-+Donuts&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 1,
+  "uploader": null,
+  "files": 31,
+  "time": 1417631908,
+  "description": "J Dilla - Donuts",
+  "parsed": {
+    "xt": "urn:btih:1180eecabf441f76be60db50ec81d5fe546b2a47",
+    "dn": "J Dilla - Donuts",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1180eecabf441f76be60db50ec81d5fe546b2a47",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        17,
+        128,
+        238,
+        202,
+        191,
+        68,
+        31,
+        118,
+        190,
+        96,
+        219,
+        80,
+        236,
+        129,
+        213,
+        254,
+        84,
+        107,
+        42,
+        71
+      ]
+    },
+    "name": "J Dilla - Donuts",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 17,
+  "last_updated": "2016-12-24T17:29:06.368Z"
+}

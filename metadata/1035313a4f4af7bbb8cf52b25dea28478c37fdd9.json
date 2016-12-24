@@ -1,1 +1,61 @@
-{"title":"Superior Iron Man 008 (2015) (Digital) (Zone-Empire)","uid":11867227,"size":38619338,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:1035313a4f4af7bbb8cf52b25dea28478c37fdd9&amp;dn=Superior+Iron+Man+008+%282015%29+%28Digital%29+%28Zone-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":0,"uploader":"jedi.jesse","files":1,"time":1430389375,"description":"A phantom from Tony's past is back to haunt him. It's Iron Man versus Iron Man but who or what is in Tony's old armor?","torrent":{"xt":"urn:btih:1035313a4f4af7bbb8cf52b25dea28478c37fdd9","amp;dn":"Superior+Iron+Man+008+%282015%29+%28Digital%29+%28Zone-Empire%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1035313a4f4af7bbb8cf52b25dea28478c37fdd9","infoHashBuffer":{"type":"Buffer","data":[16,53,49,58,79,74,247,187,184,207,82,178,93,234,40,71,140,55,253,217]},"announce":[],"urlList":[]}}
+{
+  "title": "Superior Iron Man 008 (2015) (Digital) (Zone-Empire)",
+  "uid": 11867227,
+  "size": 38619338,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:1035313a4f4af7bbb8cf52b25dea28478c37fdd9&amp;dn=Superior+Iron+Man+008+%282015%29+%28Digital%29+%28Zone-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 0,
+  "uploader": "jedi.jesse",
+  "files": 1,
+  "time": 1430389375,
+  "description": "A phantom from Tony's past is back to haunt him. It's Iron Man versus Iron Man but who or what is in Tony's old armor?",
+  "parsed": {
+    "xt": "urn:btih:1035313a4f4af7bbb8cf52b25dea28478c37fdd9",
+    "dn": "Superior Iron Man 008 (2015) (Digital) (Zone-Empire)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1035313a4f4af7bbb8cf52b25dea28478c37fdd9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        16,
+        53,
+        49,
+        58,
+        79,
+        74,
+        247,
+        187,
+        184,
+        207,
+        82,
+        178,
+        93,
+        234,
+        40,
+        71,
+        140,
+        55,
+        253,
+        217
+      ]
+    },
+    "name": "Superior Iron Man 008 (2015) (Digital) (Zone-Empire)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 4,
+  "last_updated": "2016-12-24T17:18:31.653Z"
+}

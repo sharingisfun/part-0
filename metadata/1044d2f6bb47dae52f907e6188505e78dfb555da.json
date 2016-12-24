@@ -1,1 +1,61 @@
-{"title":"Rosetta Stone v3 French &amp; Speech Preinstalled.exe","uid":7320759,"size":2034222276,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:1044d2f6bb47dae52f907e6188505e78dfb555da&amp;dn=Rosetta+Stone+v3+French+%26amp%3B+Speech+Preinstalled.exe&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":7,"uploader":"EinDeutschMan","files":1,"time":1338612413,"description":"This is a SELF EXTRACTING file that contains all of the files needed to run this  language in Rosetta Stone.\n\nYou MUST use it with the &quot;Rosetta Stone v3.4.7 Preinstalled.exe&quot; file I have UL'd\nIf you don't, the activation process may not work right (or at all!)\n\nDL this file, extract it, allow it to extract to the default location (C:/)\n\nIt will create the &quot;C:/Program Files (x86)/Rosetta Stone/content&quot; folder.\nIt will then copy the language files to the &quot;content&quot; folder\n\nTHAT'S IT!\n\n(for more information, read the comment I wrote in the &quot;Rosetta Stone v3.4.7 Preinstalled.exe&quot; torrent index.)\n\nEinDeutschMan\t\t\t\t\t\n\n\t\t","torrent":{"xt":"urn:btih:1044d2f6bb47dae52f907e6188505e78dfb555da","amp;dn":"Rosetta+Stone+v3+French+%26amp%3B+Speech+Preinstalled.exe","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1044d2f6bb47dae52f907e6188505e78dfb555da","infoHashBuffer":{"type":"Buffer","data":[16,68,210,246,187,71,218,229,47,144,126,97,136,80,94,120,223,181,85,218]},"announce":[],"urlList":[]}}
+{
+  "title": "Rosetta Stone v3 French &amp; Speech Preinstalled.exe",
+  "uid": 7320759,
+  "size": 2034222276,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:1044d2f6bb47dae52f907e6188505e78dfb555da&amp;dn=Rosetta+Stone+v3+French+%26amp%3B+Speech+Preinstalled.exe&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 7,
+  "uploader": "EinDeutschMan",
+  "files": 1,
+  "time": 1338612413,
+  "description": "This is a SELF EXTRACTING file that contains all of the files needed to run this  language in Rosetta Stone.\n\nYou MUST use it with the &quot;Rosetta Stone v3.4.7 Preinstalled.exe&quot; file I have UL'd\nIf you don't, the activation process may not work right (or at all!)\n\nDL this file, extract it, allow it to extract to the default location (C:/)\n\nIt will create the &quot;C:/Program Files (x86)/Rosetta Stone/content&quot; folder.\nIt will then copy the language files to the &quot;content&quot; folder\n\nTHAT'S IT!\n\n(for more information, read the comment I wrote in the &quot;Rosetta Stone v3.4.7 Preinstalled.exe&quot; torrent index.)\n\nEinDeutschMan\t\t\t\t\t\n\n\t\t",
+  "parsed": {
+    "xt": "urn:btih:1044d2f6bb47dae52f907e6188505e78dfb555da",
+    "dn": "Rosetta Stone v3 French &amp; Speech Preinstalled.exe",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1044d2f6bb47dae52f907e6188505e78dfb555da",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        16,
+        68,
+        210,
+        246,
+        187,
+        71,
+        218,
+        229,
+        47,
+        144,
+        126,
+        97,
+        136,
+        80,
+        94,
+        120,
+        223,
+        181,
+        85,
+        218
+      ]
+    },
+    "name": "Rosetta Stone v3 French &amp; Speech Preinstalled.exe",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 43,
+  "last_updated": "2016-12-24T17:18:53.745Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Olympus S01E05 HDTV XviD-FUM[ettv]","uid":11871827,"size":365627510,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:10fd8068c4d9ef0cf6c7118496a9e5748883fd0d&amp;dn=Olympus+S01E05+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":5,"uploader":"ettv","files":2,"time":1430458718,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:10fd8068c4d9ef0cf6c7118496a9e5748883fd0d","amp;dn":"Olympus+S01E05+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"10fd8068c4d9ef0cf6c7118496a9e5748883fd0d","infoHashBuffer":{"type":"Buffer","data":[16,253,128,104,196,217,239,12,246,199,17,132,150,169,229,116,136,131,253,13]},"announce":[],"urlList":[]}}
+{
+  "title": "Olympus S01E05 HDTV XviD-FUM[ettv]",
+  "uid": 11871827,
+  "size": 365627510,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:10fd8068c4d9ef0cf6c7118496a9e5748883fd0d&amp;dn=Olympus+S01E05+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1430458718,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:10fd8068c4d9ef0cf6c7118496a9e5748883fd0d",
+    "dn": "Olympus S01E05 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "10fd8068c4d9ef0cf6c7118496a9e5748883fd0d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        16,
+        253,
+        128,
+        104,
+        196,
+        217,
+        239,
+        12,
+        246,
+        199,
+        17,
+        132,
+        150,
+        169,
+        229,
+        116,
+        136,
+        131,
+        253,
+        13
+      ]
+    },
+    "name": "Olympus S01E05 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 3,
+  "last_updated": "2016-12-24T17:24:45.253Z"
+}

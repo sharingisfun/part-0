@@ -1,1 +1,61 @@
-{"title":"ARMA.3.Complete.Campaign.Edition-RELOADED","uid":9804125,"size":10699652664,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:1178efaaa19be0c0e2eed8c6b634c611f9fa678f&amp;dn=ARMA.3.Complete.Campaign.Edition-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":7,"uploader":"Drarbg","files":3,"time":1395428613,"description":"ARMA.3.Complete.Campaign.Edition-RELOADED\n","torrent":{"xt":"urn:btih:1178efaaa19be0c0e2eed8c6b634c611f9fa678f","amp;dn":"ARMA.3.Complete.Campaign.Edition-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1178efaaa19be0c0e2eed8c6b634c611f9fa678f","infoHashBuffer":{"type":"Buffer","data":[17,120,239,170,161,155,224,192,226,238,216,198,182,52,198,17,249,250,103,143]},"announce":[],"urlList":[]}}
+{
+  "title": "ARMA.3.Complete.Campaign.Edition-RELOADED",
+  "uid": 9804125,
+  "size": 10699652664,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:1178efaaa19be0c0e2eed8c6b634c611f9fa678f&amp;dn=ARMA.3.Complete.Campaign.Edition-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 7,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1395428613,
+  "description": "ARMA.3.Complete.Campaign.Edition-RELOADED\n",
+  "parsed": {
+    "xt": "urn:btih:1178efaaa19be0c0e2eed8c6b634c611f9fa678f",
+    "dn": "ARMA.3.Complete.Campaign.Edition-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1178efaaa19be0c0e2eed8c6b634c611f9fa678f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        17,
+        120,
+        239,
+        170,
+        161,
+        155,
+        224,
+        192,
+        226,
+        238,
+        216,
+        198,
+        182,
+        52,
+        198,
+        17,
+        249,
+        250,
+        103,
+        143
+      ]
+    },
+    "name": "ARMA.3.Complete.Campaign.Edition-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 17,
+  "last_updated": "2016-12-24T17:28:52.295Z"
+}

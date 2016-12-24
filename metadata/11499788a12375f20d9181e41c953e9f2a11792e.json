@@ -1,1 +1,61 @@
-{"title":"FAR CRY 4 UPDATE V1.4-RELOADED","uid":11560507,"size":46129285,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:11499788a12375f20d9181e41c953e9f2a11792e&amp;dn=FAR+CRY+4+UPDATE+V1.4-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":2,"uploader":"NarutoKingdom","files":12,"time":1416874639,"description":"ABOUT THE GAME\n\nHidden in the towering Himalayas lies Kyrat, a country steeped in tradition and violence. You are Ajay Ghale. Traveling to Kyrat to fulfill your motherÃ¢â‚¬â„¢s dying wish, you find yourself caught up in a civil war to overthrow the oppressive regime of dictator Pagan Min. Explore and navigate this vast open world, where danger and unpredictability lurk around every corner. Here, every decision counts, and every second is a story. Welcome to Kyrat.\n\n* Fixed the Ã¢â‚¬Å“black screenÃ¢â‚¬ï¿½ issue PC players were experiencing when certain USB peripherals were plugged in.\n* Fixed the Ã¢â‚¬Å“grey screenÃ¢â‚¬ï¿½ issue some PC players were may have encountered after the Outpost Master Mission","torrent":{"xt":"urn:btih:11499788a12375f20d9181e41c953e9f2a11792e","amp;dn":"FAR+CRY+4+UPDATE+V1.4-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"11499788a12375f20d9181e41c953e9f2a11792e","infoHashBuffer":{"type":"Buffer","data":[17,73,151,136,161,35,117,242,13,145,129,228,28,149,62,159,42,17,121,46]},"announce":[],"urlList":[]}}
+{
+  "title": "FAR CRY 4 UPDATE V1.4-RELOADED",
+  "uid": 11560507,
+  "size": 46129285,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:11499788a12375f20d9181e41c953e9f2a11792e&amp;dn=FAR+CRY+4+UPDATE+V1.4-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 2,
+  "uploader": "NarutoKingdom",
+  "files": 12,
+  "time": 1416874639,
+  "description": "ABOUT THE GAME\n\nHidden in the towering Himalayas lies Kyrat, a country steeped in tradition and violence. You are Ajay Ghale. Traveling to Kyrat to fulfill your motherÃ¢â‚¬â„¢s dying wish, you find yourself caught up in a civil war to overthrow the oppressive regime of dictator Pagan Min. Explore and navigate this vast open world, where danger and unpredictability lurk around every corner. Here, every decision counts, and every second is a story. Welcome to Kyrat.\n\n* Fixed the Ã¢â‚¬Å“black screenÃ¢â‚¬ï¿½ issue PC players were experiencing when certain USB peripherals were plugged in.\n* Fixed the Ã¢â‚¬Å“grey screenÃ¢â‚¬ï¿½ issue some PC players were may have encountered after the Outpost Master Mission",
+  "parsed": {
+    "xt": "urn:btih:11499788a12375f20d9181e41c953e9f2a11792e",
+    "dn": "FAR CRY 4 UPDATE V1.4-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "11499788a12375f20d9181e41c953e9f2a11792e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        17,
+        73,
+        151,
+        136,
+        161,
+        35,
+        117,
+        242,
+        13,
+        145,
+        129,
+        228,
+        28,
+        149,
+        62,
+        159,
+        42,
+        17,
+        121,
+        46
+      ]
+    },
+    "name": "FAR CRY 4 UPDATE V1.4-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 15,
+  "last_updated": "2016-12-24T17:27:25.939Z"
+}

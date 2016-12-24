@@ -1,1 +1,61 @@
-{"title":"Grimm.S01E02.HDTV.XviD-LOL.[VTV].avi","uid":6796261,"size":366448640,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:1085577c18a42a409c7c090d85bc92e9944480b9&amp;dn=Grimm.S01E02.HDTV.XviD-LOL.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":9,"uploader":"VTV","files":1,"time":1320462649,"description":"Grimm 1x02 (HDTV-LOL)[VTV]","torrent":{"xt":"urn:btih:1085577c18a42a409c7c090d85bc92e9944480b9","amp;dn":"Grimm.S01E02.HDTV.XviD-LOL.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1085577c18a42a409c7c090d85bc92e9944480b9","infoHashBuffer":{"type":"Buffer","data":[16,133,87,124,24,164,42,64,156,124,9,13,133,188,146,233,148,68,128,185]},"announce":[],"urlList":[]}}
+{
+  "title": "Grimm.S01E02.HDTV.XviD-LOL.[VTV].avi",
+  "uid": 6796261,
+  "size": 366448640,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:1085577c18a42a409c7c090d85bc92e9944480b9&amp;dn=Grimm.S01E02.HDTV.XviD-LOL.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 9,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1320462649,
+  "description": "Grimm 1x02 (HDTV-LOL)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:1085577c18a42a409c7c090d85bc92e9944480b9",
+    "dn": "Grimm.S01E02.HDTV.XviD-LOL.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1085577c18a42a409c7c090d85bc92e9944480b9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        16,
+        133,
+        87,
+        124,
+        24,
+        164,
+        42,
+        64,
+        156,
+        124,
+        9,
+        13,
+        133,
+        188,
+        146,
+        233,
+        148,
+        68,
+        128,
+        185
+      ]
+    },
+    "name": "Grimm.S01E02.HDTV.XviD-LOL.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 6,
+  "last_updated": "2016-12-24T17:20:56.317Z"
+}

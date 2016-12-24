@@ -1,1 +1,61 @@
-{"title":"Apocalipse (2014) Dublado","uid":11467577,"size":837036032,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:117eebf5525bbfc8de6dd146b3c91438834ccc90&amp;dn=Apocalipse+%282014%29+Dublado&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":128,"leechers":3,"uploader":null,"files":1,"time":1416051892,"description":"Apocalipse (2014) Dublado","torrent":{"xt":"urn:btih:117eebf5525bbfc8de6dd146b3c91438834ccc90","amp;dn":"Apocalipse+%282014%29+Dublado","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"117eebf5525bbfc8de6dd146b3c91438834ccc90","infoHashBuffer":{"type":"Buffer","data":[17,126,235,245,82,91,191,200,222,109,209,70,179,201,20,56,131,76,204,144]},"announce":[],"urlList":[]}}
+{
+  "title": "Apocalipse (2014) Dublado",
+  "uid": 11467577,
+  "size": 837036032,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:117eebf5525bbfc8de6dd146b3c91438834ccc90&amp;dn=Apocalipse+%282014%29+Dublado&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 128,
+  "leechers": 3,
+  "uploader": null,
+  "files": 1,
+  "time": 1416051892,
+  "description": "Apocalipse (2014) Dublado",
+  "parsed": {
+    "xt": "urn:btih:117eebf5525bbfc8de6dd146b3c91438834ccc90",
+    "dn": "Apocalipse (2014) Dublado",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "117eebf5525bbfc8de6dd146b3c91438834ccc90",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        17,
+        126,
+        235,
+        245,
+        82,
+        91,
+        191,
+        200,
+        222,
+        109,
+        209,
+        70,
+        179,
+        201,
+        20,
+        56,
+        131,
+        76,
+        204,
+        144
+      ]
+    },
+    "name": "Apocalipse (2014) Dublado",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 131,
+  "peers": 34,
+  "last_updated": "2016-12-24T17:29:04.360Z"
+}

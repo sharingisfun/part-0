@@ -1,1 +1,61 @@
-{"title":"Lynda - JavaScript for Web Designers","uid":9162388,"size":607431502,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:119123760410fd22f4e51290e8cd9e8c4d7da0a1&amp;dn=Lynda+-+JavaScript+for+Web+Designers&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":3,"uploader":"NepsterJay","files":-1,"time":1383891501,"description":"Web designers can significantly expand their skill set and job prospects by getting comfortable with JavaScript. It allows you to do things with your websites that would be impossible with HTML and CSS alone. Learn some basic, real-world uses for JavaScript in this course with Joe Chellman. You'll find out how to work with JavaScript in the browser and in a code editor, add JavaScript to a form, read data from that form, and check input for errors. Plus, learn how to transform a long, scrolling page into a smart and stylish tabbed interface and add interactive content through APIs like Google Maps.","torrent":{"xt":"urn:btih:119123760410fd22f4e51290e8cd9e8c4d7da0a1","amp;dn":"Lynda+-+JavaScript+for+Web+Designers","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"119123760410fd22f4e51290e8cd9e8c4d7da0a1","infoHashBuffer":{"type":"Buffer","data":[17,145,35,118,4,16,253,34,244,229,18,144,232,205,158,140,77,125,160,161]},"announce":[],"urlList":[]}}
+{
+  "title": "Lynda - JavaScript for Web Designers",
+  "uid": 9162388,
+  "size": 607431502,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:119123760410fd22f4e51290e8cd9e8c4d7da0a1&amp;dn=Lynda+-+JavaScript+for+Web+Designers&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 3,
+  "uploader": "NepsterJay",
+  "files": -1,
+  "time": 1383891501,
+  "description": "Web designers can significantly expand their skill set and job prospects by getting comfortable with JavaScript. It allows you to do things with your websites that would be impossible with HTML and CSS alone. Learn some basic, real-world uses for JavaScript in this course with Joe Chellman. You'll find out how to work with JavaScript in the browser and in a code editor, add JavaScript to a form, read data from that form, and check input for errors. Plus, learn how to transform a long, scrolling page into a smart and stylish tabbed interface and add interactive content through APIs like Google Maps.",
+  "parsed": {
+    "xt": "urn:btih:119123760410fd22f4e51290e8cd9e8c4d7da0a1",
+    "dn": "Lynda - JavaScript for Web Designers",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "119123760410fd22f4e51290e8cd9e8c4d7da0a1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        17,
+        145,
+        35,
+        118,
+        4,
+        16,
+        253,
+        34,
+        244,
+        229,
+        18,
+        144,
+        232,
+        205,
+        158,
+        140,
+        77,
+        125,
+        160,
+        161
+      ]
+    },
+    "name": "Lynda - JavaScript for Web Designers",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 79,
+  "last_updated": "2016-12-24T17:29:32.492Z"
+}

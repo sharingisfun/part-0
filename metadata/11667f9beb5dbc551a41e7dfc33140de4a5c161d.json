@@ -1,1 +1,61 @@
-{"title":"How I Met Your Mother S09E18 HDTV x264-EXCELLENCE[ettv]","uid":9661786,"size":191253614,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:11667f9beb5dbc551a41e7dfc33140de4a5c161d&amp;dn=How+I+Met+Your+Mother+S09E18+HDTV+x264-EXCELLENCE%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":128,"leechers":3,"uploader":"ettv","files":2,"time":1393295812,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps","torrent":{"xt":"urn:btih:11667f9beb5dbc551a41e7dfc33140de4a5c161d","amp;dn":"How+I+Met+Your+Mother+S09E18+HDTV+x264-EXCELLENCE%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"11667f9beb5dbc551a41e7dfc33140de4a5c161d","infoHashBuffer":{"type":"Buffer","data":[17,102,127,155,235,93,188,85,26,65,231,223,195,49,64,222,74,92,22,29]},"announce":[],"urlList":[]}}
+{
+  "title": "How I Met Your Mother S09E18 HDTV x264-EXCELLENCE[ettv]",
+  "uid": 9661786,
+  "size": 191253614,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:11667f9beb5dbc551a41e7dfc33140de4a5c161d&amp;dn=How+I+Met+Your+Mother+S09E18+HDTV+x264-EXCELLENCE%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 128,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1393295812,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:11667f9beb5dbc551a41e7dfc33140de4a5c161d",
+    "dn": "How I Met Your Mother S09E18 HDTV x264-EXCELLENCE[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "11667f9beb5dbc551a41e7dfc33140de4a5c161d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        17,
+        102,
+        127,
+        155,
+        235,
+        93,
+        188,
+        85,
+        26,
+        65,
+        231,
+        223,
+        195,
+        49,
+        64,
+        222,
+        74,
+        92,
+        22,
+        29
+      ]
+    },
+    "name": "How I Met Your Mother S09E18 HDTV x264-EXCELLENCE[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 131,
+  "peers": 66,
+  "last_updated": "2016-12-24T17:28:16.122Z"
+}

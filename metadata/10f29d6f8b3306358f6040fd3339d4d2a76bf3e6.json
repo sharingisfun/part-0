@@ -1,1 +1,61 @@
-{"title":"The Internet Ego Death [2015] 320 OFWGKTA 1914","uid":12064441,"size":136839851,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:10f29d6f8b3306358f6040fd3339d4d2a76bf3e6&amp;dn=The+Internet+Ego+Death+%5B2015%5D+320+OFWGKTA+1914&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":89,"leechers":4,"uploader":"Capajebo","files":14,"time":1435354717,"description":" &lt;a href=&quot;http://imgur.com/ZBTHD2s&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/ZBTHD2s&lt;/a&gt; ::: The Internet Ego Death [2015] 320 OFWGKTA 1914","torrent":{"xt":"urn:btih:10f29d6f8b3306358f6040fd3339d4d2a76bf3e6","amp;dn":"The+Internet+Ego+Death+%5B2015%5D+320+OFWGKTA+1914","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"10f29d6f8b3306358f6040fd3339d4d2a76bf3e6","infoHashBuffer":{"type":"Buffer","data":[16,242,157,111,139,51,6,53,143,96,64,253,51,57,212,210,167,107,243,230]},"announce":[],"urlList":[]}}
+{
+  "title": "The Internet Ego Death [2015] 320 OFWGKTA 1914",
+  "uid": 12064441,
+  "size": 136839851,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:10f29d6f8b3306358f6040fd3339d4d2a76bf3e6&amp;dn=The+Internet+Ego+Death+%5B2015%5D+320+OFWGKTA+1914&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 89,
+  "leechers": 4,
+  "uploader": "Capajebo",
+  "files": 14,
+  "time": 1435354717,
+  "description": " &lt;a href=&quot;http://imgur.com/ZBTHD2s&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/ZBTHD2s&lt;/a&gt; ::: The Internet Ego Death [2015] 320 OFWGKTA 1914",
+  "parsed": {
+    "xt": "urn:btih:10f29d6f8b3306358f6040fd3339d4d2a76bf3e6",
+    "dn": "The Internet Ego Death [2015] 320 OFWGKTA 1914",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "10f29d6f8b3306358f6040fd3339d4d2a76bf3e6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        16,
+        242,
+        157,
+        111,
+        139,
+        51,
+        6,
+        53,
+        143,
+        96,
+        64,
+        253,
+        51,
+        57,
+        212,
+        210,
+        167,
+        107,
+        243,
+        230
+      ]
+    },
+    "name": "The Internet Ego Death [2015] 320 OFWGKTA 1914",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 93,
+  "peers": 139,
+  "last_updated": "2016-12-24T17:24:33.200Z"
+}

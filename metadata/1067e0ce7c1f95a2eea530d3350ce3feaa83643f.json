@@ -1,1 +1,61 @@
-{"title":"Saint Seiya Soul of Gold - 09 (1280x720) [rich_jc].mkv","uid":12191680,"size":349708325,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:1067e0ce7c1f95a2eea530d3350ce3feaa83643f&amp;dn=Saint+Seiya+Soul+of+Gold+-+09+%281280x720%29+%5Brich_jc%5D.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":2,"uploader":"rich_jc","files":1,"time":1438664946,"description":"Saint Seiya Soul of Gold - 09 (1280x720) [rich_jc].mkv\n\nLegenda PT-BR Softsub","torrent":{"xt":"urn:btih:1067e0ce7c1f95a2eea530d3350ce3feaa83643f","amp;dn":"Saint+Seiya+Soul+of+Gold+-+09+%281280x720%29+%5Brich_jc%5D.mkv","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1067e0ce7c1f95a2eea530d3350ce3feaa83643f","infoHashBuffer":{"type":"Buffer","data":[16,103,224,206,124,31,149,162,238,165,48,211,53,12,227,254,170,131,100,63]},"announce":[],"urlList":[]}}
+{
+  "title": "Saint Seiya Soul of Gold - 09 (1280x720) [rich_jc].mkv",
+  "uid": 12191680,
+  "size": 349708325,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:1067e0ce7c1f95a2eea530d3350ce3feaa83643f&amp;dn=Saint+Seiya+Soul+of+Gold+-+09+%281280x720%29+%5Brich_jc%5D.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 2,
+  "uploader": "rich_jc",
+  "files": 1,
+  "time": 1438664946,
+  "description": "Saint Seiya Soul of Gold - 09 (1280x720) [rich_jc].mkv\n\nLegenda PT-BR Softsub",
+  "parsed": {
+    "xt": "urn:btih:1067e0ce7c1f95a2eea530d3350ce3feaa83643f",
+    "dn": "Saint Seiya Soul of Gold - 09 (1280x720) [rich_jc].mkv",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1067e0ce7c1f95a2eea530d3350ce3feaa83643f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        16,
+        103,
+        224,
+        206,
+        124,
+        31,
+        149,
+        162,
+        238,
+        165,
+        48,
+        211,
+        53,
+        12,
+        227,
+        254,
+        170,
+        131,
+        100,
+        63
+      ]
+    },
+    "name": "Saint Seiya Soul of Gold - 09 (1280x720) [rich_jc].mkv",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 1,
+  "last_updated": "2016-12-24T17:20:10.118Z"
+}

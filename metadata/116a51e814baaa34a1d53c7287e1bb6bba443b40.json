@@ -1,1 +1,61 @@
-{"title":"Forrest Gump[1994]DvDrip[Eng]","uid":4455628,"size":736073728,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:116a51e814baaa34a1d53c7287e1bb6bba443b40&amp;dn=Forrest+Gump%5B1994%5DDvDrip%5BEng%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":90,"leechers":2,"uploader":".BONE.","files":1,"time":1224463747,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt0109830/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt0109830/&lt;/a&gt;","torrent":{"xt":"urn:btih:116a51e814baaa34a1d53c7287e1bb6bba443b40","amp;dn":"Forrest+Gump%5B1994%5DDvDrip%5BEng%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"116a51e814baaa34a1d53c7287e1bb6bba443b40","infoHashBuffer":{"type":"Buffer","data":[17,106,81,232,20,186,170,52,161,213,60,114,135,225,187,107,186,68,59,64]},"announce":[],"urlList":[]}}
+{
+  "title": "Forrest Gump[1994]DvDrip[Eng]",
+  "uid": 4455628,
+  "size": 736073728,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:116a51e814baaa34a1d53c7287e1bb6bba443b40&amp;dn=Forrest+Gump%5B1994%5DDvDrip%5BEng%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 90,
+  "leechers": 2,
+  "uploader": ".BONE.",
+  "files": 1,
+  "time": 1224463747,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt0109830/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt0109830/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:116a51e814baaa34a1d53c7287e1bb6bba443b40",
+    "dn": "Forrest Gump[1994]DvDrip[Eng]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "116a51e814baaa34a1d53c7287e1bb6bba443b40",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        17,
+        106,
+        81,
+        232,
+        20,
+        186,
+        170,
+        52,
+        161,
+        213,
+        60,
+        114,
+        135,
+        225,
+        187,
+        107,
+        186,
+        68,
+        59,
+        64
+      ]
+    },
+    "name": "Forrest Gump[1994]DvDrip[Eng]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 92,
+  "peers": 6,
+  "last_updated": "2016-12-24T17:28:22.152Z"
+}

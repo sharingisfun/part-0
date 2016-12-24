@@ -1,1 +1,61 @@
-{"title":"Bones complete season 8 aleks987a","uid":8561118,"size":8695834896,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:113c94df1ee14dcd469bd4c48fd6f8a270c241c8&amp;dn=Bones+complete+season+8+aleks987a&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":41,"uploader":"aleks987a","files":24,"time":1370886868,"description":"complete season 8","torrent":{"xt":"urn:btih:113c94df1ee14dcd469bd4c48fd6f8a270c241c8","amp;dn":"Bones+complete+season+8+aleks987a","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"113c94df1ee14dcd469bd4c48fd6f8a270c241c8","infoHashBuffer":{"type":"Buffer","data":[17,60,148,223,30,225,77,205,70,155,212,196,143,214,248,162,112,194,65,200]},"announce":[],"urlList":[]}}
+{
+  "title": "Bones complete season 8 aleks987a",
+  "uid": 8561118,
+  "size": 8695834896,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:113c94df1ee14dcd469bd4c48fd6f8a270c241c8&amp;dn=Bones+complete+season+8+aleks987a&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 41,
+  "uploader": "aleks987a",
+  "files": 24,
+  "time": 1370886868,
+  "description": "complete season 8",
+  "parsed": {
+    "xt": "urn:btih:113c94df1ee14dcd469bd4c48fd6f8a270c241c8",
+    "dn": "Bones complete season 8 aleks987a",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "113c94df1ee14dcd469bd4c48fd6f8a270c241c8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        17,
+        60,
+        148,
+        223,
+        30,
+        225,
+        77,
+        205,
+        70,
+        155,
+        212,
+        196,
+        143,
+        214,
+        248,
+        162,
+        112,
+        194,
+        65,
+        200
+      ]
+    },
+    "name": "Bones complete season 8 aleks987a",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 98,
+  "peers": 19,
+  "last_updated": "2016-12-24T17:26:55.831Z"
+}

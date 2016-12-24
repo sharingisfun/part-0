@@ -1,1 +1,61 @@
-{"title":"The Walking Dead S05E13 720p HDTV Dual Audio","uid":11745085,"size":1463915935,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:1166f5132dfce928aa14238336e00e0817932e51&amp;dn=The+Walking+Dead+S05E13+720p+HDTV+Dual+Audio&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":10,"uploader":"jefffalcao","files":4,"time":1425986714,"description":"","torrent":{"xt":"urn:btih:1166f5132dfce928aa14238336e00e0817932e51","amp;dn":"The+Walking+Dead+S05E13+720p+HDTV+Dual+Audio","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1166f5132dfce928aa14238336e00e0817932e51","infoHashBuffer":{"type":"Buffer","data":[17,102,245,19,45,252,233,40,170,20,35,131,54,224,14,8,23,147,46,81]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead S05E13 720p HDTV Dual Audio",
+  "uid": 11745085,
+  "size": 1463915935,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:1166f5132dfce928aa14238336e00e0817932e51&amp;dn=The+Walking+Dead+S05E13+720p+HDTV+Dual+Audio&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 10,
+  "uploader": "jefffalcao",
+  "files": 4,
+  "time": 1425986714,
+  "description": "",
+  "parsed": {
+    "xt": "urn:btih:1166f5132dfce928aa14238336e00e0817932e51",
+    "dn": "The Walking Dead S05E13 720p HDTV Dual Audio",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1166f5132dfce928aa14238336e00e0817932e51",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        17,
+        102,
+        245,
+        19,
+        45,
+        252,
+        233,
+        40,
+        170,
+        20,
+        35,
+        131,
+        54,
+        224,
+        14,
+        8,
+        23,
+        147,
+        46,
+        81
+      ]
+    },
+    "name": "The Walking Dead S05E13 720p HDTV Dual Audio",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 6,
+  "last_updated": "2016-12-24T17:28:18.136Z"
+}

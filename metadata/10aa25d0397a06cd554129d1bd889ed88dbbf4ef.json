@@ -1,1 +1,61 @@
-{"title":"Vanessa Carlton - A Thousand Miles","uid":5027049,"size":5636626,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:10aa25d0397a06cd554129d1bd889ed88dbbf4ef&amp;dn=Vanessa+Carlton+-+A+Thousand+Miles&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":2,"uploader":"Jennifer_Cullen","files":1,"time":1248741141,"description":"Vanessa Carlton - A Thousand Miles\n\n\n\nLove, Peace and Bubbles\nJennifer","torrent":{"xt":"urn:btih:10aa25d0397a06cd554129d1bd889ed88dbbf4ef","amp;dn":"Vanessa+Carlton+-+A+Thousand+Miles","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"10aa25d0397a06cd554129d1bd889ed88dbbf4ef","infoHashBuffer":{"type":"Buffer","data":[16,170,37,208,57,122,6,205,85,65,41,209,189,136,158,216,141,187,244,239]},"announce":[],"urlList":[]}}
+{
+  "title": "Vanessa Carlton - A Thousand Miles",
+  "uid": 5027049,
+  "size": 5636626,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:10aa25d0397a06cd554129d1bd889ed88dbbf4ef&amp;dn=Vanessa+Carlton+-+A+Thousand+Miles&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 2,
+  "uploader": "Jennifer_Cullen",
+  "files": 1,
+  "time": 1248741141,
+  "description": "Vanessa Carlton - A Thousand Miles\n\n\n\nLove, Peace and Bubbles\nJennifer",
+  "parsed": {
+    "xt": "urn:btih:10aa25d0397a06cd554129d1bd889ed88dbbf4ef",
+    "dn": "Vanessa Carlton - A Thousand Miles",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "10aa25d0397a06cd554129d1bd889ed88dbbf4ef",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        16,
+        170,
+        37,
+        208,
+        57,
+        122,
+        6,
+        205,
+        85,
+        65,
+        41,
+        209,
+        189,
+        136,
+        158,
+        216,
+        141,
+        187,
+        244,
+        239
+      ]
+    },
+    "name": "Vanessa Carlton - A Thousand Miles",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 33,
+  "last_updated": "2016-12-24T17:22:18.650Z"
+}

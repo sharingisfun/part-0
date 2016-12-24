@@ -1,1 +1,61 @@
-{"title":"Breaking Bad S02E07 Negro Y Azul HDTV XviD-FQM [eztv]","uid":4859640,"size":366861822,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:114d8e912df6a53448b78b58808b6b95b3e68e2a&amp;dn=Breaking+Bad+S02E07+Negro+Y+Azul+HDTV+XviD-FQM+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":17,"uploader":"eztv","files":1,"time":1240209422,"description":"#EZTV @ EFNet -&gt; http://eztv.it/\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW","torrent":{"xt":"urn:btih:114d8e912df6a53448b78b58808b6b95b3e68e2a","amp;dn":"Breaking+Bad+S02E07+Negro+Y+Azul+HDTV+XviD-FQM+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"114d8e912df6a53448b78b58808b6b95b3e68e2a","infoHashBuffer":{"type":"Buffer","data":[17,77,142,145,45,246,165,52,72,183,139,88,128,139,107,149,179,230,142,42]},"announce":[],"urlList":[]}}
+{
+  "title": "Breaking Bad S02E07 Negro Y Azul HDTV XviD-FQM [eztv]",
+  "uid": 4859640,
+  "size": 366861822,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:114d8e912df6a53448b78b58808b6b95b3e68e2a&amp;dn=Breaking+Bad+S02E07+Negro+Y+Azul+HDTV+XviD-FQM+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 17,
+  "uploader": "eztv",
+  "files": 1,
+  "time": 1240209422,
+  "description": "#EZTV @ EFNet -&gt; http://eztv.it/\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW",
+  "parsed": {
+    "xt": "urn:btih:114d8e912df6a53448b78b58808b6b95b3e68e2a",
+    "dn": "Breaking Bad S02E07 Negro Y Azul HDTV XviD-FQM [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "114d8e912df6a53448b78b58808b6b95b3e68e2a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        17,
+        77,
+        142,
+        145,
+        45,
+        246,
+        165,
+        52,
+        72,
+        183,
+        139,
+        88,
+        128,
+        139,
+        107,
+        149,
+        179,
+        230,
+        142,
+        42
+      ]
+    },
+    "name": "Breaking Bad S02E07 Negro Y Azul HDTV XviD-FQM [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 66,
+  "peers": 26,
+  "last_updated": "2016-12-24T17:27:35.974Z"
+}
