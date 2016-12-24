@@ -1,1 +1,61 @@
-{"title":"An Idiot Abroad Season 1-3","uid":8845999,"size":7026752415,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:0a849b74225b8bc4bde7d6cdce505b76482eb801&amp;dn=An+Idiot+Abroad+Season+1-3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":20,"uploader":"jameskirk2","files":19,"time":1377387463,"description":"Karl Pilkington is the smartest man alive!\n\nIn the 3rd season he is joined by a superstar, Warwick Davies!","torrent":{"xt":"urn:btih:0a849b74225b8bc4bde7d6cdce505b76482eb801","amp;dn":"An+Idiot+Abroad+Season+1-3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0a849b74225b8bc4bde7d6cdce505b76482eb801","infoHashBuffer":{"type":"Buffer","data":[10,132,155,116,34,91,139,196,189,231,214,205,206,80,91,118,72,46,184,1]},"announce":[],"urlList":[]}}
+{
+  "title": "An Idiot Abroad Season 1-3",
+  "uid": 8845999,
+  "size": 7026752415,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:0a849b74225b8bc4bde7d6cdce505b76482eb801&amp;dn=An+Idiot+Abroad+Season+1-3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 20,
+  "uploader": "jameskirk2",
+  "files": 19,
+  "time": 1377387463,
+  "description": "Karl Pilkington is the smartest man alive!\n\nIn the 3rd season he is joined by a superstar, Warwick Davies!",
+  "parsed": {
+    "xt": "urn:btih:0a849b74225b8bc4bde7d6cdce505b76482eb801",
+    "dn": "An Idiot Abroad Season 1-3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0a849b74225b8bc4bde7d6cdce505b76482eb801",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        10,
+        132,
+        155,
+        116,
+        34,
+        91,
+        139,
+        196,
+        189,
+        231,
+        214,
+        205,
+        206,
+        80,
+        91,
+        118,
+        72,
+        46,
+        184,
+        1
+      ]
+    },
+    "name": "An Idiot Abroad Season 1-3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 39,
+  "last_updated": "2016-12-24T16:35:00.159Z"
+}

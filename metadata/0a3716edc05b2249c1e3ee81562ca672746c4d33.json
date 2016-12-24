@@ -1,1 +1,61 @@
-{"title":"The Weeknd - Beauty Behind the Madness {MP3-2015}","uid":12308385,"size":159243152,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0a3716edc05b2249c1e3ee81562ca672746c4d33&amp;dn=The+Weeknd+-+Beauty+Behind+the+Madness+%7BMP3-2015%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":175,"leechers":17,"uploader":"simpsonrony","files":14,"time":1440838149,"description":"Source: https://itunes.apple.com/nz/album/beauty-behind-the-madness/id1017326322\n\nArtist: The Weeknd\n\nAlbum: Beauty Behind the Madness\n\nGenre: R&amp;B\n\nAudio Format: MP3\n\nAudio Bitrate : 320KBPS\n\n\nTracklist:\n**********\n\n01 Real Life\n02 Losers (feat. Labrinth)\n03 Tell Your Friends\n04 Often\n05 The Hills\n06 Acquainted\n07 Can't Feel My Face\n08 Shameless\n09 Earned It (Fifty Shades of Grey)\n10 In the Night\n11 As You Are\n12 Dark Times (feat. Ed Sheeran)\n13 Prisoner (feat. Lana Del Rey)\n14 Angel","torrent":{"xt":"urn:btih:0a3716edc05b2249c1e3ee81562ca672746c4d33","amp;dn":"The+Weeknd+-+Beauty+Behind+the+Madness+%7BMP3-2015%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0a3716edc05b2249c1e3ee81562ca672746c4d33","infoHashBuffer":{"type":"Buffer","data":[10,55,22,237,192,91,34,73,193,227,238,129,86,44,166,114,116,108,77,51]},"announce":[],"urlList":[]}}
+{
+  "title": "The Weeknd - Beauty Behind the Madness {MP3-2015}",
+  "uid": 12308385,
+  "size": 159243152,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0a3716edc05b2249c1e3ee81562ca672746c4d33&amp;dn=The+Weeknd+-+Beauty+Behind+the+Madness+%7BMP3-2015%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 175,
+  "leechers": 17,
+  "uploader": "simpsonrony",
+  "files": 14,
+  "time": 1440838149,
+  "description": "Source: https://itunes.apple.com/nz/album/beauty-behind-the-madness/id1017326322\n\nArtist: The Weeknd\n\nAlbum: Beauty Behind the Madness\n\nGenre: R&amp;B\n\nAudio Format: MP3\n\nAudio Bitrate : 320KBPS\n\n\nTracklist:\n**********\n\n01 Real Life\n02 Losers (feat. Labrinth)\n03 Tell Your Friends\n04 Often\n05 The Hills\n06 Acquainted\n07 Can't Feel My Face\n08 Shameless\n09 Earned It (Fifty Shades of Grey)\n10 In the Night\n11 As You Are\n12 Dark Times (feat. Ed Sheeran)\n13 Prisoner (feat. Lana Del Rey)\n14 Angel",
+  "parsed": {
+    "xt": "urn:btih:0a3716edc05b2249c1e3ee81562ca672746c4d33",
+    "dn": "The Weeknd - Beauty Behind the Madness {MP3-2015}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0a3716edc05b2249c1e3ee81562ca672746c4d33",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        10,
+        55,
+        22,
+        237,
+        192,
+        91,
+        34,
+        73,
+        193,
+        227,
+        238,
+        129,
+        86,
+        44,
+        166,
+        114,
+        116,
+        108,
+        77,
+        51
+      ]
+    },
+    "name": "The Weeknd - Beauty Behind the Madness {MP3-2015}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 192,
+  "peers": 65,
+  "last_updated": "2016-12-24T16:32:43.615Z"
+}

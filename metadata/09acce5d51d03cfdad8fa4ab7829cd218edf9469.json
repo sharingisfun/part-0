@@ -1,1 +1,61 @@
-{"title":"Diablo 1 &amp; Hellfire(Exp) For PC","uid":3577498,"size":1264430636,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:09acce5d51d03cfdad8fa4ab7829cd218edf9469&amp;dn=Diablo+1+%26+Hellfire%28Exp%29+For+PC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":3,"uploader":"SqualleD","files":4,"time":1166217636,"description":"Diablo 1 &amp; Hellfire(Exp) For PC.\n\n\nOldschool RPG x)\n\n\nHave Fun","torrent":{"xt":"urn:btih:09acce5d51d03cfdad8fa4ab7829cd218edf9469","amp;dn":"Diablo+1+%26+Hellfire%28Exp%29+For+PC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"09acce5d51d03cfdad8fa4ab7829cd218edf9469","infoHashBuffer":{"type":"Buffer","data":[9,172,206,93,81,208,60,253,173,143,164,171,120,41,205,33,142,223,148,105]},"announce":[],"urlList":[]}}
+{
+  "title": "Diablo 1 &amp; Hellfire(Exp) For PC",
+  "uid": 3577498,
+  "size": 1264430636,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:09acce5d51d03cfdad8fa4ab7829cd218edf9469&amp;dn=Diablo+1+%26+Hellfire%28Exp%29+For+PC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 3,
+  "uploader": "SqualleD",
+  "files": 4,
+  "time": 1166217636,
+  "description": "Diablo 1 &amp; Hellfire(Exp) For PC.\n\n\nOldschool RPG x)\n\n\nHave Fun",
+  "parsed": {
+    "xt": "urn:btih:09acce5d51d03cfdad8fa4ab7829cd218edf9469",
+    "dn": "Diablo 1 & Hellfire(Exp) For PC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "09acce5d51d03cfdad8fa4ab7829cd218edf9469",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        9,
+        172,
+        206,
+        93,
+        81,
+        208,
+        60,
+        253,
+        173,
+        143,
+        164,
+        171,
+        120,
+        41,
+        205,
+        33,
+        142,
+        223,
+        148,
+        105
+      ]
+    },
+    "name": "Diablo 1 & Hellfire(Exp) For PC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 50,
+  "last_updated": "2016-12-24T16:28:12.570Z"
+}

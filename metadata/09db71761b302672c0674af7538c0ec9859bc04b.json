@@ -1,1 +1,63 @@
-{"title":"Star Trek Beyond 2016 CAM UnKnOwN","uid":15385976,"size":912897197,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:09db71761b302672c0674af7538c0ec9859bc04b&amp;dn=Star+Trek+Beyond+2016+CAM+UnKnOwN&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":167,"leechers":6,"uploader":"LegendET","files":2,"time":1469293633,"description":"cover\r\n \nhttp://extraimago.com/images/2016/07/23/startrekbeyond.jpg\r\n\r\n\r\nNFO\r\n\r\n \nhttp://view.nfo.so/0/1/1/9b3293cf692d6d2d674282b24f19f452.png\r\n\r\n\r\n\r\nscreen\r\n \nhttp://extraimago.com/images/2016/07/23/bscap0000837cd.jpg\r\n \nhttp://extraimago.com/images/2016/07/23/bscap0001292de.jpg\r\n \nhttp://extraimago.com/images/2016/07/23/bscap000295b36.jpg\r\n \nhttp://extraimago.com/images/2016/07/23/bscap0003.jpg\r\n \nhttp://extraimago.com/images/2016/07/23/bscap0004.jpg\r\n \nhttp://extraimago.com/images/2016/07/23/bscap0005.jpg","torrent":{"xt":"urn:btih:09db71761b302672c0674af7538c0ec9859bc04b","amp;dn":"Star+Trek+Beyond+2016+CAM+UnKnOwN","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"09db71761b302672c0674af7538c0ec9859bc04b","infoHashBuffer":{"type":"Buffer","data":[9,219,113,118,27,48,38,114,192,103,74,247,83,140,14,201,133,155,192,75]},"announce":[],"urlList":[]}}
+{
+  "title": "Star Trek Beyond 2016 CAM UnKnOwN",
+  "uid": 15385976,
+  "size": 912897197,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:09db71761b302672c0674af7538c0ec9859bc04b&amp;dn=Star+Trek+Beyond+2016+CAM+UnKnOwN&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 167,
+  "leechers": 6,
+  "uploader": "LegendET",
+  "files": 2,
+  "time": 1469293633,
+  "description": "cover\r\n \nhttp://extraimago.com/images/2016/07/23/startrekbeyond.jpg\r\n\r\n\r\nNFO\r\n\r\n \nhttp://view.nfo.so/0/1/1/9b3293cf692d6d2d674282b24f19f452.png\r\n\r\n\r\n\r\nscreen\r\n \nhttp://extraimago.com/images/2016/07/23/bscap0000837cd.jpg\r\n \nhttp://extraimago.com/images/2016/07/23/bscap0001292de.jpg\r\n \nhttp://extraimago.com/images/2016/07/23/bscap000295b36.jpg\r\n \nhttp://extraimago.com/images/2016/07/23/bscap0003.jpg\r\n \nhttp://extraimago.com/images/2016/07/23/bscap0004.jpg\r\n \nhttp://extraimago.com/images/2016/07/23/bscap0005.jpg",
+  "parsed": {
+    "xt": "urn:btih:09db71761b302672c0674af7538c0ec9859bc04b",
+    "dn": "Star Trek Beyond 2016 CAM UnKnOwN",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "09db71761b302672c0674af7538c0ec9859bc04b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        9,
+        219,
+        113,
+        118,
+        27,
+        48,
+        38,
+        114,
+        192,
+        103,
+        74,
+        247,
+        83,
+        140,
+        14,
+        201,
+        133,
+        155,
+        192,
+        75
+      ]
+    },
+    "name": "Star Trek Beyond 2016 CAM UnKnOwN",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 173,
+  "peers": 178,
+  "last_updated": "2016-12-24T16:29:34.912Z"
+}

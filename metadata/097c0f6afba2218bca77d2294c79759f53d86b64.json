@@ -1,1 +1,61 @@
-{"title":"Bruno Mars - Just The Way You Are (320kbps) (2010)","uid":5933276,"size":8845637,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:097c0f6afba2218bca77d2294c79759f53d86b64&amp;dn=Bruno+Mars+-+Just+The+Way+You+Are+%28320kbps%29+%282010%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":107,"leechers":2,"uploader":"RNBxBeatz","files":1,"time":1288856499,"description":"Enjoy.\nRNBxBeatz.","torrent":{"xt":"urn:btih:097c0f6afba2218bca77d2294c79759f53d86b64","amp;dn":"Bruno+Mars+-+Just+The+Way+You+Are+%28320kbps%29+%282010%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"097c0f6afba2218bca77d2294c79759f53d86b64","infoHashBuffer":{"type":"Buffer","data":[9,124,15,106,251,162,33,139,202,119,210,41,76,121,117,159,83,216,107,100]},"announce":[],"urlList":[]}}
+{
+  "title": "Bruno Mars - Just The Way You Are (320kbps) (2010)",
+  "uid": 5933276,
+  "size": 8845637,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:097c0f6afba2218bca77d2294c79759f53d86b64&amp;dn=Bruno+Mars+-+Just+The+Way+You+Are+%28320kbps%29+%282010%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 107,
+  "leechers": 2,
+  "uploader": "RNBxBeatz",
+  "files": 1,
+  "time": 1288856499,
+  "description": "Enjoy.\nRNBxBeatz.",
+  "parsed": {
+    "xt": "urn:btih:097c0f6afba2218bca77d2294c79759f53d86b64",
+    "dn": "Bruno Mars - Just The Way You Are (320kbps) (2010)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "097c0f6afba2218bca77d2294c79759f53d86b64",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        9,
+        124,
+        15,
+        106,
+        251,
+        162,
+        33,
+        139,
+        202,
+        119,
+        210,
+        41,
+        76,
+        121,
+        117,
+        159,
+        83,
+        216,
+        107,
+        100
+      ]
+    },
+    "name": "Bruno Mars - Just The Way You Are (320kbps) (2010)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 109,
+  "peers": 192,
+  "last_updated": "2016-12-24T16:26:40.275Z"
+}

@@ -1,1 +1,61 @@
-{"title":"VICE.S03E09.HDTV.x264-BATV[ettv]","uid":11895954,"size":251685273,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:0aded3c79d191cd0c4ab29bff73ea14595392828&amp;dn=VICE.S03E09.HDTV.x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":4,"uploader":"ettv","files":3,"time":1431151963,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:0aded3c79d191cd0c4ab29bff73ea14595392828","amp;dn":"VICE.S03E09.HDTV.x264-BATV%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0aded3c79d191cd0c4ab29bff73ea14595392828","infoHashBuffer":{"type":"Buffer","data":[10,222,211,199,157,25,28,208,196,171,41,191,247,62,161,69,149,57,40,40]},"announce":[],"urlList":[]}}
+{
+  "title": "VICE.S03E09.HDTV.x264-BATV[ettv]",
+  "uid": 11895954,
+  "size": 251685273,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:0aded3c79d191cd0c4ab29bff73ea14595392828&amp;dn=VICE.S03E09.HDTV.x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1431151963,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:0aded3c79d191cd0c4ab29bff73ea14595392828",
+    "dn": "VICE.S03E09.HDTV.x264-BATV[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0aded3c79d191cd0c4ab29bff73ea14595392828",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        10,
+        222,
+        211,
+        199,
+        157,
+        25,
+        28,
+        208,
+        196,
+        171,
+        41,
+        191,
+        247,
+        62,
+        161,
+        69,
+        149,
+        57,
+        40,
+        40
+      ]
+    },
+    "name": "VICE.S03E09.HDTV.x264-BATV[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 6,
+  "last_updated": "2016-12-24T16:37:42.827Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Gary Clark Jr - Blak and Blu (Deluxe Version) - 2012","uid":7768024,"size":186174628,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0b08bd294987c30e17cefe14a5471f401a999507&amp;dn=Gary+Clark+Jr+-+Blak+and+Blu+%28Deluxe+Version%29+-+2012&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":83,"leechers":4,"uploader":"Ghuji","files":16,"time":1351436327,"description":"Duration: 77 minutes\n\nBitrate: 320kb\n\nFormat: mp3","torrent":{"xt":"urn:btih:0b08bd294987c30e17cefe14a5471f401a999507","amp;dn":"Gary+Clark+Jr+-+Blak+and+Blu+%28Deluxe+Version%29+-+2012","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0b08bd294987c30e17cefe14a5471f401a999507","infoHashBuffer":{"type":"Buffer","data":[11,8,189,41,73,135,195,14,23,206,254,20,165,71,31,64,26,153,149,7]},"announce":[],"urlList":[]}}
+{
+  "title": "Gary Clark Jr - Blak and Blu (Deluxe Version) - 2012",
+  "uid": 7768024,
+  "size": 186174628,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0b08bd294987c30e17cefe14a5471f401a999507&amp;dn=Gary+Clark+Jr+-+Blak+and+Blu+%28Deluxe+Version%29+-+2012&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 83,
+  "leechers": 4,
+  "uploader": "Ghuji",
+  "files": 16,
+  "time": 1351436327,
+  "description": "Duration: 77 minutes\n\nBitrate: 320kb\n\nFormat: mp3",
+  "parsed": {
+    "xt": "urn:btih:0b08bd294987c30e17cefe14a5471f401a999507",
+    "dn": "Gary Clark Jr - Blak and Blu (Deluxe Version) - 2012",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0b08bd294987c30e17cefe14a5471f401a999507",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        11,
+        8,
+        189,
+        41,
+        73,
+        135,
+        195,
+        14,
+        23,
+        206,
+        254,
+        20,
+        165,
+        71,
+        31,
+        64,
+        26,
+        153,
+        149,
+        7
+      ]
+    },
+    "name": "Gary Clark Jr - Blak and Blu (Deluxe Version) - 2012",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 87,
+  "peers": 95,
+  "last_updated": "2016-12-24T16:39:09.151Z"
+}

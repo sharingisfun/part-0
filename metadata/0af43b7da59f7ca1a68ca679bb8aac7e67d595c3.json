@@ -1,1 +1,61 @@
-{"title":"Terraria v1.3.0.5-MERCS213","uid":12121466,"size":93500975,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:0af43b7da59f7ca1a68ca679bb8aac7e67d595c3&amp;dn=Terraria+v1.3.0.5-MERCS213&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":0,"uploader":"mercs215","files":1,"time":1436831750,"description":"Install instructions:\n1. Download and unzip \n2. Run &quot;StartTerraria.exe&quot;\n3. Play\n\nChange log:\n\nLiving leaf walls now count as safe for housing!\nBuffed Phantasm a bit (it really was bugged!)\nMartian drone rarity lowered in sky biome (Still higher than original) , now shows up on rare creature finder info\nVortex and Nebula weapons have been rebalanced to fit some bug fixes they went through\nAdded Celestial Sigil, a summoning item for the final boss (craftable)\nPortal gun bolt speed quadrupled so you can no longer travel faster than your bolt\nEater of Worlds expert mode vile spit damage nerfed heavily\nDamage from hurting tiles now has checks for immunity separately from other effects\n\n\nFixes:\nFixed Quickstack to all chests not updating recipes list\nFixed &quot;Distorted&quot; debuff freezing players in place rather than changing their movement pattern (sorry!)\nFixed Cute Fishron and Unicorn mounts not having their tooltips\nFixed 1.3.0.3 and earlier versions of worlds not loading successfully under certain circumstances (sorry! again!)\nFixed issue where you could use items when hovering between the item slots on the bottom row of the inventory\nFixed issue where Drill Containment Unit's mining code would cause unnecessary lag in multiplayer\nFixed Cultists ritual blocking Martian Probe from spawning\nFixed Stardust Dragon desync issue\nFixed solar tablet being usable in pre-hardmode, night time or during a solar eclipse under rare circumstances\nFixed some banner names\nFixed dryad's ward buff reducing npc defense instead of buffing it (and npcs having dryads ward defense when they dont have the buff)\nFixed (super rare) bug where hittable projectiles showed HP on mouse hover\nFixed portal gun's portals not allowing players to teleport to spots near nonsolid platforms\nFixed Cosmic Car shadow trail glows not fading\nFixed hades/lokis dyes causing strange behaviors\nFixed some oddities about portal gates\nFixed a rare lighting crash\nFixed goblin scouts dispawning not spawning (or rather, despawning super fast)\nFixed vortex weapons not scaling with ranged damage or knockback (or stealth, or anything, sorry!)\nFixed bug that let you quick stack coins that were not in coin slot or hotbar to other chests\nFixed bug where holding pet items would not bring up the equipment page\nFixed torch dupe bug\nFixed all the spider hitboxes when on walls\nFixed chests which turn into big mimics on multiplayer would no longer allow destroying another chest that would be placed in their position\nFixed 'final boss flies to space' bug\nFixed Seedler projectiles not counting as melee / not getting flask effects\nFixed hoplite enemy javelins showing flask visual effects in singleplayer\nFixed issue where WoF's 'The Hungry''s ropes would turn invisible\nFixed Lunar Hook not allowing you to use the hooks freely unless at least 1 is placed\nFixed being able to open money trough when the game is paused","torrent":{"xt":"urn:btih:0af43b7da59f7ca1a68ca679bb8aac7e67d595c3","amp;dn":"Terraria+v1.3.0.5-MERCS213","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0af43b7da59f7ca1a68ca679bb8aac7e67d595c3","infoHashBuffer":{"type":"Buffer","data":[10,244,59,125,165,159,124,161,166,140,166,121,187,138,172,126,103,213,149,195]},"announce":[],"urlList":[]}}
+{
+  "title": "Terraria v1.3.0.5-MERCS213",
+  "uid": 12121466,
+  "size": 93500975,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:0af43b7da59f7ca1a68ca679bb8aac7e67d595c3&amp;dn=Terraria+v1.3.0.5-MERCS213&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 0,
+  "uploader": "mercs215",
+  "files": 1,
+  "time": 1436831750,
+  "description": "Install instructions:\n1. Download and unzip \n2. Run &quot;StartTerraria.exe&quot;\n3. Play\n\nChange log:\n\nLiving leaf walls now count as safe for housing!\nBuffed Phantasm a bit (it really was bugged!)\nMartian drone rarity lowered in sky biome (Still higher than original) , now shows up on rare creature finder info\nVortex and Nebula weapons have been rebalanced to fit some bug fixes they went through\nAdded Celestial Sigil, a summoning item for the final boss (craftable)\nPortal gun bolt speed quadrupled so you can no longer travel faster than your bolt\nEater of Worlds expert mode vile spit damage nerfed heavily\nDamage from hurting tiles now has checks for immunity separately from other effects\n\n\nFixes:\nFixed Quickstack to all chests not updating recipes list\nFixed &quot;Distorted&quot; debuff freezing players in place rather than changing their movement pattern (sorry!)\nFixed Cute Fishron and Unicorn mounts not having their tooltips\nFixed 1.3.0.3 and earlier versions of worlds not loading successfully under certain circumstances (sorry! again!)\nFixed issue where you could use items when hovering between the item slots on the bottom row of the inventory\nFixed issue where Drill Containment Unit's mining code would cause unnecessary lag in multiplayer\nFixed Cultists ritual blocking Martian Probe from spawning\nFixed Stardust Dragon desync issue\nFixed solar tablet being usable in pre-hardmode, night time or during a solar eclipse under rare circumstances\nFixed some banner names\nFixed dryad's ward buff reducing npc defense instead of buffing it (and npcs having dryads ward defense when they dont have the buff)\nFixed (super rare) bug where hittable projectiles showed HP on mouse hover\nFixed portal gun's portals not allowing players to teleport to spots near nonsolid platforms\nFixed Cosmic Car shadow trail glows not fading\nFixed hades/lokis dyes causing strange behaviors\nFixed some oddities about portal gates\nFixed a rare lighting crash\nFixed goblin scouts dispawning not spawning (or rather, despawning super fast)\nFixed vortex weapons not scaling with ranged damage or knockback (or stealth, or anything, sorry!)\nFixed bug that let you quick stack coins that were not in coin slot or hotbar to other chests\nFixed bug where holding pet items would not bring up the equipment page\nFixed torch dupe bug\nFixed all the spider hitboxes when on walls\nFixed chests which turn into big mimics on multiplayer would no longer allow destroying another chest that would be placed in their position\nFixed 'final boss flies to space' bug\nFixed Seedler projectiles not counting as melee / not getting flask effects\nFixed hoplite enemy javelins showing flask visual effects in singleplayer\nFixed issue where WoF's 'The Hungry''s ropes would turn invisible\nFixed Lunar Hook not allowing you to use the hooks freely unless at least 1 is placed\nFixed being able to open money trough when the game is paused",
+  "parsed": {
+    "xt": "urn:btih:0af43b7da59f7ca1a68ca679bb8aac7e67d595c3",
+    "dn": "Terraria v1.3.0.5-MERCS213",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0af43b7da59f7ca1a68ca679bb8aac7e67d595c3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        10,
+        244,
+        59,
+        125,
+        165,
+        159,
+        124,
+        161,
+        166,
+        140,
+        166,
+        121,
+        187,
+        138,
+        172,
+        126,
+        103,
+        213,
+        149,
+        195
+      ]
+    },
+    "name": "Terraria v1.3.0.5-MERCS213",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 78,
+  "peers": 13,
+  "last_updated": "2016-12-24T16:38:20.966Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Orange Is The New Black S03E09 WEBRip x264-Abjex","uid":12011911,"size":521367849,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:099169c4326094830462fb688823d9bac4751bbc&amp;dn=Orange+Is+The+New+Black+S03E09+WEBRip+x264-Abjex&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":251,"leechers":14,"uploader":"alnusa","files":2,"time":1434186672,"description":"Orange Is The New Black S03E09 WEBRip x264-Abjex","torrent":{"xt":"urn:btih:099169c4326094830462fb688823d9bac4751bbc","amp;dn":"Orange+Is+The+New+Black+S03E09+WEBRip+x264-Abjex","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"099169c4326094830462fb688823d9bac4751bbc","infoHashBuffer":{"type":"Buffer","data":[9,145,105,196,50,96,148,131,4,98,251,104,136,35,217,186,196,117,27,188]},"announce":[],"urlList":[]}}
+{
+  "title": "Orange Is The New Black S03E09 WEBRip x264-Abjex",
+  "uid": 12011911,
+  "size": 521367849,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:099169c4326094830462fb688823d9bac4751bbc&amp;dn=Orange+Is+The+New+Black+S03E09+WEBRip+x264-Abjex&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 251,
+  "leechers": 14,
+  "uploader": "alnusa",
+  "files": 2,
+  "time": 1434186672,
+  "description": "Orange Is The New Black S03E09 WEBRip x264-Abjex",
+  "parsed": {
+    "xt": "urn:btih:099169c4326094830462fb688823d9bac4751bbc",
+    "dn": "Orange Is The New Black S03E09 WEBRip x264-Abjex",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "099169c4326094830462fb688823d9bac4751bbc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        9,
+        145,
+        105,
+        196,
+        50,
+        96,
+        148,
+        131,
+        4,
+        98,
+        251,
+        104,
+        136,
+        35,
+        217,
+        186,
+        196,
+        117,
+        27,
+        188
+      ]
+    },
+    "name": "Orange Is The New Black S03E09 WEBRip x264-Abjex",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 265,
+  "peers": 86,
+  "last_updated": "2016-12-24T16:27:08.356Z"
+}

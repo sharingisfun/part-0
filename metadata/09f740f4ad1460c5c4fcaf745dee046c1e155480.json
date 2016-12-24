@@ -1,1 +1,61 @@
-{"title":"Nuclear Throne - Update 88","uid":12348835,"size":298224873,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:09f740f4ad1460c5c4fcaf745dee046c1e155480&amp;dn=Nuclear+Throne+-+Update+88&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":0,"uploader":"dauphong","files":1,"time":1441389381,"description":"Nuclear Throne is Vlambeers latest action roguelike-like about mutants fighting their way through a post-apocalyptic world. The radioactive waste in the world allows mutants to get ahead by mutating new limbs on the fly, the abundant availability of powerful weaponry make the quest to become ruler of the Wasteland one frought with peril","torrent":{"xt":"urn:btih:09f740f4ad1460c5c4fcaf745dee046c1e155480","amp;dn":"Nuclear+Throne+-+Update+88","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"09f740f4ad1460c5c4fcaf745dee046c1e155480","infoHashBuffer":{"type":"Buffer","data":[9,247,64,244,173,20,96,197,196,252,175,116,93,238,4,108,30,21,84,128]},"announce":[],"urlList":[]}}
+{
+  "title": "Nuclear Throne - Update 88",
+  "uid": 12348835,
+  "size": 298224873,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:09f740f4ad1460c5c4fcaf745dee046c1e155480&amp;dn=Nuclear+Throne+-+Update+88&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 0,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1441389381,
+  "description": "Nuclear Throne is Vlambeers latest action roguelike-like about mutants fighting their way through a post-apocalyptic world. The radioactive waste in the world allows mutants to get ahead by mutating new limbs on the fly, the abundant availability of powerful weaponry make the quest to become ruler of the Wasteland one frought with peril",
+  "parsed": {
+    "xt": "urn:btih:09f740f4ad1460c5c4fcaf745dee046c1e155480",
+    "dn": "Nuclear Throne - Update 88",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "09f740f4ad1460c5c4fcaf745dee046c1e155480",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        9,
+        247,
+        64,
+        244,
+        173,
+        20,
+        96,
+        197,
+        196,
+        252,
+        175,
+        116,
+        93,
+        238,
+        4,
+        108,
+        30,
+        21,
+        84,
+        128
+      ]
+    },
+    "name": "Nuclear Throne - Update 88",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 12,
+  "last_updated": "2016-12-24T16:30:23.085Z"
+}

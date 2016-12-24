@@ -1,1 +1,61 @@
-{"title":"Paradise Lost - The Plague Within (2015) [mp3@320]","uid":11971434,"size":121679479,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0b134712310ce3b92c3b249d618cb5dd9054f5a9&amp;dn=Paradise+Lost+-+The+Plague+Within+%282015%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":0,"uploader":"qculfj","files":11,"time":1432832647,"description":"01. No Hope In Sight\n02. Terminal\n03. An Eternity of Lies\n04. Punishment Through Time\n05. Beneath Broken Earth\n06. Sacrifice the Flame\n07. Victim of the Past\n08. Flesh From Bone\n09. Cry Out\n10. Return To the Sun","torrent":{"xt":"urn:btih:0b134712310ce3b92c3b249d618cb5dd9054f5a9","amp;dn":"Paradise+Lost+-+The+Plague+Within+%282015%29+%5Bmp3%40320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0b134712310ce3b92c3b249d618cb5dd9054f5a9","infoHashBuffer":{"type":"Buffer","data":[11,19,71,18,49,12,227,185,44,59,36,157,97,140,181,221,144,84,245,169]},"announce":[],"urlList":[]}}
+{
+  "title": "Paradise Lost - The Plague Within (2015) [mp3@320]",
+  "uid": 11971434,
+  "size": 121679479,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0b134712310ce3b92c3b249d618cb5dd9054f5a9&amp;dn=Paradise+Lost+-+The+Plague+Within+%282015%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 0,
+  "uploader": "qculfj",
+  "files": 11,
+  "time": 1432832647,
+  "description": "01. No Hope In Sight\n02. Terminal\n03. An Eternity of Lies\n04. Punishment Through Time\n05. Beneath Broken Earth\n06. Sacrifice the Flame\n07. Victim of the Past\n08. Flesh From Bone\n09. Cry Out\n10. Return To the Sun",
+  "parsed": {
+    "xt": "urn:btih:0b134712310ce3b92c3b249d618cb5dd9054f5a9",
+    "dn": "Paradise Lost - The Plague Within (2015) [mp3@320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0b134712310ce3b92c3b249d618cb5dd9054f5a9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        11,
+        19,
+        71,
+        18,
+        49,
+        12,
+        227,
+        185,
+        44,
+        59,
+        36,
+        157,
+        97,
+        140,
+        181,
+        221,
+        144,
+        84,
+        245,
+        169
+      ]
+    },
+    "name": "Paradise Lost - The Plague Within (2015) [mp3@320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 35,
+  "last_updated": "2016-12-24T16:39:31.241Z"
+}

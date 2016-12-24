@@ -1,1 +1,61 @@
-{"title":"The Arcs - Yours, Dreamily,","uid":12308010,"size":111373992,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0b191d42a5b3654c83ee3b76673f211b60eeb5c0&amp;dn=The+Arcs+-+Yours%2C+Dreamily%2C&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":0,"uploader":"noisedzn","files":15,"time":1440832197,"description":"This was recorded from NPR so don't expect musch quality","torrent":{"xt":"urn:btih:0b191d42a5b3654c83ee3b76673f211b60eeb5c0","amp;dn":"The+Arcs+-+Yours%2C+Dreamily%2C","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0b191d42a5b3654c83ee3b76673f211b60eeb5c0","infoHashBuffer":{"type":"Buffer","data":[11,25,29,66,165,179,101,76,131,238,59,118,103,63,33,27,96,238,181,192]},"announce":[],"urlList":[]}}
+{
+  "title": "The Arcs - Yours, Dreamily,",
+  "uid": 12308010,
+  "size": 111373992,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0b191d42a5b3654c83ee3b76673f211b60eeb5c0&amp;dn=The+Arcs+-+Yours%2C+Dreamily%2C&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 0,
+  "uploader": "noisedzn",
+  "files": 15,
+  "time": 1440832197,
+  "description": "This was recorded from NPR so don't expect musch quality",
+  "parsed": {
+    "xt": "urn:btih:0b191d42a5b3654c83ee3b76673f211b60eeb5c0",
+    "dn": "The Arcs - Yours, Dreamily,",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0b191d42a5b3654c83ee3b76673f211b60eeb5c0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        11,
+        25,
+        29,
+        66,
+        165,
+        179,
+        101,
+        76,
+        131,
+        238,
+        59,
+        118,
+        103,
+        63,
+        33,
+        27,
+        96,
+        238,
+        181,
+        192
+      ]
+    },
+    "name": "The Arcs - Yours, Dreamily,",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 6,
+  "last_updated": "2016-12-24T16:39:39.265Z"
+}

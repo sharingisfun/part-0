@@ -1,1 +1,61 @@
-{"title":"Guardians of the Galaxy 024 (Minutemen-Spaztastic)","uid":11696520,"size":39368158,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:0a1519f827cc036dace2345c3cb0d34e655a8947&amp;dn=Guardians+of+the+Galaxy+024+%28Minutemen-Spaztastic%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":"jedi.jesse","files":1,"time":1423734586,"description":"The 2nd chapter of the BLACK VORTEX! With the Slaughter Squad hot on their tails, the X-Men and the Guardians of the Galaxy are going to have to find somewhere to stash this loot. The odds against them, their only option for gaining the upper hand might lie with the mysterious Black Vortex. Will the temptation of the Black Vortex's unknown power be too much for this band of misfits?","torrent":{"xt":"urn:btih:0a1519f827cc036dace2345c3cb0d34e655a8947","amp;dn":"Guardians+of+the+Galaxy+024+%28Minutemen-Spaztastic%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0a1519f827cc036dace2345c3cb0d34e655a8947","infoHashBuffer":{"type":"Buffer","data":[10,21,25,248,39,204,3,109,172,226,52,92,60,176,211,78,101,90,137,71]},"announce":[],"urlList":[]}}
+{
+  "title": "Guardians of the Galaxy 024 (Minutemen-Spaztastic)",
+  "uid": 11696520,
+  "size": 39368158,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:0a1519f827cc036dace2345c3cb0d34e655a8947&amp;dn=Guardians+of+the+Galaxy+024+%28Minutemen-Spaztastic%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": "jedi.jesse",
+  "files": 1,
+  "time": 1423734586,
+  "description": "The 2nd chapter of the BLACK VORTEX! With the Slaughter Squad hot on their tails, the X-Men and the Guardians of the Galaxy are going to have to find somewhere to stash this loot. The odds against them, their only option for gaining the upper hand might lie with the mysterious Black Vortex. Will the temptation of the Black Vortex's unknown power be too much for this band of misfits?",
+  "parsed": {
+    "xt": "urn:btih:0a1519f827cc036dace2345c3cb0d34e655a8947",
+    "dn": "Guardians of the Galaxy 024 (Minutemen-Spaztastic)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0a1519f827cc036dace2345c3cb0d34e655a8947",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        10,
+        21,
+        25,
+        248,
+        39,
+        204,
+        3,
+        109,
+        172,
+        226,
+        52,
+        92,
+        60,
+        176,
+        211,
+        78,
+        101,
+        90,
+        137,
+        71
+      ]
+    },
+    "name": "Guardians of the Galaxy 024 (Minutemen-Spaztastic)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 2,
+  "last_updated": "2016-12-24T16:31:31.349Z"
+}

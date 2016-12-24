@@ -1,1 +1,61 @@
-{"title":"I See Fire by Ed Sheeran.mp3","uid":9602269,"size":2331376,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0a6d31553c2925ed58165c68fc13483105e8ea7c&amp;dn=I+See+Fire+by+Ed+Sheeran.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":0,"uploader":"pt.aq","files":-1,"time":1392140921,"description":"I See Fire by Ed Sheeran","torrent":{"xt":"urn:btih:0a6d31553c2925ed58165c68fc13483105e8ea7c","amp;dn":"I+See+Fire+by+Ed+Sheeran.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0a6d31553c2925ed58165c68fc13483105e8ea7c","infoHashBuffer":{"type":"Buffer","data":[10,109,49,85,60,41,37,237,88,22,92,104,252,19,72,49,5,232,234,124]},"announce":[],"urlList":[]}}
+{
+  "title": "I See Fire by Ed Sheeran.mp3",
+  "uid": 9602269,
+  "size": 2331376,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0a6d31553c2925ed58165c68fc13483105e8ea7c&amp;dn=I+See+Fire+by+Ed+Sheeran.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 0,
+  "uploader": "pt.aq",
+  "files": -1,
+  "time": 1392140921,
+  "description": "I See Fire by Ed Sheeran",
+  "parsed": {
+    "xt": "urn:btih:0a6d31553c2925ed58165c68fc13483105e8ea7c",
+    "dn": "I See Fire by Ed Sheeran.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0a6d31553c2925ed58165c68fc13483105e8ea7c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        10,
+        109,
+        49,
+        85,
+        60,
+        41,
+        37,
+        237,
+        88,
+        22,
+        92,
+        104,
+        252,
+        19,
+        72,
+        49,
+        5,
+        232,
+        234,
+        124
+      ]
+    },
+    "name": "I See Fire by Ed Sheeran.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 87,
+  "peers": 121,
+  "last_updated": "2016-12-24T16:34:03.938Z"
+}

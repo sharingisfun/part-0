@@ -1,1 +1,63 @@
-{"title":"Malwarebytes Anti-Malware Premium 2.1.6.1022 Final","uid":16016307,"size":55387722,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:099d3885aa3251cd00f341e2319f686558b68c4b&amp;dn=Malwarebytes+Anti-Malware+Premium+2.1.6.1022+Final&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":155,"leechers":29,"uploader":"iKnickKnockf","files":6,"time":1476293104,"description":"Description:\r\nMalwarebytes Anti-Malware is an anti-malware application that can thoroughly remove even the most advanced malware. Malwarebytes products have a proven record of protecting computers by completely removing all forms of malware, including viruses, Trojans, spyware, adware and rootkits. When it comes to the safety of your computer, Malwarebytes provides the ultimate in protection from the cutting edge of technology! Malwarebytes technology takes the next step in the fight against malware. Malwarebytes Anti-Malware PRO detects and removes malware where even the best known anti-virus and anti-malware applications fail. Malwarebytes Anti-Malware PRO monitors every process and stops malicious processes before they even start.\r\n\r\nThe Proactive Protection Module of Malwarebytes Anti-Malware Pro keeps your system safe and secure with advanced heuristic scanning technology","torrent":{"xt":"urn:btih:099d3885aa3251cd00f341e2319f686558b68c4b","amp;dn":"Malwarebytes+Anti-Malware+Premium+2.1.6.1022+Final","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"099d3885aa3251cd00f341e2319f686558b68c4b","infoHashBuffer":{"type":"Buffer","data":[9,157,56,133,170,50,81,205,0,243,65,226,49,159,104,101,88,182,140,75]},"announce":[],"urlList":[]}}
+{
+  "title": "Malwarebytes Anti-Malware Premium 2.1.6.1022 Final",
+  "uid": 16016307,
+  "size": 55387722,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:099d3885aa3251cd00f341e2319f686558b68c4b&amp;dn=Malwarebytes+Anti-Malware+Premium+2.1.6.1022+Final&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 155,
+  "leechers": 29,
+  "uploader": "iKnickKnockf",
+  "files": 6,
+  "time": 1476293104,
+  "description": "Description:\r\nMalwarebytes Anti-Malware is an anti-malware application that can thoroughly remove even the most advanced malware. Malwarebytes products have a proven record of protecting computers by completely removing all forms of malware, including viruses, Trojans, spyware, adware and rootkits. When it comes to the safety of your computer, Malwarebytes provides the ultimate in protection from the cutting edge of technology! Malwarebytes technology takes the next step in the fight against malware. Malwarebytes Anti-Malware PRO detects and removes malware where even the best known anti-virus and anti-malware applications fail. Malwarebytes Anti-Malware PRO monitors every process and stops malicious processes before they even start.\r\n\r\nThe Proactive Protection Module of Malwarebytes Anti-Malware Pro keeps your system safe and secure with advanced heuristic scanning technology",
+  "parsed": {
+    "xt": "urn:btih:099d3885aa3251cd00f341e2319f686558b68c4b",
+    "dn": "Malwarebytes Anti-Malware Premium 2.1.6.1022 Final",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "099d3885aa3251cd00f341e2319f686558b68c4b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        9,
+        157,
+        56,
+        133,
+        170,
+        50,
+        81,
+        205,
+        0,
+        243,
+        65,
+        226,
+        49,
+        159,
+        104,
+        101,
+        88,
+        182,
+        140,
+        75
+      ]
+    },
+    "name": "Malwarebytes Anti-Malware Premium 2.1.6.1022 Final",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 184,
+  "peers": 2,
+  "last_updated": "2016-12-24T16:27:38.455Z"
+}

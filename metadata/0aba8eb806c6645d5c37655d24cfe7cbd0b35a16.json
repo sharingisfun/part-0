@@ -1,1 +1,61 @@
-{"title":"Ludovico Einaudi - In a Time Lapse","uid":8098290,"size":217834596,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0aba8eb806c6645d5c37655d24cfe7cbd0b35a16&amp;dn=Ludovico+Einaudi+-+In+a+Time+Lapse&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":2,"uploader":"aswang","files":-1,"time":1359907383,"description":"In a Time Lapse is the twelfth studio album from neo-classical composer and performer Ludovico Einaudi. Recorded in a monastery and written over a two year period, the album sees EinaudiÃ¢â‚¬â„¢s piano-based progressions backed by strings and subtle electronics performed by I Virtuosi Italiani and violinist Daniel Hope., Rovi","torrent":{"xt":"urn:btih:0aba8eb806c6645d5c37655d24cfe7cbd0b35a16","amp;dn":"Ludovico+Einaudi+-+In+a+Time+Lapse","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0aba8eb806c6645d5c37655d24cfe7cbd0b35a16","infoHashBuffer":{"type":"Buffer","data":[10,186,142,184,6,198,100,93,92,55,101,93,36,207,231,203,208,179,90,22]},"announce":[],"urlList":[]}}
+{
+  "title": "Ludovico Einaudi - In a Time Lapse",
+  "uid": 8098290,
+  "size": 217834596,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0aba8eb806c6645d5c37655d24cfe7cbd0b35a16&amp;dn=Ludovico+Einaudi+-+In+a+Time+Lapse&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 2,
+  "uploader": "aswang",
+  "files": -1,
+  "time": 1359907383,
+  "description": "In a Time Lapse is the twelfth studio album from neo-classical composer and performer Ludovico Einaudi. Recorded in a monastery and written over a two year period, the album sees EinaudiÃ¢â‚¬â„¢s piano-based progressions backed by strings and subtle electronics performed by I Virtuosi Italiani and violinist Daniel Hope., Rovi",
+  "parsed": {
+    "xt": "urn:btih:0aba8eb806c6645d5c37655d24cfe7cbd0b35a16",
+    "dn": "Ludovico Einaudi - In a Time Lapse",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0aba8eb806c6645d5c37655d24cfe7cbd0b35a16",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        10,
+        186,
+        142,
+        184,
+        6,
+        198,
+        100,
+        93,
+        92,
+        55,
+        101,
+        93,
+        36,
+        207,
+        231,
+        203,
+        208,
+        179,
+        90,
+        22
+      ]
+    },
+    "name": "Ludovico Einaudi - In a Time Lapse",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 72,
+  "last_updated": "2016-12-24T16:36:30.534Z"
+}

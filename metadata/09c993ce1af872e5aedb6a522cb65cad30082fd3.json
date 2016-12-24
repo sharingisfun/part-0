@@ -1,1 +1,61 @@
-{"title":"33 books by Brian Tracy","uid":11339678,"size":45743047,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:09c993ce1af872e5aedb6a522cb65cad30082fd3&amp;dn=33+books+by+Brian+Tracy&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":1,"uploader":"ferdgust","files":56,"time":1414787505,"description":"","torrent":{"xt":"urn:btih:09c993ce1af872e5aedb6a522cb65cad30082fd3","amp;dn":"33+books+by+Brian+Tracy","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"09c993ce1af872e5aedb6a522cb65cad30082fd3","infoHashBuffer":{"type":"Buffer","data":[9,201,147,206,26,248,114,229,174,219,106,82,44,182,92,173,48,8,47,211]},"announce":[],"urlList":[]}}
+{
+  "title": "33 books by Brian Tracy",
+  "uid": 11339678,
+  "size": 45743047,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:09c993ce1af872e5aedb6a522cb65cad30082fd3&amp;dn=33+books+by+Brian+Tracy&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 1,
+  "uploader": "ferdgust",
+  "files": 56,
+  "time": 1414787505,
+  "description": "",
+  "parsed": {
+    "xt": "urn:btih:09c993ce1af872e5aedb6a522cb65cad30082fd3",
+    "dn": "33 books by Brian Tracy",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "09c993ce1af872e5aedb6a522cb65cad30082fd3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        9,
+        201,
+        147,
+        206,
+        26,
+        248,
+        114,
+        229,
+        174,
+        219,
+        106,
+        82,
+        44,
+        182,
+        92,
+        173,
+        48,
+        8,
+        47,
+        211
+      ]
+    },
+    "name": "33 books by Brian Tracy",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 95,
+  "last_updated": "2016-12-24T16:29:12.838Z"
+}

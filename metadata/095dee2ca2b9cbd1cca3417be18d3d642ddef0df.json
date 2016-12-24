@@ -1,1 +1,61 @@
-{"title":"Putumayo Presents - Complete Collection [53CD]","uid":7144400,"size":3816645074,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:095dee2ca2b9cbd1cca3417be18d3d642ddef0df&amp;dn=Putumayo+Presents+-+Complete+Collection+%5B53CD%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":10,"uploader":"Stepherd","files":-1,"time":1333103210,"description":"Putumayo World Music was established in 1993 to introduce people to the music of the worldÃ¢â‚¬â„¢s cultures. \nThe label grew out of the Putumayo clothing company, founded by Dan Storper in 1975 and sold in 1997. \nCo-founder Michael Kraus joined Storper to help launch Putumayo World Music. In the past eighteen years, \nthe record label has become known primarily for its upbeat and melodic compilations of great international music characterized by the companyÃ¢â‚¬â„¢s motto: Ã¢â‚¬Å“guaranteed to make you feel good&quot; \n\nEnjoy!","torrent":{"xt":"urn:btih:095dee2ca2b9cbd1cca3417be18d3d642ddef0df","amp;dn":"Putumayo+Presents+-+Complete+Collection+%5B53CD%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"095dee2ca2b9cbd1cca3417be18d3d642ddef0df","infoHashBuffer":{"type":"Buffer","data":[9,93,238,44,162,185,203,209,204,163,65,123,225,141,61,100,45,222,240,223]},"announce":[],"urlList":[]}}
+{
+  "title": "Putumayo Presents - Complete Collection [53CD]",
+  "uid": 7144400,
+  "size": 3816645074,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:095dee2ca2b9cbd1cca3417be18d3d642ddef0df&amp;dn=Putumayo+Presents+-+Complete+Collection+%5B53CD%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 10,
+  "uploader": "Stepherd",
+  "files": -1,
+  "time": 1333103210,
+  "description": "Putumayo World Music was established in 1993 to introduce people to the music of the worldÃ¢â‚¬â„¢s cultures. \nThe label grew out of the Putumayo clothing company, founded by Dan Storper in 1975 and sold in 1997. \nCo-founder Michael Kraus joined Storper to help launch Putumayo World Music. In the past eighteen years, \nthe record label has become known primarily for its upbeat and melodic compilations of great international music characterized by the companyÃ¢â‚¬â„¢s motto: Ã¢â‚¬Å“guaranteed to make you feel good&quot; \n\nEnjoy!",
+  "parsed": {
+    "xt": "urn:btih:095dee2ca2b9cbd1cca3417be18d3d642ddef0df",
+    "dn": "Putumayo Presents - Complete Collection [53CD]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "095dee2ca2b9cbd1cca3417be18d3d642ddef0df",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        9,
+        93,
+        238,
+        44,
+        162,
+        185,
+        203,
+        209,
+        204,
+        163,
+        65,
+        123,
+        225,
+        141,
+        61,
+        100,
+        45,
+        222,
+        240,
+        223
+      ]
+    },
+    "name": "Putumayo Presents - Complete Collection [53CD]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 37,
+  "last_updated": "2016-12-24T16:25:38.070Z"
+}
