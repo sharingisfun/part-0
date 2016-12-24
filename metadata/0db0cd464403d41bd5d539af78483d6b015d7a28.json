@@ -1,1 +1,61 @@
-{"title":"The.Man.In.The.High.Castle.S01E02.720p.WEBRiP.x264-DDLV","uid":12190012,"size":365491707,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:0db0cd464403d41bd5d539af78483d6b015d7a28&amp;dn=The.Man.In.The.High.Castle.S01E02.720p.WEBRiP.x264-DDLV&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":0,"uploader":"Rammsteinfan1992","files":1,"time":1438632187,"description":"Enjoy. It's taken from a pretty crappy stream, so don't expect good quality","torrent":{"xt":"urn:btih:0db0cd464403d41bd5d539af78483d6b015d7a28","amp;dn":"The.Man.In.The.High.Castle.S01E02.720p.WEBRiP.x264-DDLV","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0db0cd464403d41bd5d539af78483d6b015d7a28","infoHashBuffer":{"type":"Buffer","data":[13,176,205,70,68,3,212,27,213,213,57,175,120,72,61,107,1,93,122,40]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Man.In.The.High.Castle.S01E02.720p.WEBRiP.x264-DDLV",
+  "uid": 12190012,
+  "size": 365491707,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:0db0cd464403d41bd5d539af78483d6b015d7a28&amp;dn=The.Man.In.The.High.Castle.S01E02.720p.WEBRiP.x264-DDLV&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 0,
+  "uploader": "Rammsteinfan1992",
+  "files": 1,
+  "time": 1438632187,
+  "description": "Enjoy. It's taken from a pretty crappy stream, so don't expect good quality",
+  "parsed": {
+    "xt": "urn:btih:0db0cd464403d41bd5d539af78483d6b015d7a28",
+    "dn": "The.Man.In.The.High.Castle.S01E02.720p.WEBRiP.x264-DDLV",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0db0cd464403d41bd5d539af78483d6b015d7a28",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        13,
+        176,
+        205,
+        70,
+        68,
+        3,
+        212,
+        27,
+        213,
+        213,
+        57,
+        175,
+        120,
+        72,
+        61,
+        107,
+        1,
+        93,
+        122,
+        40
+      ]
+    },
+    "name": "The.Man.In.The.High.Castle.S01E02.720p.WEBRiP.x264-DDLV",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 27,
+  "last_updated": "2016-12-24T16:59:36.551Z"
+}

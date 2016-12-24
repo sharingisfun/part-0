@@ -1,1 +1,61 @@
-{"title":"Dimitri Vegas &amp; Martin Garrix &amp; Like Mike - Tremor (Sens","uid":10009698,"size":11988242,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0f74ecf1916057e1e80994c3886fd37d88074c2c&amp;dn=Dimitri+Vegas+%26amp%3B+Martin+Garrix+%26amp%3B+Like+Mike+-+Tremor+%28Sens&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":146,"leechers":9,"uploader":"Nitr0n","files":-1,"time":1398087530,"description":"RELEASE DATE\t2014-04-21\nLABELS\tSpinnin Records\nCATALOG #\tSP831\n\n\nArtists : Dimitri Vegas &amp; Martin Garrix &amp; Like Mike\nQuality: High\nBit Rate : 320KBPS \nGenre : Electro House\nBPM :128\nDuration : 4min 54sec\n","torrent":{"xt":"urn:btih:0f74ecf1916057e1e80994c3886fd37d88074c2c","amp;dn":"Dimitri+Vegas+%26amp%3B+Martin+Garrix+%26amp%3B+Like+Mike+-+Tremor+%28Sens","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0f74ecf1916057e1e80994c3886fd37d88074c2c","infoHashBuffer":{"type":"Buffer","data":[15,116,236,241,145,96,87,225,232,9,148,195,136,111,211,125,136,7,76,44]},"announce":[],"urlList":[]}}
+{
+  "title": "Dimitri Vegas &amp; Martin Garrix &amp; Like Mike - Tremor (Sens",
+  "uid": 10009698,
+  "size": 11988242,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0f74ecf1916057e1e80994c3886fd37d88074c2c&amp;dn=Dimitri+Vegas+%26amp%3B+Martin+Garrix+%26amp%3B+Like+Mike+-+Tremor+%28Sens&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 146,
+  "leechers": 9,
+  "uploader": "Nitr0n",
+  "files": -1,
+  "time": 1398087530,
+  "description": "RELEASE DATE\t2014-04-21\nLABELS\tSpinnin Records\nCATALOG #\tSP831\n\n\nArtists : Dimitri Vegas &amp; Martin Garrix &amp; Like Mike\nQuality: High\nBit Rate : 320KBPS \nGenre : Electro House\nBPM :128\nDuration : 4min 54sec\n",
+  "parsed": {
+    "xt": "urn:btih:0f74ecf1916057e1e80994c3886fd37d88074c2c",
+    "dn": "Dimitri Vegas &amp; Martin Garrix &amp; Like Mike - Tremor (Sens",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0f74ecf1916057e1e80994c3886fd37d88074c2c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        15,
+        116,
+        236,
+        241,
+        145,
+        96,
+        87,
+        225,
+        232,
+        9,
+        148,
+        195,
+        136,
+        111,
+        211,
+        125,
+        136,
+        7,
+        76,
+        44
+      ]
+    },
+    "name": "Dimitri Vegas &amp; Martin Garrix &amp; Like Mike - Tremor (Sens",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 155,
+  "peers": 50,
+  "last_updated": "2016-12-24T17:13:00.037Z"
+}

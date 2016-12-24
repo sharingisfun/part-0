@@ -1,1 +1,61 @@
-{"title":"Justin Bieber - What Do You Mean - Single","uid":12303725,"size":8430537,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0e8be1dbd331b8dfa6584fdcb34bc8d3d1f6791a&amp;dn=Justin+Bieber+-+What+Do+You+Mean+-+Single&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":1378,"leechers":110,"uploader":"wowacow","files":1,"time":1440762299,"description":"Justin Bieber - What Do You Mean - Single","torrent":{"xt":"urn:btih:0e8be1dbd331b8dfa6584fdcb34bc8d3d1f6791a","amp;dn":"Justin+Bieber+-+What+Do+You+Mean+-+Single","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0e8be1dbd331b8dfa6584fdcb34bc8d3d1f6791a","infoHashBuffer":{"type":"Buffer","data":[14,139,225,219,211,49,184,223,166,88,79,220,179,75,200,211,209,246,121,26]},"announce":[],"urlList":[]}}
+{
+  "title": "Justin Bieber - What Do You Mean - Single",
+  "uid": 12303725,
+  "size": 8430537,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0e8be1dbd331b8dfa6584fdcb34bc8d3d1f6791a&amp;dn=Justin+Bieber+-+What+Do+You+Mean+-+Single&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 1378,
+  "leechers": 110,
+  "uploader": "wowacow",
+  "files": 1,
+  "time": 1440762299,
+  "description": "Justin Bieber - What Do You Mean - Single",
+  "parsed": {
+    "xt": "urn:btih:0e8be1dbd331b8dfa6584fdcb34bc8d3d1f6791a",
+    "dn": "Justin Bieber - What Do You Mean - Single",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0e8be1dbd331b8dfa6584fdcb34bc8d3d1f6791a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        14,
+        139,
+        225,
+        219,
+        211,
+        49,
+        184,
+        223,
+        166,
+        88,
+        79,
+        220,
+        179,
+        75,
+        200,
+        211,
+        209,
+        246,
+        121,
+        26
+      ]
+    },
+    "name": "Justin Bieber - What Do You Mean - Single",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 1488,
+  "peers": 92,
+  "last_updated": "2016-12-24T17:06:22.378Z"
+}

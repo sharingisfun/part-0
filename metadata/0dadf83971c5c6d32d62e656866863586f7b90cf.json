@@ -1,1 +1,61 @@
-{"title":"The.Judge.2014.720p.BluRay.x264-SPARKS","uid":11708798,"size":7036664840,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:0dadf83971c5c6d32d62e656866863586f7b90cf&amp;dn=The.Judge.2014.720p.BluRay.x264-SPARKS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":83,"leechers":11,"uploader":"GoodFilms","files":4,"time":1424241204,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt1872194/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt1872194/&lt;/a&gt;","torrent":{"xt":"urn:btih:0dadf83971c5c6d32d62e656866863586f7b90cf","amp;dn":"The.Judge.2014.720p.BluRay.x264-SPARKS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0dadf83971c5c6d32d62e656866863586f7b90cf","infoHashBuffer":{"type":"Buffer","data":[13,173,248,57,113,197,198,211,45,98,230,86,134,104,99,88,111,123,144,207]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Judge.2014.720p.BluRay.x264-SPARKS",
+  "uid": 11708798,
+  "size": 7036664840,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:0dadf83971c5c6d32d62e656866863586f7b90cf&amp;dn=The.Judge.2014.720p.BluRay.x264-SPARKS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 83,
+  "leechers": 11,
+  "uploader": "GoodFilms",
+  "files": 4,
+  "time": 1424241204,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt1872194/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt1872194/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:0dadf83971c5c6d32d62e656866863586f7b90cf",
+    "dn": "The.Judge.2014.720p.BluRay.x264-SPARKS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0dadf83971c5c6d32d62e656866863586f7b90cf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        13,
+        173,
+        248,
+        57,
+        113,
+        197,
+        198,
+        211,
+        45,
+        98,
+        230,
+        86,
+        134,
+        104,
+        99,
+        88,
+        111,
+        123,
+        144,
+        207
+      ]
+    },
+    "name": "The.Judge.2014.720p.BluRay.x264-SPARKS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 94,
+  "peers": 13,
+  "last_updated": "2016-12-24T16:59:34.544Z"
+}

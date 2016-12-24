@@ -1,1 +1,61 @@
-{"title":"Arctic Monkeys - AM {2013-Album}","uid":8883566,"size":100701431,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0e71e1ea05bed4ee39a927c5f04be2d10f4de3ff&amp;dn=Arctic+Monkeys+-+AM+%7B2013-Album%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":554,"leechers":6,"uploader":"Oz","files":-1,"time":1378393991,"description":"Artist: Arctic Monkeys\n\nAlbum: AM\n\nReleased: Sep 4, 2013\n\nSource: https://itunes.apple.com/jp/album/am/id671522636\n\nGenres: Alternative, Rock\n\nBite Rate: 320Kbps CBR\n\n\n\nT R A C K L I S T\n*****************\n\n\n1. Do I Wanna Know?\n\n2. R U Mine?\n\n3. One For the Road\n\n4. Arabella\n\n5. I Want It All\n\n6. No. 1 Party Anthem\n\n7. Mad Sounds\n\n8. Fireside\n\n9. Why'd You Only Call Me When You're High?\n\n10. Snap Out of It\n\n11. Knee Socks\n\n12. I Wanna Be Yours\n\n\n*****************\n\n\n***Don't Forget To Like My Page***\n\n   www . fb . com / HQMusiCOnlY","torrent":{"xt":"urn:btih:0e71e1ea05bed4ee39a927c5f04be2d10f4de3ff","amp;dn":"Arctic+Monkeys+-+AM+%7B2013-Album%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0e71e1ea05bed4ee39a927c5f04be2d10f4de3ff","infoHashBuffer":{"type":"Buffer","data":[14,113,225,234,5,190,212,238,57,169,39,197,240,75,226,209,15,77,227,255]},"announce":[],"urlList":[]}}
+{
+  "title": "Arctic Monkeys - AM {2013-Album}",
+  "uid": 8883566,
+  "size": 100701431,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0e71e1ea05bed4ee39a927c5f04be2d10f4de3ff&amp;dn=Arctic+Monkeys+-+AM+%7B2013-Album%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 554,
+  "leechers": 6,
+  "uploader": "Oz",
+  "files": -1,
+  "time": 1378393991,
+  "description": "Artist: Arctic Monkeys\n\nAlbum: AM\n\nReleased: Sep 4, 2013\n\nSource: https://itunes.apple.com/jp/album/am/id671522636\n\nGenres: Alternative, Rock\n\nBite Rate: 320Kbps CBR\n\n\n\nT R A C K L I S T\n*****************\n\n\n1. Do I Wanna Know?\n\n2. R U Mine?\n\n3. One For the Road\n\n4. Arabella\n\n5. I Want It All\n\n6. No. 1 Party Anthem\n\n7. Mad Sounds\n\n8. Fireside\n\n9. Why'd You Only Call Me When You're High?\n\n10. Snap Out of It\n\n11. Knee Socks\n\n12. I Wanna Be Yours\n\n\n*****************\n\n\n***Don't Forget To Like My Page***\n\n   www . fb . com / HQMusiCOnlY",
+  "parsed": {
+    "xt": "urn:btih:0e71e1ea05bed4ee39a927c5f04be2d10f4de3ff",
+    "dn": "Arctic Monkeys - AM {2013-Album}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0e71e1ea05bed4ee39a927c5f04be2d10f4de3ff",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        14,
+        113,
+        225,
+        234,
+        5,
+        190,
+        212,
+        238,
+        57,
+        169,
+        39,
+        197,
+        240,
+        75,
+        226,
+        209,
+        15,
+        77,
+        227,
+        255
+      ]
+    },
+    "name": "Arctic Monkeys - AM {2013-Album}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 560,
+  "peers": 186,
+  "last_updated": "2016-12-24T17:05:20.111Z"
+}

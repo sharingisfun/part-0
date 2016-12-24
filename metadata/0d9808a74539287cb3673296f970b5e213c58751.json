@@ -1,1 +1,61 @@
-{"title":"Windows 10 RTM MSDN x64 pt-BR","uid":12170259,"size":4020062208,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:0d9808a74539287cb3673296f970b5e213c58751&amp;dn=Windows+10+RTM+MSDN+x64+pt-BR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":112,"leechers":4,"uploader":"PEERBLOCK","files":1,"time":1438152972,"description":"Windows 10\n(Portuguese-Brazil DVD)","torrent":{"xt":"urn:btih:0d9808a74539287cb3673296f970b5e213c58751","amp;dn":"Windows+10+RTM+MSDN+x64+pt-BR","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0d9808a74539287cb3673296f970b5e213c58751","infoHashBuffer":{"type":"Buffer","data":[13,152,8,167,69,57,40,124,179,103,50,150,249,112,181,226,19,197,135,81]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows 10 RTM MSDN x64 pt-BR",
+  "uid": 12170259,
+  "size": 4020062208,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:0d9808a74539287cb3673296f970b5e213c58751&amp;dn=Windows+10+RTM+MSDN+x64+pt-BR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 112,
+  "leechers": 4,
+  "uploader": "PEERBLOCK",
+  "files": 1,
+  "time": 1438152972,
+  "description": "Windows 10\n(Portuguese-Brazil DVD)",
+  "parsed": {
+    "xt": "urn:btih:0d9808a74539287cb3673296f970b5e213c58751",
+    "dn": "Windows 10 RTM MSDN x64 pt-BR",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0d9808a74539287cb3673296f970b5e213c58751",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        13,
+        152,
+        8,
+        167,
+        69,
+        57,
+        40,
+        124,
+        179,
+        103,
+        50,
+        150,
+        249,
+        112,
+        181,
+        226,
+        19,
+        197,
+        135,
+        81
+      ]
+    },
+    "name": "Windows 10 RTM MSDN x64 pt-BR",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 116,
+  "peers": 8,
+  "last_updated": "2016-12-24T16:58:58.374Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Lynda &amp;ndash; Building a Mobile App with AngularJS and Ionic","uid":11891984,"size":692347982,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:0e5171e25d653acdbca03bbad04270102f8d0998&amp;dn=Lynda+%26ndash%3B+Building+a+Mobile+App+with+AngularJS+and+Ionic&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":6,"uploader":"NepsterJay","files":36,"time":1431021304,"description":"Creating hybrid mobile applications is a great way to leverage your knowledge of web languages like HTML5, CSS, and JavaScript. Modern frameworks such as AngularJS and Ionic make it easier with pre-built templates and components. In this course, staff author Ray Villalobos shows how to install the Ionic framework and set up a development environment suitable for building web-based apps. He reviews the core Ionic components: prebuilt, easy-to-use features such as buttons, lists, tabs, and forms. Then Ray shows how to combine these components with Angular.js models, views, and controllers to build a single page app with sliders, pull-to-refresh functionality, and search. The training culminates in building a multi-page app, which youÃ¢â‚¬â„¢ll learn how to customize with CSS.\n\nTopics include:\nInstalling the development environment on Mac or PC\nUnderstanding the Ionic templates and CSS components\nAdding IonicIcons to a layout\nAdding tabs, cards, and lists\nUsing form elements\nBuilding a single view app\nImplementing Pull to Refresh\nCreating a multi-tab app\nStyling the applications\nDeploying applications","torrent":{"xt":"urn:btih:0e5171e25d653acdbca03bbad04270102f8d0998","amp;dn":"Lynda+%26ndash%3B+Building+a+Mobile+App+with+AngularJS+and+Ionic","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0e5171e25d653acdbca03bbad04270102f8d0998","infoHashBuffer":{"type":"Buffer","data":[14,81,113,226,93,101,58,205,188,160,59,186,208,66,112,16,47,141,9,152]},"announce":[],"urlList":[]}}
+{
+  "title": "Lynda &amp;ndash; Building a Mobile App with AngularJS and Ionic",
+  "uid": 11891984,
+  "size": 692347982,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:0e5171e25d653acdbca03bbad04270102f8d0998&amp;dn=Lynda+%26ndash%3B+Building+a+Mobile+App+with+AngularJS+and+Ionic&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 6,
+  "uploader": "NepsterJay",
+  "files": 36,
+  "time": 1431021304,
+  "description": "Creating hybrid mobile applications is a great way to leverage your knowledge of web languages like HTML5, CSS, and JavaScript. Modern frameworks such as AngularJS and Ionic make it easier with pre-built templates and components. In this course, staff author Ray Villalobos shows how to install the Ionic framework and set up a development environment suitable for building web-based apps. He reviews the core Ionic components: prebuilt, easy-to-use features such as buttons, lists, tabs, and forms. Then Ray shows how to combine these components with Angular.js models, views, and controllers to build a single page app with sliders, pull-to-refresh functionality, and search. The training culminates in building a multi-page app, which youÃ¢â‚¬â„¢ll learn how to customize with CSS.\n\nTopics include:\nInstalling the development environment on Mac or PC\nUnderstanding the Ionic templates and CSS components\nAdding IonicIcons to a layout\nAdding tabs, cards, and lists\nUsing form elements\nBuilding a single view app\nImplementing Pull to Refresh\nCreating a multi-tab app\nStyling the applications\nDeploying applications",
+  "parsed": {
+    "xt": "urn:btih:0e5171e25d653acdbca03bbad04270102f8d0998",
+    "dn": "Lynda &ndash; Building a Mobile App with AngularJS and Ionic",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0e5171e25d653acdbca03bbad04270102f8d0998",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        14,
+        81,
+        113,
+        226,
+        93,
+        101,
+        58,
+        205,
+        188,
+        160,
+        59,
+        186,
+        208,
+        66,
+        112,
+        16,
+        47,
+        141,
+        9,
+        152
+      ]
+    },
+    "name": "Lynda &ndash; Building a Mobile App with AngularJS and Ionic",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 49,
+  "last_updated": "2016-12-24T17:04:21.801Z"
+}

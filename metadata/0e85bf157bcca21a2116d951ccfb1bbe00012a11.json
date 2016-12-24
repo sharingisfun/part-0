@@ -1,1 +1,61 @@
-{"title":"Snowleopard 10.6 Build 10A432","uid":5050813,"size":6740081088,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:0e85bf157bcca21a2116d951ccfb1bbe00012a11&amp;dn=Snowleopard+10.6+Build+10A432&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":12,"uploader":"sandeept","files":6,"time":1250176036,"description":"From: demonoid\n\nThis is the latest build of Snowleopard.\n\nIncluded Developer files and MD5 file.","torrent":{"xt":"urn:btih:0e85bf157bcca21a2116d951ccfb1bbe00012a11","amp;dn":"Snowleopard+10.6+Build+10A432","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0e85bf157bcca21a2116d951ccfb1bbe00012a11","infoHashBuffer":{"type":"Buffer","data":[14,133,191,21,123,204,162,26,33,22,217,81,204,251,27,190,0,1,42,17]},"announce":[],"urlList":[]}}
+{
+  "title": "Snowleopard 10.6 Build 10A432",
+  "uid": 5050813,
+  "size": 6740081088,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:0e85bf157bcca21a2116d951ccfb1bbe00012a11&amp;dn=Snowleopard+10.6+Build+10A432&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 12,
+  "uploader": "sandeept",
+  "files": 6,
+  "time": 1250176036,
+  "description": "From: demonoid\n\nThis is the latest build of Snowleopard.\n\nIncluded Developer files and MD5 file.",
+  "parsed": {
+    "xt": "urn:btih:0e85bf157bcca21a2116d951ccfb1bbe00012a11",
+    "dn": "Snowleopard 10.6 Build 10A432",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0e85bf157bcca21a2116d951ccfb1bbe00012a11",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        14,
+        133,
+        191,
+        21,
+        123,
+        204,
+        162,
+        26,
+        33,
+        22,
+        217,
+        81,
+        204,
+        251,
+        27,
+        190,
+        0,
+        1,
+        42,
+        17
+      ]
+    },
+    "name": "Snowleopard 10.6 Build 10A432",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 18,
+  "last_updated": "2016-12-24T17:06:06.304Z"
+}

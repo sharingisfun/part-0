@@ -1,1 +1,61 @@
-{"title":"DirectX 11 - (17.03.12) (x86/x64) - (2012)","uid":7907367,"size":13897438,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:0e85e6e20a0bc5cb1dfba75afcf0716d07609c78&amp;dn=DirectX+11+-+%2817.03.12%29+%28x86%2Fx64%29+-+%282012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":139,"leechers":6,"uploader":"soulking77","files":2,"time":1355130946,"description":"\nTitle: DirectX11 (17.03.12) (x86/x64)\nDeveloper: Microsoft\nYear: 2012\nPlatform: PC\nLanguage: Russian\n\nSystem Requirements: Video Card with supported Of DX11\n\nThe latest set of DirectX11 for modern graphics cards.","torrent":{"xt":"urn:btih:0e85e6e20a0bc5cb1dfba75afcf0716d07609c78","amp;dn":"DirectX+11+-+%2817.03.12%29+%28x86%2Fx64%29+-+%282012%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0e85e6e20a0bc5cb1dfba75afcf0716d07609c78","infoHashBuffer":{"type":"Buffer","data":[14,133,230,226,10,11,197,203,29,251,167,90,252,240,113,109,7,96,156,120]},"announce":[],"urlList":[]}}
+{
+  "title": "DirectX 11 - (17.03.12) (x86/x64) - (2012)",
+  "uid": 7907367,
+  "size": 13897438,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:0e85e6e20a0bc5cb1dfba75afcf0716d07609c78&amp;dn=DirectX+11+-+%2817.03.12%29+%28x86%2Fx64%29+-+%282012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 139,
+  "leechers": 6,
+  "uploader": "soulking77",
+  "files": 2,
+  "time": 1355130946,
+  "description": "\nTitle: DirectX11 (17.03.12) (x86/x64)\nDeveloper: Microsoft\nYear: 2012\nPlatform: PC\nLanguage: Russian\n\nSystem Requirements: Video Card with supported Of DX11\n\nThe latest set of DirectX11 for modern graphics cards.",
+  "parsed": {
+    "xt": "urn:btih:0e85e6e20a0bc5cb1dfba75afcf0716d07609c78",
+    "dn": "DirectX 11 - (17.03.12) (x86/x64) - (2012)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0e85e6e20a0bc5cb1dfba75afcf0716d07609c78",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        14,
+        133,
+        230,
+        226,
+        10,
+        11,
+        197,
+        203,
+        29,
+        251,
+        167,
+        90,
+        252,
+        240,
+        113,
+        109,
+        7,
+        96,
+        156,
+        120
+      ]
+    },
+    "name": "DirectX 11 - (17.03.12) (x86/x64) - (2012)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 145,
+  "peers": 34,
+  "last_updated": "2016-12-24T17:06:08.315Z"
+}

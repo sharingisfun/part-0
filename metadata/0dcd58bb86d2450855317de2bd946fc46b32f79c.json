@@ -1,1 +1,61 @@
-{"title":"Glee.S06E13.HDTV.x264-ASAP[ettv]","uid":11767413,"size":381369208,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:0dcd58bb86d2450855317de2bd946fc46b32f79c&amp;dn=Glee.S06E13.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":223,"leechers":4,"uploader":"ettv","files":3,"time":1426906912,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:0dcd58bb86d2450855317de2bd946fc46b32f79c","amp;dn":"Glee.S06E13.HDTV.x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0dcd58bb86d2450855317de2bd946fc46b32f79c","infoHashBuffer":{"type":"Buffer","data":[13,205,88,187,134,210,69,8,85,49,125,226,189,148,111,196,107,50,247,156]},"announce":[],"urlList":[]}}
+{
+  "title": "Glee.S06E13.HDTV.x264-ASAP[ettv]",
+  "uid": 11767413,
+  "size": 381369208,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:0dcd58bb86d2450855317de2bd946fc46b32f79c&amp;dn=Glee.S06E13.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 223,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1426906912,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:0dcd58bb86d2450855317de2bd946fc46b32f79c",
+    "dn": "Glee.S06E13.HDTV.x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0dcd58bb86d2450855317de2bd946fc46b32f79c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        13,
+        205,
+        88,
+        187,
+        134,
+        210,
+        69,
+        8,
+        85,
+        49,
+        125,
+        226,
+        189,
+        148,
+        111,
+        196,
+        107,
+        50,
+        247,
+        156
+      ]
+    },
+    "name": "Glee.S06E13.HDTV.x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 227,
+  "peers": 39,
+  "last_updated": "2016-12-24T17:00:26.797Z"
+}

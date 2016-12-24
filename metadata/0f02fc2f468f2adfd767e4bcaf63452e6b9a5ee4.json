@@ -1,1 +1,61 @@
-{"title":"The.Liberator.2013.720p.BluRay.x264-KaKa [Libertador]","uid":11743498,"size":5858103712,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:0f02fc2f468f2adfd767e4bcaf63452e6b9a5ee4&amp;dn=The.Liberator.2013.720p.BluRay.x264-KaKa+%5BLibertador%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":18,"uploader":"GoodFilms","files":3,"time":1425891838,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt2387513/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt2387513/&lt;/a&gt;","torrent":{"xt":"urn:btih:0f02fc2f468f2adfd767e4bcaf63452e6b9a5ee4","amp;dn":"The.Liberator.2013.720p.BluRay.x264-KaKa+%5BLibertador%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0f02fc2f468f2adfd767e4bcaf63452e6b9a5ee4","infoHashBuffer":{"type":"Buffer","data":[15,2,252,47,70,143,42,223,215,103,228,188,175,99,69,46,107,154,94,228]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Liberator.2013.720p.BluRay.x264-KaKa [Libertador]",
+  "uid": 11743498,
+  "size": 5858103712,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:0f02fc2f468f2adfd767e4bcaf63452e6b9a5ee4&amp;dn=The.Liberator.2013.720p.BluRay.x264-KaKa+%5BLibertador%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 18,
+  "uploader": "GoodFilms",
+  "files": 3,
+  "time": 1425891838,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt2387513/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt2387513/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:0f02fc2f468f2adfd767e4bcaf63452e6b9a5ee4",
+    "dn": "The.Liberator.2013.720p.BluRay.x264-KaKa [Libertador]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0f02fc2f468f2adfd767e4bcaf63452e6b9a5ee4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        15,
+        2,
+        252,
+        47,
+        70,
+        143,
+        42,
+        223,
+        215,
+        103,
+        228,
+        188,
+        175,
+        99,
+        69,
+        46,
+        107,
+        154,
+        94,
+        228
+      ]
+    },
+    "name": "The.Liberator.2013.720p.BluRay.x264-KaKa [Libertador]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 3,
+  "last_updated": "2016-12-24T17:09:51.252Z"
+}

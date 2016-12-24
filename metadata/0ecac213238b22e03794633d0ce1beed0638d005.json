@@ -1,1 +1,63 @@
-{"title":"The.Flash.2014.S03E01.1080p.HEVC.x265-MeGusta","uid":15959162,"size":563419506,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:0ecac213238b22e03794633d0ce1beed0638d005&amp;dn=The.Flash.2014.S03E01.1080p.HEVC.x265-MeGusta&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":9,"uploader":"TvTeam","files":7,"time":1475642185,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:0ecac213238b22e03794633d0ce1beed0638d005","amp;dn":"The.Flash.2014.S03E01.1080p.HEVC.x265-MeGusta","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0ecac213238b22e03794633d0ce1beed0638d005","infoHashBuffer":{"type":"Buffer","data":[14,202,194,19,35,139,34,224,55,148,99,61,12,225,190,237,6,56,208,5]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Flash.2014.S03E01.1080p.HEVC.x265-MeGusta",
+  "uid": 15959162,
+  "size": 563419506,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:0ecac213238b22e03794633d0ce1beed0638d005&amp;dn=The.Flash.2014.S03E01.1080p.HEVC.x265-MeGusta&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 9,
+  "uploader": "TvTeam",
+  "files": 7,
+  "time": 1475642185,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:0ecac213238b22e03794633d0ce1beed0638d005",
+    "dn": "The.Flash.2014.S03E01.1080p.HEVC.x265-MeGusta",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "0ecac213238b22e03794633d0ce1beed0638d005",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        14,
+        202,
+        194,
+        19,
+        35,
+        139,
+        34,
+        224,
+        55,
+        148,
+        99,
+        61,
+        12,
+        225,
+        190,
+        237,
+        6,
+        56,
+        208,
+        5
+      ]
+    },
+    "name": "The.Flash.2014.S03E01.1080p.HEVC.x265-MeGusta",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 16,
+  "last_updated": "2016-12-24T17:08:20.903Z"
+}

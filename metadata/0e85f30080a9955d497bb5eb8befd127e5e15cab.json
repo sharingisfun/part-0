@@ -1,1 +1,61 @@
-{"title":"ACDC Rock Or Bust CD [2014] FLAC","uid":11635445,"size":629910543,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:0e85f30080a9955d497bb5eb8befd127e5e15cab&amp;dn=ACDC+Rock+Or+Bust+CD+%5B2014%5D+FLAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":4,"uploader":"Capajebo","files":-1,"time":1417726581,"description":"AC/DC Rock Or Bust CD [2014] FLAC","torrent":{"xt":"urn:btih:0e85f30080a9955d497bb5eb8befd127e5e15cab","amp;dn":"ACDC+Rock+Or+Bust+CD+%5B2014%5D+FLAC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0e85f30080a9955d497bb5eb8befd127e5e15cab","infoHashBuffer":{"type":"Buffer","data":[14,133,243,0,128,169,149,93,73,123,181,235,139,239,209,39,229,225,92,171]},"announce":[],"urlList":[]}}
+{
+  "title": "ACDC Rock Or Bust CD [2014] FLAC",
+  "uid": 11635445,
+  "size": 629910543,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:0e85f30080a9955d497bb5eb8befd127e5e15cab&amp;dn=ACDC+Rock+Or+Bust+CD+%5B2014%5D+FLAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 4,
+  "uploader": "Capajebo",
+  "files": -1,
+  "time": 1417726581,
+  "description": "AC/DC Rock Or Bust CD [2014] FLAC",
+  "parsed": {
+    "xt": "urn:btih:0e85f30080a9955d497bb5eb8befd127e5e15cab",
+    "dn": "ACDC Rock Or Bust CD [2014] FLAC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0e85f30080a9955d497bb5eb8befd127e5e15cab",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        14,
+        133,
+        243,
+        0,
+        128,
+        169,
+        149,
+        93,
+        73,
+        123,
+        181,
+        235,
+        139,
+        239,
+        209,
+        39,
+        229,
+        225,
+        92,
+        171
+      ]
+    },
+    "name": "ACDC Rock Or Bust CD [2014] FLAC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 18,
+  "last_updated": "2016-12-24T17:06:10.328Z"
+}

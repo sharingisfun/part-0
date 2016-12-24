@@ -1,1 +1,61 @@
-{"title":"Greys Anatomy - Season 5 Complete","uid":5037049,"size":3336089410,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:0e0ee4ba696be517d0937d68346e1f392809a700&amp;dn=Greys+Anatomy+-+Season+5+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":14,"uploader":"rustyjerk","files":24,"time":1249169840,"description":"season 5 complete","torrent":{"xt":"urn:btih:0e0ee4ba696be517d0937d68346e1f392809a700","amp;dn":"Greys+Anatomy+-+Season+5+Complete","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0e0ee4ba696be517d0937d68346e1f392809a700","infoHashBuffer":{"type":"Buffer","data":[14,14,228,186,105,107,229,23,208,147,125,104,52,110,31,57,40,9,167,0]},"announce":[],"urlList":[]}}
+{
+  "title": "Greys Anatomy - Season 5 Complete",
+  "uid": 5037049,
+  "size": 3336089410,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:0e0ee4ba696be517d0937d68346e1f392809a700&amp;dn=Greys+Anatomy+-+Season+5+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 14,
+  "uploader": "rustyjerk",
+  "files": 24,
+  "time": 1249169840,
+  "description": "season 5 complete",
+  "parsed": {
+    "xt": "urn:btih:0e0ee4ba696be517d0937d68346e1f392809a700",
+    "dn": "Greys Anatomy - Season 5 Complete",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0e0ee4ba696be517d0937d68346e1f392809a700",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        14,
+        14,
+        228,
+        186,
+        105,
+        107,
+        229,
+        23,
+        208,
+        147,
+        125,
+        104,
+        52,
+        110,
+        31,
+        57,
+        40,
+        9,
+        167,
+        0
+      ]
+    },
+    "name": "Greys Anatomy - Season 5 Complete",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 77,
+  "peers": 120,
+  "last_updated": "2016-12-24T17:02:37.341Z"
+}

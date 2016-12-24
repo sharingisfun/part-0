@@ -1,1 +1,61 @@
-{"title":"This Is England - movie and TV series - UltraViolent 720p","uid":12296321,"size":4291726200,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:0e69477cb37b180ab4cb292d2d32eeae9b2591f2&amp;dn=This+Is+England+-+movie+and+TV+series+-+UltraViolent+720p&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":14,"uploader":"UltraVio","files":9,"time":1440622308,"description":"Provided by UltraViolent\n\nThis is England - Full Movie\nThis is England '86 - TV Series\nThis is England '88 - TV Series","torrent":{"xt":"urn:btih:0e69477cb37b180ab4cb292d2d32eeae9b2591f2","amp;dn":"This+Is+England+-+movie+and+TV+series+-+UltraViolent+720p","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0e69477cb37b180ab4cb292d2d32eeae9b2591f2","infoHashBuffer":{"type":"Buffer","data":[14,105,71,124,179,123,24,10,180,203,41,45,45,50,238,174,155,37,145,242]},"announce":[],"urlList":[]}}
+{
+  "title": "This Is England - movie and TV series - UltraViolent 720p",
+  "uid": 12296321,
+  "size": 4291726200,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:0e69477cb37b180ab4cb292d2d32eeae9b2591f2&amp;dn=This+Is+England+-+movie+and+TV+series+-+UltraViolent+720p&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 14,
+  "uploader": "UltraVio",
+  "files": 9,
+  "time": 1440622308,
+  "description": "Provided by UltraViolent\n\nThis is England - Full Movie\nThis is England '86 - TV Series\nThis is England '88 - TV Series",
+  "parsed": {
+    "xt": "urn:btih:0e69477cb37b180ab4cb292d2d32eeae9b2591f2",
+    "dn": "This Is England - movie and TV series - UltraViolent 720p",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0e69477cb37b180ab4cb292d2d32eeae9b2591f2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        14,
+        105,
+        71,
+        124,
+        179,
+        123,
+        24,
+        10,
+        180,
+        203,
+        41,
+        45,
+        45,
+        50,
+        238,
+        174,
+        155,
+        37,
+        145,
+        242
+      ]
+    },
+    "name": "This Is England - movie and TV series - UltraViolent 720p",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 4,
+  "last_updated": "2016-12-24T17:04:55.996Z"
+}
