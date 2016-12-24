@@ -1,1 +1,61 @@
-{"title":"Criminal Minds Season 4","uid":6492194,"size":9536579614,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3795ab4399692cb3978ff228ddfdadce20a6cc5e&amp;dn=Criminal+Minds+Season+4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":53,"uploader":"ddaviey3","files":25,"time":1308926518,"description":"Complete Season 4 in AVI Format","torrent":{"xt":"urn:btih:3795ab4399692cb3978ff228ddfdadce20a6cc5e","amp;dn":"Criminal+Minds+Season+4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3795ab4399692cb3978ff228ddfdadce20a6cc5e","infoHashBuffer":{"type":"Buffer","data":[55,149,171,67,153,105,44,179,151,143,242,40,221,253,173,206,32,166,204,94]},"announce":[],"urlList":[]}}
+{
+  "title": "Criminal Minds Season 4",
+  "uid": 6492194,
+  "size": 9536579614,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3795ab4399692cb3978ff228ddfdadce20a6cc5e&amp;dn=Criminal+Minds+Season+4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 53,
+  "uploader": "ddaviey3",
+  "files": 25,
+  "time": 1308926518,
+  "description": "Complete Season 4 in AVI Format",
+  "parsed": {
+    "xt": "urn:btih:3795ab4399692cb3978ff228ddfdadce20a6cc5e",
+    "dn": "Criminal Minds Season 4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3795ab4399692cb3978ff228ddfdadce20a6cc5e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        55,
+        149,
+        171,
+        67,
+        153,
+        105,
+        44,
+        179,
+        151,
+        143,
+        242,
+        40,
+        221,
+        253,
+        173,
+        206,
+        32,
+        166,
+        204,
+        94
+      ]
+    },
+    "name": "Criminal Minds Season 4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 127,
+  "peers": 50,
+  "last_updated": "2016-12-24T22:12:12.041Z"
+}

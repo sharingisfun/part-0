@@ -1,1 +1,63 @@
-{"title":"Rise of Nations Extended Edition FLT","uid":15964323,"size":19404788,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:36f501adb94b33c3b76002f2e13b7dfdd88ce119&amp;dn=Rise+of+Nations+Extended+Edition+FLT&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":82,"leechers":56,"uploader":"trwetwr","files":3,"time":1475707439,"description":"Good Game","torrent":{"xt":"urn:btih:36f501adb94b33c3b76002f2e13b7dfdd88ce119","amp;dn":"Rise+of+Nations+Extended+Edition+FLT","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"36f501adb94b33c3b76002f2e13b7dfdd88ce119","infoHashBuffer":{"type":"Buffer","data":[54,245,1,173,185,75,51,195,183,96,2,242,225,59,125,253,216,140,225,25]},"announce":[],"urlList":[]}}
+{
+  "title": "Rise of Nations Extended Edition FLT",
+  "uid": 15964323,
+  "size": 19404788,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:36f501adb94b33c3b76002f2e13b7dfdd88ce119&amp;dn=Rise+of+Nations+Extended+Edition+FLT&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 82,
+  "leechers": 56,
+  "uploader": "trwetwr",
+  "files": 3,
+  "time": 1475707439,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:36f501adb94b33c3b76002f2e13b7dfdd88ce119",
+    "dn": "Rise of Nations Extended Edition FLT",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "36f501adb94b33c3b76002f2e13b7dfdd88ce119",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        54,
+        245,
+        1,
+        173,
+        185,
+        75,
+        51,
+        195,
+        183,
+        96,
+        2,
+        242,
+        225,
+        59,
+        125,
+        253,
+        216,
+        140,
+        225,
+        25
+      ]
+    },
+    "name": "Rise of Nations Extended Edition FLT",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 138,
+  "peers": 2,
+  "last_updated": "2016-12-24T22:08:01.085Z"
+}

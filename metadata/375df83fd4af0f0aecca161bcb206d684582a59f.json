@@ -1,1 +1,61 @@
-{"title":"Rudimental - Feel The Love (ft. John Newman) 2012 MP3 [320kbs]","uid":7297828,"size":9774804,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:375df83fd4af0f0aecca161bcb206d684582a59f&amp;dn=Rudimental+-+Feel+The+Love+%28ft.+John+Newman%29+2012+MP3+%5B320kbs%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":0,"uploader":"Darkmystery","files":-1,"time":1337944486,"description":"Artist: Rudimental\nTitle: &quot;Feel The Love&quot; ft John Newman\nLabel: Asylum Records / Black Butter\nRelease date: May 28th 2012\n\nBitrate: 320kbs!","torrent":{"xt":"urn:btih:375df83fd4af0f0aecca161bcb206d684582a59f","amp;dn":"Rudimental+-+Feel+The+Love+%28ft.+John+Newman%29+2012+MP3+%5B320kbs%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"375df83fd4af0f0aecca161bcb206d684582a59f","infoHashBuffer":{"type":"Buffer","data":[55,93,248,63,212,175,15,10,236,202,22,27,203,32,109,104,69,130,165,159]},"announce":[],"urlList":[]}}
+{
+  "title": "Rudimental - Feel The Love (ft. John Newman) 2012 MP3 [320kbs]",
+  "uid": 7297828,
+  "size": 9774804,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:375df83fd4af0f0aecca161bcb206d684582a59f&amp;dn=Rudimental+-+Feel+The+Love+%28ft.+John+Newman%29+2012+MP3+%5B320kbs%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 0,
+  "uploader": "Darkmystery",
+  "files": -1,
+  "time": 1337944486,
+  "description": "Artist: Rudimental\nTitle: &quot;Feel The Love&quot; ft John Newman\nLabel: Asylum Records / Black Butter\nRelease date: May 28th 2012\n\nBitrate: 320kbs!",
+  "parsed": {
+    "xt": "urn:btih:375df83fd4af0f0aecca161bcb206d684582a59f",
+    "dn": "Rudimental - Feel The Love (ft. John Newman) 2012 MP3 [320kbs]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "375df83fd4af0f0aecca161bcb206d684582a59f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        55,
+        93,
+        248,
+        63,
+        212,
+        175,
+        15,
+        10,
+        236,
+        202,
+        22,
+        27,
+        203,
+        32,
+        109,
+        104,
+        69,
+        130,
+        165,
+        159
+      ]
+    },
+    "name": "Rudimental - Feel The Love (ft. John Newman) 2012 MP3 [320kbs]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 11,
+  "last_updated": "2016-12-24T22:10:43.625Z"
+}

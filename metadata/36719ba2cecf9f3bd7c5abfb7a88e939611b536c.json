@@ -1,1 +1,61 @@
-{"title":"bootstrap.dat - Bitcoin Blockchain @ 295000","uid":11019910,"size":22566124235,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:36719ba2cecf9f3bd7c5abfb7a88e939611b536c&amp;dn=bootstrap.dat+-+Bitcoin+Blockchain+%40+295000&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":124,"leechers":4,"uploader":"1EK4rVZ93nQsAci1srzdVt21Y","files":1,"time":1410549825,"description":"\nBeta-testing and pre-seeding a new torrent at http://gtf.org/garzik/bitcoin/bootstrap.dat.torrent\n\n\n\nPlease only join if you already have an old bootstrap.dat file, or you built the new one yourself using linearize.py and bitcoind.\n\n\n\nmagnet link:\n\nmagnet:?xt=urn:btih:682759b001fac5d3b0d8517d2a179af2e65ebed6&amp;dn=bootstrap.dat&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&amp;tr=udp%3A%2F%2Ftracker.ccc.de%3A80&amp;tr=udp%3A%2F%2Ftracker.istole.it%3A80\n\n\n &lt;a href=&quot;\nhttps://bitcointalk.org/index.php?topic=145386.msg8120161#msg8120161&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://bitcointalk.org/index.php?topic=145386.msg8120161#msg8120161&lt;/a&gt;","torrent":{"xt":"urn:btih:36719ba2cecf9f3bd7c5abfb7a88e939611b536c","amp;dn":"bootstrap.dat+-+Bitcoin+Blockchain+%40+295000","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"36719ba2cecf9f3bd7c5abfb7a88e939611b536c","infoHashBuffer":{"type":"Buffer","data":[54,113,155,162,206,207,159,59,215,197,171,251,122,136,233,57,97,27,83,108]},"announce":[],"urlList":[]}}
+{
+  "title": "bootstrap.dat - Bitcoin Blockchain @ 295000",
+  "uid": 11019910,
+  "size": 22566124235,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:36719ba2cecf9f3bd7c5abfb7a88e939611b536c&amp;dn=bootstrap.dat+-+Bitcoin+Blockchain+%40+295000&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 124,
+  "leechers": 4,
+  "uploader": "1EK4rVZ93nQsAci1srzdVt21Y",
+  "files": 1,
+  "time": 1410549825,
+  "description": "\nBeta-testing and pre-seeding a new torrent at http://gtf.org/garzik/bitcoin/bootstrap.dat.torrent\n\n\n\nPlease only join if you already have an old bootstrap.dat file, or you built the new one yourself using linearize.py and bitcoind.\n\n\n\nmagnet link:\n\nmagnet:?xt=urn:btih:682759b001fac5d3b0d8517d2a179af2e65ebed6&amp;dn=bootstrap.dat&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&amp;tr=udp%3A%2F%2Ftracker.ccc.de%3A80&amp;tr=udp%3A%2F%2Ftracker.istole.it%3A80\n\n\n &lt;a href=&quot;\nhttps://bitcointalk.org/index.php?topic=145386.msg8120161#msg8120161&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://bitcointalk.org/index.php?topic=145386.msg8120161#msg8120161&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:36719ba2cecf9f3bd7c5abfb7a88e939611b536c",
+    "dn": "bootstrap.dat - Bitcoin Blockchain @ 295000",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "36719ba2cecf9f3bd7c5abfb7a88e939611b536c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        54,
+        113,
+        155,
+        162,
+        206,
+        207,
+        159,
+        59,
+        215,
+        197,
+        171,
+        251,
+        122,
+        136,
+        233,
+        57,
+        97,
+        27,
+        83,
+        108
+      ]
+    },
+    "name": "bootstrap.dat - Bitcoin Blockchain @ 295000",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 128,
+  "peers": 40,
+  "last_updated": "2016-12-24T22:04:56.425Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Queens of the Stone Age - ...Like Clockwork [MP3 320]","uid":8507077,"size":114627519,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:35ae24a57ec62194a860e7503013c3fb816567e9&amp;dn=Queens+of+the+Stone+Age+-+...Like+Clockwork+%5BMP3+320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":107,"leechers":2,"uploader":"SmashAndGrab","files":-1,"time":1369459505,"description":"  Queens of the Stone Age - ...Like Clockwork (2013) [MP3 320]\n\n  Released ................ 2013\n  Source .................. Original Release (WEB)\n  Genre ................... Pop/Rock\n  Style ................... Alternative\n  Codec ................... MP3\n  Bit Rate ................ 320 CBR\n  Sampling Rate ........... 44.1 KHz\n\n  01. Keep Your Eyes Peeled (5:04)\n  02. I Sat by the Ocean (3:55)\n  03. The Vampyre of Time and Memory (3:34)\n  04. If I Had a Tail(Feat. Alex Turner, Nick Oliveri and Brody Dalle) (4:55)\n  05. My God Is the Sun (3:55)\n  06. Kalopsia (Feat. Trent Reznor) (4:38)\n  07. Fairweather Friends (Feat. Elton John, Trent Reznor, Nick Oliveri and Mark Lanegan) (3:43)\n  08. Smooth Sailing (Feat. Jake Shears) (4:51)\n  09. I Appear Missing (6:00)\n  10. ...Like Clockwork (5:24)","torrent":{"xt":"urn:btih:35ae24a57ec62194a860e7503013c3fb816567e9","amp;dn":"Queens+of+the+Stone+Age+-+...Like+Clockwork+%5BMP3+320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"35ae24a57ec62194a860e7503013c3fb816567e9","infoHashBuffer":{"type":"Buffer","data":[53,174,36,165,126,198,33,148,168,96,231,80,48,19,195,251,129,101,103,233]},"announce":[],"urlList":[]}}
+{
+  "title": "Queens of the Stone Age - ...Like Clockwork [MP3 320]",
+  "uid": 8507077,
+  "size": 114627519,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:35ae24a57ec62194a860e7503013c3fb816567e9&amp;dn=Queens+of+the+Stone+Age+-+...Like+Clockwork+%5BMP3+320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 107,
+  "leechers": 2,
+  "uploader": "SmashAndGrab",
+  "files": -1,
+  "time": 1369459505,
+  "description": "  Queens of the Stone Age - ...Like Clockwork (2013) [MP3 320]\n\n  Released ................ 2013\n  Source .................. Original Release (WEB)\n  Genre ................... Pop/Rock\n  Style ................... Alternative\n  Codec ................... MP3\n  Bit Rate ................ 320 CBR\n  Sampling Rate ........... 44.1 KHz\n\n  01. Keep Your Eyes Peeled (5:04)\n  02. I Sat by the Ocean (3:55)\n  03. The Vampyre of Time and Memory (3:34)\n  04. If I Had a Tail(Feat. Alex Turner, Nick Oliveri and Brody Dalle) (4:55)\n  05. My God Is the Sun (3:55)\n  06. Kalopsia (Feat. Trent Reznor) (4:38)\n  07. Fairweather Friends (Feat. Elton John, Trent Reznor, Nick Oliveri and Mark Lanegan) (3:43)\n  08. Smooth Sailing (Feat. Jake Shears) (4:51)\n  09. I Appear Missing (6:00)\n  10. ...Like Clockwork (5:24)",
+  "parsed": {
+    "xt": "urn:btih:35ae24a57ec62194a860e7503013c3fb816567e9",
+    "dn": "Queens of the Stone Age - ...Like Clockwork [MP3 320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "35ae24a57ec62194a860e7503013c3fb816567e9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        53,
+        174,
+        36,
+        165,
+        126,
+        198,
+        33,
+        148,
+        168,
+        96,
+        231,
+        80,
+        48,
+        19,
+        195,
+        251,
+        129,
+        101,
+        103,
+        233
+      ]
+    },
+    "name": "Queens of the Stone Age - ...Like Clockwork [MP3 320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 109,
+  "peers": 29,
+  "last_updated": "2016-12-24T22:00:13.242Z"
+}

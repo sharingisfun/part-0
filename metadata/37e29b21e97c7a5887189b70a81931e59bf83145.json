@@ -1,1 +1,61 @@
-{"title":"The.Sims.2.Apartment.Life-RELOADED","uid":4363141,"size":1044953913,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:37e29b21e97c7a5887189b70a81931e59bf83145&amp;dn=The.Sims.2.Apartment.Life-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":2,"uploader":"AiTB","files":23,"time":1219771351,"description":"more info\n &lt;a href=&quot;\nhttp://www.btarena.org/games/the-sims-2-apartment-life-reloaded&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.btarena.org/games/the-sims-2-apartment-life-reloaded&lt;/a&gt;","torrent":{"xt":"urn:btih:37e29b21e97c7a5887189b70a81931e59bf83145","amp;dn":"The.Sims.2.Apartment.Life-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"37e29b21e97c7a5887189b70a81931e59bf83145","infoHashBuffer":{"type":"Buffer","data":[55,226,155,33,233,124,122,88,135,24,155,112,168,25,49,229,155,248,49,69]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Sims.2.Apartment.Life-RELOADED",
+  "uid": 4363141,
+  "size": 1044953913,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:37e29b21e97c7a5887189b70a81931e59bf83145&amp;dn=The.Sims.2.Apartment.Life-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 2,
+  "uploader": "AiTB",
+  "files": 23,
+  "time": 1219771351,
+  "description": "more info\n &lt;a href=&quot;\nhttp://www.btarena.org/games/the-sims-2-apartment-life-reloaded&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.btarena.org/games/the-sims-2-apartment-life-reloaded&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:37e29b21e97c7a5887189b70a81931e59bf83145",
+    "dn": "The.Sims.2.Apartment.Life-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "37e29b21e97c7a5887189b70a81931e59bf83145",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        55,
+        226,
+        155,
+        33,
+        233,
+        124,
+        122,
+        88,
+        135,
+        24,
+        155,
+        112,
+        168,
+        25,
+        49,
+        229,
+        155,
+        248,
+        49,
+        69
+      ]
+    },
+    "name": "The.Sims.2.Apartment.Life-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 22,
+  "last_updated": "2016-12-24T22:13:50.558Z"
+}

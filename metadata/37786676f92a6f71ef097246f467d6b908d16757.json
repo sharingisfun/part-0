@@ -1,1 +1,61 @@
-{"title":"Matthew E. White - Fresh Blood (2015)","uid":11707952,"size":113095612,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:37786676f92a6f71ef097246f467d6b908d16757&amp;dn=Matthew+E.+White+-+Fresh+Blood+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":1,"uploader":"santicaz","files":10,"time":1424214554,"description":"Artist: Matthew E. White\nTitle: Fresh Blood\nYear: 2015\nGenre: Indie/Folk/Singer-Singwriter\nOrigin: USA\nSize/Quality: 107 mb | Mp3, CBR 320 kbps\n\n\nTracklist:\n01. Take Care My Baby\n02. Rock &amp; Roll Is Cold\n03. Fruit Trees\n04. Holy Moly\n05. Circle Ã¢â‚¬ËœRound the Sun\n06. Feeling Good Is Good Enough\n07. Tranquility\n08. Golden Robes\n09. Vision\n10. Love Is Deep","torrent":{"xt":"urn:btih:37786676f92a6f71ef097246f467d6b908d16757","amp;dn":"Matthew+E.+White+-+Fresh+Blood+%282015%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"37786676f92a6f71ef097246f467d6b908d16757","infoHashBuffer":{"type":"Buffer","data":[55,120,102,118,249,42,111,113,239,9,114,70,244,103,214,185,8,209,103,87]},"announce":[],"urlList":[]}}
+{
+  "title": "Matthew E. White - Fresh Blood (2015)",
+  "uid": 11707952,
+  "size": 113095612,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:37786676f92a6f71ef097246f467d6b908d16757&amp;dn=Matthew+E.+White+-+Fresh+Blood+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 1,
+  "uploader": "santicaz",
+  "files": 10,
+  "time": 1424214554,
+  "description": "Artist: Matthew E. White\nTitle: Fresh Blood\nYear: 2015\nGenre: Indie/Folk/Singer-Singwriter\nOrigin: USA\nSize/Quality: 107 mb | Mp3, CBR 320 kbps\n\n\nTracklist:\n01. Take Care My Baby\n02. Rock &amp; Roll Is Cold\n03. Fruit Trees\n04. Holy Moly\n05. Circle Ã¢â‚¬ËœRound the Sun\n06. Feeling Good Is Good Enough\n07. Tranquility\n08. Golden Robes\n09. Vision\n10. Love Is Deep",
+  "parsed": {
+    "xt": "urn:btih:37786676f92a6f71ef097246f467d6b908d16757",
+    "dn": "Matthew E. White - Fresh Blood (2015)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "37786676f92a6f71ef097246f467d6b908d16757",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        55,
+        120,
+        102,
+        118,
+        249,
+        42,
+        111,
+        113,
+        239,
+        9,
+        114,
+        70,
+        244,
+        103,
+        214,
+        185,
+        8,
+        209,
+        103,
+        87
+      ]
+    },
+    "name": "Matthew E. White - Fresh Blood (2015)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 9,
+  "last_updated": "2016-12-24T22:11:13.751Z"
+}

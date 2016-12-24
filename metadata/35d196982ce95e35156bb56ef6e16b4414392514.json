@@ -1,1 +1,61 @@
-{"title":"Native Instruments Battery 4 + 4.0.1 Update And Library DeLtA S1","uid":8371733,"size":2599945837,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:35d196982ce95e35156bb56ef6e16b4414392514&amp;dn=Native+Instruments+Battery+4+%2B+4.0.1+Update+And+Library+DeLtA+S1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":9,"uploader":"DeLtA_Sn1p3r","files":2,"time":1365937888,"description":"Native Instruments Battery 4 + 4.0.1 Update And Library","torrent":{"xt":"urn:btih:35d196982ce95e35156bb56ef6e16b4414392514","amp;dn":"Native+Instruments+Battery+4+%2B+4.0.1+Update+And+Library+DeLtA+S1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"35d196982ce95e35156bb56ef6e16b4414392514","infoHashBuffer":{"type":"Buffer","data":[53,209,150,152,44,233,94,53,21,107,181,110,246,225,107,68,20,57,37,20]},"announce":[],"urlList":[]}}
+{
+  "title": "Native Instruments Battery 4 + 4.0.1 Update And Library DeLtA S1",
+  "uid": 8371733,
+  "size": 2599945837,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:35d196982ce95e35156bb56ef6e16b4414392514&amp;dn=Native+Instruments+Battery+4+%2B+4.0.1+Update+And+Library+DeLtA+S1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 9,
+  "uploader": "DeLtA_Sn1p3r",
+  "files": 2,
+  "time": 1365937888,
+  "description": "Native Instruments Battery 4 + 4.0.1 Update And Library",
+  "parsed": {
+    "xt": "urn:btih:35d196982ce95e35156bb56ef6e16b4414392514",
+    "dn": "Native Instruments Battery 4   4.0.1 Update And Library DeLtA S1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "35d196982ce95e35156bb56ef6e16b4414392514",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        53,
+        209,
+        150,
+        152,
+        44,
+        233,
+        94,
+        53,
+        21,
+        107,
+        181,
+        110,
+        246,
+        225,
+        107,
+        68,
+        20,
+        57,
+        37,
+        20
+      ]
+    },
+    "name": "Native Instruments Battery 4   4.0.1 Update And Library DeLtA S1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 96,
+  "peers": 50,
+  "last_updated": "2016-12-24T22:01:13.467Z"
+}

@@ -1,1 +1,63 @@
-{"title":"The Uncertain Episode 1-CODEX","uid":15964356,"size":19798226,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:35865dd67dd64a0a50706994015e0ef5eaec8879&amp;dn=The+Uncertain+Episode+1-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":119,"leechers":79,"uploader":"trwetwr","files":6,"time":1475707951,"description":"Good Game","torrent":{"xt":"urn:btih:35865dd67dd64a0a50706994015e0ef5eaec8879","amp;dn":"The+Uncertain+Episode+1-CODEX","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"35865dd67dd64a0a50706994015e0ef5eaec8879","infoHashBuffer":{"type":"Buffer","data":[53,134,93,214,125,214,74,10,80,112,105,148,1,94,14,245,234,236,136,121]},"announce":[],"urlList":[]}}
+{
+  "title": "The Uncertain Episode 1-CODEX",
+  "uid": 15964356,
+  "size": 19798226,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:35865dd67dd64a0a50706994015e0ef5eaec8879&amp;dn=The+Uncertain+Episode+1-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 119,
+  "leechers": 79,
+  "uploader": "trwetwr",
+  "files": 6,
+  "time": 1475707951,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:35865dd67dd64a0a50706994015e0ef5eaec8879",
+    "dn": "The Uncertain Episode 1-CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "35865dd67dd64a0a50706994015e0ef5eaec8879",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        53,
+        134,
+        93,
+        214,
+        125,
+        214,
+        74,
+        10,
+        80,
+        112,
+        105,
+        148,
+        1,
+        94,
+        14,
+        245,
+        234,
+        236,
+        136,
+        121
+      ]
+    },
+    "name": "The Uncertain Episode 1-CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 198,
+  "peers": 4,
+  "last_updated": "2016-12-24T21:59:10.991Z"
+}

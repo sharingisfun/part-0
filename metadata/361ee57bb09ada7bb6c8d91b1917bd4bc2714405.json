@@ -1,1 +1,61 @@
-{"title":"Taylor Swift - Blank Space (Single 2014)","uid":11440904,"size":9402771,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:361ee57bb09ada7bb6c8d91b1917bd4bc2714405&amp;dn=Taylor+Swift+-+Blank+Space+%28Single+2014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":348,"leechers":16,"uploader":"sergelover","files":-1,"time":1415806561,"description":"&quot;Blank Space&quot; is a song recorded by American singer-songwriter Taylor Swift for her fifth studio album, 1989. \nIt was written by Swift, Max Martin and Shellback. The song was released to contemporary hit radio by Big Machine Records on November 10, 2014 as the album's second single, after &quot;Shake It Off&quot;.\n\nEnjoy!\n\n320 kbps, 03:51, Big Machine Records 2014","torrent":{"xt":"urn:btih:361ee57bb09ada7bb6c8d91b1917bd4bc2714405","amp;dn":"Taylor+Swift+-+Blank+Space+%28Single+2014%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"361ee57bb09ada7bb6c8d91b1917bd4bc2714405","infoHashBuffer":{"type":"Buffer","data":[54,30,229,123,176,154,218,123,182,200,217,27,25,23,189,75,194,113,68,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Taylor Swift - Blank Space (Single 2014)",
+  "uid": 11440904,
+  "size": 9402771,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:361ee57bb09ada7bb6c8d91b1917bd4bc2714405&amp;dn=Taylor+Swift+-+Blank+Space+%28Single+2014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 348,
+  "leechers": 16,
+  "uploader": "sergelover",
+  "files": -1,
+  "time": 1415806561,
+  "description": "&quot;Blank Space&quot; is a song recorded by American singer-songwriter Taylor Swift for her fifth studio album, 1989. \nIt was written by Swift, Max Martin and Shellback. The song was released to contemporary hit radio by Big Machine Records on November 10, 2014 as the album's second single, after &quot;Shake It Off&quot;.\n\nEnjoy!\n\n320 kbps, 03:51, Big Machine Records 2014",
+  "parsed": {
+    "xt": "urn:btih:361ee57bb09ada7bb6c8d91b1917bd4bc2714405",
+    "dn": "Taylor Swift - Blank Space (Single 2014)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "361ee57bb09ada7bb6c8d91b1917bd4bc2714405",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        54,
+        30,
+        229,
+        123,
+        176,
+        154,
+        218,
+        123,
+        182,
+        200,
+        217,
+        27,
+        25,
+        23,
+        189,
+        75,
+        194,
+        113,
+        68,
+        5
+      ]
+    },
+    "name": "Taylor Swift - Blank Space (Single 2014)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 364,
+  "peers": 56,
+  "last_updated": "2016-12-24T22:03:26.084Z"
+}
