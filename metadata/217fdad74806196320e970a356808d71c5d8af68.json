@@ -1,1 +1,61 @@
-{"title":"Boston Legal Season 1","uid":4210438,"size":6200016896,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:217fdad74806196320e970a356808d71c5d8af68&amp;dn=Boston+Legal+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":21,"uploader":"squidlips","files":17,"time":1212037360,"description":"repack no rar files","torrent":{"xt":"urn:btih:217fdad74806196320e970a356808d71c5d8af68","amp;dn":"Boston+Legal+Season+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"217fdad74806196320e970a356808d71c5d8af68","infoHashBuffer":{"type":"Buffer","data":[33,127,218,215,72,6,25,99,32,233,112,163,86,128,141,113,197,216,175,104]},"announce":[],"urlList":[]}}
+{
+  "title": "Boston Legal Season 1",
+  "uid": 4210438,
+  "size": 6200016896,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:217fdad74806196320e970a356808d71c5d8af68&amp;dn=Boston+Legal+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 21,
+  "uploader": "squidlips",
+  "files": 17,
+  "time": 1212037360,
+  "description": "repack no rar files",
+  "parsed": {
+    "xt": "urn:btih:217fdad74806196320e970a356808d71c5d8af68",
+    "dn": "Boston Legal Season 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "217fdad74806196320e970a356808d71c5d8af68",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        33,
+        127,
+        218,
+        215,
+        72,
+        6,
+        25,
+        99,
+        32,
+        233,
+        112,
+        163,
+        86,
+        128,
+        141,
+        113,
+        197,
+        216,
+        175,
+        104
+      ]
+    },
+    "name": "Boston Legal Season 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 86,
+  "last_updated": "2016-12-24T19:31:16.521Z"
+}

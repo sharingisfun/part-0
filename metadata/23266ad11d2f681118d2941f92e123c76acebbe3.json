@@ -1,1 +1,63 @@
-{"title":"Broad.City.S02.DVDRip.x264-OSITV","uid":13228511,"size":1848779263,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:23266ad11d2f681118d2941f92e123c76acebbe3&amp;dn=Broad.City.S02.DVDRip.x264-OSITV&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":3,"uploader":"sysy420","files":10,"time":1452904907,"description":"Broad City - Season 2 - DVDRip x264 MKVs","torrent":{"xt":"urn:btih:23266ad11d2f681118d2941f92e123c76acebbe3","amp;dn":"Broad.City.S02.DVDRip.x264-OSITV","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"23266ad11d2f681118d2941f92e123c76acebbe3","infoHashBuffer":{"type":"Buffer","data":[35,38,106,209,29,47,104,17,24,210,148,31,146,225,35,199,106,206,187,227]},"announce":[],"urlList":[]}}
+{
+  "title": "Broad.City.S02.DVDRip.x264-OSITV",
+  "uid": 13228511,
+  "size": 1848779263,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:23266ad11d2f681118d2941f92e123c76acebbe3&amp;dn=Broad.City.S02.DVDRip.x264-OSITV&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 3,
+  "uploader": "sysy420",
+  "files": 10,
+  "time": 1452904907,
+  "description": "Broad City - Season 2 - DVDRip x264 MKVs",
+  "parsed": {
+    "xt": "urn:btih:23266ad11d2f681118d2941f92e123c76acebbe3",
+    "dn": "Broad.City.S02.DVDRip.x264-OSITV",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "23266ad11d2f681118d2941f92e123c76acebbe3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        35,
+        38,
+        106,
+        209,
+        29,
+        47,
+        104,
+        17,
+        24,
+        210,
+        148,
+        31,
+        146,
+        225,
+        35,
+        199,
+        106,
+        206,
+        187,
+        227
+      ]
+    },
+    "name": "Broad.City.S02.DVDRip.x264-OSITV",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 138,
+  "last_updated": "2016-12-24T19:44:13.587Z"
+}

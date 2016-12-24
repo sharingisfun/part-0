@@ -1,1 +1,61 @@
-{"title":"Gold Rush S05E07 Goldzilla HDTV x264-FUM[ettv]","uid":11592891,"size":436551542,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:22753ad1e14f808316642618a6d9a3ebe0fdd784&amp;dn=Gold+Rush+S05E07+Goldzilla+HDTV+x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":2,"uploader":"ettv","files":2,"time":1417247418,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:22753ad1e14f808316642618a6d9a3ebe0fdd784","amp;dn":"Gold+Rush+S05E07+Goldzilla+HDTV+x264-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"22753ad1e14f808316642618a6d9a3ebe0fdd784","infoHashBuffer":{"type":"Buffer","data":[34,117,58,209,225,79,128,131,22,100,38,24,166,217,163,235,224,253,215,132]},"announce":[],"urlList":[]}}
+{
+  "title": "Gold Rush S05E07 Goldzilla HDTV x264-FUM[ettv]",
+  "uid": 11592891,
+  "size": 436551542,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:22753ad1e14f808316642618a6d9a3ebe0fdd784&amp;dn=Gold+Rush+S05E07+Goldzilla+HDTV+x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1417247418,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:22753ad1e14f808316642618a6d9a3ebe0fdd784",
+    "dn": "Gold Rush S05E07 Goldzilla HDTV x264-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "22753ad1e14f808316642618a6d9a3ebe0fdd784",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        34,
+        117,
+        58,
+        209,
+        225,
+        79,
+        128,
+        131,
+        22,
+        100,
+        38,
+        24,
+        166,
+        217,
+        163,
+        235,
+        224,
+        253,
+        215,
+        132
+      ]
+    },
+    "name": "Gold Rush S05E07 Goldzilla HDTV x264-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 1,
+  "last_updated": "2016-12-24T19:38:36.307Z"
+}

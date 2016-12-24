@@ -1,1 +1,61 @@
-{"title":"Lucy.2014.720p.BluRay.x264-SPARKS","uid":11535955,"size":4712394958,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:2162f4cab63e3d5bd4a5252063e548d8407c9411&amp;dn=Lucy.2014.720p.BluRay.x264-SPARKS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":16,"uploader":"Drarbg","files":5,"time":1416624393,"description":"\n\nLucy.2014.720p.BluRay.x264-SPARKS\n\nAuto IMDB: &lt;a href=&quot;\nhttp://www.imdb.com/title/tt2872732/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt2872732/&lt;/a&gt;\n\n-----------------------------------------\nScreens : &lt;a href=&quot;\nhttp://imgcrl.org/v/04964883130780189165/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgcrl.org/v/04964883130780189165/&lt;/a&gt;\n\n-----------------------------------------\nAuto Media Info :\nVideo Format........: AVC\nCodec ID............: V_MPEG4/ISO/AVC\nLength..............: 1h29mn\nVideo...............: 1280x536 ( 23.976fps )\nBitrate.............: 5490Kbps\nAudio Format........: DTS\nCodec ID............: A_DTS\nBit rate mode.......: Constant\nBitrate.............: 1509Kbps\nChannel(s)..........: 6 channels","torrent":{"xt":"urn:btih:2162f4cab63e3d5bd4a5252063e548d8407c9411","amp;dn":"Lucy.2014.720p.BluRay.x264-SPARKS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2162f4cab63e3d5bd4a5252063e548d8407c9411","infoHashBuffer":{"type":"Buffer","data":[33,98,244,202,182,62,61,91,212,165,37,32,99,229,72,216,64,124,148,17]},"announce":[],"urlList":[]}}
+{
+  "title": "Lucy.2014.720p.BluRay.x264-SPARKS",
+  "uid": 11535955,
+  "size": 4712394958,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:2162f4cab63e3d5bd4a5252063e548d8407c9411&amp;dn=Lucy.2014.720p.BluRay.x264-SPARKS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 16,
+  "uploader": "Drarbg",
+  "files": 5,
+  "time": 1416624393,
+  "description": "\n\nLucy.2014.720p.BluRay.x264-SPARKS\n\nAuto IMDB: &lt;a href=&quot;\nhttp://www.imdb.com/title/tt2872732/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt2872732/&lt;/a&gt;\n\n-----------------------------------------\nScreens : &lt;a href=&quot;\nhttp://imgcrl.org/v/04964883130780189165/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgcrl.org/v/04964883130780189165/&lt;/a&gt;\n\n-----------------------------------------\nAuto Media Info :\nVideo Format........: AVC\nCodec ID............: V_MPEG4/ISO/AVC\nLength..............: 1h29mn\nVideo...............: 1280x536 ( 23.976fps )\nBitrate.............: 5490Kbps\nAudio Format........: DTS\nCodec ID............: A_DTS\nBit rate mode.......: Constant\nBitrate.............: 1509Kbps\nChannel(s)..........: 6 channels",
+  "parsed": {
+    "xt": "urn:btih:2162f4cab63e3d5bd4a5252063e548d8407c9411",
+    "dn": "Lucy.2014.720p.BluRay.x264-SPARKS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2162f4cab63e3d5bd4a5252063e548d8407c9411",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        33,
+        98,
+        244,
+        202,
+        182,
+        62,
+        61,
+        91,
+        212,
+        165,
+        37,
+        32,
+        99,
+        229,
+        72,
+        216,
+        64,
+        124,
+        148,
+        17
+      ]
+    },
+    "name": "Lucy.2014.720p.BluRay.x264-SPARKS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 103,
+  "peers": 1,
+  "last_updated": "2016-12-24T19:30:24.300Z"
+}

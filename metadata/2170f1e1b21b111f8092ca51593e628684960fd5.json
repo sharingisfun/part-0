@@ -1,1 +1,61 @@
-{"title":"Getting.Started.with.Sensors.Measure.the.World.with.Electronics.","uid":11444256,"size":7344395,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:2170f1e1b21b111f8092ca51593e628684960fd5&amp;dn=Getting.Started.with.Sensors.Measure.the.World.with.Electronics.&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":2,"uploader":"wildturkey00","files":2,"time":1415838270,"description":"Format: PDF\nGenre: SENSORS/Electronics/ Arduino/Raspberry Pi/tutorial\nPublished: 2014\n\nAS USUAL IF YOU ARE HAVING TROUBLE OPENING UP MY EBOOK FILES USE CALIBRE, IT IS FREE, AND OPENS ANY FORMAT... IF YOU CANT IPEN IT WITH CALBIRE, IT WILL CONVERT THE EBBOK TO WHATEVER FORMAT YOU WANT (example: EPUBtoPDF, PDFtoMOBI....ect)\n\nBook Description: To build electronic projects that can sense the physical world, you need to build circuits based around sensors: electronic components that react to physical phenomena by sending an electrical signal. Even with only basic electronic components, you can build useful and educational sensor projects.\n\nBut if you incorporate Arduino or Raspberry Pi into your project, you can build much more sophisticated projects that can react in interesting ways and even connect to the Internet. This book starts by teaching you the basic electronic circuits to read and react to a sensor. It then goes on to show how to use Arduino to develop sensor systems, and wraps up by teaching you how to build sensor projects with the Linux-powered Raspberry Pi","torrent":{"xt":"urn:btih:2170f1e1b21b111f8092ca51593e628684960fd5","amp;dn":"Getting.Started.with.Sensors.Measure.the.World.with.Electronics.","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2170f1e1b21b111f8092ca51593e628684960fd5","infoHashBuffer":{"type":"Buffer","data":[33,112,241,225,178,27,17,31,128,146,202,81,89,62,98,134,132,150,15,213]},"announce":[],"urlList":[]}}
+{
+  "title": "Getting.Started.with.Sensors.Measure.the.World.with.Electronics.",
+  "uid": 11444256,
+  "size": 7344395,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:2170f1e1b21b111f8092ca51593e628684960fd5&amp;dn=Getting.Started.with.Sensors.Measure.the.World.with.Electronics.&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 2,
+  "uploader": "wildturkey00",
+  "files": 2,
+  "time": 1415838270,
+  "description": "Format: PDF\nGenre: SENSORS/Electronics/ Arduino/Raspberry Pi/tutorial\nPublished: 2014\n\nAS USUAL IF YOU ARE HAVING TROUBLE OPENING UP MY EBOOK FILES USE CALIBRE, IT IS FREE, AND OPENS ANY FORMAT... IF YOU CANT IPEN IT WITH CALBIRE, IT WILL CONVERT THE EBBOK TO WHATEVER FORMAT YOU WANT (example: EPUBtoPDF, PDFtoMOBI....ect)\n\nBook Description: To build electronic projects that can sense the physical world, you need to build circuits based around sensors: electronic components that react to physical phenomena by sending an electrical signal. Even with only basic electronic components, you can build useful and educational sensor projects.\n\nBut if you incorporate Arduino or Raspberry Pi into your project, you can build much more sophisticated projects that can react in interesting ways and even connect to the Internet. This book starts by teaching you the basic electronic circuits to read and react to a sensor. It then goes on to show how to use Arduino to develop sensor systems, and wraps up by teaching you how to build sensor projects with the Linux-powered Raspberry Pi",
+  "parsed": {
+    "xt": "urn:btih:2170f1e1b21b111f8092ca51593e628684960fd5",
+    "dn": "Getting.Started.with.Sensors.Measure.the.World.with.Electronics.",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2170f1e1b21b111f8092ca51593e628684960fd5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        33,
+        112,
+        241,
+        225,
+        178,
+        27,
+        17,
+        31,
+        128,
+        146,
+        202,
+        81,
+        89,
+        62,
+        98,
+        134,
+        132,
+        150,
+        15,
+        213
+      ]
+    },
+    "name": "Getting.Started.with.Sensors.Measure.the.World.with.Electronics.",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 19,
+  "last_updated": "2016-12-24T19:30:46.415Z"
+}

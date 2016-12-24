@@ -1,1 +1,61 @@
-{"title":"Ali (2001) HDRip","uid":7249976,"size":3120754688,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:214e90b49675996aad56e1943348b27473a12b45&amp;dn=Ali+%282001%29+HDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":2,"uploader":"maxrus","files":-1,"time":1336422740,"description":"Quality: HDRip\nDuration: 02:36:35\nContainer: AVI\nVideo: 720x304 (2.37:1), 23.976 fps, XviD build 50 ~2202 kbps avg, 0.42 bit/pixel\nAudio: Russian Dub, 48 kHz, AC3 Dolby Digital, 3/2 (L,C,R,l,r) + LFE ch, 448.00 kbps avg ","torrent":{"xt":"urn:btih:214e90b49675996aad56e1943348b27473a12b45","amp;dn":"Ali+%282001%29+HDRip","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"214e90b49675996aad56e1943348b27473a12b45","infoHashBuffer":{"type":"Buffer","data":[33,78,144,180,150,117,153,106,173,86,225,148,51,72,178,116,115,161,43,69]},"announce":[],"urlList":[]}}
+{
+  "title": "Ali (2001) HDRip",
+  "uid": 7249976,
+  "size": 3120754688,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:214e90b49675996aad56e1943348b27473a12b45&amp;dn=Ali+%282001%29+HDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 2,
+  "uploader": "maxrus",
+  "files": -1,
+  "time": 1336422740,
+  "description": "Quality: HDRip\nDuration: 02:36:35\nContainer: AVI\nVideo: 720x304 (2.37:1), 23.976 fps, XviD build 50 ~2202 kbps avg, 0.42 bit/pixel\nAudio: Russian Dub, 48 kHz, AC3 Dolby Digital, 3/2 (L,C,R,l,r) + LFE ch, 448.00 kbps avg ",
+  "parsed": {
+    "xt": "urn:btih:214e90b49675996aad56e1943348b27473a12b45",
+    "dn": "Ali (2001) HDRip",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "214e90b49675996aad56e1943348b27473a12b45",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        33,
+        78,
+        144,
+        180,
+        150,
+        117,
+        153,
+        106,
+        173,
+        86,
+        225,
+        148,
+        51,
+        72,
+        178,
+        116,
+        115,
+        161,
+        43,
+        69
+      ]
+    },
+    "name": "Ali (2001) HDRip",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 151,
+  "last_updated": "2016-12-24T19:29:42.122Z"
+}

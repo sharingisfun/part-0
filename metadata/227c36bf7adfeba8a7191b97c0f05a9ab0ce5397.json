@@ -1,1 +1,61 @@
-{"title":"American Horror Story S03E11 HDTV x264-2HD[ettv]","uid":9483671,"size":297449623,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:227c36bf7adfeba8a7191b97c0f05a9ab0ce5397&amp;dn=American+Horror+Story+S03E11+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":1,"uploader":"ettv","files":2,"time":1389848851,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:227c36bf7adfeba8a7191b97c0f05a9ab0ce5397","amp;dn":"American+Horror+Story+S03E11+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"227c36bf7adfeba8a7191b97c0f05a9ab0ce5397","infoHashBuffer":{"type":"Buffer","data":[34,124,54,191,122,223,235,168,167,25,27,151,192,240,90,154,176,206,83,151]},"announce":[],"urlList":[]}}
+{
+  "title": "American Horror Story S03E11 HDTV x264-2HD[ettv]",
+  "uid": 9483671,
+  "size": 297449623,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:227c36bf7adfeba8a7191b97c0f05a9ab0ce5397&amp;dn=American+Horror+Story+S03E11+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1389848851,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:227c36bf7adfeba8a7191b97c0f05a9ab0ce5397",
+    "dn": "American Horror Story S03E11 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "227c36bf7adfeba8a7191b97c0f05a9ab0ce5397",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        34,
+        124,
+        54,
+        191,
+        122,
+        223,
+        235,
+        168,
+        167,
+        25,
+        27,
+        151,
+        192,
+        240,
+        90,
+        154,
+        176,
+        206,
+        83,
+        151
+      ]
+    },
+    "name": "American Horror Story S03E11 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 75,
+  "peers": 11,
+  "last_updated": "2016-12-24T19:38:50.349Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Taylor Swift - Taylor Swift [2006-Album]","uid":7394583,"size":130902953,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:21ebb078e66e0f781a87c750f081518b32ab8c3a&amp;dn=Taylor+Swift+-+Taylor+Swift+%5B2006-Album%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":3,"uploader":"alliekathbextor","files":-1,"time":1340882334,"description":"320kbps iTunes rip\n\n01 Tim McGraw\n02 Picture to Burn\n03 Teardrops on My Guitar (Radio Single Remix)\n04 A Place In This World\n05 Cold As You\n06 The Outside\n07 Tied Together With a Smile\n08 Stay Beautiful\n09 Should've Said No\n10 Mary's Song (Oh My My My)\n11 Our Song\n12 I'm Only Me When I'm With You\n13 Invisible\n14 A Perfectly Good Heart\n15 Teardrops On My Guitar (POP Version)\nDigital Booklet - Taylor Swift","torrent":{"xt":"urn:btih:21ebb078e66e0f781a87c750f081518b32ab8c3a","amp;dn":"Taylor+Swift+-+Taylor+Swift+%5B2006-Album%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"21ebb078e66e0f781a87c750f081518b32ab8c3a","infoHashBuffer":{"type":"Buffer","data":[33,235,176,120,230,110,15,120,26,135,199,80,240,129,81,139,50,171,140,58]},"announce":[],"urlList":[]}}
+{
+  "title": "Taylor Swift - Taylor Swift [2006-Album]",
+  "uid": 7394583,
+  "size": 130902953,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:21ebb078e66e0f781a87c750f081518b32ab8c3a&amp;dn=Taylor+Swift+-+Taylor+Swift+%5B2006-Album%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 3,
+  "uploader": "alliekathbextor",
+  "files": -1,
+  "time": 1340882334,
+  "description": "320kbps iTunes rip\n\n01 Tim McGraw\n02 Picture to Burn\n03 Teardrops on My Guitar (Radio Single Remix)\n04 A Place In This World\n05 Cold As You\n06 The Outside\n07 Tied Together With a Smile\n08 Stay Beautiful\n09 Should've Said No\n10 Mary's Song (Oh My My My)\n11 Our Song\n12 I'm Only Me When I'm With You\n13 Invisible\n14 A Perfectly Good Heart\n15 Teardrops On My Guitar (POP Version)\nDigital Booklet - Taylor Swift",
+  "parsed": {
+    "xt": "urn:btih:21ebb078e66e0f781a87c750f081518b32ab8c3a",
+    "dn": "Taylor Swift - Taylor Swift [2006-Album]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "21ebb078e66e0f781a87c750f081518b32ab8c3a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        33,
+        235,
+        176,
+        120,
+        230,
+        110,
+        15,
+        120,
+        26,
+        135,
+        199,
+        80,
+        240,
+        129,
+        81,
+        139,
+        50,
+        171,
+        140,
+        58
+      ]
+    },
+    "name": "Taylor Swift - Taylor Swift [2006-Album]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 52,
+  "last_updated": "2016-12-24T19:34:25.223Z"
+}

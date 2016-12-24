@@ -1,1 +1,61 @@
-{"title":"TURN.S02E07.HDTV.x264-KILLERS[ettv]","uid":11943329,"size":300817608,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:2186b2a328099120f51410e0f01f952e3cce4e12&amp;dn=TURN.S02E07.HDTV.x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":5,"uploader":"ettv","files":3,"time":1432011646,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:2186b2a328099120f51410e0f01f952e3cce4e12","amp;dn":"TURN.S02E07.HDTV.x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2186b2a328099120f51410e0f01f952e3cce4e12","infoHashBuffer":{"type":"Buffer","data":[33,134,178,163,40,9,145,32,245,20,16,224,240,31,149,46,60,206,78,18]},"announce":[],"urlList":[]}}
+{
+  "title": "TURN.S02E07.HDTV.x264-KILLERS[ettv]",
+  "uid": 11943329,
+  "size": 300817608,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:2186b2a328099120f51410e0f01f952e3cce4e12&amp;dn=TURN.S02E07.HDTV.x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1432011646,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:2186b2a328099120f51410e0f01f952e3cce4e12",
+    "dn": "TURN.S02E07.HDTV.x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2186b2a328099120f51410e0f01f952e3cce4e12",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        33,
+        134,
+        178,
+        163,
+        40,
+        9,
+        145,
+        32,
+        245,
+        20,
+        16,
+        224,
+        240,
+        31,
+        149,
+        46,
+        60,
+        206,
+        78,
+        18
+      ]
+    },
+    "name": "TURN.S02E07.HDTV.x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 18,
+  "last_updated": "2016-12-24T19:31:38.640Z"
+}

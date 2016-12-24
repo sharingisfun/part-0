@@ -1,1 +1,61 @@
-{"title":"Zoo.S01E05.HDTV.x264-LOL[ettv]","uid":12170067,"size":324366198,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:21d59ea55696350dbef7785d5a376fe69f379dc4&amp;dn=Zoo.S01E05.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":429,"leechers":30,"uploader":"ettv","files":3,"time":1438143261,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:21d59ea55696350dbef7785d5a376fe69f379dc4","amp;dn":"Zoo.S01E05.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"21d59ea55696350dbef7785d5a376fe69f379dc4","infoHashBuffer":{"type":"Buffer","data":[33,213,158,165,86,150,53,13,190,247,120,93,90,55,111,230,159,55,157,196]},"announce":[],"urlList":[]}}
+{
+  "title": "Zoo.S01E05.HDTV.x264-LOL[ettv]",
+  "uid": 12170067,
+  "size": 324366198,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:21d59ea55696350dbef7785d5a376fe69f379dc4&amp;dn=Zoo.S01E05.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 429,
+  "leechers": 30,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1438143261,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:21d59ea55696350dbef7785d5a376fe69f379dc4",
+    "dn": "Zoo.S01E05.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "21d59ea55696350dbef7785d5a376fe69f379dc4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        33,
+        213,
+        158,
+        165,
+        86,
+        150,
+        53,
+        13,
+        190,
+        247,
+        120,
+        93,
+        90,
+        55,
+        111,
+        230,
+        159,
+        55,
+        157,
+        196
+      ]
+    },
+    "name": "Zoo.S01E05.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 459,
+  "peers": 68,
+  "last_updated": "2016-12-24T19:33:53.094Z"
+}

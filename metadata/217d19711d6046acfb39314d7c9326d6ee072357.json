@@ -1,1 +1,61 @@
-{"title":"El Padrino II [dvdrip][spanish]","uid":6005891,"size":1470429184,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:217d19711d6046acfb39314d7c9326d6ee072357&amp;dn=El+Padrino+II+%5Bdvdrip%5D%5Bspanish%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":2,"uploader":"furtaperas","files":-1,"time":1291321012,"description":"TÃƒÆ’","torrent":{"xt":"urn:btih:217d19711d6046acfb39314d7c9326d6ee072357","amp;dn":"El+Padrino+II+%5Bdvdrip%5D%5Bspanish%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"217d19711d6046acfb39314d7c9326d6ee072357","infoHashBuffer":{"type":"Buffer","data":[33,125,25,113,29,96,70,172,251,57,49,77,124,147,38,214,238,7,35,87]},"announce":[],"urlList":[]}}
+{
+  "title": "El Padrino II [dvdrip][spanish]",
+  "uid": 6005891,
+  "size": 1470429184,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:217d19711d6046acfb39314d7c9326d6ee072357&amp;dn=El+Padrino+II+%5Bdvdrip%5D%5Bspanish%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 2,
+  "uploader": "furtaperas",
+  "files": -1,
+  "time": 1291321012,
+  "description": "TÃƒÆ’",
+  "parsed": {
+    "xt": "urn:btih:217d19711d6046acfb39314d7c9326d6ee072357",
+    "dn": "El Padrino II [dvdrip][spanish]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "217d19711d6046acfb39314d7c9326d6ee072357",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        33,
+        125,
+        25,
+        113,
+        29,
+        96,
+        70,
+        172,
+        251,
+        57,
+        49,
+        77,
+        124,
+        147,
+        38,
+        214,
+        238,
+        7,
+        35,
+        87
+      ]
+    },
+    "name": "El Padrino II [dvdrip][spanish]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 16,
+  "last_updated": "2016-12-24T19:31:02.474Z"
+}

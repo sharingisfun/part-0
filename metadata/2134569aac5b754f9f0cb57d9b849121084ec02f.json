@@ -1,1 +1,61 @@
-{"title":"MGMT - Oracular Spectacular [2008]","uid":4223790,"size":81186833,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2134569aac5b754f9f0cb57d9b849121084ec02f&amp;dn=MGMT+-+Oracular+Spectacular+%5B2008%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":86,"leechers":7,"uploader":"micarone","files":-1,"time":1212717944,"description":"* Complete Album @ 320kbps Variable Bitrate *\n* CD-covers included *\n\nTRACK LISTING:\n\n01. Time to Pretend (4:21)\n02. Weekend Wars (4:12)\n03. The Youth (3:48)\n04. Electric Feel (3:49)\n05. Kids (5:02)\n06. 4th Dimensional Transition (3:58)\n07. Pieces of What (2:43)\n08. Of Moons, Birds &amp; Monsters (4:46)\n09. The Handshake (3:39)\n10. Future Reflections (4:00)","torrent":{"xt":"urn:btih:2134569aac5b754f9f0cb57d9b849121084ec02f","amp;dn":"MGMT+-+Oracular+Spectacular+%5B2008%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2134569aac5b754f9f0cb57d9b849121084ec02f","infoHashBuffer":{"type":"Buffer","data":[33,52,86,154,172,91,117,79,159,12,181,125,155,132,145,33,8,78,192,47]},"announce":[],"urlList":[]}}
+{
+  "title": "MGMT - Oracular Spectacular [2008]",
+  "uid": 4223790,
+  "size": 81186833,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2134569aac5b754f9f0cb57d9b849121084ec02f&amp;dn=MGMT+-+Oracular+Spectacular+%5B2008%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 86,
+  "leechers": 7,
+  "uploader": "micarone",
+  "files": -1,
+  "time": 1212717944,
+  "description": "* Complete Album @ 320kbps Variable Bitrate *\n* CD-covers included *\n\nTRACK LISTING:\n\n01. Time to Pretend (4:21)\n02. Weekend Wars (4:12)\n03. The Youth (3:48)\n04. Electric Feel (3:49)\n05. Kids (5:02)\n06. 4th Dimensional Transition (3:58)\n07. Pieces of What (2:43)\n08. Of Moons, Birds &amp; Monsters (4:46)\n09. The Handshake (3:39)\n10. Future Reflections (4:00)",
+  "parsed": {
+    "xt": "urn:btih:2134569aac5b754f9f0cb57d9b849121084ec02f",
+    "dn": "MGMT - Oracular Spectacular [2008]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2134569aac5b754f9f0cb57d9b849121084ec02f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        33,
+        52,
+        86,
+        154,
+        172,
+        91,
+        117,
+        79,
+        159,
+        12,
+        181,
+        125,
+        155,
+        132,
+        145,
+        33,
+        8,
+        78,
+        192,
+        47
+      ]
+    },
+    "name": "MGMT - Oracular Spectacular [2008]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 93,
+  "peers": 55,
+  "last_updated": "2016-12-24T19:28:47.967Z"
+}

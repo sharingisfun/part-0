@@ -1,1 +1,61 @@
-{"title":"Mr Robot S01 480p WEB-DL x264-FUM[ettv]","uid":12345301,"size":2367400548,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:21d3eb27d214efa793df7ae0834002b9563d0834&amp;dn=Mr+Robot+S01+480p+WEB-DL+x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":19,"uploader":"ettv","files":11,"time":1441346606,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:21d3eb27d214efa793df7ae0834002b9563d0834","amp;dn":"Mr+Robot+S01+480p+WEB-DL+x264-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"21d3eb27d214efa793df7ae0834002b9563d0834","infoHashBuffer":{"type":"Buffer","data":[33,211,235,39,210,20,239,167,147,223,122,224,131,64,2,185,86,61,8,52]},"announce":[],"urlList":[]}}
+{
+  "title": "Mr Robot S01 480p WEB-DL x264-FUM[ettv]",
+  "uid": 12345301,
+  "size": 2367400548,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:21d3eb27d214efa793df7ae0834002b9563d0834&amp;dn=Mr+Robot+S01+480p+WEB-DL+x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 19,
+  "uploader": "ettv",
+  "files": 11,
+  "time": 1441346606,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:21d3eb27d214efa793df7ae0834002b9563d0834",
+    "dn": "Mr Robot S01 480p WEB-DL x264-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "21d3eb27d214efa793df7ae0834002b9563d0834",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        33,
+        211,
+        235,
+        39,
+        210,
+        20,
+        239,
+        167,
+        147,
+        223,
+        122,
+        224,
+        131,
+        64,
+        2,
+        185,
+        86,
+        61,
+        8,
+        52
+      ]
+    },
+    "name": "Mr Robot S01 480p WEB-DL x264-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 82,
+  "last_updated": "2016-12-24T19:33:49.080Z"
+}

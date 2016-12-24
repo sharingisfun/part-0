@@ -1,1 +1,61 @@
-{"title":"Louie Season 3","uid":7681762,"size":2218696931,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:22eb100dd9f597ba02d18adfd6989e318e1b7fd1&amp;dn=Louie+Season+3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":164,"leechers":22,"uploader":"politux","files":-1,"time":1348841258,"description":"\n  Louie Season 3\n\n  The Complete 3rd Season in Standard Definition.\n\n  Episodes are encoded in x264, stored in mp4, and sourced from HDTV.  \n\n  Originally released by LOL and Evolve.\n\n  E01 - Something Is Wrong\n  E02 - Telling Jokes / Set Up\n  E03 - Miami\n  E04 - Daddy's Girlfriend Part 1\n  E05 - Daddy's Girlfriend Part 2\n  E06 - Barney / Never\n  E07 - Ikea / Piano Lesson\n  E08 - Dad\n  E09 - Looking for Liz / Lilly Changes\n  E10 - Late Show Part 1\n  E11 - Late Show Part 2\n  E12 - Late Show Part 3\n  E13 - New Year's Eve","torrent":{"xt":"urn:btih:22eb100dd9f597ba02d18adfd6989e318e1b7fd1","amp;dn":"Louie+Season+3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"22eb100dd9f597ba02d18adfd6989e318e1b7fd1","infoHashBuffer":{"type":"Buffer","data":[34,235,16,13,217,245,151,186,2,209,138,223,214,152,158,49,142,27,127,209]},"announce":[],"urlList":[]}}
+{
+  "title": "Louie Season 3",
+  "uid": 7681762,
+  "size": 2218696931,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:22eb100dd9f597ba02d18adfd6989e318e1b7fd1&amp;dn=Louie+Season+3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 164,
+  "leechers": 22,
+  "uploader": "politux",
+  "files": -1,
+  "time": 1348841258,
+  "description": "\n  Louie Season 3\n\n  The Complete 3rd Season in Standard Definition.\n\n  Episodes are encoded in x264, stored in mp4, and sourced from HDTV.  \n\n  Originally released by LOL and Evolve.\n\n  E01 - Something Is Wrong\n  E02 - Telling Jokes / Set Up\n  E03 - Miami\n  E04 - Daddy's Girlfriend Part 1\n  E05 - Daddy's Girlfriend Part 2\n  E06 - Barney / Never\n  E07 - Ikea / Piano Lesson\n  E08 - Dad\n  E09 - Looking for Liz / Lilly Changes\n  E10 - Late Show Part 1\n  E11 - Late Show Part 2\n  E12 - Late Show Part 3\n  E13 - New Year's Eve",
+  "parsed": {
+    "xt": "urn:btih:22eb100dd9f597ba02d18adfd6989e318e1b7fd1",
+    "dn": "Louie Season 3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "22eb100dd9f597ba02d18adfd6989e318e1b7fd1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        34,
+        235,
+        16,
+        13,
+        217,
+        245,
+        151,
+        186,
+        2,
+        209,
+        138,
+        223,
+        214,
+        152,
+        158,
+        49,
+        142,
+        27,
+        127,
+        209
+      ]
+    },
+    "name": "Louie Season 3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 186,
+  "peers": 50,
+  "last_updated": "2016-12-24T19:42:03.043Z"
+}

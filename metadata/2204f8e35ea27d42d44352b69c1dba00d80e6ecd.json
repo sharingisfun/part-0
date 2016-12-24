@@ -1,1 +1,63 @@
-{"title":"Sweet Home 3D v.5.2 ( Win &amp; Mac + Portable )","uid":13608996,"size":318086445,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:2204f8e35ea27d42d44352b69c1dba00d80e6ecd&amp;dn=Sweet+Home+3D+v.5.2+%28+Win+%26amp%3B+Mac+%2B+Portable+%29+&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":2,"uploader":"V3N0Ms","files":5,"time":1455912378,"description":"Sweet Home 3D v.5.2 ( Win &amp; Mac + Portable ) \r\n\r\n\r\nSize: 303 MB\r\n\r\nRequires: Windows All - Mac\r\n\r\n\r\nSweet Home 3D is an interior design application that helps you to quickly draw the floor plan of your house, arrange furniture on it, and visit the results in 3D.\r\n\r\nFeatures:\r\n\r\nDraw walls and rooms upon the image of an existing plan, on one or more levels\r\nDrag and drop doors, windows and furniture from a catalog onto the plan\r\nUpdate colors, texture, size and orientation of furniture, walls, floors and ceilings\r\nView all changes simultaneously in the 3D view from any view point\r\nCreate photorealistic images and videos with various light sources\r\nImport additional 3D models and export the plan at various standard formats\r\n\r\nNew in Version 5.2, February 17, 2016:\r\n\r\nAdded Invisible option to the Furniture materials pane to hide some parts of a piece of furniture.\r\nMade resizing of a piece of furniture with its resize indicator proportional when shift key is pressed.\r\nMoved the viewport of the plan only when selected objects become invisible at screen when they are moved with the keyboard.\r\nChanged the width of the rectangle of doors and windows in the plan to take into account the width of their doorOrWindowCutOutShape property when it's smaller.\r\nAdded com.eteks.sweethome3d.resolutionScale system property to apply a scale factor to the user interface of Sweet Home 3D.\r\nAdded a Java Web Start version able to display the user interface of Sweet Home 3D at a twice larger size for users with HiDPI screens under Windows and Linux.\r\nAdded samplerAlgorithm and filter properties to the renderer properties that can be set for Sunflow.\r\nFixed a bug that could enlarge uselessly the size of a SH3D file when the texture of a material was set to its default value or reused on an other object.\r\nEnsured walls created by Plan &gt; Split wall menu item are at the same level as the split wall.\r\nReplaced visual properties set on a Home instance with simple String properties (developers are encouraged to replace calls to the deprecated getVisualProperty and setVisualProperty on a Home instance, by calls to getProperty and setProperty, because future file format might not save visual properties anymore).\r\nNew icon and logo designed by madudesign.\r\nModified installer program to delete old JREs at the end of installation process under Windows.\r\nUpdated the digital signature used to signed the application with a SHA-2 signature.\r\nReplaced JRE 8u60 by JRE 8u74 in Sweet Home 3D installers bundled with Java under Windows.\r\n\r\n\r\n* Just Run to use...\r\n\r\n* Enjoy!","torrent":{"xt":"urn:btih:2204f8e35ea27d42d44352b69c1dba00d80e6ecd","amp;dn":"Sweet+Home+3D+v.5.2+%28+Win+%26amp%3B+Mac+%2B+Portable+%29+","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2204f8e35ea27d42d44352b69c1dba00d80e6ecd","infoHashBuffer":{"type":"Buffer","data":[34,4,248,227,94,162,125,66,212,67,82,182,156,29,186,0,216,14,110,205]},"announce":[],"urlList":[]}}
+{
+  "title": "Sweet Home 3D v.5.2 ( Win &amp; Mac + Portable )",
+  "uid": 13608996,
+  "size": 318086445,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:2204f8e35ea27d42d44352b69c1dba00d80e6ecd&amp;dn=Sweet+Home+3D+v.5.2+%28+Win+%26amp%3B+Mac+%2B+Portable+%29+&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 2,
+  "uploader": "V3N0Ms",
+  "files": 5,
+  "time": 1455912378,
+  "description": "Sweet Home 3D v.5.2 ( Win &amp; Mac + Portable ) \r\n\r\n\r\nSize: 303 MB\r\n\r\nRequires: Windows All - Mac\r\n\r\n\r\nSweet Home 3D is an interior design application that helps you to quickly draw the floor plan of your house, arrange furniture on it, and visit the results in 3D.\r\n\r\nFeatures:\r\n\r\nDraw walls and rooms upon the image of an existing plan, on one or more levels\r\nDrag and drop doors, windows and furniture from a catalog onto the plan\r\nUpdate colors, texture, size and orientation of furniture, walls, floors and ceilings\r\nView all changes simultaneously in the 3D view from any view point\r\nCreate photorealistic images and videos with various light sources\r\nImport additional 3D models and export the plan at various standard formats\r\n\r\nNew in Version 5.2, February 17, 2016:\r\n\r\nAdded Invisible option to the Furniture materials pane to hide some parts of a piece of furniture.\r\nMade resizing of a piece of furniture with its resize indicator proportional when shift key is pressed.\r\nMoved the viewport of the plan only when selected objects become invisible at screen when they are moved with the keyboard.\r\nChanged the width of the rectangle of doors and windows in the plan to take into account the width of their doorOrWindowCutOutShape property when it's smaller.\r\nAdded com.eteks.sweethome3d.resolutionScale system property to apply a scale factor to the user interface of Sweet Home 3D.\r\nAdded a Java Web Start version able to display the user interface of Sweet Home 3D at a twice larger size for users with HiDPI screens under Windows and Linux.\r\nAdded samplerAlgorithm and filter properties to the renderer properties that can be set for Sunflow.\r\nFixed a bug that could enlarge uselessly the size of a SH3D file when the texture of a material was set to its default value or reused on an other object.\r\nEnsured walls created by Plan &gt; Split wall menu item are at the same level as the split wall.\r\nReplaced visual properties set on a Home instance with simple String properties (developers are encouraged to replace calls to the deprecated getVisualProperty and setVisualProperty on a Home instance, by calls to getProperty and setProperty, because future file format might not save visual properties anymore).\r\nNew icon and logo designed by madudesign.\r\nModified installer program to delete old JREs at the end of installation process under Windows.\r\nUpdated the digital signature used to signed the application with a SHA-2 signature.\r\nReplaced JRE 8u60 by JRE 8u74 in Sweet Home 3D installers bundled with Java under Windows.\r\n\r\n\r\n* Just Run to use...\r\n\r\n* Enjoy!",
+  "parsed": {
+    "xt": "urn:btih:2204f8e35ea27d42d44352b69c1dba00d80e6ecd",
+    "dn": "Sweet Home 3D v.5.2 ( Win &amp; Mac   Portable ) ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "2204f8e35ea27d42d44352b69c1dba00d80e6ecd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        34,
+        4,
+        248,
+        227,
+        94,
+        162,
+        125,
+        66,
+        212,
+        67,
+        82,
+        182,
+        156,
+        29,
+        186,
+        0,
+        216,
+        14,
+        110,
+        205
+      ]
+    },
+    "name": "Sweet Home 3D v.5.2 ( Win &amp; Mac   Portable ) ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 98,
+  "last_updated": "2016-12-24T19:35:03.382Z"
+}
