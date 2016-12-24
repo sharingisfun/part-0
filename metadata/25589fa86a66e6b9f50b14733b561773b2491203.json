@@ -1,1 +1,63 @@
-{"title":"Carmageddon.Reincarnation-CODEX","uid":15964239,"size":16895839,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:25589fa86a66e6b9f50b14733b561773b2491203&amp;dn=Carmageddon.Reincarnation-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":105,"leechers":60,"uploader":"trwetwr","files":3,"time":1475707036,"description":"Good Game","torrent":{"xt":"urn:btih:25589fa86a66e6b9f50b14733b561773b2491203","amp;dn":"Carmageddon.Reincarnation-CODEX","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"25589fa86a66e6b9f50b14733b561773b2491203","infoHashBuffer":{"type":"Buffer","data":[37,88,159,168,106,102,230,185,245,11,20,115,59,86,23,115,178,73,18,3]},"announce":[],"urlList":[]}}
+{
+  "title": "Carmageddon.Reincarnation-CODEX",
+  "uid": 15964239,
+  "size": 16895839,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:25589fa86a66e6b9f50b14733b561773b2491203&amp;dn=Carmageddon.Reincarnation-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 105,
+  "leechers": 60,
+  "uploader": "trwetwr",
+  "files": 3,
+  "time": 1475707036,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:25589fa86a66e6b9f50b14733b561773b2491203",
+    "dn": "Carmageddon.Reincarnation-CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "25589fa86a66e6b9f50b14733b561773b2491203",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        37,
+        88,
+        159,
+        168,
+        106,
+        102,
+        230,
+        185,
+        245,
+        11,
+        20,
+        115,
+        59,
+        86,
+        23,
+        115,
+        178,
+        73,
+        18,
+        3
+      ]
+    },
+    "name": "Carmageddon.Reincarnation-CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 165,
+  "peers": 4,
+  "last_updated": "2016-12-24T20:01:29.609Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Major Lazer - Watch Out For This [Bumaye] (Dimitri Vegas &amp; L","uid":9549026,"size":12232886,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2555fe40a971c0c3cbd7b76571798ee9316faadb&amp;dn=Major+Lazer+-+Watch+Out+For+This+%5BBumaye%5D+%28Dimitri+Vegas+%26amp%3B+L&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":0,"uploader":"yeahsx","files":-1,"time":1391195479,"description":"Label: Secretly Canadian\nArtist: Major Lazer\nAudio Bit Rate: 320 Kbps\nDuration: 05:01 min\nBPM: 128\nGenre: Electro House\nCatalog # 656605029290\nCover: Yes\nFormat/Codec: .mp3","torrent":{"xt":"urn:btih:2555fe40a971c0c3cbd7b76571798ee9316faadb","amp;dn":"Major+Lazer+-+Watch+Out+For+This+%5BBumaye%5D+%28Dimitri+Vegas+%26amp%3B+L","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2555fe40a971c0c3cbd7b76571798ee9316faadb","infoHashBuffer":{"type":"Buffer","data":[37,85,254,64,169,113,192,195,203,215,183,101,113,121,142,233,49,111,170,219]},"announce":[],"urlList":[]}}
+{
+  "title": "Major Lazer - Watch Out For This [Bumaye] (Dimitri Vegas &amp; L",
+  "uid": 9549026,
+  "size": 12232886,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2555fe40a971c0c3cbd7b76571798ee9316faadb&amp;dn=Major+Lazer+-+Watch+Out+For+This+%5BBumaye%5D+%28Dimitri+Vegas+%26amp%3B+L&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 0,
+  "uploader": "yeahsx",
+  "files": -1,
+  "time": 1391195479,
+  "description": "Label: Secretly Canadian\nArtist: Major Lazer\nAudio Bit Rate: 320 Kbps\nDuration: 05:01 min\nBPM: 128\nGenre: Electro House\nCatalog # 656605029290\nCover: Yes\nFormat/Codec: .mp3",
+  "parsed": {
+    "xt": "urn:btih:2555fe40a971c0c3cbd7b76571798ee9316faadb",
+    "dn": "Major Lazer - Watch Out For This [Bumaye] (Dimitri Vegas &amp; L",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2555fe40a971c0c3cbd7b76571798ee9316faadb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        37,
+        85,
+        254,
+        64,
+        169,
+        113,
+        192,
+        195,
+        203,
+        215,
+        183,
+        101,
+        113,
+        121,
+        142,
+        233,
+        49,
+        111,
+        170,
+        219
+      ]
+    },
+    "name": "Major Lazer - Watch Out For This [Bumaye] (Dimitri Vegas &amp; L",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 0,
+  "last_updated": "2016-12-24T20:01:21.581Z"
+}

@@ -1,1 +1,61 @@
-{"title":"American.Horror.Story.S01E02.FRENCH.LD.HDTV.XviD-EPZ","uid":7245275,"size":365016496,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:247b64d4195219445e16bbee79e8e6094e124bbb&amp;dn=American.Horror.Story.S01E02.FRENCH.LD.HDTV.XviD-EPZ&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":69,"leechers":1,"uploader":"maximersk","files":2,"time":1336262362,"description":"American.Horror.Story.S01E02.FRENCH.LD.HDTV.XviD-EPZ","torrent":{"xt":"urn:btih:247b64d4195219445e16bbee79e8e6094e124bbb","amp;dn":"American.Horror.Story.S01E02.FRENCH.LD.HDTV.XviD-EPZ","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"247b64d4195219445e16bbee79e8e6094e124bbb","infoHashBuffer":{"type":"Buffer","data":[36,123,100,212,25,82,25,68,94,22,187,238,121,232,230,9,78,18,75,187]},"announce":[],"urlList":[]}}
+{
+  "title": "American.Horror.Story.S01E02.FRENCH.LD.HDTV.XviD-EPZ",
+  "uid": 7245275,
+  "size": 365016496,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:247b64d4195219445e16bbee79e8e6094e124bbb&amp;dn=American.Horror.Story.S01E02.FRENCH.LD.HDTV.XviD-EPZ&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 69,
+  "leechers": 1,
+  "uploader": "maximersk",
+  "files": 2,
+  "time": 1336262362,
+  "description": "American.Horror.Story.S01E02.FRENCH.LD.HDTV.XviD-EPZ",
+  "parsed": {
+    "xt": "urn:btih:247b64d4195219445e16bbee79e8e6094e124bbb",
+    "dn": "American.Horror.Story.S01E02.FRENCH.LD.HDTV.XviD-EPZ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "247b64d4195219445e16bbee79e8e6094e124bbb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        36,
+        123,
+        100,
+        212,
+        25,
+        82,
+        25,
+        68,
+        94,
+        22,
+        187,
+        238,
+        121,
+        232,
+        230,
+        9,
+        78,
+        18,
+        75,
+        187
+      ]
+    },
+    "name": "American.Horror.Story.S01E02.FRENCH.LD.HDTV.XviD-EPZ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 51,
+  "last_updated": "2016-12-24T19:54:15.855Z"
+}

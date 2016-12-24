@@ -1,1 +1,63 @@
-{"title":"Zara Larsson - Ainâ€™t My Fault MP3 , 2016","uid":15741879,"size":9274764,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2529bdbbce25d5c4d513d99f1f9f85865af86d11&amp;dn=Zara+Larsson+-+Ain%26rsquo%3Bt+My+Fault+MP3+%2C+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":2,"uploader":"NikiPink","files":1,"time":1472923378,"description":"Single\r\n\r\nMP3 320 kbps\r\n\r\nGenre: Pop\r\n\r\nRelease Date: September 2016","torrent":{"xt":"urn:btih:2529bdbbce25d5c4d513d99f1f9f85865af86d11","amp;dn":"Zara+Larsson+-+Ain%26rsquo%3Bt+My+Fault+MP3+%2C+2016","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2529bdbbce25d5c4d513d99f1f9f85865af86d11","infoHashBuffer":{"type":"Buffer","data":[37,41,189,187,206,37,213,196,213,19,217,159,31,159,133,134,90,248,109,17]},"announce":[],"urlList":[]}}
+{
+  "title": "Zara Larsson - Ainâ€™t My Fault MP3 , 2016",
+  "uid": 15741879,
+  "size": 9274764,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2529bdbbce25d5c4d513d99f1f9f85865af86d11&amp;dn=Zara+Larsson+-+Ain%26rsquo%3Bt+My+Fault+MP3+%2C+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 2,
+  "uploader": "NikiPink",
+  "files": 1,
+  "time": 1472923378,
+  "description": "Single\r\n\r\nMP3 320 kbps\r\n\r\nGenre: Pop\r\n\r\nRelease Date: September 2016",
+  "parsed": {
+    "xt": "urn:btih:2529bdbbce25d5c4d513d99f1f9f85865af86d11",
+    "dn": "Zara Larsson - Ain&rsquo;t My Fault MP3 , 2016",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "2529bdbbce25d5c4d513d99f1f9f85865af86d11",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        37,
+        41,
+        189,
+        187,
+        206,
+        37,
+        213,
+        196,
+        213,
+        19,
+        217,
+        159,
+        31,
+        159,
+        133,
+        134,
+        90,
+        248,
+        109,
+        17
+      ]
+    },
+    "name": "Zara Larsson - Ain&rsquo;t My Fault MP3 , 2016",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 110,
+  "last_updated": "2016-12-24T19:59:15.077Z"
+}

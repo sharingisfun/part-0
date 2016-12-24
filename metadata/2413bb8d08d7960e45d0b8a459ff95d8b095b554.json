@@ -1,1 +1,61 @@
-{"title":"Mother Mother - Very Good Bad Thing","uid":11382334,"size":94210375,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2413bb8d08d7960e45d0b8a459ff95d8b095b554&amp;dn=Mother+Mother+-+Very+Good+Bad+Thing&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":0,"uploader":"bluestjay","files":-1,"time":1415227569,"description":"Very Good Bad Thing:\n\n1. Get Out the Way\n2. Monkey Tree\n3. Modern Love\n4. Reaper Man\n5. I Go Hungry\n6. Have It Out\n7. Very Good Bad Thing\n8. Kept Down\n9. Shout If You Know\n10. Alone and Sublime\n\nTour dates:\n\n11/10 Halifax, NS - Forum Multi Purpose Centre\n11/12 Quebec City, QC - Le Cercle\n11/13 Montreal, QC - Le National\n11/15 Toronto, ON - The Danforth Music Hall\n11/20 Ottawa, ON - Algonquin Commons Theatre\n11/21 London, ON - London Music Hall\n11/22 Hamilton, ON - Hamilton Place\n11/24 Guelph, ON - Guelph Concert Theatre\n11/25 Peterborough, ON - The Venue\n11/28 Winnipeg, MB - Burton Cummings Theatre\n11/29 Regina, SK - The Owl\n12/01 Saskatoon, SK - O'Brians Event Centre\n12/02 Lethbridge, AB - Average Joes\n12/04 Edmonton, AB - Shaw Conference Centre\n12/05 Red Deer, AB - Red Deer Memorial Centre\n12/06 Calgary, AB - Grey Eagle Event Centre\n12/09 Victoria, BC - Royal Theatre\n12/10 Victoria, BC - Royal Theatre\n12/11 Nanaimo, BC - The Port Theatre\n12/13 Vancouver, BC - The Orpheum","torrent":{"xt":"urn:btih:2413bb8d08d7960e45d0b8a459ff95d8b095b554","amp;dn":"Mother+Mother+-+Very+Good+Bad+Thing","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2413bb8d08d7960e45d0b8a459ff95d8b095b554","infoHashBuffer":{"type":"Buffer","data":[36,19,187,141,8,215,150,14,69,208,184,164,89,255,149,216,176,149,181,84]},"announce":[],"urlList":[]}}
+{
+  "title": "Mother Mother - Very Good Bad Thing",
+  "uid": 11382334,
+  "size": 94210375,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2413bb8d08d7960e45d0b8a459ff95d8b095b554&amp;dn=Mother+Mother+-+Very+Good+Bad+Thing&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 0,
+  "uploader": "bluestjay",
+  "files": -1,
+  "time": 1415227569,
+  "description": "Very Good Bad Thing:\n\n1. Get Out the Way\n2. Monkey Tree\n3. Modern Love\n4. Reaper Man\n5. I Go Hungry\n6. Have It Out\n7. Very Good Bad Thing\n8. Kept Down\n9. Shout If You Know\n10. Alone and Sublime\n\nTour dates:\n\n11/10 Halifax, NS - Forum Multi Purpose Centre\n11/12 Quebec City, QC - Le Cercle\n11/13 Montreal, QC - Le National\n11/15 Toronto, ON - The Danforth Music Hall\n11/20 Ottawa, ON - Algonquin Commons Theatre\n11/21 London, ON - London Music Hall\n11/22 Hamilton, ON - Hamilton Place\n11/24 Guelph, ON - Guelph Concert Theatre\n11/25 Peterborough, ON - The Venue\n11/28 Winnipeg, MB - Burton Cummings Theatre\n11/29 Regina, SK - The Owl\n12/01 Saskatoon, SK - O'Brians Event Centre\n12/02 Lethbridge, AB - Average Joes\n12/04 Edmonton, AB - Shaw Conference Centre\n12/05 Red Deer, AB - Red Deer Memorial Centre\n12/06 Calgary, AB - Grey Eagle Event Centre\n12/09 Victoria, BC - Royal Theatre\n12/10 Victoria, BC - Royal Theatre\n12/11 Nanaimo, BC - The Port Theatre\n12/13 Vancouver, BC - The Orpheum",
+  "parsed": {
+    "xt": "urn:btih:2413bb8d08d7960e45d0b8a459ff95d8b095b554",
+    "dn": "Mother Mother - Very Good Bad Thing",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2413bb8d08d7960e45d0b8a459ff95d8b095b554",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        36,
+        19,
+        187,
+        141,
+        8,
+        215,
+        150,
+        14,
+        69,
+        208,
+        184,
+        164,
+        89,
+        255,
+        149,
+        216,
+        176,
+        149,
+        181,
+        84
+      ]
+    },
+    "name": "Mother Mother - Very Good Bad Thing",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 11,
+  "last_updated": "2016-12-24T19:51:23.287Z"
+}

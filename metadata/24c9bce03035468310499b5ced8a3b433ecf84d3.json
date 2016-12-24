@@ -1,1 +1,63 @@
-{"title":"Football.Manager.2016-NoGrp","uid":15964310,"size":506529170,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:24c9bce03035468310499b5ced8a3b433ecf84d3&amp;dn=Football.Manager.2016-NoGrp&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":393,"leechers":73,"uploader":"4phishindavel1","files":1,"time":1475707385,"description":"\n\r\n\r\nMinimum System Requirements:\r\nOS: Windows XP, Vista, 7, 8\r\nProcessor: Intel Pentium 4, Intel Core, AMD Athlon - XP: 1.6GHz+ V/7/8: 2.2GHz+\r\nMemory: 1 GB RAM\r\nGraphics: NVidia GeForce FX 5900 Ultra, ATI Radeon 9800, Intel GMA X3100 - 128MB VRAM\r\nDirectX: Version 9.0c\r\nHard Drive: 3 GB available space\r\n\r\nInstallation:\r\n1. Mount or Burn iso file.\r\n2. Install the game.\r\n3. Play!","torrent":{"xt":"urn:btih:24c9bce03035468310499b5ced8a3b433ecf84d3","amp;dn":"Football.Manager.2016-NoGrp","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"24c9bce03035468310499b5ced8a3b433ecf84d3","infoHashBuffer":{"type":"Buffer","data":[36,201,188,224,48,53,70,131,16,73,155,92,237,138,59,67,62,207,132,211]},"announce":[],"urlList":[]}}
+{
+  "title": "Football.Manager.2016-NoGrp",
+  "uid": 15964310,
+  "size": 506529170,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:24c9bce03035468310499b5ced8a3b433ecf84d3&amp;dn=Football.Manager.2016-NoGrp&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 393,
+  "leechers": 73,
+  "uploader": "4phishindavel1",
+  "files": 1,
+  "time": 1475707385,
+  "description": "\n\r\n\r\nMinimum System Requirements:\r\nOS: Windows XP, Vista, 7, 8\r\nProcessor: Intel Pentium 4, Intel Core, AMD Athlon - XP: 1.6GHz+ V/7/8: 2.2GHz+\r\nMemory: 1 GB RAM\r\nGraphics: NVidia GeForce FX 5900 Ultra, ATI Radeon 9800, Intel GMA X3100 - 128MB VRAM\r\nDirectX: Version 9.0c\r\nHard Drive: 3 GB available space\r\n\r\nInstallation:\r\n1. Mount or Burn iso file.\r\n2. Install the game.\r\n3. Play!",
+  "parsed": {
+    "xt": "urn:btih:24c9bce03035468310499b5ced8a3b433ecf84d3",
+    "dn": "Football.Manager.2016-NoGrp",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "24c9bce03035468310499b5ced8a3b433ecf84d3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        36,
+        201,
+        188,
+        224,
+        48,
+        53,
+        70,
+        131,
+        16,
+        73,
+        155,
+        92,
+        237,
+        138,
+        59,
+        67,
+        62,
+        207,
+        132,
+        211
+      ]
+    },
+    "name": "Football.Manager.2016-NoGrp",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 466,
+  "peers": 2,
+  "last_updated": "2016-12-24T19:56:54.456Z"
+}

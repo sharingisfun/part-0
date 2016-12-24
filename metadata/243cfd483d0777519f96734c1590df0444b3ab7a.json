@@ -1,1 +1,61 @@
-{"title":"R. City Ft. Adam Levine-Locked Away.mp3","uid":12165278,"size":3646416,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:243cfd483d0777519f96734c1590df0444b3ab7a&amp;dn=R.+City+Ft.+Adam+Levine-Locked+Away.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":328,"leechers":16,"uploader":"mark4705","files":1,"time":1438014109,"description":"R. City Ft. Adam Levine-Locked Away","torrent":{"xt":"urn:btih:243cfd483d0777519f96734c1590df0444b3ab7a","amp;dn":"R.+City+Ft.+Adam+Levine-Locked+Away.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"243cfd483d0777519f96734c1590df0444b3ab7a","infoHashBuffer":{"type":"Buffer","data":[36,60,253,72,61,7,119,81,159,150,115,76,21,144,223,4,68,179,171,122]},"announce":[],"urlList":[]}}
+{
+  "title": "R. City Ft. Adam Levine-Locked Away.mp3",
+  "uid": 12165278,
+  "size": 3646416,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:243cfd483d0777519f96734c1590df0444b3ab7a&amp;dn=R.+City+Ft.+Adam+Levine-Locked+Away.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 328,
+  "leechers": 16,
+  "uploader": "mark4705",
+  "files": 1,
+  "time": 1438014109,
+  "description": "R. City Ft. Adam Levine-Locked Away",
+  "parsed": {
+    "xt": "urn:btih:243cfd483d0777519f96734c1590df0444b3ab7a",
+    "dn": "R. City Ft. Adam Levine-Locked Away.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "243cfd483d0777519f96734c1590df0444b3ab7a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        36,
+        60,
+        253,
+        72,
+        61,
+        7,
+        119,
+        81,
+        159,
+        150,
+        115,
+        76,
+        21,
+        144,
+        223,
+        4,
+        68,
+        179,
+        171,
+        122
+      ]
+    },
+    "name": "R. City Ft. Adam Levine-Locked Away.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 344,
+  "peers": 173,
+  "last_updated": "2016-12-24T19:52:35.522Z"
+}

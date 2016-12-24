@@ -1,1 +1,61 @@
-{"title":"Ocean's.11[2001]DvDrip[Eng]-aXXo","uid":4472935,"size":736061900,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:241c05ed86f8e96c026ce20045679967e2dc9abf&amp;dn=Ocean%5C%27s.11%5B2001%5DDvDrip%5BEng%5D-aXXo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":"circlensess","files":3,"time":1225212893,"description":"\n","torrent":{"xt":"urn:btih:241c05ed86f8e96c026ce20045679967e2dc9abf","amp;dn":"Ocean%5C%27s.11%5B2001%5DDvDrip%5BEng%5D-aXXo","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"241c05ed86f8e96c026ce20045679967e2dc9abf","infoHashBuffer":{"type":"Buffer","data":[36,28,5,237,134,248,233,108,2,108,226,0,69,103,153,103,226,220,154,191]},"announce":[],"urlList":[]}}
+{
+  "title": "Ocean's.11[2001]DvDrip[Eng]-aXXo",
+  "uid": 4472935,
+  "size": 736061900,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:241c05ed86f8e96c026ce20045679967e2dc9abf&amp;dn=Ocean%5C%27s.11%5B2001%5DDvDrip%5BEng%5D-aXXo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": "circlensess",
+  "files": 3,
+  "time": 1225212893,
+  "description": "\n",
+  "parsed": {
+    "xt": "urn:btih:241c05ed86f8e96c026ce20045679967e2dc9abf",
+    "dn": "Ocean\\'s.11[2001]DvDrip[Eng]-aXXo",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "241c05ed86f8e96c026ce20045679967e2dc9abf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        36,
+        28,
+        5,
+        237,
+        134,
+        248,
+        233,
+        108,
+        2,
+        108,
+        226,
+        0,
+        69,
+        103,
+        153,
+        103,
+        226,
+        220,
+        154,
+        191
+      ]
+    },
+    "name": "Ocean\\'s.11[2001]DvDrip[Eng]-aXXo",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 8,
+  "last_updated": "2016-12-24T19:51:39.332Z"
+}

@@ -1,1 +1,61 @@
-{"title":"WinRAR 3.93 Intel MAC","uid":5575776,"size":50006638,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:252395618fb51259eec4bcc8812a4f5251ed9551&amp;dn=WinRAR+3.93+Intel+MAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":0,"uploader":"ReliableTorrent","files":-1,"time":1274380646,"description":"* For Intel Mac + Wineskin\n* mount and drag to your Application Folder.\n\nInfo : \n\nWinRAR is a powerful archive manager. It can backup your data and reduce the size of\nemail attachments, decompress RAR, ZIP and other files downloaded from Internet and\ncreate new archives in RAR and ZIP file format. This mac app uses a built-in version of\nWine 1.1.43. Wine lets you run Windows software on other operating systems. With\nWine, you can install and run these applications just like you would in Windows.\n\nThe only issue with using the exact windows app is that it doesn't understand the OSX\nway of doing things. Your system is called Z and in that folder you have your top level HD files and folders. Hidden files on mac aren't hidden so can get in the way... There's not an easy drag and drop function yet, so everything has to be done within the browser.\n\nScreenshots :  &lt;a href=&quot;\nhttp://ShareMyChart.com/farzadim/charts/-eOGcpCm1ef.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://ShareMyChart.com/farzadim/charts/-eOGcpCm1ef.jpg&lt;/a&gt;\n &lt;a href=&quot;\nhttp://ShareMyChart.com/farzadim/charts/-dYAvE27ImB.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://ShareMyChart.com/farzadim/charts/-dYAvE27ImB.jpg&lt;/a&gt;","torrent":{"xt":"urn:btih:252395618fb51259eec4bcc8812a4f5251ed9551","amp;dn":"WinRAR+3.93+Intel+MAC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"252395618fb51259eec4bcc8812a4f5251ed9551","infoHashBuffer":{"type":"Buffer","data":[37,35,149,97,143,181,18,89,238,196,188,200,129,42,79,82,81,237,149,81]},"announce":[],"urlList":[]}}
+{
+  "title": "WinRAR 3.93 Intel MAC",
+  "uid": 5575776,
+  "size": 50006638,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:252395618fb51259eec4bcc8812a4f5251ed9551&amp;dn=WinRAR+3.93+Intel+MAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 0,
+  "uploader": "ReliableTorrent",
+  "files": -1,
+  "time": 1274380646,
+  "description": "* For Intel Mac + Wineskin\n* mount and drag to your Application Folder.\n\nInfo : \n\nWinRAR is a powerful archive manager. It can backup your data and reduce the size of\nemail attachments, decompress RAR, ZIP and other files downloaded from Internet and\ncreate new archives in RAR and ZIP file format. This mac app uses a built-in version of\nWine 1.1.43. Wine lets you run Windows software on other operating systems. With\nWine, you can install and run these applications just like you would in Windows.\n\nThe only issue with using the exact windows app is that it doesn't understand the OSX\nway of doing things. Your system is called Z and in that folder you have your top level HD files and folders. Hidden files on mac aren't hidden so can get in the way... There's not an easy drag and drop function yet, so everything has to be done within the browser.\n\nScreenshots :  &lt;a href=&quot;\nhttp://ShareMyChart.com/farzadim/charts/-eOGcpCm1ef.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://ShareMyChart.com/farzadim/charts/-eOGcpCm1ef.jpg&lt;/a&gt;\n &lt;a href=&quot;\nhttp://ShareMyChart.com/farzadim/charts/-dYAvE27ImB.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://ShareMyChart.com/farzadim/charts/-dYAvE27ImB.jpg&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:252395618fb51259eec4bcc8812a4f5251ed9551",
+    "dn": "WinRAR 3.93 Intel MAC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "252395618fb51259eec4bcc8812a4f5251ed9551",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        37,
+        35,
+        149,
+        97,
+        143,
+        181,
+        18,
+        89,
+        238,
+        196,
+        188,
+        200,
+        129,
+        42,
+        79,
+        82,
+        81,
+        237,
+        149,
+        81
+      ]
+    },
+    "name": "WinRAR 3.93 Intel MAC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 21,
+  "last_updated": "2016-12-24T19:59:03.021Z"
+}

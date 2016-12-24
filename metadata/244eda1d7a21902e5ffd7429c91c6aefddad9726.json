@@ -1,1 +1,61 @@
-{"title":"Jay-Z - The Black Album","uid":4490934,"size":52884118,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:244eda1d7a21902e5ffd7429c91c6aefddad9726&amp;dn=Jay-Z+-+The+Black+Album&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":1,"uploader":"whatalegend123","files":14,"time":1225982982,"description":"Track Listings:\n\n1. Interlude (Jay-Z/The Black Album)\n2. December 4th\n3. What More Can I Say\n4. Encore\n5. Change Clothes\n6. Dirt Off Your Shoulder\n7. Threat\n8. Moment Of Clarity\n9. 99 Problems\n10. Public Service Announcement (Interlude)\n11. Justify My Thug\n12. Lucifer\n13. Allure\n14. My 1st Song\n15. Change Clothes - Jay-Z, Pharrell","torrent":{"xt":"urn:btih:244eda1d7a21902e5ffd7429c91c6aefddad9726","amp;dn":"Jay-Z+-+The+Black+Album","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"244eda1d7a21902e5ffd7429c91c6aefddad9726","infoHashBuffer":{"type":"Buffer","data":[36,78,218,29,122,33,144,46,95,253,116,41,201,28,106,239,221,173,151,38]},"announce":[],"urlList":[]}}
+{
+  "title": "Jay-Z - The Black Album",
+  "uid": 4490934,
+  "size": 52884118,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:244eda1d7a21902e5ffd7429c91c6aefddad9726&amp;dn=Jay-Z+-+The+Black+Album&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 1,
+  "uploader": "whatalegend123",
+  "files": 14,
+  "time": 1225982982,
+  "description": "Track Listings:\n\n1. Interlude (Jay-Z/The Black Album)\n2. December 4th\n3. What More Can I Say\n4. Encore\n5. Change Clothes\n6. Dirt Off Your Shoulder\n7. Threat\n8. Moment Of Clarity\n9. 99 Problems\n10. Public Service Announcement (Interlude)\n11. Justify My Thug\n12. Lucifer\n13. Allure\n14. My 1st Song\n15. Change Clothes - Jay-Z, Pharrell",
+  "parsed": {
+    "xt": "urn:btih:244eda1d7a21902e5ffd7429c91c6aefddad9726",
+    "dn": "Jay-Z - The Black Album",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "244eda1d7a21902e5ffd7429c91c6aefddad9726",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        36,
+        78,
+        218,
+        29,
+        122,
+        33,
+        144,
+        46,
+        95,
+        253,
+        116,
+        41,
+        201,
+        28,
+        106,
+        239,
+        221,
+        173,
+        151,
+        38
+      ]
+    },
+    "name": "Jay-Z - The Black Album",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 15,
+  "last_updated": "2016-12-24T19:53:05.615Z"
+}

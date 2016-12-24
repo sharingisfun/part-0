@@ -1,1 +1,61 @@
-{"title":"Mazzy Star - Dicography ( 3 Albums )","uid":3596851,"size":254616322,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:24f0c51c486e48ec5a00f104d4b23738ecbe78b2&amp;dn=Mazzy+Star+-+Dicography+%28+3+Albums+%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":2,"uploader":"s.shelley","files":33,"time":1168917365,"description":"Mazzy Star - She Hangs Brightly  (1990)\n\nMazzy Star - So Tonight That I Might See  (1993)\n\nMAzzy Star - Among My Swan  (1996)\n\n\n\n\n\nEnjoy...","torrent":{"xt":"urn:btih:24f0c51c486e48ec5a00f104d4b23738ecbe78b2","amp;dn":"Mazzy+Star+-+Dicography+%28+3+Albums+%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"24f0c51c486e48ec5a00f104d4b23738ecbe78b2","infoHashBuffer":{"type":"Buffer","data":[36,240,197,28,72,110,72,236,90,0,241,4,212,178,55,56,236,190,120,178]},"announce":[],"urlList":[]}}
+{
+  "title": "Mazzy Star - Dicography ( 3 Albums )",
+  "uid": 3596851,
+  "size": 254616322,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:24f0c51c486e48ec5a00f104d4b23738ecbe78b2&amp;dn=Mazzy+Star+-+Dicography+%28+3+Albums+%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 2,
+  "uploader": "s.shelley",
+  "files": 33,
+  "time": 1168917365,
+  "description": "Mazzy Star - She Hangs Brightly  (1990)\n\nMazzy Star - So Tonight That I Might See  (1993)\n\nMAzzy Star - Among My Swan  (1996)\n\n\n\n\n\nEnjoy...",
+  "parsed": {
+    "xt": "urn:btih:24f0c51c486e48ec5a00f104d4b23738ecbe78b2",
+    "dn": "Mazzy Star - Dicography ( 3 Albums )",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "24f0c51c486e48ec5a00f104d4b23738ecbe78b2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        36,
+        240,
+        197,
+        28,
+        72,
+        110,
+        72,
+        236,
+        90,
+        0,
+        241,
+        4,
+        212,
+        178,
+        55,
+        56,
+        236,
+        190,
+        120,
+        178
+      ]
+    },
+    "name": "Mazzy Star - Dicography ( 3 Albums )",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 84,
+  "last_updated": "2016-12-24T19:58:06.773Z"
+}

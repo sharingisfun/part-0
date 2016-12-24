@@ -1,1 +1,61 @@
-{"title":"Miley Cyrus - Wrecking Ball","uid":8913551,"size":8919701,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:23bd695ed98a9ddb3af3eac44fc212cb0ff77650&amp;dn=Miley+Cyrus+-+Wrecking+Ball&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":0,"uploader":"Arvind007","files":-1,"time":1379083503,"description":"Miley Cyrus - Wrecking Ball\n\nAudio\n\nFormat                                   : MPEG Audio\nDuration                                 : 3mn 40s\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nCompression mode                         : Lossy\nStream size                              : 8.39 MiB (99%)","torrent":{"xt":"urn:btih:23bd695ed98a9ddb3af3eac44fc212cb0ff77650","amp;dn":"Miley+Cyrus+-+Wrecking+Ball","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"23bd695ed98a9ddb3af3eac44fc212cb0ff77650","infoHashBuffer":{"type":"Buffer","data":[35,189,105,94,217,138,157,219,58,243,234,196,79,194,18,203,15,247,118,80]},"announce":[],"urlList":[]}}
+{
+  "title": "Miley Cyrus - Wrecking Ball",
+  "uid": 8913551,
+  "size": 8919701,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:23bd695ed98a9ddb3af3eac44fc212cb0ff77650&amp;dn=Miley+Cyrus+-+Wrecking+Ball&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 0,
+  "uploader": "Arvind007",
+  "files": -1,
+  "time": 1379083503,
+  "description": "Miley Cyrus - Wrecking Ball\n\nAudio\n\nFormat                                   : MPEG Audio\nDuration                                 : 3mn 40s\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nCompression mode                         : Lossy\nStream size                              : 8.39 MiB (99%)",
+  "parsed": {
+    "xt": "urn:btih:23bd695ed98a9ddb3af3eac44fc212cb0ff77650",
+    "dn": "Miley Cyrus - Wrecking Ball",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "23bd695ed98a9ddb3af3eac44fc212cb0ff77650",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        35,
+        189,
+        105,
+        94,
+        217,
+        138,
+        157,
+        219,
+        58,
+        243,
+        234,
+        196,
+        79,
+        194,
+        18,
+        203,
+        15,
+        247,
+        118,
+        80
+      ]
+    },
+    "name": "Miley Cyrus - Wrecking Ball",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 24,
+  "last_updated": "2016-12-24T19:48:40.728Z"
+}

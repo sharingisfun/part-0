@@ -1,1 +1,61 @@
-{"title":"AUTODESK.AUTOCAD.V2015.WIN64-ISO","uid":9791496,"size":4271180356,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:25421865b2b162085c10dd998b86018eaecb80a0&amp;dn=AUTODESK.AUTOCAD.V2015.WIN64-ISO&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":771,"leechers":83,"uploader":"Drarbg","files":2,"time":1395254521,"description":"AUTODESK.AUTOCAD.V2015.WIN64-ISO\n-----------------------------------------\nScreens :\n\n","torrent":{"xt":"urn:btih:25421865b2b162085c10dd998b86018eaecb80a0","amp;dn":"AUTODESK.AUTOCAD.V2015.WIN64-ISO","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"25421865b2b162085c10dd998b86018eaecb80a0","infoHashBuffer":{"type":"Buffer","data":[37,66,24,101,178,177,98,8,92,16,221,153,139,134,1,142,174,203,128,160]},"announce":[],"urlList":[]}}
+{
+  "title": "AUTODESK.AUTOCAD.V2015.WIN64-ISO",
+  "uid": 9791496,
+  "size": 4271180356,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:25421865b2b162085c10dd998b86018eaecb80a0&amp;dn=AUTODESK.AUTOCAD.V2015.WIN64-ISO&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 771,
+  "leechers": 83,
+  "uploader": "Drarbg",
+  "files": 2,
+  "time": 1395254521,
+  "description": "AUTODESK.AUTOCAD.V2015.WIN64-ISO\n-----------------------------------------\nScreens :\n\n",
+  "parsed": {
+    "xt": "urn:btih:25421865b2b162085c10dd998b86018eaecb80a0",
+    "dn": "AUTODESK.AUTOCAD.V2015.WIN64-ISO",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "25421865b2b162085c10dd998b86018eaecb80a0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        37,
+        66,
+        24,
+        101,
+        178,
+        177,
+        98,
+        8,
+        92,
+        16,
+        221,
+        153,
+        139,
+        134,
+        1,
+        142,
+        174,
+        203,
+        128,
+        160
+      ]
+    },
+    "name": "AUTODESK.AUTOCAD.V2015.WIN64-ISO",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 854,
+  "peers": 50,
+  "last_updated": "2016-12-24T20:00:17.317Z"
+}

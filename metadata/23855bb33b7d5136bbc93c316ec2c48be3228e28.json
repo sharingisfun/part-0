@@ -1,1 +1,61 @@
-{"title":"Pretty.Little.Liars.Season.2.480p.HDTV.H264","uid":7234730,"size":3834812081,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:23855bb33b7d5136bbc93c316ec2c48be3228e28&amp;dn=Pretty.Little.Liars.Season.2.480p.HDTV.H264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":22,"uploader":"twentyforty","files":-1,"time":1335955398,"description":"Pretty.Little.Liars.Season.2.480p.HDTV.H264","torrent":{"xt":"urn:btih:23855bb33b7d5136bbc93c316ec2c48be3228e28","amp;dn":"Pretty.Little.Liars.Season.2.480p.HDTV.H264","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"23855bb33b7d5136bbc93c316ec2c48be3228e28","infoHashBuffer":{"type":"Buffer","data":[35,133,91,179,59,125,81,54,187,201,60,49,110,194,196,139,227,34,142,40]},"announce":[],"urlList":[]}}
+{
+  "title": "Pretty.Little.Liars.Season.2.480p.HDTV.H264",
+  "uid": 7234730,
+  "size": 3834812081,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:23855bb33b7d5136bbc93c316ec2c48be3228e28&amp;dn=Pretty.Little.Liars.Season.2.480p.HDTV.H264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 22,
+  "uploader": "twentyforty",
+  "files": -1,
+  "time": 1335955398,
+  "description": "Pretty.Little.Liars.Season.2.480p.HDTV.H264",
+  "parsed": {
+    "xt": "urn:btih:23855bb33b7d5136bbc93c316ec2c48be3228e28",
+    "dn": "Pretty.Little.Liars.Season.2.480p.HDTV.H264",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "23855bb33b7d5136bbc93c316ec2c48be3228e28",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        35,
+        133,
+        91,
+        179,
+        59,
+        125,
+        81,
+        54,
+        187,
+        201,
+        60,
+        49,
+        110,
+        194,
+        196,
+        139,
+        227,
+        34,
+        142,
+        40
+      ]
+    },
+    "name": "Pretty.Little.Liars.Season.2.480p.HDTV.H264",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 18,
+  "last_updated": "2016-12-24T19:47:04.374Z"
+}
