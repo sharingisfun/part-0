@@ -1,1 +1,61 @@
-{"title":"Phoenix - Wolfgang Amadeus Phoenix [mp3-160-2009]","uid":4765444,"size":45881944,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:20efe8d2e321f85af1e83e0116a085e27314379d&amp;dn=Phoenix+-+Wolfgang+Amadeus+Phoenix+%5Bmp3-160-2009%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":5,"uploader":"trfkad","files":-1,"time":1236853597,"description":"\n01 Lisztomania\n02 1901\n03 Fences\n04 Love Like A Sunset\n05 Lasso\n06 Rome\n07 Countdown (Sick for the Big Sun)\n08 Girlfriend\n09 Armistice\n\n\nTitle: Wolfgang Amadeus Phoenix\nArtist: Phoenix\nStore Date: 25 may 2009 (?)\nUpload Date: 12 mar 2009\nLabel: Astralwerks\nGenre: Indie Rock\nCover: front\nBitrate: 160 kb/s, joint stereo\n\n\nWolfgang Amadeus Phoenix is the fourth studio album by the French rock band Phoenix. The album is mixed by Philippe Zdar who also mixed Phoenix's debut studio album, United.\n\n","torrent":{"xt":"urn:btih:20efe8d2e321f85af1e83e0116a085e27314379d","amp;dn":"Phoenix+-+Wolfgang+Amadeus+Phoenix+%5Bmp3-160-2009%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"20efe8d2e321f85af1e83e0116a085e27314379d","infoHashBuffer":{"type":"Buffer","data":[32,239,232,210,227,33,248,90,241,232,62,1,22,160,133,226,115,20,55,157]},"announce":[],"urlList":[]}}
+{
+  "title": "Phoenix - Wolfgang Amadeus Phoenix [mp3-160-2009]",
+  "uid": 4765444,
+  "size": 45881944,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:20efe8d2e321f85af1e83e0116a085e27314379d&amp;dn=Phoenix+-+Wolfgang+Amadeus+Phoenix+%5Bmp3-160-2009%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 5,
+  "uploader": "trfkad",
+  "files": -1,
+  "time": 1236853597,
+  "description": "\n01 Lisztomania\n02 1901\n03 Fences\n04 Love Like A Sunset\n05 Lasso\n06 Rome\n07 Countdown (Sick for the Big Sun)\n08 Girlfriend\n09 Armistice\n\n\nTitle: Wolfgang Amadeus Phoenix\nArtist: Phoenix\nStore Date: 25 may 2009 (?)\nUpload Date: 12 mar 2009\nLabel: Astralwerks\nGenre: Indie Rock\nCover: front\nBitrate: 160 kb/s, joint stereo\n\n\nWolfgang Amadeus Phoenix is the fourth studio album by the French rock band Phoenix. The album is mixed by Philippe Zdar who also mixed Phoenix's debut studio album, United.\n\n",
+  "parsed": {
+    "xt": "urn:btih:20efe8d2e321f85af1e83e0116a085e27314379d",
+    "dn": "Phoenix - Wolfgang Amadeus Phoenix [mp3-160-2009]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "20efe8d2e321f85af1e83e0116a085e27314379d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        32,
+        239,
+        232,
+        210,
+        227,
+        33,
+        248,
+        90,
+        241,
+        232,
+        62,
+        1,
+        22,
+        160,
+        133,
+        226,
+        115,
+        20,
+        55,
+        157
+      ]
+    },
+    "name": "Phoenix - Wolfgang Amadeus Phoenix [mp3-160-2009]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 10,
+  "last_updated": "2016-12-24T19:26:57.642Z"
+}

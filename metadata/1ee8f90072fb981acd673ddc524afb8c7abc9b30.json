@@ -1,1 +1,63 @@
-{"title":"Horace and Pete - FULL SHOW","uid":14485565,"size":4466570134,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:1ee8f90072fb981acd673ddc524afb8c7abc9b30&amp;dn=Horace+and+Pete+-+FULL+SHOW&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":151,"leechers":37,"uploader":"alexej996","files":11,"time":1462059838,"description":"Horace and Pete (stylized as Horace and Pete's Est. 1916) is an American comedy-drama web series created by Louis C.K. starring himself and Steve Buscemi as Horace and Pete, co-owners of an Irish bar, Horace and Pete's. \r\n\r\nYou can buy a show or individual episodes at https://louisck.net/show/horace-and-pete","torrent":{"xt":"urn:btih:1ee8f90072fb981acd673ddc524afb8c7abc9b30","amp;dn":"Horace+and+Pete+-+FULL+SHOW","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1ee8f90072fb981acd673ddc524afb8c7abc9b30","infoHashBuffer":{"type":"Buffer","data":[30,232,249,0,114,251,152,26,205,103,61,220,82,74,251,140,122,188,155,48]},"announce":[],"urlList":[]}}
+{
+  "title": "Horace and Pete - FULL SHOW",
+  "uid": 14485565,
+  "size": 4466570134,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:1ee8f90072fb981acd673ddc524afb8c7abc9b30&amp;dn=Horace+and+Pete+-+FULL+SHOW&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 151,
+  "leechers": 37,
+  "uploader": "alexej996",
+  "files": 11,
+  "time": 1462059838,
+  "description": "Horace and Pete (stylized as Horace and Pete's Est. 1916) is an American comedy-drama web series created by Louis C.K. starring himself and Steve Buscemi as Horace and Pete, co-owners of an Irish bar, Horace and Pete's. \r\n\r\nYou can buy a show or individual episodes at https://louisck.net/show/horace-and-pete",
+  "parsed": {
+    "xt": "urn:btih:1ee8f90072fb981acd673ddc524afb8c7abc9b30",
+    "dn": "Horace and Pete - FULL SHOW",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1ee8f90072fb981acd673ddc524afb8c7abc9b30",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        30,
+        232,
+        249,
+        0,
+        114,
+        251,
+        152,
+        26,
+        205,
+        103,
+        61,
+        220,
+        82,
+        74,
+        251,
+        140,
+        122,
+        188,
+        155,
+        48
+      ]
+    },
+    "name": "Horace and Pete - FULL SHOW",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 188,
+  "peers": 100,
+  "last_updated": "2016-12-24T19:11:48.361Z"
+}

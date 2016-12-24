@@ -1,1 +1,63 @@
-{"title":"Quantico.S01E04.HDTV.x264-LOL[ettv]","uid":12595519,"size":309042869,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:1f1a74f86736204741b801eaaa94a34467313647&amp;dn=Quantico.S01E04.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":105,"leechers":11,"uploader":"ettv","files":2,"time":1445223260,"description":"Torrent Description\r\nettv - ExtraTorrent TV Shows\r\n\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n   \nhttp://extratorrent.cc/\r\n\r\n\r\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:1f1a74f86736204741b801eaaa94a34467313647","amp;dn":"Quantico.S01E04.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1f1a74f86736204741b801eaaa94a34467313647","infoHashBuffer":{"type":"Buffer","data":[31,26,116,248,103,54,32,71,65,184,1,234,170,148,163,68,103,49,54,71]},"announce":[],"urlList":[]}}
+{
+  "title": "Quantico.S01E04.HDTV.x264-LOL[ettv]",
+  "uid": 12595519,
+  "size": 309042869,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:1f1a74f86736204741b801eaaa94a34467313647&amp;dn=Quantico.S01E04.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 105,
+  "leechers": 11,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1445223260,
+  "description": "Torrent Description\r\nettv - ExtraTorrent TV Shows\r\n\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n   \nhttp://extratorrent.cc/\r\n\r\n\r\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:1f1a74f86736204741b801eaaa94a34467313647",
+    "dn": "Quantico.S01E04.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1f1a74f86736204741b801eaaa94a34467313647",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        31,
+        26,
+        116,
+        248,
+        103,
+        54,
+        32,
+        71,
+        65,
+        184,
+        1,
+        234,
+        170,
+        148,
+        163,
+        68,
+        103,
+        49,
+        54,
+        71
+      ]
+    },
+    "name": "Quantico.S01E04.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 116,
+  "peers": 132,
+  "last_updated": "2016-12-24T19:13:22.790Z"
+}

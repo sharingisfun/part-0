@@ -1,1 +1,61 @@
-{"title":"MAGIC! - Don't Kill the Magic-[mp3-320kbps-2014]","uid":10459981,"size":101930088,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:20265d0e6af8d59a0c1faf94118e71713f5092e7&amp;dn=MAGIC%21+-+Don%27t+Kill+the+Magic-%5Bmp3-320kbps-2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":258,"leechers":16,"uploader":"simpsonrony","files":-1,"time":1404123002,"description":"Source: https://itunes.apple.com/ca/album/dont-kill-the-magic/id881629097\n\n\nTrack List:\n**********\n01 Rude\n02 No Evil\n03 Let Your Hair Down\n04 Stupid Me\n05 No Way No\n06 Paradise\n07 DonÃ¢â‚¬â„¢t Kill the Magic\n08 One Woman One Man\n09 Little Girl Big World\n10 Mama DidnÃ¢â‚¬â„¢t Raise No Fool\n11 How Do You Want To Be Remembered\n\n\nAudio Info:\n***********\n\nAudio\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nWriting library : LAME3.99.5\n","torrent":{"xt":"urn:btih:20265d0e6af8d59a0c1faf94118e71713f5092e7","amp;dn":"MAGIC%21+-+Don%27t+Kill+the+Magic-%5Bmp3-320kbps-2014%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"20265d0e6af8d59a0c1faf94118e71713f5092e7","infoHashBuffer":{"type":"Buffer","data":[32,38,93,14,106,248,213,154,12,31,175,148,17,142,113,113,63,80,146,231]},"announce":[],"urlList":[]}}
+{
+  "title": "MAGIC! - Don't Kill the Magic-[mp3-320kbps-2014]",
+  "uid": 10459981,
+  "size": 101930088,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:20265d0e6af8d59a0c1faf94118e71713f5092e7&amp;dn=MAGIC%21+-+Don%27t+Kill+the+Magic-%5Bmp3-320kbps-2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 258,
+  "leechers": 16,
+  "uploader": "simpsonrony",
+  "files": -1,
+  "time": 1404123002,
+  "description": "Source: https://itunes.apple.com/ca/album/dont-kill-the-magic/id881629097\n\n\nTrack List:\n**********\n01 Rude\n02 No Evil\n03 Let Your Hair Down\n04 Stupid Me\n05 No Way No\n06 Paradise\n07 DonÃ¢â‚¬â„¢t Kill the Magic\n08 One Woman One Man\n09 Little Girl Big World\n10 Mama DidnÃ¢â‚¬â„¢t Raise No Fool\n11 How Do You Want To Be Remembered\n\n\nAudio Info:\n***********\n\nAudio\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nWriting library : LAME3.99.5\n",
+  "parsed": {
+    "xt": "urn:btih:20265d0e6af8d59a0c1faf94118e71713f5092e7",
+    "dn": "MAGIC! - Don't Kill the Magic-[mp3-320kbps-2014]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "20265d0e6af8d59a0c1faf94118e71713f5092e7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        32,
+        38,
+        93,
+        14,
+        106,
+        248,
+        213,
+        154,
+        12,
+        31,
+        175,
+        148,
+        17,
+        142,
+        113,
+        113,
+        63,
+        80,
+        146,
+        231
+      ]
+    },
+    "name": "MAGIC! - Don't Kill the Magic-[mp3-320kbps-2014]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 274,
+  "peers": 70,
+  "last_updated": "2016-12-24T19:21:12.394Z"
+}

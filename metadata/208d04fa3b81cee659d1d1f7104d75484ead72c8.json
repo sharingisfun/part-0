@@ -1,1 +1,61 @@
-{"title":"Metallica Discography @ 320Kbps","uid":3974193,"size":1877980185,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:208d04fa3b81cee659d1d1f7104d75484ead72c8&amp;dn=Metallica+Discography+%40+320Kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":159,"leechers":37,"uploader":"BESTinTEXAS","files":144,"time":1200166550,"description":"Made from the FLAC collection of Metallica. I put all the file info in the MP3s, organized it, etc. It took a bit of time to slap this together, so I hope you can seed it!\n\nAlbums:\n(1983) Kill &amp;#039;Em All (117MB)\n(1984) Ride The Lightning (108MB)\n(1986) Master of Puppets (125MB)\n(1988) ...And Justice for All (150MB)\n(1991) Metallica (143MB) \n(1996) Load (180MB)\n(1997) Reload (174MB)\n(1998) Garage, Inc (312MB, CD1 150Mb, CD2 162MB)\n(1999) S&amp;M with the San Francisco Symphony (305MB total, CD1 153MB, CD2 151MB)\n(2003) St. Anger (172MB)\n\nTotal size: 1.74GB\n\nHope you enjoy the torrent! Metallica rocks!","torrent":{"xt":"urn:btih:208d04fa3b81cee659d1d1f7104d75484ead72c8","amp;dn":"Metallica+Discography+%40+320Kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"208d04fa3b81cee659d1d1f7104d75484ead72c8","infoHashBuffer":{"type":"Buffer","data":[32,141,4,250,59,129,206,230,89,209,209,247,16,77,117,72,78,173,114,200]},"announce":[],"urlList":[]}}
+{
+  "title": "Metallica Discography @ 320Kbps",
+  "uid": 3974193,
+  "size": 1877980185,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:208d04fa3b81cee659d1d1f7104d75484ead72c8&amp;dn=Metallica+Discography+%40+320Kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 159,
+  "leechers": 37,
+  "uploader": "BESTinTEXAS",
+  "files": 144,
+  "time": 1200166550,
+  "description": "Made from the FLAC collection of Metallica. I put all the file info in the MP3s, organized it, etc. It took a bit of time to slap this together, so I hope you can seed it!\n\nAlbums:\n(1983) Kill &amp;#039;Em All (117MB)\n(1984) Ride The Lightning (108MB)\n(1986) Master of Puppets (125MB)\n(1988) ...And Justice for All (150MB)\n(1991) Metallica (143MB) \n(1996) Load (180MB)\n(1997) Reload (174MB)\n(1998) Garage, Inc (312MB, CD1 150Mb, CD2 162MB)\n(1999) S&amp;M with the San Francisco Symphony (305MB total, CD1 153MB, CD2 151MB)\n(2003) St. Anger (172MB)\n\nTotal size: 1.74GB\n\nHope you enjoy the torrent! Metallica rocks!",
+  "parsed": {
+    "xt": "urn:btih:208d04fa3b81cee659d1d1f7104d75484ead72c8",
+    "dn": "Metallica Discography @ 320Kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "208d04fa3b81cee659d1d1f7104d75484ead72c8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        32,
+        141,
+        4,
+        250,
+        59,
+        129,
+        206,
+        230,
+        89,
+        209,
+        209,
+        247,
+        16,
+        77,
+        117,
+        72,
+        78,
+        173,
+        114,
+        200
+      ]
+    },
+    "name": "Metallica Discography @ 320Kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 196,
+  "peers": 105,
+  "last_updated": "2016-12-24T19:24:11.043Z"
+}

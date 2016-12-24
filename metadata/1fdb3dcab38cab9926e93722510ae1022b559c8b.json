@@ -1,1 +1,63 @@
-{"title":"Carly Rae Jepsen - Emotion Side B Album 2016 mp3 320 Kbps","uid":15680300,"size":68998912,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1fdb3dcab38cab9926e93722510ae1022b559c8b&amp;dn=Carly+Rae+Jepsen+-+Emotion+Side+B+Album+2016+mp3+320+Kbps&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":2,"uploader":"NikiPink","files":9,"time":1472305320,"description":"Album\r\n\r\nMP3 320 kbps\r\n\r\nGenre: Pop\r\n\r\nRelease Date: August 2016","torrent":{"xt":"urn:btih:1fdb3dcab38cab9926e93722510ae1022b559c8b","amp;dn":"Carly+Rae+Jepsen+-+Emotion+Side+B+Album+2016+mp3+320+Kbps","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1fdb3dcab38cab9926e93722510ae1022b559c8b","infoHashBuffer":{"type":"Buffer","data":[31,219,61,202,179,140,171,153,38,233,55,34,81,10,225,2,43,85,156,139]},"announce":[],"urlList":[]}}
+{
+  "title": "Carly Rae Jepsen - Emotion Side B Album 2016 mp3 320 Kbps",
+  "uid": 15680300,
+  "size": 68998912,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1fdb3dcab38cab9926e93722510ae1022b559c8b&amp;dn=Carly+Rae+Jepsen+-+Emotion+Side+B+Album+2016+mp3+320+Kbps&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 2,
+  "uploader": "NikiPink",
+  "files": 9,
+  "time": 1472305320,
+  "description": "Album\r\n\r\nMP3 320 kbps\r\n\r\nGenre: Pop\r\n\r\nRelease Date: August 2016",
+  "parsed": {
+    "xt": "urn:btih:1fdb3dcab38cab9926e93722510ae1022b559c8b",
+    "dn": "Carly Rae Jepsen - Emotion Side B Album 2016 mp3 320 Kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1fdb3dcab38cab9926e93722510ae1022b559c8b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        31,
+        219,
+        61,
+        202,
+        179,
+        140,
+        171,
+        153,
+        38,
+        233,
+        55,
+        34,
+        81,
+        10,
+        225,
+        2,
+        43,
+        85,
+        156,
+        139
+      ]
+    },
+    "name": "Carly Rae Jepsen - Emotion Side B Album 2016 mp3 320 Kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 78,
+  "peers": 237,
+  "last_updated": "2016-12-24T19:18:55.895Z"
+}

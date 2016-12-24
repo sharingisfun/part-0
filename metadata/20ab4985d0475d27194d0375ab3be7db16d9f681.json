@@ -1,1 +1,61 @@
-{"title":"How I Met Your Mother Season 1 - 175MB HDTV","uid":6460404,"size":4042432376,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:20ab4985d0475d27194d0375ab3be7db16d9f681&amp;dn=How+I+Met+Your+Mother+Season+1+-+175MB+HDTV&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":246,"leechers":99,"uploader":"sundox","files":22,"time":1307737604,"description":"[Runtime ]........25 minutes \n[File Size ]......175mb \n[Resolution]......576x432 - 624x352\n[Language ].......English \n[Container ]......AVI container \n[Source]..........HDTV","torrent":{"xt":"urn:btih:20ab4985d0475d27194d0375ab3be7db16d9f681","amp;dn":"How+I+Met+Your+Mother+Season+1+-+175MB+HDTV","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"20ab4985d0475d27194d0375ab3be7db16d9f681","infoHashBuffer":{"type":"Buffer","data":[32,171,73,133,208,71,93,39,25,77,3,117,171,59,231,219,22,217,246,129]},"announce":[],"urlList":[]}}
+{
+  "title": "How I Met Your Mother Season 1 - 175MB HDTV",
+  "uid": 6460404,
+  "size": 4042432376,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:20ab4985d0475d27194d0375ab3be7db16d9f681&amp;dn=How+I+Met+Your+Mother+Season+1+-+175MB+HDTV&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 246,
+  "leechers": 99,
+  "uploader": "sundox",
+  "files": 22,
+  "time": 1307737604,
+  "description": "[Runtime ]........25 minutes \n[File Size ]......175mb \n[Resolution]......576x432 - 624x352\n[Language ].......English \n[Container ]......AVI container \n[Source]..........HDTV",
+  "parsed": {
+    "xt": "urn:btih:20ab4985d0475d27194d0375ab3be7db16d9f681",
+    "dn": "How I Met Your Mother Season 1 - 175MB HDTV",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "20ab4985d0475d27194d0375ab3be7db16d9f681",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        32,
+        171,
+        73,
+        133,
+        208,
+        71,
+        93,
+        39,
+        25,
+        77,
+        3,
+        117,
+        171,
+        59,
+        231,
+        219,
+        22,
+        217,
+        246,
+        129
+      ]
+    },
+    "name": "How I Met Your Mother Season 1 - 175MB HDTV",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 345,
+  "peers": 50,
+  "last_updated": "2016-12-24T19:25:07.264Z"
+}

@@ -1,1 +1,61 @@
-{"title":"X Ambassadors VHS [2015] 320","uid":12058031,"size":115207212,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:202422a3013afeb71c2ef0ec13a50c99de9a5614&amp;dn=X+Ambassadors+VHS+%5B2015%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":122,"leechers":10,"uploader":"Capajebo","files":21,"time":1435168419,"description":" &lt;a href=&quot;http://imgur.com/kQ9Iqea&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/kQ9Iqea&lt;/a&gt; : X Ambassadors VHS [2015] 320 .:. 1914 .:. TPB","torrent":{"xt":"urn:btih:202422a3013afeb71c2ef0ec13a50c99de9a5614","amp;dn":"X+Ambassadors+VHS+%5B2015%5D+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"202422a3013afeb71c2ef0ec13a50c99de9a5614","infoHashBuffer":{"type":"Buffer","data":[32,36,34,163,1,58,254,183,28,46,240,236,19,165,12,153,222,154,86,20]},"announce":[],"urlList":[]}}
+{
+  "title": "X Ambassadors VHS [2015] 320",
+  "uid": 12058031,
+  "size": 115207212,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:202422a3013afeb71c2ef0ec13a50c99de9a5614&amp;dn=X+Ambassadors+VHS+%5B2015%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 122,
+  "leechers": 10,
+  "uploader": "Capajebo",
+  "files": 21,
+  "time": 1435168419,
+  "description": " &lt;a href=&quot;http://imgur.com/kQ9Iqea&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/kQ9Iqea&lt;/a&gt; : X Ambassadors VHS [2015] 320 .:. 1914 .:. TPB",
+  "parsed": {
+    "xt": "urn:btih:202422a3013afeb71c2ef0ec13a50c99de9a5614",
+    "dn": "X Ambassadors VHS [2015] 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "202422a3013afeb71c2ef0ec13a50c99de9a5614",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        32,
+        36,
+        34,
+        163,
+        1,
+        58,
+        254,
+        183,
+        28,
+        46,
+        240,
+        236,
+        19,
+        165,
+        12,
+        153,
+        222,
+        154,
+        86,
+        20
+      ]
+    },
+    "name": "X Ambassadors VHS [2015] 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 132,
+  "peers": 207,
+  "last_updated": "2016-12-24T19:21:08.382Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Sonic heroes(PC)","uid":5425559,"size":1423929603,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:208ff509a1d6e45b3f7a9677ab7c29e7645cbdcd&amp;dn=Sonic+heroes%28PC%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":5,"uploader":"Easy2use","files":-1,"time":1268241922,"description":"Sega's legendary mascot Sonic The Hedgehog makes his historic multi-platform debut and embarks on his biggest adventure ever, with his trademark blazing speed and a new gameplay twist in &quot;Sonic Heroes.&quot; Sonic and his friends have evolved, adopting a configuration feature that lets gamers control three playable characters simultaneously, for example; Team Sonic comprises of Sonic's speed, Knuckles' power, and Tails' ability to fly, to conquer huge, challenging new worlds. This team-based gameplay marks the next evolution in Sonic's gaming career, taking platform gaming to a completely new level. Using the three formations and the powerful moves that each team member has, Sonic and his friends combine forces to battle the ultimate evil in an all-star cast.","torrent":{"xt":"urn:btih:208ff509a1d6e45b3f7a9677ab7c29e7645cbdcd","amp;dn":"Sonic+heroes%28PC%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"208ff509a1d6e45b3f7a9677ab7c29e7645cbdcd","infoHashBuffer":{"type":"Buffer","data":[32,143,245,9,161,214,228,91,63,122,150,119,171,124,41,231,100,92,189,205]},"announce":[],"urlList":[]}}
+{
+  "title": "Sonic heroes(PC)",
+  "uid": 5425559,
+  "size": 1423929603,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:208ff509a1d6e45b3f7a9677ab7c29e7645cbdcd&amp;dn=Sonic+heroes%28PC%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 5,
+  "uploader": "Easy2use",
+  "files": -1,
+  "time": 1268241922,
+  "description": "Sega's legendary mascot Sonic The Hedgehog makes his historic multi-platform debut and embarks on his biggest adventure ever, with his trademark blazing speed and a new gameplay twist in &quot;Sonic Heroes.&quot; Sonic and his friends have evolved, adopting a configuration feature that lets gamers control three playable characters simultaneously, for example; Team Sonic comprises of Sonic's speed, Knuckles' power, and Tails' ability to fly, to conquer huge, challenging new worlds. This team-based gameplay marks the next evolution in Sonic's gaming career, taking platform gaming to a completely new level. Using the three formations and the powerful moves that each team member has, Sonic and his friends combine forces to battle the ultimate evil in an all-star cast.",
+  "parsed": {
+    "xt": "urn:btih:208ff509a1d6e45b3f7a9677ab7c29e7645cbdcd",
+    "dn": "Sonic heroes(PC)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "208ff509a1d6e45b3f7a9677ab7c29e7645cbdcd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        32,
+        143,
+        245,
+        9,
+        161,
+        214,
+        228,
+        91,
+        63,
+        122,
+        150,
+        119,
+        171,
+        124,
+        41,
+        231,
+        100,
+        92,
+        189,
+        205
+      ]
+    },
+    "name": "Sonic heroes(PC)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 50,
+  "last_updated": "2016-12-24T19:24:19.078Z"
+}

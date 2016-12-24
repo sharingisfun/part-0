@@ -1,1 +1,61 @@
-{"title":"Rick_and_Morty_S02E01","uid":12082127,"size":145824972,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:1ffb54f72363facedd9c7c3a72470a33fcf32946&amp;dn=Rick_and_Morty_S02E01&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":212,"leechers":3,"uploader":"BeefcakeChan","files":2,"time":1435796268,"description":"Rick and Freaking Morty!\n\n1st episode of season 2\n\nWill Upload for bitcoin and student housing, books and class costs! lol\n\nIf anyone feels so inclined... \n\nBTC: 13CrUb3x2PbTTP6je6NNbmEBQkxWfEGFwu\n\nemail","torrent":{"xt":"urn:btih:1ffb54f72363facedd9c7c3a72470a33fcf32946","amp;dn":"Rick_and_Morty_S02E01","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1ffb54f72363facedd9c7c3a72470a33fcf32946","infoHashBuffer":{"type":"Buffer","data":[31,251,84,247,35,99,250,206,221,156,124,58,114,71,10,51,252,243,41,70]},"announce":[],"urlList":[]}}
+{
+  "title": "Rick_and_Morty_S02E01",
+  "uid": 12082127,
+  "size": 145824972,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:1ffb54f72363facedd9c7c3a72470a33fcf32946&amp;dn=Rick_and_Morty_S02E01&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 212,
+  "leechers": 3,
+  "uploader": "BeefcakeChan",
+  "files": 2,
+  "time": 1435796268,
+  "description": "Rick and Freaking Morty!\n\n1st episode of season 2\n\nWill Upload for bitcoin and student housing, books and class costs! lol\n\nIf anyone feels so inclined... \n\nBTC: 13CrUb3x2PbTTP6je6NNbmEBQkxWfEGFwu\n\nemail",
+  "parsed": {
+    "xt": "urn:btih:1ffb54f72363facedd9c7c3a72470a33fcf32946",
+    "dn": "Rick_and_Morty_S02E01",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1ffb54f72363facedd9c7c3a72470a33fcf32946",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        31,
+        251,
+        84,
+        247,
+        35,
+        99,
+        250,
+        206,
+        221,
+        156,
+        124,
+        58,
+        114,
+        71,
+        10,
+        51,
+        252,
+        243,
+        41,
+        70
+      ]
+    },
+    "name": "Rick_and_Morty_S02E01",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 215,
+  "peers": 16,
+  "last_updated": "2016-12-24T19:19:54.100Z"
+}

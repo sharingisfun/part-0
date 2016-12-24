@@ -1,1 +1,61 @@
-{"title":"Cloud Nothings &amp;bull; Here And Nowhere Else [2014] 320","uid":9686955,"size":75936236,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1f13820104922325339611866cd67806bffcf5dc&amp;dn=Cloud+Nothings+%26bull%3B+Here+And+Nowhere+Else+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":92,"leechers":0,"uploader":"Capajebo","files":-1,"time":1393786502,"description":"=============================================\nCloud Nothings - Here And Nowhere Else [2014]\n.............................................\n\nGenre ............: Lo - Fi\nYear .............: 2014\nQuality / Bitrate : MP3 @ 320\nSource ...........: WEB\nTotal Size / Time : 72 MB / 31:29\n---------------------------------\n\n::: TRACKLIST :::\n\n01 Now Hear In ..............3:30\n02 Quieter Today ............3:04\n03 Psychic Trauma ...........2:52\n04 Just See Fear ............3:08\n05 Giving Into Seeing .......3:48\n06 No Thoughts ..............3:04\n07 Pattern Walks ............7:23\n08 I'm Not Part of Me .......4:35\n.............................................\n=============================================","torrent":{"xt":"urn:btih:1f13820104922325339611866cd67806bffcf5dc","amp;dn":"Cloud+Nothings+%26bull%3B+Here+And+Nowhere+Else+%5B2014%5D+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1f13820104922325339611866cd67806bffcf5dc","infoHashBuffer":{"type":"Buffer","data":[31,19,130,1,4,146,35,37,51,150,17,134,108,214,120,6,191,252,245,220]},"announce":[],"urlList":[]}}
+{
+  "title": "Cloud Nothings &amp;bull; Here And Nowhere Else [2014] 320",
+  "uid": 9686955,
+  "size": 75936236,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1f13820104922325339611866cd67806bffcf5dc&amp;dn=Cloud+Nothings+%26bull%3B+Here+And+Nowhere+Else+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 92,
+  "leechers": 0,
+  "uploader": "Capajebo",
+  "files": -1,
+  "time": 1393786502,
+  "description": "=============================================\nCloud Nothings - Here And Nowhere Else [2014]\n.............................................\n\nGenre ............: Lo - Fi\nYear .............: 2014\nQuality / Bitrate : MP3 @ 320\nSource ...........: WEB\nTotal Size / Time : 72 MB / 31:29\n---------------------------------\n\n::: TRACKLIST :::\n\n01 Now Hear In ..............3:30\n02 Quieter Today ............3:04\n03 Psychic Trauma ...........2:52\n04 Just See Fear ............3:08\n05 Giving Into Seeing .......3:48\n06 No Thoughts ..............3:04\n07 Pattern Walks ............7:23\n08 I'm Not Part of Me .......4:35\n.............................................\n=============================================",
+  "parsed": {
+    "xt": "urn:btih:1f13820104922325339611866cd67806bffcf5dc",
+    "dn": "Cloud Nothings &bull; Here And Nowhere Else [2014] 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1f13820104922325339611866cd67806bffcf5dc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        31,
+        19,
+        130,
+        1,
+        4,
+        146,
+        35,
+        37,
+        51,
+        150,
+        17,
+        134,
+        108,
+        214,
+        120,
+        6,
+        191,
+        252,
+        245,
+        220
+      ]
+    },
+    "name": "Cloud Nothings &bull; Here And Nowhere Else [2014] 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 92,
+  "peers": 51,
+  "last_updated": "2016-12-24T19:13:02.724Z"
+}

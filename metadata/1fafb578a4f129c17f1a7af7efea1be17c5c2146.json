@@ -1,1 +1,61 @@
-{"title":"VMware Workstation 10.0.1 Build 1379776","uid":9096932,"size":514105608,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:1fafb578a4f129c17f1a7af7efea1be17c5c2146&amp;dn=VMware+Workstation+10.0.1+Build+1379776&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":253,"leechers":6,"uploader":"murphy78","files":-1,"time":1382707202,"description":"VMware Workstation 10 delivers best-in-class Windows 8 support, and innovative\nnew features that transform the way technical professionals work with virtual\nmachines, whether they reside on their PCs or on private enterprise clouds.\n   \n*New Operating System Support\n Support has been added for: \n-Windows 8.1\n-Windows 8.1 Enterprise\n-Windows Server 2012 R2\n-Ubuntu 13.10\nAs well as for the latest Fedora, CentOS, Red Hat and OpenSUSE releases.\n\n*VMware Hardware Version 10\nThis version of VMware Workstation includes VMware hardware Version 10 and is\ncompatible with vSphere 5.5. Hardware versions introduce new virtual hardware\nfunctionality and new features while enabling VMware to run legacy operating\nsystems in our virtual machines. New features included in this hardware\nversion:\n\n*16 vCPUs\n*8 Terabyte Disks\n*Virtual SATA Disk Controller\n*USB Improvements \n*More VMnets\n*SSD Pass-through \n*Expiring Virtual Machines\n*Virtual Tablet Sensors\n*User Interface Enhancements\n*Windows 8 Unity Mode Support \n*Multiple Monitor Navigation \n*Power Off Suspended Virtual Machines \n*Remote Hardware Upgrade \n*Localized into Simplified Chinese \n*New Converter \n*OVFTool \n*VMRun Enhancements \n*Cloud Management Tools \n*Embedded 30-day Trial \n*VMware KVM \n*WSX 1.1\n\nFixes from 10.0.0:\n*Easy Install supports RTM versions of Windows 8.1 and Windows Server 2012 R2\n*Workstation or Player on Windows freezes if another application is frozen.\n*Virtual machine hangs when powering off\n*Improved compatibility with some AMD CPUs\n*Virtual machines displayed incorrectly on a multi-monitor Windows host when\nthe displays have differing pixel density (DPI.)\n*Boot from CD/DVD when Legacy Floppy is disabled\n\nExtra murphy78 note: To enable EFI boot mode, edit the .VMX file and add:\nfirmware = &quot;efi&quot;\nAlternatively, to set it back to bios (legacy) boot, change to:\nfirmware = &quot;bios&quot;\n\nI've Opted not to include the keygen from 10.0.0 from ZWT. Use one of these keys.\nThere doesn't seem to be any online activation:\nMG48D-6Q38K-AZKX8-AV9N2-3ACHD\nNC2F3-DFH97-3Z2N8-9T054-92N4D\n4U2MU-D2J4J-KZT79-YK0XK-9AYHE\n1F68L-AF3DN-LZTF0-793X6-CC7QW\nHZ4W9-A32D6-KZFJ9-H98EM-ACQ5J\n\nEnjoy Pirates,\nmurphy78 MDL/TPB :)","torrent":{"xt":"urn:btih:1fafb578a4f129c17f1a7af7efea1be17c5c2146","amp;dn":"VMware+Workstation+10.0.1+Build+1379776","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1fafb578a4f129c17f1a7af7efea1be17c5c2146","infoHashBuffer":{"type":"Buffer","data":[31,175,181,120,164,241,41,193,127,26,122,247,239,234,27,225,124,92,33,70]},"announce":[],"urlList":[]}}
+{
+  "title": "VMware Workstation 10.0.1 Build 1379776",
+  "uid": 9096932,
+  "size": 514105608,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:1fafb578a4f129c17f1a7af7efea1be17c5c2146&amp;dn=VMware+Workstation+10.0.1+Build+1379776&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 253,
+  "leechers": 6,
+  "uploader": "murphy78",
+  "files": -1,
+  "time": 1382707202,
+  "description": "VMware Workstation 10 delivers best-in-class Windows 8 support, and innovative\nnew features that transform the way technical professionals work with virtual\nmachines, whether they reside on their PCs or on private enterprise clouds.\n   \n*New Operating System Support\n Support has been added for: \n-Windows 8.1\n-Windows 8.1 Enterprise\n-Windows Server 2012 R2\n-Ubuntu 13.10\nAs well as for the latest Fedora, CentOS, Red Hat and OpenSUSE releases.\n\n*VMware Hardware Version 10\nThis version of VMware Workstation includes VMware hardware Version 10 and is\ncompatible with vSphere 5.5. Hardware versions introduce new virtual hardware\nfunctionality and new features while enabling VMware to run legacy operating\nsystems in our virtual machines. New features included in this hardware\nversion:\n\n*16 vCPUs\n*8 Terabyte Disks\n*Virtual SATA Disk Controller\n*USB Improvements \n*More VMnets\n*SSD Pass-through \n*Expiring Virtual Machines\n*Virtual Tablet Sensors\n*User Interface Enhancements\n*Windows 8 Unity Mode Support \n*Multiple Monitor Navigation \n*Power Off Suspended Virtual Machines \n*Remote Hardware Upgrade \n*Localized into Simplified Chinese \n*New Converter \n*OVFTool \n*VMRun Enhancements \n*Cloud Management Tools \n*Embedded 30-day Trial \n*VMware KVM \n*WSX 1.1\n\nFixes from 10.0.0:\n*Easy Install supports RTM versions of Windows 8.1 and Windows Server 2012 R2\n*Workstation or Player on Windows freezes if another application is frozen.\n*Virtual machine hangs when powering off\n*Improved compatibility with some AMD CPUs\n*Virtual machines displayed incorrectly on a multi-monitor Windows host when\nthe displays have differing pixel density (DPI.)\n*Boot from CD/DVD when Legacy Floppy is disabled\n\nExtra murphy78 note: To enable EFI boot mode, edit the .VMX file and add:\nfirmware = &quot;efi&quot;\nAlternatively, to set it back to bios (legacy) boot, change to:\nfirmware = &quot;bios&quot;\n\nI've Opted not to include the keygen from 10.0.0 from ZWT. Use one of these keys.\nThere doesn't seem to be any online activation:\nMG48D-6Q38K-AZKX8-AV9N2-3ACHD\nNC2F3-DFH97-3Z2N8-9T054-92N4D\n4U2MU-D2J4J-KZT79-YK0XK-9AYHE\n1F68L-AF3DN-LZTF0-793X6-CC7QW\nHZ4W9-A32D6-KZFJ9-H98EM-ACQ5J\n\nEnjoy Pirates,\nmurphy78 MDL/TPB :)",
+  "parsed": {
+    "xt": "urn:btih:1fafb578a4f129c17f1a7af7efea1be17c5c2146",
+    "dn": "VMware Workstation 10.0.1 Build 1379776",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1fafb578a4f129c17f1a7af7efea1be17c5c2146",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        31,
+        175,
+        181,
+        120,
+        164,
+        241,
+        41,
+        193,
+        127,
+        26,
+        122,
+        247,
+        239,
+        234,
+        27,
+        225,
+        124,
+        92,
+        33,
+        70
+      ]
+    },
+    "name": "VMware Workstation 10.0.1 Build 1379776",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 259,
+  "peers": 50,
+  "last_updated": "2016-12-24T19:17:45.646Z"
+}
