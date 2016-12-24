@@ -1,1 +1,61 @@
-{"title":"Effortless English Lessons","uid":6137810,"size":8080364372,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:2ff02e8e59a001ad9ac663a79be0ba15069bc02c&amp;dn=Effortless+English+Lessons&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":83,"leechers":31,"uploader":"matreshka4u","files":381,"time":1296381191,"description":"Effortless English Audiosets by A.J. Hoge\n\nFlow English, \n\nEconomics, \n\nOriginal English, \n\nPower English.\n\nLearn Real English Conversation by Kristin Dodds &amp; Joe Weiss\nand extras.\n","torrent":{"xt":"urn:btih:2ff02e8e59a001ad9ac663a79be0ba15069bc02c","amp;dn":"Effortless+English+Lessons","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2ff02e8e59a001ad9ac663a79be0ba15069bc02c","infoHashBuffer":{"type":"Buffer","data":[47,240,46,142,89,160,1,173,154,198,99,167,155,224,186,21,6,155,192,44]},"announce":[],"urlList":[]}}
+{
+  "title": "Effortless English Lessons",
+  "uid": 6137810,
+  "size": 8080364372,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:2ff02e8e59a001ad9ac663a79be0ba15069bc02c&amp;dn=Effortless+English+Lessons&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 83,
+  "leechers": 31,
+  "uploader": "matreshka4u",
+  "files": 381,
+  "time": 1296381191,
+  "description": "Effortless English Audiosets by A.J. Hoge\n\nFlow English, \n\nEconomics, \n\nOriginal English, \n\nPower English.\n\nLearn Real English Conversation by Kristin Dodds &amp; Joe Weiss\nand extras.\n",
+  "parsed": {
+    "xt": "urn:btih:2ff02e8e59a001ad9ac663a79be0ba15069bc02c",
+    "dn": "Effortless English Lessons",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2ff02e8e59a001ad9ac663a79be0ba15069bc02c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        47,
+        240,
+        46,
+        142,
+        89,
+        160,
+        1,
+        173,
+        154,
+        198,
+        99,
+        167,
+        155,
+        224,
+        186,
+        21,
+        6,
+        155,
+        192,
+        44
+      ]
+    },
+    "name": "Effortless English Lessons",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 114,
+  "peers": 148,
+  "last_updated": "2016-12-24T21:20:37.701Z"
+}

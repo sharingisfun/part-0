@@ -1,1 +1,61 @@
-{"title":"Impossible - James Arthur (Single) [320 kbps]","uid":7998240,"size":8437343,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2f09d4601b5c0e22733c345eb7a21f8b42d9fd92&amp;dn=Impossible+-+James+Arthur+%28Single%29+%5B320+kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":0,"uploader":"sahil1033","files":1,"time":1357678624,"description":"Duration - 3:329\nSize     - 8.04 MB\nBit rate - 320 kbps\n\n_____________________________________________________________________________________\n-------------------------------------------------------------------------------------\n      &lt;a href=&quot;\nhttp://www.sahilsingh.in&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.sahilsingh.in&lt;/a&gt;\n\nSeed and enjoy !!\t","torrent":{"xt":"urn:btih:2f09d4601b5c0e22733c345eb7a21f8b42d9fd92","amp;dn":"Impossible+-+James+Arthur+%28Single%29+%5B320+kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2f09d4601b5c0e22733c345eb7a21f8b42d9fd92","infoHashBuffer":{"type":"Buffer","data":[47,9,212,96,27,92,14,34,115,60,52,94,183,162,31,139,66,217,253,146]},"announce":[],"urlList":[]}}
+{
+  "title": "Impossible - James Arthur (Single) [320 kbps]",
+  "uid": 7998240,
+  "size": 8437343,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2f09d4601b5c0e22733c345eb7a21f8b42d9fd92&amp;dn=Impossible+-+James+Arthur+%28Single%29+%5B320+kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 0,
+  "uploader": "sahil1033",
+  "files": 1,
+  "time": 1357678624,
+  "description": "Duration - 3:329\nSize     - 8.04 MB\nBit rate - 320 kbps\n\n_____________________________________________________________________________________\n-------------------------------------------------------------------------------------\n      &lt;a href=&quot;\nhttp://www.sahilsingh.in&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.sahilsingh.in&lt;/a&gt;\n\nSeed and enjoy !!\t",
+  "parsed": {
+    "xt": "urn:btih:2f09d4601b5c0e22733c345eb7a21f8b42d9fd92",
+    "dn": "Impossible - James Arthur (Single) [320 kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2f09d4601b5c0e22733c345eb7a21f8b42d9fd92",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        47,
+        9,
+        212,
+        96,
+        27,
+        92,
+        14,
+        34,
+        115,
+        60,
+        52,
+        94,
+        183,
+        162,
+        31,
+        139,
+        66,
+        217,
+        253,
+        146
+      ]
+    },
+    "name": "Impossible - James Arthur (Single) [320 kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 8,
+  "last_updated": "2016-12-24T21:13:54.020Z"
+}

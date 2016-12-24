@@ -1,1 +1,61 @@
-{"title":"Scribblenauts unlimited","uid":8296577,"size":1681885600,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:3001f2aedf15a9d8a5cb38742f17e315e37399dd&amp;dn=Scribblenauts+unlimited&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":4,"uploader":"RyleJade","files":1,"time":1364156951,"description":"Here is the Scribblenauts unlimited updated game, no one else is uploading it so I figure I would contribute to the community and be the first to upload it. \n\njust run the exe and extract it to your program files/ scribblenauts folder and run scribble.exe with admin rights. \n\n\n\nthe keyboard in game is a bunch of weird characters just use your keyboard to right things rather than the mouse.\n\nRemember to seed and contribute. lazy pirates who don't seed kill the world.","torrent":{"xt":"urn:btih:3001f2aedf15a9d8a5cb38742f17e315e37399dd","amp;dn":"Scribblenauts+unlimited","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3001f2aedf15a9d8a5cb38742f17e315e37399dd","infoHashBuffer":{"type":"Buffer","data":[48,1,242,174,223,21,169,216,165,203,56,116,47,23,227,21,227,115,153,221]},"announce":[],"urlList":[]}}
+{
+  "title": "Scribblenauts unlimited",
+  "uid": 8296577,
+  "size": 1681885600,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:3001f2aedf15a9d8a5cb38742f17e315e37399dd&amp;dn=Scribblenauts+unlimited&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 4,
+  "uploader": "RyleJade",
+  "files": 1,
+  "time": 1364156951,
+  "description": "Here is the Scribblenauts unlimited updated game, no one else is uploading it so I figure I would contribute to the community and be the first to upload it. \n\njust run the exe and extract it to your program files/ scribblenauts folder and run scribble.exe with admin rights. \n\n\n\nthe keyboard in game is a bunch of weird characters just use your keyboard to right things rather than the mouse.\n\nRemember to seed and contribute. lazy pirates who don't seed kill the world.",
+  "parsed": {
+    "xt": "urn:btih:3001f2aedf15a9d8a5cb38742f17e315e37399dd",
+    "dn": "Scribblenauts unlimited",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3001f2aedf15a9d8a5cb38742f17e315e37399dd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        48,
+        1,
+        242,
+        174,
+        223,
+        21,
+        169,
+        216,
+        165,
+        203,
+        56,
+        116,
+        47,
+        23,
+        227,
+        21,
+        227,
+        115,
+        153,
+        221
+      ]
+    },
+    "name": "Scribblenauts unlimited",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 71,
+  "last_updated": "2016-12-24T21:21:07.828Z"
+}

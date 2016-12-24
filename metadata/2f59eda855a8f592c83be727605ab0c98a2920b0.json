@@ -1,1 +1,61 @@
-{"title":"Symphony X - Underworld","uid":12150138,"size":132615208,"categoryP":"audio","categoryS":"audio_books","magnet":"?xt=urn:btih:2f59eda855a8f592c83be727605ab0c98a2920b0&amp;dn=Symphony+X+-+Underworld&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":0,"uploader":"marcocasalli","files":12,"time":1437602062,"description":"MP3 320 KBPS","torrent":{"xt":"urn:btih:2f59eda855a8f592c83be727605ab0c98a2920b0","amp;dn":"Symphony+X+-+Underworld","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2f59eda855a8f592c83be727605ab0c98a2920b0","infoHashBuffer":{"type":"Buffer","data":[47,89,237,168,85,168,245,146,200,59,231,39,96,90,176,201,138,41,32,176]},"announce":[],"urlList":[]}}
+{
+  "title": "Symphony X - Underworld",
+  "uid": 12150138,
+  "size": 132615208,
+  "categoryP": "audio",
+  "categoryS": "audio_books",
+  "magnet": "?xt=urn:btih:2f59eda855a8f592c83be727605ab0c98a2920b0&amp;dn=Symphony+X+-+Underworld&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 0,
+  "uploader": "marcocasalli",
+  "files": 12,
+  "time": 1437602062,
+  "description": "MP3 320 KBPS",
+  "parsed": {
+    "xt": "urn:btih:2f59eda855a8f592c83be727605ab0c98a2920b0",
+    "dn": "Symphony X - Underworld",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2f59eda855a8f592c83be727605ab0c98a2920b0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        47,
+        89,
+        237,
+        168,
+        85,
+        168,
+        245,
+        146,
+        200,
+        59,
+        231,
+        39,
+        96,
+        90,
+        176,
+        201,
+        138,
+        41,
+        32,
+        176
+      ]
+    },
+    "name": "Symphony X - Underworld",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 6,
+  "last_updated": "2016-12-24T21:16:08.442Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Sony Vegas Pro 11 64 bit","uid":6759663,"size":219784517,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:2f1d1d2b8b59bd80e225c7aab1cc7ffc7149918b&amp;dn=Sony+Vegas+Pro+11+64+bit&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":128,"leechers":3,"uploader":"mentor01","files":3,"time":1319161323,"description":"Not mine so just posting for those that want it\nTested fine and works good so far","torrent":{"xt":"urn:btih:2f1d1d2b8b59bd80e225c7aab1cc7ffc7149918b","amp;dn":"Sony+Vegas+Pro+11+64+bit","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2f1d1d2b8b59bd80e225c7aab1cc7ffc7149918b","infoHashBuffer":{"type":"Buffer","data":[47,29,29,43,139,89,189,128,226,37,199,170,177,204,127,252,113,73,145,139]},"announce":[],"urlList":[]}}
+{
+  "title": "Sony Vegas Pro 11 64 bit",
+  "uid": 6759663,
+  "size": 219784517,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:2f1d1d2b8b59bd80e225c7aab1cc7ffc7149918b&amp;dn=Sony+Vegas+Pro+11+64+bit&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 128,
+  "leechers": 3,
+  "uploader": "mentor01",
+  "files": 3,
+  "time": 1319161323,
+  "description": "Not mine so just posting for those that want it\nTested fine and works good so far",
+  "parsed": {
+    "xt": "urn:btih:2f1d1d2b8b59bd80e225c7aab1cc7ffc7149918b",
+    "dn": "Sony Vegas Pro 11 64 bit",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2f1d1d2b8b59bd80e225c7aab1cc7ffc7149918b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        47,
+        29,
+        29,
+        43,
+        139,
+        89,
+        189,
+        128,
+        226,
+        37,
+        199,
+        170,
+        177,
+        204,
+        127,
+        252,
+        113,
+        73,
+        145,
+        139
+      ]
+    },
+    "name": "Sony Vegas Pro 11 64 bit",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 131,
+  "peers": 76,
+  "last_updated": "2016-12-24T21:14:34.157Z"
+}

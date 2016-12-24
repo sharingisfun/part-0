@@ -1,1 +1,61 @@
-{"title":"Florence + The Machine - Spectrum (Say My Name) [Calvin Harris R","uid":7428152,"size":8847621,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2f836caf15d31664c74447e6229b2c60e104c1e2&amp;dn=Florence+%2B+The+Machine+-+Spectrum+%28Say+My+Name%29+%5BCalvin+Harris+R&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":0,"uploader":"FatFreddy473","files":-1,"time":1341866097,"description":"320kbps CBR itunesrip\n\nripped by SW","torrent":{"xt":"urn:btih:2f836caf15d31664c74447e6229b2c60e104c1e2","amp;dn":"Florence+%2B+The+Machine+-+Spectrum+%28Say+My+Name%29+%5BCalvin+Harris+R","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2f836caf15d31664c74447e6229b2c60e104c1e2","infoHashBuffer":{"type":"Buffer","data":[47,131,108,175,21,211,22,100,199,68,71,230,34,155,44,96,225,4,193,226]},"announce":[],"urlList":[]}}
+{
+  "title": "Florence + The Machine - Spectrum (Say My Name) [Calvin Harris R",
+  "uid": 7428152,
+  "size": 8847621,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2f836caf15d31664c74447e6229b2c60e104c1e2&amp;dn=Florence+%2B+The+Machine+-+Spectrum+%28Say+My+Name%29+%5BCalvin+Harris+R&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 0,
+  "uploader": "FatFreddy473",
+  "files": -1,
+  "time": 1341866097,
+  "description": "320kbps CBR itunesrip\n\nripped by SW",
+  "parsed": {
+    "xt": "urn:btih:2f836caf15d31664c74447e6229b2c60e104c1e2",
+    "dn": "Florence   The Machine - Spectrum (Say My Name) [Calvin Harris R",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2f836caf15d31664c74447e6229b2c60e104c1e2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        47,
+        131,
+        108,
+        175,
+        21,
+        211,
+        22,
+        100,
+        199,
+        68,
+        71,
+        230,
+        34,
+        155,
+        44,
+        96,
+        225,
+        4,
+        193,
+        226
+      ]
+    },
+    "name": "Florence   The Machine - Spectrum (Say My Name) [Calvin Harris R",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 12,
+  "last_updated": "2016-12-24T21:17:32.751Z"
+}

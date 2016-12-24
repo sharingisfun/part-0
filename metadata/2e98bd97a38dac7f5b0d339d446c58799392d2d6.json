@@ -1,1 +1,61 @@
-{"title":"Blackstreet - The Best of Blackstreet - 20th Century Masters 320","uid":9489988,"size":122859093,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2e98bd97a38dac7f5b0d339d446c58799392d2d6&amp;dn=Blackstreet+-+The+Best+of+Blackstreet+-+20th+Century+Masters+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":18,"uploader":"Big-Papi","files":-1,"time":1389979144,"description":"Source: CD\n\nBlackstreet - The Best of Blackstreet - 20th Century Masters - The Millennium Collection 320cbr (Big Papi)","torrent":{"xt":"urn:btih:2e98bd97a38dac7f5b0d339d446c58799392d2d6","amp;dn":"Blackstreet+-+The+Best+of+Blackstreet+-+20th+Century+Masters+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2e98bd97a38dac7f5b0d339d446c58799392d2d6","infoHashBuffer":{"type":"Buffer","data":[46,152,189,151,163,141,172,127,91,13,51,157,68,108,88,121,147,146,210,214]},"announce":[],"urlList":[]}}
+{
+  "title": "Blackstreet - The Best of Blackstreet - 20th Century Masters 320",
+  "uid": 9489988,
+  "size": 122859093,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2e98bd97a38dac7f5b0d339d446c58799392d2d6&amp;dn=Blackstreet+-+The+Best+of+Blackstreet+-+20th+Century+Masters+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 18,
+  "uploader": "Big-Papi",
+  "files": -1,
+  "time": 1389979144,
+  "description": "Source: CD\n\nBlackstreet - The Best of Blackstreet - 20th Century Masters - The Millennium Collection 320cbr (Big Papi)",
+  "parsed": {
+    "xt": "urn:btih:2e98bd97a38dac7f5b0d339d446c58799392d2d6",
+    "dn": "Blackstreet - The Best of Blackstreet - 20th Century Masters 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2e98bd97a38dac7f5b0d339d446c58799392d2d6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        46,
+        152,
+        189,
+        151,
+        163,
+        141,
+        172,
+        127,
+        91,
+        13,
+        51,
+        157,
+        68,
+        108,
+        88,
+        121,
+        147,
+        146,
+        210,
+        214
+      ]
+    },
+    "name": "Blackstreet - The Best of Blackstreet - 20th Century Masters 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 28,
+  "last_updated": "2016-12-24T21:11:01.426Z"
+}

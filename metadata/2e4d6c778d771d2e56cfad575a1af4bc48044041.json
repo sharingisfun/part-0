@@ -1,1 +1,61 @@
-{"title":"Wentworth S03E01 PDTV XviD-FUM[ettv]","uid":11802242,"size":399184000,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:2e4d6c778d771d2e56cfad575a1af4bc48044041&amp;dn=Wentworth+S03E01+PDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":237,"leechers":12,"uploader":"ettv","files":2,"time":1428429613,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:2e4d6c778d771d2e56cfad575a1af4bc48044041","amp;dn":"Wentworth+S03E01+PDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2e4d6c778d771d2e56cfad575a1af4bc48044041","infoHashBuffer":{"type":"Buffer","data":[46,77,108,119,141,119,29,46,86,207,173,87,90,26,244,188,72,4,64,65]},"announce":[],"urlList":[]}}
+{
+  "title": "Wentworth S03E01 PDTV XviD-FUM[ettv]",
+  "uid": 11802242,
+  "size": 399184000,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:2e4d6c778d771d2e56cfad575a1af4bc48044041&amp;dn=Wentworth+S03E01+PDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 237,
+  "leechers": 12,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1428429613,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:2e4d6c778d771d2e56cfad575a1af4bc48044041",
+    "dn": "Wentworth S03E01 PDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2e4d6c778d771d2e56cfad575a1af4bc48044041",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        46,
+        77,
+        108,
+        119,
+        141,
+        119,
+        29,
+        46,
+        86,
+        207,
+        173,
+        87,
+        90,
+        26,
+        244,
+        188,
+        72,
+        4,
+        64,
+        65
+      ]
+    },
+    "name": "Wentworth S03E01 PDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 249,
+  "peers": 19,
+  "last_updated": "2016-12-24T21:09:10.993Z"
+}

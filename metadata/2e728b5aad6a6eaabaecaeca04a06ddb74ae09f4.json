@@ -1,1 +1,61 @@
-{"title":"Cups (Pitch Perfect's When I'm Gone) Anna Kendrick Single","uid":8374688,"size":5076992,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2e728b5aad6a6eaabaecaeca04a06ddb74ae09f4&amp;dn=Cups+%28Pitch+Perfect%27s+When+I%27m+Gone%29+Anna+Kendrick+Single&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":82,"leechers":0,"uploader":"WinterGale","files":1,"time":1366016867,"description":"Originally purchased from iTunes, I converted this from M4A to MP3.\n\nAlbum: Cups (Pitch Perfect's &quot;When I'm Gone&quot;) - Single\nTitle: Cups (Pitch Perfect's &quot;When I'm Gone&quot;)\nArtist: Anna Kendrick\nComposer: A.P. Carter &amp; Luisa Gerstein\nYear Recorded: 2013\nSample rate: 48,000\nDuration: 02:07\nAudio Channels: 2\nBit Rate: Not sure on this one but iTunes says its at 256kbps","torrent":{"xt":"urn:btih:2e728b5aad6a6eaabaecaeca04a06ddb74ae09f4","amp;dn":"Cups+%28Pitch+Perfect%27s+When+I%27m+Gone%29+Anna+Kendrick+Single","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2e728b5aad6a6eaabaecaeca04a06ddb74ae09f4","infoHashBuffer":{"type":"Buffer","data":[46,114,139,90,173,106,110,170,186,236,174,202,4,160,109,219,116,174,9,244]},"announce":[],"urlList":[]}}
+{
+  "title": "Cups (Pitch Perfect's When I'm Gone) Anna Kendrick Single",
+  "uid": 8374688,
+  "size": 5076992,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2e728b5aad6a6eaabaecaeca04a06ddb74ae09f4&amp;dn=Cups+%28Pitch+Perfect%27s+When+I%27m+Gone%29+Anna+Kendrick+Single&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 82,
+  "leechers": 0,
+  "uploader": "WinterGale",
+  "files": 1,
+  "time": 1366016867,
+  "description": "Originally purchased from iTunes, I converted this from M4A to MP3.\n\nAlbum: Cups (Pitch Perfect's &quot;When I'm Gone&quot;) - Single\nTitle: Cups (Pitch Perfect's &quot;When I'm Gone&quot;)\nArtist: Anna Kendrick\nComposer: A.P. Carter &amp; Luisa Gerstein\nYear Recorded: 2013\nSample rate: 48,000\nDuration: 02:07\nAudio Channels: 2\nBit Rate: Not sure on this one but iTunes says its at 256kbps",
+  "parsed": {
+    "xt": "urn:btih:2e728b5aad6a6eaabaecaeca04a06ddb74ae09f4",
+    "dn": "Cups (Pitch Perfect's When I'm Gone) Anna Kendrick Single",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2e728b5aad6a6eaabaecaeca04a06ddb74ae09f4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        46,
+        114,
+        139,
+        90,
+        173,
+        106,
+        110,
+        170,
+        186,
+        236,
+        174,
+        202,
+        4,
+        160,
+        109,
+        219,
+        116,
+        174,
+        9,
+        244
+      ]
+    },
+    "name": "Cups (Pitch Perfect's When I'm Gone) Anna Kendrick Single",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 82,
+  "peers": 14,
+  "last_updated": "2016-12-24T21:09:57.194Z"
+}

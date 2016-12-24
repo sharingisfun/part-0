@@ -1,1 +1,61 @@
-{"title":"Star Wars Comics Complete","uid":9731407,"size":9085563024,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:2fb6b756d21c9e511b931d20fa859b8ffe29f85d&amp;dn=Star+Wars+Comics+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":17,"uploader":"mcconnont","files":825,"time":1394389407,"description":"Uploaded by BLACKH0L3 - Mcconnont","torrent":{"xt":"urn:btih:2fb6b756d21c9e511b931d20fa859b8ffe29f85d","amp;dn":"Star+Wars+Comics+Complete","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2fb6b756d21c9e511b931d20fa859b8ffe29f85d","infoHashBuffer":{"type":"Buffer","data":[47,182,183,86,210,28,158,81,27,147,29,32,250,133,155,143,254,41,248,93]},"announce":[],"urlList":[]}}
+{
+  "title": "Star Wars Comics Complete",
+  "uid": 9731407,
+  "size": 9085563024,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:2fb6b756d21c9e511b931d20fa859b8ffe29f85d&amp;dn=Star+Wars+Comics+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 17,
+  "uploader": "mcconnont",
+  "files": 825,
+  "time": 1394389407,
+  "description": "Uploaded by BLACKH0L3 - Mcconnont",
+  "parsed": {
+    "xt": "urn:btih:2fb6b756d21c9e511b931d20fa859b8ffe29f85d",
+    "dn": "Star Wars Comics Complete",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2fb6b756d21c9e511b931d20fa859b8ffe29f85d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        47,
+        182,
+        183,
+        86,
+        210,
+        28,
+        158,
+        81,
+        27,
+        147,
+        29,
+        32,
+        250,
+        133,
+        155,
+        143,
+        254,
+        41,
+        248,
+        93
+      ]
+    },
+    "name": "Star Wars Comics Complete",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 29,
+  "last_updated": "2016-12-24T21:18:55.196Z"
+}

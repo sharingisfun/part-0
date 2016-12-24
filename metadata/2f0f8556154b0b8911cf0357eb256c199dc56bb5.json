@@ -1,1 +1,63 @@
-{"title":"Howard Stern Show AUG 8 2016 Mon","uid":15518943,"size":257124795,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:2f0f8556154b0b8911cf0357eb256c199dc56bb5&amp;dn=Howard+Stern+Show+AUG+8+2016+Mon&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":1,"uploader":"mc_gregor","files":3,"time":1470720028,"description":"The Howard Stern Show\r\n2016-08-08 - LIVE\r\n\r\nBack Live And Orlando Bloom's Penis. 08/08/16. 7:00am\r\nHoward Takes Some Calls. 08/08/16. 7:10am\r\nMore Phone Calls And Penis Discussions. 08/08/16. 7:30am\r\nRobin's Birthday Celebration. 08/08/16. 7:50am\r\nBaba Booey Shout Out Clips. 08/08/16. 8:25am\r\nSeth Rogen Visits. 08/08/16. 8:55am\r\nRobin Parodies, Gary's Golf Outing And Richard's Album. 08/08/16. 10:15am\r\nRobin's News. 08/08/16. 10:35am","torrent":{"xt":"urn:btih:2f0f8556154b0b8911cf0357eb256c199dc56bb5","amp;dn":"Howard+Stern+Show+AUG+8+2016+Mon","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2f0f8556154b0b8911cf0357eb256c199dc56bb5","infoHashBuffer":{"type":"Buffer","data":[47,15,133,86,21,75,11,137,17,207,3,87,235,37,108,25,157,197,107,181]},"announce":[],"urlList":[]}}
+{
+  "title": "Howard Stern Show AUG 8 2016 Mon",
+  "uid": 15518943,
+  "size": 257124795,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:2f0f8556154b0b8911cf0357eb256c199dc56bb5&amp;dn=Howard+Stern+Show+AUG+8+2016+Mon&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 1,
+  "uploader": "mc_gregor",
+  "files": 3,
+  "time": 1470720028,
+  "description": "The Howard Stern Show\r\n2016-08-08 - LIVE\r\n\r\nBack Live And Orlando Bloom's Penis. 08/08/16. 7:00am\r\nHoward Takes Some Calls. 08/08/16. 7:10am\r\nMore Phone Calls And Penis Discussions. 08/08/16. 7:30am\r\nRobin's Birthday Celebration. 08/08/16. 7:50am\r\nBaba Booey Shout Out Clips. 08/08/16. 8:25am\r\nSeth Rogen Visits. 08/08/16. 8:55am\r\nRobin Parodies, Gary's Golf Outing And Richard's Album. 08/08/16. 10:15am\r\nRobin's News. 08/08/16. 10:35am",
+  "parsed": {
+    "xt": "urn:btih:2f0f8556154b0b8911cf0357eb256c199dc56bb5",
+    "dn": "Howard Stern Show AUG 8 2016 Mon",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "2f0f8556154b0b8911cf0357eb256c199dc56bb5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        47,
+        15,
+        133,
+        86,
+        21,
+        75,
+        11,
+        137,
+        17,
+        207,
+        3,
+        87,
+        235,
+        37,
+        108,
+        25,
+        157,
+        197,
+        107,
+        181
+      ]
+    },
+    "name": "Howard Stern Show AUG 8 2016 Mon",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 36,
+  "last_updated": "2016-12-24T21:14:10.070Z"
+}

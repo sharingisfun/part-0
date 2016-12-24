@@ -1,1 +1,61 @@
-{"title":"Simple Minds - Big Music [Deluxe Edition] - 2014","uid":11345354,"size":188310893,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2fc693d5d2f596d2f469f5c628fb43f82a6a161c&amp;dn=Simple+Minds+-+Big+Music+%5BDeluxe+Edition%5D+-+2014&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":1,"uploader":"RoffeTheCoolMan","files":-1,"time":1414851557,"description":"\n\nBand: Simple Minds\n\nGenre: Rock, New Wave\nCountry: Scotland\nYear: 2014\nAudio codec: MP3\nRiptype: tracks\nBitrate: 320 kbps\nPlaytime: 1:17:54\nSize: 180 MB\nSite: plixid.com\nTracklist:\n01. Blindfolded\n02. Midnight Walking\n03. Honest Town\n04. Big Music\n05. Human\n06. Blood Diamonds\n07. Let The Day Begin\n08. Concrete And Cherry Blossom\n09. Imagination\n10. Kill Or Cure\n11. Broken Glass Park\n12. Spirited Away\n13. Swimming Towards The Sun\n14. Bittersweet\n15. Liaison\n16. Riders On The Storm\n17. Dancing Barefoot\n18. Blindfolded (Reprise)","torrent":{"xt":"urn:btih:2fc693d5d2f596d2f469f5c628fb43f82a6a161c","amp;dn":"Simple+Minds+-+Big+Music+%5BDeluxe+Edition%5D+-+2014","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2fc693d5d2f596d2f469f5c628fb43f82a6a161c","infoHashBuffer":{"type":"Buffer","data":[47,198,147,213,210,245,150,210,244,105,245,198,40,251,67,248,42,106,22,28]},"announce":[],"urlList":[]}}
+{
+  "title": "Simple Minds - Big Music [Deluxe Edition] - 2014",
+  "uid": 11345354,
+  "size": 188310893,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2fc693d5d2f596d2f469f5c628fb43f82a6a161c&amp;dn=Simple+Minds+-+Big+Music+%5BDeluxe+Edition%5D+-+2014&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 1,
+  "uploader": "RoffeTheCoolMan",
+  "files": -1,
+  "time": 1414851557,
+  "description": "\n\nBand: Simple Minds\n\nGenre: Rock, New Wave\nCountry: Scotland\nYear: 2014\nAudio codec: MP3\nRiptype: tracks\nBitrate: 320 kbps\nPlaytime: 1:17:54\nSize: 180 MB\nSite: plixid.com\nTracklist:\n01. Blindfolded\n02. Midnight Walking\n03. Honest Town\n04. Big Music\n05. Human\n06. Blood Diamonds\n07. Let The Day Begin\n08. Concrete And Cherry Blossom\n09. Imagination\n10. Kill Or Cure\n11. Broken Glass Park\n12. Spirited Away\n13. Swimming Towards The Sun\n14. Bittersweet\n15. Liaison\n16. Riders On The Storm\n17. Dancing Barefoot\n18. Blindfolded (Reprise)",
+  "parsed": {
+    "xt": "urn:btih:2fc693d5d2f596d2f469f5c628fb43f82a6a161c",
+    "dn": "Simple Minds - Big Music [Deluxe Edition] - 2014",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2fc693d5d2f596d2f469f5c628fb43f82a6a161c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        47,
+        198,
+        147,
+        213,
+        210,
+        245,
+        150,
+        210,
+        244,
+        105,
+        245,
+        198,
+        40,
+        251,
+        67,
+        248,
+        42,
+        106,
+        22,
+        28
+      ]
+    },
+    "name": "Simple Minds - Big Music [Deluxe Edition] - 2014",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 31,
+  "last_updated": "2016-12-24T21:19:27.336Z"
+}

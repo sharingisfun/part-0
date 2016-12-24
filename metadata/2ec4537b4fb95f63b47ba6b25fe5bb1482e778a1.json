@@ -1,1 +1,61 @@
-{"title":"GTA SA Full version (no installation needed)","uid":6756334,"size":3645660472,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2ec4537b4fb95f63b47ba6b25fe5bb1482e778a1&amp;dn=GTA+SA+Full+version+%28no+installation+needed%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":3,"uploader":"jossie220","files":1,"time":1319045452,"description":"this download works and is good\n\ngta sa full (no instal needed)\n\nBy jossie220 (me)","torrent":{"xt":"urn:btih:2ec4537b4fb95f63b47ba6b25fe5bb1482e778a1","amp;dn":"GTA+SA+Full+version+%28no+installation+needed%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2ec4537b4fb95f63b47ba6b25fe5bb1482e778a1","infoHashBuffer":{"type":"Buffer","data":[46,196,83,123,79,185,95,99,180,123,166,178,95,229,187,20,130,231,120,161]},"announce":[],"urlList":[]}}
+{
+  "title": "GTA SA Full version (no installation needed)",
+  "uid": 6756334,
+  "size": 3645660472,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2ec4537b4fb95f63b47ba6b25fe5bb1482e778a1&amp;dn=GTA+SA+Full+version+%28no+installation+needed%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 3,
+  "uploader": "jossie220",
+  "files": 1,
+  "time": 1319045452,
+  "description": "this download works and is good\n\ngta sa full (no instal needed)\n\nBy jossie220 (me)",
+  "parsed": {
+    "xt": "urn:btih:2ec4537b4fb95f63b47ba6b25fe5bb1482e778a1",
+    "dn": "GTA SA Full version (no installation needed)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2ec4537b4fb95f63b47ba6b25fe5bb1482e778a1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        46,
+        196,
+        83,
+        123,
+        79,
+        185,
+        95,
+        99,
+        180,
+        123,
+        166,
+        178,
+        95,
+        229,
+        187,
+        20,
+        130,
+        231,
+        120,
+        161
+      ]
+    },
+    "name": "GTA SA Full version (no installation needed)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 108,
+  "last_updated": "2016-12-24T21:12:07.681Z"
+}

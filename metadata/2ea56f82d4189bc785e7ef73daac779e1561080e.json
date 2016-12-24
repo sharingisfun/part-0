@@ -1,1 +1,61 @@
-{"title":"Miike Snow - Miike Snow [Deluxe Edition]","uid":5611626,"size":174018458,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2ea56f82d4189bc785e7ef73daac779e1561080e&amp;dn=Miike+Snow+-+Miike+Snow+%5BDeluxe+Edition%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":1,"uploader":"GARsniper","files":-1,"time":1275897517,"description":"Artist: Miike Snow\nAlbum: Miike Snow [Deluxe Edition]\nYear: 2009\nBitrate: 320 kbps\n\nNote: Bought off Amazon, re-encoded to 320kbp/s with Soundbooth CS4\n\nThat is all.","torrent":{"xt":"urn:btih:2ea56f82d4189bc785e7ef73daac779e1561080e","amp;dn":"Miike+Snow+-+Miike+Snow+%5BDeluxe+Edition%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2ea56f82d4189bc785e7ef73daac779e1561080e","infoHashBuffer":{"type":"Buffer","data":[46,165,111,130,212,24,155,199,133,231,239,115,218,172,119,158,21,97,8,14]},"announce":[],"urlList":[]}}
+{
+  "title": "Miike Snow - Miike Snow [Deluxe Edition]",
+  "uid": 5611626,
+  "size": 174018458,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2ea56f82d4189bc785e7ef73daac779e1561080e&amp;dn=Miike+Snow+-+Miike+Snow+%5BDeluxe+Edition%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 1,
+  "uploader": "GARsniper",
+  "files": -1,
+  "time": 1275897517,
+  "description": "Artist: Miike Snow\nAlbum: Miike Snow [Deluxe Edition]\nYear: 2009\nBitrate: 320 kbps\n\nNote: Bought off Amazon, re-encoded to 320kbp/s with Soundbooth CS4\n\nThat is all.",
+  "parsed": {
+    "xt": "urn:btih:2ea56f82d4189bc785e7ef73daac779e1561080e",
+    "dn": "Miike Snow - Miike Snow [Deluxe Edition]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2ea56f82d4189bc785e7ef73daac779e1561080e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        46,
+        165,
+        111,
+        130,
+        212,
+        24,
+        155,
+        199,
+        133,
+        231,
+        239,
+        115,
+        218,
+        172,
+        119,
+        158,
+        21,
+        97,
+        8,
+        14
+      ]
+    },
+    "name": "Miike Snow - Miike Snow [Deluxe Edition]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 15,
+  "last_updated": "2016-12-24T21:11:21.504Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Muse Discography @ 320 kbps --CameroSaurusRex--","uid":6243503,"size":599155135,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:305da7e687ebcb748d42d6b5dbda73ee10528848&amp;dn=Muse+Discography+%40+320+kbps+--CameroSaurusRex--&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":333,"leechers":47,"uploader":"CameroSaurusRex","files":58,"time":1300154742,"description":"Muse Discography\n\n(~320 kbps)\n\n-Absolution\n-Black Holes and Revelations\n-Origin of Symmetry\n-Showbiz\n-The Resistance\n\nPlease enjoy and SEEEDDDDD!!!!\n\nFollow me on Twitter @Mr.Diode to see what I'm uploading","torrent":{"xt":"urn:btih:305da7e687ebcb748d42d6b5dbda73ee10528848","amp;dn":"Muse+Discography+%40+320+kbps+--CameroSaurusRex--","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"305da7e687ebcb748d42d6b5dbda73ee10528848","infoHashBuffer":{"type":"Buffer","data":[48,93,167,230,135,235,203,116,141,66,214,181,219,218,115,238,16,82,136,72]},"announce":[],"urlList":[]}}
+{
+  "title": "Muse Discography @ 320 kbps --CameroSaurusRex--",
+  "uid": 6243503,
+  "size": 599155135,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:305da7e687ebcb748d42d6b5dbda73ee10528848&amp;dn=Muse+Discography+%40+320+kbps+--CameroSaurusRex--&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 333,
+  "leechers": 47,
+  "uploader": "CameroSaurusRex",
+  "files": 58,
+  "time": 1300154742,
+  "description": "Muse Discography\n\n(~320 kbps)\n\n-Absolution\n-Black Holes and Revelations\n-Origin of Symmetry\n-Showbiz\n-The Resistance\n\nPlease enjoy and SEEEDDDDD!!!!\n\nFollow me on Twitter @Mr.Diode to see what I'm uploading",
+  "parsed": {
+    "xt": "urn:btih:305da7e687ebcb748d42d6b5dbda73ee10528848",
+    "dn": "Muse Discography @ 320 kbps --CameroSaurusRex--",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "305da7e687ebcb748d42d6b5dbda73ee10528848",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        48,
+        93,
+        167,
+        230,
+        135,
+        235,
+        203,
+        116,
+        141,
+        66,
+        214,
+        181,
+        219,
+        218,
+        115,
+        238,
+        16,
+        82,
+        136,
+        72
+      ]
+    },
+    "name": "Muse Discography @ 320 kbps --CameroSaurusRex--",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 380,
+  "peers": 148,
+  "last_updated": "2016-12-24T21:23:40.428Z"
+}

@@ -1,1 +1,61 @@
-{"title":"One Direction - Up All Night (Album) (2011)","uid":6828226,"size":87498150,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:30143b355eb8c5b0254de1d6d7570cbe7d542d4c&amp;dn=One+Direction+-+Up+All+Night+%28Album%29+%282011%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":3,"uploader":"RNBxBeatz","files":15,"time":1321665706,"description":"Tracklist:\n\n01. What Makes You Beautiful\n02. Gotta Be You\n03. One Thing\n04. More Than This\n05. Up All Night\n06. I Wish\n07. Tell Me A Lie\n08. Taken\n09. I Want\n10. Everything About You\n11. Same Mistakes\n12. Save You Tonight\n13. Stole My Heart","torrent":{"xt":"urn:btih:30143b355eb8c5b0254de1d6d7570cbe7d542d4c","amp;dn":"One+Direction+-+Up+All+Night+%28Album%29+%282011%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"30143b355eb8c5b0254de1d6d7570cbe7d542d4c","infoHashBuffer":{"type":"Buffer","data":[48,20,59,53,94,184,197,176,37,77,225,214,215,87,12,190,125,84,45,76]},"announce":[],"urlList":[]}}
+{
+  "title": "One Direction - Up All Night (Album) (2011)",
+  "uid": 6828226,
+  "size": 87498150,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:30143b355eb8c5b0254de1d6d7570cbe7d542d4c&amp;dn=One+Direction+-+Up+All+Night+%28Album%29+%282011%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 3,
+  "uploader": "RNBxBeatz",
+  "files": 15,
+  "time": 1321665706,
+  "description": "Tracklist:\n\n01. What Makes You Beautiful\n02. Gotta Be You\n03. One Thing\n04. More Than This\n05. Up All Night\n06. I Wish\n07. Tell Me A Lie\n08. Taken\n09. I Want\n10. Everything About You\n11. Same Mistakes\n12. Save You Tonight\n13. Stole My Heart",
+  "parsed": {
+    "xt": "urn:btih:30143b355eb8c5b0254de1d6d7570cbe7d542d4c",
+    "dn": "One Direction - Up All Night (Album) (2011)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "30143b355eb8c5b0254de1d6d7570cbe7d542d4c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        48,
+        20,
+        59,
+        53,
+        94,
+        184,
+        197,
+        176,
+        37,
+        77,
+        225,
+        214,
+        215,
+        87,
+        12,
+        190,
+        125,
+        84,
+        45,
+        76
+      ]
+    },
+    "name": "One Direction - Up All Night (Album) (2011)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 76,
+  "peers": 164,
+  "last_updated": "2016-12-24T21:21:33.928Z"
+}

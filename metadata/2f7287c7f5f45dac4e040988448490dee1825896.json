@@ -1,1 +1,61 @@
-{"title":"TerraTech v0.5.10","uid":12209443,"size":234752795,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2f7287c7f5f45dac4e040988448490dee1825896&amp;dn=TerraTech+v0.5.10&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":0,"uploader":"dauphong","files":1,"time":1439055162,"description":"About This Game\nIn TerraTech you design, construct and command a fleet of unique vehicles, as you battle your way to victory across the lawless frontiers of new alien worlds, in a quest for glory and profit. In the distant future, Earth's natural resources have been depleted, and as an off-world prospector it's your job to travel to alien planets and scour them for valuable materials. These can be refined and shipped back to Earth in return for cash, or crafted into new components to augment your fleet. The rarest resources unlock the best equipment, so expand your territory and capture enemy bases, to secure your position on each planet","torrent":{"xt":"urn:btih:2f7287c7f5f45dac4e040988448490dee1825896","amp;dn":"TerraTech+v0.5.10","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2f7287c7f5f45dac4e040988448490dee1825896","infoHashBuffer":{"type":"Buffer","data":[47,114,135,199,245,244,93,172,78,4,9,136,68,132,144,222,225,130,88,150]},"announce":[],"urlList":[]}}
+{
+  "title": "TerraTech v0.5.10",
+  "uid": 12209443,
+  "size": 234752795,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2f7287c7f5f45dac4e040988448490dee1825896&amp;dn=TerraTech+v0.5.10&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 0,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1439055162,
+  "description": "About This Game\nIn TerraTech you design, construct and command a fleet of unique vehicles, as you battle your way to victory across the lawless frontiers of new alien worlds, in a quest for glory and profit. In the distant future, Earth's natural resources have been depleted, and as an off-world prospector it's your job to travel to alien planets and scour them for valuable materials. These can be refined and shipped back to Earth in return for cash, or crafted into new components to augment your fleet. The rarest resources unlock the best equipment, so expand your territory and capture enemy bases, to secure your position on each planet",
+  "parsed": {
+    "xt": "urn:btih:2f7287c7f5f45dac4e040988448490dee1825896",
+    "dn": "TerraTech v0.5.10",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2f7287c7f5f45dac4e040988448490dee1825896",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        47,
+        114,
+        135,
+        199,
+        245,
+        244,
+        93,
+        172,
+        78,
+        4,
+        9,
+        136,
+        68,
+        132,
+        144,
+        222,
+        225,
+        130,
+        88,
+        150
+      ]
+    },
+    "name": "TerraTech v0.5.10",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 8,
+  "last_updated": "2016-12-24T21:16:50.586Z"
+}

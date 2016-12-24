@@ -1,1 +1,61 @@
-{"title":"Aquarius.US.S01E06.WEBRip.x264-WNN[ettv]","uid":11974204,"size":230646110,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3080c8403f13bcf33d1829da18c05168c4b24834&amp;dn=Aquarius.US.S01E06.WEBRip.x264-WNN%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":112,"leechers":2,"uploader":"ettv","files":3,"time":1432970822,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW","torrent":{"xt":"urn:btih:3080c8403f13bcf33d1829da18c05168c4b24834","amp;dn":"Aquarius.US.S01E06.WEBRip.x264-WNN%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3080c8403f13bcf33d1829da18c05168c4b24834","infoHashBuffer":{"type":"Buffer","data":[48,128,200,64,63,19,188,243,61,24,41,218,24,192,81,104,196,178,72,52]},"announce":[],"urlList":[]}}
+{
+  "title": "Aquarius.US.S01E06.WEBRip.x264-WNN[ettv]",
+  "uid": 11974204,
+  "size": 230646110,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3080c8403f13bcf33d1829da18c05168c4b24834&amp;dn=Aquarius.US.S01E06.WEBRip.x264-WNN%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 112,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1432970822,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW",
+  "parsed": {
+    "xt": "urn:btih:3080c8403f13bcf33d1829da18c05168c4b24834",
+    "dn": "Aquarius.US.S01E06.WEBRip.x264-WNN[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3080c8403f13bcf33d1829da18c05168c4b24834",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        48,
+        128,
+        200,
+        64,
+        63,
+        19,
+        188,
+        243,
+        61,
+        24,
+        41,
+        218,
+        24,
+        192,
+        81,
+        104,
+        196,
+        178,
+        72,
+        52
+      ]
+    },
+    "name": "Aquarius.US.S01E06.WEBRip.x264-WNN[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 114,
+  "peers": 22,
+  "last_updated": "2016-12-24T21:24:54.683Z"
+}

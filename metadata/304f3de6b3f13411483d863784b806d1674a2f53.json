@@ -1,1 +1,63 @@
-{"title":"Bloodhound Gang Hard Off [2015] 320","uid":13022947,"size":92489003,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:304f3de6b3f13411483d863784b806d1674a2f53&amp;dn=Bloodhound+Gang+Hard+Off+%5B2015%5D+320&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":2,"uploader":"Capajebo","files":11,"time":1450374240,"description":"http://imgur.com/1cjyyvz ::: Bloodhound Gang Hard Off [2015] 320 WEB","torrent":{"xt":"urn:btih:304f3de6b3f13411483d863784b806d1674a2f53","amp;dn":"Bloodhound+Gang+Hard+Off+%5B2015%5D+320","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"304f3de6b3f13411483d863784b806d1674a2f53","infoHashBuffer":{"type":"Buffer","data":[48,79,61,230,179,241,52,17,72,61,134,55,132,184,6,209,103,74,47,83]},"announce":[],"urlList":[]}}
+{
+  "title": "Bloodhound Gang Hard Off [2015] 320",
+  "uid": 13022947,
+  "size": 92489003,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:304f3de6b3f13411483d863784b806d1674a2f53&amp;dn=Bloodhound+Gang+Hard+Off+%5B2015%5D+320&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 2,
+  "uploader": "Capajebo",
+  "files": 11,
+  "time": 1450374240,
+  "description": "http://imgur.com/1cjyyvz ::: Bloodhound Gang Hard Off [2015] 320 WEB",
+  "parsed": {
+    "xt": "urn:btih:304f3de6b3f13411483d863784b806d1674a2f53",
+    "dn": "Bloodhound Gang Hard Off [2015] 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "304f3de6b3f13411483d863784b806d1674a2f53",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        48,
+        79,
+        61,
+        230,
+        179,
+        241,
+        52,
+        17,
+        72,
+        61,
+        134,
+        55,
+        132,
+        184,
+        6,
+        209,
+        103,
+        74,
+        47,
+        83
+      ]
+    },
+    "name": "Bloodhound Gang Hard Off [2015] 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 132,
+  "last_updated": "2016-12-24T21:23:20.355Z"
+}
