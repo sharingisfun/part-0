@@ -1,1 +1,61 @@
-{"title":"Office mac 2011 EspaÃƒÂ±ol","uid":6231850,"size":1009412143,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:44c83f78ee98b2a625a107e632b316e663de09d2&amp;dn=Office+mac+2011+Espa%C3%B1ol&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":3,"uploader":"Ch3dyz","files":2,"time":1299735242,"description":"Funciona igual que Office en windows","torrent":{"xt":"urn:btih:44c83f78ee98b2a625a107e632b316e663de09d2","amp;dn":"Office+mac+2011+Espa%C3%B1ol","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"44c83f78ee98b2a625a107e632b316e663de09d2","infoHashBuffer":{"type":"Buffer","data":[68,200,63,120,238,152,178,166,37,161,7,230,50,179,22,230,99,222,9,210]},"announce":[],"urlList":[]}}
+{
+  "title": "Office mac 2011 EspaÃƒÂ±ol",
+  "uid": 6231850,
+  "size": 1009412143,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:44c83f78ee98b2a625a107e632b316e663de09d2&amp;dn=Office+mac+2011+Espa%C3%B1ol&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 3,
+  "uploader": "Ch3dyz",
+  "files": 2,
+  "time": 1299735242,
+  "description": "Funciona igual que Office en windows",
+  "parsed": {
+    "xt": "urn:btih:44c83f78ee98b2a625a107e632b316e663de09d2",
+    "dn": "Office mac 2011 Español",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "44c83f78ee98b2a625a107e632b316e663de09d2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        68,
+        200,
+        63,
+        120,
+        238,
+        152,
+        178,
+        166,
+        37,
+        161,
+        7,
+        230,
+        50,
+        179,
+        22,
+        230,
+        99,
+        222,
+        9,
+        210
+      ]
+    },
+    "name": "Office mac 2011 Español",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 19,
+  "last_updated": "2016-12-24T23:37:20.507Z"
+}

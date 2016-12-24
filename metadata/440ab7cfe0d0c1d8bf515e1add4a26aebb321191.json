@@ -1,1 +1,61 @@
-{"title":"Eminem - Lose Yourself [Single - 2012]","uid":7524793,"size":39939814,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:440ab7cfe0d0c1d8bf515e1add4a26aebb321191&amp;dn=Eminem+-+Lose+Yourself+%5BSingle+-+2012%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":17,"uploader":"FatFreddy417","files":-1,"time":1344741787,"description":"01 Lose Yourself\n02 Renegade (Album Version (Explicit))\n03 Lose Yourself (Instrumental)\n\n320kbps CBR itunesrip\n\nripped by l3endik","torrent":{"xt":"urn:btih:440ab7cfe0d0c1d8bf515e1add4a26aebb321191","amp;dn":"Eminem+-+Lose+Yourself+%5BSingle+-+2012%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"440ab7cfe0d0c1d8bf515e1add4a26aebb321191","infoHashBuffer":{"type":"Buffer","data":[68,10,183,207,224,208,193,216,191,81,94,26,221,74,38,174,187,50,17,145]},"announce":[],"urlList":[]}}
+{
+  "title": "Eminem - Lose Yourself [Single - 2012]",
+  "uid": 7524793,
+  "size": 39939814,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:440ab7cfe0d0c1d8bf515e1add4a26aebb321191&amp;dn=Eminem+-+Lose+Yourself+%5BSingle+-+2012%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 17,
+  "uploader": "FatFreddy417",
+  "files": -1,
+  "time": 1344741787,
+  "description": "01 Lose Yourself\n02 Renegade (Album Version (Explicit))\n03 Lose Yourself (Instrumental)\n\n320kbps CBR itunesrip\n\nripped by l3endik",
+  "parsed": {
+    "xt": "urn:btih:440ab7cfe0d0c1d8bf515e1add4a26aebb321191",
+    "dn": "Eminem - Lose Yourself [Single - 2012]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "440ab7cfe0d0c1d8bf515e1add4a26aebb321191",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        68,
+        10,
+        183,
+        207,
+        224,
+        208,
+        193,
+        216,
+        191,
+        81,
+        94,
+        26,
+        221,
+        74,
+        38,
+        174,
+        187,
+        50,
+        17,
+        145
+      ]
+    },
+    "name": "Eminem - Lose Yourself [Single - 2012]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 50,
+  "last_updated": "2016-12-24T23:32:45.380Z"
+}

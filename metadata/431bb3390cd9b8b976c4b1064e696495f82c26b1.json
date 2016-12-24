@@ -1,1 +1,61 @@
-{"title":"Homeland.S02E01.HDTV.x264-EVOLVE.[VTV].mp4","uid":7690360,"size":399518847,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:431bb3390cd9b8b976c4b1064e696495f82c26b1&amp;dn=Homeland.S02E01.HDTV.x264-EVOLVE.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":7,"uploader":"VTV","files":1,"time":1349070734,"description":"Homeland 2x01 (HDTV-x264-EVOLVE)[VTV]","torrent":{"xt":"urn:btih:431bb3390cd9b8b976c4b1064e696495f82c26b1","amp;dn":"Homeland.S02E01.HDTV.x264-EVOLVE.%5BVTV%5D.mp4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"431bb3390cd9b8b976c4b1064e696495f82c26b1","infoHashBuffer":{"type":"Buffer","data":[67,27,179,57,12,217,184,185,118,196,177,6,78,105,100,149,248,44,38,177]},"announce":[],"urlList":[]}}
+{
+  "title": "Homeland.S02E01.HDTV.x264-EVOLVE.[VTV].mp4",
+  "uid": 7690360,
+  "size": 399518847,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:431bb3390cd9b8b976c4b1064e696495f82c26b1&amp;dn=Homeland.S02E01.HDTV.x264-EVOLVE.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 7,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1349070734,
+  "description": "Homeland 2x01 (HDTV-x264-EVOLVE)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:431bb3390cd9b8b976c4b1064e696495f82c26b1",
+    "dn": "Homeland.S02E01.HDTV.x264-EVOLVE.[VTV].mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "431bb3390cd9b8b976c4b1064e696495f82c26b1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        67,
+        27,
+        179,
+        57,
+        12,
+        217,
+        184,
+        185,
+        118,
+        196,
+        177,
+        6,
+        78,
+        105,
+        100,
+        149,
+        248,
+        44,
+        38,
+        177
+      ]
+    },
+    "name": "Homeland.S02E01.HDTV.x264-EVOLVE.[VTV].mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 4,
+  "last_updated": "2016-12-24T23:27:00.154Z"
+}

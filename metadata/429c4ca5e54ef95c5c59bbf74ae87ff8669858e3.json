@@ -1,1 +1,61 @@
-{"title":"The Black Angels - Discography (2006-2010) [mp3@VBR-320]","uid":5927180,"size":452970402,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:429c4ca5e54ef95c5c59bbf74ae87ff8669858e3&amp;dn=The+Black+Angels+-+Discography+%282006-2010%29+%5Bmp3%40VBR-320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":10,"uploader":"zibbik","files":32,"time":1288643194,"description":"Genre: Psychedelic Rock / Indie\nOrigin: Austin, Texas, USA\n\nAlbums\nPassover (2006) @320k\nDirections to See a Ghost (2008) @320k\nPhosphene Dream (2010) @VBR\n\n\n\n","torrent":{"xt":"urn:btih:429c4ca5e54ef95c5c59bbf74ae87ff8669858e3","amp;dn":"The+Black+Angels+-+Discography+%282006-2010%29+%5Bmp3%40VBR-320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"429c4ca5e54ef95c5c59bbf74ae87ff8669858e3","infoHashBuffer":{"type":"Buffer","data":[66,156,76,165,229,78,249,92,92,89,187,247,74,232,127,248,102,152,88,227]},"announce":[],"urlList":[]}}
+{
+  "title": "The Black Angels - Discography (2006-2010) [mp3@VBR-320]",
+  "uid": 5927180,
+  "size": 452970402,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:429c4ca5e54ef95c5c59bbf74ae87ff8669858e3&amp;dn=The+Black+Angels+-+Discography+%282006-2010%29+%5Bmp3%40VBR-320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 10,
+  "uploader": "zibbik",
+  "files": 32,
+  "time": 1288643194,
+  "description": "Genre: Psychedelic Rock / Indie\nOrigin: Austin, Texas, USA\n\nAlbums\nPassover (2006) @320k\nDirections to See a Ghost (2008) @320k\nPhosphene Dream (2010) @VBR\n\n\n\n",
+  "parsed": {
+    "xt": "urn:btih:429c4ca5e54ef95c5c59bbf74ae87ff8669858e3",
+    "dn": "The Black Angels - Discography (2006-2010) [mp3@VBR-320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "429c4ca5e54ef95c5c59bbf74ae87ff8669858e3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        66,
+        156,
+        76,
+        165,
+        229,
+        78,
+        249,
+        92,
+        92,
+        89,
+        187,
+        247,
+        74,
+        232,
+        127,
+        248,
+        102,
+        152,
+        88,
+        227
+      ]
+    },
+    "name": "The Black Angels - Discography (2006-2010) [mp3@VBR-320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 86,
+  "peers": 79,
+  "last_updated": "2016-12-24T23:23:59.402Z"
+}

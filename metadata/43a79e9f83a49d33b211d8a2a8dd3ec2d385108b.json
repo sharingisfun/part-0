@@ -1,1 +1,61 @@
-{"title":"Aaliyah Discography 320kbps","uid":8296775,"size":1176668567,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:43a79e9f83a49d33b211d8a2a8dd3ec2d385108b&amp;dn=Aaliyah+Discography+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":90,"leechers":25,"uploader":"gotfw","files":-1,"time":1364162187,"description":"This is Aaliyah's Discography. Info is as followed\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\n\n\nStudio Albums\n\n(1994)Age Ain't Nothing But a Number\n(1996)One In A Million\n(2001)Aaliyah\n\n\nCompilation Albums\n(2003)I Care 4 U\n(2005)Ultimate Aaliyah\n\n\nSoundtrack Albums\n(1998)Dr. Dolittle (Soundtrack from the Motion Picture)\n(2000)Romeo Must Die","torrent":{"xt":"urn:btih:43a79e9f83a49d33b211d8a2a8dd3ec2d385108b","amp;dn":"Aaliyah+Discography+320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"43a79e9f83a49d33b211d8a2a8dd3ec2d385108b","infoHashBuffer":{"type":"Buffer","data":[67,167,158,159,131,164,157,51,178,17,216,162,168,221,62,194,211,133,16,139]},"announce":[],"urlList":[]}}
+{
+  "title": "Aaliyah Discography 320kbps",
+  "uid": 8296775,
+  "size": 1176668567,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:43a79e9f83a49d33b211d8a2a8dd3ec2d385108b&amp;dn=Aaliyah+Discography+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 90,
+  "leechers": 25,
+  "uploader": "gotfw",
+  "files": -1,
+  "time": 1364162187,
+  "description": "This is Aaliyah's Discography. Info is as followed\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\n\n\nStudio Albums\n\n(1994)Age Ain't Nothing But a Number\n(1996)One In A Million\n(2001)Aaliyah\n\n\nCompilation Albums\n(2003)I Care 4 U\n(2005)Ultimate Aaliyah\n\n\nSoundtrack Albums\n(1998)Dr. Dolittle (Soundtrack from the Motion Picture)\n(2000)Romeo Must Die",
+  "parsed": {
+    "xt": "urn:btih:43a79e9f83a49d33b211d8a2a8dd3ec2d385108b",
+    "dn": "Aaliyah Discography 320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "43a79e9f83a49d33b211d8a2a8dd3ec2d385108b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        67,
+        167,
+        158,
+        159,
+        131,
+        164,
+        157,
+        51,
+        178,
+        17,
+        216,
+        162,
+        168,
+        221,
+        62,
+        194,
+        211,
+        133,
+        16,
+        139
+      ]
+    },
+    "name": "Aaliyah Discography 320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 115,
+  "peers": 150,
+  "last_updated": "2016-12-24T23:30:00.780Z"
+}

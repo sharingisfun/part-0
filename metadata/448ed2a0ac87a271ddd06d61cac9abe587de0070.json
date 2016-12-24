@@ -1,1 +1,61 @@
-{"title":"Bruno Mars - Just the Way You Are [Single][SW]","uid":7414419,"size":9006568,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:448ed2a0ac87a271ddd06d61cac9abe587de0070&amp;dn=Bruno+Mars+-+Just+the+Way+You+Are+%5BSingle%5D%5BSW%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":1,"uploader":"FatFreddy473","files":-1,"time":1341470757,"description":"320kbps CBR itunesrip\n\nripped by SW\n","torrent":{"xt":"urn:btih:448ed2a0ac87a271ddd06d61cac9abe587de0070","amp;dn":"Bruno+Mars+-+Just+the+Way+You+Are+%5BSingle%5D%5BSW%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"448ed2a0ac87a271ddd06d61cac9abe587de0070","infoHashBuffer":{"type":"Buffer","data":[68,142,210,160,172,135,162,113,221,208,109,97,202,201,171,229,135,222,0,112]},"announce":[],"urlList":[]}}
+{
+  "title": "Bruno Mars - Just the Way You Are [Single][SW]",
+  "uid": 7414419,
+  "size": 9006568,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:448ed2a0ac87a271ddd06d61cac9abe587de0070&amp;dn=Bruno+Mars+-+Just+the+Way+You+Are+%5BSingle%5D%5BSW%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 1,
+  "uploader": "FatFreddy473",
+  "files": -1,
+  "time": 1341470757,
+  "description": "320kbps CBR itunesrip\n\nripped by SW\n",
+  "parsed": {
+    "xt": "urn:btih:448ed2a0ac87a271ddd06d61cac9abe587de0070",
+    "dn": "Bruno Mars - Just the Way You Are [Single][SW]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "448ed2a0ac87a271ddd06d61cac9abe587de0070",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        68,
+        142,
+        210,
+        160,
+        172,
+        135,
+        162,
+        113,
+        221,
+        208,
+        109,
+        97,
+        202,
+        201,
+        171,
+        229,
+        135,
+        222,
+        0,
+        112
+      ]
+    },
+    "name": "Bruno Mars - Just the Way You Are [Single][SW]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 35,
+  "last_updated": "2016-12-24T23:35:56.137Z"
+}

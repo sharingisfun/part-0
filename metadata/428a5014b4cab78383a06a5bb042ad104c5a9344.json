@@ -1,1 +1,61 @@
-{"title":"The Others 2001 DivX ENG","uid":3872454,"size":734308352,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:428a5014b4cab78383a06a5bb042ad104c5a9344&amp;dn=The+Others+2001+DivX+ENG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":1,"uploader":"pornlover22","files":1,"time":1194183621,"description":"Drama / Fantasy / Horror / Mystery / Thriller","torrent":{"xt":"urn:btih:428a5014b4cab78383a06a5bb042ad104c5a9344","amp;dn":"The+Others+2001+DivX+ENG","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"428a5014b4cab78383a06a5bb042ad104c5a9344","infoHashBuffer":{"type":"Buffer","data":[66,138,80,20,180,202,183,131,131,160,106,91,176,66,173,16,76,90,147,68]},"announce":[],"urlList":[]}}
+{
+  "title": "The Others 2001 DivX ENG",
+  "uid": 3872454,
+  "size": 734308352,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:428a5014b4cab78383a06a5bb042ad104c5a9344&amp;dn=The+Others+2001+DivX+ENG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 1,
+  "uploader": "pornlover22",
+  "files": 1,
+  "time": 1194183621,
+  "description": "Drama / Fantasy / Horror / Mystery / Thriller",
+  "parsed": {
+    "xt": "urn:btih:428a5014b4cab78383a06a5bb042ad104c5a9344",
+    "dn": "The Others 2001 DivX ENG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "428a5014b4cab78383a06a5bb042ad104c5a9344",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        66,
+        138,
+        80,
+        20,
+        180,
+        202,
+        183,
+        131,
+        131,
+        160,
+        106,
+        91,
+        176,
+        66,
+        173,
+        16,
+        76,
+        90,
+        147,
+        68
+      ]
+    },
+    "name": "The Others 2001 DivX ENG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 9,
+  "last_updated": "2016-12-24T23:23:21.263Z"
+}

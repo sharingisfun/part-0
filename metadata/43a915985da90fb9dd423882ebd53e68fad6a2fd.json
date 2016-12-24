@@ -1,1 +1,61 @@
-{"title":"Hawkeye 021 (2015) (Digital) (Zone-Empire)","uid":11681159,"size":23237850,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:43a915985da90fb9dd423882ebd53e68fad6a2fd&amp;dn=Hawkeye+021+%282015%29+%28Digital%29+%28Zone-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":0,"uploader":"jedi.jesse","files":1,"time":1423098522,"description":"The Finale, Part 1: David. Clint. Barney. The Building. The Tracksuit Draculas. The Clown. Ever seen 'Rio Bravo?' Check it out, it's pretty good","torrent":{"xt":"urn:btih:43a915985da90fb9dd423882ebd53e68fad6a2fd","amp;dn":"Hawkeye+021+%282015%29+%28Digital%29+%28Zone-Empire%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"43a915985da90fb9dd423882ebd53e68fad6a2fd","infoHashBuffer":{"type":"Buffer","data":[67,169,21,152,93,169,15,185,221,66,56,130,235,213,62,104,250,214,162,253]},"announce":[],"urlList":[]}}
+{
+  "title": "Hawkeye 021 (2015) (Digital) (Zone-Empire)",
+  "uid": 11681159,
+  "size": 23237850,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:43a915985da90fb9dd423882ebd53e68fad6a2fd&amp;dn=Hawkeye+021+%282015%29+%28Digital%29+%28Zone-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 0,
+  "uploader": "jedi.jesse",
+  "files": 1,
+  "time": 1423098522,
+  "description": "The Finale, Part 1: David. Clint. Barney. The Building. The Tracksuit Draculas. The Clown. Ever seen 'Rio Bravo?' Check it out, it's pretty good",
+  "parsed": {
+    "xt": "urn:btih:43a915985da90fb9dd423882ebd53e68fad6a2fd",
+    "dn": "Hawkeye 021 (2015) (Digital) (Zone-Empire)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "43a915985da90fb9dd423882ebd53e68fad6a2fd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        67,
+        169,
+        21,
+        152,
+        93,
+        169,
+        15,
+        185,
+        221,
+        66,
+        56,
+        130,
+        235,
+        213,
+        62,
+        104,
+        250,
+        214,
+        162,
+        253
+      ]
+    },
+    "name": "Hawkeye 021 (2015) (Digital) (Zone-Empire)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 5,
+  "last_updated": "2016-12-24T23:30:04.804Z"
+}

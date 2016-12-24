@@ -1,1 +1,63 @@
-{"title":"Ariana Grande-Into You.mp3","uid":15230961,"size":3941841,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:44bd86684c1de360deb8fa9a1230bd8b7fed2908&amp;dn=Ariana+Grande-Into+You.mp3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":132,"leechers":3,"uploader":"mark4705","files":1,"time":1467821935,"description":"Ariana Grande-Into You","torrent":{"xt":"urn:btih:44bd86684c1de360deb8fa9a1230bd8b7fed2908","amp;dn":"Ariana+Grande-Into+You.mp3","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"44bd86684c1de360deb8fa9a1230bd8b7fed2908","infoHashBuffer":{"type":"Buffer","data":[68,189,134,104,76,29,227,96,222,184,250,154,18,48,189,139,127,237,41,8]},"announce":[],"urlList":[]}}
+{
+  "title": "Ariana Grande-Into You.mp3",
+  "uid": 15230961,
+  "size": 3941841,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:44bd86684c1de360deb8fa9a1230bd8b7fed2908&amp;dn=Ariana+Grande-Into+You.mp3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 132,
+  "leechers": 3,
+  "uploader": "mark4705",
+  "files": 1,
+  "time": 1467821935,
+  "description": "Ariana Grande-Into You",
+  "parsed": {
+    "xt": "urn:btih:44bd86684c1de360deb8fa9a1230bd8b7fed2908",
+    "dn": "Ariana Grande-Into You.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "44bd86684c1de360deb8fa9a1230bd8b7fed2908",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        68,
+        189,
+        134,
+        104,
+        76,
+        29,
+        227,
+        96,
+        222,
+        184,
+        250,
+        154,
+        18,
+        48,
+        189,
+        139,
+        127,
+        237,
+        41,
+        8
+      ]
+    },
+    "name": "Ariana Grande-Into You.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 135,
+  "peers": 264,
+  "last_updated": "2016-12-24T23:37:02.438Z"
+}

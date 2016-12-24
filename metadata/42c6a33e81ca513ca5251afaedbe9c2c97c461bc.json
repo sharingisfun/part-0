@@ -1,1 +1,61 @@
-{"title":"Dumb And Dumber To 2014 720p HDRip x264 AAC-KiNGDOM","uid":11672656,"size":1748870018,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:42c6a33e81ca513ca5251afaedbe9c2c97c461bc&amp;dn=Dumb+And+Dumber+To+2014+720p+HDRip+x264+AAC-KiNGDOM&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":807,"leechers":178,"uploader":"Mbb15","files":3,"time":1422736307,"description":"20 years since their first adventure, Lloyd and Harry go on a road trip to find Harry's newly discovered daughter, who was given up for adoption","torrent":{"xt":"urn:btih:42c6a33e81ca513ca5251afaedbe9c2c97c461bc","amp;dn":"Dumb+And+Dumber+To+2014+720p+HDRip+x264+AAC-KiNGDOM","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"42c6a33e81ca513ca5251afaedbe9c2c97c461bc","infoHashBuffer":{"type":"Buffer","data":[66,198,163,62,129,202,81,60,165,37,26,250,237,190,156,44,151,196,97,188]},"announce":[],"urlList":[]}}
+{
+  "title": "Dumb And Dumber To 2014 720p HDRip x264 AAC-KiNGDOM",
+  "uid": 11672656,
+  "size": 1748870018,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:42c6a33e81ca513ca5251afaedbe9c2c97c461bc&amp;dn=Dumb+And+Dumber+To+2014+720p+HDRip+x264+AAC-KiNGDOM&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 807,
+  "leechers": 178,
+  "uploader": "Mbb15",
+  "files": 3,
+  "time": 1422736307,
+  "description": "20 years since their first adventure, Lloyd and Harry go on a road trip to find Harry's newly discovered daughter, who was given up for adoption",
+  "parsed": {
+    "xt": "urn:btih:42c6a33e81ca513ca5251afaedbe9c2c97c461bc",
+    "dn": "Dumb And Dumber To 2014 720p HDRip x264 AAC-KiNGDOM",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "42c6a33e81ca513ca5251afaedbe9c2c97c461bc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        66,
+        198,
+        163,
+        62,
+        129,
+        202,
+        81,
+        60,
+        165,
+        37,
+        26,
+        250,
+        237,
+        190,
+        156,
+        44,
+        151,
+        196,
+        97,
+        188
+      ]
+    },
+    "name": "Dumb And Dumber To 2014 720p HDRip x264 AAC-KiNGDOM",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 985,
+  "peers": 92,
+  "last_updated": "2016-12-24T23:24:53.694Z"
+}

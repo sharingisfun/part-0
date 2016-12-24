@@ -1,1 +1,61 @@
-{"title":"Switched.at.Birth.S04E05.HDTV.x264-KILLERS[ettv]","uid":11679617,"size":289397450,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:443b7c35abb3cef0ed455bc7a3c3f4c1d61d6b19&amp;dn=Switched.at.Birth.S04E05.HDTV.x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":4,"uploader":"ettv","files":3,"time":1423022694,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:443b7c35abb3cef0ed455bc7a3c3f4c1d61d6b19","amp;dn":"Switched.at.Birth.S04E05.HDTV.x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"443b7c35abb3cef0ed455bc7a3c3f4c1d61d6b19","infoHashBuffer":{"type":"Buffer","data":[68,59,124,53,171,179,206,240,237,69,91,199,163,195,244,193,214,29,107,25]},"announce":[],"urlList":[]}}
+{
+  "title": "Switched.at.Birth.S04E05.HDTV.x264-KILLERS[ettv]",
+  "uid": 11679617,
+  "size": 289397450,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:443b7c35abb3cef0ed455bc7a3c3f4c1d61d6b19&amp;dn=Switched.at.Birth.S04E05.HDTV.x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1423022694,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:443b7c35abb3cef0ed455bc7a3c3f4c1d61d6b19",
+    "dn": "Switched.at.Birth.S04E05.HDTV.x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "443b7c35abb3cef0ed455bc7a3c3f4c1d61d6b19",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        68,
+        59,
+        124,
+        53,
+        171,
+        179,
+        206,
+        240,
+        237,
+        69,
+        91,
+        199,
+        163,
+        195,
+        244,
+        193,
+        214,
+        29,
+        107,
+        25
+      ]
+    },
+    "name": "Switched.at.Birth.S04E05.HDTV.x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 24,
+  "last_updated": "2016-12-24T23:33:39.600Z"
+}

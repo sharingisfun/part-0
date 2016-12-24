@@ -1,1 +1,61 @@
-{"title":"Volbeat - Discography (2005-2008) [mp3@320]","uid":6019700,"size":350592917,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:44589464b5e8ed3f381d7fcb41b9b61708a51f19&amp;dn=Volbeat+-+Discography+%282005-2008%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":11,"uploader":"zibbik","files":40,"time":1291761635,"description":"Genre: Heavy/Groove Metal\nOrigin: Denmark (Copenhagen)\n\nAlbums\nThe Strength,The Sound,The Songs (2005)\nRock the Rebel-Metal the Devil (2007)\nGuitar Gangsters and Cadillac Blood(2008)\n\n\nCurrent line-up \nMichael Poulsen - Vocals, Guitar (Dominus (Dnk))\nThomas Bredahl - Guitar\nAnders KjÃƒâ€¦","torrent":{"xt":"urn:btih:44589464b5e8ed3f381d7fcb41b9b61708a51f19","amp;dn":"Volbeat+-+Discography+%282005-2008%29+%5Bmp3%40320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"44589464b5e8ed3f381d7fcb41b9b61708a51f19","infoHashBuffer":{"type":"Buffer","data":[68,88,148,100,181,232,237,63,56,29,127,203,65,185,182,23,8,165,31,25]},"announce":[],"urlList":[]}}
+{
+  "title": "Volbeat - Discography (2005-2008) [mp3@320]",
+  "uid": 6019700,
+  "size": 350592917,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:44589464b5e8ed3f381d7fcb41b9b61708a51f19&amp;dn=Volbeat+-+Discography+%282005-2008%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 11,
+  "uploader": "zibbik",
+  "files": 40,
+  "time": 1291761635,
+  "description": "Genre: Heavy/Groove Metal\nOrigin: Denmark (Copenhagen)\n\nAlbums\nThe Strength,The Sound,The Songs (2005)\nRock the Rebel-Metal the Devil (2007)\nGuitar Gangsters and Cadillac Blood(2008)\n\n\nCurrent line-up \nMichael Poulsen - Vocals, Guitar (Dominus (Dnk))\nThomas Bredahl - Guitar\nAnders KjÃƒâ€¦",
+  "parsed": {
+    "xt": "urn:btih:44589464b5e8ed3f381d7fcb41b9b61708a51f19",
+    "dn": "Volbeat - Discography (2005-2008) [mp3@320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "44589464b5e8ed3f381d7fcb41b9b61708a51f19",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        68,
+        88,
+        148,
+        100,
+        181,
+        232,
+        237,
+        63,
+        56,
+        29,
+        127,
+        203,
+        65,
+        185,
+        182,
+        23,
+        8,
+        165,
+        31,
+        25
+      ]
+    },
+    "name": "Volbeat - Discography (2005-2008) [mp3@320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 63,
+  "peers": 0,
+  "last_updated": "2016-12-24T23:34:23.773Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Supreme Commander 2 v1.250 Definitive edition","uid":6237979,"size":4568821760,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:4451f4f5537b807fd11fc94b7a17e397d5f61e9f&amp;dn=Supreme+Commander+2+v1.250+Definitive+edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":68,"leechers":11,"uploader":"mihaitza_cel_viteaz","files":-1,"time":1299946664,"description":"Supreme Commander 2 1.250 (Jimbus edition), just install and play.\n\n\nThis version contains:\n\n- The game with English audio and subtitles in several languages (English, Spanish, French, Italian, etc.).\n- The updates up to the 1.250.\n- All the necessary files to play online and offline, either alone or with friends.\n- A guide.\n- The DLC Infinite War Battle Pack\n- A trainer.\n- The needed libraries to play.\n\n\nFor those who might say this version does not work: read the information shown by the installer to solve any doubt.","torrent":{"xt":"urn:btih:4451f4f5537b807fd11fc94b7a17e397d5f61e9f","amp;dn":"Supreme+Commander+2+v1.250+Definitive+edition","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4451f4f5537b807fd11fc94b7a17e397d5f61e9f","infoHashBuffer":{"type":"Buffer","data":[68,81,244,245,83,123,128,127,209,31,201,75,122,23,227,151,213,246,30,159]},"announce":[],"urlList":[]}}
+{
+  "title": "Supreme Commander 2 v1.250 Definitive edition",
+  "uid": 6237979,
+  "size": 4568821760,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:4451f4f5537b807fd11fc94b7a17e397d5f61e9f&amp;dn=Supreme+Commander+2+v1.250+Definitive+edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 68,
+  "leechers": 11,
+  "uploader": "mihaitza_cel_viteaz",
+  "files": -1,
+  "time": 1299946664,
+  "description": "Supreme Commander 2 1.250 (Jimbus edition), just install and play.\n\n\nThis version contains:\n\n- The game with English audio and subtitles in several languages (English, Spanish, French, Italian, etc.).\n- The updates up to the 1.250.\n- All the necessary files to play online and offline, either alone or with friends.\n- A guide.\n- The DLC Infinite War Battle Pack\n- A trainer.\n- The needed libraries to play.\n\n\nFor those who might say this version does not work: read the information shown by the installer to solve any doubt.",
+  "parsed": {
+    "xt": "urn:btih:4451f4f5537b807fd11fc94b7a17e397d5f61e9f",
+    "dn": "Supreme Commander 2 v1.250 Definitive edition",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4451f4f5537b807fd11fc94b7a17e397d5f61e9f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        68,
+        81,
+        244,
+        245,
+        83,
+        123,
+        128,
+        127,
+        209,
+        31,
+        201,
+        75,
+        122,
+        23,
+        227,
+        151,
+        213,
+        246,
+        30,
+        159
+      ]
+    },
+    "name": "Supreme Commander 2 v1.250 Definitive edition",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 61,
+  "last_updated": "2016-12-24T23:34:11.731Z"
+}

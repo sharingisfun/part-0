@@ -1,1 +1,63 @@
-{"title":"Panzer Corps: Soviet Corps (+14 DLC) (2011-2016)","uid":15964410,"size":23509796,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:45013f83ced7d84fdbe3aaa6d58b64607711d902&amp;dn=Panzer+Corps%3A+Soviet+Corps+%28%2B14+DLC%29+%282011-2016%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":102,"leechers":63,"uploader":"trwetwr","files":4,"time":1475708808,"description":"Good Game","torrent":{"xt":"urn:btih:45013f83ced7d84fdbe3aaa6d58b64607711d902","amp;dn":"Panzer+Corps%3A+Soviet+Corps+%28%2B14+DLC%29+%282011-2016%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"45013f83ced7d84fdbe3aaa6d58b64607711d902","infoHashBuffer":{"type":"Buffer","data":[69,1,63,131,206,215,216,79,219,227,170,166,213,139,100,96,119,17,217,2]},"announce":[],"urlList":[]}}
+{
+  "title": "Panzer Corps: Soviet Corps (+14 DLC) (2011-2016)",
+  "uid": 15964410,
+  "size": 23509796,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:45013f83ced7d84fdbe3aaa6d58b64607711d902&amp;dn=Panzer+Corps%3A+Soviet+Corps+%28%2B14+DLC%29+%282011-2016%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 102,
+  "leechers": 63,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475708808,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:45013f83ced7d84fdbe3aaa6d58b64607711d902",
+    "dn": "Panzer Corps: Soviet Corps ( 14 DLC) (2011-2016)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "45013f83ced7d84fdbe3aaa6d58b64607711d902",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        69,
+        1,
+        63,
+        131,
+        206,
+        215,
+        216,
+        79,
+        219,
+        227,
+        170,
+        166,
+        213,
+        139,
+        100,
+        96,
+        119,
+        17,
+        217,
+        2
+      ]
+    },
+    "name": "Panzer Corps: Soviet Corps ( 14 DLC) (2011-2016)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 165,
+  "peers": 2,
+  "last_updated": "2016-12-24T23:38:46.855Z"
+}

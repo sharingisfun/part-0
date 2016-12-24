@@ -1,1 +1,63 @@
-{"title":"Narcos - Season 1","uid":14074017,"size":4196941106,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:43d915e80a88337a027b8644c695e0873b1ce4c0&amp;dn=Narcos+-+Season+1&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":80,"leechers":21,"uploader":"7436746","files":10,"time":1459197697,"description":"http://www.imdb.com/title/tt2707408/\r\n\r\nA chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar","torrent":{"xt":"urn:btih:43d915e80a88337a027b8644c695e0873b1ce4c0","amp;dn":"Narcos+-+Season+1","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"43d915e80a88337a027b8644c695e0873b1ce4c0","infoHashBuffer":{"type":"Buffer","data":[67,217,21,232,10,136,51,122,2,123,134,68,198,149,224,135,59,28,228,192]},"announce":[],"urlList":[]}}
+{
+  "title": "Narcos - Season 1",
+  "uid": 14074017,
+  "size": 4196941106,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:43d915e80a88337a027b8644c695e0873b1ce4c0&amp;dn=Narcos+-+Season+1&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 80,
+  "leechers": 21,
+  "uploader": "7436746",
+  "files": 10,
+  "time": 1459197697,
+  "description": "http://www.imdb.com/title/tt2707408/\r\n\r\nA chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar",
+  "parsed": {
+    "xt": "urn:btih:43d915e80a88337a027b8644c695e0873b1ce4c0",
+    "dn": "Narcos - Season 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "43d915e80a88337a027b8644c695e0873b1ce4c0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        67,
+        217,
+        21,
+        232,
+        10,
+        136,
+        51,
+        122,
+        2,
+        123,
+        134,
+        68,
+        198,
+        149,
+        224,
+        135,
+        59,
+        28,
+        228,
+        192
+      ]
+    },
+    "name": "Narcos - Season 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 101,
+  "peers": 93,
+  "last_updated": "2016-12-24T23:31:23.050Z"
+}

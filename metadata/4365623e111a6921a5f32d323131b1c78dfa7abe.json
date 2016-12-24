@@ -1,1 +1,61 @@
-{"title":"Jungle - Jungle (2014)","uid":10534351,"size":95221038,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4365623e111a6921a5f32d323131b1c78dfa7abe&amp;dn=Jungle+-+Jungle+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":1,"uploader":"dean5481","files":12,"time":1405142859,"description":"Self-titled debut album from UK duo Jungle.\n\n\n1. The Heat\n2. Accelerate\n3. Busy Earnin'\n4. Platoon\n5. Drops\n6. Time\n7. Smoking Pixels\n8. Julia\n9. Crumbler\n10. Son Of A Gun\n11. Lucky I Got What I Want\n12. Lemonade Lake","torrent":{"xt":"urn:btih:4365623e111a6921a5f32d323131b1c78dfa7abe","amp;dn":"Jungle+-+Jungle+%282014%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4365623e111a6921a5f32d323131b1c78dfa7abe","infoHashBuffer":{"type":"Buffer","data":[67,101,98,62,17,26,105,33,165,243,45,50,49,49,177,199,141,250,122,190]},"announce":[],"urlList":[]}}
+{
+  "title": "Jungle - Jungle (2014)",
+  "uid": 10534351,
+  "size": 95221038,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4365623e111a6921a5f32d323131b1c78dfa7abe&amp;dn=Jungle+-+Jungle+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 1,
+  "uploader": "dean5481",
+  "files": 12,
+  "time": 1405142859,
+  "description": "Self-titled debut album from UK duo Jungle.\n\n\n1. The Heat\n2. Accelerate\n3. Busy Earnin'\n4. Platoon\n5. Drops\n6. Time\n7. Smoking Pixels\n8. Julia\n9. Crumbler\n10. Son Of A Gun\n11. Lucky I Got What I Want\n12. Lemonade Lake",
+  "parsed": {
+    "xt": "urn:btih:4365623e111a6921a5f32d323131b1c78dfa7abe",
+    "dn": "Jungle - Jungle (2014)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4365623e111a6921a5f32d323131b1c78dfa7abe",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        67,
+        101,
+        98,
+        62,
+        17,
+        26,
+        105,
+        33,
+        165,
+        243,
+        45,
+        50,
+        49,
+        49,
+        177,
+        199,
+        141,
+        250,
+        122,
+        190
+      ]
+    },
+    "name": "Jungle - Jungle (2014)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 7,
+  "last_updated": "2016-12-24T23:28:34.502Z"
+}

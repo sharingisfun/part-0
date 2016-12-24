@@ -1,1 +1,63 @@
-{"title":"MalwareBytes Anti-Exploit 1.06.1.1012","uid":15964012,"size":50013728,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:443f0d263a608f2785c26df3136a4f16d9133dee&amp;dn=MalwareBytes+Anti-Exploit+1.06.1.1012&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":178,"leechers":33,"uploader":"faropbtf","files":7,"time":1475704001,"description":"Malwarebytes Anti-Exploit Premium protects you from zero-day exploits targeting browser and application vulnerabilities. Its proprietary technology guards you in that critical period between the release of a new exploit and its security patch. And, unlike antivirus products, Malwarebytes Anti-Exploit Premium proactively prevents the exploit from installing its payload. Before it can do damage.\r\nHow it works for you","torrent":{"xt":"urn:btih:443f0d263a608f2785c26df3136a4f16d9133dee","amp;dn":"MalwareBytes+Anti-Exploit+1.06.1.1012","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"443f0d263a608f2785c26df3136a4f16d9133dee","infoHashBuffer":{"type":"Buffer","data":[68,63,13,38,58,96,143,39,133,194,109,243,19,106,79,22,217,19,61,238]},"announce":[],"urlList":[]}}
+{
+  "title": "MalwareBytes Anti-Exploit 1.06.1.1012",
+  "uid": 15964012,
+  "size": 50013728,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:443f0d263a608f2785c26df3136a4f16d9133dee&amp;dn=MalwareBytes+Anti-Exploit+1.06.1.1012&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 178,
+  "leechers": 33,
+  "uploader": "faropbtf",
+  "files": 7,
+  "time": 1475704001,
+  "description": "Malwarebytes Anti-Exploit Premium protects you from zero-day exploits targeting browser and application vulnerabilities. Its proprietary technology guards you in that critical period between the release of a new exploit and its security patch. And, unlike antivirus products, Malwarebytes Anti-Exploit Premium proactively prevents the exploit from installing its payload. Before it can do damage.\r\nHow it works for you",
+  "parsed": {
+    "xt": "urn:btih:443f0d263a608f2785c26df3136a4f16d9133dee",
+    "dn": "MalwareBytes Anti-Exploit 1.06.1.1012",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "443f0d263a608f2785c26df3136a4f16d9133dee",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        68,
+        63,
+        13,
+        38,
+        58,
+        96,
+        143,
+        39,
+        133,
+        194,
+        109,
+        243,
+        19,
+        106,
+        79,
+        22,
+        217,
+        19,
+        61,
+        238
+      ]
+    },
+    "name": "MalwareBytes Anti-Exploit 1.06.1.1012",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 211,
+  "peers": 2,
+  "last_updated": "2016-12-24T23:33:51.654Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Zero.Motivation.2014.720p.HDTV.x264-Yonidan.mkv","uid":11701730,"size":2491865917,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:430abae63fea0ed676a2ffa2fb4ace15d26f3367&amp;dn=Zero.Motivation.2014.720p.HDTV.x264-Yonidan.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":101,"leechers":4,"uploader":null,"files":1,"time":1423940745,"description":"A unit of female Israeli soldiers at a remote desert base bide their time as they count down the minutes until they can return to civilian life","torrent":{"xt":"urn:btih:430abae63fea0ed676a2ffa2fb4ace15d26f3367","amp;dn":"Zero.Motivation.2014.720p.HDTV.x264-Yonidan.mkv","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"430abae63fea0ed676a2ffa2fb4ace15d26f3367","infoHashBuffer":{"type":"Buffer","data":[67,10,186,230,63,234,14,214,118,162,255,162,251,74,206,21,210,111,51,103]},"announce":[],"urlList":[]}}
+{
+  "title": "Zero.Motivation.2014.720p.HDTV.x264-Yonidan.mkv",
+  "uid": 11701730,
+  "size": 2491865917,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:430abae63fea0ed676a2ffa2fb4ace15d26f3367&amp;dn=Zero.Motivation.2014.720p.HDTV.x264-Yonidan.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 101,
+  "leechers": 4,
+  "uploader": null,
+  "files": 1,
+  "time": 1423940745,
+  "description": "A unit of female Israeli soldiers at a remote desert base bide their time as they count down the minutes until they can return to civilian life",
+  "parsed": {
+    "xt": "urn:btih:430abae63fea0ed676a2ffa2fb4ace15d26f3367",
+    "dn": "Zero.Motivation.2014.720p.HDTV.x264-Yonidan.mkv",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "430abae63fea0ed676a2ffa2fb4ace15d26f3367",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        67,
+        10,
+        186,
+        230,
+        63,
+        234,
+        14,
+        214,
+        118,
+        162,
+        255,
+        162,
+        251,
+        74,
+        206,
+        21,
+        210,
+        111,
+        51,
+        103
+      ]
+    },
+    "name": "Zero.Motivation.2014.720p.HDTV.x264-Yonidan.mkv",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 105,
+  "peers": 80,
+  "last_updated": "2016-12-24T23:26:40.094Z"
+}

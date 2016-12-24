@@ -1,1 +1,61 @@
-{"title":"Exodus.Gods.and.Kings.2014.720p.BluRay.X264-AMIABLE","uid":11744598,"size":7052738168,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:442e70540d59ef7be24ea6218ab7885ca4c523dc&amp;dn=Exodus.Gods.and.Kings.2014.720p.BluRay.X264-AMIABLE&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":14,"uploader":"GoodFilms","files":6,"time":1425947269,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt1528100/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt1528100/&lt;/a&gt;","torrent":{"xt":"urn:btih:442e70540d59ef7be24ea6218ab7885ca4c523dc","amp;dn":"Exodus.Gods.and.Kings.2014.720p.BluRay.X264-AMIABLE","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"442e70540d59ef7be24ea6218ab7885ca4c523dc","infoHashBuffer":{"type":"Buffer","data":[68,46,112,84,13,89,239,123,226,78,166,33,138,183,136,92,164,197,35,220]},"announce":[],"urlList":[]}}
+{
+  "title": "Exodus.Gods.and.Kings.2014.720p.BluRay.X264-AMIABLE",
+  "uid": 11744598,
+  "size": 7052738168,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:442e70540d59ef7be24ea6218ab7885ca4c523dc&amp;dn=Exodus.Gods.and.Kings.2014.720p.BluRay.X264-AMIABLE&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 14,
+  "uploader": "GoodFilms",
+  "files": 6,
+  "time": 1425947269,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt1528100/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt1528100/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:442e70540d59ef7be24ea6218ab7885ca4c523dc",
+    "dn": "Exodus.Gods.and.Kings.2014.720p.BluRay.X264-AMIABLE",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "442e70540d59ef7be24ea6218ab7885ca4c523dc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        68,
+        46,
+        112,
+        84,
+        13,
+        89,
+        239,
+        123,
+        226,
+        78,
+        166,
+        33,
+        138,
+        183,
+        136,
+        92,
+        164,
+        197,
+        35,
+        220
+      ]
+    },
+    "name": "Exodus.Gods.and.Kings.2014.720p.BluRay.X264-AMIABLE",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 86,
+  "peers": 14,
+  "last_updated": "2016-12-24T23:33:25.530Z"
+}
