@@ -1,1 +1,61 @@
-{"title":"Kumare.2011.LIMITED.DVDRip.XviD-GECKOS","uid":8173307,"size":734690104,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:405b4a4bb982fd4733020b1c7c3b6e4d85864024&amp;dn=Kumare.2011.LIMITED.DVDRip.XviD-GECKOS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":1,"uploader":".SceNe.","files":1,"time":1361467430,"description":"\nKumare.2011.LIMITED.DVDRip.XviD-GECKOS\nDate : 21 February 2013\nIMDb : http://www.imdb.com/title/tt1865425\nSize : 700MB\nRes : 624x352\nXviD bitrate : 1016Kbps\nAudio : English MP3 2.0 134Kbps\n","torrent":{"xt":"urn:btih:405b4a4bb982fd4733020b1c7c3b6e4d85864024","amp;dn":"Kumare.2011.LIMITED.DVDRip.XviD-GECKOS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"405b4a4bb982fd4733020b1c7c3b6e4d85864024","infoHashBuffer":{"type":"Buffer","data":[64,91,74,75,185,130,253,71,51,2,11,28,124,59,110,77,133,134,64,36]},"announce":[],"urlList":[]}}
+{
+  "title": "Kumare.2011.LIMITED.DVDRip.XviD-GECKOS",
+  "uid": 8173307,
+  "size": 734690104,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:405b4a4bb982fd4733020b1c7c3b6e4d85864024&amp;dn=Kumare.2011.LIMITED.DVDRip.XviD-GECKOS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 1,
+  "uploader": ".SceNe.",
+  "files": 1,
+  "time": 1361467430,
+  "description": "\nKumare.2011.LIMITED.DVDRip.XviD-GECKOS\nDate : 21 February 2013\nIMDb : http://www.imdb.com/title/tt1865425\nSize : 700MB\nRes : 624x352\nXviD bitrate : 1016Kbps\nAudio : English MP3 2.0 134Kbps\n",
+  "parsed": {
+    "xt": "urn:btih:405b4a4bb982fd4733020b1c7c3b6e4d85864024",
+    "dn": "Kumare.2011.LIMITED.DVDRip.XviD-GECKOS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "405b4a4bb982fd4733020b1c7c3b6e4d85864024",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        64,
+        91,
+        74,
+        75,
+        185,
+        130,
+        253,
+        71,
+        51,
+        2,
+        11,
+        28,
+        124,
+        59,
+        110,
+        77,
+        133,
+        134,
+        64,
+        36
+      ]
+    },
+    "name": "Kumare.2011.LIMITED.DVDRip.XviD-GECKOS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 16,
+  "last_updated": "2016-12-24T23:09:26.001Z"
+}

@@ -1,1 +1,61 @@
-{"title":"The Walking Dead S05E11 HDTV x264-KILLERS","uid":11730133,"size":477551460,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:4211e7389331e8c12493dbb031ce897a8608a041&amp;dn=The+Walking+Dead+S05E11+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":311,"leechers":25,"uploader":"beta2008x","files":1,"time":1425269171,"description":"The.Walking.Dead.S05E12.HDTV.x264-KILLERS","torrent":{"xt":"urn:btih:4211e7389331e8c12493dbb031ce897a8608a041","amp;dn":"The+Walking+Dead+S05E11+HDTV+x264-KILLERS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4211e7389331e8c12493dbb031ce897a8608a041","infoHashBuffer":{"type":"Buffer","data":[66,17,231,56,147,49,232,193,36,147,219,176,49,206,137,122,134,8,160,65]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead S05E11 HDTV x264-KILLERS",
+  "uid": 11730133,
+  "size": 477551460,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:4211e7389331e8c12493dbb031ce897a8608a041&amp;dn=The+Walking+Dead+S05E11+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 311,
+  "leechers": 25,
+  "uploader": "beta2008x",
+  "files": 1,
+  "time": 1425269171,
+  "description": "The.Walking.Dead.S05E12.HDTV.x264-KILLERS",
+  "parsed": {
+    "xt": "urn:btih:4211e7389331e8c12493dbb031ce897a8608a041",
+    "dn": "The Walking Dead S05E11 HDTV x264-KILLERS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4211e7389331e8c12493dbb031ce897a8608a041",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        66,
+        17,
+        231,
+        56,
+        147,
+        49,
+        232,
+        193,
+        36,
+        147,
+        219,
+        176,
+        49,
+        206,
+        137,
+        122,
+        134,
+        8,
+        160,
+        65
+      ]
+    },
+    "name": "The Walking Dead S05E11 HDTV x264-KILLERS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 336,
+  "peers": 46,
+  "last_updated": "2016-12-24T23:20:30.521Z"
+}

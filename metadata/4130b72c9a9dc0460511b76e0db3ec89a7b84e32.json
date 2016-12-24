@@ -1,1 +1,61 @@
-{"title":"Meghan Trainor - Title (Deluxe) 2015 FLAC","uid":11677037,"size":320025960,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:4130b72c9a9dc0460511b76e0db3ec89a7b84e32&amp;dn=Meghan+Trainor+-+Title+%28Deluxe%29+2015+FLAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":146,"leechers":14,"uploader":"andrehenrique20","files":16,"time":1422913922,"description":"The Best Part (Interlude)\nAll About That Bass\nDear Future Husband\nClose Your Eyes\n3am\nLike I'm Gonna Lose You (feat. John Legend)\nBang Dem Sticks\nWalkashame\nTitle\nWhat If I\nLips Are Movin\nNo Good For You\nMr. Almost (feat. Shy Carter)\nMy Selfish Heart\nCredit","torrent":{"xt":"urn:btih:4130b72c9a9dc0460511b76e0db3ec89a7b84e32","amp;dn":"Meghan+Trainor+-+Title+%28Deluxe%29+2015+FLAC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4130b72c9a9dc0460511b76e0db3ec89a7b84e32","infoHashBuffer":{"type":"Buffer","data":[65,48,183,44,154,157,192,70,5,17,183,110,13,179,236,137,167,184,78,50]},"announce":[],"urlList":[]}}
+{
+  "title": "Meghan Trainor - Title (Deluxe) 2015 FLAC",
+  "uid": 11677037,
+  "size": 320025960,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:4130b72c9a9dc0460511b76e0db3ec89a7b84e32&amp;dn=Meghan+Trainor+-+Title+%28Deluxe%29+2015+FLAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 146,
+  "leechers": 14,
+  "uploader": "andrehenrique20",
+  "files": 16,
+  "time": 1422913922,
+  "description": "The Best Part (Interlude)\nAll About That Bass\nDear Future Husband\nClose Your Eyes\n3am\nLike I'm Gonna Lose You (feat. John Legend)\nBang Dem Sticks\nWalkashame\nTitle\nWhat If I\nLips Are Movin\nNo Good For You\nMr. Almost (feat. Shy Carter)\nMy Selfish Heart\nCredit",
+  "parsed": {
+    "xt": "urn:btih:4130b72c9a9dc0460511b76e0db3ec89a7b84e32",
+    "dn": "Meghan Trainor - Title (Deluxe) 2015 FLAC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4130b72c9a9dc0460511b76e0db3ec89a7b84e32",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        65,
+        48,
+        183,
+        44,
+        154,
+        157,
+        192,
+        70,
+        5,
+        17,
+        183,
+        110,
+        13,
+        179,
+        236,
+        137,
+        167,
+        184,
+        78,
+        50
+      ]
+    },
+    "name": "Meghan Trainor - Title (Deluxe) 2015 FLAC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 160,
+  "peers": 26,
+  "last_updated": "2016-12-24T23:14:53.212Z"
+}

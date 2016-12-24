@@ -1,1 +1,61 @@
-{"title":"Naughty Boy - La La La feat. Sam Smith [2013 - single]","uid":8338562,"size":3544292,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4210e7df34ea4f9ea53dc966506daa67f87a932f&amp;dn=Naughty+Boy+-+La+La+La+feat.+Sam+Smith+%5B2013+-+single%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":172,"leechers":0,"uploader":"sergelover","files":1,"time":1365030726,"description":"&quot;La La La&quot; feat. Sam Smith from upcoming album &quot;Hotel Cabana&quot;\n\nEnjoy and seed! \n\nThanks","torrent":{"xt":"urn:btih:4210e7df34ea4f9ea53dc966506daa67f87a932f","amp;dn":"Naughty+Boy+-+La+La+La+feat.+Sam+Smith+%5B2013+-+single%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4210e7df34ea4f9ea53dc966506daa67f87a932f","infoHashBuffer":{"type":"Buffer","data":[66,16,231,223,52,234,79,158,165,61,201,102,80,109,170,103,248,122,147,47]},"announce":[],"urlList":[]}}
+{
+  "title": "Naughty Boy - La La La feat. Sam Smith [2013 - single]",
+  "uid": 8338562,
+  "size": 3544292,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4210e7df34ea4f9ea53dc966506daa67f87a932f&amp;dn=Naughty+Boy+-+La+La+La+feat.+Sam+Smith+%5B2013+-+single%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 172,
+  "leechers": 0,
+  "uploader": "sergelover",
+  "files": 1,
+  "time": 1365030726,
+  "description": "&quot;La La La&quot; feat. Sam Smith from upcoming album &quot;Hotel Cabana&quot;\n\nEnjoy and seed! \n\nThanks",
+  "parsed": {
+    "xt": "urn:btih:4210e7df34ea4f9ea53dc966506daa67f87a932f",
+    "dn": "Naughty Boy - La La La feat. Sam Smith [2013 - single]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4210e7df34ea4f9ea53dc966506daa67f87a932f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        66,
+        16,
+        231,
+        223,
+        52,
+        234,
+        79,
+        158,
+        165,
+        61,
+        201,
+        102,
+        80,
+        109,
+        170,
+        103,
+        248,
+        122,
+        147,
+        47
+      ]
+    },
+    "name": "Naughty Boy - La La La feat. Sam Smith [2013 - single]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 172,
+  "peers": 36,
+  "last_updated": "2016-12-24T23:20:28.513Z"
+}

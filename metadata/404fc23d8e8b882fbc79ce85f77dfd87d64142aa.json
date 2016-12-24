@@ -1,1 +1,61 @@
-{"title":"Empyrion - Galactic Survival v2.0.2","uid":12216251,"size":795763253,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:404fc23d8e8b882fbc79ce85f77dfd87d64142aa&amp;dn=Empyrion+-+Galactic+Survival+v2.0.2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":4,"uploader":"dauphong","files":1,"time":1439235718,"description":" Empyrion - Galactic Survival is a 3D open world, space survival adventure in which you can fly across space and land on planets. Build, explore, fight and survive in a hostile galaxy full of hidden dangers. The game uniquely combines elements from space simulations, construction games, survival games and ego-shooters. The game is currently under development by Eleon Game Studios","torrent":{"xt":"urn:btih:404fc23d8e8b882fbc79ce85f77dfd87d64142aa","amp;dn":"Empyrion+-+Galactic+Survival+v2.0.2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"404fc23d8e8b882fbc79ce85f77dfd87d64142aa","infoHashBuffer":{"type":"Buffer","data":[64,79,194,61,142,139,136,47,188,121,206,133,247,125,253,135,214,65,66,170]},"announce":[],"urlList":[]}}
+{
+  "title": "Empyrion - Galactic Survival v2.0.2",
+  "uid": 12216251,
+  "size": 795763253,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:404fc23d8e8b882fbc79ce85f77dfd87d64142aa&amp;dn=Empyrion+-+Galactic+Survival+v2.0.2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 4,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1439235718,
+  "description": " Empyrion - Galactic Survival is a 3D open world, space survival adventure in which you can fly across space and land on planets. Build, explore, fight and survive in a hostile galaxy full of hidden dangers. The game uniquely combines elements from space simulations, construction games, survival games and ego-shooters. The game is currently under development by Eleon Game Studios",
+  "parsed": {
+    "xt": "urn:btih:404fc23d8e8b882fbc79ce85f77dfd87d64142aa",
+    "dn": "Empyrion - Galactic Survival v2.0.2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "404fc23d8e8b882fbc79ce85f77dfd87d64142aa",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        64,
+        79,
+        194,
+        61,
+        142,
+        139,
+        136,
+        47,
+        188,
+        121,
+        206,
+        133,
+        247,
+        125,
+        253,
+        135,
+        214,
+        65,
+        66,
+        170
+      ]
+    },
+    "name": "Empyrion - Galactic Survival v2.0.2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 20,
+  "last_updated": "2016-12-24T23:09:11.954Z"
+}

@@ -1,1 +1,61 @@
-{"title":"The xx - xx (Bonus Track Version) [2009-Album]","uid":7397403,"size":101682997,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4052a1381dd09e35b327258eda137fb6b97484e2&amp;dn=The+xx+-+xx+%28Bonus+Track+Version%29+%5B2009-Album%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":93,"leechers":3,"uploader":"alliekathbextor","files":-1,"time":1340958086,"description":"320kbps iTunes rip\n\n01 Intro\n02 VCR\n03 Crystalised\n04 Islands\n05 Heart Skipped a Beat\n06 Fantasy\n07 Shelter\n08 Basic Space\n09 Infinity\n10 Night Time\n11 Stars\n12 Hot Like Fire (Bonus Track)","torrent":{"xt":"urn:btih:4052a1381dd09e35b327258eda137fb6b97484e2","amp;dn":"The+xx+-+xx+%28Bonus+Track+Version%29+%5B2009-Album%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4052a1381dd09e35b327258eda137fb6b97484e2","infoHashBuffer":{"type":"Buffer","data":[64,82,161,56,29,208,158,53,179,39,37,142,218,19,127,182,185,116,132,226]},"announce":[],"urlList":[]}}
+{
+  "title": "The xx - xx (Bonus Track Version) [2009-Album]",
+  "uid": 7397403,
+  "size": 101682997,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4052a1381dd09e35b327258eda137fb6b97484e2&amp;dn=The+xx+-+xx+%28Bonus+Track+Version%29+%5B2009-Album%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 93,
+  "leechers": 3,
+  "uploader": "alliekathbextor",
+  "files": -1,
+  "time": 1340958086,
+  "description": "320kbps iTunes rip\n\n01 Intro\n02 VCR\n03 Crystalised\n04 Islands\n05 Heart Skipped a Beat\n06 Fantasy\n07 Shelter\n08 Basic Space\n09 Infinity\n10 Night Time\n11 Stars\n12 Hot Like Fire (Bonus Track)",
+  "parsed": {
+    "xt": "urn:btih:4052a1381dd09e35b327258eda137fb6b97484e2",
+    "dn": "The xx - xx (Bonus Track Version) [2009-Album]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4052a1381dd09e35b327258eda137fb6b97484e2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        64,
+        82,
+        161,
+        56,
+        29,
+        208,
+        158,
+        53,
+        179,
+        39,
+        37,
+        142,
+        218,
+        19,
+        127,
+        182,
+        185,
+        116,
+        132,
+        226
+      ]
+    },
+    "name": "The xx - xx (Bonus Track Version) [2009-Album]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 96,
+  "peers": 21,
+  "last_updated": "2016-12-24T23:09:19.978Z"
+}

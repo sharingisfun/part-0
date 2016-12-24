@@ -1,1 +1,61 @@
-{"title":"Sia Chandelier Single-[320kbps-mp3-2014]","uid":10273311,"size":8816652,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3fecbae8432edaab1073c037570591c18f96b27a&amp;dn=Sia+Chandelier+Single-%5B320kbps-mp3-2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":0,"uploader":"simpsonrony","files":1,"time":1401622043,"description":"Format                                   : MPEG Audio\nFile size                                : 8.41 MiB\nDuration                                 : 3mn 36s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 320 Kbps\nAlbum                                    : Chandelier - Single\nPart/Position                            : 1\nPart/Total                               : 1\nTrack name                               : Chandelier\nTrack name/Position                      : 1\nTrack name/Total                         : 1\nPerformer                                : Sia\nComposer                                 : Sia Furler &amp; Jesse shatkin\nEncoded by                               : SSR\nGenre                                    : Pop\nReleased date                            : UTC 2014-03- 7T07:00:00Z\nRecorded date                            : 2014\nWriting library                          : LAME3.99.5\nCopyright                                : Ã¢â€žâ€” 2014 Monkey Puzzle Records, under exclusive license to RCA Records\nCover                                    : Yes\nCover type                               : Cover (front)\nCover MIME                               : image/jpeg\nComment                                  : SSR\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nMode extension                           : MS Stereo\nDuration                                 : 3mn 36s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 8.25 MiB (98%)\nWriting library                          : LAME3.99.5\n\n","torrent":{"xt":"urn:btih:3fecbae8432edaab1073c037570591c18f96b27a","amp;dn":"Sia+Chandelier+Single-%5B320kbps-mp3-2014%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3fecbae8432edaab1073c037570591c18f96b27a","infoHashBuffer":{"type":"Buffer","data":[63,236,186,232,67,46,218,171,16,115,192,55,87,5,145,193,143,150,178,122]},"announce":[],"urlList":[]}}
+{
+  "title": "Sia Chandelier Single-[320kbps-mp3-2014]",
+  "uid": 10273311,
+  "size": 8816652,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3fecbae8432edaab1073c037570591c18f96b27a&amp;dn=Sia+Chandelier+Single-%5B320kbps-mp3-2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 0,
+  "uploader": "simpsonrony",
+  "files": 1,
+  "time": 1401622043,
+  "description": "Format                                   : MPEG Audio\nFile size                                : 8.41 MiB\nDuration                                 : 3mn 36s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 320 Kbps\nAlbum                                    : Chandelier - Single\nPart/Position                            : 1\nPart/Total                               : 1\nTrack name                               : Chandelier\nTrack name/Position                      : 1\nTrack name/Total                         : 1\nPerformer                                : Sia\nComposer                                 : Sia Furler &amp; Jesse shatkin\nEncoded by                               : SSR\nGenre                                    : Pop\nReleased date                            : UTC 2014-03- 7T07:00:00Z\nRecorded date                            : 2014\nWriting library                          : LAME3.99.5\nCopyright                                : Ã¢â€žâ€” 2014 Monkey Puzzle Records, under exclusive license to RCA Records\nCover                                    : Yes\nCover type                               : Cover (front)\nCover MIME                               : image/jpeg\nComment                                  : SSR\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nMode extension                           : MS Stereo\nDuration                                 : 3mn 36s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 8.25 MiB (98%)\nWriting library                          : LAME3.99.5\n\n",
+  "parsed": {
+    "xt": "urn:btih:3fecbae8432edaab1073c037570591c18f96b27a",
+    "dn": "Sia Chandelier Single-[320kbps-mp3-2014]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3fecbae8432edaab1073c037570591c18f96b27a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        63,
+        236,
+        186,
+        232,
+        67,
+        46,
+        218,
+        171,
+        16,
+        115,
+        192,
+        55,
+        87,
+        5,
+        145,
+        193,
+        143,
+        150,
+        178,
+        122
+      ]
+    },
+    "name": "Sia Chandelier Single-[320kbps-mp3-2014]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 59,
+  "last_updated": "2016-12-24T23:06:55.363Z"
+}

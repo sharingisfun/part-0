@@ -1,1 +1,61 @@
-{"title":"Pimsleur Spanish I, II, III, &amp; Plus (Complete) - Downsampled","uid":5163733,"size":1904150795,"categoryP":"audio","categoryS":"audio_books","magnet":"?xt=urn:btih:4172f98d12e464962a5ff64a5fd0448b6443cd39&amp;dn=Pimsleur+Spanish+I%2C+II%2C+III%2C+%26+Plus+%28Complete%29+-+Downsampled&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":77,"leechers":6,"uploader":"Taoseeker","files":185,"time":1258300064,"description":"Downsampled complete Pimsleur Spanish Course.","torrent":{"xt":"urn:btih:4172f98d12e464962a5ff64a5fd0448b6443cd39","amp;dn":"Pimsleur+Spanish+I%2C+II%2C+III%2C+%26+Plus+%28Complete%29+-+Downsampled","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4172f98d12e464962a5ff64a5fd0448b6443cd39","infoHashBuffer":{"type":"Buffer","data":[65,114,249,141,18,228,100,150,42,95,246,74,95,208,68,139,100,67,205,57]},"announce":[],"urlList":[]}}
+{
+  "title": "Pimsleur Spanish I, II, III, &amp; Plus (Complete) - Downsampled",
+  "uid": 5163733,
+  "size": 1904150795,
+  "categoryP": "audio",
+  "categoryS": "audio_books",
+  "magnet": "?xt=urn:btih:4172f98d12e464962a5ff64a5fd0448b6443cd39&amp;dn=Pimsleur+Spanish+I%2C+II%2C+III%2C+%26+Plus+%28Complete%29+-+Downsampled&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 77,
+  "leechers": 6,
+  "uploader": "Taoseeker",
+  "files": 185,
+  "time": 1258300064,
+  "description": "Downsampled complete Pimsleur Spanish Course.",
+  "parsed": {
+    "xt": "urn:btih:4172f98d12e464962a5ff64a5fd0448b6443cd39",
+    "dn": "Pimsleur Spanish I, II, III, & Plus (Complete) - Downsampled",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4172f98d12e464962a5ff64a5fd0448b6443cd39",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        65,
+        114,
+        249,
+        141,
+        18,
+        228,
+        100,
+        150,
+        42,
+        95,
+        246,
+        74,
+        95,
+        208,
+        68,
+        139,
+        100,
+        67,
+        205,
+        57
+      ]
+    },
+    "name": "Pimsleur Spanish I, II, III, & Plus (Complete) - Downsampled",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 50,
+  "last_updated": "2016-12-24T23:16:29.518Z"
+}

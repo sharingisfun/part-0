@@ -1,1 +1,61 @@
-{"title":"Reign.S02E13.HDTV.x264-2HD[ettv]","uid":11682808,"size":275014953,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:41d711eb7b267fce03567d6ced90267fd1602e96&amp;dn=Reign.S02E13.HDTV.x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":98,"leechers":4,"uploader":"ettv","files":3,"time":1423171735,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:41d711eb7b267fce03567d6ced90267fd1602e96","amp;dn":"Reign.S02E13.HDTV.x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"41d711eb7b267fce03567d6ced90267fd1602e96","infoHashBuffer":{"type":"Buffer","data":[65,215,17,235,123,38,127,206,3,86,125,108,237,144,38,127,209,96,46,150]},"announce":[],"urlList":[]}}
+{
+  "title": "Reign.S02E13.HDTV.x264-2HD[ettv]",
+  "uid": 11682808,
+  "size": 275014953,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:41d711eb7b267fce03567d6ced90267fd1602e96&amp;dn=Reign.S02E13.HDTV.x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 98,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1423171735,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:41d711eb7b267fce03567d6ced90267fd1602e96",
+    "dn": "Reign.S02E13.HDTV.x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "41d711eb7b267fce03567d6ced90267fd1602e96",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        65,
+        215,
+        17,
+        235,
+        123,
+        38,
+        127,
+        206,
+        3,
+        86,
+        125,
+        108,
+        237,
+        144,
+        38,
+        127,
+        209,
+        96,
+        46,
+        150
+      ]
+    },
+    "name": "Reign.S02E13.HDTV.x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 102,
+  "peers": 5,
+  "last_updated": "2016-12-24T23:19:10.168Z"
+}

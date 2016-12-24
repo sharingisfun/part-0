@@ -1,1 +1,61 @@
-{"title":"Kendrick Lamar - i - Single [iTunes Plus AAC M4A]","uid":11088658,"size":8452682,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:4185bac71b63fd85b3995ba53e76efdb5feefee5&amp;dn=Kendrick+Lamar+-+i+-+Single+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":0,"uploader":"Music_Blitz","files":-1,"time":1411489086,"description":"Kendrick Lamar - i - Single [iTunes Plus AAC M4A]\n\n\nSource: https://itunes.apple.com/nz/album/i-single/id920311029\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes\nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Tuesday 23rd September 2014\n\n\nÃ¢â€žâ€” 2014 Aftermath/Interscope Records\n","torrent":{"xt":"urn:btih:4185bac71b63fd85b3995ba53e76efdb5feefee5","amp;dn":"Kendrick+Lamar+-+i+-+Single+%5BiTunes+Plus+AAC+M4A%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4185bac71b63fd85b3995ba53e76efdb5feefee5","infoHashBuffer":{"type":"Buffer","data":[65,133,186,199,27,99,253,133,179,153,91,165,62,118,239,219,95,238,254,229]},"announce":[],"urlList":[]}}
+{
+  "title": "Kendrick Lamar - i - Single [iTunes Plus AAC M4A]",
+  "uid": 11088658,
+  "size": 8452682,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:4185bac71b63fd85b3995ba53e76efdb5feefee5&amp;dn=Kendrick+Lamar+-+i+-+Single+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 0,
+  "uploader": "Music_Blitz",
+  "files": -1,
+  "time": 1411489086,
+  "description": "Kendrick Lamar - i - Single [iTunes Plus AAC M4A]\n\n\nSource: https://itunes.apple.com/nz/album/i-single/id920311029\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes\nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Tuesday 23rd September 2014\n\n\nÃ¢â€žâ€” 2014 Aftermath/Interscope Records\n",
+  "parsed": {
+    "xt": "urn:btih:4185bac71b63fd85b3995ba53e76efdb5feefee5",
+    "dn": "Kendrick Lamar - i - Single [iTunes Plus AAC M4A]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4185bac71b63fd85b3995ba53e76efdb5feefee5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        65,
+        133,
+        186,
+        199,
+        27,
+        99,
+        253,
+        133,
+        179,
+        153,
+        91,
+        165,
+        62,
+        118,
+        239,
+        219,
+        95,
+        238,
+        254,
+        229
+      ]
+    },
+    "name": "Kendrick Lamar - i - Single [iTunes Plus AAC M4A]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 10,
+  "last_updated": "2016-12-24T23:16:57.627Z"
+}

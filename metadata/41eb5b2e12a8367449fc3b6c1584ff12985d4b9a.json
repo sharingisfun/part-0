@@ -1,1 +1,61 @@
-{"title":"[FSX/P3D] Aerosoft - Airbus A320/A321 w/SP3 (v1.30a)","uid":11822248,"size":1642885475,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:41eb5b2e12a8367449fc3b6c1584ff12985d4b9a&amp;dn=%5BFSX%2FP3D%5D+Aerosoft+-+Airbus+A320%2FA321+w%2FSP3+%28v1.30a%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":2,"uploader":"_SnakEye","files":1,"time":1429305759,"description":"[FSX/P3D] Aerosoft - Airbus A320/A321 w/SP3 (v1.30a)","torrent":{"xt":"urn:btih:41eb5b2e12a8367449fc3b6c1584ff12985d4b9a","amp;dn":"%5BFSX%2FP3D%5D+Aerosoft+-+Airbus+A320%2FA321+w%2FSP3+%28v1.30a%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"41eb5b2e12a8367449fc3b6c1584ff12985d4b9a","infoHashBuffer":{"type":"Buffer","data":[65,235,91,46,18,168,54,116,73,252,59,108,21,132,255,18,152,93,75,154]},"announce":[],"urlList":[]}}
+{
+  "title": "[FSX/P3D] Aerosoft - Airbus A320/A321 w/SP3 (v1.30a)",
+  "uid": 11822248,
+  "size": 1642885475,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:41eb5b2e12a8367449fc3b6c1584ff12985d4b9a&amp;dn=%5BFSX%2FP3D%5D+Aerosoft+-+Airbus+A320%2FA321+w%2FSP3+%28v1.30a%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 2,
+  "uploader": "_SnakEye",
+  "files": 1,
+  "time": 1429305759,
+  "description": "[FSX/P3D] Aerosoft - Airbus A320/A321 w/SP3 (v1.30a)",
+  "parsed": {
+    "xt": "urn:btih:41eb5b2e12a8367449fc3b6c1584ff12985d4b9a",
+    "dn": "[FSX/P3D] Aerosoft - Airbus A320/A321 w/SP3 (v1.30a)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "41eb5b2e12a8367449fc3b6c1584ff12985d4b9a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        65,
+        235,
+        91,
+        46,
+        18,
+        168,
+        54,
+        116,
+        73,
+        252,
+        59,
+        108,
+        21,
+        132,
+        255,
+        18,
+        152,
+        93,
+        75,
+        154
+      ]
+    },
+    "name": "[FSX/P3D] Aerosoft - Airbus A320/A321 w/SP3 (v1.30a)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 259,
+  "last_updated": "2016-12-24T23:19:44.317Z"
+}

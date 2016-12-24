@@ -1,1 +1,61 @@
-{"title":"Terraria v1.3.0.7","uid":12153661,"size":90804696,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:4166861bed255fefc11c6a1bb34ef6f0e16ef7ee&amp;dn=Terraria+v1.3.0.7&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":0,"uploader":"dauphong","files":1,"time":1437708335,"description":"About This Game\nDig, Fight, Explore, Build: The very world is at your fingertips as you fight for survival, fortune, and glory. Will you delve deep into cavernous expanses in search of treasure and raw materials with which to craft ever-evolving gear, machinery, and aesthetics? Perhaps you will choose instead to seek out ever-greater foes to test your mettle in combat? Maybe you will decide to construct your own city to house the host of mysterious allies you may encounter along your travels?\n\nIn the World of Terraria, the choice is yours!\n\nBlending elements of classic action games with the freedom of sandbox-style creativity, Terraria is a unique gaming experience where both the journey and the destination are completely in the playerÃ¢â‚¬â„¢s control. The Terraria adventure is truly as unique as the players themselves!\n\nAre you up for the monumental task of exploring, creating, and defending a world of your own?\n\nKey features:\n\n    Sandbox Play\n    Randomly generated worlds\n    Free Content Updates","torrent":{"xt":"urn:btih:4166861bed255fefc11c6a1bb34ef6f0e16ef7ee","amp;dn":"Terraria+v1.3.0.7","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4166861bed255fefc11c6a1bb34ef6f0e16ef7ee","infoHashBuffer":{"type":"Buffer","data":[65,102,134,27,237,37,95,239,193,28,106,27,179,78,246,240,225,110,247,238]},"announce":[],"urlList":[]}}
+{
+  "title": "Terraria v1.3.0.7",
+  "uid": 12153661,
+  "size": 90804696,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:4166861bed255fefc11c6a1bb34ef6f0e16ef7ee&amp;dn=Terraria+v1.3.0.7&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 0,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1437708335,
+  "description": "About This Game\nDig, Fight, Explore, Build: The very world is at your fingertips as you fight for survival, fortune, and glory. Will you delve deep into cavernous expanses in search of treasure and raw materials with which to craft ever-evolving gear, machinery, and aesthetics? Perhaps you will choose instead to seek out ever-greater foes to test your mettle in combat? Maybe you will decide to construct your own city to house the host of mysterious allies you may encounter along your travels?\n\nIn the World of Terraria, the choice is yours!\n\nBlending elements of classic action games with the freedom of sandbox-style creativity, Terraria is a unique gaming experience where both the journey and the destination are completely in the playerÃ¢â‚¬â„¢s control. The Terraria adventure is truly as unique as the players themselves!\n\nAre you up for the monumental task of exploring, creating, and defending a world of your own?\n\nKey features:\n\n    Sandbox Play\n    Randomly generated worlds\n    Free Content Updates",
+  "parsed": {
+    "xt": "urn:btih:4166861bed255fefc11c6a1bb34ef6f0e16ef7ee",
+    "dn": "Terraria v1.3.0.7",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4166861bed255fefc11c6a1bb34ef6f0e16ef7ee",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        65,
+        102,
+        134,
+        27,
+        237,
+        37,
+        95,
+        239,
+        193,
+        28,
+        106,
+        27,
+        179,
+        78,
+        246,
+        240,
+        225,
+        110,
+        247,
+        238
+      ]
+    },
+    "name": "Terraria v1.3.0.7",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 17,
+  "last_updated": "2016-12-24T23:16:15.467Z"
+}

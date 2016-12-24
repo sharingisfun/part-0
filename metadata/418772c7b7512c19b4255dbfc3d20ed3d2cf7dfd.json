@@ -1,1 +1,61 @@
-{"title":"[HayaiSubs] Dragon Ball Super - 007 (720p) [rich_jc].mkv","uid":12299085,"size":251153784,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:418772c7b7512c19b4255dbfc3d20ed3d2cf7dfd&amp;dn=%5BHayaiSubs%5D+Dragon+Ball+Super+-+007+%28720p%29+%5Brich_jc%5D.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":113,"leechers":1,"uploader":"rich_jc","files":1,"time":1440675406,"description":"[HayaiSubs] Dragon Ball Super - 007 (720p) [rich_jc].mkv\n\nLegenda PT-BR Softsub","torrent":{"xt":"urn:btih:418772c7b7512c19b4255dbfc3d20ed3d2cf7dfd","amp;dn":"%5BHayaiSubs%5D+Dragon+Ball+Super+-+007+%28720p%29+%5Brich_jc%5D.mkv","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"418772c7b7512c19b4255dbfc3d20ed3d2cf7dfd","infoHashBuffer":{"type":"Buffer","data":[65,135,114,199,183,81,44,25,180,37,93,191,195,210,14,211,210,207,125,253]},"announce":[],"urlList":[]}}
+{
+  "title": "[HayaiSubs] Dragon Ball Super - 007 (720p) [rich_jc].mkv",
+  "uid": 12299085,
+  "size": 251153784,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:418772c7b7512c19b4255dbfc3d20ed3d2cf7dfd&amp;dn=%5BHayaiSubs%5D+Dragon+Ball+Super+-+007+%28720p%29+%5Brich_jc%5D.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 113,
+  "leechers": 1,
+  "uploader": "rich_jc",
+  "files": 1,
+  "time": 1440675406,
+  "description": "[HayaiSubs] Dragon Ball Super - 007 (720p) [rich_jc].mkv\n\nLegenda PT-BR Softsub",
+  "parsed": {
+    "xt": "urn:btih:418772c7b7512c19b4255dbfc3d20ed3d2cf7dfd",
+    "dn": "[HayaiSubs] Dragon Ball Super - 007 (720p) [rich_jc].mkv",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "418772c7b7512c19b4255dbfc3d20ed3d2cf7dfd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        65,
+        135,
+        114,
+        199,
+        183,
+        81,
+        44,
+        25,
+        180,
+        37,
+        93,
+        191,
+        195,
+        210,
+        14,
+        211,
+        210,
+        207,
+        125,
+        253
+      ]
+    },
+    "name": "[HayaiSubs] Dragon Ball Super - 007 (720p) [rich_jc].mkv",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 114,
+  "peers": 1,
+  "last_updated": "2016-12-24T23:17:05.674Z"
+}

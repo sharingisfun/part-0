@@ -1,1 +1,61 @@
-{"title":"Drake - If You're Reading This It's Too Late - iTunes - Album","uid":11698638,"size":144817359,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:41675e2f6504cdb1f7c6ed85dea1cfdbc9849aba&amp;dn=Drake+-+If+You%27re+Reading+This+It%27s+Too+Late+-+iTunes+-+Album&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":396,"leechers":9,"uploader":"the.HH","files":18,"time":1423833518,"description":"Enjoy!\nSupport the Artist!","torrent":{"xt":"urn:btih:41675e2f6504cdb1f7c6ed85dea1cfdbc9849aba","amp;dn":"Drake+-+If+You%27re+Reading+This+It%27s+Too+Late+-+iTunes+-+Album","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"41675e2f6504cdb1f7c6ed85dea1cfdbc9849aba","infoHashBuffer":{"type":"Buffer","data":[65,103,94,47,101,4,205,177,247,198,237,133,222,161,207,219,201,132,154,186]},"announce":[],"urlList":[]}}
+{
+  "title": "Drake - If You're Reading This It's Too Late - iTunes - Album",
+  "uid": 11698638,
+  "size": 144817359,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:41675e2f6504cdb1f7c6ed85dea1cfdbc9849aba&amp;dn=Drake+-+If+You%27re+Reading+This+It%27s+Too+Late+-+iTunes+-+Album&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 396,
+  "leechers": 9,
+  "uploader": "the.HH",
+  "files": 18,
+  "time": 1423833518,
+  "description": "Enjoy!\nSupport the Artist!",
+  "parsed": {
+    "xt": "urn:btih:41675e2f6504cdb1f7c6ed85dea1cfdbc9849aba",
+    "dn": "Drake - If You're Reading This It's Too Late - iTunes - Album",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "41675e2f6504cdb1f7c6ed85dea1cfdbc9849aba",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        65,
+        103,
+        94,
+        47,
+        101,
+        4,
+        205,
+        177,
+        247,
+        198,
+        237,
+        133,
+        222,
+        161,
+        207,
+        219,
+        201,
+        132,
+        154,
+        186
+      ]
+    },
+    "name": "Drake - If You're Reading This It's Too Late - iTunes - Album",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 405,
+  "peers": 50,
+  "last_updated": "2016-12-24T23:16:17.473Z"
+}

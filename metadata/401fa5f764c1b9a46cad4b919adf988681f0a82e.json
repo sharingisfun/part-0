@@ -1,1 +1,61 @@
-{"title":"Pretty.Little.Liars.S05E24.HDTV.x264-LOL[ettv]","uid":11763147,"size":213446786,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:401fa5f764c1b9a46cad4b919adf988681f0a82e&amp;dn=Pretty.Little.Liars.S05E24.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":614,"leechers":16,"uploader":"ettv","files":3,"time":1426644118,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                              &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:401fa5f764c1b9a46cad4b919adf988681f0a82e","amp;dn":"Pretty.Little.Liars.S05E24.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"401fa5f764c1b9a46cad4b919adf988681f0a82e","infoHashBuffer":{"type":"Buffer","data":[64,31,165,247,100,193,185,164,108,173,75,145,154,223,152,134,129,240,168,46]},"announce":[],"urlList":[]}}
+{
+  "title": "Pretty.Little.Liars.S05E24.HDTV.x264-LOL[ettv]",
+  "uid": 11763147,
+  "size": 213446786,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:401fa5f764c1b9a46cad4b919adf988681f0a82e&amp;dn=Pretty.Little.Liars.S05E24.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 614,
+  "leechers": 16,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1426644118,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                              &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:401fa5f764c1b9a46cad4b919adf988681f0a82e",
+    "dn": "Pretty.Little.Liars.S05E24.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "401fa5f764c1b9a46cad4b919adf988681f0a82e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        64,
+        31,
+        165,
+        247,
+        100,
+        193,
+        185,
+        164,
+        108,
+        173,
+        75,
+        145,
+        154,
+        223,
+        152,
+        134,
+        129,
+        240,
+        168,
+        46
+      ]
+    },
+    "name": "Pretty.Little.Liars.S05E24.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 630,
+  "peers": 21,
+  "last_updated": "2016-12-24T23:08:07.731Z"
+}

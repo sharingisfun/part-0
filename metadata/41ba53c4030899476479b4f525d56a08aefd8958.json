@@ -1,1 +1,61 @@
-{"title":"Sigur Ros - Kveikur [MP3 320]","uid":8557395,"size":125730294,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:41ba53c4030899476479b4f525d56a08aefd8958&amp;dn=Sigur+Ros+-+Kveikur+%5BMP3+320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":67,"leechers":4,"uploader":"SmashAndGrab","files":-1,"time":1370798329,"description":"  Sigur Ros - Kveikur (2013) [MP3 320]\n\n  Released ................ 2013\n  Source .................. Original Release (WEB)\n  Genre ................... Pop/Rock\n  Style ................... Indie Rock\n  Codec ................... MP3\n  Bit Rate ................ 320 CBR\n  Sampling Rate ........... 44.1 KHz\n\n  01 - Brennisteinn\n  02 - Hrafntinna\n  03 - Isjaki\n  04 - Yfirbord\n  05 - Stormur\n  06 - Kveikur\n  07 - Rafstraumur\n  08 - Blapradur\n  09 - Var\n\n  SPECTROGRAM:\n &lt;a href=&quot; http://image.bayimg.com/9cec967c630d8d790f6fbafd07b6fc5faa17a0eb.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt; http://image.bayimg.com/9cec967c630d8d790f6fbafd07b6fc5faa17a0eb.jpg&lt;/a&gt;","torrent":{"xt":"urn:btih:41ba53c4030899476479b4f525d56a08aefd8958","amp;dn":"Sigur+Ros+-+Kveikur+%5BMP3+320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"41ba53c4030899476479b4f525d56a08aefd8958","infoHashBuffer":{"type":"Buffer","data":[65,186,83,196,3,8,153,71,100,121,180,245,37,213,106,8,174,253,137,88]},"announce":[],"urlList":[]}}
+{
+  "title": "Sigur Ros - Kveikur [MP3 320]",
+  "uid": 8557395,
+  "size": 125730294,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:41ba53c4030899476479b4f525d56a08aefd8958&amp;dn=Sigur+Ros+-+Kveikur+%5BMP3+320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 67,
+  "leechers": 4,
+  "uploader": "SmashAndGrab",
+  "files": -1,
+  "time": 1370798329,
+  "description": "  Sigur Ros - Kveikur (2013) [MP3 320]\n\n  Released ................ 2013\n  Source .................. Original Release (WEB)\n  Genre ................... Pop/Rock\n  Style ................... Indie Rock\n  Codec ................... MP3\n  Bit Rate ................ 320 CBR\n  Sampling Rate ........... 44.1 KHz\n\n  01 - Brennisteinn\n  02 - Hrafntinna\n  03 - Isjaki\n  04 - Yfirbord\n  05 - Stormur\n  06 - Kveikur\n  07 - Rafstraumur\n  08 - Blapradur\n  09 - Var\n\n  SPECTROGRAM:\n &lt;a href=&quot; http://image.bayimg.com/9cec967c630d8d790f6fbafd07b6fc5faa17a0eb.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt; http://image.bayimg.com/9cec967c630d8d790f6fbafd07b6fc5faa17a0eb.jpg&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:41ba53c4030899476479b4f525d56a08aefd8958",
+    "dn": "Sigur Ros - Kveikur [MP3 320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "41ba53c4030899476479b4f525d56a08aefd8958",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        65,
+        186,
+        83,
+        196,
+        3,
+        8,
+        153,
+        71,
+        100,
+        121,
+        180,
+        245,
+        37,
+        213,
+        106,
+        8,
+        174,
+        253,
+        137,
+        88
+      ]
+    },
+    "name": "Sigur Ros - Kveikur [MP3 320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 18,
+  "last_updated": "2016-12-24T23:18:17.948Z"
+}

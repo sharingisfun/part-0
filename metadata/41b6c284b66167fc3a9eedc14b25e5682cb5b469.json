@@ -1,1 +1,61 @@
-{"title":"The 100 S01E02 HDTV x264-BATV[ettv]","uid":9834401,"size":438273458,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:41b6c284b66167fc3a9eedc14b25e5682cb5b469&amp;dn=The+100+S01E02+HDTV+x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":195,"leechers":23,"uploader":"ettv","files":2,"time":1395890752,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:41b6c284b66167fc3a9eedc14b25e5682cb5b469","amp;dn":"The+100+S01E02+HDTV+x264-BATV%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"41b6c284b66167fc3a9eedc14b25e5682cb5b469","infoHashBuffer":{"type":"Buffer","data":[65,182,194,132,182,97,103,252,58,158,237,193,75,37,229,104,44,181,180,105]},"announce":[],"urlList":[]}}
+{
+  "title": "The 100 S01E02 HDTV x264-BATV[ettv]",
+  "uid": 9834401,
+  "size": 438273458,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:41b6c284b66167fc3a9eedc14b25e5682cb5b469&amp;dn=The+100+S01E02+HDTV+x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 195,
+  "leechers": 23,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1395890752,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:41b6c284b66167fc3a9eedc14b25e5682cb5b469",
+    "dn": "The 100 S01E02 HDTV x264-BATV[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "41b6c284b66167fc3a9eedc14b25e5682cb5b469",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        65,
+        182,
+        194,
+        132,
+        182,
+        97,
+        103,
+        252,
+        58,
+        158,
+        237,
+        193,
+        75,
+        37,
+        229,
+        104,
+        44,
+        181,
+        180,
+        105
+      ]
+    },
+    "name": "The 100 S01E02 HDTV x264-BATV[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 218,
+  "peers": 18,
+  "last_updated": "2016-12-24T23:18:13.937Z"
+}

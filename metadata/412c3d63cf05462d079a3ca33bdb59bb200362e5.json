@@ -1,1 +1,63 @@
-{"title":"Strategy: A History - Lawrence Freedman 2014","uid":15826234,"size":925470396,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:412c3d63cf05462d079a3ca33bdb59bb200362e5&amp;dn=Strategy%3A+A+History+-+Lawrence+Freedman+2014&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":7,"uploader":"Horisarte","files":42,"time":1473848134,"description":"https://itunes.apple.com/au/audiobook/strategy-history-unabridged/id906952939\r\n\r\nebook + Audiobook","torrent":{"xt":"urn:btih:412c3d63cf05462d079a3ca33bdb59bb200362e5","amp;dn":"Strategy%3A+A+History+-+Lawrence+Freedman+2014","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"412c3d63cf05462d079a3ca33bdb59bb200362e5","infoHashBuffer":{"type":"Buffer","data":[65,44,61,99,207,5,70,45,7,154,60,163,59,219,89,187,32,3,98,229]},"announce":[],"urlList":[]}}
+{
+  "title": "Strategy: A History - Lawrence Freedman 2014",
+  "uid": 15826234,
+  "size": 925470396,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:412c3d63cf05462d079a3ca33bdb59bb200362e5&amp;dn=Strategy%3A+A+History+-+Lawrence+Freedman+2014&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 7,
+  "uploader": "Horisarte",
+  "files": 42,
+  "time": 1473848134,
+  "description": "https://itunes.apple.com/au/audiobook/strategy-history-unabridged/id906952939\r\n\r\nebook + Audiobook",
+  "parsed": {
+    "xt": "urn:btih:412c3d63cf05462d079a3ca33bdb59bb200362e5",
+    "dn": "Strategy: A History - Lawrence Freedman 2014",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "412c3d63cf05462d079a3ca33bdb59bb200362e5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        65,
+        44,
+        61,
+        99,
+        207,
+        5,
+        70,
+        45,
+        7,
+        154,
+        60,
+        163,
+        59,
+        219,
+        89,
+        187,
+        32,
+        3,
+        98,
+        229
+      ]
+    },
+    "name": "Strategy: A History - Lawrence Freedman 2014",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 43,
+  "last_updated": "2016-12-24T23:14:43.179Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Alien Isolation - Dublado E Legendado PT-BR - Xbox 360","uid":11253365,"size":12701824674,"categoryP":"games","categoryS":"xbox360","magnet":"?xt=urn:btih:418f99d8a1408e49970686515296e1ffe9397a16&amp;dn=Alien+Isolation+-+Dublado+E+Legendado+PT-BR+-+Xbox+360&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":41,"uploader":"freedomtotheworld","files":-1,"time":1413862829,"description":"","torrent":{"xt":"urn:btih:418f99d8a1408e49970686515296e1ffe9397a16","amp;dn":"Alien+Isolation+-+Dublado+E+Legendado+PT-BR+-+Xbox+360","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"418f99d8a1408e49970686515296e1ffe9397a16","infoHashBuffer":{"type":"Buffer","data":[65,143,153,216,161,64,142,73,151,6,134,81,82,150,225,255,233,57,122,22]},"announce":[],"urlList":[]}}
+{
+  "title": "Alien Isolation - Dublado E Legendado PT-BR - Xbox 360",
+  "uid": 11253365,
+  "size": 12701824674,
+  "categoryP": "games",
+  "categoryS": "xbox360",
+  "magnet": "?xt=urn:btih:418f99d8a1408e49970686515296e1ffe9397a16&amp;dn=Alien+Isolation+-+Dublado+E+Legendado+PT-BR+-+Xbox+360&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 41,
+  "uploader": "freedomtotheworld",
+  "files": -1,
+  "time": 1413862829,
+  "description": "",
+  "parsed": {
+    "xt": "urn:btih:418f99d8a1408e49970686515296e1ffe9397a16",
+    "dn": "Alien Isolation - Dublado E Legendado PT-BR - Xbox 360",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "418f99d8a1408e49970686515296e1ffe9397a16",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        65,
+        143,
+        153,
+        216,
+        161,
+        64,
+        142,
+        73,
+        151,
+        6,
+        134,
+        81,
+        82,
+        150,
+        225,
+        255,
+        233,
+        57,
+        122,
+        22
+      ]
+    },
+    "name": "Alien Isolation - Dublado E Legendado PT-BR - Xbox 360",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 111,
+  "peers": 4,
+  "last_updated": "2016-12-24T23:17:19.725Z"
+}

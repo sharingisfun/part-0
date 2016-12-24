@@ -1,1 +1,61 @@
-{"title":"New Order Discography [8 Albums] [320kbps]","uid":4548707,"size":1517410807,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:40ea6c25698630c40428b461fc09f452c0cc7201&amp;dn=New+Order+Discography+%5B8+Albums%5D+%5B320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":18,"uploader":"fuckthesystem1","files":-1,"time":1228231295,"description":"Artist: New Order\n\n\n  Albums: \n\n    - Movement [Collector's Edition]\n    - Power, Curruption &amp; Lies [Collector's Edition]\n    - Low-Life [Collector's Edition]\n    - Brotherhood [Collector's Edition]\n    - Technique [Collector's Edition]\n    - Republic\n    - Get Ready\n    - Waiting for the Sirens' Call\n\n\nFormat: mp3\n\n\nBitrate: 320kbps CBR\n\n\n\n                                     PLEASE SEED","torrent":{"xt":"urn:btih:40ea6c25698630c40428b461fc09f452c0cc7201","amp;dn":"New+Order+Discography+%5B8+Albums%5D+%5B320kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"40ea6c25698630c40428b461fc09f452c0cc7201","infoHashBuffer":{"type":"Buffer","data":[64,234,108,37,105,134,48,196,4,40,180,97,252,9,244,82,192,204,114,1]},"announce":[],"urlList":[]}}
+{
+  "title": "New Order Discography [8 Albums] [320kbps]",
+  "uid": 4548707,
+  "size": 1517410807,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:40ea6c25698630c40428b461fc09f452c0cc7201&amp;dn=New+Order+Discography+%5B8+Albums%5D+%5B320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 18,
+  "uploader": "fuckthesystem1",
+  "files": -1,
+  "time": 1228231295,
+  "description": "Artist: New Order\n\n\n  Albums: \n\n    - Movement [Collector's Edition]\n    - Power, Curruption &amp; Lies [Collector's Edition]\n    - Low-Life [Collector's Edition]\n    - Brotherhood [Collector's Edition]\n    - Technique [Collector's Edition]\n    - Republic\n    - Get Ready\n    - Waiting for the Sirens' Call\n\n\nFormat: mp3\n\n\nBitrate: 320kbps CBR\n\n\n\n                                     PLEASE SEED",
+  "parsed": {
+    "xt": "urn:btih:40ea6c25698630c40428b461fc09f452c0cc7201",
+    "dn": "New Order Discography [8 Albums] [320kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "40ea6c25698630c40428b461fc09f452c0cc7201",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        64,
+        234,
+        108,
+        37,
+        105,
+        134,
+        48,
+        196,
+        4,
+        40,
+        180,
+        97,
+        252,
+        9,
+        244,
+        82,
+        192,
+        204,
+        114,
+        1
+      ]
+    },
+    "name": "New Order Discography [8 Albums] [320kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 90,
+  "peers": 50,
+  "last_updated": "2016-12-24T23:12:48.806Z"
+}
