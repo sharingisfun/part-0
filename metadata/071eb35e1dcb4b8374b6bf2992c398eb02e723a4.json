@@ -1,1 +1,61 @@
-{"title":"A Short History of Nearly Everything - Bill Bryson","uid":10083105,"size":61298204,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:071eb35e1dcb4b8374b6bf2992c398eb02e723a4&amp;dn=A+Short+History+of+Nearly+Everything+-+Bill+Bryson&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":6,"uploader":"4noraeson","files":-1,"time":1399046028,"description":"Title:  A Short History of Nearly Everything\n\nAuthor: Bill Bryson\n\nISBN: 0-7679-0817-1\n\n\nFormats: epub, mobi, pdf\n\n","torrent":{"xt":"urn:btih:071eb35e1dcb4b8374b6bf2992c398eb02e723a4","amp;dn":"A+Short+History+of+Nearly+Everything+-+Bill+Bryson","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"071eb35e1dcb4b8374b6bf2992c398eb02e723a4","infoHashBuffer":{"type":"Buffer","data":[7,30,179,94,29,203,75,131,116,182,191,41,146,195,152,235,2,231,35,164]},"announce":[],"urlList":[]}}
+{
+  "title": "A Short History of Nearly Everything - Bill Bryson",
+  "uid": 10083105,
+  "size": 61298204,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:071eb35e1dcb4b8374b6bf2992c398eb02e723a4&amp;dn=A+Short+History+of+Nearly+Everything+-+Bill+Bryson&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 6,
+  "uploader": "4noraeson",
+  "files": -1,
+  "time": 1399046028,
+  "description": "Title:  A Short History of Nearly Everything\n\nAuthor: Bill Bryson\n\nISBN: 0-7679-0817-1\n\n\nFormats: epub, mobi, pdf\n\n",
+  "parsed": {
+    "xt": "urn:btih:071eb35e1dcb4b8374b6bf2992c398eb02e723a4",
+    "dn": "A Short History of Nearly Everything - Bill Bryson",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "071eb35e1dcb4b8374b6bf2992c398eb02e723a4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        7,
+        30,
+        179,
+        94,
+        29,
+        203,
+        75,
+        131,
+        116,
+        182,
+        191,
+        41,
+        146,
+        195,
+        152,
+        235,
+        2,
+        231,
+        35,
+        164
+      ]
+    },
+    "name": "A Short History of Nearly Everything - Bill Bryson",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 97,
+  "last_updated": "2016-12-24T16:09:42.907Z"
+}

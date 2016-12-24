@@ -1,1 +1,63 @@
-{"title":"A.Serie.Divergente.Convergente.2016.1080p.BRRip.Dublado","uid":15465661,"size":2591543975,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:082f9134f149e836a9fd75cbb90f9da6d72e7864&amp;dn=A.Serie.Divergente.Convergente.2016.1080p.BRRip.Dublado&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":7,"uploader":"Trovapit","files":1,"time":1470095574,"description":"A.Serie.Divergente.Convergente.2016.1080p.BRRip.Dublado","torrent":{"xt":"urn:btih:082f9134f149e836a9fd75cbb90f9da6d72e7864","amp;dn":"A.Serie.Divergente.Convergente.2016.1080p.BRRip.Dublado","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"082f9134f149e836a9fd75cbb90f9da6d72e7864","infoHashBuffer":{"type":"Buffer","data":[8,47,145,52,241,73,232,54,169,253,117,203,185,15,157,166,215,46,120,100]},"announce":[],"urlList":[]}}
+{
+  "title": "A.Serie.Divergente.Convergente.2016.1080p.BRRip.Dublado",
+  "uid": 15465661,
+  "size": 2591543975,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:082f9134f149e836a9fd75cbb90f9da6d72e7864&amp;dn=A.Serie.Divergente.Convergente.2016.1080p.BRRip.Dublado&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 7,
+  "uploader": "Trovapit",
+  "files": 1,
+  "time": 1470095574,
+  "description": "A.Serie.Divergente.Convergente.2016.1080p.BRRip.Dublado",
+  "parsed": {
+    "xt": "urn:btih:082f9134f149e836a9fd75cbb90f9da6d72e7864",
+    "dn": "A.Serie.Divergente.Convergente.2016.1080p.BRRip.Dublado",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "082f9134f149e836a9fd75cbb90f9da6d72e7864",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        8,
+        47,
+        145,
+        52,
+        241,
+        73,
+        232,
+        54,
+        169,
+        253,
+        117,
+        203,
+        185,
+        15,
+        157,
+        166,
+        215,
+        46,
+        120,
+        100
+      ]
+    },
+    "name": "A.Serie.Divergente.Convergente.2016.1080p.BRRip.Dublado",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 66,
+  "peers": 100,
+  "last_updated": "2016-12-24T16:17:52.149Z"
+}

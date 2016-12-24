@@ -1,1 +1,61 @@
-{"title":"Muse - The 2nd Law [2012-Album][love Rulz]","uid":7670326,"size":131981121,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0865a61e6af76f89f0339a952cc9f6cee52f5d90&amp;dn=Muse+-+The+2nd+Law+%5B2012-Album%5D%5Blove+Rulz%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":2,"uploader":"loverulz","files":13,"time":1348548264,"description":"\n\n              Muse - The 2nd Law [2012-Album][love Rulz]\n\n\n\nTracklist\n\n01. Supremacy\n02. Madness\n03. Panic Station\n04. Survival (Prelude)\n05. Survival\n06. Follow Me\n07. Animals\n08. Explorers\n09. Big Freeze\n10. Save Me\n11. Liquid State\n12. The 2nd Law: Unsustainable\n13. The 2nd Law: Isolated System\n\nFormat: MPEG Audio\nFormat version: Version 1\nFormat profile: Layer 3\nMode: Joint stereo\nBit rate mode: Constant\nBit rate: 320 Kbps\nChannel(s): 2 channels\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nWriting library: LAME3.99r\t","torrent":{"xt":"urn:btih:0865a61e6af76f89f0339a952cc9f6cee52f5d90","amp;dn":"Muse+-+The+2nd+Law+%5B2012-Album%5D%5Blove+Rulz%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0865a61e6af76f89f0339a952cc9f6cee52f5d90","infoHashBuffer":{"type":"Buffer","data":[8,101,166,30,106,247,111,137,240,51,154,149,44,201,246,206,229,47,93,144]},"announce":[],"urlList":[]}}
+{
+  "title": "Muse - The 2nd Law [2012-Album][love Rulz]",
+  "uid": 7670326,
+  "size": 131981121,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0865a61e6af76f89f0339a952cc9f6cee52f5d90&amp;dn=Muse+-+The+2nd+Law+%5B2012-Album%5D%5Blove+Rulz%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 2,
+  "uploader": "loverulz",
+  "files": 13,
+  "time": 1348548264,
+  "description": "\n\n              Muse - The 2nd Law [2012-Album][love Rulz]\n\n\n\nTracklist\n\n01. Supremacy\n02. Madness\n03. Panic Station\n04. Survival (Prelude)\n05. Survival\n06. Follow Me\n07. Animals\n08. Explorers\n09. Big Freeze\n10. Save Me\n11. Liquid State\n12. The 2nd Law: Unsustainable\n13. The 2nd Law: Isolated System\n\nFormat: MPEG Audio\nFormat version: Version 1\nFormat profile: Layer 3\nMode: Joint stereo\nBit rate mode: Constant\nBit rate: 320 Kbps\nChannel(s): 2 channels\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nWriting library: LAME3.99r\t",
+  "parsed": {
+    "xt": "urn:btih:0865a61e6af76f89f0339a952cc9f6cee52f5d90",
+    "dn": "Muse - The 2nd Law [2012-Album][love Rulz]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0865a61e6af76f89f0339a952cc9f6cee52f5d90",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        8,
+        101,
+        166,
+        30,
+        106,
+        247,
+        111,
+        137,
+        240,
+        51,
+        154,
+        149,
+        44,
+        201,
+        246,
+        206,
+        229,
+        47,
+        93,
+        144
+      ]
+    },
+    "name": "Muse - The 2nd Law [2012-Album][love Rulz]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 74,
+  "peers": 18,
+  "last_updated": "2016-12-24T16:19:10.487Z"
+}

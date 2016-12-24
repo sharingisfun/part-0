@@ -1,1 +1,63 @@
-{"title":"Udemy - Kali Linux - Complete Training Program from Scratch","uid":13334938,"size":3996513273,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:086f554bde16081ae7d33f1530a52ebea7652a1d&amp;dn=Udemy+-+Kali+Linux+-+Complete+Training+Program+from+Scratch&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":17,"uploader":"Horisarte","files":119,"time":1453975712,"description":"http://www.udemy.com/kali-linux-complete-training-program-from-scratch/","torrent":{"xt":"urn:btih:086f554bde16081ae7d33f1530a52ebea7652a1d","amp;dn":"Udemy+-+Kali+Linux+-+Complete+Training+Program+from+Scratch","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"086f554bde16081ae7d33f1530a52ebea7652a1d","infoHashBuffer":{"type":"Buffer","data":[8,111,85,75,222,22,8,26,231,211,63,21,48,165,46,190,167,101,42,29]},"announce":[],"urlList":[]}}
+{
+  "title": "Udemy - Kali Linux - Complete Training Program from Scratch",
+  "uid": 13334938,
+  "size": 3996513273,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:086f554bde16081ae7d33f1530a52ebea7652a1d&amp;dn=Udemy+-+Kali+Linux+-+Complete+Training+Program+from+Scratch&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 17,
+  "uploader": "Horisarte",
+  "files": 119,
+  "time": 1453975712,
+  "description": "http://www.udemy.com/kali-linux-complete-training-program-from-scratch/",
+  "parsed": {
+    "xt": "urn:btih:086f554bde16081ae7d33f1530a52ebea7652a1d",
+    "dn": "Udemy - Kali Linux - Complete Training Program from Scratch",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "086f554bde16081ae7d33f1530a52ebea7652a1d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        8,
+        111,
+        85,
+        75,
+        222,
+        22,
+        8,
+        26,
+        231,
+        211,
+        63,
+        21,
+        48,
+        165,
+        46,
+        190,
+        167,
+        101,
+        42,
+        29
+      ]
+    },
+    "name": "Udemy - Kali Linux - Complete Training Program from Scratch",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 153,
+  "last_updated": "2016-12-24T16:19:32.565Z"
+}

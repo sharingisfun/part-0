@@ -1,1 +1,63 @@
-{"title":"Rocket League v1.23","uid":15836107,"size":4093313665,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:09219f1edc0b17a50e86e2be9403f9045647764e&amp;dn=Rocket+League+v1.23&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":16,"uploader":"dauphong","files":1,"time":1473976367,"description":"A futuristic Sports-Action game, Rocket League, equips players with booster-rigged vehicles that can be crashed into balls for incredible goals or epic saves across multiple, highly-detailed arenas. Using an advanced physics system to simulate realistic interactions, Rocket League relies on mass and momentum to give players a complete sense of intuitive control in this unbelievable, high-octane re-imagining of association football","torrent":{"xt":"urn:btih:09219f1edc0b17a50e86e2be9403f9045647764e","amp;dn":"Rocket+League+v1.23","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"09219f1edc0b17a50e86e2be9403f9045647764e","infoHashBuffer":{"type":"Buffer","data":[9,33,159,30,220,11,23,165,14,134,226,190,148,3,249,4,86,71,118,78]},"announce":[],"urlList":[]}}
+{
+  "title": "Rocket League v1.23",
+  "uid": 15836107,
+  "size": 4093313665,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:09219f1edc0b17a50e86e2be9403f9045647764e&amp;dn=Rocket+League+v1.23&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 16,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1473976367,
+  "description": "A futuristic Sports-Action game, Rocket League, equips players with booster-rigged vehicles that can be crashed into balls for incredible goals or epic saves across multiple, highly-detailed arenas. Using an advanced physics system to simulate realistic interactions, Rocket League relies on mass and momentum to give players a complete sense of intuitive control in this unbelievable, high-octane re-imagining of association football",
+  "parsed": {
+    "xt": "urn:btih:09219f1edc0b17a50e86e2be9403f9045647764e",
+    "dn": "Rocket League v1.23",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "09219f1edc0b17a50e86e2be9403f9045647764e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        9,
+        33,
+        159,
+        30,
+        220,
+        11,
+        23,
+        165,
+        14,
+        134,
+        226,
+        190,
+        148,
+        3,
+        249,
+        4,
+        86,
+        71,
+        118,
+        78
+      ]
+    },
+    "name": "Rocket League v1.23",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 100,
+  "last_updated": "2016-12-24T16:24:15.641Z"
+}

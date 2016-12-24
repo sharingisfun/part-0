@@ -1,1 +1,61 @@
-{"title":"J.J. CALE - The Very Best of J.J. Cale - [320Kbps]","uid":8629060,"size":147266705,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0861ca2ba4851d6a3dc6b1fbd701066f0e0d7f5f&amp;dn=J.J.+CALE+-+The+Very+Best+of+J.J.+Cale+-+%5B320Kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":2,"uploader":"Drebben","files":22,"time":1372590741,"description":"\nJ.J. CALE\n\nThe Very Best of J.J. Cale\n\n- 20 tracks\n- 1 previously unreleased song\n- remastered\n\n\nCD\n- 1997\n\n- Mp3      \n- 320Kbps\n\n- Click  FILES  to see tracklist\n\n- Discover, rediscover, enjoy and seed . . .   \n\n","torrent":{"xt":"urn:btih:0861ca2ba4851d6a3dc6b1fbd701066f0e0d7f5f","amp;dn":"J.J.+CALE+-+The+Very+Best+of+J.J.+Cale+-+%5B320Kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0861ca2ba4851d6a3dc6b1fbd701066f0e0d7f5f","infoHashBuffer":{"type":"Buffer","data":[8,97,202,43,164,133,29,106,61,198,177,251,215,1,6,111,14,13,127,95]},"announce":[],"urlList":[]}}
+{
+  "title": "J.J. CALE - The Very Best of J.J. Cale - [320Kbps]",
+  "uid": 8629060,
+  "size": 147266705,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0861ca2ba4851d6a3dc6b1fbd701066f0e0d7f5f&amp;dn=J.J.+CALE+-+The+Very+Best+of+J.J.+Cale+-+%5B320Kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 2,
+  "uploader": "Drebben",
+  "files": 22,
+  "time": 1372590741,
+  "description": "\nJ.J. CALE\n\nThe Very Best of J.J. Cale\n\n- 20 tracks\n- 1 previously unreleased song\n- remastered\n\n\nCD\n- 1997\n\n- Mp3      \n- 320Kbps\n\n- Click  FILES  to see tracklist\n\n- Discover, rediscover, enjoy and seed . . .   \n\n",
+  "parsed": {
+    "xt": "urn:btih:0861ca2ba4851d6a3dc6b1fbd701066f0e0d7f5f",
+    "dn": "J.J. CALE - The Very Best of J.J. Cale - [320Kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0861ca2ba4851d6a3dc6b1fbd701066f0e0d7f5f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        8,
+        97,
+        202,
+        43,
+        164,
+        133,
+        29,
+        106,
+        61,
+        198,
+        177,
+        251,
+        215,
+        1,
+        6,
+        111,
+        14,
+        13,
+        127,
+        95
+      ]
+    },
+    "name": "J.J. CALE - The Very Best of J.J. Cale - [320Kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 36,
+  "last_updated": "2016-12-24T16:19:04.452Z"
+}

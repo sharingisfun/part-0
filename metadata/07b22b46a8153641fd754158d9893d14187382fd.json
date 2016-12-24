@@ -1,1 +1,61 @@
-{"title":"Supernatural S10E04 HDTV x264-LOL[ettv]","uid":11315979,"size":191944246,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:07b22b46a8153641fd754158d9893d14187382fd&amp;dn=Supernatural+S10E04+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":373,"leechers":14,"uploader":"ettv","files":2,"time":1414551531,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:07b22b46a8153641fd754158d9893d14187382fd","amp;dn":"Supernatural+S10E04+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"07b22b46a8153641fd754158d9893d14187382fd","infoHashBuffer":{"type":"Buffer","data":[7,178,43,70,168,21,54,65,253,117,65,88,217,137,61,20,24,115,130,253]},"announce":[],"urlList":[]}}
+{
+  "title": "Supernatural S10E04 HDTV x264-LOL[ettv]",
+  "uid": 11315979,
+  "size": 191944246,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:07b22b46a8153641fd754158d9893d14187382fd&amp;dn=Supernatural+S10E04+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 373,
+  "leechers": 14,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1414551531,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:07b22b46a8153641fd754158d9893d14187382fd",
+    "dn": "Supernatural S10E04 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "07b22b46a8153641fd754158d9893d14187382fd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        7,
+        178,
+        43,
+        70,
+        168,
+        21,
+        54,
+        65,
+        253,
+        117,
+        65,
+        88,
+        217,
+        137,
+        61,
+        20,
+        24,
+        115,
+        130,
+        253
+      ]
+    },
+    "name": "Supernatural S10E04 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 387,
+  "peers": 92,
+  "last_updated": "2016-12-24T16:14:21.619Z"
+}

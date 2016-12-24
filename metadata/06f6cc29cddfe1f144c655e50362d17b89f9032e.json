@@ -1,1 +1,61 @@
-{"title":"6 am   J Balvin Ft Farruko.mp3","uid":10614533,"size":5839967,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:06f6cc29cddfe1f144c655e50362d17b89f9032e&amp;dn=6+am+++J+Balvin+Ft+Farruko.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":0,"uploader":"supernaguto","files":1,"time":1406083401,"description":"la mejor cancion","torrent":{"xt":"urn:btih:06f6cc29cddfe1f144c655e50362d17b89f9032e","amp;dn":"6+am+++J+Balvin+Ft+Farruko.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"06f6cc29cddfe1f144c655e50362d17b89f9032e","infoHashBuffer":{"type":"Buffer","data":[6,246,204,41,205,223,225,241,68,198,85,229,3,98,209,123,137,249,3,46]},"announce":[],"urlList":[]}}
+{
+  "title": "6 am   J Balvin Ft Farruko.mp3",
+  "uid": 10614533,
+  "size": 5839967,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:06f6cc29cddfe1f144c655e50362d17b89f9032e&amp;dn=6+am+++J+Balvin+Ft+Farruko.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 0,
+  "uploader": "supernaguto",
+  "files": 1,
+  "time": 1406083401,
+  "description": "la mejor cancion",
+  "parsed": {
+    "xt": "urn:btih:06f6cc29cddfe1f144c655e50362d17b89f9032e",
+    "dn": "6 am   J Balvin Ft Farruko.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "06f6cc29cddfe1f144c655e50362d17b89f9032e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        6,
+        246,
+        204,
+        41,
+        205,
+        223,
+        225,
+        241,
+        68,
+        198,
+        85,
+        229,
+        3,
+        98,
+        209,
+        123,
+        137,
+        249,
+        3,
+        46
+      ]
+    },
+    "name": "6 am   J Balvin Ft Farruko.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 93,
+  "last_updated": "2016-12-24T16:08:40.767Z"
+}

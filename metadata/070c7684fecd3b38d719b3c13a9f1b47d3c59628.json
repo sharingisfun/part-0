@@ -1,1 +1,61 @@
-{"title":"The Bold And The Beautiful - S28 Ep7167 - 2015-09-18","uid":12445293,"size":308647201,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:070c7684fecd3b38d719b3c13a9f1b47d3c59628&amp;dn=The+Bold+And+The+Beautiful+-+S28+Ep7167+-+2015-09-18&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":11,"uploader":"gurfel65","files":4,"time":1442621199,"description":"A bit shaken by Bill and Katie's visit, Steffy attempts to make sure Liam is still on her side","torrent":{"xt":"urn:btih:070c7684fecd3b38d719b3c13a9f1b47d3c59628","amp;dn":"The+Bold+And+The+Beautiful+-+S28+Ep7167+-+2015-09-18","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"070c7684fecd3b38d719b3c13a9f1b47d3c59628","infoHashBuffer":{"type":"Buffer","data":[7,12,118,132,254,205,59,56,215,25,179,193,58,159,27,71,211,197,150,40]},"announce":[],"urlList":[]}}
+{
+  "title": "The Bold And The Beautiful - S28 Ep7167 - 2015-09-18",
+  "uid": 12445293,
+  "size": 308647201,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:070c7684fecd3b38d719b3c13a9f1b47d3c59628&amp;dn=The+Bold+And+The+Beautiful+-+S28+Ep7167+-+2015-09-18&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 11,
+  "uploader": "gurfel65",
+  "files": 4,
+  "time": 1442621199,
+  "description": "A bit shaken by Bill and Katie's visit, Steffy attempts to make sure Liam is still on her side",
+  "parsed": {
+    "xt": "urn:btih:070c7684fecd3b38d719b3c13a9f1b47d3c59628",
+    "dn": "The Bold And The Beautiful - S28 Ep7167 - 2015-09-18",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "070c7684fecd3b38d719b3c13a9f1b47d3c59628",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        7,
+        12,
+        118,
+        132,
+        254,
+        205,
+        59,
+        56,
+        215,
+        25,
+        179,
+        193,
+        58,
+        159,
+        27,
+        71,
+        211,
+        197,
+        150,
+        40
+      ]
+    },
+    "name": "The Bold And The Beautiful - S28 Ep7167 - 2015-09-18",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 75,
+  "peers": 3,
+  "last_updated": "2016-12-24T16:09:28.876Z"
+}

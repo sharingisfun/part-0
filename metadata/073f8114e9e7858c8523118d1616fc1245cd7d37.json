@@ -1,1 +1,61 @@
-{"title":"Rick.and.Morty.S02E02.1080p.WEBRip.AAC1.0.H.264-RARBG","uid":12166814,"size":1259033722,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:073f8114e9e7858c8523118d1616fc1245cd7d37&amp;dn=Rick.and.Morty.S02E02.1080p.WEBRip.AAC1.0.H.264-RARBG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":143,"leechers":18,"uploader":"frostyon420","files":3,"time":1438059482,"description":"Turner WEBRip\nMKV\nAVC\nAAC 1.0","torrent":{"xt":"urn:btih:073f8114e9e7858c8523118d1616fc1245cd7d37","amp;dn":"Rick.and.Morty.S02E02.1080p.WEBRip.AAC1.0.H.264-RARBG","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"073f8114e9e7858c8523118d1616fc1245cd7d37","infoHashBuffer":{"type":"Buffer","data":[7,63,129,20,233,231,133,140,133,35,17,141,22,22,252,18,69,205,125,55]},"announce":[],"urlList":[]}}
+{
+  "title": "Rick.and.Morty.S02E02.1080p.WEBRip.AAC1.0.H.264-RARBG",
+  "uid": 12166814,
+  "size": 1259033722,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:073f8114e9e7858c8523118d1616fc1245cd7d37&amp;dn=Rick.and.Morty.S02E02.1080p.WEBRip.AAC1.0.H.264-RARBG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 143,
+  "leechers": 18,
+  "uploader": "frostyon420",
+  "files": 3,
+  "time": 1438059482,
+  "description": "Turner WEBRip\nMKV\nAVC\nAAC 1.0",
+  "parsed": {
+    "xt": "urn:btih:073f8114e9e7858c8523118d1616fc1245cd7d37",
+    "dn": "Rick.and.Morty.S02E02.1080p.WEBRip.AAC1.0.H.264-RARBG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "073f8114e9e7858c8523118d1616fc1245cd7d37",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        7,
+        63,
+        129,
+        20,
+        233,
+        231,
+        133,
+        140,
+        133,
+        35,
+        17,
+        141,
+        22,
+        22,
+        252,
+        18,
+        69,
+        205,
+        125,
+        55
+      ]
+    },
+    "name": "Rick.and.Morty.S02E02.1080p.WEBRip.AAC1.0.H.264-RARBG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 161,
+  "peers": 11,
+  "last_updated": "2016-12-24T16:10:39.048Z"
+}

@@ -1,1 +1,61 @@
-{"title":"VLC (VideoLAN) Media Player 2.1.5 (x86) / 2.1.4 (x64)","uid":10645194,"size":49799001,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:07184007ac2832370ec6341ae42c4df69d9cb406&amp;dn=VLC+%28VideoLAN%29+Media+Player+2.1.5+%28x86%29+%2F+2.1.4+%28x64%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":6,"uploader":"S4WCTRG","files":-1,"time":1406533535,"description":"Instructions :-\n\nTo Install Run the the setup according to your Windows Bitrate.\n\n","torrent":{"xt":"urn:btih:07184007ac2832370ec6341ae42c4df69d9cb406","amp;dn":"VLC+%28VideoLAN%29+Media+Player+2.1.5+%28x86%29+%2F+2.1.4+%28x64%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"07184007ac2832370ec6341ae42c4df69d9cb406","infoHashBuffer":{"type":"Buffer","data":[7,24,64,7,172,40,50,55,14,198,52,26,228,44,77,246,157,156,180,6]},"announce":[],"urlList":[]}}
+{
+  "title": "VLC (VideoLAN) Media Player 2.1.5 (x86) / 2.1.4 (x64)",
+  "uid": 10645194,
+  "size": 49799001,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:07184007ac2832370ec6341ae42c4df69d9cb406&amp;dn=VLC+%28VideoLAN%29+Media+Player+2.1.5+%28x86%29+%2F+2.1.4+%28x64%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 6,
+  "uploader": "S4WCTRG",
+  "files": -1,
+  "time": 1406533535,
+  "description": "Instructions :-\n\nTo Install Run the the setup according to your Windows Bitrate.\n\n",
+  "parsed": {
+    "xt": "urn:btih:07184007ac2832370ec6341ae42c4df69d9cb406",
+    "dn": "VLC (VideoLAN) Media Player 2.1.5 (x86) / 2.1.4 (x64)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "07184007ac2832370ec6341ae42c4df69d9cb406",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        7,
+        24,
+        64,
+        7,
+        172,
+        40,
+        50,
+        55,
+        14,
+        198,
+        52,
+        26,
+        228,
+        44,
+        77,
+        246,
+        157,
+        156,
+        180,
+        6
+      ]
+    },
+    "name": "VLC (VideoLAN) Media Player 2.1.5 (x86) / 2.1.4 (x64)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 63,
+  "peers": 16,
+  "last_updated": "2016-12-24T16:09:36.893Z"
+}

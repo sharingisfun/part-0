@@ -1,1 +1,61 @@
-{"title":"Ariana Grande - One Last Time (Single) 2015","uid":11686640,"size":7923885,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0785945f3320271fa9aa65af4a24332214cefbda&amp;dn=Ariana+Grande+-+One+Last+Time+%28Single%29+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":257,"leechers":15,"uploader":"sergelover","files":1,"time":1423341894,"description":"&quot;One Last Time&quot; is a song by American recording artist Ariana Grande that serves as the fourth overall single from Grande's second studio album My Everything (2014). The song was first released free on the iTunes on August 22, 2014 as the second promotional single from the album.\n\nIt was written by David Guetta, Savan Kotecha, Giorgio Tuinfort, Rami Yacoub and Carl Falk, and produced by Falk, Rami, Ilya, Tuinfort and Kotecha.\n\nOn February 10, 2015, &quot;One Last Time&quot; will be sent to the contemporary hit radio as the fourth single from the album.\n\n3:17, 2014, mp3, 320 kbps","torrent":{"xt":"urn:btih:0785945f3320271fa9aa65af4a24332214cefbda","amp;dn":"Ariana+Grande+-+One+Last+Time+%28Single%29+2015","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0785945f3320271fa9aa65af4a24332214cefbda","infoHashBuffer":{"type":"Buffer","data":[7,133,148,95,51,32,39,31,169,170,101,175,74,36,51,34,20,206,251,218]},"announce":[],"urlList":[]}}
+{
+  "title": "Ariana Grande - One Last Time (Single) 2015",
+  "uid": 11686640,
+  "size": 7923885,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0785945f3320271fa9aa65af4a24332214cefbda&amp;dn=Ariana+Grande+-+One+Last+Time+%28Single%29+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 257,
+  "leechers": 15,
+  "uploader": "sergelover",
+  "files": 1,
+  "time": 1423341894,
+  "description": "&quot;One Last Time&quot; is a song by American recording artist Ariana Grande that serves as the fourth overall single from Grande's second studio album My Everything (2014). The song was first released free on the iTunes on August 22, 2014 as the second promotional single from the album.\n\nIt was written by David Guetta, Savan Kotecha, Giorgio Tuinfort, Rami Yacoub and Carl Falk, and produced by Falk, Rami, Ilya, Tuinfort and Kotecha.\n\nOn February 10, 2015, &quot;One Last Time&quot; will be sent to the contemporary hit radio as the fourth single from the album.\n\n3:17, 2014, mp3, 320 kbps",
+  "parsed": {
+    "xt": "urn:btih:0785945f3320271fa9aa65af4a24332214cefbda",
+    "dn": "Ariana Grande - One Last Time (Single) 2015",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0785945f3320271fa9aa65af4a24332214cefbda",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        7,
+        133,
+        148,
+        95,
+        51,
+        32,
+        39,
+        31,
+        169,
+        170,
+        101,
+        175,
+        74,
+        36,
+        51,
+        34,
+        20,
+        206,
+        251,
+        218
+      ]
+    },
+    "name": "Ariana Grande - One Last Time (Single) 2015",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 272,
+  "peers": 195,
+  "last_updated": "2016-12-24T16:13:03.431Z"
+}

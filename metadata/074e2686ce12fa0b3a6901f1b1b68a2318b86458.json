@@ -1,1 +1,61 @@
-{"title":"Chefs Table S01E04 WEBRip x264 AHMED","uid":11928059,"size":387911370,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:074e2686ce12fa0b3a6901f1b1b68a2318b86458&amp;dn=Chefs+Table+S01E04+WEBRip+x264+AHMED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":1,"uploader":"67mb","files":1,"time":1431746496,"description":"Chefs Table S01E04 WEBRip x264 AHMED","torrent":{"xt":"urn:btih:074e2686ce12fa0b3a6901f1b1b68a2318b86458","amp;dn":"Chefs+Table+S01E04+WEBRip+x264+AHMED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"074e2686ce12fa0b3a6901f1b1b68a2318b86458","infoHashBuffer":{"type":"Buffer","data":[7,78,38,134,206,18,250,11,58,105,1,241,177,182,138,35,24,184,100,88]},"announce":[],"urlList":[]}}
+{
+  "title": "Chefs Table S01E04 WEBRip x264 AHMED",
+  "uid": 11928059,
+  "size": 387911370,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:074e2686ce12fa0b3a6901f1b1b68a2318b86458&amp;dn=Chefs+Table+S01E04+WEBRip+x264+AHMED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 1,
+  "uploader": "67mb",
+  "files": 1,
+  "time": 1431746496,
+  "description": "Chefs Table S01E04 WEBRip x264 AHMED",
+  "parsed": {
+    "xt": "urn:btih:074e2686ce12fa0b3a6901f1b1b68a2318b86458",
+    "dn": "Chefs Table S01E04 WEBRip x264 AHMED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "074e2686ce12fa0b3a6901f1b1b68a2318b86458",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        7,
+        78,
+        38,
+        134,
+        206,
+        18,
+        250,
+        11,
+        58,
+        105,
+        1,
+        241,
+        177,
+        182,
+        138,
+        35,
+        24,
+        184,
+        100,
+        88
+      ]
+    },
+    "name": "Chefs Table S01E04 WEBRip x264 AHMED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 28,
+  "last_updated": "2016-12-24T16:11:15.130Z"
+}

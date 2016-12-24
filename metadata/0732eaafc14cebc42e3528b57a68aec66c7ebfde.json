@@ -1,1 +1,61 @@
-{"title":"Bruno Mars - Doo-Wops &amp; Hooligans (2010)","uid":6147371,"size":86026227,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:0732eaafc14cebc42e3528b57a68aec66c7ebfde&amp;dn=Bruno+Mars+-+Doo-Wops+%26+Hooligans+%282010%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":207,"leechers":43,"uploader":"Boobin16","files":12,"time":1296741322,"description":"Tracklist:\n01. Grenade.mp3\n02. Just The Way You Are.mp3\n03. Our First Time.mp3\n04. Runaway Baby.mp3\n05. The Lazy Song.mp3\n06. Marry You.mp3\n07. Talking To The Moonmp3\n08. Liquor Store Blues.mp3(Feat. Damian Marley)\n09. Count On Me.mp3\n10. The Other Side.mp3 (Feat. Cee Lo Green &amp; B.o.B)\n","torrent":{"xt":"urn:btih:0732eaafc14cebc42e3528b57a68aec66c7ebfde","amp;dn":"Bruno+Mars+-+Doo-Wops+%26+Hooligans+%282010%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0732eaafc14cebc42e3528b57a68aec66c7ebfde","infoHashBuffer":{"type":"Buffer","data":[7,50,234,175,193,76,235,196,46,53,40,181,122,104,174,198,108,126,191,222]},"announce":[],"urlList":[]}}
+{
+  "title": "Bruno Mars - Doo-Wops &amp; Hooligans (2010)",
+  "uid": 6147371,
+  "size": 86026227,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:0732eaafc14cebc42e3528b57a68aec66c7ebfde&amp;dn=Bruno+Mars+-+Doo-Wops+%26+Hooligans+%282010%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 207,
+  "leechers": 43,
+  "uploader": "Boobin16",
+  "files": 12,
+  "time": 1296741322,
+  "description": "Tracklist:\n01. Grenade.mp3\n02. Just The Way You Are.mp3\n03. Our First Time.mp3\n04. Runaway Baby.mp3\n05. The Lazy Song.mp3\n06. Marry You.mp3\n07. Talking To The Moonmp3\n08. Liquor Store Blues.mp3(Feat. Damian Marley)\n09. Count On Me.mp3\n10. The Other Side.mp3 (Feat. Cee Lo Green &amp; B.o.B)\n",
+  "parsed": {
+    "xt": "urn:btih:0732eaafc14cebc42e3528b57a68aec66c7ebfde",
+    "dn": "Bruno Mars - Doo-Wops & Hooligans (2010)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0732eaafc14cebc42e3528b57a68aec66c7ebfde",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        7,
+        50,
+        234,
+        175,
+        193,
+        76,
+        235,
+        196,
+        46,
+        53,
+        40,
+        181,
+        122,
+        104,
+        174,
+        198,
+        108,
+        126,
+        191,
+        222
+      ]
+    },
+    "name": "Bruno Mars - Doo-Wops & Hooligans (2010)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 250,
+  "peers": 156,
+  "last_updated": "2016-12-24T16:10:20.997Z"
+}

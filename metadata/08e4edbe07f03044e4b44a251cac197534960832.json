@@ -1,1 +1,61 @@
-{"title":"udemy - Python Programming for Real-Life Networking Use","uid":12160365,"size":1233729572,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:08e4edbe07f03044e4b44a251cac197534960832&amp;dn=udemy+-+Python+Programming+for+Real-Life+Networking+Use&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":7,"uploader":"NepsterJay","files":3,"time":1437893573,"description":"Python programming course aimed at network professionals with little or no experience in coding. This hands-on training takes you from Ã¢â‚¬Å“Hello World!Ã¢â‚¬ï¿½ to complex network applications in no time.\n\nSave Time And Money By Writing Your Own Python Programs To Automate Daily Network Tasks.\n\nDuring this course you will learn Python concepts which are relevant to your networking job and build some amazing tools:\n\nA basic subnet calculator.\nA script for pushing the same configuration on multiple devices at the same time via SSH (secured connection) or Telnet (unsecured connection).\nA DHCP client simulator for testing DHCP services in your network.\nA tool for collecting CPU and Memory information from routers and storing it in a MySQL database for further statistics.\nAn application for OSPF network discovery via SNMP, which finds all your OSPF routers and returns them in a nice map format.\nSounds unbelievable given your current programming experience? Well, itÃ¢â‚¬â„¢s true! How?\n\nFirst, every Python key concept is explained in one or more video lectures, followed by a short quiz. Each video is filled with relevant examples, in a learn-by-doing fashion and the quizzes will help you consolidate the main ideas behind each topic.\n\nAfter laying the foundation, we will dive right into the real-life networking scenarios and apply our knowledge to build 5 great network utilities.\n\nComplete with working files, network topologies and code samples (in .pdf and .py formats), you will be able to work alongside me on each lecture and each application. I will provide a virtual machine with all the Python modules already installed and also the full code for each application, so you can start coding on the spot.\n\nWe will use emulated routers in GNS3 to test our apps in a network environment, so you can see the actual results of running your code","torrent":{"xt":"urn:btih:08e4edbe07f03044e4b44a251cac197534960832","amp;dn":"udemy+-+Python+Programming+for+Real-Life+Networking+Use","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"08e4edbe07f03044e4b44a251cac197534960832","infoHashBuffer":{"type":"Buffer","data":[8,228,237,190,7,240,48,68,228,180,74,37,28,172,25,117,52,150,8,50]},"announce":[],"urlList":[]}}
+{
+  "title": "udemy - Python Programming for Real-Life Networking Use",
+  "uid": 12160365,
+  "size": 1233729572,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:08e4edbe07f03044e4b44a251cac197534960832&amp;dn=udemy+-+Python+Programming+for+Real-Life+Networking+Use&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 7,
+  "uploader": "NepsterJay",
+  "files": 3,
+  "time": 1437893573,
+  "description": "Python programming course aimed at network professionals with little or no experience in coding. This hands-on training takes you from Ã¢â‚¬Å“Hello World!Ã¢â‚¬ï¿½ to complex network applications in no time.\n\nSave Time And Money By Writing Your Own Python Programs To Automate Daily Network Tasks.\n\nDuring this course you will learn Python concepts which are relevant to your networking job and build some amazing tools:\n\nA basic subnet calculator.\nA script for pushing the same configuration on multiple devices at the same time via SSH (secured connection) or Telnet (unsecured connection).\nA DHCP client simulator for testing DHCP services in your network.\nA tool for collecting CPU and Memory information from routers and storing it in a MySQL database for further statistics.\nAn application for OSPF network discovery via SNMP, which finds all your OSPF routers and returns them in a nice map format.\nSounds unbelievable given your current programming experience? Well, itÃ¢â‚¬â„¢s true! How?\n\nFirst, every Python key concept is explained in one or more video lectures, followed by a short quiz. Each video is filled with relevant examples, in a learn-by-doing fashion and the quizzes will help you consolidate the main ideas behind each topic.\n\nAfter laying the foundation, we will dive right into the real-life networking scenarios and apply our knowledge to build 5 great network utilities.\n\nComplete with working files, network topologies and code samples (in .pdf and .py formats), you will be able to work alongside me on each lecture and each application. I will provide a virtual machine with all the Python modules already installed and also the full code for each application, so you can start coding on the spot.\n\nWe will use emulated routers in GNS3 to test our apps in a network environment, so you can see the actual results of running your code",
+  "parsed": {
+    "xt": "urn:btih:08e4edbe07f03044e4b44a251cac197534960832",
+    "dn": "udemy - Python Programming for Real-Life Networking Use",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "08e4edbe07f03044e4b44a251cac197534960832",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        8,
+        228,
+        237,
+        190,
+        7,
+        240,
+        48,
+        68,
+        228,
+        180,
+        74,
+        37,
+        28,
+        172,
+        25,
+        117,
+        52,
+        150,
+        8,
+        50
+      ]
+    },
+    "name": "udemy - Python Programming for Real-Life Networking Use",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 169,
+  "last_updated": "2016-12-24T16:22:59.364Z"
+}

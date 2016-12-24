@@ -1,1 +1,61 @@
-{"title":"Eminem - The Marshall Mathers LP","uid":11743560,"size":124332361,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:06f70c135f73371e74b2ec307eda075270b77d10&amp;dn=Eminem+-+The+Marshall+Mathers+LP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":99,"leechers":19,"uploader":null,"files":18,"time":1425897811,"description":"64","torrent":{"xt":"urn:btih:06f70c135f73371e74b2ec307eda075270b77d10","amp;dn":"Eminem+-+The+Marshall+Mathers+LP","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"06f70c135f73371e74b2ec307eda075270b77d10","infoHashBuffer":{"type":"Buffer","data":[6,247,12,19,95,115,55,30,116,178,236,48,126,218,7,82,112,183,125,16]},"announce":[],"urlList":[]}}
+{
+  "title": "Eminem - The Marshall Mathers LP",
+  "uid": 11743560,
+  "size": 124332361,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:06f70c135f73371e74b2ec307eda075270b77d10&amp;dn=Eminem+-+The+Marshall+Mathers+LP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 99,
+  "leechers": 19,
+  "uploader": null,
+  "files": 18,
+  "time": 1425897811,
+  "description": "64",
+  "parsed": {
+    "xt": "urn:btih:06f70c135f73371e74b2ec307eda075270b77d10",
+    "dn": "Eminem - The Marshall Mathers LP",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "06f70c135f73371e74b2ec307eda075270b77d10",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        6,
+        247,
+        12,
+        19,
+        95,
+        115,
+        55,
+        30,
+        116,
+        178,
+        236,
+        48,
+        126,
+        218,
+        7,
+        82,
+        112,
+        183,
+        125,
+        16
+      ]
+    },
+    "name": "Eminem - The Marshall Mathers LP",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 118,
+  "peers": 51,
+  "last_updated": "2016-12-24T16:08:42.771Z"
+}

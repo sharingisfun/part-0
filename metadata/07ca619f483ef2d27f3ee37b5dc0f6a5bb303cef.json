@@ -1,1 +1,61 @@
-{"title":"Chance The Rapper - Acid Rap","uid":8426997,"size":131610532,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:07ca619f483ef2d27f3ee37b5dc0f6a5bb303cef&amp;dn=Chance+The+Rapper+-+Acid+Rap&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":371,"leechers":5,"uploader":"JSKim","files":13,"time":1367371247,"description":"Artist: Chance The Rapper\nAlbum: Acid Rap\nGenre: Hip-Hop/Rap\nBitrate: 320 kbps\nSource:\thttp://chanceraps.com/","torrent":{"xt":"urn:btih:07ca619f483ef2d27f3ee37b5dc0f6a5bb303cef","amp;dn":"Chance+The+Rapper+-+Acid+Rap","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"07ca619f483ef2d27f3ee37b5dc0f6a5bb303cef","infoHashBuffer":{"type":"Buffer","data":[7,202,97,159,72,62,242,210,127,62,227,123,93,192,246,165,187,48,60,239]},"announce":[],"urlList":[]}}
+{
+  "title": "Chance The Rapper - Acid Rap",
+  "uid": 8426997,
+  "size": 131610532,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:07ca619f483ef2d27f3ee37b5dc0f6a5bb303cef&amp;dn=Chance+The+Rapper+-+Acid+Rap&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 371,
+  "leechers": 5,
+  "uploader": "JSKim",
+  "files": 13,
+  "time": 1367371247,
+  "description": "Artist: Chance The Rapper\nAlbum: Acid Rap\nGenre: Hip-Hop/Rap\nBitrate: 320 kbps\nSource:\thttp://chanceraps.com/",
+  "parsed": {
+    "xt": "urn:btih:07ca619f483ef2d27f3ee37b5dc0f6a5bb303cef",
+    "dn": "Chance The Rapper - Acid Rap",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "07ca619f483ef2d27f3ee37b5dc0f6a5bb303cef",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        7,
+        202,
+        97,
+        159,
+        72,
+        62,
+        242,
+        210,
+        127,
+        62,
+        227,
+        123,
+        93,
+        192,
+        246,
+        165,
+        187,
+        48,
+        60,
+        239
+      ]
+    },
+    "name": "Chance The Rapper - Acid Rap",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 376,
+  "peers": 238,
+  "last_updated": "2016-12-24T16:15:11.734Z"
+}

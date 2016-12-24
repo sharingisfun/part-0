@@ -1,1 +1,61 @@
-{"title":"Slayer Repentless [2015] CDRIP","uid":12352710,"size":92678865,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:08f0c1a7653cd87b7cf907cd28513829ed4dfb72&amp;dn=Slayer+Repentless+%5B2015%5D+CDRIP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":232,"leechers":18,"uploader":"Capajebo","files":17,"time":1441447097,"description":" &lt;a href=&quot;http://imgur.com/WiluRun&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/WiluRun&lt;/a&gt; Slayer Repentless [2015] VBRV0-PROPER CDRIP (C) UTP 1914","torrent":{"xt":"urn:btih:08f0c1a7653cd87b7cf907cd28513829ed4dfb72","amp;dn":"Slayer+Repentless+%5B2015%5D+CDRIP","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"08f0c1a7653cd87b7cf907cd28513829ed4dfb72","infoHashBuffer":{"type":"Buffer","data":[8,240,193,167,101,60,216,123,124,249,7,205,40,81,56,41,237,77,251,114]},"announce":[],"urlList":[]}}
+{
+  "title": "Slayer Repentless [2015] CDRIP",
+  "uid": 12352710,
+  "size": 92678865,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:08f0c1a7653cd87b7cf907cd28513829ed4dfb72&amp;dn=Slayer+Repentless+%5B2015%5D+CDRIP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 232,
+  "leechers": 18,
+  "uploader": "Capajebo",
+  "files": 17,
+  "time": 1441447097,
+  "description": " &lt;a href=&quot;http://imgur.com/WiluRun&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/WiluRun&lt;/a&gt; Slayer Repentless [2015] VBRV0-PROPER CDRIP (C) UTP 1914",
+  "parsed": {
+    "xt": "urn:btih:08f0c1a7653cd87b7cf907cd28513829ed4dfb72",
+    "dn": "Slayer Repentless [2015] CDRIP",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "08f0c1a7653cd87b7cf907cd28513829ed4dfb72",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        8,
+        240,
+        193,
+        167,
+        101,
+        60,
+        216,
+        123,
+        124,
+        249,
+        7,
+        205,
+        40,
+        81,
+        56,
+        41,
+        237,
+        77,
+        251,
+        114
+      ]
+    },
+    "name": "Slayer Repentless [2015] CDRIP",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 250,
+  "peers": 53,
+  "last_updated": "2016-12-24T16:23:19.445Z"
+}

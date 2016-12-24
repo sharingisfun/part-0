@@ -1,1 +1,61 @@
-{"title":"Fun. - Some Nights [ 2012 - Album] - [HP]","uid":7445213,"size":110929017,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:089e0694edcf8c45df675e8db816c4d292ee2845&amp;dn=Fun.+-+Some+Nights+%5B+2012+-+Album%5D+-+%5BHP%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":4,"uploader":"[HP]","files":11,"time":1342351116,"description":"Info\n\n\nArtist: Fun.\nAlbum: Some Nights\nRelease Date: 2012\nGenre: Alternative\nMP3 Bitrate:  320Kbps CBR ITUNESRIP\n\nTrack List\n\n\n1 Some Nights (Intro)\n2 Some Nights\n3 We Are Young (feat. Janelle MonÃƒÂ¡e)\n4 Carry On\n5 It Gets Better\n6 Why Am I the One\n7 All Alone\n8 All Alright\n9 One Foot\n10 Stars\n11 Out On the Town (Bonus Track)","torrent":{"xt":"urn:btih:089e0694edcf8c45df675e8db816c4d292ee2845","amp;dn":"Fun.+-+Some+Nights+%5B+2012+-+Album%5D+-+%5BHP%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"089e0694edcf8c45df675e8db816c4d292ee2845","infoHashBuffer":{"type":"Buffer","data":[8,158,6,148,237,207,140,69,223,103,94,141,184,22,196,210,146,238,40,69]},"announce":[],"urlList":[]}}
+{
+  "title": "Fun. - Some Nights [ 2012 - Album] - [HP]",
+  "uid": 7445213,
+  "size": 110929017,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:089e0694edcf8c45df675e8db816c4d292ee2845&amp;dn=Fun.+-+Some+Nights+%5B+2012+-+Album%5D+-+%5BHP%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 4,
+  "uploader": "[HP]",
+  "files": 11,
+  "time": 1342351116,
+  "description": "Info\n\n\nArtist: Fun.\nAlbum: Some Nights\nRelease Date: 2012\nGenre: Alternative\nMP3 Bitrate:  320Kbps CBR ITUNESRIP\n\nTrack List\n\n\n1 Some Nights (Intro)\n2 Some Nights\n3 We Are Young (feat. Janelle MonÃƒÂ¡e)\n4 Carry On\n5 It Gets Better\n6 Why Am I the One\n7 All Alone\n8 All Alright\n9 One Foot\n10 Stars\n11 Out On the Town (Bonus Track)",
+  "parsed": {
+    "xt": "urn:btih:089e0694edcf8c45df675e8db816c4d292ee2845",
+    "dn": "Fun. - Some Nights [ 2012 - Album] - [HP]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "089e0694edcf8c45df675e8db816c4d292ee2845",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        8,
+        158,
+        6,
+        148,
+        237,
+        207,
+        140,
+        69,
+        223,
+        103,
+        94,
+        141,
+        184,
+        22,
+        196,
+        210,
+        146,
+        238,
+        40,
+        69
+      ]
+    },
+    "name": "Fun. - Some Nights [ 2012 - Album] - [HP]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 58,
+  "last_updated": "2016-12-24T16:20:58.861Z"
+}

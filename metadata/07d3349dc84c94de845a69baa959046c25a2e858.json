@@ -1,1 +1,61 @@
-{"title":"Rachel Platten - Fight Song - EP 2015","uid":12011547,"size":32972369,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:07d3349dc84c94de845a69baa959046c25a2e858&amp;dn=Rachel+Platten+-+Fight+Song+-+EP+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":234,"leechers":45,"uploader":null,"files":4,"time":1434162335,"description":"Rachel Platten - Fight Song - EP 2015\n\ndownloaded from itunes","torrent":{"xt":"urn:btih:07d3349dc84c94de845a69baa959046c25a2e858","amp;dn":"Rachel+Platten+-+Fight+Song+-+EP+2015","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"07d3349dc84c94de845a69baa959046c25a2e858","infoHashBuffer":{"type":"Buffer","data":[7,211,52,157,200,76,148,222,132,90,105,186,169,89,4,108,37,162,232,88]},"announce":[],"urlList":[]}}
+{
+  "title": "Rachel Platten - Fight Song - EP 2015",
+  "uid": 12011547,
+  "size": 32972369,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:07d3349dc84c94de845a69baa959046c25a2e858&amp;dn=Rachel+Platten+-+Fight+Song+-+EP+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 234,
+  "leechers": 45,
+  "uploader": null,
+  "files": 4,
+  "time": 1434162335,
+  "description": "Rachel Platten - Fight Song - EP 2015\n\ndownloaded from itunes",
+  "parsed": {
+    "xt": "urn:btih:07d3349dc84c94de845a69baa959046c25a2e858",
+    "dn": "Rachel Platten - Fight Song - EP 2015",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "07d3349dc84c94de845a69baa959046c25a2e858",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        7,
+        211,
+        52,
+        157,
+        200,
+        76,
+        148,
+        222,
+        132,
+        90,
+        105,
+        186,
+        169,
+        89,
+        4,
+        108,
+        37,
+        162,
+        232,
+        88
+      ]
+    },
+    "name": "Rachel Platten - Fight Song - EP 2015",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 279,
+  "peers": 101,
+  "last_updated": "2016-12-24T16:15:37.798Z"
+}

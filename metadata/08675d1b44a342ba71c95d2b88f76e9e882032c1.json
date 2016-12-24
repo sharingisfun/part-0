@@ -1,1 +1,61 @@
-{"title":"Pink Feat. Nate Ruess - Just Give Me A Reason [mp3@320]","uid":8328545,"size":9746382,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:08675d1b44a342ba71c95d2b88f76e9e882032c1&amp;dn=Pink+Feat.+Nate+Ruess+-+Just+Give+Me+A+Reason+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":0,"uploader":"BalticBlackBeard","files":-1,"time":1364838479,"description":"Pink Feat. Nate Ruess - Just Give Me A Reason\n\nMP3@320 kbit, 44.1khz Joint Stereo","torrent":{"xt":"urn:btih:08675d1b44a342ba71c95d2b88f76e9e882032c1","amp;dn":"Pink+Feat.+Nate+Ruess+-+Just+Give+Me+A+Reason+%5Bmp3%40320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"08675d1b44a342ba71c95d2b88f76e9e882032c1","infoHashBuffer":{"type":"Buffer","data":[8,103,93,27,68,163,66,186,113,201,93,43,136,247,110,158,136,32,50,193]},"announce":[],"urlList":[]}}
+{
+  "title": "Pink Feat. Nate Ruess - Just Give Me A Reason [mp3@320]",
+  "uid": 8328545,
+  "size": 9746382,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:08675d1b44a342ba71c95d2b88f76e9e882032c1&amp;dn=Pink+Feat.+Nate+Ruess+-+Just+Give+Me+A+Reason+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 0,
+  "uploader": "BalticBlackBeard",
+  "files": -1,
+  "time": 1364838479,
+  "description": "Pink Feat. Nate Ruess - Just Give Me A Reason\n\nMP3@320 kbit, 44.1khz Joint Stereo",
+  "parsed": {
+    "xt": "urn:btih:08675d1b44a342ba71c95d2b88f76e9e882032c1",
+    "dn": "Pink Feat. Nate Ruess - Just Give Me A Reason [mp3@320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "08675d1b44a342ba71c95d2b88f76e9e882032c1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        8,
+        103,
+        93,
+        27,
+        68,
+        163,
+        66,
+        186,
+        113,
+        201,
+        93,
+        43,
+        136,
+        247,
+        110,
+        158,
+        136,
+        32,
+        50,
+        193
+      ]
+    },
+    "name": "Pink Feat. Nate Ruess - Just Give Me A Reason [mp3@320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 13,
+  "last_updated": "2016-12-24T16:19:14.500Z"
+}
