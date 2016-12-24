@@ -1,1 +1,61 @@
-{"title":"A Tribe Called Quest - The Low End Theory","uid":3297315,"size":69299301,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3888268a43121470e88921961ada11d5b0e2e29c&amp;dn=A+Tribe+Called+Quest+-+The+Low+End+Theory&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":1,"uploader":"Jeejk","files":14,"time":1109805794,"description":"A Tribe Called Quest - The Low End Theory\n1. A Tribe Called Quest - Excursions (3:55)\n2. A Tribe Called Quest - Buggin' Out (3:37)\n3. A Tribe Called Quest - Rap Promoter (2:13)\n4. A Tribe Called Quest - Butter (3:38)\n5. A Tribe Called Quest - Verses From the Abstract (3:58)\n6. A Tribe Called Quest - Show Business (3:53)\n7. A Tribe Called Quest - Vibes and Stuff (4:18)\n8. A Tribe Called Quest - The Infamous Date Rape (2:53)\n9. A Tribe Called Quest - Check the Rhime (3:36)\n10. A Tribe Called Quest - Everything is Fair (2:58)\n11. A Tribe Called Quest - Jazz (We've Got) (4:09)\n12. A Tribe Called Quest - Skypager (2:13)\n13. A Tribe Called Quest - What? (2:28)\n14. A Tribe Called Quest - Scenario (4:11)\n","torrent":{"xt":"urn:btih:3888268a43121470e88921961ada11d5b0e2e29c","amp;dn":"A+Tribe+Called+Quest+-+The+Low+End+Theory","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3888268a43121470e88921961ada11d5b0e2e29c","infoHashBuffer":{"type":"Buffer","data":[56,136,38,138,67,18,20,112,232,137,33,150,26,218,17,213,176,226,226,156]},"announce":[],"urlList":[]}}
+{
+  "title": "A Tribe Called Quest - The Low End Theory",
+  "uid": 3297315,
+  "size": 69299301,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3888268a43121470e88921961ada11d5b0e2e29c&amp;dn=A+Tribe+Called+Quest+-+The+Low+End+Theory&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 1,
+  "uploader": "Jeejk",
+  "files": 14,
+  "time": 1109805794,
+  "description": "A Tribe Called Quest - The Low End Theory\n1. A Tribe Called Quest - Excursions (3:55)\n2. A Tribe Called Quest - Buggin' Out (3:37)\n3. A Tribe Called Quest - Rap Promoter (2:13)\n4. A Tribe Called Quest - Butter (3:38)\n5. A Tribe Called Quest - Verses From the Abstract (3:58)\n6. A Tribe Called Quest - Show Business (3:53)\n7. A Tribe Called Quest - Vibes and Stuff (4:18)\n8. A Tribe Called Quest - The Infamous Date Rape (2:53)\n9. A Tribe Called Quest - Check the Rhime (3:36)\n10. A Tribe Called Quest - Everything is Fair (2:58)\n11. A Tribe Called Quest - Jazz (We've Got) (4:09)\n12. A Tribe Called Quest - Skypager (2:13)\n13. A Tribe Called Quest - What? (2:28)\n14. A Tribe Called Quest - Scenario (4:11)\n",
+  "parsed": {
+    "xt": "urn:btih:3888268a43121470e88921961ada11d5b0e2e29c",
+    "dn": "A Tribe Called Quest - The Low End Theory",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3888268a43121470e88921961ada11d5b0e2e29c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        56,
+        136,
+        38,
+        138,
+        67,
+        18,
+        20,
+        112,
+        232,
+        137,
+        33,
+        150,
+        26,
+        218,
+        17,
+        213,
+        176,
+        226,
+        226,
+        156
+      ]
+    },
+    "name": "A Tribe Called Quest - The Low End Theory",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 271,
+  "last_updated": "2016-12-24T22:18:35.728Z"
+}

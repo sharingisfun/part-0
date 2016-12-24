@@ -1,1 +1,61 @@
-{"title":"Sherlock 3x02 The Sign Of Three HDTV x264-FoV [P2PDL]","uid":9439083,"size":641086269,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3a8e5836556b9a0e876d1b9223e4386e0568d905&amp;dn=Sherlock+3x02+The+Sign+Of+Three+HDTV+x264-FoV+%5BP2PDL%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":151,"leechers":3,"uploader":"TeX","files":1,"time":1388963633,"description":"Sherlock 3x02 The Sign Of Three HDTV x264-FoV","torrent":{"xt":"urn:btih:3a8e5836556b9a0e876d1b9223e4386e0568d905","amp;dn":"Sherlock+3x02+The+Sign+Of+Three+HDTV+x264-FoV+%5BP2PDL%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3a8e5836556b9a0e876d1b9223e4386e0568d905","infoHashBuffer":{"type":"Buffer","data":[58,142,88,54,85,107,154,14,135,109,27,146,35,228,56,110,5,104,217,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Sherlock 3x02 The Sign Of Three HDTV x264-FoV [P2PDL]",
+  "uid": 9439083,
+  "size": 641086269,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3a8e5836556b9a0e876d1b9223e4386e0568d905&amp;dn=Sherlock+3x02+The+Sign+Of+Three+HDTV+x264-FoV+%5BP2PDL%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 151,
+  "leechers": 3,
+  "uploader": "TeX",
+  "files": 1,
+  "time": 1388963633,
+  "description": "Sherlock 3x02 The Sign Of Three HDTV x264-FoV",
+  "parsed": {
+    "xt": "urn:btih:3a8e5836556b9a0e876d1b9223e4386e0568d905",
+    "dn": "Sherlock 3x02 The Sign Of Three HDTV x264-FoV [P2PDL]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3a8e5836556b9a0e876d1b9223e4386e0568d905",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        58,
+        142,
+        88,
+        54,
+        85,
+        107,
+        154,
+        14,
+        135,
+        109,
+        27,
+        146,
+        35,
+        228,
+        56,
+        110,
+        5,
+        104,
+        217,
+        5
+      ]
+    },
+    "name": "Sherlock 3x02 The Sign Of Three HDTV x264-FoV [P2PDL]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 154,
+  "peers": 8,
+  "last_updated": "2016-12-24T22:32:05.009Z"
+}

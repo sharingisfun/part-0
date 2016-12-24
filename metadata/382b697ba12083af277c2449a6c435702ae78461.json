@@ -1,1 +1,61 @@
-{"title":"Windows Server 2012 R2 x64 VL Standart Datacenter PT BR Original","uid":9499924,"size":4526419968,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:382b697ba12083af277c2449a6c435702ae78461&amp;dn=Windows+Server+2012+R2+x64+VL+Standart+Datacenter+PT+BR+Original&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":4,"uploader":"PEERBLOCK","files":1,"time":1390200517,"description":"Windows Server 2012 R2 x64 VL Standart Datacenter PT BR Original MSDN\n\n(Portuguese-Brazil DVD)\n\n'pt_windows_server_2012_r2_vl_x64_dvd_3320051'\n'SW_DVD9_Windows_Svr_Std_and_DataCtr_2012_R2_64Bit_Brazilian_-2_Core_MLF_X19-31413'\n\nSHA1:39C4F2E988980041F42DA08874495CE2CAD9E8D0","torrent":{"xt":"urn:btih:382b697ba12083af277c2449a6c435702ae78461","amp;dn":"Windows+Server+2012+R2+x64+VL+Standart+Datacenter+PT+BR+Original","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"382b697ba12083af277c2449a6c435702ae78461","infoHashBuffer":{"type":"Buffer","data":[56,43,105,123,161,32,131,175,39,124,36,73,166,196,53,112,42,231,132,97]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows Server 2012 R2 x64 VL Standart Datacenter PT BR Original",
+  "uid": 9499924,
+  "size": 4526419968,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:382b697ba12083af277c2449a6c435702ae78461&amp;dn=Windows+Server+2012+R2+x64+VL+Standart+Datacenter+PT+BR+Original&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 4,
+  "uploader": "PEERBLOCK",
+  "files": 1,
+  "time": 1390200517,
+  "description": "Windows Server 2012 R2 x64 VL Standart Datacenter PT BR Original MSDN\n\n(Portuguese-Brazil DVD)\n\n'pt_windows_server_2012_r2_vl_x64_dvd_3320051'\n'SW_DVD9_Windows_Svr_Std_and_DataCtr_2012_R2_64Bit_Brazilian_-2_Core_MLF_X19-31413'\n\nSHA1:39C4F2E988980041F42DA08874495CE2CAD9E8D0",
+  "parsed": {
+    "xt": "urn:btih:382b697ba12083af277c2449a6c435702ae78461",
+    "dn": "Windows Server 2012 R2 x64 VL Standart Datacenter PT BR Original",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "382b697ba12083af277c2449a6c435702ae78461",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        56,
+        43,
+        105,
+        123,
+        161,
+        32,
+        131,
+        175,
+        39,
+        124,
+        36,
+        73,
+        166,
+        196,
+        53,
+        112,
+        42,
+        231,
+        132,
+        97
+      ]
+    },
+    "name": "Windows Server 2012 R2 x64 VL Standart Datacenter PT BR Original",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 134,
+  "last_updated": "2016-12-24T22:15:45.030Z"
+}

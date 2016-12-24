@@ -1,1 +1,61 @@
-{"title":"Hole - complete discography","uid":6414057,"size":503660621,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3844657baf8efab0b18b9aa6ea3e6f572cf5d634&amp;dn=Hole+-+complete+discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":8,"uploader":"mjuwzick","files":115,"time":1306104905,"description":"Hole complete discography\n\n","torrent":{"xt":"urn:btih:3844657baf8efab0b18b9aa6ea3e6f572cf5d634","amp;dn":"Hole+-+complete+discography","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3844657baf8efab0b18b9aa6ea3e6f572cf5d634","infoHashBuffer":{"type":"Buffer","data":[56,68,101,123,175,142,250,176,177,139,154,166,234,62,111,87,44,245,214,52]},"announce":[],"urlList":[]}}
+{
+  "title": "Hole - complete discography",
+  "uid": 6414057,
+  "size": 503660621,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3844657baf8efab0b18b9aa6ea3e6f572cf5d634&amp;dn=Hole+-+complete+discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 8,
+  "uploader": "mjuwzick",
+  "files": 115,
+  "time": 1306104905,
+  "description": "Hole complete discography\n\n",
+  "parsed": {
+    "xt": "urn:btih:3844657baf8efab0b18b9aa6ea3e6f572cf5d634",
+    "dn": "Hole - complete discography",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3844657baf8efab0b18b9aa6ea3e6f572cf5d634",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        56,
+        68,
+        101,
+        123,
+        175,
+        142,
+        250,
+        176,
+        177,
+        139,
+        154,
+        166,
+        234,
+        62,
+        111,
+        87,
+        44,
+        245,
+        214,
+        52
+      ]
+    },
+    "name": "Hole - complete discography",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 56,
+  "last_updated": "2016-12-24T22:16:45.287Z"
+}

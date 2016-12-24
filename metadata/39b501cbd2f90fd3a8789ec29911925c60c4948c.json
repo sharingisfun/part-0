@@ -1,1 +1,61 @@
-{"title":"The Originals S02E06 HDTV x264-LOL[ettv]","uid":11426919,"size":212212113,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:39b501cbd2f90fd3a8789ec29911925c60c4948c&amp;dn=The+Originals+S02E06+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":323,"leechers":17,"uploader":"ettv","files":2,"time":1415674760,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:39b501cbd2f90fd3a8789ec29911925c60c4948c","amp;dn":"The+Originals+S02E06+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"39b501cbd2f90fd3a8789ec29911925c60c4948c","infoHashBuffer":{"type":"Buffer","data":[57,181,1,203,210,249,15,211,168,120,158,194,153,17,146,92,96,196,148,140]},"announce":[],"urlList":[]}}
+{
+  "title": "The Originals S02E06 HDTV x264-LOL[ettv]",
+  "uid": 11426919,
+  "size": 212212113,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:39b501cbd2f90fd3a8789ec29911925c60c4948c&amp;dn=The+Originals+S02E06+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 323,
+  "leechers": 17,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1415674760,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:39b501cbd2f90fd3a8789ec29911925c60c4948c",
+    "dn": "The Originals S02E06 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "39b501cbd2f90fd3a8789ec29911925c60c4948c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        57,
+        181,
+        1,
+        203,
+        210,
+        249,
+        15,
+        211,
+        168,
+        120,
+        158,
+        194,
+        153,
+        17,
+        146,
+        92,
+        96,
+        196,
+        148,
+        140
+      ]
+    },
+    "name": "The Originals S02E06 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 340,
+  "peers": 60,
+  "last_updated": "2016-12-24T22:25:41.117Z"
+}

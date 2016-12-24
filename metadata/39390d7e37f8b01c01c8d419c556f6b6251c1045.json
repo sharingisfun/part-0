@@ -1,1 +1,61 @@
-{"title":"Adobe Photoshop CS6","uid":8607709,"size":1400392407,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:39390d7e37f8b01c01c8d419c556f6b6251c1045&amp;dn=Adobe+Photoshop+CS6&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":96,"leechers":7,"uploader":"amiester","files":6,"time":1372061096,"description":"Adobe Photoshop CS6 Extended, including patch. \n\n\nEnjoy. Please seed. Thanks","torrent":{"xt":"urn:btih:39390d7e37f8b01c01c8d419c556f6b6251c1045","amp;dn":"Adobe+Photoshop+CS6","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"39390d7e37f8b01c01c8d419c556f6b6251c1045","infoHashBuffer":{"type":"Buffer","data":[57,57,13,126,55,248,176,28,1,200,212,25,197,86,246,182,37,28,16,69]},"announce":[],"urlList":[]}}
+{
+  "title": "Adobe Photoshop CS6",
+  "uid": 8607709,
+  "size": 1400392407,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:39390d7e37f8b01c01c8d419c556f6b6251c1045&amp;dn=Adobe+Photoshop+CS6&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 96,
+  "leechers": 7,
+  "uploader": "amiester",
+  "files": 6,
+  "time": 1372061096,
+  "description": "Adobe Photoshop CS6 Extended, including patch. \n\n\nEnjoy. Please seed. Thanks",
+  "parsed": {
+    "xt": "urn:btih:39390d7e37f8b01c01c8d419c556f6b6251c1045",
+    "dn": "Adobe Photoshop CS6",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "39390d7e37f8b01c01c8d419c556f6b6251c1045",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        57,
+        57,
+        13,
+        126,
+        55,
+        248,
+        176,
+        28,
+        1,
+        200,
+        212,
+        25,
+        197,
+        86,
+        246,
+        182,
+        37,
+        28,
+        16,
+        69
+      ]
+    },
+    "name": "Adobe Photoshop CS6",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 103,
+  "peers": 10,
+  "last_updated": "2016-12-24T22:22:58.596Z"
+}

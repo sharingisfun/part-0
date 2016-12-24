@@ -1,1 +1,61 @@
-{"title":"B.o.B. Feat Hayley Williams &amp; Eminem - Airplanes Pt. 2 [.mp3]","uid":5507411,"size":7464959,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:38c650b04ccae76f10a38260a5ab023a7fc8c37d&amp;dn=B.o.B.+Feat+Hayley+Williams+%26+Eminem+-+Airplanes+Pt.+2+%5B.mp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":1,"uploader":"MP3Nova","files":1,"time":1271883143,"description":"'The Adventures of Bobby Ray' drops 4-27","torrent":{"xt":"urn:btih:38c650b04ccae76f10a38260a5ab023a7fc8c37d","amp;dn":"B.o.B.+Feat+Hayley+Williams+%26+Eminem+-+Airplanes+Pt.+2+%5B.mp3%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"38c650b04ccae76f10a38260a5ab023a7fc8c37d","infoHashBuffer":{"type":"Buffer","data":[56,198,80,176,76,202,231,111,16,163,130,96,165,171,2,58,127,200,195,125]},"announce":[],"urlList":[]}}
+{
+  "title": "B.o.B. Feat Hayley Williams &amp; Eminem - Airplanes Pt. 2 [.mp3]",
+  "uid": 5507411,
+  "size": 7464959,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:38c650b04ccae76f10a38260a5ab023a7fc8c37d&amp;dn=B.o.B.+Feat+Hayley+Williams+%26+Eminem+-+Airplanes+Pt.+2+%5B.mp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 1,
+  "uploader": "MP3Nova",
+  "files": 1,
+  "time": 1271883143,
+  "description": "'The Adventures of Bobby Ray' drops 4-27",
+  "parsed": {
+    "xt": "urn:btih:38c650b04ccae76f10a38260a5ab023a7fc8c37d",
+    "dn": "B.o.B. Feat Hayley Williams & Eminem - Airplanes Pt. 2 [.mp3]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "38c650b04ccae76f10a38260a5ab023a7fc8c37d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        56,
+        198,
+        80,
+        176,
+        76,
+        202,
+        231,
+        111,
+        16,
+        163,
+        130,
+        96,
+        165,
+        171,
+        2,
+        58,
+        127,
+        200,
+        195,
+        125
+      ]
+    },
+    "name": "B.o.B. Feat Hayley Williams & Eminem - Airplanes Pt. 2 [.mp3]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 24,
+  "last_updated": "2016-12-24T22:20:24.107Z"
+}

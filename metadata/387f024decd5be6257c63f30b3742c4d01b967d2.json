@@ -1,1 +1,61 @@
-{"title":"half life 1 full game","uid":5580237,"size":258840180,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:387f024decd5be6257c63f30b3742c4d01b967d2&amp;dn=half+life+1+full+game&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":121,"leechers":0,"uploader":"Hardratha","files":1,"time":1274516220,"description":"its a exe file so just run the file install play ","torrent":{"xt":"urn:btih:387f024decd5be6257c63f30b3742c4d01b967d2","amp;dn":"half+life+1+full+game","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"387f024decd5be6257c63f30b3742c4d01b967d2","infoHashBuffer":{"type":"Buffer","data":[56,127,2,77,236,213,190,98,87,198,63,48,179,116,44,77,1,185,103,210]},"announce":[],"urlList":[]}}
+{
+  "title": "half life 1 full game",
+  "uid": 5580237,
+  "size": 258840180,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:387f024decd5be6257c63f30b3742c4d01b967d2&amp;dn=half+life+1+full+game&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 121,
+  "leechers": 0,
+  "uploader": "Hardratha",
+  "files": 1,
+  "time": 1274516220,
+  "description": "its a exe file so just run the file install play ",
+  "parsed": {
+    "xt": "urn:btih:387f024decd5be6257c63f30b3742c4d01b967d2",
+    "dn": "half life 1 full game",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "387f024decd5be6257c63f30b3742c4d01b967d2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        56,
+        127,
+        2,
+        77,
+        236,
+        213,
+        190,
+        98,
+        87,
+        198,
+        63,
+        48,
+        179,
+        116,
+        44,
+        77,
+        1,
+        185,
+        103,
+        210
+      ]
+    },
+    "name": "half life 1 full game",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 121,
+  "peers": 54,
+  "last_updated": "2016-12-24T22:18:23.689Z"
+}

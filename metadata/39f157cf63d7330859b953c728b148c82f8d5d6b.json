@@ -1,1 +1,61 @@
-{"title":"Falling Skies S04E10 HDTV x264-KILLERS[ettv]","uid":10868452,"size":273373869,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:39f157cf63d7330859b953c728b148c82f8d5d6b&amp;dn=Falling+Skies+S04E10+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":9,"uploader":"ettv","files":2,"time":1408943369,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:39f157cf63d7330859b953c728b148c82f8d5d6b","amp;dn":"Falling+Skies+S04E10+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"39f157cf63d7330859b953c728b148c82f8d5d6b","infoHashBuffer":{"type":"Buffer","data":[57,241,87,207,99,215,51,8,89,185,83,199,40,177,72,200,47,141,93,107]},"announce":[],"urlList":[]}}
+{
+  "title": "Falling Skies S04E10 HDTV x264-KILLERS[ettv]",
+  "uid": 10868452,
+  "size": 273373869,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:39f157cf63d7330859b953c728b148c82f8d5d6b&amp;dn=Falling+Skies+S04E10+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 9,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1408943369,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:39f157cf63d7330859b953c728b148c82f8d5d6b",
+    "dn": "Falling Skies S04E10 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "39f157cf63d7330859b953c728b148c82f8d5d6b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        57,
+        241,
+        87,
+        207,
+        99,
+        215,
+        51,
+        8,
+        89,
+        185,
+        83,
+        199,
+        40,
+        177,
+        72,
+        200,
+        47,
+        141,
+        93,
+        107
+      ]
+    },
+    "name": "Falling Skies S04E10 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 1,
+  "last_updated": "2016-12-24T22:27:53.658Z"
+}

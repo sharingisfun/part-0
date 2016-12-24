@@ -1,1 +1,61 @@
-{"title":"iTunes 10.7.0.21 Windows 64-bit [Best Version to Date]","uid":8526239,"size":80521624,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:393c77fae899acf06e10d98bab06a85a6336ca9c&amp;dn=iTunes+10.7.0.21+Windows+64-bit+%5BBest+Version+to+Date%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":1,"uploader":"Danimal1q2w3","files":1,"time":1370035382,"description":"Itunes 11 sucks, so here is an upgrade :)","torrent":{"xt":"urn:btih:393c77fae899acf06e10d98bab06a85a6336ca9c","amp;dn":"iTunes+10.7.0.21+Windows+64-bit+%5BBest+Version+to+Date%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"393c77fae899acf06e10d98bab06a85a6336ca9c","infoHashBuffer":{"type":"Buffer","data":[57,60,119,250,232,153,172,240,110,16,217,139,171,6,168,90,99,54,202,156]},"announce":[],"urlList":[]}}
+{
+  "title": "iTunes 10.7.0.21 Windows 64-bit [Best Version to Date]",
+  "uid": 8526239,
+  "size": 80521624,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:393c77fae899acf06e10d98bab06a85a6336ca9c&amp;dn=iTunes+10.7.0.21+Windows+64-bit+%5BBest+Version+to+Date%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 1,
+  "uploader": "Danimal1q2w3",
+  "files": 1,
+  "time": 1370035382,
+  "description": "Itunes 11 sucks, so here is an upgrade :)",
+  "parsed": {
+    "xt": "urn:btih:393c77fae899acf06e10d98bab06a85a6336ca9c",
+    "dn": "iTunes 10.7.0.21 Windows 64-bit [Best Version to Date]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "393c77fae899acf06e10d98bab06a85a6336ca9c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        57,
+        60,
+        119,
+        250,
+        232,
+        153,
+        172,
+        240,
+        110,
+        16,
+        217,
+        139,
+        171,
+        6,
+        168,
+        90,
+        99,
+        54,
+        202,
+        156
+      ]
+    },
+    "name": "iTunes 10.7.0.21 Windows 64-bit [Best Version to Date]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 72,
+  "last_updated": "2016-12-24T22:23:00.603Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Born to Run - Bruce Springsteen (Epub)","uid":15902118,"size":3360039,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:39997a5c477cf5ece975e731184ce76603782a22&amp;dn=Born+to+Run+-+Bruce+Springsteen+%28Epub%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":3,"uploader":"Rialta13","files":1,"time":1475019380,"description":"Epub file from purchased source, tested today on my Samsung Galaxy Tab S2, works pefectly","torrent":{"xt":"urn:btih:39997a5c477cf5ece975e731184ce76603782a22","amp;dn":"Born+to+Run+-+Bruce+Springsteen+%28Epub%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"39997a5c477cf5ece975e731184ce76603782a22","infoHashBuffer":{"type":"Buffer","data":[57,153,122,92,71,124,245,236,233,117,231,49,24,76,231,102,3,120,42,34]},"announce":[],"urlList":[]}}
+{
+  "title": "Born to Run - Bruce Springsteen (Epub)",
+  "uid": 15902118,
+  "size": 3360039,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:39997a5c477cf5ece975e731184ce76603782a22&amp;dn=Born+to+Run+-+Bruce+Springsteen+%28Epub%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 3,
+  "uploader": "Rialta13",
+  "files": 1,
+  "time": 1475019380,
+  "description": "Epub file from purchased source, tested today on my Samsung Galaxy Tab S2, works pefectly",
+  "parsed": {
+    "xt": "urn:btih:39997a5c477cf5ece975e731184ce76603782a22",
+    "dn": "Born to Run - Bruce Springsteen (Epub)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "39997a5c477cf5ece975e731184ce76603782a22",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        57,
+        153,
+        122,
+        92,
+        71,
+        124,
+        245,
+        236,
+        233,
+        117,
+        231,
+        49,
+        24,
+        76,
+        231,
+        102,
+        3,
+        120,
+        42,
+        34
+      ]
+    },
+    "name": "Born to Run - Bruce Springsteen (Epub)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 102,
+  "last_updated": "2016-12-24T22:25:17.043Z"
+}

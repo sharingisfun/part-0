@@ -1,1 +1,61 @@
-{"title":"Microsoft-Office-For-MacOSx-=TEAM OS=-{HKRG}","uid":11728404,"size":1074733056,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:388b39be226eff61aec166cfedb175c471c34b46&amp;dn=Microsoft-Office-For-MacOSx-%3DTEAM+OS%3D-%7BHKRG%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":680,"leechers":52,"uploader":"OnlyByTheRain","files":1,"time":1425175515,"description":"\nSW_DVD5_Office_Mac_Standard_2011w_SP4_English_-2_ISO_MLF_X19-67669.ISO\n\nCRC32:EBE206D3\nMD5:921EBF1FC79DC5FCA6C36D8956B300C4\nSHA-1:32BAC90EB6B6BFBC9FC25CFDB366FCFFF7271F20","torrent":{"xt":"urn:btih:388b39be226eff61aec166cfedb175c471c34b46","amp;dn":"Microsoft-Office-For-MacOSx-%3DTEAM+OS%3D-%7BHKRG%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"388b39be226eff61aec166cfedb175c471c34b46","infoHashBuffer":{"type":"Buffer","data":[56,139,57,190,34,110,255,97,174,193,102,207,237,177,117,196,113,195,75,70]},"announce":[],"urlList":[]}}
+{
+  "title": "Microsoft-Office-For-MacOSx-=TEAM OS=-{HKRG}",
+  "uid": 11728404,
+  "size": 1074733056,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:388b39be226eff61aec166cfedb175c471c34b46&amp;dn=Microsoft-Office-For-MacOSx-%3DTEAM+OS%3D-%7BHKRG%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 680,
+  "leechers": 52,
+  "uploader": "OnlyByTheRain",
+  "files": 1,
+  "time": 1425175515,
+  "description": "\nSW_DVD5_Office_Mac_Standard_2011w_SP4_English_-2_ISO_MLF_X19-67669.ISO\n\nCRC32:EBE206D3\nMD5:921EBF1FC79DC5FCA6C36D8956B300C4\nSHA-1:32BAC90EB6B6BFBC9FC25CFDB366FCFFF7271F20",
+  "parsed": {
+    "xt": "urn:btih:388b39be226eff61aec166cfedb175c471c34b46",
+    "dn": "Microsoft-Office-For-MacOSx-=TEAM OS=-{HKRG}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "388b39be226eff61aec166cfedb175c471c34b46",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        56,
+        139,
+        57,
+        190,
+        34,
+        110,
+        255,
+        97,
+        174,
+        193,
+        102,
+        207,
+        237,
+        177,
+        117,
+        196,
+        113,
+        195,
+        75,
+        70
+      ]
+    },
+    "name": "Microsoft-Office-For-MacOSx-=TEAM OS=-{HKRG}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 732,
+  "peers": 50,
+  "last_updated": "2016-12-24T22:18:39.741Z"
+}

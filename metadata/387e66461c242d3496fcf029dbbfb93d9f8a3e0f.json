@@ -1,1 +1,61 @@
-{"title":"ImgBurn 2.5.4.0","uid":6037503,"size":5308997,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:387e66461c242d3496fcf029dbbfb93d9f8a3e0f&amp;dn=ImgBurn+2.5.4.0&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":0,"uploader":"olofolleola4","files":-1,"time":1292284079,"description":"Copied from ImgBurn homepage:\n\nImgBurn is a lightweight CD / DVD / HD DVD / Blu-ray burning application that everyone should have in their toolkit!\n\nIt has several 'Modes', each one for performing a different task:\n\n    * Read - Read a disc to an image file\n    * Build - Create an image file from files on your computer or network - or you can write the files directly to a disc\n    * Write - Write an image file to a disc\n    * Verify - Check a disc is 100% readable. Optionally, you can also have ImgBurn compare it against a given image file to ensure the actual data is correct\n    * Discovery - Put your drive / media to the test! Used in combination with DVDInfoPro, you can check the quality of the burns your drive is producing\n\n\nImgBurn supports a wide range of image file formats - including BIN, CCD, CUE, DI, DVD, GI, IMG, ISO, MDS, NRG and PDI.\n\nIt can burn Audio CD's from any file type supported via DirectShow / ACM - including AAC, APE, FLAC, M4A, MP3, MP4, MPC, OGG, PCM, WAV, WMA and WV.\n\nYou can use it to build DVD Video discs (from a VIDEO_TS folder), HD DVD Video discs (from a HVDVD_TS folder) and Blu-ray Video discs (from a BDAV / BDMV folder) with ease.\n\nIt supports Unicode folder/file names, so you shouldn't run in to any problems if you're using an international character set.\n\nImgBurn supports all the Microsoft Windows OS's - Windows 95, Windows 98, Windows Me, Windows NT4, Windows 2000, Windows XP, Windows 2003, Windows Vista, Windows 2008 and Windows 7 (including all the 64-bit versions). If you use Wine, it should also run on Linux and other x86-based Unixes.\n\nIt's a very flexible application with several advanced features that are often lacking in other tools, especially when it comes to burning DVD Video discs. It supports all the latest drives without the need for updates (including booktype / bitsetting / advanced settings on many of the major ones - i.e. BenQ, LiteOn, LG, NEC, Plextor, Samsung, Sony).\n\nThere is an image queue system for when you're burning several images (which you can automatically share between multiple drives if you have more than one) and an easy-to-use layer break selection screen for double layer DVD Video jobs. The Automatic Write Speed feature allows you store your favourite burn speed settings on a per 'Media ID' basis, right down to a drive by drive level. Data captured during the burn (write speed, buffer levels etc) can be displayed / analysed using DVDInfoPro.\n\nWhilst ImgBurn is designed to work perfectly straight out of the box, advanced users will appreciate just how configurable it is.\n\nOh and let's not forget the best thing about it.... it's 100% FREE ;-)\n\nPlease do not use this software to make illegal copies of copyrighted discs.\n\n\nChangelog since version 2.5.3.0:\n\n\nChanged: Remove some more try/catch statements (mainly to do with buffer recovery stuff) in an attempt to get to the root cause of an EInvalidOp error that I've seen in a few bug reports.\n\n\nChanged/Fixed: Attempt to clean up the icons created in the wrong location by a bug in v2.5.2.0. It made them in the current user profile rather than the all users profile and could leave you with duplicate icons after installing v2.5.3.0.\n\n\nFixed: Bug introduced in v2.5.3.0 when selecting multiple files in an 'Open File' dialog box under Vista+ (i.e. those using the new IFileDialog code). The first file was being removed from the list of selected files.\n\n\n\neD2k Link: ed2k://|file|SetupImgBurn_2.5.4.0.exe|5308997|8C84BD60E48B64FFD5928D4A4020049F|h=I5SHEVESRYPJMNNQ7HWKL37GFV4K3CZ5|/","torrent":{"xt":"urn:btih:387e66461c242d3496fcf029dbbfb93d9f8a3e0f","amp;dn":"ImgBurn+2.5.4.0","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"387e66461c242d3496fcf029dbbfb93d9f8a3e0f","infoHashBuffer":{"type":"Buffer","data":[56,126,102,70,28,36,45,52,150,252,240,41,219,191,185,61,159,138,62,15]},"announce":[],"urlList":[]}}
+{
+  "title": "ImgBurn 2.5.4.0",
+  "uid": 6037503,
+  "size": 5308997,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:387e66461c242d3496fcf029dbbfb93d9f8a3e0f&amp;dn=ImgBurn+2.5.4.0&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 0,
+  "uploader": "olofolleola4",
+  "files": -1,
+  "time": 1292284079,
+  "description": "Copied from ImgBurn homepage:\n\nImgBurn is a lightweight CD / DVD / HD DVD / Blu-ray burning application that everyone should have in their toolkit!\n\nIt has several 'Modes', each one for performing a different task:\n\n    * Read - Read a disc to an image file\n    * Build - Create an image file from files on your computer or network - or you can write the files directly to a disc\n    * Write - Write an image file to a disc\n    * Verify - Check a disc is 100% readable. Optionally, you can also have ImgBurn compare it against a given image file to ensure the actual data is correct\n    * Discovery - Put your drive / media to the test! Used in combination with DVDInfoPro, you can check the quality of the burns your drive is producing\n\n\nImgBurn supports a wide range of image file formats - including BIN, CCD, CUE, DI, DVD, GI, IMG, ISO, MDS, NRG and PDI.\n\nIt can burn Audio CD's from any file type supported via DirectShow / ACM - including AAC, APE, FLAC, M4A, MP3, MP4, MPC, OGG, PCM, WAV, WMA and WV.\n\nYou can use it to build DVD Video discs (from a VIDEO_TS folder), HD DVD Video discs (from a HVDVD_TS folder) and Blu-ray Video discs (from a BDAV / BDMV folder) with ease.\n\nIt supports Unicode folder/file names, so you shouldn't run in to any problems if you're using an international character set.\n\nImgBurn supports all the Microsoft Windows OS's - Windows 95, Windows 98, Windows Me, Windows NT4, Windows 2000, Windows XP, Windows 2003, Windows Vista, Windows 2008 and Windows 7 (including all the 64-bit versions). If you use Wine, it should also run on Linux and other x86-based Unixes.\n\nIt's a very flexible application with several advanced features that are often lacking in other tools, especially when it comes to burning DVD Video discs. It supports all the latest drives without the need for updates (including booktype / bitsetting / advanced settings on many of the major ones - i.e. BenQ, LiteOn, LG, NEC, Plextor, Samsung, Sony).\n\nThere is an image queue system for when you're burning several images (which you can automatically share between multiple drives if you have more than one) and an easy-to-use layer break selection screen for double layer DVD Video jobs. The Automatic Write Speed feature allows you store your favourite burn speed settings on a per 'Media ID' basis, right down to a drive by drive level. Data captured during the burn (write speed, buffer levels etc) can be displayed / analysed using DVDInfoPro.\n\nWhilst ImgBurn is designed to work perfectly straight out of the box, advanced users will appreciate just how configurable it is.\n\nOh and let's not forget the best thing about it.... it's 100% FREE ;-)\n\nPlease do not use this software to make illegal copies of copyrighted discs.\n\n\nChangelog since version 2.5.3.0:\n\n\nChanged: Remove some more try/catch statements (mainly to do with buffer recovery stuff) in an attempt to get to the root cause of an EInvalidOp error that I've seen in a few bug reports.\n\n\nChanged/Fixed: Attempt to clean up the icons created in the wrong location by a bug in v2.5.2.0. It made them in the current user profile rather than the all users profile and could leave you with duplicate icons after installing v2.5.3.0.\n\n\nFixed: Bug introduced in v2.5.3.0 when selecting multiple files in an 'Open File' dialog box under Vista+ (i.e. those using the new IFileDialog code). The first file was being removed from the list of selected files.\n\n\n\neD2k Link: ed2k://|file|SetupImgBurn_2.5.4.0.exe|5308997|8C84BD60E48B64FFD5928D4A4020049F|h=I5SHEVESRYPJMNNQ7HWKL37GFV4K3CZ5|/",
+  "parsed": {
+    "xt": "urn:btih:387e66461c242d3496fcf029dbbfb93d9f8a3e0f",
+    "dn": "ImgBurn 2.5.4.0",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "387e66461c242d3496fcf029dbbfb93d9f8a3e0f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        56,
+        126,
+        102,
+        70,
+        28,
+        36,
+        45,
+        52,
+        150,
+        252,
+        240,
+        41,
+        219,
+        191,
+        185,
+        61,
+        159,
+        138,
+        62,
+        15
+      ]
+    },
+    "name": "ImgBurn 2.5.4.0",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 60,
+  "last_updated": "2016-12-24T22:18:19.677Z"
+}
