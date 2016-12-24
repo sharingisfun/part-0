@@ -1,1 +1,61 @@
-{"title":"The English Riviera - Metronomy ","uid":6327311,"size":83695071,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2cde30a5d843df2604a5df31d6e36a61085c2733&amp;dn=The+English+Riviera+-+Metronomy+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":150,"leechers":2,"uploader":"LosslessDude","files":-1,"time":1303153182,"description":"The English Riviera - Metronomy ","torrent":{"xt":"urn:btih:2cde30a5d843df2604a5df31d6e36a61085c2733","amp;dn":"The+English+Riviera+-+Metronomy+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2cde30a5d843df2604a5df31d6e36a61085c2733","infoHashBuffer":{"type":"Buffer","data":[44,222,48,165,216,67,223,38,4,165,223,49,214,227,106,97,8,92,39,51]},"announce":[],"urlList":[]}}
+{
+  "title": "The English Riviera - Metronomy ",
+  "uid": 6327311,
+  "size": 83695071,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2cde30a5d843df2604a5df31d6e36a61085c2733&amp;dn=The+English+Riviera+-+Metronomy+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 150,
+  "leechers": 2,
+  "uploader": "LosslessDude",
+  "files": -1,
+  "time": 1303153182,
+  "description": "The English Riviera - Metronomy ",
+  "parsed": {
+    "xt": "urn:btih:2cde30a5d843df2604a5df31d6e36a61085c2733",
+    "dn": "The English Riviera - Metronomy ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2cde30a5d843df2604a5df31d6e36a61085c2733",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        44,
+        222,
+        48,
+        165,
+        216,
+        67,
+        223,
+        38,
+        4,
+        165,
+        223,
+        49,
+        214,
+        227,
+        106,
+        97,
+        8,
+        92,
+        39,
+        51
+      ]
+    },
+    "name": "The English Riviera - Metronomy ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 152,
+  "peers": 73,
+  "last_updated": "2016-12-24T20:58:38.603Z"
+}

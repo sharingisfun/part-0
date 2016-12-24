@@ -1,1 +1,61 @@
-{"title":"Stalley - Ohio {MP3-2014}","uid":11297138,"size":118807234,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2d4c26a366ef9eb66224bbffefd668f48f4c1792&amp;dn=Stalley+-+Ohio+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":1,"uploader":"simpsonrony","files":-1,"time":1414390237,"description":"Source: https://itunes.apple.com/us/album/ohio/id915958909\n\nArtist: Stalley\n\nAlbum: Ohio [Explicit]\n\nGenre: Hip-Hop/Rap\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\n\nTracklist:\n**********\n\n01 Welcome to O.H.I.O\n02 Jackin' Chevys\n03 Problems\n04 Boomin'\n05 What It Be Like (feat. Nipsey Hussle)\n06 One More Shot (feat. Rick Ross &amp; August Alsina)\n07 Always Into Something (feat. Ty Dolla $ign)\n08 System On Loud\n09 3:30pm\n10 Chevelle (feat. Rashad)\n11 Free\n12 Navajo Rugs (feat. De La Soul)","torrent":{"xt":"urn:btih:2d4c26a366ef9eb66224bbffefd668f48f4c1792","amp;dn":"Stalley+-+Ohio+%7BMP3-2014%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2d4c26a366ef9eb66224bbffefd668f48f4c1792","infoHashBuffer":{"type":"Buffer","data":[45,76,38,163,102,239,158,182,98,36,187,255,239,214,104,244,143,76,23,146]},"announce":[],"urlList":[]}}
+{
+  "title": "Stalley - Ohio {MP3-2014}",
+  "uid": 11297138,
+  "size": 118807234,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2d4c26a366ef9eb66224bbffefd668f48f4c1792&amp;dn=Stalley+-+Ohio+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 1,
+  "uploader": "simpsonrony",
+  "files": -1,
+  "time": 1414390237,
+  "description": "Source: https://itunes.apple.com/us/album/ohio/id915958909\n\nArtist: Stalley\n\nAlbum: Ohio [Explicit]\n\nGenre: Hip-Hop/Rap\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\n\nTracklist:\n**********\n\n01 Welcome to O.H.I.O\n02 Jackin' Chevys\n03 Problems\n04 Boomin'\n05 What It Be Like (feat. Nipsey Hussle)\n06 One More Shot (feat. Rick Ross &amp; August Alsina)\n07 Always Into Something (feat. Ty Dolla $ign)\n08 System On Loud\n09 3:30pm\n10 Chevelle (feat. Rashad)\n11 Free\n12 Navajo Rugs (feat. De La Soul)",
+  "parsed": {
+    "xt": "urn:btih:2d4c26a366ef9eb66224bbffefd668f48f4c1792",
+    "dn": "Stalley - Ohio {MP3-2014}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2d4c26a366ef9eb66224bbffefd668f48f4c1792",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        45,
+        76,
+        38,
+        163,
+        102,
+        239,
+        158,
+        182,
+        98,
+        36,
+        187,
+        255,
+        239,
+        214,
+        104,
+        244,
+        143,
+        76,
+        23,
+        146
+      ]
+    },
+    "name": "Stalley - Ohio {MP3-2014}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 4,
+  "last_updated": "2016-12-24T21:01:31.270Z"
+}

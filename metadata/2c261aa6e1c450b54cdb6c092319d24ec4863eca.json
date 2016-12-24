@@ -1,1 +1,61 @@
-{"title":"Justin Bieber - As Long As You Love Me (feat. Big Sean)","uid":7349522,"size":9332529,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2c261aa6e1c450b54cdb6c092319d24ec4863eca&amp;dn=Justin+Bieber+-+As+Long+As+You+Love+Me+%28feat.+Big+Sean%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":36,"uploader":"Tuffnut","files":-1,"time":1339544929,"description":"Justin Bieber - As Long As You Love Me (feat. Big Sean)\n\nArtist: Justin Bieber (feat. Big Sean)\nAlbum: As Long As You Love Me - Single\nGenre: Pop\nYear: 2012\nBitrate: 320 Kbps\n\nPlease continue seeding the torrent.\n\nDon't forget to leave your feedback.\n\nCheck out my uploads for more music.","torrent":{"xt":"urn:btih:2c261aa6e1c450b54cdb6c092319d24ec4863eca","amp;dn":"Justin+Bieber+-+As+Long+As+You+Love+Me+%28feat.+Big+Sean%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2c261aa6e1c450b54cdb6c092319d24ec4863eca","infoHashBuffer":{"type":"Buffer","data":[44,38,26,166,225,196,80,181,76,219,108,9,35,25,210,78,196,134,62,202]},"announce":[],"urlList":[]}}
+{
+  "title": "Justin Bieber - As Long As You Love Me (feat. Big Sean)",
+  "uid": 7349522,
+  "size": 9332529,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2c261aa6e1c450b54cdb6c092319d24ec4863eca&amp;dn=Justin+Bieber+-+As+Long+As+You+Love+Me+%28feat.+Big+Sean%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 36,
+  "uploader": "Tuffnut",
+  "files": -1,
+  "time": 1339544929,
+  "description": "Justin Bieber - As Long As You Love Me (feat. Big Sean)\n\nArtist: Justin Bieber (feat. Big Sean)\nAlbum: As Long As You Love Me - Single\nGenre: Pop\nYear: 2012\nBitrate: 320 Kbps\n\nPlease continue seeding the torrent.\n\nDon't forget to leave your feedback.\n\nCheck out my uploads for more music.",
+  "parsed": {
+    "xt": "urn:btih:2c261aa6e1c450b54cdb6c092319d24ec4863eca",
+    "dn": "Justin Bieber - As Long As You Love Me (feat. Big Sean)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2c261aa6e1c450b54cdb6c092319d24ec4863eca",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        44,
+        38,
+        26,
+        166,
+        225,
+        196,
+        80,
+        181,
+        76,
+        219,
+        108,
+        9,
+        35,
+        25,
+        210,
+        78,
+        196,
+        134,
+        62,
+        202
+      ]
+    },
+    "name": "Justin Bieber - As Long As You Love Me (feat. Big Sean)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 76,
+  "peers": 62,
+  "last_updated": "2016-12-24T20:53:07.141Z"
+}

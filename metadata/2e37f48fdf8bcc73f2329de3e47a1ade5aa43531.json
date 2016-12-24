@@ -1,1 +1,61 @@
-{"title":"The Ramones - Greatest Hits Collection","uid":8146392,"size":152050277,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2e37f48fdf8bcc73f2329de3e47a1ade5aa43531&amp;dn=The+Ramones+-+Greatest+Hits+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":2,"uploader":"MrMusicCollection","files":27,"time":1360937502,"description":"01 - Blitzkrieg Bop\n02 - I Wanna Be Sedated\n03 - We Want the Airwaves\n04 - Sheena is a Punk Rocker\n05 - Needles and Pins\n06 - Somebody Put Something In My Drink\n07 - Howling at the Moon (Sha-la-la)\n08 - The KKK Took My Baby Away\n09 - I Don t Want to Grow Up\n10 - Do You Remember Rock and Roll Radio\n11 - California Sun\n12 - Something to Believe In\n13 - I Wanna Be Your Boyfriend\n14 - It s Not My Place (In the 9 to 5 World)\n15 - Don t Come Close\n16 - I Remember You\n17 - Rockaway Beach\n18 - Daytime Dilemma (Dangers of Love)\n19 - I Wanna Live\n20 - Pet Sematary\n21 - I Believe in Miracles\n22 - Here Today, Gone Tomorrow\n23 - I Want You Around\n24 - Teenage Lobotomy\n25 - Beat on the Brat\n26 - Gimme Gimme Shock Treatment\n27 - Psycho Therapy","torrent":{"xt":"urn:btih:2e37f48fdf8bcc73f2329de3e47a1ade5aa43531","amp;dn":"The+Ramones+-+Greatest+Hits+Collection","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2e37f48fdf8bcc73f2329de3e47a1ade5aa43531","infoHashBuffer":{"type":"Buffer","data":[46,55,244,143,223,139,204,115,242,50,157,227,228,122,26,222,90,164,53,49]},"announce":[],"urlList":[]}}
+{
+  "title": "The Ramones - Greatest Hits Collection",
+  "uid": 8146392,
+  "size": 152050277,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2e37f48fdf8bcc73f2329de3e47a1ade5aa43531&amp;dn=The+Ramones+-+Greatest+Hits+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 2,
+  "uploader": "MrMusicCollection",
+  "files": 27,
+  "time": 1360937502,
+  "description": "01 - Blitzkrieg Bop\n02 - I Wanna Be Sedated\n03 - We Want the Airwaves\n04 - Sheena is a Punk Rocker\n05 - Needles and Pins\n06 - Somebody Put Something In My Drink\n07 - Howling at the Moon (Sha-la-la)\n08 - The KKK Took My Baby Away\n09 - I Don t Want to Grow Up\n10 - Do You Remember Rock and Roll Radio\n11 - California Sun\n12 - Something to Believe In\n13 - I Wanna Be Your Boyfriend\n14 - It s Not My Place (In the 9 to 5 World)\n15 - Don t Come Close\n16 - I Remember You\n17 - Rockaway Beach\n18 - Daytime Dilemma (Dangers of Love)\n19 - I Wanna Live\n20 - Pet Sematary\n21 - I Believe in Miracles\n22 - Here Today, Gone Tomorrow\n23 - I Want You Around\n24 - Teenage Lobotomy\n25 - Beat on the Brat\n26 - Gimme Gimme Shock Treatment\n27 - Psycho Therapy",
+  "parsed": {
+    "xt": "urn:btih:2e37f48fdf8bcc73f2329de3e47a1ade5aa43531",
+    "dn": "The Ramones - Greatest Hits Collection",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2e37f48fdf8bcc73f2329de3e47a1ade5aa43531",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        46,
+        55,
+        244,
+        143,
+        223,
+        139,
+        204,
+        115,
+        242,
+        50,
+        157,
+        227,
+        228,
+        122,
+        26,
+        222,
+        90,
+        164,
+        53,
+        49
+      ]
+    },
+    "name": "The Ramones - Greatest Hits Collection",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 66,
+  "peers": 6,
+  "last_updated": "2016-12-24T21:08:44.884Z"
+}

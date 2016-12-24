@@ -1,1 +1,63 @@
-{"title":"Before I Wake (2016) WEBRip | Rus (TS audio)","uid":14774812,"size":2588401799,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:2d794e075a2520949d675e3fb64aec651d60dd47&amp;dn=Before+I+Wake+%282016%29+WEBRip+%7C+Rus+%28TS+audio%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":154,"leechers":7,"uploader":"nbdjod","files":1,"time":1464942469,"description":"Before I Wake (2016) WEBRip | Rus (TS audio)\r\n\r\n\r\nVideo: 1280x534 (2.40:1), 25.000 fps, MPEG-4 AVC ~3 626 kbps avg\r\nAudio: 48.0 kHz, AC3 Dolby Digital, 2/0 (L,R) ch, ~192 kbps\r\nSubs: hardcoded\r\n\r\nScreens: \nhttp://i1.imageban.ru/out/2016/06/03/8eeeff328de7e5981611848326aaccb6.png \nhttp://i5.imageban.ru/out/2016/06/03/1a515aaaf81f33db9e80452a7b3fba9b.png \nhttp://i5.imageban.ru/out/2016/06/03/0a5a6c7906e0319c6b4a19ec8855f1a2.png","torrent":{"xt":"urn:btih:2d794e075a2520949d675e3fb64aec651d60dd47","amp;dn":"Before+I+Wake+%282016%29+WEBRip+%7C+Rus+%28TS+audio%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2d794e075a2520949d675e3fb64aec651d60dd47","infoHashBuffer":{"type":"Buffer","data":[45,121,78,7,90,37,32,148,157,103,94,63,182,74,236,101,29,96,221,71]},"announce":[],"urlList":[]}}
+{
+  "title": "Before I Wake (2016) WEBRip | Rus (TS audio)",
+  "uid": 14774812,
+  "size": 2588401799,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:2d794e075a2520949d675e3fb64aec651d60dd47&amp;dn=Before+I+Wake+%282016%29+WEBRip+%7C+Rus+%28TS+audio%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 154,
+  "leechers": 7,
+  "uploader": "nbdjod",
+  "files": 1,
+  "time": 1464942469,
+  "description": "Before I Wake (2016) WEBRip | Rus (TS audio)\r\n\r\n\r\nVideo: 1280x534 (2.40:1), 25.000 fps, MPEG-4 AVC ~3 626 kbps avg\r\nAudio: 48.0 kHz, AC3 Dolby Digital, 2/0 (L,R) ch, ~192 kbps\r\nSubs: hardcoded\r\n\r\nScreens: \nhttp://i1.imageban.ru/out/2016/06/03/8eeeff328de7e5981611848326aaccb6.png \nhttp://i5.imageban.ru/out/2016/06/03/1a515aaaf81f33db9e80452a7b3fba9b.png \nhttp://i5.imageban.ru/out/2016/06/03/0a5a6c7906e0319c6b4a19ec8855f1a2.png",
+  "parsed": {
+    "xt": "urn:btih:2d794e075a2520949d675e3fb64aec651d60dd47",
+    "dn": "Before I Wake (2016) WEBRip | Rus (TS audio)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "2d794e075a2520949d675e3fb64aec651d60dd47",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        45,
+        121,
+        78,
+        7,
+        90,
+        37,
+        32,
+        148,
+        157,
+        103,
+        94,
+        63,
+        182,
+        74,
+        236,
+        101,
+        29,
+        96,
+        221,
+        71
+      ]
+    },
+    "name": "Before I Wake (2016) WEBRip | Rus (TS audio)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 161,
+  "peers": 100,
+  "last_updated": "2016-12-24T21:02:45.522Z"
+}

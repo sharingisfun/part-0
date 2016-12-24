@@ -1,1 +1,61 @@
-{"title":"Middle.Earth.Shadow.of.Mordor-CODEX","uid":11132359,"size":37077320159,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2c6c120c2719bebdcbf3209fb8fc1ee908fc5d95&amp;dn=Middle.Earth.Shadow.of.Mordor-CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":243,"leechers":252,"uploader":"Drarbg","files":3,"time":1412064574,"description":" &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nMiddle.Earth.Shadow.of.Mordor-CODEX\n","torrent":{"xt":"urn:btih:2c6c120c2719bebdcbf3209fb8fc1ee908fc5d95","amp;dn":"Middle.Earth.Shadow.of.Mordor-CODEX","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2c6c120c2719bebdcbf3209fb8fc1ee908fc5d95","infoHashBuffer":{"type":"Buffer","data":[44,108,18,12,39,25,190,189,203,243,32,159,184,252,30,233,8,252,93,149]},"announce":[],"urlList":[]}}
+{
+  "title": "Middle.Earth.Shadow.of.Mordor-CODEX",
+  "uid": 11132359,
+  "size": 37077320159,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2c6c120c2719bebdcbf3209fb8fc1ee908fc5d95&amp;dn=Middle.Earth.Shadow.of.Mordor-CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 243,
+  "leechers": 252,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1412064574,
+  "description": " &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nMiddle.Earth.Shadow.of.Mordor-CODEX\n",
+  "parsed": {
+    "xt": "urn:btih:2c6c120c2719bebdcbf3209fb8fc1ee908fc5d95",
+    "dn": "Middle.Earth.Shadow.of.Mordor-CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2c6c120c2719bebdcbf3209fb8fc1ee908fc5d95",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        44,
+        108,
+        18,
+        12,
+        39,
+        25,
+        190,
+        189,
+        203,
+        243,
+        32,
+        159,
+        184,
+        252,
+        30,
+        233,
+        8,
+        252,
+        93,
+        149
+      ]
+    },
+    "name": "Middle.Earth.Shadow.of.Mordor-CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 495,
+  "peers": 50,
+  "last_updated": "2016-12-24T20:55:17.762Z"
+}

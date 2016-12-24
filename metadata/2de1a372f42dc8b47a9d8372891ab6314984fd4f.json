@@ -1,1 +1,61 @@
-{"title":"Austin Mahone - Dirty Work 2015 {MP3 Single}~{VBUc}","uid":12084982,"size":7811712,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2de1a372f42dc8b47a9d8372891ab6314984fd4f&amp;dn=Austin+Mahone+-+Dirty+Work+2015+%7BMP3+Single%7D%7E%7BVBUc%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":12,"uploader":"VBUc","files":1,"time":1435875997,"description":"Artist: Austin Mahone\nTitle: Dirty Work\nAlbum: Dirty Work - Single\nGenre: Pop, Music\nReleased: Jul 02, 2015\nAudio Format: MP3\nAudio Bitrate: 320kbps\n\nTrack Info:\n***********\nAudio\nFormat : MPEG-1 Layer III\nMode : Joint stereo\nTime: 3mn 08s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nFrequency : 44.1 KHz\nCompression mode : Lossy\nÃ¢â€žâ€” 2015 Chase Records / Cash Money Records, Inc.\n\nSeed and Enjoy","torrent":{"xt":"urn:btih:2de1a372f42dc8b47a9d8372891ab6314984fd4f","amp;dn":"Austin+Mahone+-+Dirty+Work+2015+%7BMP3+Single%7D%7E%7BVBUc%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2de1a372f42dc8b47a9d8372891ab6314984fd4f","infoHashBuffer":{"type":"Buffer","data":[45,225,163,114,244,45,200,180,122,157,131,114,137,26,182,49,73,132,253,79]},"announce":[],"urlList":[]}}
+{
+  "title": "Austin Mahone - Dirty Work 2015 {MP3 Single}~{VBUc}",
+  "uid": 12084982,
+  "size": 7811712,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2de1a372f42dc8b47a9d8372891ab6314984fd4f&amp;dn=Austin+Mahone+-+Dirty+Work+2015+%7BMP3+Single%7D%7E%7BVBUc%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 12,
+  "uploader": "VBUc",
+  "files": 1,
+  "time": 1435875997,
+  "description": "Artist: Austin Mahone\nTitle: Dirty Work\nAlbum: Dirty Work - Single\nGenre: Pop, Music\nReleased: Jul 02, 2015\nAudio Format: MP3\nAudio Bitrate: 320kbps\n\nTrack Info:\n***********\nAudio\nFormat : MPEG-1 Layer III\nMode : Joint stereo\nTime: 3mn 08s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nFrequency : 44.1 KHz\nCompression mode : Lossy\nÃ¢â€žâ€” 2015 Chase Records / Cash Money Records, Inc.\n\nSeed and Enjoy",
+  "parsed": {
+    "xt": "urn:btih:2de1a372f42dc8b47a9d8372891ab6314984fd4f",
+    "dn": "Austin Mahone - Dirty Work 2015 {MP3 Single}~{VBUc}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2de1a372f42dc8b47a9d8372891ab6314984fd4f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        45,
+        225,
+        163,
+        114,
+        244,
+        45,
+        200,
+        180,
+        122,
+        157,
+        131,
+        114,
+        137,
+        26,
+        182,
+        49,
+        73,
+        132,
+        253,
+        79
+      ]
+    },
+    "name": "Austin Mahone - Dirty Work 2015 {MP3 Single}~{VBUc}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 37,
+  "last_updated": "2016-12-24T21:05:54.178Z"
+}

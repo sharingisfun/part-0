@@ -1,1 +1,61 @@
-{"title":"ASAP Rocky - Multiply (feat. Juicy J) [Single]","uid":11152034,"size":10251640,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2dc8f49cff0f985febd3900e2f51bfcf73eddf79&amp;dn=ASAP+Rocky+-+Multiply+%28feat.+Juicy+J%29+%5BSingle%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":2,"uploader":"PanCon___","files":-1,"time":1412356449,"description":"ASAP Rocky - Multiply (feat. Juicy J) [Single]","torrent":{"xt":"urn:btih:2dc8f49cff0f985febd3900e2f51bfcf73eddf79","amp;dn":"ASAP+Rocky+-+Multiply+%28feat.+Juicy+J%29+%5BSingle%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2dc8f49cff0f985febd3900e2f51bfcf73eddf79","infoHashBuffer":{"type":"Buffer","data":[45,200,244,156,255,15,152,95,235,211,144,14,47,81,191,207,115,237,223,121]},"announce":[],"urlList":[]}}
+{
+  "title": "ASAP Rocky - Multiply (feat. Juicy J) [Single]",
+  "uid": 11152034,
+  "size": 10251640,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2dc8f49cff0f985febd3900e2f51bfcf73eddf79&amp;dn=ASAP+Rocky+-+Multiply+%28feat.+Juicy+J%29+%5BSingle%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 2,
+  "uploader": "PanCon___",
+  "files": -1,
+  "time": 1412356449,
+  "description": "ASAP Rocky - Multiply (feat. Juicy J) [Single]",
+  "parsed": {
+    "xt": "urn:btih:2dc8f49cff0f985febd3900e2f51bfcf73eddf79",
+    "dn": "ASAP Rocky - Multiply (feat. Juicy J) [Single]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2dc8f49cff0f985febd3900e2f51bfcf73eddf79",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        45,
+        200,
+        244,
+        156,
+        255,
+        15,
+        152,
+        95,
+        235,
+        211,
+        144,
+        14,
+        47,
+        81,
+        191,
+        207,
+        115,
+        237,
+        223,
+        121
+      ]
+    },
+    "name": "ASAP Rocky - Multiply (feat. Juicy J) [Single]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 18,
+  "last_updated": "2016-12-24T21:05:20.069Z"
+}

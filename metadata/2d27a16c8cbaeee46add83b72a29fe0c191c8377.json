@@ -1,1 +1,61 @@
-{"title":"[GTAIVSA.com] GTA IV San Andreas BETA 2 &quot;World Motion&amp;quo","uid":6892132,"size":1635488523,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2d27a16c8cbaeee46add83b72a29fe0c191c8377&amp;dn=%5BGTAIVSA.com%5D+GTA+IV+San+Andreas+BETA+2+%26quot%3BWorld+Motion%26quo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":246,"leechers":22,"uploader":"FKNL","files":47,"time":1324055622,"description":"GTA IV: San Andreas is a total conversion mod for Grand Theft Auto IV, which will bring back the good old San Andreas map into GTA IV, using the powerful RAGE Engine.\nIn this new second beta, new features are added, including, but not limited to Radio, HUD, improved map, new lights, etc.\n\n\nMod version:\t\t0.4.2 (BETA 2 Release)\nLauncher version:\t0.3.2.0\nRelease date:\t\tDecember 16th, 2011\n\n\n1. Run IVSASetup.exe.\n2. Let Setup prepare your GTA folder.\n3. Let Setup backup your save games.\n4. Proceed with the Setup by following the steps of the mod installer.\n5. Wait till the mod is installed.\n6. Play!\n\n\nPlease refer to the readme (IVSAReadMe.txt) for more information\n\n\nWebsite: http://www.gtaivsa.com/\n\n\nPlease seed, and enjoy!","torrent":{"xt":"urn:btih:2d27a16c8cbaeee46add83b72a29fe0c191c8377","amp;dn":"%5BGTAIVSA.com%5D+GTA+IV+San+Andreas+BETA+2+%26quot%3BWorld+Motion%26quo","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2d27a16c8cbaeee46add83b72a29fe0c191c8377","infoHashBuffer":{"type":"Buffer","data":[45,39,161,108,140,186,238,228,106,221,131,183,42,41,254,12,25,28,131,119]},"announce":[],"urlList":[]}}
+{
+  "title": "[GTAIVSA.com] GTA IV San Andreas BETA 2 &quot;World Motion&amp;quo",
+  "uid": 6892132,
+  "size": 1635488523,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2d27a16c8cbaeee46add83b72a29fe0c191c8377&amp;dn=%5BGTAIVSA.com%5D+GTA+IV+San+Andreas+BETA+2+%26quot%3BWorld+Motion%26quo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 246,
+  "leechers": 22,
+  "uploader": "FKNL",
+  "files": 47,
+  "time": 1324055622,
+  "description": "GTA IV: San Andreas is a total conversion mod for Grand Theft Auto IV, which will bring back the good old San Andreas map into GTA IV, using the powerful RAGE Engine.\nIn this new second beta, new features are added, including, but not limited to Radio, HUD, improved map, new lights, etc.\n\n\nMod version:\t\t0.4.2 (BETA 2 Release)\nLauncher version:\t0.3.2.0\nRelease date:\t\tDecember 16th, 2011\n\n\n1. Run IVSASetup.exe.\n2. Let Setup prepare your GTA folder.\n3. Let Setup backup your save games.\n4. Proceed with the Setup by following the steps of the mod installer.\n5. Wait till the mod is installed.\n6. Play!\n\n\nPlease refer to the readme (IVSAReadMe.txt) for more information\n\n\nWebsite: http://www.gtaivsa.com/\n\n\nPlease seed, and enjoy!",
+  "parsed": {
+    "xt": "urn:btih:2d27a16c8cbaeee46add83b72a29fe0c191c8377",
+    "dn": "[GTAIVSA.com] GTA IV San Andreas BETA 2 &quot;World Motion&quo",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2d27a16c8cbaeee46add83b72a29fe0c191c8377",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        45,
+        39,
+        161,
+        108,
+        140,
+        186,
+        238,
+        228,
+        106,
+        221,
+        131,
+        183,
+        42,
+        41,
+        254,
+        12,
+        25,
+        28,
+        131,
+        119
+      ]
+    },
+    "name": "[GTAIVSA.com] GTA IV San Andreas BETA 2 &quot;World Motion&quo",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 268,
+  "peers": 18,
+  "last_updated": "2016-12-24T21:00:39.101Z"
+}

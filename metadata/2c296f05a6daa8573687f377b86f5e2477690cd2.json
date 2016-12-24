@@ -1,1 +1,61 @@
-{"title":"Bus driver [full version[","uid":3652296,"size":124104291,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2c296f05a6daa8573687f377b86f5e2477690cd2&amp;dn=Bus+driver+%5Bfull+version%5B&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":3,"uploader":"szamoca69","files":120,"time":1175385870,"description":"Hi all, so... I f sewarched and searched and found one :D Here is a version that works just fine (no time trial). The only problem is the languege it PL, but hey, who cares as long as you can play :)","torrent":{"xt":"urn:btih:2c296f05a6daa8573687f377b86f5e2477690cd2","amp;dn":"Bus+driver+%5Bfull+version%5B","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2c296f05a6daa8573687f377b86f5e2477690cd2","infoHashBuffer":{"type":"Buffer","data":[44,41,111,5,166,218,168,87,54,135,243,119,184,111,94,36,119,105,12,210]},"announce":[],"urlList":[]}}
+{
+  "title": "Bus driver [full version[",
+  "uid": 3652296,
+  "size": 124104291,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2c296f05a6daa8573687f377b86f5e2477690cd2&amp;dn=Bus+driver+%5Bfull+version%5B&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 3,
+  "uploader": "szamoca69",
+  "files": 120,
+  "time": 1175385870,
+  "description": "Hi all, so... I f sewarched and searched and found one :D Here is a version that works just fine (no time trial). The only problem is the languege it PL, but hey, who cares as long as you can play :)",
+  "parsed": {
+    "xt": "urn:btih:2c296f05a6daa8573687f377b86f5e2477690cd2",
+    "dn": "Bus driver [full version[",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2c296f05a6daa8573687f377b86f5e2477690cd2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        44,
+        41,
+        111,
+        5,
+        166,
+        218,
+        168,
+        87,
+        54,
+        135,
+        243,
+        119,
+        184,
+        111,
+        94,
+        36,
+        119,
+        105,
+        12,
+        210
+      ]
+    },
+    "name": "Bus driver [full version[",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 82,
+  "last_updated": "2016-12-24T20:53:21.189Z"
+}

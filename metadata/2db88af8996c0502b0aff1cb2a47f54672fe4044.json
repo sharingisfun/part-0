@@ -1,1 +1,61 @@
-{"title":"Dope {2015} HDCAM XVID AC3-MRG","uid":12103981,"size":1920228726,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:2db88af8996c0502b0aff1cb2a47f54672fe4044&amp;dn=Dope+%7B2015%7D+HDCAM+XVID+AC3-MRG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":141,"leechers":51,"uploader":"makintos13","files":11,"time":1436412028,"description":"screens:\n &lt;a href=&quot;\nhttp://imgmak.com/Pn&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgmak.com/Pn&lt;/a&gt;\n &lt;a href=&quot;\nhttp://imgmak.com/Pr&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgmak.com/Pr&lt;/a&gt;\n &lt;a href=&quot;\nhttp://imgmak.com/PB&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgmak.com/PB&lt;/a&gt;","torrent":{"xt":"urn:btih:2db88af8996c0502b0aff1cb2a47f54672fe4044","amp;dn":"Dope+%7B2015%7D+HDCAM+XVID+AC3-MRG","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2db88af8996c0502b0aff1cb2a47f54672fe4044","infoHashBuffer":{"type":"Buffer","data":[45,184,138,248,153,108,5,2,176,175,241,203,42,71,245,70,114,254,64,68]},"announce":[],"urlList":[]}}
+{
+  "title": "Dope {2015} HDCAM XVID AC3-MRG",
+  "uid": 12103981,
+  "size": 1920228726,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:2db88af8996c0502b0aff1cb2a47f54672fe4044&amp;dn=Dope+%7B2015%7D+HDCAM+XVID+AC3-MRG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 141,
+  "leechers": 51,
+  "uploader": "makintos13",
+  "files": 11,
+  "time": 1436412028,
+  "description": "screens:\n &lt;a href=&quot;\nhttp://imgmak.com/Pn&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgmak.com/Pn&lt;/a&gt;\n &lt;a href=&quot;\nhttp://imgmak.com/Pr&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgmak.com/Pr&lt;/a&gt;\n &lt;a href=&quot;\nhttp://imgmak.com/PB&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgmak.com/PB&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:2db88af8996c0502b0aff1cb2a47f54672fe4044",
+    "dn": "Dope {2015} HDCAM XVID AC3-MRG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2db88af8996c0502b0aff1cb2a47f54672fe4044",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        45,
+        184,
+        138,
+        248,
+        153,
+        108,
+        5,
+        2,
+        176,
+        175,
+        241,
+        203,
+        42,
+        71,
+        245,
+        70,
+        114,
+        254,
+        64,
+        68
+      ]
+    },
+    "name": "Dope {2015} HDCAM XVID AC3-MRG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 192,
+  "peers": 41,
+  "last_updated": "2016-12-24T21:04:35.942Z"
+}

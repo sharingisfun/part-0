@@ -1,1 +1,61 @@
-{"title":"Game Dev Tycoon v1.5.27","uid":12264014,"size":120955224,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2c18527673da3f1127ddd9920e09aebe02409532&amp;dn=Game+Dev+Tycoon+v1.5.27&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":135,"leechers":3,"uploader":"dauphong","files":1,"time":1440204653,"description":"In Game Dev Tycoon you replay the history of the gaming industry by starting your own video game development company in the 80s. Create best selling games. Research new technologies and invent new game types. Become the leader of the market and gain worldwide fans","torrent":{"xt":"urn:btih:2c18527673da3f1127ddd9920e09aebe02409532","amp;dn":"Game+Dev+Tycoon+v1.5.27","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2c18527673da3f1127ddd9920e09aebe02409532","infoHashBuffer":{"type":"Buffer","data":[44,24,82,118,115,218,63,17,39,221,217,146,14,9,174,190,2,64,149,50]},"announce":[],"urlList":[]}}
+{
+  "title": "Game Dev Tycoon v1.5.27",
+  "uid": 12264014,
+  "size": 120955224,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2c18527673da3f1127ddd9920e09aebe02409532&amp;dn=Game+Dev+Tycoon+v1.5.27&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 135,
+  "leechers": 3,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1440204653,
+  "description": "In Game Dev Tycoon you replay the history of the gaming industry by starting your own video game development company in the 80s. Create best selling games. Research new technologies and invent new game types. Become the leader of the market and gain worldwide fans",
+  "parsed": {
+    "xt": "urn:btih:2c18527673da3f1127ddd9920e09aebe02409532",
+    "dn": "Game Dev Tycoon v1.5.27",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2c18527673da3f1127ddd9920e09aebe02409532",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        44,
+        24,
+        82,
+        118,
+        115,
+        218,
+        63,
+        17,
+        39,
+        221,
+        217,
+        146,
+        14,
+        9,
+        174,
+        190,
+        2,
+        64,
+        149,
+        50
+      ]
+    },
+    "name": "Game Dev Tycoon v1.5.27",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 138,
+  "peers": 50,
+  "last_updated": "2016-12-24T20:52:47.052Z"
+}

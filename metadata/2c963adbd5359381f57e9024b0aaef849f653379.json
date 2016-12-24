@@ -1,1 +1,61 @@
-{"title":"Joy Division-Unknown Pleasures","uid":3662243,"size":75744370,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2c963adbd5359381f57e9024b0aaef849f653379&amp;dn=Joy+Division-Unknown+Pleasures&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":91,"leechers":1,"uploader":"harhardiva","files":10,"time":1176336363,"description":"Joy Division\nUnknown Pleasures\n\nlegendary dark punk from Manchester U.K.\n\n01 disorder.mp3\n02 day of the lord.mp3\n03 candidate.mp3\n04 insight.mp3\n05 new day fades.mp3\n06 she&amp;#039;s lost control.mp3\n07 shadowplay.mp3\n08 wilderness.mp3\n09 interzone.mp3\n10 i remember nothing.mp3","torrent":{"xt":"urn:btih:2c963adbd5359381f57e9024b0aaef849f653379","amp;dn":"Joy+Division-Unknown+Pleasures","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2c963adbd5359381f57e9024b0aaef849f653379","infoHashBuffer":{"type":"Buffer","data":[44,150,58,219,213,53,147,129,245,126,144,36,176,170,239,132,159,101,51,121]},"announce":[],"urlList":[]}}
+{
+  "title": "Joy Division-Unknown Pleasures",
+  "uid": 3662243,
+  "size": 75744370,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2c963adbd5359381f57e9024b0aaef849f653379&amp;dn=Joy+Division-Unknown+Pleasures&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 91,
+  "leechers": 1,
+  "uploader": "harhardiva",
+  "files": 10,
+  "time": 1176336363,
+  "description": "Joy Division\nUnknown Pleasures\n\nlegendary dark punk from Manchester U.K.\n\n01 disorder.mp3\n02 day of the lord.mp3\n03 candidate.mp3\n04 insight.mp3\n05 new day fades.mp3\n06 she&amp;#039;s lost control.mp3\n07 shadowplay.mp3\n08 wilderness.mp3\n09 interzone.mp3\n10 i remember nothing.mp3",
+  "parsed": {
+    "xt": "urn:btih:2c963adbd5359381f57e9024b0aaef849f653379",
+    "dn": "Joy Division-Unknown Pleasures",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2c963adbd5359381f57e9024b0aaef849f653379",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        44,
+        150,
+        58,
+        219,
+        213,
+        53,
+        147,
+        129,
+        245,
+        126,
+        144,
+        36,
+        176,
+        170,
+        239,
+        132,
+        159,
+        101,
+        51,
+        121
+      ]
+    },
+    "name": "Joy Division-Unknown Pleasures",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 92,
+  "peers": 226,
+  "last_updated": "2016-12-24T20:56:36.063Z"
+}

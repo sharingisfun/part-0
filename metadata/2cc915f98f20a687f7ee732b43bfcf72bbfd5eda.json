@@ -1,1 +1,61 @@
-{"title":"[PC] The Punisher","uid":3968114,"size":1935868047,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2cc915f98f20a687f7ee732b43bfcf72bbfd5eda&amp;dn=%5BPC%5D+The+Punisher&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":5,"uploader":"js-hansen","files":3,"time":1199847730,"description":"The Punisher is a third person action game that pits the player against the darkest scum of the Marvel Comics&amp;#039; universe. With over a dozen grimy New York locales, this superhero adaptation embraces the feel of the 30 year comic series.\n\nFeaturing loads of weapons, brutal environmental kills and an innovative new interrogation engine where the player controls every last aspect of over 70 torture scenarios, the Punisher provides a rich gaming experience for fans of dark, intense action.\n\nStory written by comics authors Garth Ennis and Jimmy Palmiotti.","torrent":{"xt":"urn:btih:2cc915f98f20a687f7ee732b43bfcf72bbfd5eda","amp;dn":"%5BPC%5D+The+Punisher","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2cc915f98f20a687f7ee732b43bfcf72bbfd5eda","infoHashBuffer":{"type":"Buffer","data":[44,201,21,249,143,32,166,135,247,238,115,43,67,191,207,114,187,253,94,218]},"announce":[],"urlList":[]}}
+{
+  "title": "[PC] The Punisher",
+  "uid": 3968114,
+  "size": 1935868047,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2cc915f98f20a687f7ee732b43bfcf72bbfd5eda&amp;dn=%5BPC%5D+The+Punisher&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 5,
+  "uploader": "js-hansen",
+  "files": 3,
+  "time": 1199847730,
+  "description": "The Punisher is a third person action game that pits the player against the darkest scum of the Marvel Comics&amp;#039; universe. With over a dozen grimy New York locales, this superhero adaptation embraces the feel of the 30 year comic series.\n\nFeaturing loads of weapons, brutal environmental kills and an innovative new interrogation engine where the player controls every last aspect of over 70 torture scenarios, the Punisher provides a rich gaming experience for fans of dark, intense action.\n\nStory written by comics authors Garth Ennis and Jimmy Palmiotti.",
+  "parsed": {
+    "xt": "urn:btih:2cc915f98f20a687f7ee732b43bfcf72bbfd5eda",
+    "dn": "[PC] The Punisher",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2cc915f98f20a687f7ee732b43bfcf72bbfd5eda",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        44,
+        201,
+        21,
+        249,
+        143,
+        32,
+        166,
+        135,
+        247,
+        238,
+        115,
+        43,
+        67,
+        191,
+        207,
+        114,
+        187,
+        253,
+        94,
+        218
+      ]
+    },
+    "name": "[PC] The Punisher",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 72,
+  "last_updated": "2016-12-24T20:58:00.421Z"
+}

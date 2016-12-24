@@ -1,1 +1,63 @@
-{"title":"Stranded Deep - Patch 0.04.E1 Experimental","uid":15964326,"size":15308674,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2c500c1bc12494be638be50a521573f82a5cc170&amp;dn=Stranded+Deep+-+Patch+0.04.E1+Experimental&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":41,"uploader":"trwetwr","files":3,"time":1475707458,"description":"Good Game","torrent":{"xt":"urn:btih:2c500c1bc12494be638be50a521573f82a5cc170","amp;dn":"Stranded+Deep+-+Patch+0.04.E1+Experimental","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2c500c1bc12494be638be50a521573f82a5cc170","infoHashBuffer":{"type":"Buffer","data":[44,80,12,27,193,36,148,190,99,139,229,10,82,21,115,248,42,92,193,112]},"announce":[],"urlList":[]}}
+{
+  "title": "Stranded Deep - Patch 0.04.E1 Experimental",
+  "uid": 15964326,
+  "size": 15308674,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2c500c1bc12494be638be50a521573f82a5cc170&amp;dn=Stranded+Deep+-+Patch+0.04.E1+Experimental&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 41,
+  "uploader": "trwetwr",
+  "files": 3,
+  "time": 1475707458,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:2c500c1bc12494be638be50a521573f82a5cc170",
+    "dn": "Stranded Deep - Patch 0.04.E1 Experimental",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "2c500c1bc12494be638be50a521573f82a5cc170",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        44,
+        80,
+        12,
+        27,
+        193,
+        36,
+        148,
+        190,
+        99,
+        139,
+        229,
+        10,
+        82,
+        21,
+        115,
+        248,
+        42,
+        92,
+        193,
+        112
+      ]
+    },
+    "name": "Stranded Deep - Patch 0.04.E1 Experimental",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 101,
+  "peers": 3,
+  "last_updated": "2016-12-24T20:54:37.545Z"
+}

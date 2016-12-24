@@ -1,1 +1,61 @@
-{"title":"Maroon 5 - V  (Deluxe Version) 2014 [MP3@320kbps]","uid":10907241,"size":128300089,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2c078d8eb74d002b6d2c68f56f9faa62b87b63ca&amp;dn=Maroon+5+-+V++%28Deluxe+Version%29+2014+%5BMP3%40320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":937,"leechers":38,"uploader":"the.HH","files":14,"time":1409242196,"description":"\n\nDeluxe | Explicit | Pop | 320kbps \n\nTracklist:\n\n1 Maps\n2 Animals\n3 It Was Always You\n4 Unkiss Me\n5 Sugar\n6 Leaving California\n7 In Your Pocket\n8 New Love\n9 Coming Back For You\n10 Feelings\n11 My Heart Is Open (feat. Gwen Stefani)\n12 Shoot Love\n13 Sex and Candy\n14 Lost Stars\n\nEnjoy!","torrent":{"xt":"urn:btih:2c078d8eb74d002b6d2c68f56f9faa62b87b63ca","amp;dn":"Maroon+5+-+V++%28Deluxe+Version%29+2014+%5BMP3%40320kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2c078d8eb74d002b6d2c68f56f9faa62b87b63ca","infoHashBuffer":{"type":"Buffer","data":[44,7,141,142,183,77,0,43,109,44,104,245,111,159,170,98,184,123,99,202]},"announce":[],"urlList":[]}}
+{
+  "title": "Maroon 5 - V  (Deluxe Version) 2014 [MP3@320kbps]",
+  "uid": 10907241,
+  "size": 128300089,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2c078d8eb74d002b6d2c68f56f9faa62b87b63ca&amp;dn=Maroon+5+-+V++%28Deluxe+Version%29+2014+%5BMP3%40320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 937,
+  "leechers": 38,
+  "uploader": "the.HH",
+  "files": 14,
+  "time": 1409242196,
+  "description": "\n\nDeluxe | Explicit | Pop | 320kbps \n\nTracklist:\n\n1 Maps\n2 Animals\n3 It Was Always You\n4 Unkiss Me\n5 Sugar\n6 Leaving California\n7 In Your Pocket\n8 New Love\n9 Coming Back For You\n10 Feelings\n11 My Heart Is Open (feat. Gwen Stefani)\n12 Shoot Love\n13 Sex and Candy\n14 Lost Stars\n\nEnjoy!",
+  "parsed": {
+    "xt": "urn:btih:2c078d8eb74d002b6d2c68f56f9faa62b87b63ca",
+    "dn": "Maroon 5 - V  (Deluxe Version) 2014 [MP3@320kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2c078d8eb74d002b6d2c68f56f9faa62b87b63ca",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        44,
+        7,
+        141,
+        142,
+        183,
+        77,
+        0,
+        43,
+        109,
+        44,
+        104,
+        245,
+        111,
+        159,
+        170,
+        98,
+        184,
+        123,
+        99,
+        202
+      ]
+    },
+    "name": "Maroon 5 - V  (Deluxe Version) 2014 [MP3@320kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 975,
+  "peers": 50,
+  "last_updated": "2016-12-24T20:52:20.972Z"
+}

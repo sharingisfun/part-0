@@ -1,1 +1,63 @@
-{"title":"Windows 10 X64 Enterprise LTSB Build 14393 en-US Sep 2016 {Gen2}","uid":15880829,"size":4214150216,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:2e354771cc6aa95ad223dc73a8b6153ce148218d&amp;dn=Windows+10+X64+Enterprise+LTSB+Build+14393+en-US+Sep+2016+%7BGen2%7D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":106,"uploader":"generation2","files":4,"time":1474598975,"description":"\n* Windows 10 X64 Enterprise 2016 LTSB Build 14393.187 en-US Sep 2016\r\n\r\n\r\n[ RELEASE INFO ]\r\n\r\n\r\n* File: W10X64.LTSB.en-US.Sep2016.iso\r\n* Size: 3,92GB\r\n* Format: Bootable ISO\r\n\r\n* CRC32: 08185fa8\r\n* MD5 : 9e6b58936f5aeff8485ab1b09e615585\r\n* SHA-1: ecc7eb5f086905295173c154ad9a243f68b4d8b8\r\n\r\n[ SOURCE ]\r\n\r\n* en_windows_10_enterprise_2016_ltsb_x64_dvd_9059483\r\n\r\n[ CONTENTS ]\r\n\r\n* Integrated / Pre-installed:\r\n\r\n* KB3176936\r\n* KB3188128\r\n* KB3193494\r\n\r\n* Setupcomplete / Post-install:\r\n\r\n* Enabling .NET Framework 3.5\r\n* Windows Defender Updates\r\n\r\n[ LANGUAGE ]\r\n\r\n* en-US = ENGLISH US\r\n\r\n[ EDITIONS INCLUDED ]\r\n\r\n* Windows 10 Enterprise 2016 LTSB (STD)\r\n* Windows 10 Enterprise 2016 LTSB (KMS)\r\n\r\n(STD) = Standard installation \r\n(KMS) = Pre-Activated by KMS\r\n\r\n(Exclusions for KMS are pre-set in Defender)\r\n\r\n[ SCREENSHOTS ]\r\n\r\n[url]https://extraimago.com/image/w3rL[/url]\r\n\r\n[ FEATURES ]\r\n\r\n* UEFI-ready \r\n* (Use attached Rufus USB-tool to make UEFI-bootable).\r\n* Diagnostics and Recovery Toolset 10.0 (Microsoft DaRT)\r\n\r\n[ INSTALLATION &amp; INFORMATION ]\r\n\r\n* Create bootable USB (highly recommended) with Rufus,\r\n* (attached) or burn to DVD at slow speed.\r\n\r\n[ CREDITS ]\r\n* ashish.k, milrob &amp; stevie-boy for continued\r\n* support &amp; help with user questions.\r\n\r\n* Hope you will enjoy this release!\r\n\r\n* Regards,\r\n* Generation2 @ ET &amp; TPB","torrent":{"xt":"urn:btih:2e354771cc6aa95ad223dc73a8b6153ce148218d","amp;dn":"Windows+10+X64+Enterprise+LTSB+Build+14393+en-US+Sep+2016+%7BGen2%7D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2e354771cc6aa95ad223dc73a8b6153ce148218d","infoHashBuffer":{"type":"Buffer","data":[46,53,71,113,204,106,169,90,210,35,220,115,168,182,21,60,225,72,33,141]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows 10 X64 Enterprise LTSB Build 14393 en-US Sep 2016 {Gen2}",
+  "uid": 15880829,
+  "size": 4214150216,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:2e354771cc6aa95ad223dc73a8b6153ce148218d&amp;dn=Windows+10+X64+Enterprise+LTSB+Build+14393+en-US+Sep+2016+%7BGen2%7D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 106,
+  "uploader": "generation2",
+  "files": 4,
+  "time": 1474598975,
+  "description": "\n* Windows 10 X64 Enterprise 2016 LTSB Build 14393.187 en-US Sep 2016\r\n\r\n\r\n[ RELEASE INFO ]\r\n\r\n\r\n* File: W10X64.LTSB.en-US.Sep2016.iso\r\n* Size: 3,92GB\r\n* Format: Bootable ISO\r\n\r\n* CRC32: 08185fa8\r\n* MD5 : 9e6b58936f5aeff8485ab1b09e615585\r\n* SHA-1: ecc7eb5f086905295173c154ad9a243f68b4d8b8\r\n\r\n[ SOURCE ]\r\n\r\n* en_windows_10_enterprise_2016_ltsb_x64_dvd_9059483\r\n\r\n[ CONTENTS ]\r\n\r\n* Integrated / Pre-installed:\r\n\r\n* KB3176936\r\n* KB3188128\r\n* KB3193494\r\n\r\n* Setupcomplete / Post-install:\r\n\r\n* Enabling .NET Framework 3.5\r\n* Windows Defender Updates\r\n\r\n[ LANGUAGE ]\r\n\r\n* en-US = ENGLISH US\r\n\r\n[ EDITIONS INCLUDED ]\r\n\r\n* Windows 10 Enterprise 2016 LTSB (STD)\r\n* Windows 10 Enterprise 2016 LTSB (KMS)\r\n\r\n(STD) = Standard installation \r\n(KMS) = Pre-Activated by KMS\r\n\r\n(Exclusions for KMS are pre-set in Defender)\r\n\r\n[ SCREENSHOTS ]\r\n\r\n[url]https://extraimago.com/image/w3rL[/url]\r\n\r\n[ FEATURES ]\r\n\r\n* UEFI-ready \r\n* (Use attached Rufus USB-tool to make UEFI-bootable).\r\n* Diagnostics and Recovery Toolset 10.0 (Microsoft DaRT)\r\n\r\n[ INSTALLATION &amp; INFORMATION ]\r\n\r\n* Create bootable USB (highly recommended) with Rufus,\r\n* (attached) or burn to DVD at slow speed.\r\n\r\n[ CREDITS ]\r\n* ashish.k, milrob &amp; stevie-boy for continued\r\n* support &amp; help with user questions.\r\n\r\n* Hope you will enjoy this release!\r\n\r\n* Regards,\r\n* Generation2 @ ET &amp; TPB",
+  "parsed": {
+    "xt": "urn:btih:2e354771cc6aa95ad223dc73a8b6153ce148218d",
+    "dn": "Windows 10 X64 Enterprise LTSB Build 14393 en-US Sep 2016 {Gen2}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "2e354771cc6aa95ad223dc73a8b6153ce148218d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        46,
+        53,
+        71,
+        113,
+        204,
+        106,
+        169,
+        90,
+        210,
+        35,
+        220,
+        115,
+        168,
+        182,
+        21,
+        60,
+        225,
+        72,
+        33,
+        141
+      ]
+    },
+    "name": "Windows 10 X64 Enterprise LTSB Build 14393 en-US Sep 2016 {Gen2}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 193,
+  "peers": 79,
+  "last_updated": "2016-12-24T21:08:42.877Z"
+}

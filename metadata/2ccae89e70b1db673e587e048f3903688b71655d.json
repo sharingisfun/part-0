@@ -1,1 +1,61 @@
-{"title":"New Girl S03E16 HDTV x264-2HD[ettv]","uid":9603775,"size":145051207,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:2ccae89e70b1db673e587e048f3903688b71655d&amp;dn=New+Girl+S03E16+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":0,"uploader":"ettv","files":2,"time":1392177192,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:2ccae89e70b1db673e587e048f3903688b71655d","amp;dn":"New+Girl+S03E16+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2ccae89e70b1db673e587e048f3903688b71655d","infoHashBuffer":{"type":"Buffer","data":[44,202,232,158,112,177,219,103,62,88,126,4,143,57,3,104,139,113,101,93]},"announce":[],"urlList":[]}}
+{
+  "title": "New Girl S03E16 HDTV x264-2HD[ettv]",
+  "uid": 9603775,
+  "size": 145051207,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:2ccae89e70b1db673e587e048f3903688b71655d&amp;dn=New+Girl+S03E16+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 0,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1392177192,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:2ccae89e70b1db673e587e048f3903688b71655d",
+    "dn": "New Girl S03E16 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2ccae89e70b1db673e587e048f3903688b71655d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        44,
+        202,
+        232,
+        158,
+        112,
+        177,
+        219,
+        103,
+        62,
+        88,
+        126,
+        4,
+        143,
+        57,
+        3,
+        104,
+        139,
+        113,
+        101,
+        93
+      ]
+    },
+    "name": "New Girl S03E16 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 26,
+  "last_updated": "2016-12-24T20:58:08.457Z"
+}

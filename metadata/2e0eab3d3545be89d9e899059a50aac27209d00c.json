@@ -1,1 +1,61 @@
-{"title":"Thousand Foot Krutch - Oxygen Inhale (2014)","uid":10877458,"size":101269845,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2e0eab3d3545be89d9e899059a50aac27209d00c&amp;dn=Thousand+Foot+Krutch+-+Oxygen+Inhale+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":4,"uploader":"santicaz","files":10,"time":1409003087,"description":"Artist: Thousand Foot Krutch\nTitle: Oxygen Inhale\nYear: 2014\nGenre: Alt. Rock / Hard Rock / Rap Rock\nOrigin: Canada\nSize/Quality: 96.5 mb | mp3, CBR 320 kbps [CD-Rip]\n\nTracklist:\n01. Like a Machine\n02. Untraveled Road\n03. Born This Way\n04. Set Me on Fire\n05. Give It to Me\n06. I See Red\n07. Light Up\n08. In My Room\n09. Oxygen\n10. Glow","torrent":{"xt":"urn:btih:2e0eab3d3545be89d9e899059a50aac27209d00c","amp;dn":"Thousand+Foot+Krutch+-+Oxygen+Inhale+%282014%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2e0eab3d3545be89d9e899059a50aac27209d00c","infoHashBuffer":{"type":"Buffer","data":[46,14,171,61,53,69,190,137,217,232,153,5,154,80,170,194,114,9,208,12]},"announce":[],"urlList":[]}}
+{
+  "title": "Thousand Foot Krutch - Oxygen Inhale (2014)",
+  "uid": 10877458,
+  "size": 101269845,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2e0eab3d3545be89d9e899059a50aac27209d00c&amp;dn=Thousand+Foot+Krutch+-+Oxygen+Inhale+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 4,
+  "uploader": "santicaz",
+  "files": 10,
+  "time": 1409003087,
+  "description": "Artist: Thousand Foot Krutch\nTitle: Oxygen Inhale\nYear: 2014\nGenre: Alt. Rock / Hard Rock / Rap Rock\nOrigin: Canada\nSize/Quality: 96.5 mb | mp3, CBR 320 kbps [CD-Rip]\n\nTracklist:\n01. Like a Machine\n02. Untraveled Road\n03. Born This Way\n04. Set Me on Fire\n05. Give It to Me\n06. I See Red\n07. Light Up\n08. In My Room\n09. Oxygen\n10. Glow",
+  "parsed": {
+    "xt": "urn:btih:2e0eab3d3545be89d9e899059a50aac27209d00c",
+    "dn": "Thousand Foot Krutch - Oxygen Inhale (2014)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2e0eab3d3545be89d9e899059a50aac27209d00c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        46,
+        14,
+        171,
+        61,
+        53,
+        69,
+        190,
+        137,
+        217,
+        232,
+        153,
+        5,
+        154,
+        80,
+        170,
+        194,
+        114,
+        9,
+        208,
+        12
+      ]
+    },
+    "name": "Thousand Foot Krutch - Oxygen Inhale (2014)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 40,
+  "last_updated": "2016-12-24T21:07:28.563Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Walt Disney - Jungle Book 2 (NL gesproken)--Vinspeed.mpg","uid":3662505,"size":831661992,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:2dc091490887d47b0db2dd372e2d49657cc68e2e&amp;dn=Walt+Disney+-+Jungle+Book+2+%28NL+gesproken%29--Vinspeed.mpg&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":3,"uploader":"vinspeed30","files":1,"time":1176406787,"description":"Hi all,\n\nAs i will become a father this year i will also try to find some nice Disney movies...\n\nHere is the 1st one!!  \n\nDutch spoken\n\nGreetz   Vinspeed!!","torrent":{"xt":"urn:btih:2dc091490887d47b0db2dd372e2d49657cc68e2e","amp;dn":"Walt+Disney+-+Jungle+Book+2+%28NL+gesproken%29--Vinspeed.mpg","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2dc091490887d47b0db2dd372e2d49657cc68e2e","infoHashBuffer":{"type":"Buffer","data":[45,192,145,73,8,135,212,123,13,178,221,55,46,45,73,101,124,198,142,46]},"announce":[],"urlList":[]}}
+{
+  "title": "Walt Disney - Jungle Book 2 (NL gesproken)--Vinspeed.mpg",
+  "uid": 3662505,
+  "size": 831661992,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:2dc091490887d47b0db2dd372e2d49657cc68e2e&amp;dn=Walt+Disney+-+Jungle+Book+2+%28NL+gesproken%29--Vinspeed.mpg&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 3,
+  "uploader": "vinspeed30",
+  "files": 1,
+  "time": 1176406787,
+  "description": "Hi all,\n\nAs i will become a father this year i will also try to find some nice Disney movies...\n\nHere is the 1st one!!  \n\nDutch spoken\n\nGreetz   Vinspeed!!",
+  "parsed": {
+    "xt": "urn:btih:2dc091490887d47b0db2dd372e2d49657cc68e2e",
+    "dn": "Walt Disney - Jungle Book 2 (NL gesproken)--Vinspeed.mpg",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2dc091490887d47b0db2dd372e2d49657cc68e2e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        45,
+        192,
+        145,
+        73,
+        8,
+        135,
+        212,
+        123,
+        13,
+        178,
+        221,
+        55,
+        46,
+        45,
+        73,
+        101,
+        124,
+        198,
+        142,
+        46
+      ]
+    },
+    "name": "Walt Disney - Jungle Book 2 (NL gesproken)--Vinspeed.mpg",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 12,
+  "last_updated": "2016-12-24T21:04:55.998Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Harold and Kumar Go To White Castle 720p HD","uid":8622228,"size":1079889572,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:2e11c4728c8707ca122c3d3a47e9f791a983b9f0&amp;dn=Harold+and+Kumar+Go+To+White+Castle+720p+HD+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":1,"uploader":"jonah9100","files":-1,"time":1372407258,"description":"Funny Movie. playble on xbox 360's w/o media update. \nFORMAT: AVI \nIMDb Rating: 7.1 \nINFO: An Asian-American office worker and his Indian-American stoner friend embark on a quest to satisfy their desire for White Castle burgers. \n\nSEED SEED SEED \n","torrent":{"xt":"urn:btih:2e11c4728c8707ca122c3d3a47e9f791a983b9f0","amp;dn":"Harold+and+Kumar+Go+To+White+Castle+720p+HD+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2e11c4728c8707ca122c3d3a47e9f791a983b9f0","infoHashBuffer":{"type":"Buffer","data":[46,17,196,114,140,135,7,202,18,44,61,58,71,233,247,145,169,131,185,240]},"announce":[],"urlList":[]}}
+{
+  "title": "Harold and Kumar Go To White Castle 720p HD",
+  "uid": 8622228,
+  "size": 1079889572,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:2e11c4728c8707ca122c3d3a47e9f791a983b9f0&amp;dn=Harold+and+Kumar+Go+To+White+Castle+720p+HD+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 1,
+  "uploader": "jonah9100",
+  "files": -1,
+  "time": 1372407258,
+  "description": "Funny Movie. playble on xbox 360's w/o media update. \nFORMAT: AVI \nIMDb Rating: 7.1 \nINFO: An Asian-American office worker and his Indian-American stoner friend embark on a quest to satisfy their desire for White Castle burgers. \n\nSEED SEED SEED \n",
+  "parsed": {
+    "xt": "urn:btih:2e11c4728c8707ca122c3d3a47e9f791a983b9f0",
+    "dn": "Harold and Kumar Go To White Castle 720p HD ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2e11c4728c8707ca122c3d3a47e9f791a983b9f0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        46,
+        17,
+        196,
+        114,
+        140,
+        135,
+        7,
+        202,
+        18,
+        44,
+        61,
+        58,
+        71,
+        233,
+        247,
+        145,
+        169,
+        131,
+        185,
+        240
+      ]
+    },
+    "name": "Harold and Kumar Go To White Castle 720p HD ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 31,
+  "last_updated": "2016-12-24T21:07:36.592Z"
+}
