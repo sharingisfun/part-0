@@ -1,1 +1,61 @@
-{"title":"1001 Greatest hit singles 90s (2015) - SMG","uid":11674727,"size":31405511608,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:16762f5330074b30d431b40acb360183ebc72efe&amp;dn=1001+Greatest+hit+singles+90s+%282015%29+-+SMG+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":4,"uploader":"roflcopter2110","files":1009,"time":1422809533,"description":"1001 Greatest hit singles 90s (2015) - SMG","torrent":{"xt":"urn:btih:16762f5330074b30d431b40acb360183ebc72efe","amp;dn":"1001+Greatest+hit+singles+90s+%282015%29+-+SMG+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"16762f5330074b30d431b40acb360183ebc72efe","infoHashBuffer":{"type":"Buffer","data":[22,118,47,83,48,7,75,48,212,49,180,10,203,54,1,131,235,199,46,254]},"announce":[],"urlList":[]}}
+{
+  "title": "1001 Greatest hit singles 90s (2015) - SMG",
+  "uid": 11674727,
+  "size": 31405511608,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:16762f5330074b30d431b40acb360183ebc72efe&amp;dn=1001+Greatest+hit+singles+90s+%282015%29+-+SMG+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 4,
+  "uploader": "roflcopter2110",
+  "files": 1009,
+  "time": 1422809533,
+  "description": "1001 Greatest hit singles 90s (2015) - SMG",
+  "parsed": {
+    "xt": "urn:btih:16762f5330074b30d431b40acb360183ebc72efe",
+    "dn": "1001 Greatest hit singles 90s (2015) - SMG ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "16762f5330074b30d431b40acb360183ebc72efe",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        22,
+        118,
+        47,
+        83,
+        48,
+        7,
+        75,
+        48,
+        212,
+        49,
+        180,
+        10,
+        203,
+        54,
+        1,
+        131,
+        235,
+        199,
+        46,
+        254
+      ]
+    },
+    "name": "1001 Greatest hit singles 90s (2015) - SMG ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 15,
+  "last_updated": "2016-12-24T18:08:23.556Z"
+}

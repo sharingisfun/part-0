@@ -1,1 +1,63 @@
-{"title":"Gimp-3 1 17-setup exe","uid":15914639,"size":26304242,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:17025df43b75358123ba4e7d1656ac508a16ae5c&amp;dn=Gimp-3+1+17-setup+exe&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":38,"uploader":"gerardpmorris","files":5,"time":1475189001,"description":"very....good","torrent":{"xt":"urn:btih:17025df43b75358123ba4e7d1656ac508a16ae5c","amp;dn":"Gimp-3+1+17-setup+exe","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"17025df43b75358123ba4e7d1656ac508a16ae5c","infoHashBuffer":{"type":"Buffer","data":[23,2,93,244,59,117,53,129,35,186,78,125,22,86,172,80,138,22,174,92]},"announce":[],"urlList":[]}}
+{
+  "title": "Gimp-3 1 17-setup exe",
+  "uid": 15914639,
+  "size": 26304242,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:17025df43b75358123ba4e7d1656ac508a16ae5c&amp;dn=Gimp-3+1+17-setup+exe&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 38,
+  "uploader": "gerardpmorris",
+  "files": 5,
+  "time": 1475189001,
+  "description": "very....good",
+  "parsed": {
+    "xt": "urn:btih:17025df43b75358123ba4e7d1656ac508a16ae5c",
+    "dn": "Gimp-3 1 17-setup exe",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "17025df43b75358123ba4e7d1656ac508a16ae5c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        23,
+        2,
+        93,
+        244,
+        59,
+        117,
+        53,
+        129,
+        35,
+        186,
+        78,
+        125,
+        22,
+        86,
+        172,
+        80,
+        138,
+        22,
+        174,
+        92
+      ]
+    },
+    "name": "Gimp-3 1 17-setup exe",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 92,
+  "peers": 2,
+  "last_updated": "2016-12-24T18:12:32.517Z"
+}

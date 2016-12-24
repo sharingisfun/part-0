@@ -1,1 +1,61 @@
-{"title":"The Walking Dead S05E16 HDTV x264-ASAP","uid":11784234,"size":585085976,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:17bfe3fea1db86f20c811b7e7a7919a7a2cf829e&amp;dn=The+Walking+Dead+S05E16+HDTV+x264-ASAP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":4,"uploader":"beta2008x","files":1,"time":1427690091,"description":"The Walking Dead\n\nEpisode: S05E16\nRelease Date: 2015-03-29\nRelease Size: 557.98Mb\nPlay Time: 63:12\nResolution: 720x404\nVideo Codec: h264\nVideo Bitrate: 1097kbps\nAudio Bitrate.: 2ch, 131kbps","torrent":{"xt":"urn:btih:17bfe3fea1db86f20c811b7e7a7919a7a2cf829e","amp;dn":"The+Walking+Dead+S05E16+HDTV+x264-ASAP","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"17bfe3fea1db86f20c811b7e7a7919a7a2cf829e","infoHashBuffer":{"type":"Buffer","data":[23,191,227,254,161,219,134,242,12,129,27,126,122,121,25,167,162,207,130,158]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead S05E16 HDTV x264-ASAP",
+  "uid": 11784234,
+  "size": 585085976,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:17bfe3fea1db86f20c811b7e7a7919a7a2cf829e&amp;dn=The+Walking+Dead+S05E16+HDTV+x264-ASAP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 4,
+  "uploader": "beta2008x",
+  "files": 1,
+  "time": 1427690091,
+  "description": "The Walking Dead\n\nEpisode: S05E16\nRelease Date: 2015-03-29\nRelease Size: 557.98Mb\nPlay Time: 63:12\nResolution: 720x404\nVideo Codec: h264\nVideo Bitrate: 1097kbps\nAudio Bitrate.: 2ch, 131kbps",
+  "parsed": {
+    "xt": "urn:btih:17bfe3fea1db86f20c811b7e7a7919a7a2cf829e",
+    "dn": "The Walking Dead S05E16 HDTV x264-ASAP",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "17bfe3fea1db86f20c811b7e7a7919a7a2cf829e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        23,
+        191,
+        227,
+        254,
+        161,
+        219,
+        134,
+        242,
+        12,
+        129,
+        27,
+        126,
+        122,
+        121,
+        25,
+        167,
+        162,
+        207,
+        130,
+        158
+      ]
+    },
+    "name": "The Walking Dead S05E16 HDTV x264-ASAP",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 13,
+  "last_updated": "2016-12-24T18:17:47.597Z"
+}

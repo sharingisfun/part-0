@@ -1,1 +1,61 @@
-{"title":"Ubuntu 14.10 i386 (Desktop ISO)","uid":11642732,"size":1186529280,"categoryP":"applications","categoryS":"unix","magnet":"?xt=urn:btih:1619ecc9373c3639f4ee3e261638f29b33a6cbd6&amp;dn=Ubuntu+14.10+i386+%28Desktop+ISO%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":85,"leechers":3,"uploader":"Altair64","files":1,"time":1417740798,"description":"UBUNTU 14.10 ISO for 32bit Desktop computers\nOriginal Torrent downloaded from: http://www.ubuntu.com/download/alternative-downloads","torrent":{"xt":"urn:btih:1619ecc9373c3639f4ee3e261638f29b33a6cbd6","amp;dn":"Ubuntu+14.10+i386+%28Desktop+ISO%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1619ecc9373c3639f4ee3e261638f29b33a6cbd6","infoHashBuffer":{"type":"Buffer","data":[22,25,236,201,55,60,54,57,244,238,62,38,22,56,242,155,51,166,203,214]},"announce":[],"urlList":[]}}
+{
+  "title": "Ubuntu 14.10 i386 (Desktop ISO)",
+  "uid": 11642732,
+  "size": 1186529280,
+  "categoryP": "applications",
+  "categoryS": "unix",
+  "magnet": "?xt=urn:btih:1619ecc9373c3639f4ee3e261638f29b33a6cbd6&amp;dn=Ubuntu+14.10+i386+%28Desktop+ISO%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 85,
+  "leechers": 3,
+  "uploader": "Altair64",
+  "files": 1,
+  "time": 1417740798,
+  "description": "UBUNTU 14.10 ISO for 32bit Desktop computers\nOriginal Torrent downloaded from: http://www.ubuntu.com/download/alternative-downloads",
+  "parsed": {
+    "xt": "urn:btih:1619ecc9373c3639f4ee3e261638f29b33a6cbd6",
+    "dn": "Ubuntu 14.10 i386 (Desktop ISO)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1619ecc9373c3639f4ee3e261638f29b33a6cbd6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        22,
+        25,
+        236,
+        201,
+        55,
+        60,
+        54,
+        57,
+        244,
+        238,
+        62,
+        38,
+        22,
+        56,
+        242,
+        155,
+        51,
+        166,
+        203,
+        214
+      ]
+    },
+    "name": "Ubuntu 14.10 i386 (Desktop ISO)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 88,
+  "peers": 125,
+  "last_updated": "2016-12-24T18:05:32.801Z"
+}

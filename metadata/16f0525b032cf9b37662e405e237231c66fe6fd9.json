@@ -1,1 +1,61 @@
-{"title":"Caribou - Swim [2010-MP3-Cov][Bubanee]","uid":5428020,"size":71148723,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:16f0525b032cf9b37662e405e237231c66fe6fd9&amp;dn=Caribou+-+Swim+%5B2010-MP3-Cov%5D%5BBubanee%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":99,"leechers":0,"uploader":"bubanee","files":11,"time":1268315505,"description":"Swim is an upcoming album by Caribou, due for release in April 2010. \nOpening track &quot;Odessa&quot; was released as a free download on 25 January 2010.\n\n&quot;Jamelia&quot; features vocals by Luke Lalonde of Born Ruffians.\n\n1. Odessa\n2. Sun\n3. Kaili\n4. Found Out\n5. Bowls\n6. Leave House\n7. Hannibal\n8. Labelia\n9. Jamelia\n\n**Like all pre-releases you don't know for sure until the CD comes out!","torrent":{"xt":"urn:btih:16f0525b032cf9b37662e405e237231c66fe6fd9","amp;dn":"Caribou+-+Swim+%5B2010-MP3-Cov%5D%5BBubanee%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"16f0525b032cf9b37662e405e237231c66fe6fd9","infoHashBuffer":{"type":"Buffer","data":[22,240,82,91,3,44,249,179,118,98,228,5,226,55,35,28,102,254,111,217]},"announce":[],"urlList":[]}}
+{
+  "title": "Caribou - Swim [2010-MP3-Cov][Bubanee]",
+  "uid": 5428020,
+  "size": 71148723,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:16f0525b032cf9b37662e405e237231c66fe6fd9&amp;dn=Caribou+-+Swim+%5B2010-MP3-Cov%5D%5BBubanee%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 99,
+  "leechers": 0,
+  "uploader": "bubanee",
+  "files": 11,
+  "time": 1268315505,
+  "description": "Swim is an upcoming album by Caribou, due for release in April 2010. \nOpening track &quot;Odessa&quot; was released as a free download on 25 January 2010.\n\n&quot;Jamelia&quot; features vocals by Luke Lalonde of Born Ruffians.\n\n1. Odessa\n2. Sun\n3. Kaili\n4. Found Out\n5. Bowls\n6. Leave House\n7. Hannibal\n8. Labelia\n9. Jamelia\n\n**Like all pre-releases you don't know for sure until the CD comes out!",
+  "parsed": {
+    "xt": "urn:btih:16f0525b032cf9b37662e405e237231c66fe6fd9",
+    "dn": "Caribou - Swim [2010-MP3-Cov][Bubanee]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "16f0525b032cf9b37662e405e237231c66fe6fd9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        22,
+        240,
+        82,
+        91,
+        3,
+        44,
+        249,
+        179,
+        118,
+        98,
+        228,
+        5,
+        226,
+        55,
+        35,
+        28,
+        102,
+        254,
+        111,
+        217
+      ]
+    },
+    "name": "Caribou - Swim [2010-MP3-Cov][Bubanee]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 99,
+  "peers": 52,
+  "last_updated": "2016-12-24T18:12:10.436Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Big Brother Canada S03E03 HDTV x264","uid":11784753,"size":330146526,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:1627936c18a8b6713935dcf6c588d65a1368e46e&amp;dn=Big+Brother+Canada+S03E03+HDTV+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":1,"uploader":"xgimpyx","files":1,"time":1427700790,"description":"Big Brother Canada S03E03 HDTV x264\n\nOriginal Airdate: March 29, 2015","torrent":{"xt":"urn:btih:1627936c18a8b6713935dcf6c588d65a1368e46e","amp;dn":"Big+Brother+Canada+S03E03+HDTV+x264","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1627936c18a8b6713935dcf6c588d65a1368e46e","infoHashBuffer":{"type":"Buffer","data":[22,39,147,108,24,168,182,113,57,53,220,246,197,136,214,90,19,104,228,110]},"announce":[],"urlList":[]}}
+{
+  "title": "Big Brother Canada S03E03 HDTV x264",
+  "uid": 11784753,
+  "size": 330146526,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:1627936c18a8b6713935dcf6c588d65a1368e46e&amp;dn=Big+Brother+Canada+S03E03+HDTV+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 1,
+  "uploader": "xgimpyx",
+  "files": 1,
+  "time": 1427700790,
+  "description": "Big Brother Canada S03E03 HDTV x264\n\nOriginal Airdate: March 29, 2015",
+  "parsed": {
+    "xt": "urn:btih:1627936c18a8b6713935dcf6c588d65a1368e46e",
+    "dn": "Big Brother Canada S03E03 HDTV x264",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1627936c18a8b6713935dcf6c588d65a1368e46e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        22,
+        39,
+        147,
+        108,
+        24,
+        168,
+        182,
+        113,
+        57,
+        53,
+        220,
+        246,
+        197,
+        136,
+        214,
+        90,
+        19,
+        104,
+        228,
+        110
+      ]
+    },
+    "name": "Big Brother Canada S03E03 HDTV x264",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 0,
+  "last_updated": "2016-12-24T18:06:06.919Z"
+}

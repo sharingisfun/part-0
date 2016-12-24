@@ -1,1 +1,63 @@
-{"title":"The Weeknd Ft Daft Punk - Starboy MP3 320 kbps, 2016","uid":15883797,"size":9532494,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:171311cfec5d51498df44b75603872e68b2e3538&amp;dn=The+Weeknd+Ft+Daft+Punk+-+Starboy+MP3+320+kbps%2C+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":94,"leechers":2,"uploader":"NikiPink","files":1,"time":1474633456,"description":"MP3 320 kbps\r\n\r\nGenre: Rap\r\n\r\nRelease Date: September 2016","torrent":{"xt":"urn:btih:171311cfec5d51498df44b75603872e68b2e3538","amp;dn":"The+Weeknd+Ft+Daft+Punk+-+Starboy+MP3+320+kbps%2C+2016","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"171311cfec5d51498df44b75603872e68b2e3538","infoHashBuffer":{"type":"Buffer","data":[23,19,17,207,236,93,81,73,141,244,75,117,96,56,114,230,139,46,53,56]},"announce":[],"urlList":[]}}
+{
+  "title": "The Weeknd Ft Daft Punk - Starboy MP3 320 kbps, 2016",
+  "uid": 15883797,
+  "size": 9532494,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:171311cfec5d51498df44b75603872e68b2e3538&amp;dn=The+Weeknd+Ft+Daft+Punk+-+Starboy+MP3+320+kbps%2C+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 94,
+  "leechers": 2,
+  "uploader": "NikiPink",
+  "files": 1,
+  "time": 1474633456,
+  "description": "MP3 320 kbps\r\n\r\nGenre: Rap\r\n\r\nRelease Date: September 2016",
+  "parsed": {
+    "xt": "urn:btih:171311cfec5d51498df44b75603872e68b2e3538",
+    "dn": "The Weeknd Ft Daft Punk - Starboy MP3 320 kbps, 2016",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "171311cfec5d51498df44b75603872e68b2e3538",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        23,
+        19,
+        17,
+        207,
+        236,
+        93,
+        81,
+        73,
+        141,
+        244,
+        75,
+        117,
+        96,
+        56,
+        114,
+        230,
+        139,
+        46,
+        53,
+        56
+      ]
+    },
+    "name": "The Weeknd Ft Daft Punk - Starboy MP3 320 kbps, 2016",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 96,
+  "peers": 224,
+  "last_updated": "2016-12-24T18:13:06.629Z"
+}

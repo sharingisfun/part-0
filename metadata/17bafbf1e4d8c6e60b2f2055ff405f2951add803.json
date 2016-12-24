@@ -1,1 +1,63 @@
-{"title":"World in Conflict: Complete Edition MULTi-DEFA","uid":15964357,"size":8710361,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:17bafbf1e4d8c6e60b2f2055ff405f2951add803&amp;dn=World+in+Conflict%3A+Complete+Edition+MULTi-DEFA&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":92,"leechers":67,"uploader":"trwetwr","files":3,"time":1475707959,"description":"Good Game","torrent":{"xt":"urn:btih:17bafbf1e4d8c6e60b2f2055ff405f2951add803","amp;dn":"World+in+Conflict%3A+Complete+Edition+MULTi-DEFA","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"17bafbf1e4d8c6e60b2f2055ff405f2951add803","infoHashBuffer":{"type":"Buffer","data":[23,186,251,241,228,216,198,230,11,47,32,85,255,64,95,41,81,173,216,3]},"announce":[],"urlList":[]}}
+{
+  "title": "World in Conflict: Complete Edition MULTi-DEFA",
+  "uid": 15964357,
+  "size": 8710361,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:17bafbf1e4d8c6e60b2f2055ff405f2951add803&amp;dn=World+in+Conflict%3A+Complete+Edition+MULTi-DEFA&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 92,
+  "leechers": 67,
+  "uploader": "trwetwr",
+  "files": 3,
+  "time": 1475707959,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:17bafbf1e4d8c6e60b2f2055ff405f2951add803",
+    "dn": "World in Conflict: Complete Edition MULTi-DEFA",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "17bafbf1e4d8c6e60b2f2055ff405f2951add803",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        23,
+        186,
+        251,
+        241,
+        228,
+        216,
+        198,
+        230,
+        11,
+        47,
+        32,
+        85,
+        255,
+        64,
+        95,
+        41,
+        81,
+        173,
+        216,
+        3
+      ]
+    },
+    "name": "World in Conflict: Complete Edition MULTi-DEFA",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 159,
+  "peers": 2,
+  "last_updated": "2016-12-24T18:17:35.547Z"
+}

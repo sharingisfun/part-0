@@ -1,1 +1,63 @@
-{"title":"SamDrivers 15.10","uid":12541851,"size":11917502464,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:1618995f22de59a2840e19191f8cb9cb6e8b93c3&amp;dn=SamDrivers+15.10&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":5,"uploader":"PEERBLOCK","files":1,"time":1444407091,"description":"09-10-2015       \nhttp://driveroff.net/","torrent":{"xt":"urn:btih:1618995f22de59a2840e19191f8cb9cb6e8b93c3","amp;dn":"SamDrivers+15.10","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1618995f22de59a2840e19191f8cb9cb6e8b93c3","infoHashBuffer":{"type":"Buffer","data":[22,24,153,95,34,222,89,162,132,14,25,25,31,140,185,203,110,139,147,195]},"announce":[],"urlList":[]}}
+{
+  "title": "SamDrivers 15.10",
+  "uid": 12541851,
+  "size": 11917502464,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:1618995f22de59a2840e19191f8cb9cb6e8b93c3&amp;dn=SamDrivers+15.10&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 5,
+  "uploader": "PEERBLOCK",
+  "files": 1,
+  "time": 1444407091,
+  "description": "09-10-2015       \nhttp://driveroff.net/",
+  "parsed": {
+    "xt": "urn:btih:1618995f22de59a2840e19191f8cb9cb6e8b93c3",
+    "dn": "SamDrivers 15.10",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1618995f22de59a2840e19191f8cb9cb6e8b93c3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        22,
+        24,
+        153,
+        95,
+        34,
+        222,
+        89,
+        162,
+        132,
+        14,
+        25,
+        25,
+        31,
+        140,
+        185,
+        203,
+        110,
+        139,
+        147,
+        195
+      ]
+    },
+    "name": "SamDrivers 15.10",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 80,
+  "last_updated": "2016-12-24T18:05:26.780Z"
+}

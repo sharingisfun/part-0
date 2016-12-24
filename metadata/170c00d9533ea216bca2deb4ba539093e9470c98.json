@@ -1,1 +1,61 @@
-{"title":"Mark Ronson - Uptown Funk ft. Bruno Mars.mp3","uid":11712643,"size":10856428,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:170c00d9533ea216bca2deb4ba539093e9470c98&amp;dn=Mark+Ronson+-+Uptown+Funk+ft.+Bruno+Mars.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":0,"uploader":"Zontir","files":1,"time":1424390628,"description":"Mark Ronson - Uptown Funk ft. Bruno Mars\n\nReal 320 Kbps","torrent":{"xt":"urn:btih:170c00d9533ea216bca2deb4ba539093e9470c98","amp;dn":"Mark+Ronson+-+Uptown+Funk+ft.+Bruno+Mars.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"170c00d9533ea216bca2deb4ba539093e9470c98","infoHashBuffer":{"type":"Buffer","data":[23,12,0,217,83,62,162,22,188,162,222,180,186,83,144,147,233,71,12,152]},"announce":[],"urlList":[]}}
+{
+  "title": "Mark Ronson - Uptown Funk ft. Bruno Mars.mp3",
+  "uid": 11712643,
+  "size": 10856428,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:170c00d9533ea216bca2deb4ba539093e9470c98&amp;dn=Mark+Ronson+-+Uptown+Funk+ft.+Bruno+Mars.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 0,
+  "uploader": "Zontir",
+  "files": 1,
+  "time": 1424390628,
+  "description": "Mark Ronson - Uptown Funk ft. Bruno Mars\n\nReal 320 Kbps",
+  "parsed": {
+    "xt": "urn:btih:170c00d9533ea216bca2deb4ba539093e9470c98",
+    "dn": "Mark Ronson - Uptown Funk ft. Bruno Mars.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "170c00d9533ea216bca2deb4ba539093e9470c98",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        23,
+        12,
+        0,
+        217,
+        83,
+        62,
+        162,
+        22,
+        188,
+        162,
+        222,
+        180,
+        186,
+        83,
+        144,
+        147,
+        233,
+        71,
+        12,
+        152
+      ]
+    },
+    "name": "Mark Ronson - Uptown Funk ft. Bruno Mars.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 50,
+  "last_updated": "2016-12-24T18:12:54.592Z"
+}

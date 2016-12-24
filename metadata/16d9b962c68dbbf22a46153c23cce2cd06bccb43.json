@@ -1,1 +1,61 @@
-{"title":"Z Nation S01E01 HDTV x264-KILLERS[ettv]","uid":11021383,"size":553343619,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:16d9b962c68dbbf22a46153c23cce2cd06bccb43&amp;dn=Z+Nation+S01E01+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":130,"leechers":5,"uploader":"ettv","files":2,"time":1410584686,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps &lt;a href=&quot;\nhttp://www.tvrage.com/shows/id-41883&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.tvrage.com/shows/id-41883&lt;/a&gt;","torrent":{"xt":"urn:btih:16d9b962c68dbbf22a46153c23cce2cd06bccb43","amp;dn":"Z+Nation+S01E01+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"16d9b962c68dbbf22a46153c23cce2cd06bccb43","infoHashBuffer":{"type":"Buffer","data":[22,217,185,98,198,141,187,242,42,70,21,60,35,204,226,205,6,188,203,67]},"announce":[],"urlList":[]}}
+{
+  "title": "Z Nation S01E01 HDTV x264-KILLERS[ettv]",
+  "uid": 11021383,
+  "size": 553343619,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:16d9b962c68dbbf22a46153c23cce2cd06bccb43&amp;dn=Z+Nation+S01E01+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 130,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1410584686,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps &lt;a href=&quot;\nhttp://www.tvrage.com/shows/id-41883&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.tvrage.com/shows/id-41883&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:16d9b962c68dbbf22a46153c23cce2cd06bccb43",
+    "dn": "Z Nation S01E01 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "16d9b962c68dbbf22a46153c23cce2cd06bccb43",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        22,
+        217,
+        185,
+        98,
+        198,
+        141,
+        187,
+        242,
+        42,
+        70,
+        21,
+        60,
+        35,
+        204,
+        226,
+        205,
+        6,
+        188,
+        203,
+        67
+      ]
+    },
+    "name": "Z Nation S01E01 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 135,
+  "peers": 88,
+  "last_updated": "2016-12-24T18:11:40.330Z"
+}

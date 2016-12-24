@@ -1,1 +1,61 @@
-{"title":"Suits.S02E13.HDTV.x264-2HD.[VTV].mp4","uid":8090125,"size":293274933,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:17d7aa1ef699ee3cdaf6ad1f9cec44374b495baa&amp;dn=Suits.S02E13.HDTV.x264-2HD.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":12,"uploader":"VTV","files":1,"time":1359696786,"description":"Suits 2x13 (HDTV-x264-2HD)[VTV]","torrent":{"xt":"urn:btih:17d7aa1ef699ee3cdaf6ad1f9cec44374b495baa","amp;dn":"Suits.S02E13.HDTV.x264-2HD.%5BVTV%5D.mp4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"17d7aa1ef699ee3cdaf6ad1f9cec44374b495baa","infoHashBuffer":{"type":"Buffer","data":[23,215,170,30,246,153,238,60,218,246,173,31,156,236,68,55,75,73,91,170]},"announce":[],"urlList":[]}}
+{
+  "title": "Suits.S02E13.HDTV.x264-2HD.[VTV].mp4",
+  "uid": 8090125,
+  "size": 293274933,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:17d7aa1ef699ee3cdaf6ad1f9cec44374b495baa&amp;dn=Suits.S02E13.HDTV.x264-2HD.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 12,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1359696786,
+  "description": "Suits 2x13 (HDTV-x264-2HD)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:17d7aa1ef699ee3cdaf6ad1f9cec44374b495baa",
+    "dn": "Suits.S02E13.HDTV.x264-2HD.[VTV].mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "17d7aa1ef699ee3cdaf6ad1f9cec44374b495baa",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        23,
+        215,
+        170,
+        30,
+        246,
+        153,
+        238,
+        60,
+        218,
+        246,
+        173,
+        31,
+        156,
+        236,
+        68,
+        55,
+        75,
+        73,
+        91,
+        170
+      ]
+    },
+    "name": "Suits.S02E13.HDTV.x264-2HD.[VTV].mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 62,
+  "last_updated": "2016-12-24T18:18:25.796Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Resident Evil 3 - Nemesis (PC)","uid":8484512,"size":618512917,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:1625770c406978ac0f29c1c6456ad6d7e8371861&amp;dn=Resident+Evil+3+-+Nemesis+%28PC%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":2,"uploader":"AlwsZen","files":2,"time":1368820333,"description":"###########################\n    Torrent information\n###########################\n\nGame: \t\n\tResident Evil 3 - Nemesis\nPlatform: \n\tPC\nFormat:   \n\t.iso\nLanguages (MULTI5):\n\t- English\n\t- Spanish\n\t- French\n\t- Italian\n\t- German\nUploader:\t\n\tAlwsZen\n\n###########################\n   Install instructions\n###########################\n\n- Mount or burn the image\n- Follow the steps of the installer\n- Enjoy the game!\n\n###########################\n\t Comments\n###########################\n\nEnjoy the game and share! :D","torrent":{"xt":"urn:btih:1625770c406978ac0f29c1c6456ad6d7e8371861","amp;dn":"Resident+Evil+3+-+Nemesis+%28PC%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1625770c406978ac0f29c1c6456ad6d7e8371861","infoHashBuffer":{"type":"Buffer","data":[22,37,119,12,64,105,120,172,15,41,193,198,69,106,214,215,232,55,24,97]},"announce":[],"urlList":[]}}
+{
+  "title": "Resident Evil 3 - Nemesis (PC)",
+  "uid": 8484512,
+  "size": 618512917,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:1625770c406978ac0f29c1c6456ad6d7e8371861&amp;dn=Resident+Evil+3+-+Nemesis+%28PC%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 2,
+  "uploader": "AlwsZen",
+  "files": 2,
+  "time": 1368820333,
+  "description": "###########################\n    Torrent information\n###########################\n\nGame: \t\n\tResident Evil 3 - Nemesis\nPlatform: \n\tPC\nFormat:   \n\t.iso\nLanguages (MULTI5):\n\t- English\n\t- Spanish\n\t- French\n\t- Italian\n\t- German\nUploader:\t\n\tAlwsZen\n\n###########################\n   Install instructions\n###########################\n\n- Mount or burn the image\n- Follow the steps of the installer\n- Enjoy the game!\n\n###########################\n\t Comments\n###########################\n\nEnjoy the game and share! :D",
+  "parsed": {
+    "xt": "urn:btih:1625770c406978ac0f29c1c6456ad6d7e8371861",
+    "dn": "Resident Evil 3 - Nemesis (PC)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1625770c406978ac0f29c1c6456ad6d7e8371861",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        22,
+        37,
+        119,
+        12,
+        64,
+        105,
+        120,
+        172,
+        15,
+        41,
+        193,
+        198,
+        69,
+        106,
+        214,
+        215,
+        232,
+        55,
+        24,
+        97
+      ]
+    },
+    "name": "Resident Evil 3 - Nemesis (PC)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 66,
+  "peers": 50,
+  "last_updated": "2016-12-24T18:06:00.892Z"
+}

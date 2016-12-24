@@ -1,1 +1,61 @@
-{"title":"BLACK - PS2 NTSC (PT-BR)","uid":6025862,"size":1705978144,"categoryP":"games","categoryS":"psx","magnet":"?xt=urn:btih:1836a0f394e8e94fa33baed5d5a6b615cd05e516&amp;dn=BLACK+-+PS2+NTSC+%28PT-BR%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":106,"leechers":11,"uploader":"pgng","files":4,"time":1291929224,"description":"BLACK - PS2 NTSC (PT-BR)\nhttp://img22.imageshack.us/img22/5333/blke.jpg\n\n(THIS VERSION OF THE GAME IS IN BRAZILIAN LANGUAGE)\n\n\n.Informacoes do Jogo:\nTodos os videos do jogo foram legendados, que sao aquelas cenas no interrogatorio do Sargento Kellar.\nPara aqueles que sempre quiseram saber o que rola nessas conversas!\n\n\n.Informacoes do Download:\nGenero......................: Tiro\nFrequencia..................: NTSC\nFormato.....................: DVDFull (ISO)\n\n\n.Bugs:\nNo meio do jogo, sem ser nos videos, as vezes o audio pode bugar, ficando repetindo por horas, tanto para musica como as vozes, para desbugar e so apertar START, entao o jogo travara por menos de um minuto e ai o bug sera reparado.\n\n\n.Screens:\nhttp://img130.imageshack.us/img130/2078/black001customsize30022.jpg\nhttp://img812.imageshack.us/img812/3998/black002customsize30022.jpg\nhttp://img593.imageshack.us/img593/9881/black003customsize30022.jpg\n\n:)","torrent":{"xt":"urn:btih:1836a0f394e8e94fa33baed5d5a6b615cd05e516","amp;dn":"BLACK+-+PS2+NTSC+%28PT-BR%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1836a0f394e8e94fa33baed5d5a6b615cd05e516","infoHashBuffer":{"type":"Buffer","data":[24,54,160,243,148,232,233,79,163,59,174,213,213,166,182,21,205,5,229,22]},"announce":[],"urlList":[]}}
+{
+  "title": "BLACK - PS2 NTSC (PT-BR)",
+  "uid": 6025862,
+  "size": 1705978144,
+  "categoryP": "games",
+  "categoryS": "psx",
+  "magnet": "?xt=urn:btih:1836a0f394e8e94fa33baed5d5a6b615cd05e516&amp;dn=BLACK+-+PS2+NTSC+%28PT-BR%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 106,
+  "leechers": 11,
+  "uploader": "pgng",
+  "files": 4,
+  "time": 1291929224,
+  "description": "BLACK - PS2 NTSC (PT-BR)\nhttp://img22.imageshack.us/img22/5333/blke.jpg\n\n(THIS VERSION OF THE GAME IS IN BRAZILIAN LANGUAGE)\n\n\n.Informacoes do Jogo:\nTodos os videos do jogo foram legendados, que sao aquelas cenas no interrogatorio do Sargento Kellar.\nPara aqueles que sempre quiseram saber o que rola nessas conversas!\n\n\n.Informacoes do Download:\nGenero......................: Tiro\nFrequencia..................: NTSC\nFormato.....................: DVDFull (ISO)\n\n\n.Bugs:\nNo meio do jogo, sem ser nos videos, as vezes o audio pode bugar, ficando repetindo por horas, tanto para musica como as vozes, para desbugar e so apertar START, entao o jogo travara por menos de um minuto e ai o bug sera reparado.\n\n\n.Screens:\nhttp://img130.imageshack.us/img130/2078/black001customsize30022.jpg\nhttp://img812.imageshack.us/img812/3998/black002customsize30022.jpg\nhttp://img593.imageshack.us/img593/9881/black003customsize30022.jpg\n\n:)",
+  "parsed": {
+    "xt": "urn:btih:1836a0f394e8e94fa33baed5d5a6b615cd05e516",
+    "dn": "BLACK - PS2 NTSC (PT-BR)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1836a0f394e8e94fa33baed5d5a6b615cd05e516",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        24,
+        54,
+        160,
+        243,
+        148,
+        232,
+        233,
+        79,
+        163,
+        59,
+        174,
+        213,
+        213,
+        166,
+        182,
+        21,
+        205,
+        5,
+        229,
+        22
+      ]
+    },
+    "name": "BLACK - PS2 NTSC (PT-BR)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 117,
+  "peers": 162,
+  "last_updated": "2016-12-24T18:21:02.444Z"
+}

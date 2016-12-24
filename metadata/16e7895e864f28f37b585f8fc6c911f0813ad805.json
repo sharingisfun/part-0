@@ -1,1 +1,61 @@
-{"title":"Audioslave Greatest Hits 2014 Flac Special Edition","uid":10840527,"size":1368560273,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:16e7895e864f28f37b585f8fc6c911f0813ad805&amp;dn=Audioslave+Greatest+Hits+2014+Flac+Special+Edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":17,"uploader":"RitchieKotzen","files":23,"time":1408738973,"description":"Be Yourself\nCochise\nDoesn`t Remind Me\nDrown Me Slowly\nExploder\nGasoline\nHeaven`s Dead\nI Am The Highway\nLike A Stone\nMan Or Animal\nOne And The Same\nOriginal Fire\nRevelations\nSet It Off\nShadow On The Sun\nShape Of Things To Come\nShow Me How To Live\nSound Of A Gun\nThe Worm\nUntil We Fall\nWhat You Are\nYesterday To Tomorrow\n","torrent":{"xt":"urn:btih:16e7895e864f28f37b585f8fc6c911f0813ad805","amp;dn":"Audioslave+Greatest+Hits+2014+Flac+Special+Edition","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"16e7895e864f28f37b585f8fc6c911f0813ad805","infoHashBuffer":{"type":"Buffer","data":[22,231,137,94,134,79,40,243,123,88,95,143,198,201,17,240,129,58,216,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Audioslave Greatest Hits 2014 Flac Special Edition",
+  "uid": 10840527,
+  "size": 1368560273,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:16e7895e864f28f37b585f8fc6c911f0813ad805&amp;dn=Audioslave+Greatest+Hits+2014+Flac+Special+Edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 17,
+  "uploader": "RitchieKotzen",
+  "files": 23,
+  "time": 1408738973,
+  "description": "Be Yourself\nCochise\nDoesn`t Remind Me\nDrown Me Slowly\nExploder\nGasoline\nHeaven`s Dead\nI Am The Highway\nLike A Stone\nMan Or Animal\nOne And The Same\nOriginal Fire\nRevelations\nSet It Off\nShadow On The Sun\nShape Of Things To Come\nShow Me How To Live\nSound Of A Gun\nThe Worm\nUntil We Fall\nWhat You Are\nYesterday To Tomorrow\n",
+  "parsed": {
+    "xt": "urn:btih:16e7895e864f28f37b585f8fc6c911f0813ad805",
+    "dn": "Audioslave Greatest Hits 2014 Flac Special Edition",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "16e7895e864f28f37b585f8fc6c911f0813ad805",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        22,
+        231,
+        137,
+        94,
+        134,
+        79,
+        40,
+        243,
+        123,
+        88,
+        95,
+        143,
+        198,
+        201,
+        17,
+        240,
+        129,
+        58,
+        216,
+        5
+      ]
+    },
+    "name": "Audioslave Greatest Hits 2014 Flac Special Edition",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 33,
+  "last_updated": "2016-12-24T18:12:02.413Z"
+}

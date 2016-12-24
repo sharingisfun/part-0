@@ -1,1 +1,61 @@
-{"title":"Nero 2015 Platinum (16.0.04300) (x86+x64) [2015 ÃÂ³.] [Multi]","uid":11682076,"size":260846064,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:163b2f8f71dc8f4b6c85209b1aea400c760b9d33&amp;dn=Nero+2015+Platinum+%2816.0.04300%29+%28x86%2Bx64%29+%5B2015+%D0%B3.%5D+%5BMulti%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":2,"uploader":"yfjfrj","files":3,"time":1423151500,"description":"Nero 2015 Platinum (16.0.04300) (x86+x64) [2015 ÃÂ³.] [Multi]\n\nHow to install:\nInstall the program with trial key\nWhen installation is complete, uncheck &quot;Enable notification about automatic updating&quot;\nRun the patch as Administrator\nClick &quot;Browse&quot; and select the folder in which you installed the program. Then click &quot;Patch&quot;\nRun the program and register key from a text file.\nRestart the program\nNote!!! Does not update the program!","torrent":{"xt":"urn:btih:163b2f8f71dc8f4b6c85209b1aea400c760b9d33","amp;dn":"Nero+2015+Platinum+%2816.0.04300%29+%28x86%2Bx64%29+%5B2015+%D0%B3.%5D+%5BMulti%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"163b2f8f71dc8f4b6c85209b1aea400c760b9d33","infoHashBuffer":{"type":"Buffer","data":[22,59,47,143,113,220,143,75,108,133,32,155,26,234,64,12,118,11,157,51]},"announce":[],"urlList":[]}}
+{
+  "title": "Nero 2015 Platinum (16.0.04300) (x86+x64) [2015 ÃÂ³.] [Multi]",
+  "uid": 11682076,
+  "size": 260846064,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:163b2f8f71dc8f4b6c85209b1aea400c760b9d33&amp;dn=Nero+2015+Platinum+%2816.0.04300%29+%28x86%2Bx64%29+%5B2015+%D0%B3.%5D+%5BMulti%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 2,
+  "uploader": "yfjfrj",
+  "files": 3,
+  "time": 1423151500,
+  "description": "Nero 2015 Platinum (16.0.04300) (x86+x64) [2015 ÃÂ³.] [Multi]\n\nHow to install:\nInstall the program with trial key\nWhen installation is complete, uncheck &quot;Enable notification about automatic updating&quot;\nRun the patch as Administrator\nClick &quot;Browse&quot; and select the folder in which you installed the program. Then click &quot;Patch&quot;\nRun the program and register key from a text file.\nRestart the program\nNote!!! Does not update the program!",
+  "parsed": {
+    "xt": "urn:btih:163b2f8f71dc8f4b6c85209b1aea400c760b9d33",
+    "dn": "Nero 2015 Platinum (16.0.04300) (x86 x64) [2015 г.] [Multi]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "163b2f8f71dc8f4b6c85209b1aea400c760b9d33",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        22,
+        59,
+        47,
+        143,
+        113,
+        220,
+        143,
+        75,
+        108,
+        133,
+        32,
+        155,
+        26,
+        234,
+        64,
+        12,
+        118,
+        11,
+        157,
+        51
+      ]
+    },
+    "name": "Nero 2015 Platinum (16.0.04300) (x86 x64) [2015 г.] [Multi]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 74,
+  "peers": 57,
+  "last_updated": "2016-12-24T18:06:43.048Z"
+}

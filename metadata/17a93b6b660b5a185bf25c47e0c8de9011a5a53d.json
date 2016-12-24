@@ -1,1 +1,63 @@
-{"title":"Tove Lo â€“ Cool Girl MP3, 2016","uid":15484160,"size":8317426,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:17a93b6b660b5a185bf25c47e0c8de9011a5a53d&amp;dn=Tove+Lo+%26ndash%3B+Cool+Girl+MP3%2C+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":4,"uploader":"NikiPink","files":1,"time":1470297670,"description":"Single\r\n\r\nMP3 320 kbps\r\n\r\nGenre: Pop\r\n\r\nRelease Date: August 2016","torrent":{"xt":"urn:btih:17a93b6b660b5a185bf25c47e0c8de9011a5a53d","amp;dn":"Tove+Lo+%26ndash%3B+Cool+Girl+MP3%2C+2016","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"17a93b6b660b5a185bf25c47e0c8de9011a5a53d","infoHashBuffer":{"type":"Buffer","data":[23,169,59,107,102,11,90,24,91,242,92,71,224,200,222,144,17,165,165,61]},"announce":[],"urlList":[]}}
+{
+  "title": "Tove Lo â€“ Cool Girl MP3, 2016",
+  "uid": 15484160,
+  "size": 8317426,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:17a93b6b660b5a185bf25c47e0c8de9011a5a53d&amp;dn=Tove+Lo+%26ndash%3B+Cool+Girl+MP3%2C+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 4,
+  "uploader": "NikiPink",
+  "files": 1,
+  "time": 1470297670,
+  "description": "Single\r\n\r\nMP3 320 kbps\r\n\r\nGenre: Pop\r\n\r\nRelease Date: August 2016",
+  "parsed": {
+    "xt": "urn:btih:17a93b6b660b5a185bf25c47e0c8de9011a5a53d",
+    "dn": "Tove Lo &ndash; Cool Girl MP3, 2016",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "17a93b6b660b5a185bf25c47e0c8de9011a5a53d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        23,
+        169,
+        59,
+        107,
+        102,
+        11,
+        90,
+        24,
+        91,
+        242,
+        92,
+        71,
+        224,
+        200,
+        222,
+        144,
+        17,
+        165,
+        165,
+        61
+      ]
+    },
+    "name": "Tove Lo &ndash; Cool Girl MP3, 2016",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 74,
+  "peers": 102,
+  "last_updated": "2016-12-24T18:16:55.374Z"
+}
