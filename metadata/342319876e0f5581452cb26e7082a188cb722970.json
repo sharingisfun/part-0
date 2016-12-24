@@ -1,1 +1,61 @@
-{"title":"Arctic Monkeys - Whatever People Say I Am, That's What I'm Not (","uid":7202893,"size":98763392,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:342319876e0f5581452cb26e7082a188cb722970&amp;dn=Arctic+Monkeys+-+Whatever+People+Say+I+Am%2C+That%27s+What+I%27m+Not+%28&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":101,"leechers":4,"uploader":"foxtrot6310","files":15,"time":1334995573,"description":"Arctic Monkeys - Whatever People Say I Am, That's What I'm Not (2006) (320kbps)\n\n1.The view of the afternoon\n2.I bet you look good in the dancefloor\n3.Fale tales of San Francisco\n4.Dancing Shoes\n5.You probably couldn't see for the lights but you were looking straight at me\n6.Still take you home\n7.Riot Van\n8.Red light indicates doors are secured\n9.Mardy Bum\n10.Perhaps vampires is a bit strong but...\n11.When the Sun goes down\n12.From the ritz to the rubble\n13.A certain romance\n\nCoverBack\nCoverFront","torrent":{"xt":"urn:btih:342319876e0f5581452cb26e7082a188cb722970","amp;dn":"Arctic+Monkeys+-+Whatever+People+Say+I+Am%2C+That%27s+What+I%27m+Not+%28","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"342319876e0f5581452cb26e7082a188cb722970","infoHashBuffer":{"type":"Buffer","data":[52,35,25,135,110,15,85,129,69,44,178,110,112,130,161,136,203,114,41,112]},"announce":[],"urlList":[]}}
+{
+  "title": "Arctic Monkeys - Whatever People Say I Am, That's What I'm Not (",
+  "uid": 7202893,
+  "size": 98763392,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:342319876e0f5581452cb26e7082a188cb722970&amp;dn=Arctic+Monkeys+-+Whatever+People+Say+I+Am%2C+That%27s+What+I%27m+Not+%28&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 101,
+  "leechers": 4,
+  "uploader": "foxtrot6310",
+  "files": 15,
+  "time": 1334995573,
+  "description": "Arctic Monkeys - Whatever People Say I Am, That's What I'm Not (2006) (320kbps)\n\n1.The view of the afternoon\n2.I bet you look good in the dancefloor\n3.Fale tales of San Francisco\n4.Dancing Shoes\n5.You probably couldn't see for the lights but you were looking straight at me\n6.Still take you home\n7.Riot Van\n8.Red light indicates doors are secured\n9.Mardy Bum\n10.Perhaps vampires is a bit strong but...\n11.When the Sun goes down\n12.From the ritz to the rubble\n13.A certain romance\n\nCoverBack\nCoverFront",
+  "parsed": {
+    "xt": "urn:btih:342319876e0f5581452cb26e7082a188cb722970",
+    "dn": "Arctic Monkeys - Whatever People Say I Am, That's What I'm Not (",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "342319876e0f5581452cb26e7082a188cb722970",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        52,
+        35,
+        25,
+        135,
+        110,
+        15,
+        85,
+        129,
+        69,
+        44,
+        178,
+        110,
+        112,
+        130,
+        161,
+        136,
+        203,
+        114,
+        41,
+        112
+      ]
+    },
+    "name": "Arctic Monkeys - Whatever People Say I Am, That's What I'm Not (",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 105,
+  "peers": 245,
+  "last_updated": "2016-12-24T21:49:46.856Z"
+}

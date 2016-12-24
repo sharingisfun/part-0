@@ -1,1 +1,63 @@
-{"title":"Major Lazer - Cold Water (feat. Justin Bieber &amp; MO) (DANEV)","uid":15411168,"size":9243272,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:33324fbe37e4828ea04c0cc519c7b3b01b4cf078&amp;dn=Major+Lazer+-+Cold+Water+%28feat.+Justin+Bieber+%26amp%3B+MO%29+%28DANEV%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":0,"uploader":null,"files":1,"time":1469557200,"description":"Genre: Electro House\r\nYear: 2016\r\nCodec: MP3\r\nBitrate: 320 kbps\r\nTime:  03:50","torrent":{"xt":"urn:btih:33324fbe37e4828ea04c0cc519c7b3b01b4cf078","amp;dn":"Major+Lazer+-+Cold+Water+%28feat.+Justin+Bieber+%26amp%3B+MO%29+%28DANEV%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"33324fbe37e4828ea04c0cc519c7b3b01b4cf078","infoHashBuffer":{"type":"Buffer","data":[51,50,79,190,55,228,130,142,160,76,12,197,25,199,179,176,27,76,240,120]},"announce":[],"urlList":[]}}
+{
+  "title": "Major Lazer - Cold Water (feat. Justin Bieber &amp; MO) (DANEV)",
+  "uid": 15411168,
+  "size": 9243272,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:33324fbe37e4828ea04c0cc519c7b3b01b4cf078&amp;dn=Major+Lazer+-+Cold+Water+%28feat.+Justin+Bieber+%26amp%3B+MO%29+%28DANEV%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 0,
+  "uploader": null,
+  "files": 1,
+  "time": 1469557200,
+  "description": "Genre: Electro House\r\nYear: 2016\r\nCodec: MP3\r\nBitrate: 320 kbps\r\nTime:  03:50",
+  "parsed": {
+    "xt": "urn:btih:33324fbe37e4828ea04c0cc519c7b3b01b4cf078",
+    "dn": "Major Lazer - Cold Water (feat. Justin Bieber &amp; MO) (DANEV)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "33324fbe37e4828ea04c0cc519c7b3b01b4cf078",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        51,
+        50,
+        79,
+        190,
+        55,
+        228,
+        130,
+        142,
+        160,
+        76,
+        12,
+        197,
+        25,
+        199,
+        179,
+        176,
+        27,
+        76,
+        240,
+        120
+      ]
+    },
+    "name": "Major Lazer - Cold Water (feat. Justin Bieber &amp; MO) (DANEV)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 131,
+  "last_updated": "2016-12-24T21:42:59.027Z"
+}

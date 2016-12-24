@@ -1,1 +1,61 @@
-{"title":"Santogold - Santogold (Self-Titled Album)","uid":4630741,"size":61749865,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:353877cf97d30ecab85d793f6a0e6b17d1cf16d0&amp;dn=Santogold+-+Santogold+%28Self-Titled+Album%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":1,"uploader":"c.barrow","files":-1,"time":1231378536,"description":"Santogold\nSelf-Titled Release\n\n192kbps MP3 File Format\n\nLow Bitrate, Great Quality. iPod Ready.\n\n\n","torrent":{"xt":"urn:btih:353877cf97d30ecab85d793f6a0e6b17d1cf16d0","amp;dn":"Santogold+-+Santogold+%28Self-Titled+Album%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"353877cf97d30ecab85d793f6a0e6b17d1cf16d0","infoHashBuffer":{"type":"Buffer","data":[53,56,119,207,151,211,14,202,184,93,121,63,106,14,107,23,209,207,22,208]},"announce":[],"urlList":[]}}
+{
+  "title": "Santogold - Santogold (Self-Titled Album)",
+  "uid": 4630741,
+  "size": 61749865,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:353877cf97d30ecab85d793f6a0e6b17d1cf16d0&amp;dn=Santogold+-+Santogold+%28Self-Titled+Album%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 1,
+  "uploader": "c.barrow",
+  "files": -1,
+  "time": 1231378536,
+  "description": "Santogold\nSelf-Titled Release\n\n192kbps MP3 File Format\n\nLow Bitrate, Great Quality. iPod Ready.\n\n\n",
+  "parsed": {
+    "xt": "urn:btih:353877cf97d30ecab85d793f6a0e6b17d1cf16d0",
+    "dn": "Santogold - Santogold (Self-Titled Album)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "353877cf97d30ecab85d793f6a0e6b17d1cf16d0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        53,
+        56,
+        119,
+        207,
+        151,
+        211,
+        14,
+        202,
+        184,
+        93,
+        121,
+        63,
+        106,
+        14,
+        107,
+        23,
+        209,
+        207,
+        22,
+        208
+      ]
+    },
+    "name": "Santogold - Santogold (Self-Titled Album)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 21,
+  "last_updated": "2016-12-24T21:57:06.410Z"
+}

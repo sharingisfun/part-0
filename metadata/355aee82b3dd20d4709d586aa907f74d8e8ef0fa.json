@@ -1,1 +1,61 @@
-{"title":"snes station for ps2 + 786 games","uid":3972557,"size":689002208,"categoryP":"games","categoryS":"psx","magnet":"?xt=urn:btih:355aee82b3dd20d4709d586aa907f74d8e8ef0fa&amp;dn=snes+station+for+ps2+%2B+786+games&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":2,"uploader":"mack1985","files":1,"time":1200078411,"description":"Snes Station for Ps2 ( http://snes-station.gamebase.ca/ ) . I made this Image with Nero, but you can use any program to burn it, as long as it burns image files. I use Dvd Decrypter which is free and is found here http://dvd-decrypter.en.softonic.com/ \nI suggest you burn this to DVD, as I did not test this with a CD-R. It was made for DVD so Burn It to a DVD. You can play it on PS2 assuming you have a ps2 that has a MOD-CHIP or you are using a SWAP DISC and some kind of boot method.\nHas All the US roms ever released.","torrent":{"xt":"urn:btih:355aee82b3dd20d4709d586aa907f74d8e8ef0fa","amp;dn":"snes+station+for+ps2+%2B+786+games","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"355aee82b3dd20d4709d586aa907f74d8e8ef0fa","infoHashBuffer":{"type":"Buffer","data":[53,90,238,130,179,221,32,212,112,157,88,106,169,7,247,77,142,142,240,250]},"announce":[],"urlList":[]}}
+{
+  "title": "snes station for ps2 + 786 games",
+  "uid": 3972557,
+  "size": 689002208,
+  "categoryP": "games",
+  "categoryS": "psx",
+  "magnet": "?xt=urn:btih:355aee82b3dd20d4709d586aa907f74d8e8ef0fa&amp;dn=snes+station+for+ps2+%2B+786+games&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 2,
+  "uploader": "mack1985",
+  "files": 1,
+  "time": 1200078411,
+  "description": "Snes Station for Ps2 ( http://snes-station.gamebase.ca/ ) . I made this Image with Nero, but you can use any program to burn it, as long as it burns image files. I use Dvd Decrypter which is free and is found here http://dvd-decrypter.en.softonic.com/ \nI suggest you burn this to DVD, as I did not test this with a CD-R. It was made for DVD so Burn It to a DVD. You can play it on PS2 assuming you have a ps2 that has a MOD-CHIP or you are using a SWAP DISC and some kind of boot method.\nHas All the US roms ever released.",
+  "parsed": {
+    "xt": "urn:btih:355aee82b3dd20d4709d586aa907f74d8e8ef0fa",
+    "dn": "snes station for ps2   786 games",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "355aee82b3dd20d4709d586aa907f74d8e8ef0fa",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        53,
+        90,
+        238,
+        130,
+        179,
+        221,
+        32,
+        212,
+        112,
+        157,
+        88,
+        106,
+        169,
+        7,
+        247,
+        77,
+        142,
+        142,
+        240,
+        250
+      ]
+    },
+    "name": "snes station for ps2   786 games",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 9,
+  "last_updated": "2016-12-24T21:58:02.661Z"
+}

@@ -1,1 +1,61 @@
-{"title":"DiRT.Rally.Early.Access+CPU-RePack","uid":11899173,"size":17802462009,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:350e5990bd8992f81e391f812094c213467d86f4&amp;dn=DiRT.Rally.Early.Access%2BCPU-RePack&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":22,"uploader":"atik0786","files":2,"time":1431257534,"description":"\n\nAbout This Game\nWelcome to DiRT Rally - a new world of DiRT. A pure expression of rally, the pinnacle of off-road motor racing and it begins now, in Early Access, with regular free updates including new locations, new game modes and new vehicles.\n\n\nSystem Requirements\nMINIMUM: \nOS: Windows Vista, Windows 7 or Windows 8 \nProcessor: AMD Athlon x2 Dual Core or Intel Core 2 Duo Processor @ 2.4Ghz \nMemory: 4 GB RAM \nGraphics: AMD HD5450 or Nvidia GT430 or Intel HD4000 with 1GB of VRAM \nHard Drive: 35 GB available space \nSound Card: DirectX Compatible soundcard\n\nRECOMMENDED: \nOS: Windows Vista, Windows 7 or Windows 8 \nProcessor: AMD FX-8150 or Intel Core i5 4670K \nMemory: 8 GB RAM \nGraphics: AMD R9 290 or Nvidia GTX780 \nHard Drive: 35 GB available space \nSound Card: Direct X compatible soundcard","torrent":{"xt":"urn:btih:350e5990bd8992f81e391f812094c213467d86f4","amp;dn":"DiRT.Rally.Early.Access%2BCPU-RePack","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"350e5990bd8992f81e391f812094c213467d86f4","infoHashBuffer":{"type":"Buffer","data":[53,14,89,144,189,137,146,248,30,57,31,129,32,148,194,19,70,125,134,244]},"announce":[],"urlList":[]}}
+{
+  "title": "DiRT.Rally.Early.Access+CPU-RePack",
+  "uid": 11899173,
+  "size": 17802462009,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:350e5990bd8992f81e391f812094c213467d86f4&amp;dn=DiRT.Rally.Early.Access%2BCPU-RePack&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 22,
+  "uploader": "atik0786",
+  "files": 2,
+  "time": 1431257534,
+  "description": "\n\nAbout This Game\nWelcome to DiRT Rally - a new world of DiRT. A pure expression of rally, the pinnacle of off-road motor racing and it begins now, in Early Access, with regular free updates including new locations, new game modes and new vehicles.\n\n\nSystem Requirements\nMINIMUM: \nOS: Windows Vista, Windows 7 or Windows 8 \nProcessor: AMD Athlon x2 Dual Core or Intel Core 2 Duo Processor @ 2.4Ghz \nMemory: 4 GB RAM \nGraphics: AMD HD5450 or Nvidia GT430 or Intel HD4000 with 1GB of VRAM \nHard Drive: 35 GB available space \nSound Card: DirectX Compatible soundcard\n\nRECOMMENDED: \nOS: Windows Vista, Windows 7 or Windows 8 \nProcessor: AMD FX-8150 or Intel Core i5 4670K \nMemory: 8 GB RAM \nGraphics: AMD R9 290 or Nvidia GTX780 \nHard Drive: 35 GB available space \nSound Card: Direct X compatible soundcard",
+  "parsed": {
+    "xt": "urn:btih:350e5990bd8992f81e391f812094c213467d86f4",
+    "dn": "DiRT.Rally.Early.Access CPU-RePack",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "350e5990bd8992f81e391f812094c213467d86f4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        53,
+        14,
+        89,
+        144,
+        189,
+        137,
+        146,
+        248,
+        30,
+        57,
+        31,
+        129,
+        32,
+        148,
+        194,
+        19,
+        70,
+        125,
+        134,
+        244
+      ]
+    },
+    "name": "DiRT.Rally.Early.Access CPU-RePack",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 74,
+  "peers": 1,
+  "last_updated": "2016-12-24T21:56:08.236Z"
+}

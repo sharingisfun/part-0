@@ -1,1 +1,61 @@
-{"title":"Call of Duty: Black Ops 2 - PortuguÃªs - Xbox 360","uid":7826113,"size":8738846776,"categoryP":"games","categoryS":"xbox360","magnet":"?xt=urn:btih:34c15316d4e4ff46aeb330df691e0364d690cf7d&amp;dn=Call+of+Duty%3A+Black+Ops+2+-+Portugu%26ecirc%3Bs+-+Xbox+360&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":7,"uploader":"gui13148","files":2,"time":1352930338,"description":"Plataforma: XBOX 360\nDistribuidora: Activision\nGÃƒÂªnero: Tiro, FPS\nIdioma: PortuguÃƒÂªs\nRegiÃƒÂ£o: Free\nFormato: ISO \nLanÃƒÂ§amento: 13 de Novembro de 2012\nDash: 15.574\nDesbloqueio: 2.0/ 3.0","torrent":{"xt":"urn:btih:34c15316d4e4ff46aeb330df691e0364d690cf7d","amp;dn":"Call+of+Duty%3A+Black+Ops+2+-+Portugu%26ecirc%3Bs+-+Xbox+360","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"34c15316d4e4ff46aeb330df691e0364d690cf7d","infoHashBuffer":{"type":"Buffer","data":[52,193,83,22,212,228,255,70,174,179,48,223,105,30,3,100,214,144,207,125]},"announce":[],"urlList":[]}}
+{
+  "title": "Call of Duty: Black Ops 2 - PortuguÃªs - Xbox 360",
+  "uid": 7826113,
+  "size": 8738846776,
+  "categoryP": "games",
+  "categoryS": "xbox360",
+  "magnet": "?xt=urn:btih:34c15316d4e4ff46aeb330df691e0364d690cf7d&amp;dn=Call+of+Duty%3A+Black+Ops+2+-+Portugu%26ecirc%3Bs+-+Xbox+360&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 7,
+  "uploader": "gui13148",
+  "files": 2,
+  "time": 1352930338,
+  "description": "Plataforma: XBOX 360\nDistribuidora: Activision\nGÃƒÂªnero: Tiro, FPS\nIdioma: PortuguÃƒÂªs\nRegiÃƒÂ£o: Free\nFormato: ISO \nLanÃƒÂ§amento: 13 de Novembro de 2012\nDash: 15.574\nDesbloqueio: 2.0/ 3.0",
+  "parsed": {
+    "xt": "urn:btih:34c15316d4e4ff46aeb330df691e0364d690cf7d",
+    "dn": "Call of Duty: Black Ops 2 - Portugu&ecirc;s - Xbox 360",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "34c15316d4e4ff46aeb330df691e0364d690cf7d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        52,
+        193,
+        83,
+        22,
+        212,
+        228,
+        255,
+        70,
+        174,
+        179,
+        48,
+        223,
+        105,
+        30,
+        3,
+        100,
+        214,
+        144,
+        207,
+        125
+      ]
+    },
+    "name": "Call of Duty: Black Ops 2 - Portugu&ecirc;s - Xbox 360",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 98,
+  "last_updated": "2016-12-24T21:53:59.804Z"
+}

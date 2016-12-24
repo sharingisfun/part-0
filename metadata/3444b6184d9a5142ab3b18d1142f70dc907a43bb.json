@@ -1,1 +1,61 @@
-{"title":"Paragon Partition Manager 15 Professional 10.1.25.377 (x86-x64)","uid":11650611,"size":367498868,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:3444b6184d9a5142ab3b18d1142f70dc907a43bb&amp;dn=Paragon+Partition+Manager+15+Professional+10.1.25.377+%28x86-x64%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":100,"leechers":21,"uploader":"nikita200","files":-1,"time":1417827020,"description":"The original! Flexible partitioning and management of hard drives. One solution for a wide variety of traditional data maintenance tasks. Paragon Connect VD - Exclusive technology for direct partitioning of virtual hard drives. All operations are alignment aware and can be performed on AFD of any capacity. Full Windows 8.1 support. \n\nMost Recent Changes in Paragon Partition Manager Professional:\n- Partitioning Engine (New!)\n- Basic and Advanced Partitioning Split partitions\n- Merge partitions\n- Redistribute Free Space\n- Automatic partition alignment\n- Convert dynamic to basic MBR disks\n- Convert basic MBR to basic GPT disks\n- Convert basic GPT to basic MBR disks\n- HFS file systems conversion\n- Boot Manager\n- GPT Loader\n\nHome Page: www.paragon-software.com\nInterface: english","torrent":{"xt":"urn:btih:3444b6184d9a5142ab3b18d1142f70dc907a43bb","amp;dn":"Paragon+Partition+Manager+15+Professional+10.1.25.377+%28x86-x64%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3444b6184d9a5142ab3b18d1142f70dc907a43bb","infoHashBuffer":{"type":"Buffer","data":[52,68,182,24,77,154,81,66,171,59,24,209,20,47,112,220,144,122,67,187]},"announce":[],"urlList":[]}}
+{
+  "title": "Paragon Partition Manager 15 Professional 10.1.25.377 (x86-x64)",
+  "uid": 11650611,
+  "size": 367498868,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:3444b6184d9a5142ab3b18d1142f70dc907a43bb&amp;dn=Paragon+Partition+Manager+15+Professional+10.1.25.377+%28x86-x64%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 100,
+  "leechers": 21,
+  "uploader": "nikita200",
+  "files": -1,
+  "time": 1417827020,
+  "description": "The original! Flexible partitioning and management of hard drives. One solution for a wide variety of traditional data maintenance tasks. Paragon Connect VD - Exclusive technology for direct partitioning of virtual hard drives. All operations are alignment aware and can be performed on AFD of any capacity. Full Windows 8.1 support. \n\nMost Recent Changes in Paragon Partition Manager Professional:\n- Partitioning Engine (New!)\n- Basic and Advanced Partitioning Split partitions\n- Merge partitions\n- Redistribute Free Space\n- Automatic partition alignment\n- Convert dynamic to basic MBR disks\n- Convert basic MBR to basic GPT disks\n- Convert basic GPT to basic MBR disks\n- HFS file systems conversion\n- Boot Manager\n- GPT Loader\n\nHome Page: www.paragon-software.com\nInterface: english",
+  "parsed": {
+    "xt": "urn:btih:3444b6184d9a5142ab3b18d1142f70dc907a43bb",
+    "dn": "Paragon Partition Manager 15 Professional 10.1.25.377 (x86-x64)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3444b6184d9a5142ab3b18d1142f70dc907a43bb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        52,
+        68,
+        182,
+        24,
+        77,
+        154,
+        81,
+        66,
+        171,
+        59,
+        24,
+        209,
+        20,
+        47,
+        112,
+        220,
+        144,
+        122,
+        67,
+        187
+      ]
+    },
+    "name": "Paragon Partition Manager 15 Professional 10.1.25.377 (x86-x64)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 121,
+  "peers": 132,
+  "last_updated": "2016-12-24T21:50:37.130Z"
+}

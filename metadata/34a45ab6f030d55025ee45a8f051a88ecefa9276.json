@@ -1,1 +1,61 @@
-{"title":"The Hacker's Manual (2015) [Linux]","uid":11825023,"size":83410059,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:34a45ab6f030d55025ee45a8f051a88ecefa9276&amp;dn=The+Hacker%27s+Manual+%282015%29+%5BLinux%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":455,"leechers":14,"uploader":"thepiratepimp","files":1,"time":1429450217,"description":"The Hacker's Manual (2015)\n\nEnglish | Pages 146 | PDF | 79.5 Mb\n\nOver 80 hacking tutorials to get your teeth into! Networking Ã¢â‚¬â€œ dive into the protocols, build a network and analyse your traffic. Sysadmin Ã¢â‚¬â€œ harness the power of Docker and learn time-saving terminal tricks. Hacking Ã¢â‚¬â€œ get a full Linux OS on your phone and hack your distro for speed. Privacy Ã¢â‚¬â€œ give The Man the slip and protect your privacy with our help","torrent":{"xt":"urn:btih:34a45ab6f030d55025ee45a8f051a88ecefa9276","amp;dn":"The+Hacker%27s+Manual+%282015%29+%5BLinux%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"34a45ab6f030d55025ee45a8f051a88ecefa9276","infoHashBuffer":{"type":"Buffer","data":[52,164,90,182,240,48,213,80,37,238,69,168,240,81,168,142,206,250,146,118]},"announce":[],"urlList":[]}}
+{
+  "title": "The Hacker's Manual (2015) [Linux]",
+  "uid": 11825023,
+  "size": 83410059,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:34a45ab6f030d55025ee45a8f051a88ecefa9276&amp;dn=The+Hacker%27s+Manual+%282015%29+%5BLinux%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 455,
+  "leechers": 14,
+  "uploader": "thepiratepimp",
+  "files": 1,
+  "time": 1429450217,
+  "description": "The Hacker's Manual (2015)\n\nEnglish | Pages 146 | PDF | 79.5 Mb\n\nOver 80 hacking tutorials to get your teeth into! Networking Ã¢â‚¬â€œ dive into the protocols, build a network and analyse your traffic. Sysadmin Ã¢â‚¬â€œ harness the power of Docker and learn time-saving terminal tricks. Hacking Ã¢â‚¬â€œ get a full Linux OS on your phone and hack your distro for speed. Privacy Ã¢â‚¬â€œ give The Man the slip and protect your privacy with our help",
+  "parsed": {
+    "xt": "urn:btih:34a45ab6f030d55025ee45a8f051a88ecefa9276",
+    "dn": "The Hacker's Manual (2015) [Linux]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "34a45ab6f030d55025ee45a8f051a88ecefa9276",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        52,
+        164,
+        90,
+        182,
+        240,
+        48,
+        213,
+        80,
+        37,
+        238,
+        69,
+        168,
+        240,
+        81,
+        168,
+        142,
+        206,
+        250,
+        146,
+        118
+      ]
+    },
+    "name": "The Hacker's Manual (2015) [Linux]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 469,
+  "peers": 38,
+  "last_updated": "2016-12-24T21:53:33.716Z"
+}

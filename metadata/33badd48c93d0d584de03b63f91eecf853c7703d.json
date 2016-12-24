@@ -1,1 +1,61 @@
-{"title":"Kygo - Stole The Show feat. Parson James (320 kbps) 2015","uid":11828752,"size":8956123,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:33badd48c93d0d584de03b63f91eecf853c7703d&amp;dn=Kygo+-+Stole+The+Show+feat.+Parson+James+%28320+kbps%29+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":368,"leechers":12,"uploader":"sergelover","files":1,"time":1429568587,"description":"&quot;Stole the Show&quot; is a 2015 single by the Norwegian DJ and record producer Kygo featuring the vocals of Parson James. The song written by Kygo, Kyle Kelso, Michael Harwood, Marli Harwood and Ashton Parsons has been a hit in a number of countries and biggest commercial success of Kygo besides &quot;Firestone&quot;","torrent":{"xt":"urn:btih:33badd48c93d0d584de03b63f91eecf853c7703d","amp;dn":"Kygo+-+Stole+The+Show+feat.+Parson+James+%28320+kbps%29+2015","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"33badd48c93d0d584de03b63f91eecf853c7703d","infoHashBuffer":{"type":"Buffer","data":[51,186,221,72,201,61,13,88,77,224,59,99,249,30,236,248,83,199,112,61]},"announce":[],"urlList":[]}}
+{
+  "title": "Kygo - Stole The Show feat. Parson James (320 kbps) 2015",
+  "uid": 11828752,
+  "size": 8956123,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:33badd48c93d0d584de03b63f91eecf853c7703d&amp;dn=Kygo+-+Stole+The+Show+feat.+Parson+James+%28320+kbps%29+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 368,
+  "leechers": 12,
+  "uploader": "sergelover",
+  "files": 1,
+  "time": 1429568587,
+  "description": "&quot;Stole the Show&quot; is a 2015 single by the Norwegian DJ and record producer Kygo featuring the vocals of Parson James. The song written by Kygo, Kyle Kelso, Michael Harwood, Marli Harwood and Ashton Parsons has been a hit in a number of countries and biggest commercial success of Kygo besides &quot;Firestone&quot;",
+  "parsed": {
+    "xt": "urn:btih:33badd48c93d0d584de03b63f91eecf853c7703d",
+    "dn": "Kygo - Stole The Show feat. Parson James (320 kbps) 2015",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "33badd48c93d0d584de03b63f91eecf853c7703d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        51,
+        186,
+        221,
+        72,
+        201,
+        61,
+        13,
+        88,
+        77,
+        224,
+        59,
+        99,
+        249,
+        30,
+        236,
+        248,
+        83,
+        199,
+        112,
+        61
+      ]
+    },
+    "name": "Kygo - Stole The Show feat. Parson James (320 kbps) 2015",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 380,
+  "peers": 0,
+  "last_updated": "2016-12-24T21:47:08.046Z"
+}

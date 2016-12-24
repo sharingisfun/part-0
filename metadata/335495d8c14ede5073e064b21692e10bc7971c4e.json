@@ -1,1 +1,61 @@
-{"title":"[HayaiSubs] Dragon Ball Super - 008 (720p) [rich_jc].mkv","uid":12357057,"size":238999186,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:335495d8c14ede5073e064b21692e10bc7971c4e&amp;dn=%5BHayaiSubs%5D+Dragon+Ball+Super+-+008+%28720p%29+%5Brich_jc%5D.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":81,"leechers":1,"uploader":"rich_jc","files":1,"time":1441487831,"description":"[HayaiSubs] Dragon Ball Super - 008 (720p) [rich_jc].mkv\n\nLegenda PT-BR Hardsub","torrent":{"xt":"urn:btih:335495d8c14ede5073e064b21692e10bc7971c4e","amp;dn":"%5BHayaiSubs%5D+Dragon+Ball+Super+-+008+%28720p%29+%5Brich_jc%5D.mkv","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"335495d8c14ede5073e064b21692e10bc7971c4e","infoHashBuffer":{"type":"Buffer","data":[51,84,149,216,193,78,222,80,115,224,100,178,22,146,225,11,199,151,28,78]},"announce":[],"urlList":[]}}
+{
+  "title": "[HayaiSubs] Dragon Ball Super - 008 (720p) [rich_jc].mkv",
+  "uid": 12357057,
+  "size": 238999186,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:335495d8c14ede5073e064b21692e10bc7971c4e&amp;dn=%5BHayaiSubs%5D+Dragon+Ball+Super+-+008+%28720p%29+%5Brich_jc%5D.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 81,
+  "leechers": 1,
+  "uploader": "rich_jc",
+  "files": 1,
+  "time": 1441487831,
+  "description": "[HayaiSubs] Dragon Ball Super - 008 (720p) [rich_jc].mkv\n\nLegenda PT-BR Hardsub",
+  "parsed": {
+    "xt": "urn:btih:335495d8c14ede5073e064b21692e10bc7971c4e",
+    "dn": "[HayaiSubs] Dragon Ball Super - 008 (720p) [rich_jc].mkv",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "335495d8c14ede5073e064b21692e10bc7971c4e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        51,
+        84,
+        149,
+        216,
+        193,
+        78,
+        222,
+        80,
+        115,
+        224,
+        100,
+        178,
+        22,
+        146,
+        225,
+        11,
+        199,
+        151,
+        28,
+        78
+      ]
+    },
+    "name": "[HayaiSubs] Dragon Ball Super - 008 (720p) [rich_jc].mkv",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 82,
+  "peers": 77,
+  "last_updated": "2016-12-24T21:43:43.177Z"
+}

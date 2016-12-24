@@ -1,1 +1,63 @@
-{"title":"HD Tune Pro 5.60","uid":16016226,"size":40122828,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:34fb9f4cbf6d431a2a8920cd967ddb9c58cd88fd&amp;dn=HD+Tune+Pro+5.60&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":173,"leechers":30,"uploader":"iKnickKnockf","files":4,"time":1476292617,"description":"HD Tune Pro is a hard disk / SSD utility with many functions. It can be used to measure the drive's performance, scan for errors, check the health status (S.M.A.R.T.), securely erase all data and much more.\r\n\r\n7 May 2015: HD Tune Pro 5.60 released.\r\n\r\nChanges:\r\nImproved temperature detection\r\nSave options:\r\nadded option to export screenshot as jpg\r\ntime and date format can be specified\r\nAdded command line option to list all available drives\r\nInfo: improved volume detection\r\nFolder Usage: improved volume detection","torrent":{"xt":"urn:btih:34fb9f4cbf6d431a2a8920cd967ddb9c58cd88fd","amp;dn":"HD+Tune+Pro+5.60","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"34fb9f4cbf6d431a2a8920cd967ddb9c58cd88fd","infoHashBuffer":{"type":"Buffer","data":[52,251,159,76,191,109,67,26,42,137,32,205,150,125,219,156,88,205,136,253]},"announce":[],"urlList":[]}}
+{
+  "title": "HD Tune Pro 5.60",
+  "uid": 16016226,
+  "size": 40122828,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:34fb9f4cbf6d431a2a8920cd967ddb9c58cd88fd&amp;dn=HD+Tune+Pro+5.60&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 173,
+  "leechers": 30,
+  "uploader": "iKnickKnockf",
+  "files": 4,
+  "time": 1476292617,
+  "description": "HD Tune Pro is a hard disk / SSD utility with many functions. It can be used to measure the drive's performance, scan for errors, check the health status (S.M.A.R.T.), securely erase all data and much more.\r\n\r\n7 May 2015: HD Tune Pro 5.60 released.\r\n\r\nChanges:\r\nImproved temperature detection\r\nSave options:\r\nadded option to export screenshot as jpg\r\ntime and date format can be specified\r\nAdded command line option to list all available drives\r\nInfo: improved volume detection\r\nFolder Usage: improved volume detection",
+  "parsed": {
+    "xt": "urn:btih:34fb9f4cbf6d431a2a8920cd967ddb9c58cd88fd",
+    "dn": "HD Tune Pro 5.60",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "34fb9f4cbf6d431a2a8920cd967ddb9c58cd88fd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        52,
+        251,
+        159,
+        76,
+        191,
+        109,
+        67,
+        26,
+        42,
+        137,
+        32,
+        205,
+        150,
+        125,
+        219,
+        156,
+        88,
+        205,
+        136,
+        253
+      ]
+    },
+    "name": "HD Tune Pro 5.60",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 203,
+  "peers": 1,
+  "last_updated": "2016-12-24T21:55:38.140Z"
+}

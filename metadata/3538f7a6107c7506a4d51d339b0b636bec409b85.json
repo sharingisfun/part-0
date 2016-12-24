@@ -1,1 +1,61 @@
-{"title":"NCIS.S13E01.HDTV.x264-LOL[ettv]","uid":12475620,"size":271052792,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3538f7a6107c7506a4d51d339b0b636bec409b85&amp;dn=NCIS.S13E01.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":875,"leechers":426,"uploader":"ettv","files":4,"time":1442977103,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:3538f7a6107c7506a4d51d339b0b636bec409b85","amp;dn":"NCIS.S13E01.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3538f7a6107c7506a4d51d339b0b636bec409b85","infoHashBuffer":{"type":"Buffer","data":[53,56,247,166,16,124,117,6,164,213,29,51,155,11,99,107,236,64,155,133]},"announce":[],"urlList":[]}}
+{
+  "title": "NCIS.S13E01.HDTV.x264-LOL[ettv]",
+  "uid": 12475620,
+  "size": 271052792,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3538f7a6107c7506a4d51d339b0b636bec409b85&amp;dn=NCIS.S13E01.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 875,
+  "leechers": 426,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1442977103,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:3538f7a6107c7506a4d51d339b0b636bec409b85",
+    "dn": "NCIS.S13E01.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3538f7a6107c7506a4d51d339b0b636bec409b85",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        53,
+        56,
+        247,
+        166,
+        16,
+        124,
+        117,
+        6,
+        164,
+        213,
+        29,
+        51,
+        155,
+        11,
+        99,
+        107,
+        236,
+        64,
+        155,
+        133
+      ]
+    },
+    "name": "NCIS.S13E01.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 1301,
+  "peers": 26,
+  "last_updated": "2016-12-24T21:57:08.416Z"
+}

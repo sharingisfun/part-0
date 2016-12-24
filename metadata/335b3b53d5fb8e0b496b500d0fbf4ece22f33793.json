@@ -1,1 +1,61 @@
-{"title":"The Office Season 5 DvDrip-McTav","uid":5131239,"size":5140062463,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:335b3b53d5fb8e0b496b500d0fbf4ece22f33793&amp;dn=The+Office+Season+5+DvDrip-McTav&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":88,"leechers":23,"uploader":"McTav","files":28,"time":1256108535,"description":"enjoy","torrent":{"xt":"urn:btih:335b3b53d5fb8e0b496b500d0fbf4ece22f33793","amp;dn":"The+Office+Season+5+DvDrip-McTav","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"335b3b53d5fb8e0b496b500d0fbf4ece22f33793","infoHashBuffer":{"type":"Buffer","data":[51,91,59,83,213,251,142,11,73,107,80,13,15,191,78,206,34,243,55,147]},"announce":[],"urlList":[]}}
+{
+  "title": "The Office Season 5 DvDrip-McTav",
+  "uid": 5131239,
+  "size": 5140062463,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:335b3b53d5fb8e0b496b500d0fbf4ece22f33793&amp;dn=The+Office+Season+5+DvDrip-McTav&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 88,
+  "leechers": 23,
+  "uploader": "McTav",
+  "files": 28,
+  "time": 1256108535,
+  "description": "enjoy",
+  "parsed": {
+    "xt": "urn:btih:335b3b53d5fb8e0b496b500d0fbf4ece22f33793",
+    "dn": "The Office Season 5 DvDrip-McTav",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "335b3b53d5fb8e0b496b500d0fbf4ece22f33793",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        51,
+        91,
+        59,
+        83,
+        213,
+        251,
+        142,
+        11,
+        73,
+        107,
+        80,
+        13,
+        15,
+        191,
+        78,
+        206,
+        34,
+        243,
+        55,
+        147
+      ]
+    },
+    "name": "The Office Season 5 DvDrip-McTav",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 111,
+  "peers": 59,
+  "last_updated": "2016-12-24T21:43:47.198Z"
+}

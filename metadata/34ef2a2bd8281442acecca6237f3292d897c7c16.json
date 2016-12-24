@@ -1,1 +1,61 @@
-{"title":"Poldark.2015.1x07.HDTV.x264-FoV[ettv]","uid":11825635,"size":350933912,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:34ef2a2bd8281442acecca6237f3292d897c7c16&amp;dn=+Poldark.2015.1x07.HDTV.x264-FoV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":120,"leechers":10,"uploader":"ettv","files":4,"time":1429485536,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:34ef2a2bd8281442acecca6237f3292d897c7c16","amp;dn":"+Poldark.2015.1x07.HDTV.x264-FoV%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"34ef2a2bd8281442acecca6237f3292d897c7c16","infoHashBuffer":{"type":"Buffer","data":[52,239,42,43,216,40,20,66,172,236,202,98,55,243,41,45,137,124,124,22]},"announce":[],"urlList":[]}}
+{
+  "title": "Poldark.2015.1x07.HDTV.x264-FoV[ettv]",
+  "uid": 11825635,
+  "size": 350933912,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:34ef2a2bd8281442acecca6237f3292d897c7c16&amp;dn=+Poldark.2015.1x07.HDTV.x264-FoV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 120,
+  "leechers": 10,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1429485536,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:34ef2a2bd8281442acecca6237f3292d897c7c16",
+    "dn": " Poldark.2015.1x07.HDTV.x264-FoV[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "34ef2a2bd8281442acecca6237f3292d897c7c16",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        52,
+        239,
+        42,
+        43,
+        216,
+        40,
+        20,
+        66,
+        172,
+        236,
+        202,
+        98,
+        55,
+        243,
+        41,
+        45,
+        137,
+        124,
+        124,
+        22
+      ]
+    },
+    "name": " Poldark.2015.1x07.HDTV.x264-FoV[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 130,
+  "peers": 17,
+  "last_updated": "2016-12-24T21:55:20.086Z"
+}

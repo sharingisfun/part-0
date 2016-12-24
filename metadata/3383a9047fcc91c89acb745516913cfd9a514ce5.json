@@ -1,1 +1,61 @@
-{"title":"Flight of the Conchords - Season 2","uid":5263699,"size":2444116990,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3383a9047fcc91c89acb745516913cfd9a514ce5&amp;dn=Flight+of+the+Conchords+-+Season+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":75,"leechers":10,"uploader":"Xichael","files":-1,"time":1262817856,"description":" &lt;a href=&quot;http://en.wikipedia.org/wiki/Flight_of_the_Conchords_(TV_series)&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://en.wikipedia.org/wiki/Flight_of_the_Conchords_(TV_series)&lt;/a&gt;","torrent":{"xt":"urn:btih:3383a9047fcc91c89acb745516913cfd9a514ce5","amp;dn":"Flight+of+the+Conchords+-+Season+2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3383a9047fcc91c89acb745516913cfd9a514ce5","infoHashBuffer":{"type":"Buffer","data":[51,131,169,4,127,204,145,200,154,203,116,85,22,145,60,253,154,81,76,229]},"announce":[],"urlList":[]}}
+{
+  "title": "Flight of the Conchords - Season 2",
+  "uid": 5263699,
+  "size": 2444116990,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3383a9047fcc91c89acb745516913cfd9a514ce5&amp;dn=Flight+of+the+Conchords+-+Season+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 75,
+  "leechers": 10,
+  "uploader": "Xichael",
+  "files": -1,
+  "time": 1262817856,
+  "description": " &lt;a href=&quot;http://en.wikipedia.org/wiki/Flight_of_the_Conchords_(TV_series)&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://en.wikipedia.org/wiki/Flight_of_the_Conchords_(TV_series)&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:3383a9047fcc91c89acb745516913cfd9a514ce5",
+    "dn": "Flight of the Conchords - Season 2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3383a9047fcc91c89acb745516913cfd9a514ce5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        51,
+        131,
+        169,
+        4,
+        127,
+        204,
+        145,
+        200,
+        154,
+        203,
+        116,
+        85,
+        22,
+        145,
+        60,
+        253,
+        154,
+        81,
+        76,
+        229
+      ]
+    },
+    "name": "Flight of the Conchords - Season 2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 85,
+  "peers": 0,
+  "last_updated": "2016-12-24T21:44:59.471Z"
+}

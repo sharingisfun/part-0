@@ -1,1 +1,61 @@
-{"title":"Billy Idol - Greatest Hits [Digital Remastered] 320cbr","uid":9277129,"size":173911117,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:34cd5059a7e780161c4e55f515da1ec54122f869&amp;dn=Billy+Idol+-+Greatest+Hits+%5BDigital+Remastered%5D+320cbr&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":14,"uploader":"Big-Papi","files":20,"time":1385881151,"description":"Source: 2001 CD\n \n\n \n0\nBilly Idol - Greatest Hits 320cbr (Big Papi) 2001 New Wave Post-Punk [Digital Remastered]","torrent":{"xt":"urn:btih:34cd5059a7e780161c4e55f515da1ec54122f869","amp;dn":"Billy+Idol+-+Greatest+Hits+%5BDigital+Remastered%5D+320cbr","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"34cd5059a7e780161c4e55f515da1ec54122f869","infoHashBuffer":{"type":"Buffer","data":[52,205,80,89,167,231,128,22,28,78,85,245,21,218,30,197,65,34,248,105]},"announce":[],"urlList":[]}}
+{
+  "title": "Billy Idol - Greatest Hits [Digital Remastered] 320cbr",
+  "uid": 9277129,
+  "size": 173911117,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:34cd5059a7e780161c4e55f515da1ec54122f869&amp;dn=Billy+Idol+-+Greatest+Hits+%5BDigital+Remastered%5D+320cbr&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 14,
+  "uploader": "Big-Papi",
+  "files": 20,
+  "time": 1385881151,
+  "description": "Source: 2001 CD\n \n\n \n0\nBilly Idol - Greatest Hits 320cbr (Big Papi) 2001 New Wave Post-Punk [Digital Remastered]",
+  "parsed": {
+    "xt": "urn:btih:34cd5059a7e780161c4e55f515da1ec54122f869",
+    "dn": "Billy Idol - Greatest Hits [Digital Remastered] 320cbr",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "34cd5059a7e780161c4e55f515da1ec54122f869",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        52,
+        205,
+        80,
+        89,
+        167,
+        231,
+        128,
+        22,
+        28,
+        78,
+        85,
+        245,
+        21,
+        218,
+        30,
+        197,
+        65,
+        34,
+        248,
+        105
+      ]
+    },
+    "name": "Billy Idol - Greatest Hits [Digital Remastered] 320cbr",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 87,
+  "peers": 12,
+  "last_updated": "2016-12-24T21:54:23.896Z"
+}

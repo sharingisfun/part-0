@@ -1,1 +1,61 @@
-{"title":"Disturbed - The Sickness","uid":3888045,"size":114647257,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3405afccdb983c677c0d4fffc65f219780815ba4&amp;dn=Disturbed+-+The+Sickness&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":17,"uploader":"r00ktard","files":12,"time":1194953506,"description":"Disturbed - The Sickness , Full Album!","torrent":{"xt":"urn:btih:3405afccdb983c677c0d4fffc65f219780815ba4","amp;dn":"Disturbed+-+The+Sickness","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3405afccdb983c677c0d4fffc65f219780815ba4","infoHashBuffer":{"type":"Buffer","data":[52,5,175,204,219,152,60,103,124,13,79,255,198,95,33,151,128,129,91,164]},"announce":[],"urlList":[]}}
+{
+  "title": "Disturbed - The Sickness",
+  "uid": 3888045,
+  "size": 114647257,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3405afccdb983c677c0d4fffc65f219780815ba4&amp;dn=Disturbed+-+The+Sickness&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 17,
+  "uploader": "r00ktard",
+  "files": 12,
+  "time": 1194953506,
+  "description": "Disturbed - The Sickness , Full Album!",
+  "parsed": {
+    "xt": "urn:btih:3405afccdb983c677c0d4fffc65f219780815ba4",
+    "dn": "Disturbed - The Sickness",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3405afccdb983c677c0d4fffc65f219780815ba4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        52,
+        5,
+        175,
+        204,
+        219,
+        152,
+        60,
+        103,
+        124,
+        13,
+        79,
+        255,
+        198,
+        95,
+        33,
+        151,
+        128,
+        129,
+        91,
+        164
+      ]
+    },
+    "name": "Disturbed - The Sickness",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 93,
+  "peers": 26,
+  "last_updated": "2016-12-24T21:49:10.654Z"
+}

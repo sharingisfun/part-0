@@ -1,1 +1,63 @@
-{"title":"Goodreads Best Books of the Month (May 2016)","uid":14716046,"size":9708164,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:349fda482160fb0ca78cec5aff32c2e5044a2701&amp;dn=Goodreads+Best+Books+of+the+Month+%28May+2016%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":123,"leechers":5,"uploader":"Skyeater","files":6,"time":1464468750,"description":"Goodreads Best Books of the Month (May 2016)\r\n \nhttp://extraimago.com/images/2016/05/28/Goodreads-Logo.png\r\n\r\nThese titles have been racing to the top of goodreads popularity charts!\r\n\r\n1. The Mirror Thief by Martin Seay\r\n2. The Curious Charms of Arthur Pepper by Phaedra Patrick\r\n3. Morgue by Vincent DiMaio\r\n4. The Defense by Steve Cavanagh\r\n5. The Crown's Game by Evelyn Skye","torrent":{"xt":"urn:btih:349fda482160fb0ca78cec5aff32c2e5044a2701","amp;dn":"Goodreads+Best+Books+of+the+Month+%28May+2016%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"349fda482160fb0ca78cec5aff32c2e5044a2701","infoHashBuffer":{"type":"Buffer","data":[52,159,218,72,33,96,251,12,167,140,236,90,255,50,194,229,4,74,39,1]},"announce":[],"urlList":[]}}
+{
+  "title": "Goodreads Best Books of the Month (May 2016)",
+  "uid": 14716046,
+  "size": 9708164,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:349fda482160fb0ca78cec5aff32c2e5044a2701&amp;dn=Goodreads+Best+Books+of+the+Month+%28May+2016%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 123,
+  "leechers": 5,
+  "uploader": "Skyeater",
+  "files": 6,
+  "time": 1464468750,
+  "description": "Goodreads Best Books of the Month (May 2016)\r\n \nhttp://extraimago.com/images/2016/05/28/Goodreads-Logo.png\r\n\r\nThese titles have been racing to the top of goodreads popularity charts!\r\n\r\n1. The Mirror Thief by Martin Seay\r\n2. The Curious Charms of Arthur Pepper by Phaedra Patrick\r\n3. Morgue by Vincent DiMaio\r\n4. The Defense by Steve Cavanagh\r\n5. The Crown's Game by Evelyn Skye",
+  "parsed": {
+    "xt": "urn:btih:349fda482160fb0ca78cec5aff32c2e5044a2701",
+    "dn": "Goodreads Best Books of the Month (May 2016)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "349fda482160fb0ca78cec5aff32c2e5044a2701",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        52,
+        159,
+        218,
+        72,
+        33,
+        96,
+        251,
+        12,
+        167,
+        140,
+        236,
+        90,
+        255,
+        50,
+        194,
+        229,
+        4,
+        74,
+        39,
+        1
+      ]
+    },
+    "name": "Goodreads Best Books of the Month (May 2016)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 128,
+  "peers": 100,
+  "last_updated": "2016-12-24T21:53:31.709Z"
+}

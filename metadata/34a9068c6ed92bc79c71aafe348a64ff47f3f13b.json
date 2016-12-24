@@ -1,1 +1,61 @@
-{"title":"Joe - Bridges","uid":10399251,"size":72031690,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:34a9068c6ed92bc79c71aafe348a64ff47f3f13b&amp;dn=Joe+-+Bridges&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":2,"uploader":"The GodFather101","files":17,"time":1403328850,"description":"1. Future Teller\n2. Dilemma\n3. Do a Little Dance\n4. If You Lose Her\n5. Sex Aint a Weapon\n6. Love &amp; Sex, Pt. 2 feat. Kelly Rowland\n7. Blame Her Broken Heart on Me\n8. First Lady\n9. Take It 2 The House\n10. Till the Rope Gives Way\n11. The Rest Will Follow\n12. Mary Jane (Remix) Ã¢â‚¬â€œ feat 50 Cent\n13. Bridges\n14. Love Sex Hollywood\n15. For Love\n16. Love Undefeated","torrent":{"xt":"urn:btih:34a9068c6ed92bc79c71aafe348a64ff47f3f13b","amp;dn":"Joe+-+Bridges","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"34a9068c6ed92bc79c71aafe348a64ff47f3f13b","infoHashBuffer":{"type":"Buffer","data":[52,169,6,140,110,217,43,199,156,113,170,254,52,138,100,255,71,243,241,59]},"announce":[],"urlList":[]}}
+{
+  "title": "Joe - Bridges",
+  "uid": 10399251,
+  "size": 72031690,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:34a9068c6ed92bc79c71aafe348a64ff47f3f13b&amp;dn=Joe+-+Bridges&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 2,
+  "uploader": "The GodFather101",
+  "files": 17,
+  "time": 1403328850,
+  "description": "1. Future Teller\n2. Dilemma\n3. Do a Little Dance\n4. If You Lose Her\n5. Sex Aint a Weapon\n6. Love &amp; Sex, Pt. 2 feat. Kelly Rowland\n7. Blame Her Broken Heart on Me\n8. First Lady\n9. Take It 2 The House\n10. Till the Rope Gives Way\n11. The Rest Will Follow\n12. Mary Jane (Remix) Ã¢â‚¬â€œ feat 50 Cent\n13. Bridges\n14. Love Sex Hollywood\n15. For Love\n16. Love Undefeated",
+  "parsed": {
+    "xt": "urn:btih:34a9068c6ed92bc79c71aafe348a64ff47f3f13b",
+    "dn": "Joe - Bridges",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "34a9068c6ed92bc79c71aafe348a64ff47f3f13b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        52,
+        169,
+        6,
+        140,
+        110,
+        217,
+        43,
+        199,
+        156,
+        113,
+        170,
+        254,
+        52,
+        138,
+        100,
+        255,
+        71,
+        243,
+        241,
+        59
+      ]
+    },
+    "name": "Joe - Bridges",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 11,
+  "last_updated": "2016-12-24T21:53:43.752Z"
+}

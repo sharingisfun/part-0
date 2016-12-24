@@ -1,1 +1,61 @@
-{"title":"The Vampire Diaries S01E02 The Night of the Comet HDTV XviD-FQM ","uid":5092344,"size":366991506,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:331d6930419597474146a0555fa82dbf78efe05c&amp;dn=The+Vampire+Diaries+S01E02+The+Night+of+the+Comet+HDTV+XviD-FQM+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":4,"uploader":"eztv","files":1,"time":1253245680,"description":"#EZTV @ EFNet -&gt; http://eztv.it/\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW","torrent":{"xt":"urn:btih:331d6930419597474146a0555fa82dbf78efe05c","amp;dn":"The+Vampire+Diaries+S01E02+The+Night+of+the+Comet+HDTV+XviD-FQM+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"331d6930419597474146a0555fa82dbf78efe05c","infoHashBuffer":{"type":"Buffer","data":[51,29,105,48,65,149,151,71,65,70,160,85,95,168,45,191,120,239,224,92]},"announce":[],"urlList":[]}}
+{
+  "title": "The Vampire Diaries S01E02 The Night of the Comet HDTV XviD-FQM ",
+  "uid": 5092344,
+  "size": 366991506,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:331d6930419597474146a0555fa82dbf78efe05c&amp;dn=The+Vampire+Diaries+S01E02+The+Night+of+the+Comet+HDTV+XviD-FQM+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 4,
+  "uploader": "eztv",
+  "files": 1,
+  "time": 1253245680,
+  "description": "#EZTV @ EFNet -&gt; http://eztv.it/\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW",
+  "parsed": {
+    "xt": "urn:btih:331d6930419597474146a0555fa82dbf78efe05c",
+    "dn": "The Vampire Diaries S01E02 The Night of the Comet HDTV XviD-FQM ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "331d6930419597474146a0555fa82dbf78efe05c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        51,
+        29,
+        105,
+        48,
+        65,
+        149,
+        151,
+        71,
+        65,
+        70,
+        160,
+        85,
+        95,
+        168,
+        45,
+        191,
+        120,
+        239,
+        224,
+        92
+      ]
+    },
+    "name": "The Vampire Diaries S01E02 The Night of the Comet HDTV XviD-FQM ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 30,
+  "last_updated": "2016-12-24T21:42:18.832Z"
+}

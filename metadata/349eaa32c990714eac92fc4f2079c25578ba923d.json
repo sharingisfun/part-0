@@ -1,1 +1,63 @@
-{"title":"Rugby.Challenge.3-SKIDROW","uid":15964413,"size":11707777,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:349eaa32c990714eac92fc4f2079c25578ba923d&amp;dn=Rugby.Challenge.3-SKIDROW&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":98,"leechers":62,"uploader":"trwetwr","files":3,"time":1475708831,"description":"Good Game","torrent":{"xt":"urn:btih:349eaa32c990714eac92fc4f2079c25578ba923d","amp;dn":"Rugby.Challenge.3-SKIDROW","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"349eaa32c990714eac92fc4f2079c25578ba923d","infoHashBuffer":{"type":"Buffer","data":[52,158,170,50,201,144,113,78,172,146,252,79,32,121,194,85,120,186,146,61]},"announce":[],"urlList":[]}}
+{
+  "title": "Rugby.Challenge.3-SKIDROW",
+  "uid": 15964413,
+  "size": 11707777,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:349eaa32c990714eac92fc4f2079c25578ba923d&amp;dn=Rugby.Challenge.3-SKIDROW&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 98,
+  "leechers": 62,
+  "uploader": "trwetwr",
+  "files": 3,
+  "time": 1475708831,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:349eaa32c990714eac92fc4f2079c25578ba923d",
+    "dn": "Rugby.Challenge.3-SKIDROW",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "349eaa32c990714eac92fc4f2079c25578ba923d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        52,
+        158,
+        170,
+        50,
+        201,
+        144,
+        113,
+        78,
+        172,
+        146,
+        252,
+        79,
+        32,
+        121,
+        194,
+        85,
+        120,
+        186,
+        146,
+        61
+      ]
+    },
+    "name": "Rugby.Challenge.3-SKIDROW",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 160,
+  "peers": 2,
+  "last_updated": "2016-12-24T21:53:29.705Z"
+}

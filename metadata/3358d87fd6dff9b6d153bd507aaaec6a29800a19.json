@@ -1,1 +1,61 @@
-{"title":"Best of - Jamiroquai - Graetests hits","uid":5229307,"size":102380542,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3358d87fd6dff9b6d153bd507aaaec6a29800a19&amp;dn=Best+of+-+Jamiroquai+-+Graetests+hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":2,"uploader":"horrgakx","files":14,"time":1261259791,"description":"01 Deeper Underground\n02 Virtual Insanity\n03 Cosmic Girl\n04 Alright\n05 High Times\n06 Space Cowboy\n07 Half The Man\n08 When You Gonna Learn\n09 To Young To Die\n10 Blow Your Mind\n11 Emergency On Planet Earth\n12 Everyday\n13 Do You Know Where You're Coming From\n14 Spend A Lifetime","torrent":{"xt":"urn:btih:3358d87fd6dff9b6d153bd507aaaec6a29800a19","amp;dn":"Best+of+-+Jamiroquai+-+Graetests+hits","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3358d87fd6dff9b6d153bd507aaaec6a29800a19","infoHashBuffer":{"type":"Buffer","data":[51,88,216,127,214,223,249,182,209,83,189,80,122,170,236,106,41,128,10,25]},"announce":[],"urlList":[]}}
+{
+  "title": "Best of - Jamiroquai - Graetests hits",
+  "uid": 5229307,
+  "size": 102380542,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3358d87fd6dff9b6d153bd507aaaec6a29800a19&amp;dn=Best+of+-+Jamiroquai+-+Graetests+hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 2,
+  "uploader": "horrgakx",
+  "files": 14,
+  "time": 1261259791,
+  "description": "01 Deeper Underground\n02 Virtual Insanity\n03 Cosmic Girl\n04 Alright\n05 High Times\n06 Space Cowboy\n07 Half The Man\n08 When You Gonna Learn\n09 To Young To Die\n10 Blow Your Mind\n11 Emergency On Planet Earth\n12 Everyday\n13 Do You Know Where You're Coming From\n14 Spend A Lifetime",
+  "parsed": {
+    "xt": "urn:btih:3358d87fd6dff9b6d153bd507aaaec6a29800a19",
+    "dn": "Best of - Jamiroquai - Graetests hits",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3358d87fd6dff9b6d153bd507aaaec6a29800a19",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        51,
+        88,
+        216,
+        127,
+        214,
+        223,
+        249,
+        182,
+        209,
+        83,
+        189,
+        80,
+        122,
+        170,
+        236,
+        106,
+        41,
+        128,
+        10,
+        25
+      ]
+    },
+    "name": "Best of - Jamiroquai - Graetests hits",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 51,
+  "last_updated": "2016-12-24T21:43:45.187Z"
+}

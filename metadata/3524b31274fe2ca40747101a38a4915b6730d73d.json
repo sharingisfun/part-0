@@ -1,1 +1,61 @@
-{"title":"Sleater Kinney - No Cities To Love (2015)","uid":11671881,"size":104467691,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3524b31274fe2ca40747101a38a4915b6730d73d&amp;dn=Sleater+Kinney+-+No+Cities+To+Love+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":149,"leechers":4,"uploader":"santicaz","files":11,"time":1422727252,"description":"Artist: Sleater-Kinney\nTitle: No Cities to Love\nYear: 2014\nGenre: Indie Rock/Punk (Female Vocal)\nOrigin: USA\nSize/Quality: 99.6 mb | Mp3, CBR 320 kbps\n\n\nTracklist:\n01. Price Tag\n02. Fangless\n03. Surface Envy\n04. No Cities to Love\n05. A New Wave\n06. No Anthems\n07. Gimme Love\n08. Bury Our Friends\n09. Hey Darling\n10. Fade","torrent":{"xt":"urn:btih:3524b31274fe2ca40747101a38a4915b6730d73d","amp;dn":"Sleater+Kinney+-+No+Cities+To+Love+%282015%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3524b31274fe2ca40747101a38a4915b6730d73d","infoHashBuffer":{"type":"Buffer","data":[53,36,179,18,116,254,44,164,7,71,16,26,56,164,145,91,103,48,215,61]},"announce":[],"urlList":[]}}
+{
+  "title": "Sleater Kinney - No Cities To Love (2015)",
+  "uid": 11671881,
+  "size": 104467691,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3524b31274fe2ca40747101a38a4915b6730d73d&amp;dn=Sleater+Kinney+-+No+Cities+To+Love+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 149,
+  "leechers": 4,
+  "uploader": "santicaz",
+  "files": 11,
+  "time": 1422727252,
+  "description": "Artist: Sleater-Kinney\nTitle: No Cities to Love\nYear: 2014\nGenre: Indie Rock/Punk (Female Vocal)\nOrigin: USA\nSize/Quality: 99.6 mb | Mp3, CBR 320 kbps\n\n\nTracklist:\n01. Price Tag\n02. Fangless\n03. Surface Envy\n04. No Cities to Love\n05. A New Wave\n06. No Anthems\n07. Gimme Love\n08. Bury Our Friends\n09. Hey Darling\n10. Fade",
+  "parsed": {
+    "xt": "urn:btih:3524b31274fe2ca40747101a38a4915b6730d73d",
+    "dn": "Sleater Kinney - No Cities To Love (2015)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3524b31274fe2ca40747101a38a4915b6730d73d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        53,
+        36,
+        179,
+        18,
+        116,
+        254,
+        44,
+        164,
+        7,
+        71,
+        16,
+        26,
+        56,
+        164,
+        145,
+        91,
+        103,
+        48,
+        215,
+        61
+      ]
+    },
+    "name": "Sleater Kinney - No Cities To Love (2015)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 153,
+  "peers": 33,
+  "last_updated": "2016-12-24T21:56:46.350Z"
+}

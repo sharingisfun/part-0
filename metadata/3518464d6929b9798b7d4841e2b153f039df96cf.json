@@ -1,1 +1,61 @@
-{"title":"The Strain S01E04 HDTV x264-ASAP","uid":10691589,"size":323413236,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3518464d6929b9798b7d4841e2b153f039df96cf&amp;dn=The+Strain+S01E04+HDTV+x264-ASAP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":4,"uploader":"beta2008x","files":1,"time":1407128777,"description":"The Strain\n\nEpisode: S01E04\nRelease Date: 2014-08-04\nRelease Size: 308.43Mb\nPlay Time: 42:44\nResolution: 720x404\nVideo Codec: h264\nVideo Bitrate: 877kbps\nAudio Bitrate.: 2ch, 126kbps","torrent":{"xt":"urn:btih:3518464d6929b9798b7d4841e2b153f039df96cf","amp;dn":"The+Strain+S01E04+HDTV+x264-ASAP","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3518464d6929b9798b7d4841e2b153f039df96cf","infoHashBuffer":{"type":"Buffer","data":[53,24,70,77,105,41,185,121,139,125,72,65,226,177,83,240,57,223,150,207]},"announce":[],"urlList":[]}}
+{
+  "title": "The Strain S01E04 HDTV x264-ASAP",
+  "uid": 10691589,
+  "size": 323413236,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3518464d6929b9798b7d4841e2b153f039df96cf&amp;dn=The+Strain+S01E04+HDTV+x264-ASAP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 4,
+  "uploader": "beta2008x",
+  "files": 1,
+  "time": 1407128777,
+  "description": "The Strain\n\nEpisode: S01E04\nRelease Date: 2014-08-04\nRelease Size: 308.43Mb\nPlay Time: 42:44\nResolution: 720x404\nVideo Codec: h264\nVideo Bitrate: 877kbps\nAudio Bitrate.: 2ch, 126kbps",
+  "parsed": {
+    "xt": "urn:btih:3518464d6929b9798b7d4841e2b153f039df96cf",
+    "dn": "The Strain S01E04 HDTV x264-ASAP",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3518464d6929b9798b7d4841e2b153f039df96cf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        53,
+        24,
+        70,
+        77,
+        105,
+        41,
+        185,
+        121,
+        139,
+        125,
+        72,
+        65,
+        226,
+        177,
+        83,
+        240,
+        57,
+        223,
+        150,
+        207
+      ]
+    },
+    "name": "The Strain S01E04 HDTV x264-ASAP",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 29,
+  "last_updated": "2016-12-24T21:56:32.307Z"
+}
