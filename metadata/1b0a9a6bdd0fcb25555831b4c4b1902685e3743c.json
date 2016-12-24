@@ -1,1 +1,61 @@
-{"title":"Pink Floyd - Louder Than Words (The Endless River) - HQ &amp; UN","uid":11188944,"size":12705874,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1b0a9a6bdd0fcb25555831b4c4b1902685e3743c&amp;dn=Pink+Floyd+-+Louder+Than+Words+%28The+Endless+River%29+-+HQ+%26amp%3B+UN&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":0,"uploader":"JoeGuitar","files":-1,"time":1412966373,"description":"The first full song released from Pink Floyd's &quot;The Endless River&quot; ","torrent":{"xt":"urn:btih:1b0a9a6bdd0fcb25555831b4c4b1902685e3743c","amp;dn":"Pink+Floyd+-+Louder+Than+Words+%28The+Endless+River%29+-+HQ+%26amp%3B+UN","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1b0a9a6bdd0fcb25555831b4c4b1902685e3743c","infoHashBuffer":{"type":"Buffer","data":[27,10,154,107,221,15,203,37,85,88,49,180,196,177,144,38,133,227,116,60]},"announce":[],"urlList":[]}}
+{
+  "title": "Pink Floyd - Louder Than Words (The Endless River) - HQ &amp; UN",
+  "uid": 11188944,
+  "size": 12705874,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1b0a9a6bdd0fcb25555831b4c4b1902685e3743c&amp;dn=Pink+Floyd+-+Louder+Than+Words+%28The+Endless+River%29+-+HQ+%26amp%3B+UN&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 0,
+  "uploader": "JoeGuitar",
+  "files": -1,
+  "time": 1412966373,
+  "description": "The first full song released from Pink Floyd's &quot;The Endless River&quot; ",
+  "parsed": {
+    "xt": "urn:btih:1b0a9a6bdd0fcb25555831b4c4b1902685e3743c",
+    "dn": "Pink Floyd - Louder Than Words (The Endless River) - HQ &amp; UN",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1b0a9a6bdd0fcb25555831b4c4b1902685e3743c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        27,
+        10,
+        154,
+        107,
+        221,
+        15,
+        203,
+        37,
+        85,
+        88,
+        49,
+        180,
+        196,
+        177,
+        144,
+        38,
+        133,
+        227,
+        116,
+        60
+      ]
+    },
+    "name": "Pink Floyd - Louder Than Words (The Endless River) - HQ &amp; UN",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 2,
+  "last_updated": "2016-12-24T18:42:53.409Z"
+}

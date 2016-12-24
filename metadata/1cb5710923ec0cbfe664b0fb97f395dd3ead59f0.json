@@ -1,1 +1,61 @@
-{"title":"Se Beber Nao Case 1","uid":7312946,"size":841009152,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:1cb5710923ec0cbfe664b0fb97f395dd3ead59f0&amp;dn=Se+Beber+Nao+Case+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":1,"uploader":"pcueta","files":1,"time":1338398728,"description":"Banca da Stronda","torrent":{"xt":"urn:btih:1cb5710923ec0cbfe664b0fb97f395dd3ead59f0","amp;dn":"Se+Beber+Nao+Case+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1cb5710923ec0cbfe664b0fb97f395dd3ead59f0","infoHashBuffer":{"type":"Buffer","data":[28,181,113,9,35,236,12,191,230,100,176,251,151,243,149,221,62,173,89,240]},"announce":[],"urlList":[]}}
+{
+  "title": "Se Beber Nao Case 1",
+  "uid": 7312946,
+  "size": 841009152,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:1cb5710923ec0cbfe664b0fb97f395dd3ead59f0&amp;dn=Se+Beber+Nao+Case+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 1,
+  "uploader": "pcueta",
+  "files": 1,
+  "time": 1338398728,
+  "description": "Banca da Stronda",
+  "parsed": {
+    "xt": "urn:btih:1cb5710923ec0cbfe664b0fb97f395dd3ead59f0",
+    "dn": "Se Beber Nao Case 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1cb5710923ec0cbfe664b0fb97f395dd3ead59f0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        28,
+        181,
+        113,
+        9,
+        35,
+        236,
+        12,
+        191,
+        230,
+        100,
+        176,
+        251,
+        151,
+        243,
+        149,
+        221,
+        62,
+        173,
+        89,
+        240
+      ]
+    },
+    "name": "Se Beber Nao Case 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 3,
+  "last_updated": "2016-12-24T18:54:50.000Z"
+}

@@ -1,1 +1,61 @@
-{"title":"[PUNCH] Saint Seiya Soul of Gold - 12 (720p) [rich_jc].mkv","uid":12400097,"size":349966553,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:1aa3b6d9dc8de30045a94b6c38a001ec8a41ad37&amp;dn=%5BPUNCH%5D+Saint+Seiya+Soul+of+Gold+-+12+%28720p%29+%5Brich_jc%5D.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":89,"leechers":10,"uploader":"rich_jc","files":1,"time":1442011716,"description":"Legenda PT-BR Softsub","torrent":{"xt":"urn:btih:1aa3b6d9dc8de30045a94b6c38a001ec8a41ad37","amp;dn":"%5BPUNCH%5D+Saint+Seiya+Soul+of+Gold+-+12+%28720p%29+%5Brich_jc%5D.mkv","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1aa3b6d9dc8de30045a94b6c38a001ec8a41ad37","infoHashBuffer":{"type":"Buffer","data":[26,163,182,217,220,141,227,0,69,169,75,108,56,160,1,236,138,65,173,55]},"announce":[],"urlList":[]}}
+{
+  "title": "[PUNCH] Saint Seiya Soul of Gold - 12 (720p) [rich_jc].mkv",
+  "uid": 12400097,
+  "size": 349966553,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:1aa3b6d9dc8de30045a94b6c38a001ec8a41ad37&amp;dn=%5BPUNCH%5D+Saint+Seiya+Soul+of+Gold+-+12+%28720p%29+%5Brich_jc%5D.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 89,
+  "leechers": 10,
+  "uploader": "rich_jc",
+  "files": 1,
+  "time": 1442011716,
+  "description": "Legenda PT-BR Softsub",
+  "parsed": {
+    "xt": "urn:btih:1aa3b6d9dc8de30045a94b6c38a001ec8a41ad37",
+    "dn": "[PUNCH] Saint Seiya Soul of Gold - 12 (720p) [rich_jc].mkv",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1aa3b6d9dc8de30045a94b6c38a001ec8a41ad37",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        26,
+        163,
+        182,
+        217,
+        220,
+        141,
+        227,
+        0,
+        69,
+        169,
+        75,
+        108,
+        56,
+        160,
+        1,
+        236,
+        138,
+        65,
+        173,
+        55
+      ]
+    },
+    "name": "[PUNCH] Saint Seiya Soul of Gold - 12 (720p) [rich_jc].mkv",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 99,
+  "peers": 12,
+  "last_updated": "2016-12-24T18:40:04.831Z"
+}

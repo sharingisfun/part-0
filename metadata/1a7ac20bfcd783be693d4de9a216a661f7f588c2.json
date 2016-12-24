@@ -1,1 +1,61 @@
-{"title":"Big Hero 6 Soundtrack (2014) [AAC, 256 kbps VBR]","uid":11431294,"size":120633214,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:1a7ac20bfcd783be693d4de9a216a661f7f588c2&amp;dn=Big+Hero+6+Soundtrack+%282014%29+%5BAAC%2C+256+kbps+VBR%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":4,"uploader":"lonelyb0y","files":-1,"time":1415726947,"description":"Genre: Score by Henry Jackman\nYear: 2014\nCodec: AAC\nType: Tracks\nBitrate: 256 kbps VBR\nDuration: 00:54:06\n\n01 - Immortals (performed by Fall Out Boy)\n02 - Hiro Hamada\n03 - Nerd School\n04 - Microbots\n05 - Tadashi\n06 - Inflatable Friend\n07 - Huggable Detective\n08 - The Masked Man\n09 - One of the Family\n10 - Upgrades\n11 - The Streets of San Fransokyo\n12 - To the Manor Born\n13 - So Much More\n14 - First Flight\n15 - Silent Sparrow\n16 - Family Reunion\n17 - Big Hero 6\n18 - I am Satisfied with My Care\n19 - Signs of Life\n20 - Reboot","torrent":{"xt":"urn:btih:1a7ac20bfcd783be693d4de9a216a661f7f588c2","amp;dn":"Big+Hero+6+Soundtrack+%282014%29+%5BAAC%2C+256+kbps+VBR%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1a7ac20bfcd783be693d4de9a216a661f7f588c2","infoHashBuffer":{"type":"Buffer","data":[26,122,194,11,252,215,131,190,105,61,77,233,162,22,166,97,247,245,136,194]},"announce":[],"urlList":[]}}
+{
+  "title": "Big Hero 6 Soundtrack (2014) [AAC, 256 kbps VBR]",
+  "uid": 11431294,
+  "size": 120633214,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:1a7ac20bfcd783be693d4de9a216a661f7f588c2&amp;dn=Big+Hero+6+Soundtrack+%282014%29+%5BAAC%2C+256+kbps+VBR%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 4,
+  "uploader": "lonelyb0y",
+  "files": -1,
+  "time": 1415726947,
+  "description": "Genre: Score by Henry Jackman\nYear: 2014\nCodec: AAC\nType: Tracks\nBitrate: 256 kbps VBR\nDuration: 00:54:06\n\n01 - Immortals (performed by Fall Out Boy)\n02 - Hiro Hamada\n03 - Nerd School\n04 - Microbots\n05 - Tadashi\n06 - Inflatable Friend\n07 - Huggable Detective\n08 - The Masked Man\n09 - One of the Family\n10 - Upgrades\n11 - The Streets of San Fransokyo\n12 - To the Manor Born\n13 - So Much More\n14 - First Flight\n15 - Silent Sparrow\n16 - Family Reunion\n17 - Big Hero 6\n18 - I am Satisfied with My Care\n19 - Signs of Life\n20 - Reboot",
+  "parsed": {
+    "xt": "urn:btih:1a7ac20bfcd783be693d4de9a216a661f7f588c2",
+    "dn": "Big Hero 6 Soundtrack (2014) [AAC, 256 kbps VBR]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1a7ac20bfcd783be693d4de9a216a661f7f588c2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        26,
+        122,
+        194,
+        11,
+        252,
+        215,
+        131,
+        190,
+        105,
+        61,
+        77,
+        233,
+        162,
+        22,
+        166,
+        97,
+        247,
+        245,
+        136,
+        194
+      ]
+    },
+    "name": "Big Hero 6 Soundtrack (2014) [AAC, 256 kbps VBR]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 75,
+  "peers": 2,
+  "last_updated": "2016-12-24T18:38:42.488Z"
+}

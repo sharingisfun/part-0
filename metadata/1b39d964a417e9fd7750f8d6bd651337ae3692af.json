@@ -1,1 +1,63 @@
-{"title":"Selena Gomez-Kill Em With Kindness.mp3","uid":14675388,"size":3496288,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1b39d964a417e9fd7750f8d6bd651337ae3692af&amp;dn=Selena+Gomez-Kill+Em+With+Kindness.mp3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":154,"leechers":0,"uploader":"mark4705","files":1,"time":1463941905,"description":"Selena Gomez-Kill Em With Kindness","torrent":{"xt":"urn:btih:1b39d964a417e9fd7750f8d6bd651337ae3692af","amp;dn":"Selena+Gomez-Kill+Em+With+Kindness.mp3","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1b39d964a417e9fd7750f8d6bd651337ae3692af","infoHashBuffer":{"type":"Buffer","data":[27,57,217,100,164,23,233,253,119,80,248,214,189,101,19,55,174,54,146,175]},"announce":[],"urlList":[]}}
+{
+  "title": "Selena Gomez-Kill Em With Kindness.mp3",
+  "uid": 14675388,
+  "size": 3496288,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1b39d964a417e9fd7750f8d6bd651337ae3692af&amp;dn=Selena+Gomez-Kill+Em+With+Kindness.mp3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 154,
+  "leechers": 0,
+  "uploader": "mark4705",
+  "files": 1,
+  "time": 1463941905,
+  "description": "Selena Gomez-Kill Em With Kindness",
+  "parsed": {
+    "xt": "urn:btih:1b39d964a417e9fd7750f8d6bd651337ae3692af",
+    "dn": "Selena Gomez-Kill Em With Kindness.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1b39d964a417e9fd7750f8d6bd651337ae3692af",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        27,
+        57,
+        217,
+        100,
+        164,
+        23,
+        233,
+        253,
+        119,
+        80,
+        248,
+        214,
+        189,
+        101,
+        19,
+        55,
+        174,
+        54,
+        146,
+        175
+      ]
+    },
+    "name": "Selena Gomez-Kill Em With Kindness.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 154,
+  "peers": 100,
+  "last_updated": "2016-12-24T18:44:21.678Z"
+}

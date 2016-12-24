@@ -1,1 +1,63 @@
-{"title":"Shawn Mendes - Illuminate Deluxe Album 2016 MP3 320 kbps","uid":15883985,"size":130043304,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1bd905444bae1f0d50bc050bca59e70c4724540f&amp;dn=Shawn+Mendes+-+Illuminate+Deluxe+Album+2016+MP3+320+kbps&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":6,"uploader":"NikiPink","files":16,"time":1474634417,"description":"Album\r\n\r\nMP3 320 kbps\r\n\r\nGenre: Pop\r\n\r\nRelease Date: September 2016","torrent":{"xt":"urn:btih:1bd905444bae1f0d50bc050bca59e70c4724540f","amp;dn":"Shawn+Mendes+-+Illuminate+Deluxe+Album+2016+MP3+320+kbps","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1bd905444bae1f0d50bc050bca59e70c4724540f","infoHashBuffer":{"type":"Buffer","data":[27,217,5,68,75,174,31,13,80,188,5,11,202,89,231,12,71,36,84,15]},"announce":[],"urlList":[]}}
+{
+  "title": "Shawn Mendes - Illuminate Deluxe Album 2016 MP3 320 kbps",
+  "uid": 15883985,
+  "size": 130043304,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1bd905444bae1f0d50bc050bca59e70c4724540f&amp;dn=Shawn+Mendes+-+Illuminate+Deluxe+Album+2016+MP3+320+kbps&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 6,
+  "uploader": "NikiPink",
+  "files": 16,
+  "time": 1474634417,
+  "description": "Album\r\n\r\nMP3 320 kbps\r\n\r\nGenre: Pop\r\n\r\nRelease Date: September 2016",
+  "parsed": {
+    "xt": "urn:btih:1bd905444bae1f0d50bc050bca59e70c4724540f",
+    "dn": "Shawn Mendes - Illuminate Deluxe Album 2016 MP3 320 kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1bd905444bae1f0d50bc050bca59e70c4724540f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        27,
+        217,
+        5,
+        68,
+        75,
+        174,
+        31,
+        13,
+        80,
+        188,
+        5,
+        11,
+        202,
+        89,
+        231,
+        12,
+        71,
+        36,
+        84,
+        15
+      ]
+    },
+    "name": "Shawn Mendes - Illuminate Deluxe Album 2016 MP3 320 kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 85,
+  "peers": 118,
+  "last_updated": "2016-12-24T18:48:48.738Z"
+}

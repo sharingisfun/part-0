@@ -1,1 +1,61 @@
-{"title":"Autodata 3.18 (Full Version)","uid":4812709,"size":969767048,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:1a73c50e0a13172bb0addb5154415dcfbf2d8500&amp;dn=Autodata+3.18+%28Full+Version%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":0,"uploader":"pranuko","files":2,"time":1238436055,"description":"Autodata 3.18 (Full Version)\n\nLicense integrated, so:\n1. Download\n2. Mount .iso\n3. Install Autodata*\n4. Launch Autodata\n5. Enjoy\n\n* - I manually executed Autorun.exe with administrator privileges on my WinVista, but I believe other ways (Inst.exe, Install.exe) should work smoothly as well.","torrent":{"xt":"urn:btih:1a73c50e0a13172bb0addb5154415dcfbf2d8500","amp;dn":"Autodata+3.18+%28Full+Version%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1a73c50e0a13172bb0addb5154415dcfbf2d8500","infoHashBuffer":{"type":"Buffer","data":[26,115,197,14,10,19,23,43,176,173,219,81,84,65,93,207,191,45,133,0]},"announce":[],"urlList":[]}}
+{
+  "title": "Autodata 3.18 (Full Version)",
+  "uid": 4812709,
+  "size": 969767048,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:1a73c50e0a13172bb0addb5154415dcfbf2d8500&amp;dn=Autodata+3.18+%28Full+Version%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 0,
+  "uploader": "pranuko",
+  "files": 2,
+  "time": 1238436055,
+  "description": "Autodata 3.18 (Full Version)\n\nLicense integrated, so:\n1. Download\n2. Mount .iso\n3. Install Autodata*\n4. Launch Autodata\n5. Enjoy\n\n* - I manually executed Autorun.exe with administrator privileges on my WinVista, but I believe other ways (Inst.exe, Install.exe) should work smoothly as well.",
+  "parsed": {
+    "xt": "urn:btih:1a73c50e0a13172bb0addb5154415dcfbf2d8500",
+    "dn": "Autodata 3.18 (Full Version)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1a73c50e0a13172bb0addb5154415dcfbf2d8500",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        26,
+        115,
+        197,
+        14,
+        10,
+        19,
+        23,
+        43,
+        176,
+        173,
+        219,
+        81,
+        84,
+        65,
+        93,
+        207,
+        191,
+        45,
+        133,
+        0
+      ]
+    },
+    "name": "Autodata 3.18 (Full Version)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 194,
+  "last_updated": "2016-12-24T18:38:24.421Z"
+}

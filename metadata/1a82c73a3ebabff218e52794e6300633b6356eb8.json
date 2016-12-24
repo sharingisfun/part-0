@@ -1,1 +1,61 @@
-{"title":"[HayaiSubs] Dragon Ball Super - 010 (1080p) [rich_jc].mkv","uid":12452789,"size":727852169,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:1a82c73a3ebabff218e52794e6300633b6356eb8&amp;dn=%5BHayaiSubs%5D+Dragon+Ball+Super+-+010+%281080p%29+%5Brich_jc%5D.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":14,"uploader":"rich_jc","files":1,"time":1442708094,"description":"Legenda PT-BR Softsub","torrent":{"xt":"urn:btih:1a82c73a3ebabff218e52794e6300633b6356eb8","amp;dn":"%5BHayaiSubs%5D+Dragon+Ball+Super+-+010+%281080p%29+%5Brich_jc%5D.mkv","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1a82c73a3ebabff218e52794e6300633b6356eb8","infoHashBuffer":{"type":"Buffer","data":[26,130,199,58,62,186,191,242,24,229,39,148,230,48,6,51,182,53,110,184]},"announce":[],"urlList":[]}}
+{
+  "title": "[HayaiSubs] Dragon Ball Super - 010 (1080p) [rich_jc].mkv",
+  "uid": 12452789,
+  "size": 727852169,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:1a82c73a3ebabff218e52794e6300633b6356eb8&amp;dn=%5BHayaiSubs%5D+Dragon+Ball+Super+-+010+%281080p%29+%5Brich_jc%5D.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 14,
+  "uploader": "rich_jc",
+  "files": 1,
+  "time": 1442708094,
+  "description": "Legenda PT-BR Softsub",
+  "parsed": {
+    "xt": "urn:btih:1a82c73a3ebabff218e52794e6300633b6356eb8",
+    "dn": "[HayaiSubs] Dragon Ball Super - 010 (1080p) [rich_jc].mkv",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1a82c73a3ebabff218e52794e6300633b6356eb8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        26,
+        130,
+        199,
+        58,
+        62,
+        186,
+        191,
+        242,
+        24,
+        229,
+        39,
+        148,
+        230,
+        48,
+        6,
+        51,
+        182,
+        53,
+        110,
+        184
+      ]
+    },
+    "name": "[HayaiSubs] Dragon Ball Super - 010 (1080p) [rich_jc].mkv",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 78,
+  "peers": 35,
+  "last_updated": "2016-12-24T18:39:00.550Z"
+}

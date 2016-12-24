@@ -1,1 +1,61 @@
-{"title":"John Legend - All Of Me (Bassanova Remix)","uid":9551678,"size":12520774,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1b78a4a23b3e67691ac36d16d09018db374ece8c&amp;dn=John+Legend+-+All+Of+Me+%28Bassanova+Remix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":0,"uploader":"yeahsx","files":-1,"time":1391278580,"description":"Label: White Label\nArtist: John Legend\nAudio Bit Rate: 320 Kbps\nDuration: 05:12 min\nBPM: 128\nGenre: Electro House\nCover: Yes\nFormat/Codec: .mp3","torrent":{"xt":"urn:btih:1b78a4a23b3e67691ac36d16d09018db374ece8c","amp;dn":"John+Legend+-+All+Of+Me+%28Bassanova+Remix%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1b78a4a23b3e67691ac36d16d09018db374ece8c","infoHashBuffer":{"type":"Buffer","data":[27,120,164,162,59,62,103,105,26,195,109,22,208,144,24,219,55,78,206,140]},"announce":[],"urlList":[]}}
+{
+  "title": "John Legend - All Of Me (Bassanova Remix)",
+  "uid": 9551678,
+  "size": 12520774,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1b78a4a23b3e67691ac36d16d09018db374ece8c&amp;dn=John+Legend+-+All+Of+Me+%28Bassanova+Remix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 0,
+  "uploader": "yeahsx",
+  "files": -1,
+  "time": 1391278580,
+  "description": "Label: White Label\nArtist: John Legend\nAudio Bit Rate: 320 Kbps\nDuration: 05:12 min\nBPM: 128\nGenre: Electro House\nCover: Yes\nFormat/Codec: .mp3",
+  "parsed": {
+    "xt": "urn:btih:1b78a4a23b3e67691ac36d16d09018db374ece8c",
+    "dn": "John Legend - All Of Me (Bassanova Remix)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1b78a4a23b3e67691ac36d16d09018db374ece8c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        27,
+        120,
+        164,
+        162,
+        59,
+        62,
+        103,
+        105,
+        26,
+        195,
+        109,
+        22,
+        208,
+        144,
+        24,
+        219,
+        55,
+        78,
+        206,
+        140
+      ]
+    },
+    "name": "John Legend - All Of Me (Bassanova Remix)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 8,
+  "last_updated": "2016-12-24T18:46:06.036Z"
+}

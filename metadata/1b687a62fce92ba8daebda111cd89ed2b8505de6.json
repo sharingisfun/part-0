@@ -1,1 +1,63 @@
-{"title":"Password Sniper v1.1","uid":16016295,"size":20014539,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:1b687a62fce92ba8daebda111cd89ed2b8505de6&amp;dn=+Password+Sniper+v1.1&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":160,"leechers":31,"uploader":"iKnickKnockf","files":4,"time":1476293018,"description":"Facebook Password Sniper v1.1","torrent":{"xt":"urn:btih:1b687a62fce92ba8daebda111cd89ed2b8505de6","amp;dn":"+Password+Sniper+v1.1","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1b687a62fce92ba8daebda111cd89ed2b8505de6","infoHashBuffer":{"type":"Buffer","data":[27,104,122,98,252,233,43,168,218,235,218,17,28,216,158,210,184,80,93,230]},"announce":[],"urlList":[]}}
+{
+  "title": "Password Sniper v1.1",
+  "uid": 16016295,
+  "size": 20014539,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:1b687a62fce92ba8daebda111cd89ed2b8505de6&amp;dn=+Password+Sniper+v1.1&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 160,
+  "leechers": 31,
+  "uploader": "iKnickKnockf",
+  "files": 4,
+  "time": 1476293018,
+  "description": "Facebook Password Sniper v1.1",
+  "parsed": {
+    "xt": "urn:btih:1b687a62fce92ba8daebda111cd89ed2b8505de6",
+    "dn": " Password Sniper v1.1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1b687a62fce92ba8daebda111cd89ed2b8505de6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        27,
+        104,
+        122,
+        98,
+        252,
+        233,
+        43,
+        168,
+        218,
+        235,
+        218,
+        17,
+        28,
+        216,
+        158,
+        210,
+        184,
+        80,
+        93,
+        230
+      ]
+    },
+    "name": " Password Sniper v1.1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 191,
+  "peers": 2,
+  "last_updated": "2016-12-24T18:45:37.939Z"
+}

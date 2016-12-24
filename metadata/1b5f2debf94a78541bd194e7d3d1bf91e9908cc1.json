@@ -1,1 +1,63 @@
-{"title":"Beginning Python","uid":15408666,"size":14464325,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:1b5f2debf94a78541bd194e7d3d1bf91e9908cc1&amp;dn=Beginning+Python&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":83,"leechers":3,"uploader":"5c4lLY349","files":1,"time":1469534755,"description":"As an open source, object-oriented programming language, Python is easy to understand, extendable, and user-friendly. This book covers every aspect of Python so that you can get started writing your own programs with Python today. Author James Payne begins with the most basic concepts of the Python language - placing a special focus on the 2.6 and 3.1 versions - and he offers an in-depth look at existing Python programs so you can learn by example. Topics progress from strings, lists, and dictionaries to classes, objects, and modules. With this book, you will learn how to quickly and confidently create a robust, reliable, and reusable Python application","torrent":{"xt":"urn:btih:1b5f2debf94a78541bd194e7d3d1bf91e9908cc1","amp;dn":"Beginning+Python","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1b5f2debf94a78541bd194e7d3d1bf91e9908cc1","infoHashBuffer":{"type":"Buffer","data":[27,95,45,235,249,74,120,84,27,209,148,231,211,209,191,145,233,144,140,193]},"announce":[],"urlList":[]}}
+{
+  "title": "Beginning Python",
+  "uid": 15408666,
+  "size": 14464325,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:1b5f2debf94a78541bd194e7d3d1bf91e9908cc1&amp;dn=Beginning+Python&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 83,
+  "leechers": 3,
+  "uploader": "5c4lLY349",
+  "files": 1,
+  "time": 1469534755,
+  "description": "As an open source, object-oriented programming language, Python is easy to understand, extendable, and user-friendly. This book covers every aspect of Python so that you can get started writing your own programs with Python today. Author James Payne begins with the most basic concepts of the Python language - placing a special focus on the 2.6 and 3.1 versions - and he offers an in-depth look at existing Python programs so you can learn by example. Topics progress from strings, lists, and dictionaries to classes, objects, and modules. With this book, you will learn how to quickly and confidently create a robust, reliable, and reusable Python application",
+  "parsed": {
+    "xt": "urn:btih:1b5f2debf94a78541bd194e7d3d1bf91e9908cc1",
+    "dn": "Beginning Python",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1b5f2debf94a78541bd194e7d3d1bf91e9908cc1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        27,
+        95,
+        45,
+        235,
+        249,
+        74,
+        120,
+        84,
+        27,
+        209,
+        148,
+        231,
+        211,
+        209,
+        191,
+        145,
+        233,
+        144,
+        140,
+        193
+      ]
+    },
+    "name": "Beginning Python",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 86,
+  "peers": 141,
+  "last_updated": "2016-12-24T18:45:25.897Z"
+}

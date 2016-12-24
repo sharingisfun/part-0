@@ -1,1 +1,63 @@
-{"title":"Mr Pickles Season 2 (1080p.Vorb.5.1.x265)","uid":15364814,"size":1883264427,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:1c68c891be0d7834fb199f96e500d29c88739f74&amp;dn=Mr+Pickles+Season+2+%281080p.Vorb.5.1.x265%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":6,"uploader":"NOON3","files":10,"time":1469057888,"description":"Full Season 2 of Mr Pickles\r\n\r\nTechnical details:\r\nVideo: HEVC (x265) @ 2048kbps 1920x1080\r\nAudio: Ogg Vorbis 5.1 @ 192kbps\r\nSubtitles: English\r\n\r\nSource: 1080p 5.1 WEB-DL\r\n\r\nEnjoy","torrent":{"xt":"urn:btih:1c68c891be0d7834fb199f96e500d29c88739f74","amp;dn":"Mr+Pickles+Season+2+%281080p.Vorb.5.1.x265%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1c68c891be0d7834fb199f96e500d29c88739f74","infoHashBuffer":{"type":"Buffer","data":[28,104,200,145,190,13,120,52,251,25,159,150,229,0,210,156,136,115,159,116]},"announce":[],"urlList":[]}}
+{
+  "title": "Mr Pickles Season 2 (1080p.Vorb.5.1.x265)",
+  "uid": 15364814,
+  "size": 1883264427,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:1c68c891be0d7834fb199f96e500d29c88739f74&amp;dn=Mr+Pickles+Season+2+%281080p.Vorb.5.1.x265%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 6,
+  "uploader": "NOON3",
+  "files": 10,
+  "time": 1469057888,
+  "description": "Full Season 2 of Mr Pickles\r\n\r\nTechnical details:\r\nVideo: HEVC (x265) @ 2048kbps 1920x1080\r\nAudio: Ogg Vorbis 5.1 @ 192kbps\r\nSubtitles: English\r\n\r\nSource: 1080p 5.1 WEB-DL\r\n\r\nEnjoy",
+  "parsed": {
+    "xt": "urn:btih:1c68c891be0d7834fb199f96e500d29c88739f74",
+    "dn": "Mr Pickles Season 2 (1080p.Vorb.5.1.x265)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1c68c891be0d7834fb199f96e500d29c88739f74",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        28,
+        104,
+        200,
+        145,
+        190,
+        13,
+        120,
+        52,
+        251,
+        25,
+        159,
+        150,
+        229,
+        0,
+        210,
+        156,
+        136,
+        115,
+        159,
+        116
+      ]
+    },
+    "name": "Mr Pickles Season 2 (1080p.Vorb.5.1.x265)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 61,
+  "last_updated": "2016-12-24T18:52:27.526Z"
+}

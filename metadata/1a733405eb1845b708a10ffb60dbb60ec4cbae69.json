@@ -1,1 +1,61 @@
-{"title":"Nero 8 PT-BR Completo","uid":8141211,"size":291002346,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:1a733405eb1845b708a10ffb60dbb60ec4cbae69&amp;dn=Nero+8+PT-BR+Completo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":1,"uploader":"kakauk2","files":5,"time":1360815033,"description":"Nero 8 completo PT-BR By kakau k2\n\nkakau k2 downloads\n\nFacil de estalae execute o setup e estale quando pedir\no serial vocÃƒÂª colocae e pronto.\n\n","torrent":{"xt":"urn:btih:1a733405eb1845b708a10ffb60dbb60ec4cbae69","amp;dn":"Nero+8+PT-BR+Completo","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1a733405eb1845b708a10ffb60dbb60ec4cbae69","infoHashBuffer":{"type":"Buffer","data":[26,115,52,5,235,24,69,183,8,161,15,251,96,219,182,14,196,203,174,105]},"announce":[],"urlList":[]}}
+{
+  "title": "Nero 8 PT-BR Completo",
+  "uid": 8141211,
+  "size": 291002346,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:1a733405eb1845b708a10ffb60dbb60ec4cbae69&amp;dn=Nero+8+PT-BR+Completo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 1,
+  "uploader": "kakauk2",
+  "files": 5,
+  "time": 1360815033,
+  "description": "Nero 8 completo PT-BR By kakau k2\n\nkakau k2 downloads\n\nFacil de estalae execute o setup e estale quando pedir\no serial vocÃƒÂª colocae e pronto.\n\n",
+  "parsed": {
+    "xt": "urn:btih:1a733405eb1845b708a10ffb60dbb60ec4cbae69",
+    "dn": "Nero 8 PT-BR Completo",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1a733405eb1845b708a10ffb60dbb60ec4cbae69",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        26,
+        115,
+        52,
+        5,
+        235,
+        24,
+        69,
+        183,
+        8,
+        161,
+        15,
+        251,
+        96,
+        219,
+        182,
+        14,
+        196,
+        203,
+        174,
+        105
+      ]
+    },
+    "name": "Nero 8 PT-BR Completo",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 91,
+  "last_updated": "2016-12-24T18:38:22.417Z"
+}

@@ -1,1 +1,61 @@
-{"title":"ASAP Rocky - Fucking Problem - Drake Kendrick Lamar 2Chainz","uid":7948991,"size":7680925,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1ca2631aa46ebff52120b5113573098c7b880bfb&amp;dn=ASAP+Rocky+-+Fucking+Problem+-+Drake+Kendrick+Lamar+2Chainz&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":2,"uploader":"xXaAr0nXx","files":-1,"time":1356206450,"description":"ASAP Rocky - Fucking Problem - Drake Kendrick Lamar 2Chainz","torrent":{"xt":"urn:btih:1ca2631aa46ebff52120b5113573098c7b880bfb","amp;dn":"ASAP+Rocky+-+Fucking+Problem+-+Drake+Kendrick+Lamar+2Chainz","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1ca2631aa46ebff52120b5113573098c7b880bfb","infoHashBuffer":{"type":"Buffer","data":[28,162,99,26,164,110,191,245,33,32,181,17,53,115,9,140,123,136,11,251]},"announce":[],"urlList":[]}}
+{
+  "title": "ASAP Rocky - Fucking Problem - Drake Kendrick Lamar 2Chainz",
+  "uid": 7948991,
+  "size": 7680925,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1ca2631aa46ebff52120b5113573098c7b880bfb&amp;dn=ASAP+Rocky+-+Fucking+Problem+-+Drake+Kendrick+Lamar+2Chainz&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 2,
+  "uploader": "xXaAr0nXx",
+  "files": -1,
+  "time": 1356206450,
+  "description": "ASAP Rocky - Fucking Problem - Drake Kendrick Lamar 2Chainz",
+  "parsed": {
+    "xt": "urn:btih:1ca2631aa46ebff52120b5113573098c7b880bfb",
+    "dn": "ASAP Rocky - Fucking Problem - Drake Kendrick Lamar 2Chainz",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1ca2631aa46ebff52120b5113573098c7b880bfb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        28,
+        162,
+        99,
+        26,
+        164,
+        110,
+        191,
+        245,
+        33,
+        32,
+        181,
+        17,
+        53,
+        115,
+        9,
+        140,
+        123,
+        136,
+        11,
+        251
+      ]
+    },
+    "name": "ASAP Rocky - Fucking Problem - Drake Kendrick Lamar 2Chainz",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 16,
+  "last_updated": "2016-12-24T18:53:55.820Z"
+}

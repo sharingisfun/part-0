@@ -1,1 +1,61 @@
-{"title":"3538 NES ROMs + The Emulator","uid":3382513,"size":732223488,"categoryP":"games","categoryS":"other","magnet":"?xt=urn:btih:1baf19e20225e3715ad60ea677b05b4c657ce262&amp;dn=3538+NES+ROMs+%2B+The+Emulator&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":1,"uploader":"dyluck","files":1,"time":1126571199,"description":"This ROM Pack image includes all the Nintendo Entertainment System ROM known available other then the Japanese, French and German versions.","torrent":{"xt":"urn:btih:1baf19e20225e3715ad60ea677b05b4c657ce262","amp;dn":"3538+NES+ROMs+%2B+The+Emulator","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1baf19e20225e3715ad60ea677b05b4c657ce262","infoHashBuffer":{"type":"Buffer","data":[27,175,25,226,2,37,227,113,90,214,14,166,119,176,91,76,101,124,226,98]},"announce":[],"urlList":[]}}
+{
+  "title": "3538 NES ROMs + The Emulator",
+  "uid": 3382513,
+  "size": 732223488,
+  "categoryP": "games",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:1baf19e20225e3715ad60ea677b05b4c657ce262&amp;dn=3538+NES+ROMs+%2B+The+Emulator&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 1,
+  "uploader": "dyluck",
+  "files": 1,
+  "time": 1126571199,
+  "description": "This ROM Pack image includes all the Nintendo Entertainment System ROM known available other then the Japanese, French and German versions.",
+  "parsed": {
+    "xt": "urn:btih:1baf19e20225e3715ad60ea677b05b4c657ce262",
+    "dn": "3538 NES ROMs   The Emulator",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1baf19e20225e3715ad60ea677b05b4c657ce262",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        27,
+        175,
+        25,
+        226,
+        2,
+        37,
+        227,
+        113,
+        90,
+        214,
+        14,
+        166,
+        119,
+        176,
+        91,
+        76,
+        101,
+        124,
+        226,
+        98
+      ]
+    },
+    "name": "3538 NES ROMs   The Emulator",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 50,
+  "last_updated": "2016-12-24T18:47:34.413Z"
+}
