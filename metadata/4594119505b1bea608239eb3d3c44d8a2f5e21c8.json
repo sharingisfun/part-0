@@ -1,1 +1,61 @@
-{"title":"Fifty Shades of Grey Audiobook","uid":7428782,"size":958260494,"categoryP":"audio","categoryS":"audio_books","magnet":"?xt=urn:btih:4594119505b1bea608239eb3d3c44d8a2f5e21c8&amp;dn=Fifty+Shades+of+Grey+Audiobook&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":0,"uploader":"aoeplaya","files":3,"time":1341881541,"description":"Uploaded files:\n\nFifty Shades Trilogy - Fifty Shades of Grey (Part 1).m4b    -05:51:48\nFifty Shades Trilogy - Fifty Shades of Grey (Part 2).m4b    -07:01:58\nFifty Shades Trilogy - Fifty Shades of Grey (Part 3).m4b    -06:55:19\n\nNotice that these audio books are in .m4b format! If you cannot play them, try using iTunes, an iDevice, or download a m4b converter. Enjoy and please seed!\t","torrent":{"xt":"urn:btih:4594119505b1bea608239eb3d3c44d8a2f5e21c8","amp;dn":"Fifty+Shades+of+Grey+Audiobook","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4594119505b1bea608239eb3d3c44d8a2f5e21c8","infoHashBuffer":{"type":"Buffer","data":[69,148,17,149,5,177,190,166,8,35,158,179,211,196,77,138,47,94,33,200]},"announce":[],"urlList":[]}}
+{
+  "title": "Fifty Shades of Grey Audiobook",
+  "uid": 7428782,
+  "size": 958260494,
+  "categoryP": "audio",
+  "categoryS": "audio_books",
+  "magnet": "?xt=urn:btih:4594119505b1bea608239eb3d3c44d8a2f5e21c8&amp;dn=Fifty+Shades+of+Grey+Audiobook&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 0,
+  "uploader": "aoeplaya",
+  "files": 3,
+  "time": 1341881541,
+  "description": "Uploaded files:\n\nFifty Shades Trilogy - Fifty Shades of Grey (Part 1).m4b    -05:51:48\nFifty Shades Trilogy - Fifty Shades of Grey (Part 2).m4b    -07:01:58\nFifty Shades Trilogy - Fifty Shades of Grey (Part 3).m4b    -06:55:19\n\nNotice that these audio books are in .m4b format! If you cannot play them, try using iTunes, an iDevice, or download a m4b converter. Enjoy and please seed!\t",
+  "parsed": {
+    "xt": "urn:btih:4594119505b1bea608239eb3d3c44d8a2f5e21c8",
+    "dn": "Fifty Shades of Grey Audiobook",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4594119505b1bea608239eb3d3c44d8a2f5e21c8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        69,
+        148,
+        17,
+        149,
+        5,
+        177,
+        190,
+        166,
+        8,
+        35,
+        158,
+        179,
+        211,
+        196,
+        77,
+        138,
+        47,
+        94,
+        33,
+        200
+      ]
+    },
+    "name": "Fifty Shades of Grey Audiobook",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 22,
+  "last_updated": "2016-12-24T23:43:37.869Z"
+}

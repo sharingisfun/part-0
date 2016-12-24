@@ -1,1 +1,61 @@
-{"title":"Constantine.S01E11.HDTV.x264-LOL[ettv]","uid":11671429,"size":235474135,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:45d80e8786d076c14e61c8478b5b1f3490afa40d&amp;dn=Constantine.S01E11.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":245,"leechers":13,"uploader":"ettv","files":3,"time":1422722288,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:45d80e8786d076c14e61c8478b5b1f3490afa40d","amp;dn":"Constantine.S01E11.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"45d80e8786d076c14e61c8478b5b1f3490afa40d","infoHashBuffer":{"type":"Buffer","data":[69,216,14,135,134,208,118,193,78,97,200,71,139,91,31,52,144,175,164,13]},"announce":[],"urlList":[]}}
+{
+  "title": "Constantine.S01E11.HDTV.x264-LOL[ettv]",
+  "uid": 11671429,
+  "size": 235474135,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:45d80e8786d076c14e61c8478b5b1f3490afa40d&amp;dn=Constantine.S01E11.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 245,
+  "leechers": 13,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1422722288,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:45d80e8786d076c14e61c8478b5b1f3490afa40d",
+    "dn": "Constantine.S01E11.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "45d80e8786d076c14e61c8478b5b1f3490afa40d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        69,
+        216,
+        14,
+        135,
+        134,
+        208,
+        118,
+        193,
+        78,
+        97,
+        200,
+        71,
+        139,
+        91,
+        31,
+        52,
+        144,
+        175,
+        164,
+        13
+      ]
+    },
+    "name": "Constantine.S01E11.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 258,
+  "peers": 25,
+  "last_updated": "2016-12-24T23:45:22.216Z"
+}

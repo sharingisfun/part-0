@@ -1,1 +1,61 @@
-{"title":"Lynda - PHP with MySQL Essential Training","uid":9534211,"size":2175492413,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:466f422cbc1edaac8e45e9f2a1ca23a471f182f5&amp;dn=Lynda+-+PHP+with+MySQL+Essential+Training&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":86,"leechers":13,"uploader":"NepsterJay","files":-1,"time":1390896812,"description":"PHP is a popular, reliable programming language at the foundation of many smart, data-driven websites. This comprehensive course from Kevin Skoglund helps developers learn the basics of PHP (including variables, logical expressions, loops, and functions), understand how to connect PHP to a MySQL database, and gain experience developing a complete web application with site navigation, form validation, and a password-protected admin area. Kevin also covers the basic CRUD routines for updating a database, debugging techniques, and usable user interfaces. Along the way, he provides practical advice, offers examples of best practices, and demonstrates refactoring techniques to improve existing code.","torrent":{"xt":"urn:btih:466f422cbc1edaac8e45e9f2a1ca23a471f182f5","amp;dn":"Lynda+-+PHP+with+MySQL+Essential+Training","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"466f422cbc1edaac8e45e9f2a1ca23a471f182f5","infoHashBuffer":{"type":"Buffer","data":[70,111,66,44,188,30,218,172,142,69,233,242,161,202,35,164,113,241,130,245]},"announce":[],"urlList":[]}}
+{
+  "title": "Lynda - PHP with MySQL Essential Training",
+  "uid": 9534211,
+  "size": 2175492413,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:466f422cbc1edaac8e45e9f2a1ca23a471f182f5&amp;dn=Lynda+-+PHP+with+MySQL+Essential+Training&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 86,
+  "leechers": 13,
+  "uploader": "NepsterJay",
+  "files": -1,
+  "time": 1390896812,
+  "description": "PHP is a popular, reliable programming language at the foundation of many smart, data-driven websites. This comprehensive course from Kevin Skoglund helps developers learn the basics of PHP (including variables, logical expressions, loops, and functions), understand how to connect PHP to a MySQL database, and gain experience developing a complete web application with site navigation, form validation, and a password-protected admin area. Kevin also covers the basic CRUD routines for updating a database, debugging techniques, and usable user interfaces. Along the way, he provides practical advice, offers examples of best practices, and demonstrates refactoring techniques to improve existing code.",
+  "parsed": {
+    "xt": "urn:btih:466f422cbc1edaac8e45e9f2a1ca23a471f182f5",
+    "dn": "Lynda - PHP with MySQL Essential Training",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "466f422cbc1edaac8e45e9f2a1ca23a471f182f5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        70,
+        111,
+        66,
+        44,
+        188,
+        30,
+        218,
+        172,
+        142,
+        69,
+        233,
+        242,
+        161,
+        202,
+        35,
+        164,
+        113,
+        241,
+        130,
+        245
+      ]
+    },
+    "name": "Lynda - PHP with MySQL Essential Training",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 99,
+  "peers": 47,
+  "last_updated": "2016-12-24T23:49:45.218Z"
+}

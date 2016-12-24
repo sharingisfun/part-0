@@ -1,1 +1,61 @@
-{"title":"Limbo ","uid":6634402,"size":184764138,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:46c02e38440ddce4c0dfcb46eb0588c2bd7ae222&amp;dn=Limbo+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":161,"leechers":6,"uploader":".BONE.","files":2,"time":1314497593,"description":"Limbo is a interactive 2D platform puzzle game from independent designer Arnt Jensen and Playdead Games.\n\nCPU:\t2 GHz \t\n\nRAM:\t512MB \t\n\nVGA:\t5 years or younger. Integrated graphics and very low budget cards may not work. Shader Model 3.0 required \t\n\nDX:\t9.0c\t\n\nOS:\tWindows XP, Vista, 7 \t\n\nHDD:\t150MB ","torrent":{"xt":"urn:btih:46c02e38440ddce4c0dfcb46eb0588c2bd7ae222","amp;dn":"Limbo+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"46c02e38440ddce4c0dfcb46eb0588c2bd7ae222","infoHashBuffer":{"type":"Buffer","data":[70,192,46,56,68,13,220,228,192,223,203,70,235,5,136,194,189,122,226,34]},"announce":[],"urlList":[]}}
+{
+  "title": "Limbo ",
+  "uid": 6634402,
+  "size": 184764138,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:46c02e38440ddce4c0dfcb46eb0588c2bd7ae222&amp;dn=Limbo+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 161,
+  "leechers": 6,
+  "uploader": ".BONE.",
+  "files": 2,
+  "time": 1314497593,
+  "description": "Limbo is a interactive 2D platform puzzle game from independent designer Arnt Jensen and Playdead Games.\n\nCPU:\t2 GHz \t\n\nRAM:\t512MB \t\n\nVGA:\t5 years or younger. Integrated graphics and very low budget cards may not work. Shader Model 3.0 required \t\n\nDX:\t9.0c\t\n\nOS:\tWindows XP, Vista, 7 \t\n\nHDD:\t150MB ",
+  "parsed": {
+    "xt": "urn:btih:46c02e38440ddce4c0dfcb46eb0588c2bd7ae222",
+    "dn": "Limbo ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "46c02e38440ddce4c0dfcb46eb0588c2bd7ae222",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        70,
+        192,
+        46,
+        56,
+        68,
+        13,
+        220,
+        228,
+        192,
+        223,
+        203,
+        70,
+        235,
+        5,
+        136,
+        194,
+        189,
+        122,
+        226,
+        34
+      ]
+    },
+    "name": "Limbo ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 167,
+  "peers": 57,
+  "last_updated": "2016-12-24T23:52:07.778Z"
+}

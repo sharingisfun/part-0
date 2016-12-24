@@ -1,1 +1,61 @@
-{"title":"AUTODESK.3DSMAX.V2015.WIN64-ISO","uid":9791403,"size":7742288564,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:4610a0605e2fcb9ed0f592625899b6259de13033&amp;dn=AUTODESK.3DSMAX.V2015.WIN64-ISO&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":11,"uploader":"Drarbg","files":2,"time":1395252804,"description":"AUTODESK.3DSMAX.V2015.WIN64-ISO\n-----------------------------------------\nScreens :\n\n","torrent":{"xt":"urn:btih:4610a0605e2fcb9ed0f592625899b6259de13033","amp;dn":"AUTODESK.3DSMAX.V2015.WIN64-ISO","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4610a0605e2fcb9ed0f592625899b6259de13033","infoHashBuffer":{"type":"Buffer","data":[70,16,160,96,94,47,203,158,208,245,146,98,88,153,182,37,157,225,48,51]},"announce":[],"urlList":[]}}
+{
+  "title": "AUTODESK.3DSMAX.V2015.WIN64-ISO",
+  "uid": 9791403,
+  "size": 7742288564,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:4610a0605e2fcb9ed0f592625899b6259de13033&amp;dn=AUTODESK.3DSMAX.V2015.WIN64-ISO&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 11,
+  "uploader": "Drarbg",
+  "files": 2,
+  "time": 1395252804,
+  "description": "AUTODESK.3DSMAX.V2015.WIN64-ISO\n-----------------------------------------\nScreens :\n\n",
+  "parsed": {
+    "xt": "urn:btih:4610a0605e2fcb9ed0f592625899b6259de13033",
+    "dn": "AUTODESK.3DSMAX.V2015.WIN64-ISO",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4610a0605e2fcb9ed0f592625899b6259de13033",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        70,
+        16,
+        160,
+        96,
+        94,
+        47,
+        203,
+        158,
+        208,
+        245,
+        146,
+        98,
+        88,
+        153,
+        182,
+        37,
+        157,
+        225,
+        48,
+        51
+      ]
+    },
+    "name": "AUTODESK.3DSMAX.V2015.WIN64-ISO",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 19,
+  "last_updated": "2016-12-24T23:47:14.662Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Royalty Free Background Music Pack","uid":6370472,"size":105351857,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:45e4170514ee0ce20abacf1fe256f9c73f95ef47&amp;dn=Royalty+Free+Background+Music+Pack&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":2,"uploader":"ponsemby","files":-1,"time":1304666483,"description":"Royalty free background music from author of the thrilling sci-fi podcast, audiobook and eBook DNA - Mark Clark.\n\n\n39 songs.\n\n\nFree for non-commercial use (unless it's in a major movie, we don't care :).\n\n\n","torrent":{"xt":"urn:btih:45e4170514ee0ce20abacf1fe256f9c73f95ef47","amp;dn":"Royalty+Free+Background+Music+Pack","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"45e4170514ee0ce20abacf1fe256f9c73f95ef47","infoHashBuffer":{"type":"Buffer","data":[69,228,23,5,20,238,12,226,10,186,207,31,226,86,249,199,63,149,239,71]},"announce":[],"urlList":[]}}
+{
+  "title": "Royalty Free Background Music Pack",
+  "uid": 6370472,
+  "size": 105351857,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:45e4170514ee0ce20abacf1fe256f9c73f95ef47&amp;dn=Royalty+Free+Background+Music+Pack&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 2,
+  "uploader": "ponsemby",
+  "files": -1,
+  "time": 1304666483,
+  "description": "Royalty free background music from author of the thrilling sci-fi podcast, audiobook and eBook DNA - Mark Clark.\n\n\n39 songs.\n\n\nFree for non-commercial use (unless it's in a major movie, we don't care :).\n\n\n",
+  "parsed": {
+    "xt": "urn:btih:45e4170514ee0ce20abacf1fe256f9c73f95ef47",
+    "dn": "Royalty Free Background Music Pack",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "45e4170514ee0ce20abacf1fe256f9c73f95ef47",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        69,
+        228,
+        23,
+        5,
+        20,
+        238,
+        12,
+        226,
+        10,
+        186,
+        207,
+        31,
+        226,
+        86,
+        249,
+        199,
+        63,
+        149,
+        239,
+        71
+      ]
+    },
+    "name": "Royalty Free Background Music Pack",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 25,
+  "last_updated": "2016-12-24T23:45:48.317Z"
+}

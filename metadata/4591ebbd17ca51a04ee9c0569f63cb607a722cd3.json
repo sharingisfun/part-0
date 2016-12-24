@@ -1,1 +1,61 @@
-{"title":"Helix.S02E10.HDTV.x264-ASAP[ettv]","uid":11767477,"size":285249185,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:4591ebbd17ca51a04ee9c0569f63cb607a722cd3&amp;dn=Helix.S02E10.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":90,"leechers":17,"uploader":"ettv","files":4,"time":1426910717,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                       &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:4591ebbd17ca51a04ee9c0569f63cb607a722cd3","amp;dn":"Helix.S02E10.HDTV.x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4591ebbd17ca51a04ee9c0569f63cb607a722cd3","infoHashBuffer":{"type":"Buffer","data":[69,145,235,189,23,202,81,160,78,233,192,86,159,99,203,96,122,114,44,211]},"announce":[],"urlList":[]}}
+{
+  "title": "Helix.S02E10.HDTV.x264-ASAP[ettv]",
+  "uid": 11767477,
+  "size": 285249185,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:4591ebbd17ca51a04ee9c0569f63cb607a722cd3&amp;dn=Helix.S02E10.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 90,
+  "leechers": 17,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1426910717,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                       &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:4591ebbd17ca51a04ee9c0569f63cb607a722cd3",
+    "dn": "Helix.S02E10.HDTV.x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4591ebbd17ca51a04ee9c0569f63cb607a722cd3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        69,
+        145,
+        235,
+        189,
+        23,
+        202,
+        81,
+        160,
+        78,
+        233,
+        192,
+        86,
+        159,
+        99,
+        203,
+        96,
+        122,
+        114,
+        44,
+        211
+      ]
+    },
+    "name": "Helix.S02E10.HDTV.x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 107,
+  "peers": 6,
+  "last_updated": "2016-12-24T23:43:31.854Z"
+}

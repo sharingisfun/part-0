@@ -1,1 +1,61 @@
-{"title":"el mundo es nuestro (peliculasytorrent)","uid":8479522,"size":1263364096,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:46edc066420ec81937b8c13cb3665c1bb823ddb5&amp;dn=el+mundo+es+nuestro+%28peliculasytorrent%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":0,"uploader":"Miguel223","files":1,"time":1368696654,"description":"","torrent":{"xt":"urn:btih:46edc066420ec81937b8c13cb3665c1bb823ddb5","amp;dn":"el+mundo+es+nuestro+%28peliculasytorrent%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"46edc066420ec81937b8c13cb3665c1bb823ddb5","infoHashBuffer":{"type":"Buffer","data":[70,237,192,102,66,14,200,25,55,184,193,60,179,102,92,27,184,35,221,181]},"announce":[],"urlList":[]}}
+{
+  "title": "el mundo es nuestro (peliculasytorrent)",
+  "uid": 8479522,
+  "size": 1263364096,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:46edc066420ec81937b8c13cb3665c1bb823ddb5&amp;dn=el+mundo+es+nuestro+%28peliculasytorrent%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 0,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1368696654,
+  "description": "",
+  "parsed": {
+    "xt": "urn:btih:46edc066420ec81937b8c13cb3665c1bb823ddb5",
+    "dn": "el mundo es nuestro (peliculasytorrent)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "46edc066420ec81937b8c13cb3665c1bb823ddb5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        70,
+        237,
+        192,
+        102,
+        66,
+        14,
+        200,
+        25,
+        55,
+        184,
+        193,
+        60,
+        179,
+        102,
+        92,
+        27,
+        184,
+        35,
+        221,
+        181
+      ]
+    },
+    "name": "el mundo es nuestro (peliculasytorrent)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 3,
+  "last_updated": "2016-12-24T23:53:14.047Z"
+}

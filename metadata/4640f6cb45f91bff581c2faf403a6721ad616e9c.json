@@ -1,1 +1,61 @@
-{"title":"MotioninJoy Version 0.7.1001 (DS3 Tool)","uid":7963820,"size":4199240,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:4640f6cb45f91bff581c2faf403a6721ad616e9c&amp;dn=MotioninJoy+Version+0.7.1001+%28DS3+Tool%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":0,"uploader":"Max-Upload","files":1,"time":1356636484,"description":"MotioninJoy is a driver, designed by a developer unconnected with Sony, intended to use all the features of the Sixaxis and Dualshock 3 PS3 controllers on a PC running Windows. \n\n\nFeatures:\n\nOperating controller through USB or wireless through Bluetooth.\nSupports 4 controllers simultaneously with 1 Bluetooth adapter.\nFully functional Six-Axis support.\nDS3 Vibration support.\nEmulate Xbox 360 controller for games that use XBOX-360 controllers(Games for Windows).\nFull keyboard and mouse emulationÃ¢â‚¬â€œRemapping of buttons and axises to any button/axis or use as keyboard shortcuts and mouse. \n\nInstructions: \n1. Install the setup. \n2. Plug in ps3 controller. \n3. Click driver manger \n4. Select and load the driver (2 drivers if you have a Bluetooth adapter. \nOptional for Bluetooth (must have a Bluetooth adapter[not all are compatible]) click Bluetooth pair with your controller plugged in click pair now and then go to home and enable it. Once paired you just have to press the PS button and enable it at home when using it after the first Bluetooth setup.\n\nSeed and Enjoy! \n","torrent":{"xt":"urn:btih:4640f6cb45f91bff581c2faf403a6721ad616e9c","amp;dn":"MotioninJoy+Version+0.7.1001+%28DS3+Tool%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4640f6cb45f91bff581c2faf403a6721ad616e9c","infoHashBuffer":{"type":"Buffer","data":[70,64,246,203,69,249,27,255,88,28,47,175,64,58,103,33,173,97,110,156]},"announce":[],"urlList":[]}}
+{
+  "title": "MotioninJoy Version 0.7.1001 (DS3 Tool)",
+  "uid": 7963820,
+  "size": 4199240,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:4640f6cb45f91bff581c2faf403a6721ad616e9c&amp;dn=MotioninJoy+Version+0.7.1001+%28DS3+Tool%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 0,
+  "uploader": "Max-Upload",
+  "files": 1,
+  "time": 1356636484,
+  "description": "MotioninJoy is a driver, designed by a developer unconnected with Sony, intended to use all the features of the Sixaxis and Dualshock 3 PS3 controllers on a PC running Windows. \n\n\nFeatures:\n\nOperating controller through USB or wireless through Bluetooth.\nSupports 4 controllers simultaneously with 1 Bluetooth adapter.\nFully functional Six-Axis support.\nDS3 Vibration support.\nEmulate Xbox 360 controller for games that use XBOX-360 controllers(Games for Windows).\nFull keyboard and mouse emulationÃ¢â‚¬â€œRemapping of buttons and axises to any button/axis or use as keyboard shortcuts and mouse. \n\nInstructions: \n1. Install the setup. \n2. Plug in ps3 controller. \n3. Click driver manger \n4. Select and load the driver (2 drivers if you have a Bluetooth adapter. \nOptional for Bluetooth (must have a Bluetooth adapter[not all are compatible]) click Bluetooth pair with your controller plugged in click pair now and then go to home and enable it. Once paired you just have to press the PS button and enable it at home when using it after the first Bluetooth setup.\n\nSeed and Enjoy! \n",
+  "parsed": {
+    "xt": "urn:btih:4640f6cb45f91bff581c2faf403a6721ad616e9c",
+    "dn": "MotioninJoy Version 0.7.1001 (DS3 Tool)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4640f6cb45f91bff581c2faf403a6721ad616e9c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        70,
+        64,
+        246,
+        203,
+        69,
+        249,
+        27,
+        255,
+        88,
+        28,
+        47,
+        175,
+        64,
+        58,
+        103,
+        33,
+        173,
+        97,
+        110,
+        156
+      ]
+    },
+    "name": "MotioninJoy Version 0.7.1001 (DS3 Tool)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 9,
+  "last_updated": "2016-12-24T23:48:26.901Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Dimitri Vegas &amp; Like Mike vs. Ummet Ozcan - The Hum","uid":11828288,"size":14393287,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:47099c95f70146c01fad389e35c9566af79d6f0e&amp;dn=Dimitri+Vegas+%26amp%3B+Like+Mike+vs.+Ummet+Ozcan+-+The+Hum&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":1,"uploader":"coqibamafez","files":1,"time":1429554140,"description":"Label: Smash The House\nArtist: Dimitri Vegas &amp; Like Mike vs. Ummet Ozcan\nBit Rate: 320 Kbps\nDuration: 05:56 min\nBPM: 130\nGenre: Electro House\nCatalog #: STH078\nCover: Yes\nFormat: .mp3","torrent":{"xt":"urn:btih:47099c95f70146c01fad389e35c9566af79d6f0e","amp;dn":"Dimitri+Vegas+%26amp%3B+Like+Mike+vs.+Ummet+Ozcan+-+The+Hum","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"47099c95f70146c01fad389e35c9566af79d6f0e","infoHashBuffer":{"type":"Buffer","data":[71,9,156,149,247,1,70,192,31,173,56,158,53,201,86,106,247,157,111,14]},"announce":[],"urlList":[]}}
+{
+  "title": "Dimitri Vegas &amp; Like Mike vs. Ummet Ozcan - The Hum",
+  "uid": 11828288,
+  "size": 14393287,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:47099c95f70146c01fad389e35c9566af79d6f0e&amp;dn=Dimitri+Vegas+%26amp%3B+Like+Mike+vs.+Ummet+Ozcan+-+The+Hum&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 1,
+  "uploader": "coqibamafez",
+  "files": 1,
+  "time": 1429554140,
+  "description": "Label: Smash The House\nArtist: Dimitri Vegas &amp; Like Mike vs. Ummet Ozcan\nBit Rate: 320 Kbps\nDuration: 05:56 min\nBPM: 130\nGenre: Electro House\nCatalog #: STH078\nCover: Yes\nFormat: .mp3",
+  "parsed": {
+    "xt": "urn:btih:47099c95f70146c01fad389e35c9566af79d6f0e",
+    "dn": "Dimitri Vegas &amp; Like Mike vs. Ummet Ozcan - The Hum",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "47099c95f70146c01fad389e35c9566af79d6f0e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        71,
+        9,
+        156,
+        149,
+        247,
+        1,
+        70,
+        192,
+        31,
+        173,
+        56,
+        158,
+        53,
+        201,
+        86,
+        106,
+        247,
+        157,
+        111,
+        14
+      ]
+    },
+    "name": "Dimitri Vegas &amp; Like Mike vs. Ummet Ozcan - The Hum",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 50,
+  "last_updated": "2016-12-24T23:53:54.262Z"
+}

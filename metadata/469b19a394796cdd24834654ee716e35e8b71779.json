@@ -1,1 +1,61 @@
-{"title":"Red Hot Chilli Peppers Full Discography","uid":3913966,"size":967455451,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:469b19a394796cdd24834654ee716e35e8b71779&amp;dn=Red+Hot+Chilli+Peppers+Full+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":6,"uploader":"Stonedbg","files":201,"time":1196295337,"description":"Full","torrent":{"xt":"urn:btih:469b19a394796cdd24834654ee716e35e8b71779","amp;dn":"Red+Hot+Chilli+Peppers+Full+Discography","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"469b19a394796cdd24834654ee716e35e8b71779","infoHashBuffer":{"type":"Buffer","data":[70,155,25,163,148,121,108,221,36,131,70,84,238,113,110,53,232,183,23,121]},"announce":[],"urlList":[]}}
+{
+  "title": "Red Hot Chilli Peppers Full Discography",
+  "uid": 3913966,
+  "size": 967455451,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:469b19a394796cdd24834654ee716e35e8b71779&amp;dn=Red+Hot+Chilli+Peppers+Full+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 6,
+  "uploader": "Stonedbg",
+  "files": 201,
+  "time": 1196295337,
+  "description": "Full",
+  "parsed": {
+    "xt": "urn:btih:469b19a394796cdd24834654ee716e35e8b71779",
+    "dn": "Red Hot Chilli Peppers Full Discography",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "469b19a394796cdd24834654ee716e35e8b71779",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        70,
+        155,
+        25,
+        163,
+        148,
+        121,
+        108,
+        221,
+        36,
+        131,
+        70,
+        84,
+        238,
+        113,
+        110,
+        53,
+        232,
+        183,
+        23,
+        121
+      ]
+    },
+    "name": "Red Hot Chilli Peppers Full Discography",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 194,
+  "last_updated": "2016-12-24T23:51:09.565Z"
+}

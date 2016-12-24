@@ -1,1 +1,61 @@
-{"title":"Pink Floyd -The Wall (1979) FLAC","uid":10972443,"size":465910584,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:4576d303d22cc4ef9cb6209729c09be4e640b893&amp;dn=+Pink+Floyd+-The+Wall+%281979%29+FLAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":10,"uploader":"AlienMethod","files":-1,"time":1409811439,"description":"Audio\nFormat : FLAC\nFormat/Info : Free Lossless Audio Codec\nDuration : 3mn 19s\nBit rate mode : Variable\nBit rate : 844 Kbps\nChannel(s) : 2 channels\nSampling rate : 48.0 KHz\nBit depth : 16 bits\nStream size : 20.0 MiB (98%)\nWriting library : libFLAC 1.2.1 (UTC 2007-09-17)\nLanguage : English\n\nm/ AM m/\n\n","torrent":{"xt":"urn:btih:4576d303d22cc4ef9cb6209729c09be4e640b893","amp;dn":"+Pink+Floyd+-The+Wall+%281979%29+FLAC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4576d303d22cc4ef9cb6209729c09be4e640b893","infoHashBuffer":{"type":"Buffer","data":[69,118,211,3,210,44,196,239,156,182,32,151,41,192,155,228,230,64,184,147]},"announce":[],"urlList":[]}}
+{
+  "title": "Pink Floyd -The Wall (1979) FLAC",
+  "uid": 10972443,
+  "size": 465910584,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:4576d303d22cc4ef9cb6209729c09be4e640b893&amp;dn=+Pink+Floyd+-The+Wall+%281979%29+FLAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 10,
+  "uploader": "AlienMethod",
+  "files": -1,
+  "time": 1409811439,
+  "description": "Audio\nFormat : FLAC\nFormat/Info : Free Lossless Audio Codec\nDuration : 3mn 19s\nBit rate mode : Variable\nBit rate : 844 Kbps\nChannel(s) : 2 channels\nSampling rate : 48.0 KHz\nBit depth : 16 bits\nStream size : 20.0 MiB (98%)\nWriting library : libFLAC 1.2.1 (UTC 2007-09-17)\nLanguage : English\n\nm/ AM m/\n\n",
+  "parsed": {
+    "xt": "urn:btih:4576d303d22cc4ef9cb6209729c09be4e640b893",
+    "dn": " Pink Floyd -The Wall (1979) FLAC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4576d303d22cc4ef9cb6209729c09be4e640b893",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        69,
+        118,
+        211,
+        3,
+        210,
+        44,
+        196,
+        239,
+        156,
+        182,
+        32,
+        151,
+        41,
+        192,
+        155,
+        228,
+        230,
+        64,
+        184,
+        147
+      ]
+    },
+    "name": " Pink Floyd -The Wall (1979) FLAC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 52,
+  "last_updated": "2016-12-24T23:42:43.688Z"
+}

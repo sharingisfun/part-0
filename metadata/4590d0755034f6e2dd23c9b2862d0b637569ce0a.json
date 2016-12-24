@@ -1,1 +1,61 @@
-{"title":"Future Islands - On The Water (2011)","uid":6870799,"size":103624752,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4590d0755034f6e2dd23c9b2862d0b637569ce0a&amp;dn=Future+Islands+-+On+The+Water+%282011%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":0,"uploader":"winto_bungle","files":-1,"time":1323269338,"description":"Future Islands - On The Water (2011)\n\nmp3 - 320kbps\n\n\n1. On The Water\t\t\n2. Before The Bridge\t\t\n3. The Great Fire\t\t\n4. Open\t\t\n5. Where I Found You\t\t\n6. Give Us The Wind\t\t\n7. Close To None\t\t\n8. Balance\t\t\n9. Tybee Island\t\t\n10. Grease\n11. Untitled\n\n\nfuture-islands.com\n\n\nIf you like it - buy it.","torrent":{"xt":"urn:btih:4590d0755034f6e2dd23c9b2862d0b637569ce0a","amp;dn":"Future+Islands+-+On+The+Water+%282011%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4590d0755034f6e2dd23c9b2862d0b637569ce0a","infoHashBuffer":{"type":"Buffer","data":[69,144,208,117,80,52,246,226,221,35,201,178,134,45,11,99,117,105,206,10]},"announce":[],"urlList":[]}}
+{
+  "title": "Future Islands - On The Water (2011)",
+  "uid": 6870799,
+  "size": 103624752,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4590d0755034f6e2dd23c9b2862d0b637569ce0a&amp;dn=Future+Islands+-+On+The+Water+%282011%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 0,
+  "uploader": "winto_bungle",
+  "files": -1,
+  "time": 1323269338,
+  "description": "Future Islands - On The Water (2011)\n\nmp3 - 320kbps\n\n\n1. On The Water\t\t\n2. Before The Bridge\t\t\n3. The Great Fire\t\t\n4. Open\t\t\n5. Where I Found You\t\t\n6. Give Us The Wind\t\t\n7. Close To None\t\t\n8. Balance\t\t\n9. Tybee Island\t\t\n10. Grease\n11. Untitled\n\n\nfuture-islands.com\n\n\nIf you like it - buy it.",
+  "parsed": {
+    "xt": "urn:btih:4590d0755034f6e2dd23c9b2862d0b637569ce0a",
+    "dn": "Future Islands - On The Water (2011)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4590d0755034f6e2dd23c9b2862d0b637569ce0a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        69,
+        144,
+        208,
+        117,
+        80,
+        52,
+        246,
+        226,
+        221,
+        35,
+        201,
+        178,
+        134,
+        45,
+        11,
+        99,
+        117,
+        105,
+        206,
+        10
+      ]
+    },
+    "name": "Future Islands - On The Water (2011)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 74,
+  "peers": 22,
+  "last_updated": "2016-12-24T23:43:27.840Z"
+}

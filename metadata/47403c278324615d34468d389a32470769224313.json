@@ -1,1 +1,61 @@
-{"title":"Top Gear Special Patagonia Part 2 (HDTV-x264-FOV)[VTV]","uid":11672915,"size":582841127,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:47403c278324615d34468d389a32470769224313&amp;dn=Top+Gear+Special+Patagonia+Part+2+%28HDTV-x264-FOV%29%5BVTV%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":139,"leechers":4,"uploader":"Mbb15","files":1,"time":1422738496,"description":"Top Gear Special Patagonia Part 2 (HDTV-x264-FOV)[VTV]","torrent":{"xt":"urn:btih:47403c278324615d34468d389a32470769224313","amp;dn":"Top+Gear+Special+Patagonia+Part+2+%28HDTV-x264-FOV%29%5BVTV%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"47403c278324615d34468d389a32470769224313","infoHashBuffer":{"type":"Buffer","data":[71,64,60,39,131,36,97,93,52,70,141,56,154,50,71,7,105,34,67,19]},"announce":[],"urlList":[]}}
+{
+  "title": "Top Gear Special Patagonia Part 2 (HDTV-x264-FOV)[VTV]",
+  "uid": 11672915,
+  "size": 582841127,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:47403c278324615d34468d389a32470769224313&amp;dn=Top+Gear+Special+Patagonia+Part+2+%28HDTV-x264-FOV%29%5BVTV%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 139,
+  "leechers": 4,
+  "uploader": "Mbb15",
+  "files": 1,
+  "time": 1422738496,
+  "description": "Top Gear Special Patagonia Part 2 (HDTV-x264-FOV)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:47403c278324615d34468d389a32470769224313",
+    "dn": "Top Gear Special Patagonia Part 2 (HDTV-x264-FOV)[VTV]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "47403c278324615d34468d389a32470769224313",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        71,
+        64,
+        60,
+        39,
+        131,
+        36,
+        97,
+        93,
+        52,
+        70,
+        141,
+        56,
+        154,
+        50,
+        71,
+        7,
+        105,
+        34,
+        67,
+        19
+      ]
+    },
+    "name": "Top Gear Special Patagonia Part 2 (HDTV-x264-FOV)[VTV]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 143,
+  "peers": 8,
+  "last_updated": "2016-12-24T23:55:30.677Z"
+}

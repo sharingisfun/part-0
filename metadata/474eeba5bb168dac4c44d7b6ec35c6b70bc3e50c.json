@@ -1,1 +1,61 @@
-{"title":"microsoft works 9","uid":6073380,"size":385831763,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:474eeba5bb168dac4c44d7b6ec35c6b70bc3e50c&amp;dn=microsoft+works+9&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":0,"uploader":"tonyd79","files":3,"time":1293722178,"description":"sorry about the first try my internet went down here you go again sorry about the first try please seed and comment thanks","torrent":{"xt":"urn:btih:474eeba5bb168dac4c44d7b6ec35c6b70bc3e50c","amp;dn":"microsoft+works+9","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"474eeba5bb168dac4c44d7b6ec35c6b70bc3e50c","infoHashBuffer":{"type":"Buffer","data":[71,78,235,165,187,22,141,172,76,68,215,182,236,53,198,183,11,195,229,12]},"announce":[],"urlList":[]}}
+{
+  "title": "microsoft works 9",
+  "uid": 6073380,
+  "size": 385831763,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:474eeba5bb168dac4c44d7b6ec35c6b70bc3e50c&amp;dn=microsoft+works+9&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 0,
+  "uploader": "tonyd79",
+  "files": 3,
+  "time": 1293722178,
+  "description": "sorry about the first try my internet went down here you go again sorry about the first try please seed and comment thanks",
+  "parsed": {
+    "xt": "urn:btih:474eeba5bb168dac4c44d7b6ec35c6b70bc3e50c",
+    "dn": "microsoft works 9",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "474eeba5bb168dac4c44d7b6ec35c6b70bc3e50c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        71,
+        78,
+        235,
+        165,
+        187,
+        22,
+        141,
+        172,
+        76,
+        68,
+        215,
+        182,
+        236,
+        53,
+        198,
+        183,
+        11,
+        195,
+        229,
+        12
+      ]
+    },
+    "name": "microsoft works 9",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 12,
+  "last_updated": "2016-12-24T23:55:52.761Z"
+}

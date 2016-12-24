@@ -1,1 +1,61 @@
-{"title":"PS.I.Love.You.DVDRip","uid":6182631,"size":735600640,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:474066abbfe12cd7247c7f61d59f80ebda915303&amp;dn=PS.I.Love.You.DVDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":152,"leechers":8,"uploader":".BONE.","files":1,"time":1298009384,"description":"\nA young widow discovers that her late husband has left her 10 messages intended to help ease her pain and start a new life.\n","torrent":{"xt":"urn:btih:474066abbfe12cd7247c7f61d59f80ebda915303","amp;dn":"PS.I.Love.You.DVDRip","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"474066abbfe12cd7247c7f61d59f80ebda915303","infoHashBuffer":{"type":"Buffer","data":[71,64,102,171,191,225,44,215,36,124,127,97,213,159,128,235,218,145,83,3]},"announce":[],"urlList":[]}}
+{
+  "title": "PS.I.Love.You.DVDRip",
+  "uid": 6182631,
+  "size": 735600640,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:474066abbfe12cd7247c7f61d59f80ebda915303&amp;dn=PS.I.Love.You.DVDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 152,
+  "leechers": 8,
+  "uploader": ".BONE.",
+  "files": 1,
+  "time": 1298009384,
+  "description": "\nA young widow discovers that her late husband has left her 10 messages intended to help ease her pain and start a new life.\n",
+  "parsed": {
+    "xt": "urn:btih:474066abbfe12cd7247c7f61d59f80ebda915303",
+    "dn": "PS.I.Love.You.DVDRip",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "474066abbfe12cd7247c7f61d59f80ebda915303",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        71,
+        64,
+        102,
+        171,
+        191,
+        225,
+        44,
+        215,
+        36,
+        124,
+        127,
+        97,
+        213,
+        159,
+        128,
+        235,
+        218,
+        145,
+        83,
+        3
+      ]
+    },
+    "name": "PS.I.Love.You.DVDRip",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 160,
+  "peers": 18,
+  "last_updated": "2016-12-24T23:55:32.683Z"
+}
