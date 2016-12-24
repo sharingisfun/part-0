@@ -1,1 +1,63 @@
-{"title":"The.Goldbergs.2013.S04E04.HDTV.x264-FLEET","uid":16020440,"size":168087366,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:001ad2de64d670dcaa9ad0709b379d0ec8931b22&amp;dn=The.Goldbergs.2013.S04E04.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":37,"uploader":"TvTeam","files":4,"time":1476327997,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:001ad2de64d670dcaa9ad0709b379d0ec8931b22","amp;dn":"The.Goldbergs.2013.S04E04.HDTV.x264-FLEET","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"001ad2de64d670dcaa9ad0709b379d0ec8931b22","infoHashBuffer":{"type":"Buffer","data":[0,26,210,222,100,214,112,220,170,154,208,112,155,55,157,14,200,147,27,34]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Goldbergs.2013.S04E04.HDTV.x264-FLEET",
+  "uid": 16020440,
+  "size": 168087366,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:001ad2de64d670dcaa9ad0709b379d0ec8931b22&amp;dn=The.Goldbergs.2013.S04E04.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 37,
+  "uploader": "TvTeam",
+  "files": 4,
+  "time": 1476327997,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:001ad2de64d670dcaa9ad0709b379d0ec8931b22",
+    "dn": "The.Goldbergs.2013.S04E04.HDTV.x264-FLEET",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "001ad2de64d670dcaa9ad0709b379d0ec8931b22",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        0,
+        26,
+        210,
+        222,
+        100,
+        214,
+        112,
+        220,
+        170,
+        154,
+        208,
+        112,
+        155,
+        55,
+        157,
+        14,
+        200,
+        147,
+        27,
+        34
+      ]
+    },
+    "name": "The.Goldbergs.2013.S04E04.HDTV.x264-FLEET",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 113,
+  "peers": 56,
+  "last_updated": "2016-12-24T15:07:53.023Z"
+}
