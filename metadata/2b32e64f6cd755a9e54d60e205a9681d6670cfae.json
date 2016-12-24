@@ -1,1 +1,61 @@
-{"title":"World of Warcraft Client - Version 1.12.1 enUS - Windows","uid":5076223,"size":5450407230,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2b32e64f6cd755a9e54d60e205a9681d6670cfae&amp;dn=World+of+Warcraft+Client+-+Version+1.12.1+enUS+-+Windows&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":491,"leechers":15,"uploader":"Patman64","files":1,"time":1251861143,"description":"Complete and fully patched World of Warcraft 1.12.1 client, build 5875, locale enUS. \n\n\nThis is the Windows (PC) client ONLY. Completely clean; no add-ons, patches, cache files or configs are included (besides realmlist.wtf; running WoW.exe will generate a new config.wtf.) Feel free to use it with whatever private server you want, or patch it to a later version.\n\n\nPatched from a base 1.11 client. Using the repair utility included will only bring it as far back as 1.11.","torrent":{"xt":"urn:btih:2b32e64f6cd755a9e54d60e205a9681d6670cfae","amp;dn":"World+of+Warcraft+Client+-+Version+1.12.1+enUS+-+Windows","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2b32e64f6cd755a9e54d60e205a9681d6670cfae","infoHashBuffer":{"type":"Buffer","data":[43,50,230,79,108,215,85,169,229,77,96,226,5,169,104,29,102,112,207,174]},"announce":[],"urlList":[]}}
+{
+  "title": "World of Warcraft Client - Version 1.12.1 enUS - Windows",
+  "uid": 5076223,
+  "size": 5450407230,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2b32e64f6cd755a9e54d60e205a9681d6670cfae&amp;dn=World+of+Warcraft+Client+-+Version+1.12.1+enUS+-+Windows&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 491,
+  "leechers": 15,
+  "uploader": "Patman64",
+  "files": 1,
+  "time": 1251861143,
+  "description": "Complete and fully patched World of Warcraft 1.12.1 client, build 5875, locale enUS. \n\n\nThis is the Windows (PC) client ONLY. Completely clean; no add-ons, patches, cache files or configs are included (besides realmlist.wtf; running WoW.exe will generate a new config.wtf.) Feel free to use it with whatever private server you want, or patch it to a later version.\n\n\nPatched from a base 1.11 client. Using the repair utility included will only bring it as far back as 1.11.",
+  "parsed": {
+    "xt": "urn:btih:2b32e64f6cd755a9e54d60e205a9681d6670cfae",
+    "dn": "World of Warcraft Client - Version 1.12.1 enUS - Windows",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2b32e64f6cd755a9e54d60e205a9681d6670cfae",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        43,
+        50,
+        230,
+        79,
+        108,
+        215,
+        85,
+        169,
+        229,
+        77,
+        96,
+        226,
+        5,
+        169,
+        104,
+        29,
+        102,
+        112,
+        207,
+        174
+      ]
+    },
+    "name": "World of Warcraft Client - Version 1.12.1 enUS - Windows",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 506,
+  "peers": 371,
+  "last_updated": "2016-12-24T20:45:49.505Z"
+}

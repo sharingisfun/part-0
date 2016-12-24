@@ -1,1 +1,61 @@
-{"title":"Assassin's Creed [ENGLISH]","uid":4867885,"size":6899040256,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:29dbe398abe2ed1173982b83732ccc01d6214753&amp;dn=Assassin%5C%27s+Creed+%5BENGLISH%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":7,"uploader":"LoxFalcon","files":1,"time":1240620304,"description":"Just Download, Mount, Install and Enjoy!!","torrent":{"xt":"urn:btih:29dbe398abe2ed1173982b83732ccc01d6214753","amp;dn":"Assassin%5C%27s+Creed+%5BENGLISH%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"29dbe398abe2ed1173982b83732ccc01d6214753","infoHashBuffer":{"type":"Buffer","data":[41,219,227,152,171,226,237,17,115,152,43,131,115,44,204,1,214,33,71,83]},"announce":[],"urlList":[]}}
+{
+  "title": "Assassin's Creed [ENGLISH]",
+  "uid": 4867885,
+  "size": 6899040256,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:29dbe398abe2ed1173982b83732ccc01d6214753&amp;dn=Assassin%5C%27s+Creed+%5BENGLISH%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 7,
+  "uploader": "LoxFalcon",
+  "files": 1,
+  "time": 1240620304,
+  "description": "Just Download, Mount, Install and Enjoy!!",
+  "parsed": {
+    "xt": "urn:btih:29dbe398abe2ed1173982b83732ccc01d6214753",
+    "dn": "Assassin\\'s Creed [ENGLISH]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "29dbe398abe2ed1173982b83732ccc01d6214753",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        41,
+        219,
+        227,
+        152,
+        171,
+        226,
+        237,
+        17,
+        115,
+        152,
+        43,
+        131,
+        115,
+        44,
+        204,
+        1,
+        214,
+        33,
+        71,
+        83
+      ]
+    },
+    "name": "Assassin\\'s Creed [ENGLISH]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 37,
+  "last_updated": "2016-12-24T20:36:01.310Z"
+}

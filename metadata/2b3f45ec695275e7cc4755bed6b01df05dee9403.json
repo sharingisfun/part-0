@@ -1,1 +1,61 @@
-{"title":"Outlander.S01E09.HDTV.x264-KILLERS[ettv]","uid":11796972,"size":431842540,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:2b3f45ec695275e7cc4755bed6b01df05dee9403&amp;dn=Outlander.S01E09.HDTV.x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":426,"leechers":17,"uploader":"ettv","files":3,"time":1428209865,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:2b3f45ec695275e7cc4755bed6b01df05dee9403","amp;dn":"Outlander.S01E09.HDTV.x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2b3f45ec695275e7cc4755bed6b01df05dee9403","infoHashBuffer":{"type":"Buffer","data":[43,63,69,236,105,82,117,231,204,71,85,190,214,176,29,240,93,238,148,3]},"announce":[],"urlList":[]}}
+{
+  "title": "Outlander.S01E09.HDTV.x264-KILLERS[ettv]",
+  "uid": 11796972,
+  "size": 431842540,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:2b3f45ec695275e7cc4755bed6b01df05dee9403&amp;dn=Outlander.S01E09.HDTV.x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 426,
+  "leechers": 17,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1428209865,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:2b3f45ec695275e7cc4755bed6b01df05dee9403",
+    "dn": "Outlander.S01E09.HDTV.x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2b3f45ec695275e7cc4755bed6b01df05dee9403",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        43,
+        63,
+        69,
+        236,
+        105,
+        82,
+        117,
+        231,
+        204,
+        71,
+        85,
+        190,
+        214,
+        176,
+        29,
+        240,
+        93,
+        238,
+        148,
+        3
+      ]
+    },
+    "name": "Outlander.S01E09.HDTV.x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 443,
+  "peers": 73,
+  "last_updated": "2016-12-24T20:46:17.628Z"
+}

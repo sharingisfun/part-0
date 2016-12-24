@@ -1,1 +1,61 @@
-{"title":"iZombie S01E13 HDTV XviD-FUM[ettv]","uid":12006744,"size":365477394,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:2a9179331a6b5c6bad306cb1f02a4e720688b1a0&amp;dn=iZombie+S01E13+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":12,"uploader":"ettv","files":2,"time":1433910714,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW","torrent":{"xt":"urn:btih:2a9179331a6b5c6bad306cb1f02a4e720688b1a0","amp;dn":"iZombie+S01E13+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2a9179331a6b5c6bad306cb1f02a4e720688b1a0","infoHashBuffer":{"type":"Buffer","data":[42,145,121,51,26,107,92,107,173,48,108,177,240,42,78,114,6,136,177,160]},"announce":[],"urlList":[]}}
+{
+  "title": "iZombie S01E13 HDTV XviD-FUM[ettv]",
+  "uid": 12006744,
+  "size": 365477394,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:2a9179331a6b5c6bad306cb1f02a4e720688b1a0&amp;dn=iZombie+S01E13+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 12,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1433910714,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW",
+  "parsed": {
+    "xt": "urn:btih:2a9179331a6b5c6bad306cb1f02a4e720688b1a0",
+    "dn": "iZombie S01E13 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2a9179331a6b5c6bad306cb1f02a4e720688b1a0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        42,
+        145,
+        121,
+        51,
+        26,
+        107,
+        92,
+        107,
+        173,
+        48,
+        108,
+        177,
+        240,
+        42,
+        78,
+        114,
+        6,
+        136,
+        177,
+        160
+      ]
+    },
+    "name": "iZombie S01E13 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 13,
+  "last_updated": "2016-12-24T20:41:36.488Z"
+}

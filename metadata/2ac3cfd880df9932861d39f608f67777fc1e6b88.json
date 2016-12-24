@@ -1,1 +1,61 @@
-{"title":"Poly Bridge v0.71b","uid":12319489,"size":65704549,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2ac3cfd880df9932861d39f608f67777fc1e6b88&amp;dn=Poly+Bridge+v0.71b&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":81,"leechers":2,"uploader":"dauphong","files":1,"time":1441043802,"description":"About This Game\nUnleash your engineering creativity with an engaging and fresh bridge-building simulator with all the bells and whistles.\nEnjoy hours of physics-based puzzle solving in the Campaign and then jump in the Sandbox to create your own bridge designs and puzzles.\nChallenge friends and the rest of the Steam Workshop community to solve your puzzles and download more levels submitted by other players","torrent":{"xt":"urn:btih:2ac3cfd880df9932861d39f608f67777fc1e6b88","amp;dn":"Poly+Bridge+v0.71b","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2ac3cfd880df9932861d39f608f67777fc1e6b88","infoHashBuffer":{"type":"Buffer","data":[42,195,207,216,128,223,153,50,134,29,57,246,8,246,119,119,252,30,107,136]},"announce":[],"urlList":[]}}
+{
+  "title": "Poly Bridge v0.71b",
+  "uid": 12319489,
+  "size": 65704549,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2ac3cfd880df9932861d39f608f67777fc1e6b88&amp;dn=Poly+Bridge+v0.71b&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 81,
+  "leechers": 2,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1441043802,
+  "description": "About This Game\nUnleash your engineering creativity with an engaging and fresh bridge-building simulator with all the bells and whistles.\nEnjoy hours of physics-based puzzle solving in the Campaign and then jump in the Sandbox to create your own bridge designs and puzzles.\nChallenge friends and the rest of the Steam Workshop community to solve your puzzles and download more levels submitted by other players",
+  "parsed": {
+    "xt": "urn:btih:2ac3cfd880df9932861d39f608f67777fc1e6b88",
+    "dn": "Poly Bridge v0.71b",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2ac3cfd880df9932861d39f608f67777fc1e6b88",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        42,
+        195,
+        207,
+        216,
+        128,
+        223,
+        153,
+        50,
+        134,
+        29,
+        57,
+        246,
+        8,
+        246,
+        119,
+        119,
+        252,
+        30,
+        107,
+        136
+      ]
+    },
+    "name": "Poly Bridge v0.71b",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 8,
+  "last_updated": "2016-12-24T20:42:50.775Z"
+}

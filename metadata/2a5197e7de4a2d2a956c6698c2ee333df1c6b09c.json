@@ -1,1 +1,61 @@
-{"title":"Tame Impala Discography (2006-2013) iTunes AAC 256","uid":9313501,"size":418452987,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:2a5197e7de4a2d2a956c6698c2ee333df1c6b09c&amp;dn=Tame+Impala+Discography+%282006-2013%29+iTunes+AAC+256&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":150,"leechers":11,"uploader":"-wxm-","files":-1,"time":1386437800,"description":"Tame Impala Discography (2006-2013) iTunes AAC 256\n\nTame Impala EP (2005)*\nInnerSpeaker (2010) [Limited Edition]*\nLonerism (2012)\nMind Mischief EP (2013)\n\nPurchased AAC files\n*Converted from FLAC to iTunes+","torrent":{"xt":"urn:btih:2a5197e7de4a2d2a956c6698c2ee333df1c6b09c","amp;dn":"Tame+Impala+Discography+%282006-2013%29+iTunes+AAC+256","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2a5197e7de4a2d2a956c6698c2ee333df1c6b09c","infoHashBuffer":{"type":"Buffer","data":[42,81,151,231,222,74,45,42,149,108,102,152,194,238,51,61,241,198,176,156]},"announce":[],"urlList":[]}}
+{
+  "title": "Tame Impala Discography (2006-2013) iTunes AAC 256",
+  "uid": 9313501,
+  "size": 418452987,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:2a5197e7de4a2d2a956c6698c2ee333df1c6b09c&amp;dn=Tame+Impala+Discography+%282006-2013%29+iTunes+AAC+256&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 150,
+  "leechers": 11,
+  "uploader": "-wxm-",
+  "files": -1,
+  "time": 1386437800,
+  "description": "Tame Impala Discography (2006-2013) iTunes AAC 256\n\nTame Impala EP (2005)*\nInnerSpeaker (2010) [Limited Edition]*\nLonerism (2012)\nMind Mischief EP (2013)\n\nPurchased AAC files\n*Converted from FLAC to iTunes+",
+  "parsed": {
+    "xt": "urn:btih:2a5197e7de4a2d2a956c6698c2ee333df1c6b09c",
+    "dn": "Tame Impala Discography (2006-2013) iTunes AAC 256",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2a5197e7de4a2d2a956c6698c2ee333df1c6b09c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        42,
+        81,
+        151,
+        231,
+        222,
+        74,
+        45,
+        42,
+        149,
+        108,
+        102,
+        152,
+        194,
+        238,
+        51,
+        61,
+        241,
+        198,
+        176,
+        156
+      ]
+    },
+    "name": "Tame Impala Discography (2006-2013) iTunes AAC 256",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 161,
+  "peers": 155,
+  "last_updated": "2016-12-24T20:39:36.089Z"
+}

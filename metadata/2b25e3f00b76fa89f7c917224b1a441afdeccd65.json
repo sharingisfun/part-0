@@ -1,1 +1,61 @@
-{"title":"Minecraft 1.8.3 (working stats by TagCraftMC)","uid":11757284,"size":135427653,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2b25e3f00b76fa89f7c917224b1a441afdeccd65&amp;dn=Minecraft+1.8.3+%28working+stats+by+TagCraftMC%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":114,"leechers":2,"uploader":"Sceptrum","files":1,"time":1426449340,"description":"This is a working version of Minecraft 1.8.3.\n\nI uploaded this because the other releases I tried had the achivements bug, i.e. your stats did not save properly so you could not tame wolves etc.\n\nThis version saves your stats PROPERLY so you can enjoy proper gameplay.\n\nProps go to TagCraftMC team for their proper launcher.\n\nEnjoy and say thanks ;-)","torrent":{"xt":"urn:btih:2b25e3f00b76fa89f7c917224b1a441afdeccd65","amp;dn":"Minecraft+1.8.3+%28working+stats+by+TagCraftMC%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2b25e3f00b76fa89f7c917224b1a441afdeccd65","infoHashBuffer":{"type":"Buffer","data":[43,37,227,240,11,118,250,137,247,201,23,34,75,26,68,26,253,236,205,101]},"announce":[],"urlList":[]}}
+{
+  "title": "Minecraft 1.8.3 (working stats by TagCraftMC)",
+  "uid": 11757284,
+  "size": 135427653,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2b25e3f00b76fa89f7c917224b1a441afdeccd65&amp;dn=Minecraft+1.8.3+%28working+stats+by+TagCraftMC%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 114,
+  "leechers": 2,
+  "uploader": "Sceptrum",
+  "files": 1,
+  "time": 1426449340,
+  "description": "This is a working version of Minecraft 1.8.3.\n\nI uploaded this because the other releases I tried had the achivements bug, i.e. your stats did not save properly so you could not tame wolves etc.\n\nThis version saves your stats PROPERLY so you can enjoy proper gameplay.\n\nProps go to TagCraftMC team for their proper launcher.\n\nEnjoy and say thanks ;-)",
+  "parsed": {
+    "xt": "urn:btih:2b25e3f00b76fa89f7c917224b1a441afdeccd65",
+    "dn": "Minecraft 1.8.3 (working stats by TagCraftMC)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2b25e3f00b76fa89f7c917224b1a441afdeccd65",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        43,
+        37,
+        227,
+        240,
+        11,
+        118,
+        250,
+        137,
+        247,
+        201,
+        23,
+        34,
+        75,
+        26,
+        68,
+        26,
+        253,
+        236,
+        205,
+        101
+      ]
+    },
+    "name": "Minecraft 1.8.3 (working stats by TagCraftMC)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 116,
+  "peers": 14,
+  "last_updated": "2016-12-24T20:45:23.391Z"
+}

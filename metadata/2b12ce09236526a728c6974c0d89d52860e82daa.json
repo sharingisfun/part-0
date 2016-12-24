@@ -1,1 +1,61 @@
-{"title":"Major Lazer x DJ Snake feat. MÃ˜ - Lean On.mp3","uid":11828746,"size":7160689,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2b12ce09236526a728c6974c0d89d52860e82daa&amp;dn=Major+Lazer+x+DJ+Snake+feat.+M%26Oslash%3B+-+Lean+On.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":2144,"leechers":134,"uploader":"sergelover","files":1,"time":1429568146,"description":"&quot;Lean On&quot; is a 2015 song by Major Lazer (a music project created by American DJ and record producer Diplo) and French DJ and producer DJ Snake. The song features vocals by Danish recording artist MÃƒËœ","torrent":{"xt":"urn:btih:2b12ce09236526a728c6974c0d89d52860e82daa","amp;dn":"Major+Lazer+x+DJ+Snake+feat.+M%26Oslash%3B+-+Lean+On.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2b12ce09236526a728c6974c0d89d52860e82daa","infoHashBuffer":{"type":"Buffer","data":[43,18,206,9,35,101,38,167,40,198,151,76,13,137,213,40,96,232,45,170]},"announce":[],"urlList":[]}}
+{
+  "title": "Major Lazer x DJ Snake feat. MÃ˜ - Lean On.mp3",
+  "uid": 11828746,
+  "size": 7160689,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2b12ce09236526a728c6974c0d89d52860e82daa&amp;dn=Major+Lazer+x+DJ+Snake+feat.+M%26Oslash%3B+-+Lean+On.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 2144,
+  "leechers": 134,
+  "uploader": "sergelover",
+  "files": 1,
+  "time": 1429568146,
+  "description": "&quot;Lean On&quot; is a 2015 song by Major Lazer (a music project created by American DJ and record producer Diplo) and French DJ and producer DJ Snake. The song features vocals by Danish recording artist MÃƒËœ",
+  "parsed": {
+    "xt": "urn:btih:2b12ce09236526a728c6974c0d89d52860e82daa",
+    "dn": "Major Lazer x DJ Snake feat. M&Oslash; - Lean On.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2b12ce09236526a728c6974c0d89d52860e82daa",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        43,
+        18,
+        206,
+        9,
+        35,
+        101,
+        38,
+        167,
+        40,
+        198,
+        151,
+        76,
+        13,
+        137,
+        213,
+        40,
+        96,
+        232,
+        45,
+        170
+      ]
+    },
+    "name": "Major Lazer x DJ Snake feat. M&Oslash; - Lean On.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 2278,
+  "peers": 50,
+  "last_updated": "2016-12-24T20:44:53.270Z"
+}

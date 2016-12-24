@@ -1,1 +1,61 @@
-{"title":"Gilmore Girls Season 2","uid":3588728,"size":8071626752,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:2bb8a76c58b3681eb6d21ead34749c6169b4b0a0&amp;dn=Gilmore+Girls+Season+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":15,"uploader":"Smulan918","files":22,"time":1167821284,"description":"Season 2 of the Gilmore Girls. Note that this is not a DVD rip or anything like that, I have just found them on DC and added them together. Makes it a little bit easier for everyone else to watch this great series.\nEnjoy.\n\nPlease have patience because I have only 128 Kbit upload and limited uptime.","torrent":{"xt":"urn:btih:2bb8a76c58b3681eb6d21ead34749c6169b4b0a0","amp;dn":"Gilmore+Girls+Season+2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2bb8a76c58b3681eb6d21ead34749c6169b4b0a0","infoHashBuffer":{"type":"Buffer","data":[43,184,167,108,88,179,104,30,182,210,30,173,52,116,156,97,105,180,176,160]},"announce":[],"urlList":[]}}
+{
+  "title": "Gilmore Girls Season 2",
+  "uid": 3588728,
+  "size": 8071626752,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:2bb8a76c58b3681eb6d21ead34749c6169b4b0a0&amp;dn=Gilmore+Girls+Season+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 15,
+  "uploader": "Smulan918",
+  "files": 22,
+  "time": 1167821284,
+  "description": "Season 2 of the Gilmore Girls. Note that this is not a DVD rip or anything like that, I have just found them on DC and added them together. Makes it a little bit easier for everyone else to watch this great series.\nEnjoy.\n\nPlease have patience because I have only 128 Kbit upload and limited uptime.",
+  "parsed": {
+    "xt": "urn:btih:2bb8a76c58b3681eb6d21ead34749c6169b4b0a0",
+    "dn": "Gilmore Girls Season 2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2bb8a76c58b3681eb6d21ead34749c6169b4b0a0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        43,
+        184,
+        167,
+        108,
+        88,
+        179,
+        104,
+        30,
+        182,
+        210,
+        30,
+        173,
+        52,
+        116,
+        156,
+        97,
+        105,
+        180,
+        176,
+        160
+      ]
+    },
+    "name": "Gilmore Girls Season 2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 50,
+  "last_updated": "2016-12-24T20:49:40.468Z"
+}

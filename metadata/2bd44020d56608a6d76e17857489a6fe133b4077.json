@@ -1,1 +1,61 @@
-{"title":"Intruders S01E01 HDTV x264-2HD[ettv]","uid":10857996,"size":259910285,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:2bd44020d56608a6d76e17857489a6fe133b4077&amp;dn=Intruders+S01E01+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":1,"uploader":"ettv","files":2,"time":1408856988,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps &lt;a href=&quot;\nhttp://www.tvrage.com/shows/id-38479&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.tvrage.com/shows/id-38479&lt;/a&gt;","torrent":{"xt":"urn:btih:2bd44020d56608a6d76e17857489a6fe133b4077","amp;dn":"Intruders+S01E01+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2bd44020d56608a6d76e17857489a6fe133b4077","infoHashBuffer":{"type":"Buffer","data":[43,212,64,32,213,102,8,166,215,110,23,133,116,137,166,254,19,59,64,119]},"announce":[],"urlList":[]}}
+{
+  "title": "Intruders S01E01 HDTV x264-2HD[ettv]",
+  "uid": 10857996,
+  "size": 259910285,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:2bd44020d56608a6d76e17857489a6fe133b4077&amp;dn=Intruders+S01E01+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1408856988,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps &lt;a href=&quot;\nhttp://www.tvrage.com/shows/id-38479&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.tvrage.com/shows/id-38479&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:2bd44020d56608a6d76e17857489a6fe133b4077",
+    "dn": "Intruders S01E01 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2bd44020d56608a6d76e17857489a6fe133b4077",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        43,
+        212,
+        64,
+        32,
+        213,
+        102,
+        8,
+        166,
+        215,
+        110,
+        23,
+        133,
+        116,
+        137,
+        166,
+        254,
+        19,
+        59,
+        64,
+        119
+      ]
+    },
+    "name": "Intruders S01E01 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 2,
+  "last_updated": "2016-12-24T20:50:36.664Z"
+}

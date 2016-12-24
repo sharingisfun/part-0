@@ -1,1 +1,61 @@
-{"title":"el origen del planeta de los simios (peliculasytorrent)","uid":8479533,"size":1563906048,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:2b49519ecb07873666ba770f7697577bc49df76e&amp;dn=el+origen+del+planeta+de+los+simios+%28peliculasytorrent%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":106,"leechers":3,"uploader":"Miguel223","files":1,"time":1368696909,"description":"","torrent":{"xt":"urn:btih:2b49519ecb07873666ba770f7697577bc49df76e","amp;dn":"el+origen+del+planeta+de+los+simios+%28peliculasytorrent%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2b49519ecb07873666ba770f7697577bc49df76e","infoHashBuffer":{"type":"Buffer","data":[43,73,81,158,203,7,135,54,102,186,119,15,118,151,87,123,196,157,247,110]},"announce":[],"urlList":[]}}
+{
+  "title": "el origen del planeta de los simios (peliculasytorrent)",
+  "uid": 8479533,
+  "size": 1563906048,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:2b49519ecb07873666ba770f7697577bc49df76e&amp;dn=el+origen+del+planeta+de+los+simios+%28peliculasytorrent%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 106,
+  "leechers": 3,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1368696909,
+  "description": "",
+  "parsed": {
+    "xt": "urn:btih:2b49519ecb07873666ba770f7697577bc49df76e",
+    "dn": "el origen del planeta de los simios (peliculasytorrent)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2b49519ecb07873666ba770f7697577bc49df76e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        43,
+        73,
+        81,
+        158,
+        203,
+        7,
+        135,
+        54,
+        102,
+        186,
+        119,
+        15,
+        118,
+        151,
+        87,
+        123,
+        196,
+        157,
+        247,
+        110
+      ]
+    },
+    "name": "el origen del planeta de los simios (peliculasytorrent)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 109,
+  "peers": 4,
+  "last_updated": "2016-12-24T20:46:31.712Z"
+}

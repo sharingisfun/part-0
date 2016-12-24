@@ -1,1 +1,61 @@
-{"title":"[FSX/P3D] ORBX FTX Global Vector v1.20","uid":11720983,"size":7082019003,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2a8f9a11550bc046fc3e232a834d12d111704b25&amp;dn=%5BFSX%2FP3D%5D+ORBX+FTX+Global+Vector+v1.20&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":9,"uploader":"leopard87","files":15,"time":1424815561,"description":"OK guys, here is ORBX FTX Global Vector v1.20 for you. I don't know why, but nobody bothered to share this here at TPB, so I thought it would be nice to share this with you.\n\nAs stated in the readme file by me, this is the FULL installer and does NOT require previous versions of FTX Global Vector to be installed on your computer.\n\nHUGE THANKS to the original uploader/cracker (who I think is Tigeros) for his efforts!\n\nI can't -and I don't want to- seed a big upload like this forever. PLEASE SEED so that others can benefit from this, too.\n\nEnjoy!\n\n\nSPECIAL NOTE TO P3D v2.5 USERS: Lockheed Martin (LM) made some radical changes in P3D v2.5 which break compatibility with a lot of scenery products. FTX Global Vector v1.20 had been compiled before P3D v2.5 was released. Therefore, it is NOT fully compatible with P3D v2.5. After the installation is complete, you will probably need to do some additional steps before it works as intended. Search the web &amp; ORBX forums for these steps. Good luck!","torrent":{"xt":"urn:btih:2a8f9a11550bc046fc3e232a834d12d111704b25","amp;dn":"%5BFSX%2FP3D%5D+ORBX+FTX+Global+Vector+v1.20","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2a8f9a11550bc046fc3e232a834d12d111704b25","infoHashBuffer":{"type":"Buffer","data":[42,143,154,17,85,11,192,70,252,62,35,42,131,77,18,209,17,112,75,37]},"announce":[],"urlList":[]}}
+{
+  "title": "[FSX/P3D] ORBX FTX Global Vector v1.20",
+  "uid": 11720983,
+  "size": 7082019003,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2a8f9a11550bc046fc3e232a834d12d111704b25&amp;dn=%5BFSX%2FP3D%5D+ORBX+FTX+Global+Vector+v1.20&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 9,
+  "uploader": "leopard87",
+  "files": 15,
+  "time": 1424815561,
+  "description": "OK guys, here is ORBX FTX Global Vector v1.20 for you. I don't know why, but nobody bothered to share this here at TPB, so I thought it would be nice to share this with you.\n\nAs stated in the readme file by me, this is the FULL installer and does NOT require previous versions of FTX Global Vector to be installed on your computer.\n\nHUGE THANKS to the original uploader/cracker (who I think is Tigeros) for his efforts!\n\nI can't -and I don't want to- seed a big upload like this forever. PLEASE SEED so that others can benefit from this, too.\n\nEnjoy!\n\n\nSPECIAL NOTE TO P3D v2.5 USERS: Lockheed Martin (LM) made some radical changes in P3D v2.5 which break compatibility with a lot of scenery products. FTX Global Vector v1.20 had been compiled before P3D v2.5 was released. Therefore, it is NOT fully compatible with P3D v2.5. After the installation is complete, you will probably need to do some additional steps before it works as intended. Search the web &amp; ORBX forums for these steps. Good luck!",
+  "parsed": {
+    "xt": "urn:btih:2a8f9a11550bc046fc3e232a834d12d111704b25",
+    "dn": "[FSX/P3D] ORBX FTX Global Vector v1.20",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2a8f9a11550bc046fc3e232a834d12d111704b25",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        42,
+        143,
+        154,
+        17,
+        85,
+        11,
+        192,
+        70,
+        252,
+        62,
+        35,
+        42,
+        131,
+        77,
+        18,
+        209,
+        17,
+        112,
+        75,
+        37
+      ]
+    },
+    "name": "[FSX/P3D] ORBX FTX Global Vector v1.20",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 49,
+  "last_updated": "2016-12-24T20:41:30.465Z"
+}

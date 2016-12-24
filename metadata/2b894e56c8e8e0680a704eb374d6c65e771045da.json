@@ -1,1 +1,61 @@
-{"title":"King of New York (1990) XviD.DVDRip..","uid":3519059,"size":735105024,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:2b894e56c8e8e0680a704eb374d6c65e771045da&amp;dn=King+of+New+York+%281990%29+XviD.DVDRip..&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":"Baga","files":1,"time":1157320950,"description":"King of New York (1990) XviD.DVDRip..\nAction\n","torrent":{"xt":"urn:btih:2b894e56c8e8e0680a704eb374d6c65e771045da","amp;dn":"King+of+New+York+%281990%29+XviD.DVDRip..","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2b894e56c8e8e0680a704eb374d6c65e771045da","infoHashBuffer":{"type":"Buffer","data":[43,137,78,86,200,232,224,104,10,112,78,179,116,214,198,94,119,16,69,218]},"announce":[],"urlList":[]}}
+{
+  "title": "King of New York (1990) XviD.DVDRip..",
+  "uid": 3519059,
+  "size": 735105024,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:2b894e56c8e8e0680a704eb374d6c65e771045da&amp;dn=King+of+New+York+%281990%29+XviD.DVDRip..&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": "Baga",
+  "files": 1,
+  "time": 1157320950,
+  "description": "King of New York (1990) XviD.DVDRip..\nAction\n",
+  "parsed": {
+    "xt": "urn:btih:2b894e56c8e8e0680a704eb374d6c65e771045da",
+    "dn": "King of New York (1990) XviD.DVDRip..",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2b894e56c8e8e0680a704eb374d6c65e771045da",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        43,
+        137,
+        78,
+        86,
+        200,
+        232,
+        224,
+        104,
+        10,
+        112,
+        78,
+        179,
+        116,
+        214,
+        198,
+        94,
+        119,
+        16,
+        69,
+        218
+      ]
+    },
+    "name": "King of New York (1990) XviD.DVDRip..",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 45,
+  "last_updated": "2016-12-24T20:48:38.207Z"
+}

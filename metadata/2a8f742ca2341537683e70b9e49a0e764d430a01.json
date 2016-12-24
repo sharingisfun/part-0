@@ -1,1 +1,63 @@
-{"title":"Ancient.Aliens.S11E02.Destination.Mars.HDTV.x264-SPASM","uid":14617161,"size":280220800,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:2a8f742ca2341537683e70b9e49a0e764d430a01&amp;dn=Ancient.Aliens.S11E02.Destination.Mars.HDTV.x264-SPASM&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":2,"uploader":"LegendET","files":2,"time":1463220895,"description":"Video\r\nFormat: x264/AVC\r\nDimensions: 720,404\r\nBit rate: Variable\r\n\r\nAudio\r\nFormat: AAC-LC\r\nChannels: Stereo\r\nBit rate: Variable","torrent":{"xt":"urn:btih:2a8f742ca2341537683e70b9e49a0e764d430a01","amp;dn":"Ancient.Aliens.S11E02.Destination.Mars.HDTV.x264-SPASM","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2a8f742ca2341537683e70b9e49a0e764d430a01","infoHashBuffer":{"type":"Buffer","data":[42,143,116,44,162,52,21,55,104,62,112,185,228,154,14,118,77,67,10,1]},"announce":[],"urlList":[]}}
+{
+  "title": "Ancient.Aliens.S11E02.Destination.Mars.HDTV.x264-SPASM",
+  "uid": 14617161,
+  "size": 280220800,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:2a8f742ca2341537683e70b9e49a0e764d430a01&amp;dn=Ancient.Aliens.S11E02.Destination.Mars.HDTV.x264-SPASM&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 2,
+  "uploader": "LegendET",
+  "files": 2,
+  "time": 1463220895,
+  "description": "Video\r\nFormat: x264/AVC\r\nDimensions: 720,404\r\nBit rate: Variable\r\n\r\nAudio\r\nFormat: AAC-LC\r\nChannels: Stereo\r\nBit rate: Variable",
+  "parsed": {
+    "xt": "urn:btih:2a8f742ca2341537683e70b9e49a0e764d430a01",
+    "dn": "Ancient.Aliens.S11E02.Destination.Mars.HDTV.x264-SPASM",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "2a8f742ca2341537683e70b9e49a0e764d430a01",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        42,
+        143,
+        116,
+        44,
+        162,
+        52,
+        21,
+        55,
+        104,
+        62,
+        112,
+        185,
+        228,
+        154,
+        14,
+        118,
+        77,
+        67,
+        10,
+        1
+      ]
+    },
+    "name": "Ancient.Aliens.S11E02.Destination.Mars.HDTV.x264-SPASM",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 166,
+  "last_updated": "2016-12-24T20:41:28.458Z"
+}

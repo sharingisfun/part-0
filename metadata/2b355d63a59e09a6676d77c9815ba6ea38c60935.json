@@ -1,1 +1,63 @@
-{"title":"X Rebirth : Collectors Edition [v 4.0 + 2 DLC] (2016)","uid":15964373,"size":13258121,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2b355d63a59e09a6676d77c9815ba6ea38c60935&amp;dn=X+Rebirth+%3A+Collectors+Edition+%5Bv+4.0+%2B+2+DLC%5D+%282016%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":40,"uploader":"trwetwr","files":4,"time":1475708359,"description":"Good Game","torrent":{"xt":"urn:btih:2b355d63a59e09a6676d77c9815ba6ea38c60935","amp;dn":"X+Rebirth+%3A+Collectors+Edition+%5Bv+4.0+%2B+2+DLC%5D+%282016%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2b355d63a59e09a6676d77c9815ba6ea38c60935","infoHashBuffer":{"type":"Buffer","data":[43,53,93,99,165,158,9,166,103,109,119,201,129,91,166,234,56,198,9,53]},"announce":[],"urlList":[]}}
+{
+  "title": "X Rebirth : Collectors Edition [v 4.0 + 2 DLC] (2016)",
+  "uid": 15964373,
+  "size": 13258121,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2b355d63a59e09a6676d77c9815ba6ea38c60935&amp;dn=X+Rebirth+%3A+Collectors+Edition+%5Bv+4.0+%2B+2+DLC%5D+%282016%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 40,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475708359,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:2b355d63a59e09a6676d77c9815ba6ea38c60935",
+    "dn": "X Rebirth : Collectors Edition [v 4.0   2 DLC] (2016)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "2b355d63a59e09a6676d77c9815ba6ea38c60935",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        43,
+        53,
+        93,
+        99,
+        165,
+        158,
+        9,
+        166,
+        103,
+        109,
+        119,
+        201,
+        129,
+        91,
+        166,
+        234,
+        56,
+        198,
+        9,
+        53
+      ]
+    },
+    "name": "X Rebirth : Collectors Edition [v 4.0   2 DLC] (2016)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 102,
+  "peers": 2,
+  "last_updated": "2016-12-24T20:45:53.515Z"
+}

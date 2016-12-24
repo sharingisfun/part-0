@@ -1,1 +1,61 @@
-{"title":"Dani Martin - Pequenio 2012 [Mp3]","uid":7764159,"size":78961510,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2ab58101490dce637bf38097955b98ab58c7043d&amp;dn=Dani+Martin+-+Pequenio+2012+%5BMp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":2,"uploader":"virana","files":12,"time":1351323180,"description":"GÃƒÂ©nero: Pop\nCalidad: 192 Kbps\nFormato: MP3\nFecha: 26-10-2010\n\n\nTracklist\n\n1.16 aÃƒÂ±itos\n2.Mira la vida\n3.Mi lamento\n4.Eres\n5.La verdad\n6.Los valientes de la pandilla\n7.La linea\n8.El puzzle\n9.Tres encantos\n10.PequeÃƒÂ±o\n11.Lo que nace se apaga\n12.El cielo de los perros","torrent":{"xt":"urn:btih:2ab58101490dce637bf38097955b98ab58c7043d","amp;dn":"Dani+Martin+-+Pequenio+2012+%5BMp3%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2ab58101490dce637bf38097955b98ab58c7043d","infoHashBuffer":{"type":"Buffer","data":[42,181,129,1,73,13,206,99,123,243,128,151,149,91,152,171,88,199,4,61]},"announce":[],"urlList":[]}}
+{
+  "title": "Dani Martin - Pequenio 2012 [Mp3]",
+  "uid": 7764159,
+  "size": 78961510,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2ab58101490dce637bf38097955b98ab58c7043d&amp;dn=Dani+Martin+-+Pequenio+2012+%5BMp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 2,
+  "uploader": "virana",
+  "files": 12,
+  "time": 1351323180,
+  "description": "GÃƒÂ©nero: Pop\nCalidad: 192 Kbps\nFormato: MP3\nFecha: 26-10-2010\n\n\nTracklist\n\n1.16 aÃƒÂ±itos\n2.Mira la vida\n3.Mi lamento\n4.Eres\n5.La verdad\n6.Los valientes de la pandilla\n7.La linea\n8.El puzzle\n9.Tres encantos\n10.PequeÃƒÂ±o\n11.Lo que nace se apaga\n12.El cielo de los perros",
+  "parsed": {
+    "xt": "urn:btih:2ab58101490dce637bf38097955b98ab58c7043d",
+    "dn": "Dani Martin - Pequenio 2012 [Mp3]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2ab58101490dce637bf38097955b98ab58c7043d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        42,
+        181,
+        129,
+        1,
+        73,
+        13,
+        206,
+        99,
+        123,
+        243,
+        128,
+        151,
+        149,
+        91,
+        152,
+        171,
+        88,
+        199,
+        4,
+        61
+      ]
+    },
+    "name": "Dani Martin - Pequenio 2012 [Mp3]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 9,
+  "last_updated": "2016-12-24T20:42:26.672Z"
+}

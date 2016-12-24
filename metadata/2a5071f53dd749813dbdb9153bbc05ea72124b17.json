@@ -1,1 +1,61 @@
-{"title":"Toast Titanium 12.0.1 [Mac Os X] [coque599]","uid":11691522,"size":451454265,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:2a5071f53dd749813dbdb9153bbc05ea72124b17&amp;dn=Toast+Titanium+12.0.1+%5BMac+Os+X%5D+%5Bcoque599%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":100,"leechers":5,"uploader":"coque599","files":2,"time":1423562152,"description":"Toast Titanium goes way beyond the very basic burning in the Mac OS and iLife software, and sets the standard for burning CDs, DVDs, and now Blu-ray discs on the Mac. Create superior sounding audio CDs with smooth crossfades and transitions. Enjoy your TV shows anywhere with exclusive TiVoToGo and EyeTV burning. Convert and export video for an iPod, PSP, mobile phone, and more. Burn files of any size, and automatically catalog the contents of your discs. Copy your audio CDs, movies and DVDs. There is no easier or faster way to save, share, and enjoy your digital media on disc.\n\nWhat's New\nVersion 12.0.1:\nAdd OS X 10.10 Yosemite compatibility\n\nRequirements\nIntel\nOS X 10.5 or later\n\nSeed And Enjoy\nIf you like my work vote it good","torrent":{"xt":"urn:btih:2a5071f53dd749813dbdb9153bbc05ea72124b17","amp;dn":"Toast+Titanium+12.0.1+%5BMac+Os+X%5D+%5Bcoque599%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2a5071f53dd749813dbdb9153bbc05ea72124b17","infoHashBuffer":{"type":"Buffer","data":[42,80,113,245,61,215,73,129,61,189,185,21,59,188,5,234,114,18,75,23]},"announce":[],"urlList":[]}}
+{
+  "title": "Toast Titanium 12.0.1 [Mac Os X] [coque599]",
+  "uid": 11691522,
+  "size": 451454265,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:2a5071f53dd749813dbdb9153bbc05ea72124b17&amp;dn=Toast+Titanium+12.0.1+%5BMac+Os+X%5D+%5Bcoque599%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 100,
+  "leechers": 5,
+  "uploader": "coque599",
+  "files": 2,
+  "time": 1423562152,
+  "description": "Toast Titanium goes way beyond the very basic burning in the Mac OS and iLife software, and sets the standard for burning CDs, DVDs, and now Blu-ray discs on the Mac. Create superior sounding audio CDs with smooth crossfades and transitions. Enjoy your TV shows anywhere with exclusive TiVoToGo and EyeTV burning. Convert and export video for an iPod, PSP, mobile phone, and more. Burn files of any size, and automatically catalog the contents of your discs. Copy your audio CDs, movies and DVDs. There is no easier or faster way to save, share, and enjoy your digital media on disc.\n\nWhat's New\nVersion 12.0.1:\nAdd OS X 10.10 Yosemite compatibility\n\nRequirements\nIntel\nOS X 10.5 or later\n\nSeed And Enjoy\nIf you like my work vote it good",
+  "parsed": {
+    "xt": "urn:btih:2a5071f53dd749813dbdb9153bbc05ea72124b17",
+    "dn": "Toast Titanium 12.0.1 [Mac Os X] [coque599]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2a5071f53dd749813dbdb9153bbc05ea72124b17",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        42,
+        80,
+        113,
+        245,
+        61,
+        215,
+        73,
+        129,
+        61,
+        189,
+        185,
+        21,
+        59,
+        188,
+        5,
+        234,
+        114,
+        18,
+        75,
+        23
+      ]
+    },
+    "name": "Toast Titanium 12.0.1 [Mac Os X] [coque599]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 105,
+  "peers": 50,
+  "last_updated": "2016-12-24T20:39:34.082Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Chris Brown - New Flame ft. Usher, Rick Ross","uid":10487289,"size":9855391,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2b55ecec91f023a68a245b89f2a57cceeaaa2136&amp;dn=Chris+Brown+-+New+Flame+ft.+Usher%2C+Rick+Ross&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":0,"uploader":"matsuleh","files":1,"time":1404491981,"description":"Artist: Chris Brown\nFormat: MPEG Audio (MP3)\nGenre: R&amp;B\nOverall bit rate: 320 Kbps\nSize: 9.39MB\n\n***************************PLEASE SHARE, SEED, ENJOY*********************************","torrent":{"xt":"urn:btih:2b55ecec91f023a68a245b89f2a57cceeaaa2136","amp;dn":"Chris+Brown+-+New+Flame+ft.+Usher%2C+Rick+Ross","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2b55ecec91f023a68a245b89f2a57cceeaaa2136","infoHashBuffer":{"type":"Buffer","data":[43,85,236,236,145,240,35,166,138,36,91,137,242,165,124,206,234,170,33,54]},"announce":[],"urlList":[]}}
+{
+  "title": "Chris Brown - New Flame ft. Usher, Rick Ross",
+  "uid": 10487289,
+  "size": 9855391,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2b55ecec91f023a68a245b89f2a57cceeaaa2136&amp;dn=Chris+Brown+-+New+Flame+ft.+Usher%2C+Rick+Ross&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 0,
+  "uploader": "matsuleh",
+  "files": 1,
+  "time": 1404491981,
+  "description": "Artist: Chris Brown\nFormat: MPEG Audio (MP3)\nGenre: R&amp;B\nOverall bit rate: 320 Kbps\nSize: 9.39MB\n\n***************************PLEASE SHARE, SEED, ENJOY*********************************",
+  "parsed": {
+    "xt": "urn:btih:2b55ecec91f023a68a245b89f2a57cceeaaa2136",
+    "dn": "Chris Brown - New Flame ft. Usher, Rick Ross",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2b55ecec91f023a68a245b89f2a57cceeaaa2136",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        43,
+        85,
+        236,
+        236,
+        145,
+        240,
+        35,
+        166,
+        138,
+        36,
+        91,
+        137,
+        242,
+        165,
+        124,
+        206,
+        234,
+        170,
+        33,
+        54
+      ]
+    },
+    "name": "Chris Brown - New Flame ft. Usher, Rick Ross",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 52,
+  "last_updated": "2016-12-24T20:46:57.813Z"
+}

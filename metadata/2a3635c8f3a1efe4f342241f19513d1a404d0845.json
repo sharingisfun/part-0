@@ -1,1 +1,61 @@
-{"title":"A Great Big World Ft. Christina Aguilera - Say Something mp3.Zaa","uid":9549657,"size":9218048,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2a3635c8f3a1efe4f342241f19513d1a404d0845&amp;dn=A+Great+Big+World+Ft.+Christina+Aguilera+-+Say+Something+mp3.Zaa&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":0,"uploader":"zaankanter","files":1,"time":1391219297,"description":"A Great Big World Ft. Christina Aguilera - Say Something mp3.Zaankanter\n\nPlease seed after download.\n\nMany Thanks","torrent":{"xt":"urn:btih:2a3635c8f3a1efe4f342241f19513d1a404d0845","amp;dn":"A+Great+Big+World+Ft.+Christina+Aguilera+-+Say+Something+mp3.Zaa","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2a3635c8f3a1efe4f342241f19513d1a404d0845","infoHashBuffer":{"type":"Buffer","data":[42,54,53,200,243,161,239,228,243,66,36,31,25,81,61,26,64,77,8,69]},"announce":[],"urlList":[]}}
+{
+  "title": "A Great Big World Ft. Christina Aguilera - Say Something mp3.Zaa",
+  "uid": 9549657,
+  "size": 9218048,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2a3635c8f3a1efe4f342241f19513d1a404d0845&amp;dn=A+Great+Big+World+Ft.+Christina+Aguilera+-+Say+Something+mp3.Zaa&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 0,
+  "uploader": "zaankanter",
+  "files": 1,
+  "time": 1391219297,
+  "description": "A Great Big World Ft. Christina Aguilera - Say Something mp3.Zaankanter\n\nPlease seed after download.\n\nMany Thanks",
+  "parsed": {
+    "xt": "urn:btih:2a3635c8f3a1efe4f342241f19513d1a404d0845",
+    "dn": "A Great Big World Ft. Christina Aguilera - Say Something mp3.Zaa",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2a3635c8f3a1efe4f342241f19513d1a404d0845",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        42,
+        54,
+        53,
+        200,
+        243,
+        161,
+        239,
+        228,
+        243,
+        66,
+        36,
+        31,
+        25,
+        81,
+        61,
+        26,
+        64,
+        77,
+        8,
+        69
+      ]
+    },
+    "name": "A Great Big World Ft. Christina Aguilera - Say Something mp3.Zaa",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 59,
+  "last_updated": "2016-12-24T20:38:39.898Z"
+}

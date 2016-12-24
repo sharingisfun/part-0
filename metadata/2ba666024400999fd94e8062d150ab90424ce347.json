@@ -1,1 +1,61 @@
-{"title":"Alexandra Stan - Mr. Saxobeat 320kbps","uid":6114353,"size":7799478,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2ba666024400999fd94e8062d150ab90424ce347&amp;dn=Alexandra+Stan+-+Mr.+Saxobeat+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":0,"uploader":"gabo12837774","files":1,"time":1295487070,"description":"Alexandra Stan - Mr. Saxobeat 320kbps","torrent":{"xt":"urn:btih:2ba666024400999fd94e8062d150ab90424ce347","amp;dn":"Alexandra+Stan+-+Mr.+Saxobeat+320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2ba666024400999fd94e8062d150ab90424ce347","infoHashBuffer":{"type":"Buffer","data":[43,166,102,2,68,0,153,159,217,78,128,98,209,80,171,144,66,76,227,71]},"announce":[],"urlList":[]}}
+{
+  "title": "Alexandra Stan - Mr. Saxobeat 320kbps",
+  "uid": 6114353,
+  "size": 7799478,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2ba666024400999fd94e8062d150ab90424ce347&amp;dn=Alexandra+Stan+-+Mr.+Saxobeat+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 0,
+  "uploader": "gabo12837774",
+  "files": 1,
+  "time": 1295487070,
+  "description": "Alexandra Stan - Mr. Saxobeat 320kbps",
+  "parsed": {
+    "xt": "urn:btih:2ba666024400999fd94e8062d150ab90424ce347",
+    "dn": "Alexandra Stan - Mr. Saxobeat 320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2ba666024400999fd94e8062d150ab90424ce347",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        43,
+        166,
+        102,
+        2,
+        68,
+        0,
+        153,
+        159,
+        217,
+        78,
+        128,
+        98,
+        209,
+        80,
+        171,
+        144,
+        66,
+        76,
+        227,
+        71
+      ]
+    },
+    "name": "Alexandra Stan - Mr. Saxobeat 320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 0,
+  "last_updated": "2016-12-24T20:49:12.354Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Banished 1.0.4 [PXG] {TorAlt}","uid":11570985,"size":86108508,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:2ae2f6f8fc324a581f57149a364f30cb6bc46e1c&amp;dn=Banished+1.0.4+%5BPXG%5D+%7BTorAlt%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":95,"leechers":0,"uploader":"toralt","files":4,"time":1417022718,"description":"Banished 1.0.4\n\n[Description]\n\nVersion 1.0.4 is now out of beta and has been released. ItÃ¢â‚¬â„¢s up on Steam, and the content on Steam Workshop is now public to everyone.\n\nFor those of you not using Steam, you can download the latest version from either Humble, or GOG, depending where you downloaded. The builds should be up soon on their sites. Until then, you can download this patch (BanishedPatch_Any_To_1.0.4.141103.zip) to bring the game up to date. As always, just extract this archive into your Banished folder and overwrite any existing files.\n\nThe mod kit hasnÃ¢â‚¬â„¢t changed much, but there is a new release of it available on the Mod page.\n\nChanges in this release:\n\n- Increased memory usage allowed for save games. This allows larger modded maps than default to be saved safely. However at some point very large maps will crash the game due to out of memory, or textures failing to be created.\n- Trade UI now expands automatically for orders.\n- Fix a bug that caused mods to become unreferenced in save games when opening the mod dialog in game and then pressing cancel.\n- Fixed a bug that caused mods that should be unloaded to stay in memory if they were loaded at game start. This fixed random ghost buttons on the toolbar.\n- Fixed tutorials not progressing properly.\n\nType: Game\nAge Rating: N/A\nImage type: Exe Installer\nBurn Tested: No\nSize: 82.0MB\nGenre: Town-Building\n\n[PC System Requirements:]\n\n    OS: Windows XP / Vista / 7 / 8 / 8.1\n    Processor: 2 GHz Dual Core\n    Memory: 512 MB RAM\n    Graphics: 512 MB DirectX 9.0c compatible card\n\n\n\nMore Info: http://www.shiningrocksoftware.com/2014-11-04-release-1-0-4/\n\nPXG Website: http://pxgt.co.nr","torrent":{"xt":"urn:btih:2ae2f6f8fc324a581f57149a364f30cb6bc46e1c","amp;dn":"Banished+1.0.4+%5BPXG%5D+%7BTorAlt%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2ae2f6f8fc324a581f57149a364f30cb6bc46e1c","infoHashBuffer":{"type":"Buffer","data":[42,226,246,248,252,50,74,88,31,87,20,154,54,79,48,203,107,196,110,28]},"announce":[],"urlList":[]}}
+{
+  "title": "Banished 1.0.4 [PXG] {TorAlt}",
+  "uid": 11570985,
+  "size": 86108508,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:2ae2f6f8fc324a581f57149a364f30cb6bc46e1c&amp;dn=Banished+1.0.4+%5BPXG%5D+%7BTorAlt%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 95,
+  "leechers": 0,
+  "uploader": "toralt",
+  "files": 4,
+  "time": 1417022718,
+  "description": "Banished 1.0.4\n\n[Description]\n\nVersion 1.0.4 is now out of beta and has been released. ItÃ¢â‚¬â„¢s up on Steam, and the content on Steam Workshop is now public to everyone.\n\nFor those of you not using Steam, you can download the latest version from either Humble, or GOG, depending where you downloaded. The builds should be up soon on their sites. Until then, you can download this patch (BanishedPatch_Any_To_1.0.4.141103.zip) to bring the game up to date. As always, just extract this archive into your Banished folder and overwrite any existing files.\n\nThe mod kit hasnÃ¢â‚¬â„¢t changed much, but there is a new release of it available on the Mod page.\n\nChanges in this release:\n\n- Increased memory usage allowed for save games. This allows larger modded maps than default to be saved safely. However at some point very large maps will crash the game due to out of memory, or textures failing to be created.\n- Trade UI now expands automatically for orders.\n- Fix a bug that caused mods to become unreferenced in save games when opening the mod dialog in game and then pressing cancel.\n- Fixed a bug that caused mods that should be unloaded to stay in memory if they were loaded at game start. This fixed random ghost buttons on the toolbar.\n- Fixed tutorials not progressing properly.\n\nType: Game\nAge Rating: N/A\nImage type: Exe Installer\nBurn Tested: No\nSize: 82.0MB\nGenre: Town-Building\n\n[PC System Requirements:]\n\n    OS: Windows XP / Vista / 7 / 8 / 8.1\n    Processor: 2 GHz Dual Core\n    Memory: 512 MB RAM\n    Graphics: 512 MB DirectX 9.0c compatible card\n\n\n\nMore Info: http://www.shiningrocksoftware.com/2014-11-04-release-1-0-4/\n\nPXG Website: http://pxgt.co.nr",
+  "parsed": {
+    "xt": "urn:btih:2ae2f6f8fc324a581f57149a364f30cb6bc46e1c",
+    "dn": "Banished 1.0.4 [PXG] {TorAlt}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2ae2f6f8fc324a581f57149a364f30cb6bc46e1c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        42,
+        226,
+        246,
+        248,
+        252,
+        50,
+        74,
+        88,
+        31,
+        87,
+        20,
+        154,
+        54,
+        79,
+        48,
+        203,
+        107,
+        196,
+        110,
+        28
+      ]
+    },
+    "name": "Banished 1.0.4 [PXG] {TorAlt}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 95,
+  "peers": 69,
+  "last_updated": "2016-12-24T20:43:44.951Z"
+}
