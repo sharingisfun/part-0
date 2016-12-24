@@ -1,1 +1,61 @@
-{"title":"Oreilly Head First Android Development 1st Edition","uid":12238498,"size":160756176,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:03431787bc23011074699d6d885afc5f567b0978&amp;dn=Oreilly+Head+First+Android+Development+1st+Edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":82,"leechers":10,"uploader":"BMW-X7","files":3,"time":1439716436,"description":"Chapter 1. Getting Started: Diving In\n\nChapter 2. Building Interactive Apps: Apps That Do Something\n\nChapter 3. Multiple Activities and Intents: State Your Intent\n\nChapter 4. The Activity Lifecycle: Being an Activity\n\nChapter 5. The User Interface: Enjoy the View\n\nChapter 6. List Views and Adapters: Getting Organized\n\nChapter 7. Fragments: Make it Modular\n\nChapter 8. Nested Fragments: Dealing with Children\n\nChapter 9. Action Bars: Taking Shortcuts\n\nChapter 10. Navigation Drawers: Going Places\n\nChapter 11. SQLite Databases: Fire Up the Database\n\nChapter 12. Cursors and Asynctasks: Connecting to Databases\n\nChapter 13. Services: At Your Service\n\nChapter 14. Material Design: Living in a Material World","torrent":{"xt":"urn:btih:03431787bc23011074699d6d885afc5f567b0978","amp;dn":"Oreilly+Head+First+Android+Development+1st+Edition","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"03431787bc23011074699d6d885afc5f567b0978","infoHashBuffer":{"type":"Buffer","data":[3,67,23,135,188,35,1,16,116,105,157,109,136,90,252,95,86,123,9,120]},"announce":[],"urlList":[]}}
+{
+  "title": "Oreilly Head First Android Development 1st Edition",
+  "uid": 12238498,
+  "size": 160756176,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:03431787bc23011074699d6d885afc5f567b0978&amp;dn=Oreilly+Head+First+Android+Development+1st+Edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 82,
+  "leechers": 10,
+  "uploader": "BMW-X7",
+  "files": 3,
+  "time": 1439716436,
+  "description": "Chapter 1. Getting Started: Diving In\n\nChapter 2. Building Interactive Apps: Apps That Do Something\n\nChapter 3. Multiple Activities and Intents: State Your Intent\n\nChapter 4. The Activity Lifecycle: Being an Activity\n\nChapter 5. The User Interface: Enjoy the View\n\nChapter 6. List Views and Adapters: Getting Organized\n\nChapter 7. Fragments: Make it Modular\n\nChapter 8. Nested Fragments: Dealing with Children\n\nChapter 9. Action Bars: Taking Shortcuts\n\nChapter 10. Navigation Drawers: Going Places\n\nChapter 11. SQLite Databases: Fire Up the Database\n\nChapter 12. Cursors and Asynctasks: Connecting to Databases\n\nChapter 13. Services: At Your Service\n\nChapter 14. Material Design: Living in a Material World",
+  "parsed": {
+    "xt": "urn:btih:03431787bc23011074699d6d885afc5f567b0978",
+    "dn": "Oreilly Head First Android Development 1st Edition",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "03431787bc23011074699d6d885afc5f567b0978",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        3,
+        67,
+        23,
+        135,
+        188,
+        35,
+        1,
+        16,
+        116,
+        105,
+        157,
+        109,
+        136,
+        90,
+        252,
+        95,
+        86,
+        123,
+        9,
+        120
+      ]
+    },
+    "name": "Oreilly Head First Android Development 1st Edition",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 92,
+  "peers": 99,
+  "last_updated": "2016-12-24T15:41:02.481Z"
+}

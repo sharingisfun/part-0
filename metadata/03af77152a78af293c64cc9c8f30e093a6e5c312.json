@@ -1,1 +1,61 @@
-{"title":"O Rappa - Acustico MTV (2005)","uid":4066294,"size":87859200,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:03af77152a78af293c64cc9c8f30e093a6e5c312&amp;dn=O+Rappa+-+Acustico+MTV+%282005%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":1,"uploader":"baga1","files":13,"time":1204819730,"description":"O Rappa\nAcustico MTV\n(2005)","torrent":{"xt":"urn:btih:03af77152a78af293c64cc9c8f30e093a6e5c312","amp;dn":"O+Rappa+-+Acustico+MTV+%282005%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"03af77152a78af293c64cc9c8f30e093a6e5c312","infoHashBuffer":{"type":"Buffer","data":[3,175,119,21,42,120,175,41,60,100,204,156,143,48,224,147,166,229,195,18]},"announce":[],"urlList":[]}}
+{
+  "title": "O Rappa - Acustico MTV (2005)",
+  "uid": 4066294,
+  "size": 87859200,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:03af77152a78af293c64cc9c8f30e093a6e5c312&amp;dn=O+Rappa+-+Acustico+MTV+%282005%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 1,
+  "uploader": "baga1",
+  "files": 13,
+  "time": 1204819730,
+  "description": "O Rappa\nAcustico MTV\n(2005)",
+  "parsed": {
+    "xt": "urn:btih:03af77152a78af293c64cc9c8f30e093a6e5c312",
+    "dn": "O Rappa - Acustico MTV (2005)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "03af77152a78af293c64cc9c8f30e093a6e5c312",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        3,
+        175,
+        119,
+        21,
+        42,
+        120,
+        175,
+        41,
+        60,
+        100,
+        204,
+        156,
+        143,
+        48,
+        224,
+        147,
+        166,
+        229,
+        195,
+        18
+      ]
+    },
+    "name": "O Rappa - Acustico MTV (2005)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 26,
+  "last_updated": "2016-12-24T15:43:36.915Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Vengeance Essential Dubstep Vol.1 (Wav)","uid":7345181,"size":804474110,"categoryP":"audio","categoryS":"sound_clips","magnet":"?xt=urn:btih:03d886717b28e96049376ec3fb63ff3b17948222&amp;dn=Vengeance+Essential+Dubstep+Vol.1+%28Wav%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":3,"uploader":"PedroDJDaddy1994","files":1,"time":1339404772,"description":"Vengeance Essential Dubstep Vol.1 (Wav)\n\nUploaded by PedroDJDaddy :)","torrent":{"xt":"urn:btih:03d886717b28e96049376ec3fb63ff3b17948222","amp;dn":"Vengeance+Essential+Dubstep+Vol.1+%28Wav%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"03d886717b28e96049376ec3fb63ff3b17948222","infoHashBuffer":{"type":"Buffer","data":[3,216,134,113,123,40,233,96,73,55,110,195,251,99,255,59,23,148,130,34]},"announce":[],"urlList":[]}}
+{
+  "title": "Vengeance Essential Dubstep Vol.1 (Wav)",
+  "uid": 7345181,
+  "size": 804474110,
+  "categoryP": "audio",
+  "categoryS": "sound_clips",
+  "magnet": "?xt=urn:btih:03d886717b28e96049376ec3fb63ff3b17948222&amp;dn=Vengeance+Essential+Dubstep+Vol.1+%28Wav%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 3,
+  "uploader": "PedroDJDaddy1994",
+  "files": 1,
+  "time": 1339404772,
+  "description": "Vengeance Essential Dubstep Vol.1 (Wav)\n\nUploaded by PedroDJDaddy :)",
+  "parsed": {
+    "xt": "urn:btih:03d886717b28e96049376ec3fb63ff3b17948222",
+    "dn": "Vengeance Essential Dubstep Vol.1 (Wav)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "03d886717b28e96049376ec3fb63ff3b17948222",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        3,
+        216,
+        134,
+        113,
+        123,
+        40,
+        233,
+        96,
+        73,
+        55,
+        110,
+        195,
+        251,
+        99,
+        255,
+        59,
+        23,
+        148,
+        130,
+        34
+      ]
+    },
+    "name": "Vengeance Essential Dubstep Vol.1 (Wav)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 41,
+  "last_updated": "2016-12-24T15:44:49.090Z"
+}

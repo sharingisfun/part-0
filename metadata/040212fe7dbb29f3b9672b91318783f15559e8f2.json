@@ -1,1 +1,63 @@
-{"title":"Sapiens: A Brief History of Humankind - Yuval Harari","uid":12674880,"size":220469586,"categoryP":"audio","categoryS":"audio_books","magnet":"?xt=urn:btih:040212fe7dbb29f3b9672b91318783f15559e8f2&amp;dn=Sapiens%3A+A+Brief+History+of+Humankind+-+Yuval+Harari&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":69,"leechers":1,"uploader":"Horisarte","files":26,"time":1446495597,"description":"https://www.goodreads.com/book/show/23692271-sapiens","torrent":{"xt":"urn:btih:040212fe7dbb29f3b9672b91318783f15559e8f2","amp;dn":"Sapiens%3A+A+Brief+History+of+Humankind+-+Yuval+Harari","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"040212fe7dbb29f3b9672b91318783f15559e8f2","infoHashBuffer":{"type":"Buffer","data":[4,2,18,254,125,187,41,243,185,103,43,145,49,135,131,241,85,89,232,242]},"announce":[],"urlList":[]}}
+{
+  "title": "Sapiens: A Brief History of Humankind - Yuval Harari",
+  "uid": 12674880,
+  "size": 220469586,
+  "categoryP": "audio",
+  "categoryS": "audio_books",
+  "magnet": "?xt=urn:btih:040212fe7dbb29f3b9672b91318783f15559e8f2&amp;dn=Sapiens%3A+A+Brief+History+of+Humankind+-+Yuval+Harari&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 69,
+  "leechers": 1,
+  "uploader": "Horisarte",
+  "files": 26,
+  "time": 1446495597,
+  "description": "https://www.goodreads.com/book/show/23692271-sapiens",
+  "parsed": {
+    "xt": "urn:btih:040212fe7dbb29f3b9672b91318783f15559e8f2",
+    "dn": "Sapiens: A Brief History of Humankind - Yuval Harari",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "040212fe7dbb29f3b9672b91318783f15559e8f2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        4,
+        2,
+        18,
+        254,
+        125,
+        187,
+        41,
+        243,
+        185,
+        103,
+        43,
+        145,
+        49,
+        135,
+        131,
+        241,
+        85,
+        89,
+        232,
+        242
+      ]
+    },
+    "name": "Sapiens: A Brief History of Humankind - Yuval Harari",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 214,
+  "last_updated": "2016-12-24T15:46:01.264Z"
+}

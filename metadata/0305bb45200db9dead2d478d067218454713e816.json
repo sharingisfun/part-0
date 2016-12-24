@@ -1,1 +1,61 @@
-{"title":"Metal Slug 3D ps2 jap","uid":4896741,"size":1636469955,"categoryP":"games","categoryS":"psx","magnet":"?xt=urn:btih:0305bb45200db9dead2d478d067218454713e816&amp;dn=Metal+Slug+3D+ps2+jap&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":10,"uploader":"thenoobish","files":2,"time":1242382243,"description":"Plataforma: PS2\nIdioma: Japanese\nRegion: JPN\nCalidad: DVD\nFormato: RAR\nTamaÃƒÆ’Ã‚Â±o: 1.49 GB\nFecha: 21-07-2006\nUploader: Eskike \n\nMitico juego de Neo-Geo, ahora han querido probar suerte con el 3d, version exclusiva para psx2.","torrent":{"xt":"urn:btih:0305bb45200db9dead2d478d067218454713e816","amp;dn":"Metal+Slug+3D+ps2+jap","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0305bb45200db9dead2d478d067218454713e816","infoHashBuffer":{"type":"Buffer","data":[3,5,187,69,32,13,185,222,173,45,71,141,6,114,24,69,71,19,232,22]},"announce":[],"urlList":[]}}
+{
+  "title": "Metal Slug 3D ps2 jap",
+  "uid": 4896741,
+  "size": 1636469955,
+  "categoryP": "games",
+  "categoryS": "psx",
+  "magnet": "?xt=urn:btih:0305bb45200db9dead2d478d067218454713e816&amp;dn=Metal+Slug+3D+ps2+jap&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 10,
+  "uploader": "thenoobish",
+  "files": 2,
+  "time": 1242382243,
+  "description": "Plataforma: PS2\nIdioma: Japanese\nRegion: JPN\nCalidad: DVD\nFormato: RAR\nTamaÃƒÆ’Ã‚Â±o: 1.49 GB\nFecha: 21-07-2006\nUploader: Eskike \n\nMitico juego de Neo-Geo, ahora han querido probar suerte con el 3d, version exclusiva para psx2.",
+  "parsed": {
+    "xt": "urn:btih:0305bb45200db9dead2d478d067218454713e816",
+    "dn": "Metal Slug 3D ps2 jap",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0305bb45200db9dead2d478d067218454713e816",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        3,
+        5,
+        187,
+        69,
+        32,
+        13,
+        185,
+        222,
+        173,
+        45,
+        71,
+        141,
+        6,
+        114,
+        24,
+        69,
+        71,
+        19,
+        232,
+        22
+      ]
+    },
+    "name": "Metal Slug 3D ps2 jap",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 4,
+  "last_updated": "2016-12-24T15:39:20.215Z"
+}

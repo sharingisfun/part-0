@@ -1,1 +1,61 @@
-{"title":"Linkin Park - Meteora","uid":3870919,"size":88103913,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:04310edf6dd20c2e6ff769f3a77bd074e8daf06e&amp;dn=Linkin+Park+-+Meteora&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":1,"uploader":"sbks09","files":14,"time":1194088602,"description":"linkin park","torrent":{"xt":"urn:btih:04310edf6dd20c2e6ff769f3a77bd074e8daf06e","amp;dn":"Linkin+Park+-+Meteora","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"04310edf6dd20c2e6ff769f3a77bd074e8daf06e","infoHashBuffer":{"type":"Buffer","data":[4,49,14,223,109,210,12,46,111,247,105,243,167,123,208,116,232,218,240,110]},"announce":[],"urlList":[]}}
+{
+  "title": "Linkin Park - Meteora",
+  "uid": 3870919,
+  "size": 88103913,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:04310edf6dd20c2e6ff769f3a77bd074e8daf06e&amp;dn=Linkin+Park+-+Meteora&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 1,
+  "uploader": "sbks09",
+  "files": 14,
+  "time": 1194088602,
+  "description": "linkin park",
+  "parsed": {
+    "xt": "urn:btih:04310edf6dd20c2e6ff769f3a77bd074e8daf06e",
+    "dn": "Linkin Park - Meteora",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "04310edf6dd20c2e6ff769f3a77bd074e8daf06e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        4,
+        49,
+        14,
+        223,
+        109,
+        210,
+        12,
+        46,
+        111,
+        247,
+        105,
+        243,
+        167,
+        123,
+        208,
+        116,
+        232,
+        218,
+        240,
+        110
+      ]
+    },
+    "name": "Linkin Park - Meteora",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 115,
+  "last_updated": "2016-12-24T15:47:37.508Z"
+}

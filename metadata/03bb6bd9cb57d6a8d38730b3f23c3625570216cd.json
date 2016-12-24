@@ -1,1 +1,61 @@
-{"title":"MKTO - MKTO [Album - 2014] [L3]","uid":9551386,"size":92695995,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:03bb6bd9cb57d6a8d38730b3f23c3625570216cd&amp;dn=MKTO+-+MKTO+%5BAlbum+-+2014%5D+%5BL3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":2,"uploader":"l3endik","files":-1,"time":1391271468,"description":"Artist: MKTO\nAlbum: MKTO\nGenre: Pop\nBitrate: 320 kbps CBR\nRelease date: Jan 30, 2014\nSource:  &lt;a href=&quot;\nhttps://itunes.apple.com/au/album/mkto/id743071281&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://itunes.apple.com/au/album/mkto/id743071281&lt;/a&gt;\n\nT R A C K L I S T\n*****************\n01 Thank You\n02 Classic\n03 God Only Knows\n04 American Dream\n05 Could Be Me (feat. Ne-Yo)\n06 Forever Until Tomorrow\n07 Wasted\n08 Heartbreak Holiday\n09 Nowhere\n10 No More Second Chances (feat. Jessica Ashley)\n11 Goodbye Song\n*****************\nPlease support the artist!","torrent":{"xt":"urn:btih:03bb6bd9cb57d6a8d38730b3f23c3625570216cd","amp;dn":"MKTO+-+MKTO+%5BAlbum+-+2014%5D+%5BL3%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"03bb6bd9cb57d6a8d38730b3f23c3625570216cd","infoHashBuffer":{"type":"Buffer","data":[3,187,107,217,203,87,214,168,211,135,48,179,242,60,54,37,87,2,22,205]},"announce":[],"urlList":[]}}
+{
+  "title": "MKTO - MKTO [Album - 2014] [L3]",
+  "uid": 9551386,
+  "size": 92695995,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:03bb6bd9cb57d6a8d38730b3f23c3625570216cd&amp;dn=MKTO+-+MKTO+%5BAlbum+-+2014%5D+%5BL3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 2,
+  "uploader": "l3endik",
+  "files": -1,
+  "time": 1391271468,
+  "description": "Artist: MKTO\nAlbum: MKTO\nGenre: Pop\nBitrate: 320 kbps CBR\nRelease date: Jan 30, 2014\nSource:  &lt;a href=&quot;\nhttps://itunes.apple.com/au/album/mkto/id743071281&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://itunes.apple.com/au/album/mkto/id743071281&lt;/a&gt;\n\nT R A C K L I S T\n*****************\n01 Thank You\n02 Classic\n03 God Only Knows\n04 American Dream\n05 Could Be Me (feat. Ne-Yo)\n06 Forever Until Tomorrow\n07 Wasted\n08 Heartbreak Holiday\n09 Nowhere\n10 No More Second Chances (feat. Jessica Ashley)\n11 Goodbye Song\n*****************\nPlease support the artist!",
+  "parsed": {
+    "xt": "urn:btih:03bb6bd9cb57d6a8d38730b3f23c3625570216cd",
+    "dn": "MKTO - MKTO [Album - 2014] [L3]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "03bb6bd9cb57d6a8d38730b3f23c3625570216cd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        3,
+        187,
+        107,
+        217,
+        203,
+        87,
+        214,
+        168,
+        211,
+        135,
+        48,
+        179,
+        242,
+        60,
+        54,
+        37,
+        87,
+        2,
+        22,
+        205
+      ]
+    },
+    "name": "MKTO - MKTO [Album - 2014] [L3]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 12,
+  "last_updated": "2016-12-24T15:44:02.978Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Avast Internet Security 2015 + LicenÃ§a","uid":11788694,"size":207334226,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:030be57b9a665f66a7600f0fee0cfce2a56ccf9e&amp;dn=Avast+Internet+Security+2015+%2B+Licen%26ccedil%3Ba&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":7,"uploader":"jefffalcao","files":18,"time":1427848573,"description":"Avast Internet Security 2015 + LicenÃƒÂ§a","torrent":{"xt":"urn:btih:030be57b9a665f66a7600f0fee0cfce2a56ccf9e","amp;dn":"Avast+Internet+Security+2015+%2B+Licen%26ccedil%3Ba","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"030be57b9a665f66a7600f0fee0cfce2a56ccf9e","infoHashBuffer":{"type":"Buffer","data":[3,11,229,123,154,102,95,102,167,96,15,15,238,12,252,226,165,108,207,158]},"announce":[],"urlList":[]}}
+{
+  "title": "Avast Internet Security 2015 + LicenÃ§a",
+  "uid": 11788694,
+  "size": 207334226,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:030be57b9a665f66a7600f0fee0cfce2a56ccf9e&amp;dn=Avast+Internet+Security+2015+%2B+Licen%26ccedil%3Ba&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 7,
+  "uploader": "jefffalcao",
+  "files": 18,
+  "time": 1427848573,
+  "description": "Avast Internet Security 2015 + LicenÃƒÂ§a",
+  "parsed": {
+    "xt": "urn:btih:030be57b9a665f66a7600f0fee0cfce2a56ccf9e",
+    "dn": "Avast Internet Security 2015   Licen&ccedil;a",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "030be57b9a665f66a7600f0fee0cfce2a56ccf9e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        3,
+        11,
+        229,
+        123,
+        154,
+        102,
+        95,
+        102,
+        167,
+        96,
+        15,
+        15,
+        238,
+        12,
+        252,
+        226,
+        165,
+        108,
+        207,
+        158
+      ]
+    },
+    "name": "Avast Internet Security 2015   Licen&ccedil;a",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 13,
+  "last_updated": "2016-12-24T15:39:34.241Z"
+}

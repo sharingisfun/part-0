@@ -1,1 +1,61 @@
-{"title":"Windows 7 Ultimate 32-64 PT-BR.iso","uid":7596754,"size":4777629696,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:04a2ee08e8808aff493f0d91ff0e5e410b5a07fd&amp;dn=Windows+7+Ultimate+32-64+PT-BR.iso&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":271,"leechers":37,"uploader":"luizfamaral","files":1,"time":1346713267,"description":"Windows 7 Ultimate 32bits\n\nWindows 7 Ultimate 64bits\n\n\nWindows original e limpo atualizado atÃƒÂ© o dia 31/08/2012","torrent":{"xt":"urn:btih:04a2ee08e8808aff493f0d91ff0e5e410b5a07fd","amp;dn":"Windows+7+Ultimate+32-64+PT-BR.iso","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"04a2ee08e8808aff493f0d91ff0e5e410b5a07fd","infoHashBuffer":{"type":"Buffer","data":[4,162,238,8,232,128,138,255,73,63,13,145,255,14,94,65,11,90,7,253]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows 7 Ultimate 32-64 PT-BR.iso",
+  "uid": 7596754,
+  "size": 4777629696,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:04a2ee08e8808aff493f0d91ff0e5e410b5a07fd&amp;dn=Windows+7+Ultimate+32-64+PT-BR.iso&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 271,
+  "leechers": 37,
+  "uploader": "luizfamaral",
+  "files": 1,
+  "time": 1346713267,
+  "description": "Windows 7 Ultimate 32bits\n\nWindows 7 Ultimate 64bits\n\n\nWindows original e limpo atualizado atÃƒÂ© o dia 31/08/2012",
+  "parsed": {
+    "xt": "urn:btih:04a2ee08e8808aff493f0d91ff0e5e410b5a07fd",
+    "dn": "Windows 7 Ultimate 32-64 PT-BR.iso",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "04a2ee08e8808aff493f0d91ff0e5e410b5a07fd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        4,
+        162,
+        238,
+        8,
+        232,
+        128,
+        138,
+        255,
+        73,
+        63,
+        13,
+        145,
+        255,
+        14,
+        94,
+        65,
+        11,
+        90,
+        7,
+        253
+      ]
+    },
+    "name": "Windows 7 Ultimate 32-64 PT-BR.iso",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 308,
+  "peers": 62,
+  "last_updated": "2016-12-24T15:50:40.001Z"
+}

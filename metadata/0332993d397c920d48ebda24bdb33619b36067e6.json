@@ -1,1 +1,63 @@
-{"title":"Camtasia Studio v8.6.0 Build 2054","uid":15963861,"size":266766336,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:0332993d397c920d48ebda24bdb33619b36067e6&amp;dn=Camtasia+Studio+v8.6.0+Build+2054&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":183,"leechers":34,"uploader":"faropbtf","files":4,"time":1475703554,"description":"Camtasia Studio v8.6.0 Build 2054 + Patch","torrent":{"xt":"urn:btih:0332993d397c920d48ebda24bdb33619b36067e6","amp;dn":"Camtasia+Studio+v8.6.0+Build+2054","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0332993d397c920d48ebda24bdb33619b36067e6","infoHashBuffer":{"type":"Buffer","data":[3,50,153,61,57,124,146,13,72,235,218,36,189,179,54,25,179,96,103,230]},"announce":[],"urlList":[]}}
+{
+  "title": "Camtasia Studio v8.6.0 Build 2054",
+  "uid": 15963861,
+  "size": 266766336,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:0332993d397c920d48ebda24bdb33619b36067e6&amp;dn=Camtasia+Studio+v8.6.0+Build+2054&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 183,
+  "leechers": 34,
+  "uploader": "faropbtf",
+  "files": 4,
+  "time": 1475703554,
+  "description": "Camtasia Studio v8.6.0 Build 2054 + Patch",
+  "parsed": {
+    "xt": "urn:btih:0332993d397c920d48ebda24bdb33619b36067e6",
+    "dn": "Camtasia Studio v8.6.0 Build 2054",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "0332993d397c920d48ebda24bdb33619b36067e6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        3,
+        50,
+        153,
+        61,
+        57,
+        124,
+        146,
+        13,
+        72,
+        235,
+        218,
+        36,
+        189,
+        179,
+        54,
+        25,
+        179,
+        96,
+        103,
+        230
+      ]
+    },
+    "name": "Camtasia Studio v8.6.0 Build 2054",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 217,
+  "peers": 2,
+  "last_updated": "2016-12-24T15:40:38.402Z"
+}

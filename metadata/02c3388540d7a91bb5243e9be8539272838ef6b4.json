@@ -1,1 +1,61 @@
-{"title":"Bon Jovi - Living on a Prayer.mp3","uid":3767326,"size":4000705,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:02c3388540d7a91bb5243e9be8539272838ef6b4&amp;dn=Bon+Jovi+-+Living+on+a+Prayer.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":0,"uploader":"Javabean","files":1,"time":1186631741,"description":"great music","torrent":{"xt":"urn:btih:02c3388540d7a91bb5243e9be8539272838ef6b4","amp;dn":"Bon+Jovi+-+Living+on+a+Prayer.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"02c3388540d7a91bb5243e9be8539272838ef6b4","infoHashBuffer":{"type":"Buffer","data":[2,195,56,133,64,215,169,27,181,36,62,155,232,83,146,114,131,142,246,180]},"announce":[],"urlList":[]}}
+{
+  "title": "Bon Jovi - Living on a Prayer.mp3",
+  "uid": 3767326,
+  "size": 4000705,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:02c3388540d7a91bb5243e9be8539272838ef6b4&amp;dn=Bon+Jovi+-+Living+on+a+Prayer.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 0,
+  "uploader": "Javabean",
+  "files": 1,
+  "time": 1186631741,
+  "description": "great music",
+  "parsed": {
+    "xt": "urn:btih:02c3388540d7a91bb5243e9be8539272838ef6b4",
+    "dn": "Bon Jovi - Living on a Prayer.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "02c3388540d7a91bb5243e9be8539272838ef6b4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        2,
+        195,
+        56,
+        133,
+        64,
+        215,
+        169,
+        27,
+        181,
+        36,
+        62,
+        155,
+        232,
+        83,
+        146,
+        114,
+        131,
+        142,
+        246,
+        180
+      ]
+    },
+    "name": "Bon Jovi - Living on a Prayer.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 82,
+  "last_updated": "2016-12-24T15:37:17.918Z"
+}

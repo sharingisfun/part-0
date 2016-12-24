@@ -1,1 +1,61 @@
-{"title":"EPL - Southampton vs Manchester United 20.09.2015 SD","uid":12459570,"size":1510223841,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:02e2b3d9f41adca6818270865f6540bd15a95fe6&amp;dn=EPL+-+Southampton+vs+Manchester+United+20.09.2015+SD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":10,"uploader":"footy","files":4,"time":1442785811,"description":"EPL - Southampton vs Manchester United 20.09.2015 SD\nLanguage: English\nContains the game with pre and post match","torrent":{"xt":"urn:btih:02e2b3d9f41adca6818270865f6540bd15a95fe6","amp;dn":"EPL+-+Southampton+vs+Manchester+United+20.09.2015+SD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"02e2b3d9f41adca6818270865f6540bd15a95fe6","infoHashBuffer":{"type":"Buffer","data":[2,226,179,217,244,26,220,166,129,130,112,134,95,101,64,189,21,169,95,230]},"announce":[],"urlList":[]}}
+{
+  "title": "EPL - Southampton vs Manchester United 20.09.2015 SD",
+  "uid": 12459570,
+  "size": 1510223841,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:02e2b3d9f41adca6818270865f6540bd15a95fe6&amp;dn=EPL+-+Southampton+vs+Manchester+United+20.09.2015+SD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 10,
+  "uploader": "footy",
+  "files": 4,
+  "time": 1442785811,
+  "description": "EPL - Southampton vs Manchester United 20.09.2015 SD\nLanguage: English\nContains the game with pre and post match",
+  "parsed": {
+    "xt": "urn:btih:02e2b3d9f41adca6818270865f6540bd15a95fe6",
+    "dn": "EPL - Southampton vs Manchester United 20.09.2015 SD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "02e2b3d9f41adca6818270865f6540bd15a95fe6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        2,
+        226,
+        179,
+        217,
+        244,
+        26,
+        220,
+        166,
+        129,
+        130,
+        112,
+        134,
+        95,
+        101,
+        64,
+        189,
+        21,
+        169,
+        95,
+        230
+      ]
+    },
+    "name": "EPL - Southampton vs Manchester United 20.09.2015 SD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 1,
+  "last_updated": "2016-12-24T15:38:22.075Z"
+}

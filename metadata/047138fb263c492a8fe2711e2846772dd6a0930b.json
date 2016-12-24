@@ -1,1 +1,61 @@
-{"title":"Ariana Grande - Problem (feat. Iggy Azalea) 2014 - iTunes - Sing","uid":10475229,"size":7099288,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:047138fb263c492a8fe2711e2846772dd6a0930b&amp;dn=Ariana+Grande+-+Problem+%28feat.+Iggy+Azalea%29+2014+-+iTunes+-+Sing&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":256,"leechers":1,"uploader":"the.HH","files":1,"time":1404327412,"description":"Enjoy!","torrent":{"xt":"urn:btih:047138fb263c492a8fe2711e2846772dd6a0930b","amp;dn":"Ariana+Grande+-+Problem+%28feat.+Iggy+Azalea%29+2014+-+iTunes+-+Sing","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"047138fb263c492a8fe2711e2846772dd6a0930b","infoHashBuffer":{"type":"Buffer","data":[4,113,56,251,38,60,73,42,143,226,113,30,40,70,119,45,214,160,147,11]},"announce":[],"urlList":[]}}
+{
+  "title": "Ariana Grande - Problem (feat. Iggy Azalea) 2014 - iTunes - Sing",
+  "uid": 10475229,
+  "size": 7099288,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:047138fb263c492a8fe2711e2846772dd6a0930b&amp;dn=Ariana+Grande+-+Problem+%28feat.+Iggy+Azalea%29+2014+-+iTunes+-+Sing&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 256,
+  "leechers": 1,
+  "uploader": "the.HH",
+  "files": 1,
+  "time": 1404327412,
+  "description": "Enjoy!",
+  "parsed": {
+    "xt": "urn:btih:047138fb263c492a8fe2711e2846772dd6a0930b",
+    "dn": "Ariana Grande - Problem (feat. Iggy Azalea) 2014 - iTunes - Sing",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "047138fb263c492a8fe2711e2846772dd6a0930b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        4,
+        113,
+        56,
+        251,
+        38,
+        60,
+        73,
+        42,
+        143,
+        226,
+        113,
+        30,
+        40,
+        70,
+        119,
+        45,
+        214,
+        160,
+        147,
+        11
+      ]
+    },
+    "name": "Ariana Grande - Problem (feat. Iggy Azalea) 2014 - iTunes - Sing",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 257,
+  "peers": 50,
+  "last_updated": "2016-12-24T15:48:57.715Z"
+}

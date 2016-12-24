@@ -1,1 +1,61 @@
-{"title":"Thom Yorke - The Eraser (320 kbps)","uid":4689682,"size":98373888,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:03a5ac85959d597237813e1558ddd57fe3495bdf&amp;dn=Thom+Yorke+-+The+Eraser+%28320+kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":2,"uploader":"vriendpeeters","files":10,"time":1233348668,"description":"Another great album in 320 kbps (people stop uploading music in a lesser rate please)\n\nThis is the frontman of Radiohead with his solo debut. The songs are as haunting as on any Radiohead album but less rock orientated. it's much more electronic. But still pretty brilliant\n\nAs he says in one of the songs: this is f**ed up, this is f**ed up","torrent":{"xt":"urn:btih:03a5ac85959d597237813e1558ddd57fe3495bdf","amp;dn":"Thom+Yorke+-+The+Eraser+%28320+kbps%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"03a5ac85959d597237813e1558ddd57fe3495bdf","infoHashBuffer":{"type":"Buffer","data":[3,165,172,133,149,157,89,114,55,129,62,21,88,221,213,127,227,73,91,223]},"announce":[],"urlList":[]}}
+{
+  "title": "Thom Yorke - The Eraser (320 kbps)",
+  "uid": 4689682,
+  "size": 98373888,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:03a5ac85959d597237813e1558ddd57fe3495bdf&amp;dn=Thom+Yorke+-+The+Eraser+%28320+kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 2,
+  "uploader": "vriendpeeters",
+  "files": 10,
+  "time": 1233348668,
+  "description": "Another great album in 320 kbps (people stop uploading music in a lesser rate please)\n\nThis is the frontman of Radiohead with his solo debut. The songs are as haunting as on any Radiohead album but less rock orientated. it's much more electronic. But still pretty brilliant\n\nAs he says in one of the songs: this is f**ed up, this is f**ed up",
+  "parsed": {
+    "xt": "urn:btih:03a5ac85959d597237813e1558ddd57fe3495bdf",
+    "dn": "Thom Yorke - The Eraser (320 kbps)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "03a5ac85959d597237813e1558ddd57fe3495bdf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        3,
+        165,
+        172,
+        133,
+        149,
+        157,
+        89,
+        114,
+        55,
+        129,
+        62,
+        21,
+        88,
+        221,
+        213,
+        127,
+        227,
+        73,
+        91,
+        223
+      ]
+    },
+    "name": "Thom Yorke - The Eraser (320 kbps)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 22,
+  "last_updated": "2016-12-24T15:43:26.890Z"
+}

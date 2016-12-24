@@ -1,1 +1,61 @@
-{"title":"A Tribe Called Quest Discography","uid":7826617,"size":709681179,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:02e2a3577f37180d7e5ac4eb6baf16d17c73cfc8&amp;dn=A+Tribe+Called+Quest+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":7,"uploader":"EtalonHH","files":92,"time":1352942608,"description":"ATCQ - People's Instinctive Travels And The Paths Of Rhythm (1990) [320]\nATCQ - The Low End Theory (1991) [320]\nATCQ - Midnight Marauders (1993) [320]\nATCQ - Beats, Rhymes And Life (1996) [320]\nATCQ - The Love Movement (1998) [320]\n\nwww.etalonhiphopblog.com","torrent":{"xt":"urn:btih:02e2a3577f37180d7e5ac4eb6baf16d17c73cfc8","amp;dn":"A+Tribe+Called+Quest+Discography","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"02e2a3577f37180d7e5ac4eb6baf16d17c73cfc8","infoHashBuffer":{"type":"Buffer","data":[2,226,163,87,127,55,24,13,126,90,196,235,107,175,22,209,124,115,207,200]},"announce":[],"urlList":[]}}
+{
+  "title": "A Tribe Called Quest Discography",
+  "uid": 7826617,
+  "size": 709681179,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:02e2a3577f37180d7e5ac4eb6baf16d17c73cfc8&amp;dn=A+Tribe+Called+Quest+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 7,
+  "uploader": "EtalonHH",
+  "files": 92,
+  "time": 1352942608,
+  "description": "ATCQ - People's Instinctive Travels And The Paths Of Rhythm (1990) [320]\nATCQ - The Low End Theory (1991) [320]\nATCQ - Midnight Marauders (1993) [320]\nATCQ - Beats, Rhymes And Life (1996) [320]\nATCQ - The Love Movement (1998) [320]\n\nwww.etalonhiphopblog.com",
+  "parsed": {
+    "xt": "urn:btih:02e2a3577f37180d7e5ac4eb6baf16d17c73cfc8",
+    "dn": "A Tribe Called Quest Discography",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "02e2a3577f37180d7e5ac4eb6baf16d17c73cfc8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        2,
+        226,
+        163,
+        87,
+        127,
+        55,
+        24,
+        13,
+        126,
+        90,
+        196,
+        235,
+        107,
+        175,
+        22,
+        209,
+        124,
+        115,
+        207,
+        200
+      ]
+    },
+    "name": "A Tribe Called Quest Discography",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 34,
+  "last_updated": "2016-12-24T15:38:20.070Z"
+}

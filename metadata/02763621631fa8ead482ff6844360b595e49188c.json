@@ -1,1 +1,61 @@
-{"title":"Andrew Gross - 15 Seconds","uid":12436476,"size":318539316,"categoryP":"audio","categoryS":"audio_books","magnet":"?xt=urn:btih:02763621631fa8ead482ff6844360b595e49188c&amp;dn=Andrew+Gross+-+15+Seconds&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":2,"uploader":"Cybotage","files":12,"time":1442518417,"description":"Henry Steadman is a successful Florida plastic surgeon on his way to deliver a keynote address at a conference when his world falls apart. Stopped by the police for a minor traffic violation, the situation escalates and he is pulled from his vehicle, handcuffed, and told he is under arrest. Several other police cars arrive and the questioning turns scary, but after it subsides, and Henry is about to move on, the officer is suddenly killed in his car and there is only one suspect: the very person he was about to arrest not ten minutes before. Henry! When a second friend turns up dead, Henry realizes he's being elaborately framed. But in a chilling twist, the stakes grow even darker, and he is unable to go to the police to clear his name.\n\n\nFormat: MP3\nUnabridged","torrent":{"xt":"urn:btih:02763621631fa8ead482ff6844360b595e49188c","amp;dn":"Andrew+Gross+-+15+Seconds","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"02763621631fa8ead482ff6844360b595e49188c","infoHashBuffer":{"type":"Buffer","data":[2,118,54,33,99,31,168,234,212,130,255,104,68,54,11,89,94,73,24,140]},"announce":[],"urlList":[]}}
+{
+  "title": "Andrew Gross - 15 Seconds",
+  "uid": 12436476,
+  "size": 318539316,
+  "categoryP": "audio",
+  "categoryS": "audio_books",
+  "magnet": "?xt=urn:btih:02763621631fa8ead482ff6844360b595e49188c&amp;dn=Andrew+Gross+-+15+Seconds&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 2,
+  "uploader": "Cybotage",
+  "files": 12,
+  "time": 1442518417,
+  "description": "Henry Steadman is a successful Florida plastic surgeon on his way to deliver a keynote address at a conference when his world falls apart. Stopped by the police for a minor traffic violation, the situation escalates and he is pulled from his vehicle, handcuffed, and told he is under arrest. Several other police cars arrive and the questioning turns scary, but after it subsides, and Henry is about to move on, the officer is suddenly killed in his car and there is only one suspect: the very person he was about to arrest not ten minutes before. Henry! When a second friend turns up dead, Henry realizes he's being elaborately framed. But in a chilling twist, the stakes grow even darker, and he is unable to go to the police to clear his name.\n\n\nFormat: MP3\nUnabridged",
+  "parsed": {
+    "xt": "urn:btih:02763621631fa8ead482ff6844360b595e49188c",
+    "dn": "Andrew Gross - 15 Seconds",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "02763621631fa8ead482ff6844360b595e49188c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        2,
+        118,
+        54,
+        33,
+        99,
+        31,
+        168,
+        234,
+        212,
+        130,
+        255,
+        104,
+        68,
+        54,
+        11,
+        89,
+        94,
+        73,
+        24,
+        140
+      ]
+    },
+    "name": "Andrew Gross - 15 Seconds",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 3,
+  "last_updated": "2016-12-24T15:34:55.540Z"
+}
