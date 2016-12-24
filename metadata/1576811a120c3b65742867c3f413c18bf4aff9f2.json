@@ -1,1 +1,61 @@
-{"title":"George Ezra - Budapest 2013","uid":8882134,"size":8104523,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1576811a120c3b65742867c3f413c18bf4aff9f2&amp;dn=George+Ezra+-+Budapest+2013&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":178,"leechers":1,"uploader":"Wonder_Donnie","files":1,"time":1378355767,"description":"320kbs mp3","torrent":{"xt":"urn:btih:1576811a120c3b65742867c3f413c18bf4aff9f2","amp;dn":"George+Ezra+-+Budapest+2013","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1576811a120c3b65742867c3f413c18bf4aff9f2","infoHashBuffer":{"type":"Buffer","data":[21,118,129,26,18,12,59,101,116,40,103,195,244,19,193,139,244,175,249,242]},"announce":[],"urlList":[]}}
+{
+  "title": "George Ezra - Budapest 2013",
+  "uid": 8882134,
+  "size": 8104523,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1576811a120c3b65742867c3f413c18bf4aff9f2&amp;dn=George+Ezra+-+Budapest+2013&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 178,
+  "leechers": 1,
+  "uploader": "Wonder_Donnie",
+  "files": 1,
+  "time": 1378355767,
+  "description": "320kbs mp3",
+  "parsed": {
+    "xt": "urn:btih:1576811a120c3b65742867c3f413c18bf4aff9f2",
+    "dn": "George Ezra - Budapest 2013",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1576811a120c3b65742867c3f413c18bf4aff9f2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        21,
+        118,
+        129,
+        26,
+        18,
+        12,
+        59,
+        101,
+        116,
+        40,
+        103,
+        195,
+        244,
+        19,
+        193,
+        139,
+        244,
+        175,
+        249,
+        242
+      ]
+    },
+    "name": "George Ezra - Budapest 2013",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 179,
+  "peers": 65,
+  "last_updated": "2016-12-24T18:00:49.608Z"
+}

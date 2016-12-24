@@ -1,1 +1,61 @@
-{"title":"The Starwars collection 1-6 dvd rip's[eng]Xvid","uid":5874283,"size":4365309459,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:15b0c031a694161c4a49b4f260675531b408180a&amp;dn=The+Starwars+collection+1-6+dvd+rip%5C%27s%5Beng%5DXvid&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":83,"leechers":15,"uploader":"eskimo666","files":9,"time":1286551318,"description":"Enjoy","torrent":{"xt":"urn:btih:15b0c031a694161c4a49b4f260675531b408180a","amp;dn":"The+Starwars+collection+1-6+dvd+rip%5C%27s%5Beng%5DXvid","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"15b0c031a694161c4a49b4f260675531b408180a","infoHashBuffer":{"type":"Buffer","data":[21,176,192,49,166,148,22,28,74,73,180,242,96,103,85,49,180,8,24,10]},"announce":[],"urlList":[]}}
+{
+  "title": "The Starwars collection 1-6 dvd rip's[eng]Xvid",
+  "uid": 5874283,
+  "size": 4365309459,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:15b0c031a694161c4a49b4f260675531b408180a&amp;dn=The+Starwars+collection+1-6+dvd+rip%5C%27s%5Beng%5DXvid&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 83,
+  "leechers": 15,
+  "uploader": "eskimo666",
+  "files": 9,
+  "time": 1286551318,
+  "description": "Enjoy",
+  "parsed": {
+    "xt": "urn:btih:15b0c031a694161c4a49b4f260675531b408180a",
+    "dn": "The Starwars collection 1-6 dvd rip\\'s[eng]Xvid",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "15b0c031a694161c4a49b4f260675531b408180a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        21,
+        176,
+        192,
+        49,
+        166,
+        148,
+        22,
+        28,
+        74,
+        73,
+        180,
+        242,
+        96,
+        103,
+        85,
+        49,
+        180,
+        8,
+        24,
+        10
+      ]
+    },
+    "name": "The Starwars collection 1-6 dvd rip\\'s[eng]Xvid",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 98,
+  "peers": 0,
+  "last_updated": "2016-12-24T18:02:44.065Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Mumford &amp; Sons - I Will Wait [Single - 2012]","uid":7521777,"size":11281033,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:147f7362afd152741536dd73c891eaae531f5d9f&amp;dn=Mumford+%26amp%3B+Sons+-+I+Will+Wait+%5BSingle+-+2012%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":1,"uploader":"FatFreddy417","files":-1,"time":1344653415,"description":"320kbps CBR itunesrip\n\nripped by l3endik\n","torrent":{"xt":"urn:btih:147f7362afd152741536dd73c891eaae531f5d9f","amp;dn":"Mumford+%26amp%3B+Sons+-+I+Will+Wait+%5BSingle+-+2012%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"147f7362afd152741536dd73c891eaae531f5d9f","infoHashBuffer":{"type":"Buffer","data":[20,127,115,98,175,209,82,116,21,54,221,115,200,145,234,174,83,31,93,159]},"announce":[],"urlList":[]}}
+{
+  "title": "Mumford &amp; Sons - I Will Wait [Single - 2012]",
+  "uid": 7521777,
+  "size": 11281033,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:147f7362afd152741536dd73c891eaae531f5d9f&amp;dn=Mumford+%26amp%3B+Sons+-+I+Will+Wait+%5BSingle+-+2012%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 1,
+  "uploader": "FatFreddy417",
+  "files": -1,
+  "time": 1344653415,
+  "description": "320kbps CBR itunesrip\n\nripped by l3endik\n",
+  "parsed": {
+    "xt": "urn:btih:147f7362afd152741536dd73c891eaae531f5d9f",
+    "dn": "Mumford &amp; Sons - I Will Wait [Single - 2012]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "147f7362afd152741536dd73c891eaae531f5d9f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        20,
+        127,
+        115,
+        98,
+        175,
+        209,
+        82,
+        116,
+        21,
+        54,
+        221,
+        115,
+        200,
+        145,
+        234,
+        174,
+        83,
+        31,
+        93,
+        159
+      ]
+    },
+    "name": "Mumford &amp; Sons - I Will Wait [Single - 2012]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 4,
+  "last_updated": "2016-12-24T17:53:24.006Z"
+}

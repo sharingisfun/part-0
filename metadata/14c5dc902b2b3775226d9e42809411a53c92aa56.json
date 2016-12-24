@@ -1,1 +1,61 @@
-{"title":"FTL: Faster Than Light v1.5.4 (Advanced Edition)","uid":9880915,"size":378353843,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:14c5dc902b2b3775226d9e42809411a53c92aa56&amp;dn=FTL%3A+Faster+Than+Light+v1.5.4+%28Advanced+Edition%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":137,"leechers":5,"uploader":"Kovi34","files":29,"time":1396547166,"description":"FTL: Faster Than Light version 1.5.4\n\nThis version includes the Advanced Edition. No DRM, simply download and run FTLGame.exe\n\n\nIf you like the game, support the Developers and buy it!\n\n\n//Official website: www.ftlgame.com\n//Official Steam Store page: store.steampowered.com/app/212680\n//Official description from the publisher:\n\nIn FTL you experience the atmosphere of running a spaceship trying to save the galaxy. It's a dangerous mission, with every encounter presenting a unique challenge with multiple solutions. What will you do if a heavy missile barrage shuts down your shields? Reroute all power to the engines in an attempt to escape, power up additional weapons to blow your enemy out of the sky, or take the fight to them with a boarding party? This &quot;spaceship simulation roguelike-like&quot; allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.","torrent":{"xt":"urn:btih:14c5dc902b2b3775226d9e42809411a53c92aa56","amp;dn":"FTL%3A+Faster+Than+Light+v1.5.4+%28Advanced+Edition%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"14c5dc902b2b3775226d9e42809411a53c92aa56","infoHashBuffer":{"type":"Buffer","data":[20,197,220,144,43,43,55,117,34,109,158,66,128,148,17,165,60,146,170,86]},"announce":[],"urlList":[]}}
+{
+  "title": "FTL: Faster Than Light v1.5.4 (Advanced Edition)",
+  "uid": 9880915,
+  "size": 378353843,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:14c5dc902b2b3775226d9e42809411a53c92aa56&amp;dn=FTL%3A+Faster+Than+Light+v1.5.4+%28Advanced+Edition%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 137,
+  "leechers": 5,
+  "uploader": "Kovi34",
+  "files": 29,
+  "time": 1396547166,
+  "description": "FTL: Faster Than Light version 1.5.4\n\nThis version includes the Advanced Edition. No DRM, simply download and run FTLGame.exe\n\n\nIf you like the game, support the Developers and buy it!\n\n\n//Official website: www.ftlgame.com\n//Official Steam Store page: store.steampowered.com/app/212680\n//Official description from the publisher:\n\nIn FTL you experience the atmosphere of running a spaceship trying to save the galaxy. It's a dangerous mission, with every encounter presenting a unique challenge with multiple solutions. What will you do if a heavy missile barrage shuts down your shields? Reroute all power to the engines in an attempt to escape, power up additional weapons to blow your enemy out of the sky, or take the fight to them with a boarding party? This &quot;spaceship simulation roguelike-like&quot; allows you to take your ship and crew on an adventure through a randomly generated galaxy filled with glory and bitter defeat.",
+  "parsed": {
+    "xt": "urn:btih:14c5dc902b2b3775226d9e42809411a53c92aa56",
+    "dn": "FTL: Faster Than Light v1.5.4 (Advanced Edition)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "14c5dc902b2b3775226d9e42809411a53c92aa56",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        20,
+        197,
+        220,
+        144,
+        43,
+        43,
+        55,
+        117,
+        34,
+        109,
+        158,
+        66,
+        128,
+        148,
+        17,
+        165,
+        60,
+        146,
+        170,
+        86
+      ]
+    },
+    "name": "FTL: Faster Than Light v1.5.4 (Advanced Edition)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 142,
+  "peers": 51,
+  "last_updated": "2016-12-24T17:55:28.408Z"
+}

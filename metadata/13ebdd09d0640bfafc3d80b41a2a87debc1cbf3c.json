@@ -1,1 +1,61 @@
-{"title":"Shut Up and Dance - Walk the Moon (320) 2014","uid":11024463,"size":8025056,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:13ebdd09d0640bfafc3d80b41a2a87debc1cbf3c&amp;dn=Shut+Up+and+Dance+-+Walk+the+Moon+%28320%29+2014&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":308,"leechers":4,"uploader":"edtzhrtf","files":-1,"time":1410652909,"description":"Band: Walk the Moon\nTrack: Shut Up and Dance\nYear: 2014\nDuration: 3:17","torrent":{"xt":"urn:btih:13ebdd09d0640bfafc3d80b41a2a87debc1cbf3c","amp;dn":"Shut+Up+and+Dance+-+Walk+the+Moon+%28320%29+2014","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"13ebdd09d0640bfafc3d80b41a2a87debc1cbf3c","infoHashBuffer":{"type":"Buffer","data":[19,235,221,9,208,100,11,250,252,61,128,180,26,42,135,222,188,28,191,60]},"announce":[],"urlList":[]}}
+{
+  "title": "Shut Up and Dance - Walk the Moon (320) 2014",
+  "uid": 11024463,
+  "size": 8025056,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:13ebdd09d0640bfafc3d80b41a2a87debc1cbf3c&amp;dn=Shut+Up+and+Dance+-+Walk+the+Moon+%28320%29+2014&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 308,
+  "leechers": 4,
+  "uploader": "edtzhrtf",
+  "files": -1,
+  "time": 1410652909,
+  "description": "Band: Walk the Moon\nTrack: Shut Up and Dance\nYear: 2014\nDuration: 3:17",
+  "parsed": {
+    "xt": "urn:btih:13ebdd09d0640bfafc3d80b41a2a87debc1cbf3c",
+    "dn": "Shut Up and Dance - Walk the Moon (320) 2014",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "13ebdd09d0640bfafc3d80b41a2a87debc1cbf3c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        19,
+        235,
+        221,
+        9,
+        208,
+        100,
+        11,
+        250,
+        252,
+        61,
+        128,
+        180,
+        26,
+        42,
+        135,
+        222,
+        188,
+        28,
+        191,
+        60
+      ]
+    },
+    "name": "Shut Up and Dance - Walk the Moon (320) 2014",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 312,
+  "peers": 50,
+  "last_updated": "2016-12-24T17:48:54.905Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Sin compromiso DVDRip","uid":8778855,"size":1750749184,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:15af059d85258943d073df57f69a702fa604bfe2&amp;dn=Sin+compromiso+DVDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":4,"uploader":"Miguel223","files":1,"time":1375630592,"description":"EspaÃƒÂ±ol\n &lt;a href=&quot;\nhttp://www.peliculasytorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.peliculasytorrent.com/&lt;/a&gt;","torrent":{"xt":"urn:btih:15af059d85258943d073df57f69a702fa604bfe2","amp;dn":"Sin+compromiso+DVDRip","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"15af059d85258943d073df57f69a702fa604bfe2","infoHashBuffer":{"type":"Buffer","data":[21,175,5,157,133,37,137,67,208,115,223,87,246,154,112,47,166,4,191,226]},"announce":[],"urlList":[]}}
+{
+  "title": "Sin compromiso DVDRip",
+  "uid": 8778855,
+  "size": 1750749184,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:15af059d85258943d073df57f69a702fa604bfe2&amp;dn=Sin+compromiso+DVDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 4,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1375630592,
+  "description": "EspaÃƒÂ±ol\n &lt;a href=&quot;\nhttp://www.peliculasytorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.peliculasytorrent.com/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:15af059d85258943d073df57f69a702fa604bfe2",
+    "dn": "Sin compromiso DVDRip",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "15af059d85258943d073df57f69a702fa604bfe2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        21,
+        175,
+        5,
+        157,
+        133,
+        37,
+        137,
+        67,
+        208,
+        115,
+        223,
+        87,
+        246,
+        154,
+        112,
+        47,
+        166,
+        4,
+        191,
+        226
+      ]
+    },
+    "name": "Sin compromiso DVDRip",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 48,
+  "last_updated": "2016-12-24T18:02:40.049Z"
+}

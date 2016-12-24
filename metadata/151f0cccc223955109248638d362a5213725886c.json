@@ -1,1 +1,61 @@
-{"title":"Ariel Pink - Pom Pom (2014) [320]","uid":11282464,"size":163021687,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:151f0cccc223955109248638d362a5213725886c&amp;dn=Ariel+Pink+-+Pom+Pom+%282014%29+%5B320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":68,"leechers":0,"uploader":"fstapollo","files":17,"time":1414236162,"description":"A full album Pom Pom by Ariel Pink 2014 320kbps","torrent":{"xt":"urn:btih:151f0cccc223955109248638d362a5213725886c","amp;dn":"Ariel+Pink+-+Pom+Pom+%282014%29+%5B320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"151f0cccc223955109248638d362a5213725886c","infoHashBuffer":{"type":"Buffer","data":[21,31,12,204,194,35,149,81,9,36,134,56,211,98,165,33,55,37,136,108]},"announce":[],"urlList":[]}}
+{
+  "title": "Ariel Pink - Pom Pom (2014) [320]",
+  "uid": 11282464,
+  "size": 163021687,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:151f0cccc223955109248638d362a5213725886c&amp;dn=Ariel+Pink+-+Pom+Pom+%282014%29+%5B320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 68,
+  "leechers": 0,
+  "uploader": "fstapollo",
+  "files": 17,
+  "time": 1414236162,
+  "description": "A full album Pom Pom by Ariel Pink 2014 320kbps",
+  "parsed": {
+    "xt": "urn:btih:151f0cccc223955109248638d362a5213725886c",
+    "dn": "Ariel Pink - Pom Pom (2014) [320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "151f0cccc223955109248638d362a5213725886c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        21,
+        31,
+        12,
+        204,
+        194,
+        35,
+        149,
+        81,
+        9,
+        36,
+        134,
+        56,
+        211,
+        98,
+        165,
+        33,
+        55,
+        37,
+        136,
+        108
+      ]
+    },
+    "name": "Ariel Pink - Pom Pom (2014) [320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 40,
+  "last_updated": "2016-12-24T17:58:08.990Z"
+}

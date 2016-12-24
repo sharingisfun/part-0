@@ -1,1 +1,61 @@
-{"title":"Gary Jules - Mad World (Donnie Darko","uid":3439070,"size":7586088,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:15f653a2a31e4e2ede987cf9cfffb68cb74c894b&amp;dn=Gary+Jules+-+Mad+World+%28Donnie+Darko&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":0,"uploader":"asg][ghostface","files":1,"time":1138865996,"description":"I trust everyone, its the devil inside them i dont trust\n- Bill Clinton","torrent":{"xt":"urn:btih:15f653a2a31e4e2ede987cf9cfffb68cb74c894b","amp;dn":"Gary+Jules+-+Mad+World+%28Donnie+Darko","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"15f653a2a31e4e2ede987cf9cfffb68cb74c894b","infoHashBuffer":{"type":"Buffer","data":[21,246,83,162,163,30,78,46,222,152,124,249,207,255,182,140,183,76,137,75]},"announce":[],"urlList":[]}}
+{
+  "title": "Gary Jules - Mad World (Donnie Darko",
+  "uid": 3439070,
+  "size": 7586088,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:15f653a2a31e4e2ede987cf9cfffb68cb74c894b&amp;dn=Gary+Jules+-+Mad+World+%28Donnie+Darko&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 0,
+  "uploader": "asg][ghostface",
+  "files": 1,
+  "time": 1138865996,
+  "description": "I trust everyone, its the devil inside them i dont trust\n- Bill Clinton",
+  "parsed": {
+    "xt": "urn:btih:15f653a2a31e4e2ede987cf9cfffb68cb74c894b",
+    "dn": "Gary Jules - Mad World (Donnie Darko",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "15f653a2a31e4e2ede987cf9cfffb68cb74c894b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        21,
+        246,
+        83,
+        162,
+        163,
+        30,
+        78,
+        46,
+        222,
+        152,
+        124,
+        249,
+        207,
+        255,
+        182,
+        140,
+        183,
+        76,
+        137,
+        75
+      ]
+    },
+    "name": "Gary Jules - Mad World (Donnie Darko",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 65,
+  "last_updated": "2016-12-24T18:04:20.485Z"
+}

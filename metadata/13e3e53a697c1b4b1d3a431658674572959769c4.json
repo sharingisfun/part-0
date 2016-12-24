@@ -1,1 +1,61 @@
-{"title":"Power - Season 2 (S02 HDTV x264)","uid":12306674,"size":3386399471,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:13e3e53a697c1b4b1d3a431658674572959769c4&amp;dn=Power+-+Season+2+%28S02+HDTV+x264%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":169,"leechers":26,"uploader":"BillSimmons99","files":10,"time":1440812083,"description":"Show: Power\n\nFiletype: mp4/x264\n\n\nPower tells the story of James &quot;Ghost&quot; St. Patrick, a wealthy New York City nightclub owner who caters to the city's elite. He wants to build an empire, turn the club into a Fortune 500 business, but there's just one problem: Ghost is living a double life. When he is not in the club, he is the kingpin of the most lucrative drug network in New York for a very high-level clientele. His marriage, family and business all become unknowingly threatened as he is tempted to leave his criminal life behind and become the rags-to-riches businessman he wants to be most of all","torrent":{"xt":"urn:btih:13e3e53a697c1b4b1d3a431658674572959769c4","amp;dn":"Power+-+Season+2+%28S02+HDTV+x264%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"13e3e53a697c1b4b1d3a431658674572959769c4","infoHashBuffer":{"type":"Buffer","data":[19,227,229,58,105,124,27,75,29,58,67,22,88,103,69,114,149,151,105,196]},"announce":[],"urlList":[]}}
+{
+  "title": "Power - Season 2 (S02 HDTV x264)",
+  "uid": 12306674,
+  "size": 3386399471,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:13e3e53a697c1b4b1d3a431658674572959769c4&amp;dn=Power+-+Season+2+%28S02+HDTV+x264%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 169,
+  "leechers": 26,
+  "uploader": "BillSimmons99",
+  "files": 10,
+  "time": 1440812083,
+  "description": "Show: Power\n\nFiletype: mp4/x264\n\n\nPower tells the story of James &quot;Ghost&quot; St. Patrick, a wealthy New York City nightclub owner who caters to the city's elite. He wants to build an empire, turn the club into a Fortune 500 business, but there's just one problem: Ghost is living a double life. When he is not in the club, he is the kingpin of the most lucrative drug network in New York for a very high-level clientele. His marriage, family and business all become unknowingly threatened as he is tempted to leave his criminal life behind and become the rags-to-riches businessman he wants to be most of all",
+  "parsed": {
+    "xt": "urn:btih:13e3e53a697c1b4b1d3a431658674572959769c4",
+    "dn": "Power - Season 2 (S02 HDTV x264)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "13e3e53a697c1b4b1d3a431658674572959769c4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        19,
+        227,
+        229,
+        58,
+        105,
+        124,
+        27,
+        75,
+        29,
+        58,
+        67,
+        22,
+        88,
+        103,
+        69,
+        114,
+        149,
+        151,
+        105,
+        196
+      ]
+    },
+    "name": "Power - Season 2 (S02 HDTV x264)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 195,
+  "peers": 251,
+  "last_updated": "2016-12-24T17:48:44.865Z"
+}

@@ -1,1 +1,61 @@
-{"title":"YG - Who Do You Love (feat. Drake) [Single - 2014] [L3]","uid":9639337,"size":9390603,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:147aa6baf9a450f1b165148e483d9cf548cd8560&amp;dn=YG+-+Who+Do+You+Love+%28feat.+Drake%29+%5BSingle+-+2014%5D+%5BL3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":115,"leechers":2,"uploader":"l3endik","files":-1,"time":1392891976,"description":"320kbps CBR itunesrip \n\nripped by l3endik","torrent":{"xt":"urn:btih:147aa6baf9a450f1b165148e483d9cf548cd8560","amp;dn":"YG+-+Who+Do+You+Love+%28feat.+Drake%29+%5BSingle+-+2014%5D+%5BL3%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"147aa6baf9a450f1b165148e483d9cf548cd8560","infoHashBuffer":{"type":"Buffer","data":[20,122,166,186,249,164,80,241,177,101,20,142,72,61,156,245,72,205,133,96]},"announce":[],"urlList":[]}}
+{
+  "title": "YG - Who Do You Love (feat. Drake) [Single - 2014] [L3]",
+  "uid": 9639337,
+  "size": 9390603,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:147aa6baf9a450f1b165148e483d9cf548cd8560&amp;dn=YG+-+Who+Do+You+Love+%28feat.+Drake%29+%5BSingle+-+2014%5D+%5BL3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 115,
+  "leechers": 2,
+  "uploader": "l3endik",
+  "files": -1,
+  "time": 1392891976,
+  "description": "320kbps CBR itunesrip \n\nripped by l3endik",
+  "parsed": {
+    "xt": "urn:btih:147aa6baf9a450f1b165148e483d9cf548cd8560",
+    "dn": "YG - Who Do You Love (feat. Drake) [Single - 2014] [L3]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "147aa6baf9a450f1b165148e483d9cf548cd8560",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        20,
+        122,
+        166,
+        186,
+        249,
+        164,
+        80,
+        241,
+        177,
+        101,
+        20,
+        142,
+        72,
+        61,
+        156,
+        245,
+        72,
+        205,
+        133,
+        96
+      ]
+    },
+    "name": "YG - Who Do You Love (feat. Drake) [Single - 2014] [L3]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 117,
+  "peers": 78,
+  "last_updated": "2016-12-24T17:53:15.964Z"
+}

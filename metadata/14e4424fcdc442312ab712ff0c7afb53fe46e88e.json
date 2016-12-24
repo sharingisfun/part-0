@@ -1,1 +1,61 @@
-{"title":"Oldboy[XviD][DVDrip][Kor][Engsub]","uid":3820388,"size":940553852,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:14e4424fcdc442312ab712ff0c7afb53fe46e88e&amp;dn=Oldboy%5BXviD%5D%5BDVDrip%5D%5BKor%5D%5BEngsub%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":0,"uploader":"tarushiru","files":3,"time":1190839414,"description":"File Properties\nRunning Time: 1h59m58s\nVideo: XviD, 1-pass, 24 bit sample size, 127kbps, 29.976fps, 720x400\nAudio: 128kbps, MPEG Layer-3, Korean\nSubtitle: English (optional, idx+sub)","torrent":{"xt":"urn:btih:14e4424fcdc442312ab712ff0c7afb53fe46e88e","amp;dn":"Oldboy%5BXviD%5D%5BDVDrip%5D%5BKor%5D%5BEngsub%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"14e4424fcdc442312ab712ff0c7afb53fe46e88e","infoHashBuffer":{"type":"Buffer","data":[20,228,66,79,205,196,66,49,42,183,18,255,12,122,251,83,254,70,232,142]},"announce":[],"urlList":[]}}
+{
+  "title": "Oldboy[XviD][DVDrip][Kor][Engsub]",
+  "uid": 3820388,
+  "size": 940553852,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:14e4424fcdc442312ab712ff0c7afb53fe46e88e&amp;dn=Oldboy%5BXviD%5D%5BDVDrip%5D%5BKor%5D%5BEngsub%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 0,
+  "uploader": "tarushiru",
+  "files": 3,
+  "time": 1190839414,
+  "description": "File Properties\nRunning Time: 1h59m58s\nVideo: XviD, 1-pass, 24 bit sample size, 127kbps, 29.976fps, 720x400\nAudio: 128kbps, MPEG Layer-3, Korean\nSubtitle: English (optional, idx+sub)",
+  "parsed": {
+    "xt": "urn:btih:14e4424fcdc442312ab712ff0c7afb53fe46e88e",
+    "dn": "Oldboy[XviD][DVDrip][Kor][Engsub]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "14e4424fcdc442312ab712ff0c7afb53fe46e88e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        20,
+        228,
+        66,
+        79,
+        205,
+        196,
+        66,
+        49,
+        42,
+        183,
+        18,
+        255,
+        12,
+        122,
+        251,
+        83,
+        254,
+        70,
+        232,
+        142
+      ]
+    },
+    "name": "Oldboy[XviD][DVDrip][Kor][Engsub]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 89,
+  "last_updated": "2016-12-24T17:56:10.567Z"
+}

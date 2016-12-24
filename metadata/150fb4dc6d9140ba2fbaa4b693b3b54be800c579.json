@@ -1,1 +1,61 @@
-{"title":"Manhattan (Woody Allen 1979) XviD DVDRip avi","uid":3321228,"size":732063744,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:150fb4dc6d9140ba2fbaa4b693b3b54be800c579&amp;dn=Manhattan+%28Woody+Allen+1979%29+XviD+DVDRip+avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":102,"leechers":3,"uploader":"befb","files":1,"time":1114388852,"description":"http://imdb.com/title/tt0079522","torrent":{"xt":"urn:btih:150fb4dc6d9140ba2fbaa4b693b3b54be800c579","amp;dn":"Manhattan+%28Woody+Allen+1979%29+XviD+DVDRip+avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"150fb4dc6d9140ba2fbaa4b693b3b54be800c579","infoHashBuffer":{"type":"Buffer","data":[21,15,180,220,109,145,64,186,47,186,164,182,147,179,181,75,232,0,197,121]},"announce":[],"urlList":[]}}
+{
+  "title": "Manhattan (Woody Allen 1979) XviD DVDRip avi",
+  "uid": 3321228,
+  "size": 732063744,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:150fb4dc6d9140ba2fbaa4b693b3b54be800c579&amp;dn=Manhattan+%28Woody+Allen+1979%29+XviD+DVDRip+avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 102,
+  "leechers": 3,
+  "uploader": "befb",
+  "files": 1,
+  "time": 1114388852,
+  "description": "http://imdb.com/title/tt0079522",
+  "parsed": {
+    "xt": "urn:btih:150fb4dc6d9140ba2fbaa4b693b3b54be800c579",
+    "dn": "Manhattan (Woody Allen 1979) XviD DVDRip avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "150fb4dc6d9140ba2fbaa4b693b3b54be800c579",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        21,
+        15,
+        180,
+        220,
+        109,
+        145,
+        64,
+        186,
+        47,
+        186,
+        164,
+        182,
+        147,
+        179,
+        181,
+        75,
+        232,
+        0,
+        197,
+        121
+      ]
+    },
+    "name": "Manhattan (Woody Allen 1979) XviD DVDRip avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 105,
+  "peers": 0,
+  "last_updated": "2016-12-24T17:57:36.869Z"
+}

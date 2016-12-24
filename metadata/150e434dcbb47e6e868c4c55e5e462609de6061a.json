@@ -1,1 +1,63 @@
-{"title":"Preacher.S01E09.HDTV.x264-FLEET","uid":15398202,"size":272416845,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:150e434dcbb47e6e868c4c55e5e462609de6061a&amp;dn=Preacher.S01E09.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":6,"uploader":"TvTeam","files":5,"time":1469419843,"description":"https://www.torrenting.com\r\n\r\nSign up is OPEN - for time being. Come and have fun","torrent":{"xt":"urn:btih:150e434dcbb47e6e868c4c55e5e462609de6061a","amp;dn":"Preacher.S01E09.HDTV.x264-FLEET","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"150e434dcbb47e6e868c4c55e5e462609de6061a","infoHashBuffer":{"type":"Buffer","data":[21,14,67,77,203,180,126,110,134,140,76,85,229,228,98,96,157,230,6,26]},"announce":[],"urlList":[]}}
+{
+  "title": "Preacher.S01E09.HDTV.x264-FLEET",
+  "uid": 15398202,
+  "size": 272416845,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:150e434dcbb47e6e868c4c55e5e462609de6061a&amp;dn=Preacher.S01E09.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 6,
+  "uploader": "TvTeam",
+  "files": 5,
+  "time": 1469419843,
+  "description": "https://www.torrenting.com\r\n\r\nSign up is OPEN - for time being. Come and have fun",
+  "parsed": {
+    "xt": "urn:btih:150e434dcbb47e6e868c4c55e5e462609de6061a",
+    "dn": "Preacher.S01E09.HDTV.x264-FLEET",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "150e434dcbb47e6e868c4c55e5e462609de6061a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        21,
+        14,
+        67,
+        77,
+        203,
+        180,
+        126,
+        110,
+        134,
+        140,
+        76,
+        85,
+        229,
+        228,
+        98,
+        96,
+        157,
+        230,
+        6,
+        26
+      ]
+    },
+    "name": "Preacher.S01E09.HDTV.x264-FLEET",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 63,
+  "peers": 68,
+  "last_updated": "2016-12-24T17:57:30.851Z"
+}

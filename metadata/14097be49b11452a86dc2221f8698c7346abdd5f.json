@@ -1,1 +1,61 @@
-{"title":"Super Smash Bros Brawl [USA] [Wii] [English]","uid":4074485,"size":8511160761,"categoryP":"games","categoryS":"wii","magnet":"?xt=urn:btih:14097be49b11452a86dc2221f8698c7346abdd5f&amp;dn=Super+Smash+Bros+Brawl+%5BUSA%5D+%5BWii%5D+%5BEnglish%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":205,"leechers":24,"uploader":"Torrentmas","files":3,"time":1205232244,"description":"Super Smash Bros Brawl [USA] [Wii] [English]","torrent":{"xt":"urn:btih:14097be49b11452a86dc2221f8698c7346abdd5f","amp;dn":"Super+Smash+Bros+Brawl+%5BUSA%5D+%5BWii%5D+%5BEnglish%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"14097be49b11452a86dc2221f8698c7346abdd5f","infoHashBuffer":{"type":"Buffer","data":[20,9,123,228,155,17,69,42,134,220,34,33,248,105,140,115,70,171,221,95]},"announce":[],"urlList":[]}}
+{
+  "title": "Super Smash Bros Brawl [USA] [Wii] [English]",
+  "uid": 4074485,
+  "size": 8511160761,
+  "categoryP": "games",
+  "categoryS": "wii",
+  "magnet": "?xt=urn:btih:14097be49b11452a86dc2221f8698c7346abdd5f&amp;dn=Super+Smash+Bros+Brawl+%5BUSA%5D+%5BWii%5D+%5BEnglish%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 205,
+  "leechers": 24,
+  "uploader": "Torrentmas",
+  "files": 3,
+  "time": 1205232244,
+  "description": "Super Smash Bros Brawl [USA] [Wii] [English]",
+  "parsed": {
+    "xt": "urn:btih:14097be49b11452a86dc2221f8698c7346abdd5f",
+    "dn": "Super Smash Bros Brawl [USA] [Wii] [English]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "14097be49b11452a86dc2221f8698c7346abdd5f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        20,
+        9,
+        123,
+        228,
+        155,
+        17,
+        69,
+        42,
+        134,
+        220,
+        34,
+        33,
+        248,
+        105,
+        140,
+        115,
+        70,
+        171,
+        221,
+        95
+      ]
+    },
+    "name": "Super Smash Bros Brawl [USA] [Wii] [English]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 229,
+  "peers": 272,
+  "last_updated": "2016-12-24T17:49:53.118Z"
+}

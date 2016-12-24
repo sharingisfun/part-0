@@ -1,1 +1,61 @@
-{"title":"iZombie S01E07 HDTV XviD-FUM[ettv]","uid":11861071,"size":364678752,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:140f6d6f3ca936a9eb6b7e587d00e83bc2224102&amp;dn=iZombie+S01E07+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":9,"uploader":"ettv","files":2,"time":1430282474,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:140f6d6f3ca936a9eb6b7e587d00e83bc2224102","amp;dn":"iZombie+S01E07+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"140f6d6f3ca936a9eb6b7e587d00e83bc2224102","infoHashBuffer":{"type":"Buffer","data":[20,15,109,111,60,169,54,169,235,107,126,88,125,0,232,59,194,34,65,2]},"announce":[],"urlList":[]}}
+{
+  "title": "iZombie S01E07 HDTV XviD-FUM[ettv]",
+  "uid": 11861071,
+  "size": 364678752,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:140f6d6f3ca936a9eb6b7e587d00e83bc2224102&amp;dn=iZombie+S01E07+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 9,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1430282474,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:140f6d6f3ca936a9eb6b7e587d00e83bc2224102",
+    "dn": "iZombie S01E07 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "140f6d6f3ca936a9eb6b7e587d00e83bc2224102",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        20,
+        15,
+        109,
+        111,
+        60,
+        169,
+        54,
+        169,
+        235,
+        107,
+        126,
+        88,
+        125,
+        0,
+        232,
+        59,
+        194,
+        34,
+        65,
+        2
+      ]
+    },
+    "name": "iZombie S01E07 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 16,
+  "last_updated": "2016-12-24T17:50:07.168Z"
+}
