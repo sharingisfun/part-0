@@ -1,1 +1,61 @@
-{"title":"Stitchers Season 1 Complete x264","uid":12199117,"size":3211806681,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:1db16dc5be796d6c03f6fdd161dc7330ef7ef51f&amp;dn=Stitchers+Season+1+Complete+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":17,"uploader":"Mishuiancu","files":10,"time":1438796693,"description":"Stitchers focuses on a woman who finds herself recruited into a undercover government agency to be &quot;stitched&quot; into the minds of recently deceased victims in order to tap into their consciousness to investigate murders and other mysteries.\n\n[Media]: video/H264\n[Format]: x264\n[Resolution]: 720x406 px\n[AspectRatio]: 16:9","torrent":{"xt":"urn:btih:1db16dc5be796d6c03f6fdd161dc7330ef7ef51f","amp;dn":"Stitchers+Season+1+Complete+x264","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1db16dc5be796d6c03f6fdd161dc7330ef7ef51f","infoHashBuffer":{"type":"Buffer","data":[29,177,109,197,190,121,109,108,3,246,253,209,97,220,115,48,239,126,245,31]},"announce":[],"urlList":[]}}
+{
+  "title": "Stitchers Season 1 Complete x264",
+  "uid": 12199117,
+  "size": 3211806681,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:1db16dc5be796d6c03f6fdd161dc7330ef7ef51f&amp;dn=Stitchers+Season+1+Complete+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 17,
+  "uploader": "Mishuiancu",
+  "files": 10,
+  "time": 1438796693,
+  "description": "Stitchers focuses on a woman who finds herself recruited into a undercover government agency to be &quot;stitched&quot; into the minds of recently deceased victims in order to tap into their consciousness to investigate murders and other mysteries.\n\n[Media]: video/H264\n[Format]: x264\n[Resolution]: 720x406 px\n[AspectRatio]: 16:9",
+  "parsed": {
+    "xt": "urn:btih:1db16dc5be796d6c03f6fdd161dc7330ef7ef51f",
+    "dn": "Stitchers Season 1 Complete x264",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1db16dc5be796d6c03f6fdd161dc7330ef7ef51f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        29,
+        177,
+        109,
+        197,
+        190,
+        121,
+        109,
+        108,
+        3,
+        246,
+        253,
+        209,
+        97,
+        220,
+        115,
+        48,
+        239,
+        126,
+        245,
+        31
+      ]
+    },
+    "name": "Stitchers Season 1 Complete x264",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 25,
+  "last_updated": "2016-12-24T19:01:55.915Z"
+}

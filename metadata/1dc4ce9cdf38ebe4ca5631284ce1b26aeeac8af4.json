@@ -1,1 +1,63 @@
-{"title":"T.I. - Us Or Else Album 2016 MP3 320 kbps","uid":15883958,"size":55656894,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1dc4ce9cdf38ebe4ca5631284ce1b26aeeac8af4&amp;dn=T.I.+-+Us+Or+Else+Album+2016+MP3+320+kbps&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":9,"uploader":"NikiPink","files":7,"time":1474634330,"description":"Album\r\n\r\nMP3 320 kbps\r\n\r\nGenre: Rap\r\n\r\nRelease Date: September 2016","torrent":{"xt":"urn:btih:1dc4ce9cdf38ebe4ca5631284ce1b26aeeac8af4","amp;dn":"T.I.+-+Us+Or+Else+Album+2016+MP3+320+kbps","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1dc4ce9cdf38ebe4ca5631284ce1b26aeeac8af4","infoHashBuffer":{"type":"Buffer","data":[29,196,206,156,223,56,235,228,202,86,49,40,76,225,178,106,238,172,138,244]},"announce":[],"urlList":[]}}
+{
+  "title": "T.I. - Us Or Else Album 2016 MP3 320 kbps",
+  "uid": 15883958,
+  "size": 55656894,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1dc4ce9cdf38ebe4ca5631284ce1b26aeeac8af4&amp;dn=T.I.+-+Us+Or+Else+Album+2016+MP3+320+kbps&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 9,
+  "uploader": "NikiPink",
+  "files": 7,
+  "time": 1474634330,
+  "description": "Album\r\n\r\nMP3 320 kbps\r\n\r\nGenre: Rap\r\n\r\nRelease Date: September 2016",
+  "parsed": {
+    "xt": "urn:btih:1dc4ce9cdf38ebe4ca5631284ce1b26aeeac8af4",
+    "dn": "T.I. - Us Or Else Album 2016 MP3 320 kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1dc4ce9cdf38ebe4ca5631284ce1b26aeeac8af4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        29,
+        196,
+        206,
+        156,
+        223,
+        56,
+        235,
+        228,
+        202,
+        86,
+        49,
+        40,
+        76,
+        225,
+        178,
+        106,
+        238,
+        172,
+        138,
+        244
+      ]
+    },
+    "name": "T.I. - Us Or Else Album 2016 MP3 320 kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 138,
+  "last_updated": "2016-12-24T19:02:34.099Z"
+}

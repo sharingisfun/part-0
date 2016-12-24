@@ -1,1 +1,61 @@
-{"title":"Godard - Breathless (A Bout de Souffle) 1960","uid":3744507,"size":733804396,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:1e77475e5932a9df171f75c0109231e16e2c6751&amp;dn=Godard+-+Breathless+%28A+Bout+de+Souffle%29+1960&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":3,"uploader":"porkatron","files":3,"time":1184660505,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt0053472/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt0053472/&lt;/a&gt;","torrent":{"xt":"urn:btih:1e77475e5932a9df171f75c0109231e16e2c6751","amp;dn":"Godard+-+Breathless+%28A+Bout+de+Souffle%29+1960","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1e77475e5932a9df171f75c0109231e16e2c6751","infoHashBuffer":{"type":"Buffer","data":[30,119,71,94,89,50,169,223,23,31,117,192,16,146,49,225,110,44,103,81]},"announce":[],"urlList":[]}}
+{
+  "title": "Godard - Breathless (A Bout de Souffle) 1960",
+  "uid": 3744507,
+  "size": 733804396,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:1e77475e5932a9df171f75c0109231e16e2c6751&amp;dn=Godard+-+Breathless+%28A+Bout+de+Souffle%29+1960&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 3,
+  "uploader": "porkatron",
+  "files": 3,
+  "time": 1184660505,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt0053472/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt0053472/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:1e77475e5932a9df171f75c0109231e16e2c6751",
+    "dn": "Godard - Breathless (A Bout de Souffle) 1960",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1e77475e5932a9df171f75c0109231e16e2c6751",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        30,
+        119,
+        71,
+        94,
+        89,
+        50,
+        169,
+        223,
+        23,
+        31,
+        117,
+        192,
+        16,
+        146,
+        49,
+        225,
+        110,
+        44,
+        103,
+        81
+      ]
+    },
+    "name": "Godard - Breathless (A Bout de Souffle) 1960",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 241,
+  "last_updated": "2016-12-24T19:08:33.426Z"
+}

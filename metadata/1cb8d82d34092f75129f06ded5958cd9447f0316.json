@@ -1,1 +1,63 @@
-{"title":"Train.Fever.Incl.DLC.USA.(2.4.0.7)-GOG","uid":15530722,"size":1614737632,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:1cb8d82d34092f75129f06ded5958cd9447f0316&amp;dn=Train.Fever.Incl.DLC.USA.%282.4.0.7%29-GOG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":69,"leechers":4,"uploader":"Tenguken","files":1,"time":1470827291,"description":"Train Fever (c) Gambitious Digital Entertainment\r\n\r\nRelease Date :  03/2016              \r\nProtection : -\r\nDiscs :  1\r\nGame Version : 1.0 Build 7753                   \r\nGenre : Simulation, Indie\r\nLanguages : EN/FR/DE/IT/ES/PL/JP/HU/CN-S/CN-T/NL/CZ/KR/NO/RU\r\n\r\nItâ€™s the year 1850, and there are great times ahead! Establish a transport company and be its manager. Build infrastructure such as railways and stations, purchase transportation vehicles and manage lines. Fulfill the peopleâ€™s needs and watch cities evolve dynamically.\r\n\r\nIncludes DLC:\r\n\r\n* Train Fever: USA\r\n\r\nFor more info go to : https://www.gog.com/game/train_fever\r\n\r\n-Install\r\n-Play","torrent":{"xt":"urn:btih:1cb8d82d34092f75129f06ded5958cd9447f0316","amp;dn":"Train.Fever.Incl.DLC.USA.%282.4.0.7%29-GOG","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1cb8d82d34092f75129f06ded5958cd9447f0316","infoHashBuffer":{"type":"Buffer","data":[28,184,216,45,52,9,47,117,18,159,6,222,213,149,140,217,68,127,3,22]},"announce":[],"urlList":[]}}
+{
+  "title": "Train.Fever.Incl.DLC.USA.(2.4.0.7)-GOG",
+  "uid": 15530722,
+  "size": 1614737632,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:1cb8d82d34092f75129f06ded5958cd9447f0316&amp;dn=Train.Fever.Incl.DLC.USA.%282.4.0.7%29-GOG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 69,
+  "leechers": 4,
+  "uploader": "Tenguken",
+  "files": 1,
+  "time": 1470827291,
+  "description": "Train Fever (c) Gambitious Digital Entertainment\r\n\r\nRelease Date :  03/2016              \r\nProtection : -\r\nDiscs :  1\r\nGame Version : 1.0 Build 7753                   \r\nGenre : Simulation, Indie\r\nLanguages : EN/FR/DE/IT/ES/PL/JP/HU/CN-S/CN-T/NL/CZ/KR/NO/RU\r\n\r\nItâ€™s the year 1850, and there are great times ahead! Establish a transport company and be its manager. Build infrastructure such as railways and stations, purchase transportation vehicles and manage lines. Fulfill the peopleâ€™s needs and watch cities evolve dynamically.\r\n\r\nIncludes DLC:\r\n\r\n* Train Fever: USA\r\n\r\nFor more info go to : https://www.gog.com/game/train_fever\r\n\r\n-Install\r\n-Play",
+  "parsed": {
+    "xt": "urn:btih:1cb8d82d34092f75129f06ded5958cd9447f0316",
+    "dn": "Train.Fever.Incl.DLC.USA.(2.4.0.7)-GOG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1cb8d82d34092f75129f06ded5958cd9447f0316",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        28,
+        184,
+        216,
+        45,
+        52,
+        9,
+        47,
+        117,
+        18,
+        159,
+        6,
+        222,
+        213,
+        149,
+        140,
+        217,
+        68,
+        127,
+        3,
+        22
+      ]
+    },
+    "name": "Train.Fever.Incl.DLC.USA.(2.4.0.7)-GOG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 150,
+  "last_updated": "2016-12-24T18:55:02.033Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Bryan Adams - Greatest Hits","uid":10411555,"size":134277750,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1ea54e99adcc991fbdba65ed0a58775a20c57d66&amp;dn=Bryan+Adams+-+Greatest+Hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":4,"uploader":"ssddayz","files":-1,"time":1403543342,"description":"Bryan Adams - Greatest Hits(2014)","torrent":{"xt":"urn:btih:1ea54e99adcc991fbdba65ed0a58775a20c57d66","amp;dn":"Bryan+Adams+-+Greatest+Hits","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1ea54e99adcc991fbdba65ed0a58775a20c57d66","infoHashBuffer":{"type":"Buffer","data":[30,165,78,153,173,204,153,31,189,186,101,237,10,88,119,90,32,197,125,102]},"announce":[],"urlList":[]}}
+{
+  "title": "Bryan Adams - Greatest Hits",
+  "uid": 10411555,
+  "size": 134277750,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1ea54e99adcc991fbdba65ed0a58775a20c57d66&amp;dn=Bryan+Adams+-+Greatest+Hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 4,
+  "uploader": "ssddayz",
+  "files": -1,
+  "time": 1403543342,
+  "description": "Bryan Adams - Greatest Hits(2014)",
+  "parsed": {
+    "xt": "urn:btih:1ea54e99adcc991fbdba65ed0a58775a20c57d66",
+    "dn": "Bryan Adams - Greatest Hits",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1ea54e99adcc991fbdba65ed0a58775a20c57d66",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        30,
+        165,
+        78,
+        153,
+        173,
+        204,
+        153,
+        31,
+        189,
+        186,
+        101,
+        237,
+        10,
+        88,
+        119,
+        90,
+        32,
+        197,
+        125,
+        102
+      ]
+    },
+    "name": "Bryan Adams - Greatest Hits",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 50,
+  "last_updated": "2016-12-24T19:09:55.847Z"
+}

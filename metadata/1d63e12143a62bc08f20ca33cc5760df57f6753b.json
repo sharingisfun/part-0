@@ -1,1 +1,61 @@
-{"title":"50 Cent - In da Club [Single][SW]","uid":7414398,"size":7828206,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1d63e12143a62bc08f20ca33cc5760df57f6753b&amp;dn=50+Cent+-+In+da+Club+%5BSingle%5D%5BSW%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":0,"uploader":"FatFreddy473","files":-1,"time":1341470195,"description":"320kbps CBR itunesrip\n\nripped by SW\n","torrent":{"xt":"urn:btih:1d63e12143a62bc08f20ca33cc5760df57f6753b","amp;dn":"50+Cent+-+In+da+Club+%5BSingle%5D%5BSW%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1d63e12143a62bc08f20ca33cc5760df57f6753b","infoHashBuffer":{"type":"Buffer","data":[29,99,225,33,67,166,43,192,143,32,202,51,204,87,96,223,87,246,117,59]},"announce":[],"urlList":[]}}
+{
+  "title": "50 Cent - In da Club [Single][SW]",
+  "uid": 7414398,
+  "size": 7828206,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1d63e12143a62bc08f20ca33cc5760df57f6753b&amp;dn=50+Cent+-+In+da+Club+%5BSingle%5D%5BSW%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 0,
+  "uploader": "FatFreddy473",
+  "files": -1,
+  "time": 1341470195,
+  "description": "320kbps CBR itunesrip\n\nripped by SW\n",
+  "parsed": {
+    "xt": "urn:btih:1d63e12143a62bc08f20ca33cc5760df57f6753b",
+    "dn": "50 Cent - In da Club [Single][SW]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1d63e12143a62bc08f20ca33cc5760df57f6753b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        29,
+        99,
+        225,
+        33,
+        67,
+        166,
+        43,
+        192,
+        143,
+        32,
+        202,
+        51,
+        204,
+        87,
+        96,
+        223,
+        87,
+        246,
+        117,
+        59
+      ]
+    },
+    "name": "50 Cent - In da Club [Single][SW]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 71,
+  "last_updated": "2016-12-24T18:59:31.351Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Childish Gambino - Kauai {MP3-2014}","uid":11155520,"size":67762975,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1d9517a138001715ad4d08d23deee052dc80b7eb&amp;dn=Childish+Gambino+-+Kauai+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":268,"leechers":14,"uploader":"simpsonrony","files":-1,"time":1412411273,"description":"Source: https://itunes.apple.com/us/album/kauai/id925162758\n\nArtist: Childish Gambino\n\nAlbum: Kauai\n\nGenre: Hip-Hop/Rap\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\n\n\nTracklist:\n**********\n\n01 Sober\n02 Pop Thieves (Make It Feel Good) [feat. Jaden Smith]\n03 Retro [ROUGH]\n04 The Palisades (feat. Christian Rich)\n05 Poke (feat. Steve G Lover)\n06 Late Night In Kauai (feat. Jaden Smith)\n07 V. 3005 (Beach Picnic Version) ","torrent":{"xt":"urn:btih:1d9517a138001715ad4d08d23deee052dc80b7eb","amp;dn":"Childish+Gambino+-+Kauai+%7BMP3-2014%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1d9517a138001715ad4d08d23deee052dc80b7eb","infoHashBuffer":{"type":"Buffer","data":[29,149,23,161,56,0,23,21,173,77,8,210,61,238,224,82,220,128,183,235]},"announce":[],"urlList":[]}}
+{
+  "title": "Childish Gambino - Kauai {MP3-2014}",
+  "uid": 11155520,
+  "size": 67762975,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1d9517a138001715ad4d08d23deee052dc80b7eb&amp;dn=Childish+Gambino+-+Kauai+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 268,
+  "leechers": 14,
+  "uploader": "simpsonrony",
+  "files": -1,
+  "time": 1412411273,
+  "description": "Source: https://itunes.apple.com/us/album/kauai/id925162758\n\nArtist: Childish Gambino\n\nAlbum: Kauai\n\nGenre: Hip-Hop/Rap\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\n\n\nTracklist:\n**********\n\n01 Sober\n02 Pop Thieves (Make It Feel Good) [feat. Jaden Smith]\n03 Retro [ROUGH]\n04 The Palisades (feat. Christian Rich)\n05 Poke (feat. Steve G Lover)\n06 Late Night In Kauai (feat. Jaden Smith)\n07 V. 3005 (Beach Picnic Version) ",
+  "parsed": {
+    "xt": "urn:btih:1d9517a138001715ad4d08d23deee052dc80b7eb",
+    "dn": "Childish Gambino - Kauai {MP3-2014}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1d9517a138001715ad4d08d23deee052dc80b7eb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        29,
+        149,
+        23,
+        161,
+        56,
+        0,
+        23,
+        21,
+        173,
+        77,
+        8,
+        210,
+        61,
+        238,
+        224,
+        82,
+        220,
+        128,
+        183,
+        235
+      ]
+    },
+    "name": "Childish Gambino - Kauai {MP3-2014}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 282,
+  "peers": 223,
+  "last_updated": "2016-12-24T19:01:19.789Z"
+}

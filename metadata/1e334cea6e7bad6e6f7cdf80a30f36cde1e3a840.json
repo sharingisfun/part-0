@@ -1,1 +1,61 @@
-{"title":"Parallels Desktop 10.1.1-28614","uid":11301935,"size":361760714,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:1e334cea6e7bad6e6f7cdf80a30f36cde1e3a840&amp;dn=Parallels+Desktop+10.1.1-28614&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":229,"leechers":4,"uploader":"FatFreddy733","files":-1,"time":1414432857,"description":"Precracked.\nJust block outgoing connections with little snitch.\n\nEnjoy ;)","torrent":{"xt":"urn:btih:1e334cea6e7bad6e6f7cdf80a30f36cde1e3a840","amp;dn":"Parallels+Desktop+10.1.1-28614","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1e334cea6e7bad6e6f7cdf80a30f36cde1e3a840","infoHashBuffer":{"type":"Buffer","data":[30,51,76,234,110,123,173,110,111,124,223,128,163,15,54,205,225,227,168,64]},"announce":[],"urlList":[]}}
+{
+  "title": "Parallels Desktop 10.1.1-28614",
+  "uid": 11301935,
+  "size": 361760714,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:1e334cea6e7bad6e6f7cdf80a30f36cde1e3a840&amp;dn=Parallels+Desktop+10.1.1-28614&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 229,
+  "leechers": 4,
+  "uploader": "FatFreddy733",
+  "files": -1,
+  "time": 1414432857,
+  "description": "Precracked.\nJust block outgoing connections with little snitch.\n\nEnjoy ;)",
+  "parsed": {
+    "xt": "urn:btih:1e334cea6e7bad6e6f7cdf80a30f36cde1e3a840",
+    "dn": "Parallels Desktop 10.1.1-28614",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1e334cea6e7bad6e6f7cdf80a30f36cde1e3a840",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        30,
+        51,
+        76,
+        234,
+        110,
+        123,
+        173,
+        110,
+        111,
+        124,
+        223,
+        128,
+        163,
+        15,
+        54,
+        205,
+        225,
+        227,
+        168,
+        64
+      ]
+    },
+    "name": "Parallels Desktop 10.1.1-28614",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 233,
+  "peers": 95,
+  "last_updated": "2016-12-24T19:05:58.781Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Kodi {Pirate}Addons Collection","uid":11717214,"size":191543861,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:1e40810c2f5a3c8841c102a0263a1761f84fb0f4&amp;dn=Kodi+%7BPirate%7DAddons+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":2,"uploader":"DoctorShare","files":15,"time":1424638119,"description":"Kodi{Pirate}Addons Collection (Size: 182.67 MB)\n \t\ttotalinstaller-master.zip\t59.06 MB\n \t\tplugin.video.kmediatorrent.zip\t38.69 MB\n \t\tplugin.video.xbmctorrent-0.6.4.zip\t29.57 MB\n \t\tplugin.video.stream.zip\t29.33 MB\n \t\tplugin.video.genesis-3.2.1.zip\t11.28 MB\n \t\tNavi-X.zip\t10.89 MB\n \t\tplugin.video.SportsDevil.zip\t2.25 MB\n \t\tplugin.video.phoenix.zip\t1.57 MB\n \t\trepository.pulsarunofficial-1.0.1.zip\t20.28 KB\n \t\ticefilms_addon_.1.0.1.zip\t17.64 KB","torrent":{"xt":"urn:btih:1e40810c2f5a3c8841c102a0263a1761f84fb0f4","amp;dn":"Kodi+%7BPirate%7DAddons+Collection","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1e40810c2f5a3c8841c102a0263a1761f84fb0f4","infoHashBuffer":{"type":"Buffer","data":[30,64,129,12,47,90,60,136,65,193,2,160,38,58,23,97,248,79,176,244]},"announce":[],"urlList":[]}}
+{
+  "title": "Kodi {Pirate}Addons Collection",
+  "uid": 11717214,
+  "size": 191543861,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:1e40810c2f5a3c8841c102a0263a1761f84fb0f4&amp;dn=Kodi+%7BPirate%7DAddons+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 2,
+  "uploader": "DoctorShare",
+  "files": 15,
+  "time": 1424638119,
+  "description": "Kodi{Pirate}Addons Collection (Size: 182.67 MB)\n \t\ttotalinstaller-master.zip\t59.06 MB\n \t\tplugin.video.kmediatorrent.zip\t38.69 MB\n \t\tplugin.video.xbmctorrent-0.6.4.zip\t29.57 MB\n \t\tplugin.video.stream.zip\t29.33 MB\n \t\tplugin.video.genesis-3.2.1.zip\t11.28 MB\n \t\tNavi-X.zip\t10.89 MB\n \t\tplugin.video.SportsDevil.zip\t2.25 MB\n \t\tplugin.video.phoenix.zip\t1.57 MB\n \t\trepository.pulsarunofficial-1.0.1.zip\t20.28 KB\n \t\ticefilms_addon_.1.0.1.zip\t17.64 KB",
+  "parsed": {
+    "xt": "urn:btih:1e40810c2f5a3c8841c102a0263a1761f84fb0f4",
+    "dn": "Kodi {Pirate}Addons Collection",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1e40810c2f5a3c8841c102a0263a1761f84fb0f4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        30,
+        64,
+        129,
+        12,
+        47,
+        90,
+        60,
+        136,
+        65,
+        193,
+        2,
+        160,
+        38,
+        58,
+        23,
+        97,
+        248,
+        79,
+        176,
+        244
+      ]
+    },
+    "name": "Kodi {Pirate}Addons Collection",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 47,
+  "last_updated": "2016-12-24T19:06:30.891Z"
+}

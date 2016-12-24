@@ -1,1 +1,61 @@
-{"title":"Rihanna - Diamonds {2012-Single}","uid":7674905,"size":9077327,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1e78f9084d470835c417bd74531438a4ed8ece13&amp;dn=Rihanna+-+Diamonds+%7B2012-Single%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":362,"leechers":33,"uploader":"Oz","files":-1,"time":1348673599,"description":"General\n\nFormat : MPEG Audio\nFile size : 8.66 MiB\nDuration : 3mn 45s\nOverall bit rate mode : Constant\nOverall bit rate : 320 Kbps\nAlbum : Diamonds - Single\nAlbum/Performer : Rihanna\nPart/Position : 1\nTrack name : Diamonds\nTrack name/Position : 1\nPerformer : Rihanna\nComposer : Sia Furler/Benjamin Levine/Mikkel S. Eriksen/Tor Erik Hermansen\nEncoded by : Oz\nGenre : Pop\nRecorded date : 2012\nCover : Yes\nCover type : Cover (front)\nCover MIME : image/jpg\n\nAudio\n\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nDuration : 3mn 45s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nStream size : 8.59 MiB (99%)\n\n\n&gt;&gt;&gt;Don't Forget To Like My Page:","torrent":{"xt":"urn:btih:1e78f9084d470835c417bd74531438a4ed8ece13","amp;dn":"Rihanna+-+Diamonds+%7B2012-Single%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1e78f9084d470835c417bd74531438a4ed8ece13","infoHashBuffer":{"type":"Buffer","data":[30,120,249,8,77,71,8,53,196,23,189,116,83,20,56,164,237,142,206,19]},"announce":[],"urlList":[]}}
+{
+  "title": "Rihanna - Diamonds {2012-Single}",
+  "uid": 7674905,
+  "size": 9077327,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1e78f9084d470835c417bd74531438a4ed8ece13&amp;dn=Rihanna+-+Diamonds+%7B2012-Single%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 362,
+  "leechers": 33,
+  "uploader": "Oz",
+  "files": -1,
+  "time": 1348673599,
+  "description": "General\n\nFormat : MPEG Audio\nFile size : 8.66 MiB\nDuration : 3mn 45s\nOverall bit rate mode : Constant\nOverall bit rate : 320 Kbps\nAlbum : Diamonds - Single\nAlbum/Performer : Rihanna\nPart/Position : 1\nTrack name : Diamonds\nTrack name/Position : 1\nPerformer : Rihanna\nComposer : Sia Furler/Benjamin Levine/Mikkel S. Eriksen/Tor Erik Hermansen\nEncoded by : Oz\nGenre : Pop\nRecorded date : 2012\nCover : Yes\nCover type : Cover (front)\nCover MIME : image/jpg\n\nAudio\n\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nDuration : 3mn 45s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nStream size : 8.59 MiB (99%)\n\n\n&gt;&gt;&gt;Don't Forget To Like My Page:",
+  "parsed": {
+    "xt": "urn:btih:1e78f9084d470835c417bd74531438a4ed8ece13",
+    "dn": "Rihanna - Diamonds {2012-Single}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1e78f9084d470835c417bd74531438a4ed8ece13",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        30,
+        120,
+        249,
+        8,
+        77,
+        71,
+        8,
+        53,
+        196,
+        23,
+        189,
+        116,
+        83,
+        20,
+        56,
+        164,
+        237,
+        142,
+        206,
+        19
+      ]
+    },
+    "name": "Rihanna - Diamonds {2012-Single}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 395,
+  "peers": 50,
+  "last_updated": "2016-12-24T19:08:37.442Z"
+}

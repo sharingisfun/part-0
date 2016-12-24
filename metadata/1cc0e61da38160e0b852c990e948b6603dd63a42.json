@@ -1,1 +1,61 @@
-{"title":"uTorrent Plus v3.4.2 Build 33023 Stable","uid":10792809,"size":20752973,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:1cc0e61da38160e0b852c990e948b6603dd63a42&amp;dn=uTorrent+Plus+v3.4.2+Build+33023+Stable&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":0,"uploader":"NickeNyfiken66","files":4,"time":1408269337,"description":"uTorrent Plus v3.4.2 Stable Build  33023\n\nPortable version - just run and use.","torrent":{"xt":"urn:btih:1cc0e61da38160e0b852c990e948b6603dd63a42","amp;dn":"uTorrent+Plus+v3.4.2+Build+33023+Stable","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1cc0e61da38160e0b852c990e948b6603dd63a42","infoHashBuffer":{"type":"Buffer","data":[28,192,230,29,163,129,96,224,184,82,201,144,233,72,182,96,61,214,58,66]},"announce":[],"urlList":[]}}
+{
+  "title": "uTorrent Plus v3.4.2 Build 33023 Stable",
+  "uid": 10792809,
+  "size": 20752973,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:1cc0e61da38160e0b852c990e948b6603dd63a42&amp;dn=uTorrent+Plus+v3.4.2+Build+33023+Stable&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 0,
+  "uploader": "NickeNyfiken66",
+  "files": 4,
+  "time": 1408269337,
+  "description": "uTorrent Plus v3.4.2 Stable Build  33023\n\nPortable version - just run and use.",
+  "parsed": {
+    "xt": "urn:btih:1cc0e61da38160e0b852c990e948b6603dd63a42",
+    "dn": "uTorrent Plus v3.4.2 Build 33023 Stable",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1cc0e61da38160e0b852c990e948b6603dd63a42",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        28,
+        192,
+        230,
+        29,
+        163,
+        129,
+        96,
+        224,
+        184,
+        82,
+        201,
+        144,
+        233,
+        72,
+        182,
+        96,
+        61,
+        214,
+        58,
+        66
+      ]
+    },
+    "name": "uTorrent Plus v3.4.2 Build 33023 Stable",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 5,
+  "last_updated": "2016-12-24T18:55:20.118Z"
+}

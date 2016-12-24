@@ -1,1 +1,61 @@
-{"title":"Catfish The TV Show S04E11 Steven and Samm HDTV x264-LTBS","uid":11890529,"size":356409586,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:1ccb5f24e4d4d8078c310aaccf2014336d354bbb&amp;dn=Catfish+The+TV+Show+S04E11+Steven+and+Samm+HDTV+x264-LTBS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":93,"leechers":3,"uploader":"67mb","files":2,"time":1430987691,"description":"Catfish The TV Show S04E11 Steven and Samm HDTV x264-LTBS","torrent":{"xt":"urn:btih:1ccb5f24e4d4d8078c310aaccf2014336d354bbb","amp;dn":"Catfish+The+TV+Show+S04E11+Steven+and+Samm+HDTV+x264-LTBS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1ccb5f24e4d4d8078c310aaccf2014336d354bbb","infoHashBuffer":{"type":"Buffer","data":[28,203,95,36,228,212,216,7,140,49,10,172,207,32,20,51,109,53,75,187]},"announce":[],"urlList":[]}}
+{
+  "title": "Catfish The TV Show S04E11 Steven and Samm HDTV x264-LTBS",
+  "uid": 11890529,
+  "size": 356409586,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:1ccb5f24e4d4d8078c310aaccf2014336d354bbb&amp;dn=Catfish+The+TV+Show+S04E11+Steven+and+Samm+HDTV+x264-LTBS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 93,
+  "leechers": 3,
+  "uploader": "67mb",
+  "files": 2,
+  "time": 1430987691,
+  "description": "Catfish The TV Show S04E11 Steven and Samm HDTV x264-LTBS",
+  "parsed": {
+    "xt": "urn:btih:1ccb5f24e4d4d8078c310aaccf2014336d354bbb",
+    "dn": "Catfish The TV Show S04E11 Steven and Samm HDTV x264-LTBS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1ccb5f24e4d4d8078c310aaccf2014336d354bbb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        28,
+        203,
+        95,
+        36,
+        228,
+        212,
+        216,
+        7,
+        140,
+        49,
+        10,
+        172,
+        207,
+        32,
+        20,
+        51,
+        109,
+        53,
+        75,
+        187
+      ]
+    },
+    "name": "Catfish The TV Show S04E11 Steven and Samm HDTV x264-LTBS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 96,
+  "peers": 2,
+  "last_updated": "2016-12-24T18:55:36.170Z"
+}

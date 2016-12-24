@@ -1,1 +1,63 @@
-{"title":"Narcos S02E05-E10 720p WEBRip x264-TheRival","uid":15735319,"size":3832747096,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:1ed3eff5de9183639fbb251d5049ca8da2ffbbd7&amp;dn=Narcos+S02E05-E10+720p+WEBRip+x264-TheRival&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":9,"uploader":"TheRival","files":12,"time":1472831802,"description":"Video\r\nID                                       : 1\r\nFormat                                   : AVC\r\nFormat/Info                              : Advanced Video Codec\r\nFormat profile                           :   \r\nFormat settings, CABAC                   : Yes\r\nFormat settings, GOP                     : M=1, N=24\r\nBit rate                                 : 1 441 kb/s\r\nWidth                                    : 1 280 pixels\r\nHeight                                   : 720 pixels\r\nDisplay aspect ratio                     : 16:9\r\nFrame rate mode                          : Constant\r\nFrame rate                               : 23.976 (24000/1001) FPS\r\n\r\nAudio\r\nID                                       : 2\r\nFormat                                   : AAC\r\nFormat/Info                              : Advanced Audio Codec\r\nBit rate                                 : 128 kb/s\r\nSampling rate                            : 48.0 kHz","torrent":{"xt":"urn:btih:1ed3eff5de9183639fbb251d5049ca8da2ffbbd7","amp;dn":"Narcos+S02E05-E10+720p+WEBRip+x264-TheRival","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1ed3eff5de9183639fbb251d5049ca8da2ffbbd7","infoHashBuffer":{"type":"Buffer","data":[30,211,239,245,222,145,131,99,159,187,37,29,80,73,202,141,162,255,187,215]},"announce":[],"urlList":[]}}
+{
+  "title": "Narcos S02E05-E10 720p WEBRip x264-TheRival",
+  "uid": 15735319,
+  "size": 3832747096,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:1ed3eff5de9183639fbb251d5049ca8da2ffbbd7&amp;dn=Narcos+S02E05-E10+720p+WEBRip+x264-TheRival&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 9,
+  "uploader": "TheRival",
+  "files": 12,
+  "time": 1472831802,
+  "description": "Video\r\nID                                       : 1\r\nFormat                                   : AVC\r\nFormat/Info                              : Advanced Video Codec\r\nFormat profile                           :   \r\nFormat settings, CABAC                   : Yes\r\nFormat settings, GOP                     : M=1, N=24\r\nBit rate                                 : 1 441 kb/s\r\nWidth                                    : 1 280 pixels\r\nHeight                                   : 720 pixels\r\nDisplay aspect ratio                     : 16:9\r\nFrame rate mode                          : Constant\r\nFrame rate                               : 23.976 (24000/1001) FPS\r\n\r\nAudio\r\nID                                       : 2\r\nFormat                                   : AAC\r\nFormat/Info                              : Advanced Audio Codec\r\nBit rate                                 : 128 kb/s\r\nSampling rate                            : 48.0 kHz",
+  "parsed": {
+    "xt": "urn:btih:1ed3eff5de9183639fbb251d5049ca8da2ffbbd7",
+    "dn": "Narcos S02E05-E10 720p WEBRip x264-TheRival",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1ed3eff5de9183639fbb251d5049ca8da2ffbbd7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        30,
+        211,
+        239,
+        245,
+        222,
+        145,
+        131,
+        99,
+        159,
+        187,
+        37,
+        29,
+        80,
+        73,
+        202,
+        141,
+        162,
+        255,
+        187,
+        215
+      ]
+    },
+    "name": "Narcos S02E05-E10 720p WEBRip x264-TheRival",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 83,
+  "last_updated": "2016-12-24T19:11:02.175Z"
+}

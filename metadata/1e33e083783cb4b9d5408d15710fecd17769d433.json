@@ -1,1 +1,63 @@
-{"title":"Five Nights at Freddy's: Sister Location v1.02","uid":15993073,"size":823926680,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:1e33e083783cb4b9d5408d15710fecd17769d433&amp;dn=Five+Nights+at+Freddy%27s%3A+Sister+Location+v1.02&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":14,"uploader":"dauphong","files":1,"time":1476039711,"description":"Welcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang!","torrent":{"xt":"urn:btih:1e33e083783cb4b9d5408d15710fecd17769d433","amp;dn":"Five+Nights+at+Freddy%27s%3A+Sister+Location+v1.02","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1e33e083783cb4b9d5408d15710fecd17769d433","infoHashBuffer":{"type":"Buffer","data":[30,51,224,131,120,60,180,185,213,64,141,21,113,15,236,209,119,105,212,51]},"announce":[],"urlList":[]}}
+{
+  "title": "Five Nights at Freddy's: Sister Location v1.02",
+  "uid": 15993073,
+  "size": 823926680,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:1e33e083783cb4b9d5408d15710fecd17769d433&amp;dn=Five+Nights+at+Freddy%27s%3A+Sister+Location+v1.02&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 14,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1476039711,
+  "description": "Welcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang!",
+  "parsed": {
+    "xt": "urn:btih:1e33e083783cb4b9d5408d15710fecd17769d433",
+    "dn": "Five Nights at Freddy's: Sister Location v1.02",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1e33e083783cb4b9d5408d15710fecd17769d433",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        30,
+        51,
+        224,
+        131,
+        120,
+        60,
+        180,
+        185,
+        213,
+        64,
+        141,
+        21,
+        113,
+        15,
+        236,
+        209,
+        119,
+        105,
+        212,
+        51
+      ]
+    },
+    "name": "Five Nights at Freddy's: Sister Location v1.02",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 84,
+  "last_updated": "2016-12-24T19:06:02.799Z"
+}

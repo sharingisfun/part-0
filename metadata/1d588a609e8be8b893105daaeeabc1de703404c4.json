@@ -1,1 +1,61 @@
-{"title":"ReFX Nexus v1.4.1. OSX (Content+Off.Banks+Skins)","uid":8255381,"size":10223337992,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:1d588a609e8be8b893105daaeeabc1de703404c4&amp;dn=ReFX+Nexus+v1.4.1.+OSX+%28Content%2BOff.Banks%2BSkins%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":77,"leechers":12,"uploader":"sentbyplaton","files":1,"time":1363256241,"description":"Copy and paste from http://www.comunidadgz.com/Thread-ReFX-Nexus-v1-4-1-Content-Official-Banks-Skins-MacOSX--4323\n\nI think it's an automatic translation from Russian, but it's easy to follow.\n\nTo make it work in Lion you have to give full access permissions to the directories in /Library/Audio/Plug-Ins/\n\nUse this command:\nsudo chmod 777 /Library/Audio/Plug-Ins/*\n\n\n---\n\nReFX Nexus v1.4.1 (Content+Official Banks+Skins) - Mac OSX | 9.5GB\n\n\nReFX Nexus - capable of many things, but only the more able you are - from complex storm sounds to powerful dance leads and Gregorian choirs. Its function is freely programmable arpeggiator, flexible Trance-Gate, optimized 4 gigabyte library of over 650 presets, built-in effects, including reverb Arts Acoustic and small requirements for computer resources.\nExtras. Information:\nThis hand made at the request because there is no uniform for the Mac, with everything necessary for it to work, you have to collect from Vindovyh hands, and some of them are jammed, so I hope the admins will leave her.\n\nInstallation:\n\nPersonally installed on Mac 10.6.8 on 2 machines running with no problems, and the lodge and ABLE to questions related to other systems could not answer, ask in the comments, may be people who can help you if something arises which -the problem.\n\n1. Install reFX Nexus v1.4.1, is established.\n2. Create a folder reFX on the way HD / library / application support / (if someone created automatically after installation, skip this paragraph, I just have it was not).\n3. Open the DAW, launching Nexus, he asks for a file 0TestTone, do not do anything close DAW.\n4. Mount the Nexus Content and move their entire folder created in step 2.\n5. Again open the DAW, launching Nexus, requesting a file 0TestTone show him the way to HD / library / application support / reFX / nexus content/samples/ROM/0testtone.nxs.\n6. Mount the Official Banks, in the Nexus click on the button sys, then import exp and alternately podgruzhaem banks of the image Official Banks (what if suddenly will give an error while loading, copy them to a thread on a hard, any place and then add the copied after the installation, you can delete, Nexus itself has put them where necessary).\n7. Once downloaded all banks, not where you do not have to stick just close DAW.\n8. Install reFX Expansion Packs (contained in the image), run the installer and the third screen click Change installation location and specify HD / library / application support / reFX / nexus content / Presets.\nAll. Skins add just a sys (only patch Nitsche not necessary).\n\nVersion: 1.4.1\nDeveloper: reFX\nSite Developer: http://refx.com/\nPlatform: PPC / Intel Universal\nLanguage: English\n\nSystem requirements:\nPPC G4 800 Mhz or Intel 1.5 GHz\n512 MB RAM\nMac OSX 10.4.x and 10.5.x\nVST, AU compliant host \n\n---","torrent":{"xt":"urn:btih:1d588a609e8be8b893105daaeeabc1de703404c4","amp;dn":"ReFX+Nexus+v1.4.1.+OSX+%28Content%2BOff.Banks%2BSkins%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1d588a609e8be8b893105daaeeabc1de703404c4","infoHashBuffer":{"type":"Buffer","data":[29,88,138,96,158,139,232,184,147,16,93,170,238,171,193,222,112,52,4,196]},"announce":[],"urlList":[]}}
+{
+  "title": "ReFX Nexus v1.4.1. OSX (Content+Off.Banks+Skins)",
+  "uid": 8255381,
+  "size": 10223337992,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:1d588a609e8be8b893105daaeeabc1de703404c4&amp;dn=ReFX+Nexus+v1.4.1.+OSX+%28Content%2BOff.Banks%2BSkins%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 77,
+  "leechers": 12,
+  "uploader": "sentbyplaton",
+  "files": 1,
+  "time": 1363256241,
+  "description": "Copy and paste from http://www.comunidadgz.com/Thread-ReFX-Nexus-v1-4-1-Content-Official-Banks-Skins-MacOSX--4323\n\nI think it's an automatic translation from Russian, but it's easy to follow.\n\nTo make it work in Lion you have to give full access permissions to the directories in /Library/Audio/Plug-Ins/\n\nUse this command:\nsudo chmod 777 /Library/Audio/Plug-Ins/*\n\n\n---\n\nReFX Nexus v1.4.1 (Content+Official Banks+Skins) - Mac OSX | 9.5GB\n\n\nReFX Nexus - capable of many things, but only the more able you are - from complex storm sounds to powerful dance leads and Gregorian choirs. Its function is freely programmable arpeggiator, flexible Trance-Gate, optimized 4 gigabyte library of over 650 presets, built-in effects, including reverb Arts Acoustic and small requirements for computer resources.\nExtras. Information:\nThis hand made at the request because there is no uniform for the Mac, with everything necessary for it to work, you have to collect from Vindovyh hands, and some of them are jammed, so I hope the admins will leave her.\n\nInstallation:\n\nPersonally installed on Mac 10.6.8 on 2 machines running with no problems, and the lodge and ABLE to questions related to other systems could not answer, ask in the comments, may be people who can help you if something arises which -the problem.\n\n1. Install reFX Nexus v1.4.1, is established.\n2. Create a folder reFX on the way HD / library / application support / (if someone created automatically after installation, skip this paragraph, I just have it was not).\n3. Open the DAW, launching Nexus, he asks for a file 0TestTone, do not do anything close DAW.\n4. Mount the Nexus Content and move their entire folder created in step 2.\n5. Again open the DAW, launching Nexus, requesting a file 0TestTone show him the way to HD / library / application support / reFX / nexus content/samples/ROM/0testtone.nxs.\n6. Mount the Official Banks, in the Nexus click on the button sys, then import exp and alternately podgruzhaem banks of the image Official Banks (what if suddenly will give an error while loading, copy them to a thread on a hard, any place and then add the copied after the installation, you can delete, Nexus itself has put them where necessary).\n7. Once downloaded all banks, not where you do not have to stick just close DAW.\n8. Install reFX Expansion Packs (contained in the image), run the installer and the third screen click Change installation location and specify HD / library / application support / reFX / nexus content / Presets.\nAll. Skins add just a sys (only patch Nitsche not necessary).\n\nVersion: 1.4.1\nDeveloper: reFX\nSite Developer: http://refx.com/\nPlatform: PPC / Intel Universal\nLanguage: English\n\nSystem requirements:\nPPC G4 800 Mhz or Intel 1.5 GHz\n512 MB RAM\nMac OSX 10.4.x and 10.5.x\nVST, AU compliant host \n\n---",
+  "parsed": {
+    "xt": "urn:btih:1d588a609e8be8b893105daaeeabc1de703404c4",
+    "dn": "ReFX Nexus v1.4.1. OSX (Content Off.Banks Skins)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1d588a609e8be8b893105daaeeabc1de703404c4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        29,
+        88,
+        138,
+        96,
+        158,
+        139,
+        232,
+        184,
+        147,
+        16,
+        93,
+        170,
+        238,
+        171,
+        193,
+        222,
+        112,
+        52,
+        4,
+        196
+      ]
+    },
+    "name": "ReFX Nexus v1.4.1. OSX (Content Off.Banks Skins)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 89,
+  "peers": 50,
+  "last_updated": "2016-12-24T18:59:13.268Z"
+}

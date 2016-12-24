@@ -1,1 +1,61 @@
-{"title":"New York Timelapse in 4K.mkv","uid":12119855,"size":834753325,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:1e45b44b72009267fb58d32ba8b6a7d1892fdc53&amp;dn=New+York+Timelapse+in+4K.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":3,"uploader":"PaoLoPer","files":1,"time":1436805331,"description":"Short Timelapse Video of New York in 4k\nResolution : 3840x2160\nFrame Rate : 29.970\nDuration 4min 41sec","torrent":{"xt":"urn:btih:1e45b44b72009267fb58d32ba8b6a7d1892fdc53","amp;dn":"New+York+Timelapse+in+4K.mkv","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1e45b44b72009267fb58d32ba8b6a7d1892fdc53","infoHashBuffer":{"type":"Buffer","data":[30,69,180,75,114,0,146,103,251,88,211,43,168,182,167,209,137,47,220,83]},"announce":[],"urlList":[]}}
+{
+  "title": "New York Timelapse in 4K.mkv",
+  "uid": 12119855,
+  "size": 834753325,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:1e45b44b72009267fb58d32ba8b6a7d1892fdc53&amp;dn=New+York+Timelapse+in+4K.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 3,
+  "uploader": "PaoLoPer",
+  "files": 1,
+  "time": 1436805331,
+  "description": "Short Timelapse Video of New York in 4k\nResolution : 3840x2160\nFrame Rate : 29.970\nDuration 4min 41sec",
+  "parsed": {
+    "xt": "urn:btih:1e45b44b72009267fb58d32ba8b6a7d1892fdc53",
+    "dn": "New York Timelapse in 4K.mkv",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1e45b44b72009267fb58d32ba8b6a7d1892fdc53",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        30,
+        69,
+        180,
+        75,
+        114,
+        0,
+        146,
+        103,
+        251,
+        88,
+        211,
+        43,
+        168,
+        182,
+        167,
+        209,
+        137,
+        47,
+        220,
+        83
+      ]
+    },
+    "name": "New York Timelapse in 4K.mkv",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 10,
+  "last_updated": "2016-12-24T19:06:48.995Z"
+}

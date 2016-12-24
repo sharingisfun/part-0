@@ -1,1 +1,63 @@
-{"title":"Oxenfree (2016) [R.G. Mechanics]","uid":15964343,"size":12141169,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:1dcd89637ba1f797d7e720ac5b0a9e4deca1d9c8&amp;dn=Oxenfree+%282016%29+%5BR.G.+Mechanics%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":52,"uploader":"trwetwr","files":4,"time":1475707631,"description":"Good Game","torrent":{"xt":"urn:btih:1dcd89637ba1f797d7e720ac5b0a9e4deca1d9c8","amp;dn":"Oxenfree+%282016%29+%5BR.G.+Mechanics%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1dcd89637ba1f797d7e720ac5b0a9e4deca1d9c8","infoHashBuffer":{"type":"Buffer","data":[29,205,137,99,123,161,247,151,215,231,32,172,91,10,158,77,236,161,217,200]},"announce":[],"urlList":[]}}
+{
+  "title": "Oxenfree (2016) [R.G. Mechanics]",
+  "uid": 15964343,
+  "size": 12141169,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:1dcd89637ba1f797d7e720ac5b0a9e4deca1d9c8&amp;dn=Oxenfree+%282016%29+%5BR.G.+Mechanics%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 52,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475707631,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:1dcd89637ba1f797d7e720ac5b0a9e4deca1d9c8",
+    "dn": "Oxenfree (2016) [R.G. Mechanics]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1dcd89637ba1f797d7e720ac5b0a9e4deca1d9c8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        29,
+        205,
+        137,
+        99,
+        123,
+        161,
+        247,
+        151,
+        215,
+        231,
+        32,
+        172,
+        91,
+        10,
+        158,
+        77,
+        236,
+        161,
+        217,
+        200
+      ]
+    },
+    "name": "Oxenfree (2016) [R.G. Mechanics]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 118,
+  "peers": 4,
+  "last_updated": "2016-12-24T19:02:52.160Z"
+}
