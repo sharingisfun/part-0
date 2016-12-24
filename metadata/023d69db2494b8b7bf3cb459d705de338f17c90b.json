@@ -1,1 +1,61 @@
-{"title":"MineCraft 1.7.10 with Over 68 Mods","uid":11738663,"size":791863668,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:023d69db2494b8b7bf3cb459d705de338f17c90b&amp;dn=MineCraft+1.7.10+with+Over+68+Mods&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":6,"uploader":"Draculz","files":7,"time":1425663914,"description":"This is Minecraft 1.7.10 with over 68 mods installed \n\nit is very easy to install instructions is given just follow them \n\nI installed all the latest mods I think is needed for minecraft and more\n\nIf you have any suggestions on other mods I'll be happy to put it in my next \n\nminecraft upload. Just leave a comment.\n\n\nHope you enjoy and please seed guys","torrent":{"xt":"urn:btih:023d69db2494b8b7bf3cb459d705de338f17c90b","amp;dn":"MineCraft+1.7.10+with+Over+68+Mods","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"023d69db2494b8b7bf3cb459d705de338f17c90b","infoHashBuffer":{"type":"Buffer","data":[2,61,105,219,36,148,184,183,191,60,180,89,215,5,222,51,143,23,201,11]},"announce":[],"urlList":[]}}
+{
+  "title": "MineCraft 1.7.10 with Over 68 Mods",
+  "uid": 11738663,
+  "size": 791863668,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:023d69db2494b8b7bf3cb459d705de338f17c90b&amp;dn=MineCraft+1.7.10+with+Over+68+Mods&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 6,
+  "uploader": "Draculz",
+  "files": 7,
+  "time": 1425663914,
+  "description": "This is Minecraft 1.7.10 with over 68 mods installed \n\nit is very easy to install instructions is given just follow them \n\nI installed all the latest mods I think is needed for minecraft and more\n\nIf you have any suggestions on other mods I'll be happy to put it in my next \n\nminecraft upload. Just leave a comment.\n\n\nHope you enjoy and please seed guys",
+  "parsed": {
+    "xt": "urn:btih:023d69db2494b8b7bf3cb459d705de338f17c90b",
+    "dn": "MineCraft 1.7.10 with Over 68 Mods",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "023d69db2494b8b7bf3cb459d705de338f17c90b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        2,
+        61,
+        105,
+        219,
+        36,
+        148,
+        184,
+        183,
+        191,
+        60,
+        180,
+        89,
+        215,
+        5,
+        222,
+        51,
+        143,
+        23,
+        201,
+        11
+      ]
+    },
+    "name": "MineCraft 1.7.10 with Over 68 Mods",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 68,
+  "last_updated": "2016-12-24T15:32:45.136Z"
+}

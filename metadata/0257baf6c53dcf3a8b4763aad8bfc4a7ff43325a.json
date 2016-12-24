@@ -1,1 +1,61 @@
-{"title":"Kontakt 5  Factory Content","uid":7875980,"size":24736967592,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:0257baf6c53dcf3a8b4763aad8bfc4a7ff43325a&amp;dn=Kontakt+5++Factory+Content&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":66,"uploader":"Basstex","files":1,"time":1354343217,"description":"Kontakt 5 Factory Content\n\nCreate a folder anywhere on your PC, name it Native Instruments.  Create a sub-folder, name it Kontakt 5, create another sub-folder, name it Factory Content.  Place all of the contents into the final sub-folder.  Open Kontakt 5, click add library, locate the sub-folder titled Factory Content and click OK.   \n\nEnjoy, I just saved you a week of downloading from german websites.\n\nWorks 100%, I have already downloaded, installed and tested on my own PC/Kontakt.\n\nI have the Kontakt 4 Factory Content as well, I will be uploading that soon if you use that version.","torrent":{"xt":"urn:btih:0257baf6c53dcf3a8b4763aad8bfc4a7ff43325a","amp;dn":"Kontakt+5++Factory+Content","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0257baf6c53dcf3a8b4763aad8bfc4a7ff43325a","infoHashBuffer":{"type":"Buffer","data":[2,87,186,246,197,61,207,58,139,71,99,170,216,191,196,167,255,67,50,90]},"announce":[],"urlList":[]}}
+{
+  "title": "Kontakt 5  Factory Content",
+  "uid": 7875980,
+  "size": 24736967592,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:0257baf6c53dcf3a8b4763aad8bfc4a7ff43325a&amp;dn=Kontakt+5++Factory+Content&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 66,
+  "uploader": "Basstex",
+  "files": 1,
+  "time": 1354343217,
+  "description": "Kontakt 5 Factory Content\n\nCreate a folder anywhere on your PC, name it Native Instruments.  Create a sub-folder, name it Kontakt 5, create another sub-folder, name it Factory Content.  Place all of the contents into the final sub-folder.  Open Kontakt 5, click add library, locate the sub-folder titled Factory Content and click OK.   \n\nEnjoy, I just saved you a week of downloading from german websites.\n\nWorks 100%, I have already downloaded, installed and tested on my own PC/Kontakt.\n\nI have the Kontakt 4 Factory Content as well, I will be uploading that soon if you use that version.",
+  "parsed": {
+    "xt": "urn:btih:0257baf6c53dcf3a8b4763aad8bfc4a7ff43325a",
+    "dn": "Kontakt 5  Factory Content",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0257baf6c53dcf3a8b4763aad8bfc4a7ff43325a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        2,
+        87,
+        186,
+        246,
+        197,
+        61,
+        207,
+        58,
+        139,
+        71,
+        99,
+        170,
+        216,
+        191,
+        196,
+        167,
+        255,
+        67,
+        50,
+        90
+      ]
+    },
+    "name": "Kontakt 5  Factory Content",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 113,
+  "peers": 280,
+  "last_updated": "2016-12-24T15:33:57.388Z"
+}

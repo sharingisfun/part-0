@@ -1,1 +1,61 @@
-{"title":"Grimm.S01E01.FRENCH.LD.HDTV.XviD-EPZ","uid":7214296,"size":356822438,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:01bacaa288652411bbfac5e121543ff9242be6b3&amp;dn=Grimm.S01E01.FRENCH.LD.HDTV.XviD-EPZ&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":2,"uploader":"maximersk","files":1,"time":1335333647,"description":"Grimm.S01E01.FRENCH.LD.HDTV.XviD-EPZ","torrent":{"xt":"urn:btih:01bacaa288652411bbfac5e121543ff9242be6b3","amp;dn":"Grimm.S01E01.FRENCH.LD.HDTV.XviD-EPZ","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"01bacaa288652411bbfac5e121543ff9242be6b3","infoHashBuffer":{"type":"Buffer","data":[1,186,202,162,136,101,36,17,187,250,197,225,33,84,63,249,36,43,230,179]},"announce":[],"urlList":[]}}
+{
+  "title": "Grimm.S01E01.FRENCH.LD.HDTV.XviD-EPZ",
+  "uid": 7214296,
+  "size": 356822438,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:01bacaa288652411bbfac5e121543ff9242be6b3&amp;dn=Grimm.S01E01.FRENCH.LD.HDTV.XviD-EPZ&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 2,
+  "uploader": "maximersk",
+  "files": 1,
+  "time": 1335333647,
+  "description": "Grimm.S01E01.FRENCH.LD.HDTV.XviD-EPZ",
+  "parsed": {
+    "xt": "urn:btih:01bacaa288652411bbfac5e121543ff9242be6b3",
+    "dn": "Grimm.S01E01.FRENCH.LD.HDTV.XviD-EPZ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "01bacaa288652411bbfac5e121543ff9242be6b3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        1,
+        186,
+        202,
+        162,
+        136,
+        101,
+        36,
+        17,
+        187,
+        250,
+        197,
+        225,
+        33,
+        84,
+        63,
+        249,
+        36,
+        43,
+        230,
+        179
+      ]
+    },
+    "name": "Grimm.S01E01.FRENCH.LD.HDTV.XviD-EPZ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 33,
+  "last_updated": "2016-12-24T15:29:16.603Z"
+}

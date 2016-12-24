@@ -1,1 +1,61 @@
-{"title":"Lo imposible","uid":8572865,"size":1658071228,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:014087a9e802e94ffa2f70fd28ee215d69009d1d&amp;dn=Lo+imposible&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":65,"leechers":0,"uploader":"Miguel223","files":2,"time":1371202478,"description":"Lo imposible\n\nwww.peliculasytorrent.com","torrent":{"xt":"urn:btih:014087a9e802e94ffa2f70fd28ee215d69009d1d","amp;dn":"Lo+imposible","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"014087a9e802e94ffa2f70fd28ee215d69009d1d","infoHashBuffer":{"type":"Buffer","data":[1,64,135,169,232,2,233,79,250,47,112,253,40,238,33,93,105,0,157,29]},"announce":[],"urlList":[]}}
+{
+  "title": "Lo imposible",
+  "uid": 8572865,
+  "size": 1658071228,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:014087a9e802e94ffa2f70fd28ee215d69009d1d&amp;dn=Lo+imposible&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 65,
+  "leechers": 0,
+  "uploader": "Miguel223",
+  "files": 2,
+  "time": 1371202478,
+  "description": "Lo imposible\n\nwww.peliculasytorrent.com",
+  "parsed": {
+    "xt": "urn:btih:014087a9e802e94ffa2f70fd28ee215d69009d1d",
+    "dn": "Lo imposible",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "014087a9e802e94ffa2f70fd28ee215d69009d1d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        1,
+        64,
+        135,
+        169,
+        232,
+        2,
+        233,
+        79,
+        250,
+        47,
+        112,
+        253,
+        40,
+        238,
+        33,
+        93,
+        105,
+        0,
+        157,
+        29
+      ]
+    },
+    "name": "Lo imposible",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 133,
+  "last_updated": "2016-12-24T15:25:37.994Z"
+}

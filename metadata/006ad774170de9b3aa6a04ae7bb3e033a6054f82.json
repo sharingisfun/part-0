@@ -1,1 +1,61 @@
-{"title":"GTA - San Andreas.iso","uid":3548270,"size":4231110656,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:006ad774170de9b3aa6a04ae7bb3e033a6054f82&amp;dn=GTA+-+San+Andreas.iso&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":171,"leechers":21,"uploader":"gie 99","files":1,"time":1162201307,"description":"GTA - San Andreas.iso","torrent":{"xt":"urn:btih:006ad774170de9b3aa6a04ae7bb3e033a6054f82","amp;dn":"GTA+-+San+Andreas.iso","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"006ad774170de9b3aa6a04ae7bb3e033a6054f82","infoHashBuffer":{"type":"Buffer","data":[0,106,215,116,23,13,233,179,170,106,4,174,123,179,224,51,166,5,79,130]},"announce":[],"urlList":[]}}
+{
+  "title": "GTA - San Andreas.iso",
+  "uid": 3548270,
+  "size": 4231110656,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:006ad774170de9b3aa6a04ae7bb3e033a6054f82&amp;dn=GTA+-+San+Andreas.iso&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 171,
+  "leechers": 21,
+  "uploader": "gie 99",
+  "files": 1,
+  "time": 1162201307,
+  "description": "GTA - San Andreas.iso",
+  "parsed": {
+    "xt": "urn:btih:006ad774170de9b3aa6a04ae7bb3e033a6054f82",
+    "dn": "GTA - San Andreas.iso",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "006ad774170de9b3aa6a04ae7bb3e033a6054f82",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        0,
+        106,
+        215,
+        116,
+        23,
+        13,
+        233,
+        179,
+        170,
+        106,
+        4,
+        174,
+        123,
+        179,
+        224,
+        51,
+        166,
+        5,
+        79,
+        130
+      ]
+    },
+    "name": "GTA - San Andreas.iso",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 192,
+  "peers": 0,
+  "last_updated": "2016-12-24T15:20:06.625Z"
+}

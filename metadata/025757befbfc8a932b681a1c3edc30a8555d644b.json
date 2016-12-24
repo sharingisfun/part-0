@@ -1,1 +1,63 @@
-{"title":"[FSX/FSX:SE/P3D] - LEMG - Malaga 1.01 (Aerosoft)","uid":15732554,"size":1371716997,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:025757befbfc8a932b681a1c3edc30a8555d644b&amp;dn=%5BFSX%2FFSX%3ASE%2FP3D%5D+-+LEMG+-+Malaga+1.01+%28Aerosoft%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":1,"uploader":"namco-nexgen","files":1,"time":1472804246,"description":"Malaga 1.01 from Aerosoft. Enjoy","torrent":{"xt":"urn:btih:025757befbfc8a932b681a1c3edc30a8555d644b","amp;dn":"%5BFSX%2FFSX%3ASE%2FP3D%5D+-+LEMG+-+Malaga+1.01+%28Aerosoft%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"025757befbfc8a932b681a1c3edc30a8555d644b","infoHashBuffer":{"type":"Buffer","data":[2,87,87,190,251,252,138,147,43,104,26,28,62,220,48,168,85,93,100,75]},"announce":[],"urlList":[]}}
+{
+  "title": "[FSX/FSX:SE/P3D] - LEMG - Malaga 1.01 (Aerosoft)",
+  "uid": 15732554,
+  "size": 1371716997,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:025757befbfc8a932b681a1c3edc30a8555d644b&amp;dn=%5BFSX%2FFSX%3ASE%2FP3D%5D+-+LEMG+-+Malaga+1.01+%28Aerosoft%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 1,
+  "uploader": "namco-nexgen",
+  "files": 1,
+  "time": 1472804246,
+  "description": "Malaga 1.01 from Aerosoft. Enjoy",
+  "parsed": {
+    "xt": "urn:btih:025757befbfc8a932b681a1c3edc30a8555d644b",
+    "dn": "[FSX/FSX:SE/P3D] - LEMG - Malaga 1.01 (Aerosoft)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "025757befbfc8a932b681a1c3edc30a8555d644b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        2,
+        87,
+        87,
+        190,
+        251,
+        252,
+        138,
+        147,
+        43,
+        104,
+        26,
+        28,
+        62,
+        220,
+        48,
+        168,
+        85,
+        93,
+        100,
+        75
+      ]
+    },
+    "name": "[FSX/FSX:SE/P3D] - LEMG - Malaga 1.01 (Aerosoft)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 124,
+  "last_updated": "2016-12-24T15:33:55.383Z"
+}

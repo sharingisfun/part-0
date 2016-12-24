@@ -1,1 +1,61 @@
-{"title":"WIBR+ WIfi BRuteforce Hack Apk","uid":8733555,"size":149852,"categoryP":"applications","categoryS":"android","magnet":"?xt=urn:btih:016cb0484050ea36ce495fe7be1dbce1df3656ef&amp;dn=WIBR%2B+WIfi+BRuteforce+Hack+Apk&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":1,"uploader":"CollectorMan223","files":1,"time":1374644695,"description":"Description:\n\nWIBR+ is advanced application for testing of security of the WPA/WPA2 PSK WiFi networks. This application is NOT FAKE, it really works and it is possible to access the WiFi network if it uses weak password. This app supports queueing, custom dictionaries, bruteforce generator and advanced monitoring! Read whole description before buying and please READ FAQ at end of this page.\n\nCONTACT ME BEFORE GIVING BAD REVIEW, SO I CAN HELP YOU.\n\nThe application supports two types of test:\n\n- Dictionary test - it tries passwords from predefined list one by one. Please don't be disappointed if the password will not be found, it simply means that it was not in the dictionary. However, if somebody set his key to &quot;12345678&quot; or &quot;password&quot; it will be detected. This version supports importing of your own dictionaries, so you are no longer limited by pre-installed dictionaries!\n\n- Bruteforce test - you can select alphabet, lenght of password and the app will try all combinations of characters in the alphabet. Of course this is complete madness because the number of combinations is growing exponentially with password length. Therefore the app supports custom alphabet and custom mask. If you know that the password is something like hacker and two digits you can set mask to hacker[x][x] and select the digits alphabet. The app will try all passwords like hacker00, hacker01 through hacker99!\n\nIt's easy as 1-2-3.\n\n1) List available networks and select desired network. WIBR is tested on WPA/WPA2 networks with pre-shared key (PSK). Please note, that the testing will be unreliable if the signal is weak! WARNING: HACKING SOMEBODY ELSE'S WIFI IS ILLEGAL! USE THIS APP ONLY ON YOUR OWN NETWORKS!\n\n2) Select desired dictionaries or set up the bruteforce attack. There are three predefined wordlist which you can use. They contains a list of most commonly used passwords. You can import your own dictionary in txt format, one password per line. Please note, that for WPA passwords the minimum length is 8 characters and shorter passwords will be skipped.\n\n3) Wait for results. The process is very slow due to nature of the WiFi connection handling in Android, so be prepared that it can take a loooooooong time. 8 passwords/minute is considered good speed. The wifi have to be enabled all the time, so WIBR is also battery eater!\n\nPlease note that WIBR will change password for the selected network. It is impossible to get this password back. If you are testing previously saved network then the password will be lost.\n\nIf you do not want to pay then try the free version: https://play.google.com/store/apps/details?id=cz.auradesign.wibr\n\nPlease, read this FAQ before giving bad review. If the app is not working for you it is certainly some resolvable issue because it is working for many others ;)\n\nFAQ\n\nQ: The app do not start testing! What should I do?\nA: When this happens you can try this procedure:\n- when you was using WIBR Free uninstall it (WIBR Free and WIBR+ may interfere)\n- update WIBR+ to latest version\n- restart phone and make sure no other power managers or wifi managers are running\n- start WIBR+\n- stop any running scans - click on queue item and then pause it or use the trashbin icon to delete it\n- add network with good signal (at least 60) and select small dictionary, add it to queue\n- there should be &quot;Password: 0 of 53&quot;\n- click on this item to open the monitor and wait at least one minute - it should show some progress\n\n\nIf it still don't work:\n- you are trying to test network with weak or unstable signal or in very &quot;noisy&quot; environment (i.e. many networks on same channel)\n- you are trying to access network which is using so called MAC filtering, so only explicitly allowed devices could access the network\n\nThe solution is to try WIBR+ on another network with good signal.\n\n\nApk App Info Link:\n &lt;a href=&quot;\nhttps://play.google.com/store/apps/details?id=cz.auradesign.wibrplus&amp;hl=en&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://play.google.com/store/apps/details?id=cz.auradesign.wibrplus&amp;hl=en&lt;/a&gt;\n\n\n*~ Please Help SEED And ENJOY ;7) ~* ","torrent":{"xt":"urn:btih:016cb0484050ea36ce495fe7be1dbce1df3656ef","amp;dn":"WIBR%2B+WIfi+BRuteforce+Hack+Apk","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"016cb0484050ea36ce495fe7be1dbce1df3656ef","infoHashBuffer":{"type":"Buffer","data":[1,108,176,72,64,80,234,54,206,73,95,231,190,29,188,225,223,54,86,239]},"announce":[],"urlList":[]}}
+{
+  "title": "WIBR+ WIfi BRuteforce Hack Apk",
+  "uid": 8733555,
+  "size": 149852,
+  "categoryP": "applications",
+  "categoryS": "android",
+  "magnet": "?xt=urn:btih:016cb0484050ea36ce495fe7be1dbce1df3656ef&amp;dn=WIBR%2B+WIfi+BRuteforce+Hack+Apk&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 1,
+  "uploader": "CollectorMan223",
+  "files": 1,
+  "time": 1374644695,
+  "description": "Description:\n\nWIBR+ is advanced application for testing of security of the WPA/WPA2 PSK WiFi networks. This application is NOT FAKE, it really works and it is possible to access the WiFi network if it uses weak password. This app supports queueing, custom dictionaries, bruteforce generator and advanced monitoring! Read whole description before buying and please READ FAQ at end of this page.\n\nCONTACT ME BEFORE GIVING BAD REVIEW, SO I CAN HELP YOU.\n\nThe application supports two types of test:\n\n- Dictionary test - it tries passwords from predefined list one by one. Please don't be disappointed if the password will not be found, it simply means that it was not in the dictionary. However, if somebody set his key to &quot;12345678&quot; or &quot;password&quot; it will be detected. This version supports importing of your own dictionaries, so you are no longer limited by pre-installed dictionaries!\n\n- Bruteforce test - you can select alphabet, lenght of password and the app will try all combinations of characters in the alphabet. Of course this is complete madness because the number of combinations is growing exponentially with password length. Therefore the app supports custom alphabet and custom mask. If you know that the password is something like hacker and two digits you can set mask to hacker[x][x] and select the digits alphabet. The app will try all passwords like hacker00, hacker01 through hacker99!\n\nIt's easy as 1-2-3.\n\n1) List available networks and select desired network. WIBR is tested on WPA/WPA2 networks with pre-shared key (PSK). Please note, that the testing will be unreliable if the signal is weak! WARNING: HACKING SOMEBODY ELSE'S WIFI IS ILLEGAL! USE THIS APP ONLY ON YOUR OWN NETWORKS!\n\n2) Select desired dictionaries or set up the bruteforce attack. There are three predefined wordlist which you can use. They contains a list of most commonly used passwords. You can import your own dictionary in txt format, one password per line. Please note, that for WPA passwords the minimum length is 8 characters and shorter passwords will be skipped.\n\n3) Wait for results. The process is very slow due to nature of the WiFi connection handling in Android, so be prepared that it can take a loooooooong time. 8 passwords/minute is considered good speed. The wifi have to be enabled all the time, so WIBR is also battery eater!\n\nPlease note that WIBR will change password for the selected network. It is impossible to get this password back. If you are testing previously saved network then the password will be lost.\n\nIf you do not want to pay then try the free version: https://play.google.com/store/apps/details?id=cz.auradesign.wibr\n\nPlease, read this FAQ before giving bad review. If the app is not working for you it is certainly some resolvable issue because it is working for many others ;)\n\nFAQ\n\nQ: The app do not start testing! What should I do?\nA: When this happens you can try this procedure:\n- when you was using WIBR Free uninstall it (WIBR Free and WIBR+ may interfere)\n- update WIBR+ to latest version\n- restart phone and make sure no other power managers or wifi managers are running\n- start WIBR+\n- stop any running scans - click on queue item and then pause it or use the trashbin icon to delete it\n- add network with good signal (at least 60) and select small dictionary, add it to queue\n- there should be &quot;Password: 0 of 53&quot;\n- click on this item to open the monitor and wait at least one minute - it should show some progress\n\n\nIf it still don't work:\n- you are trying to test network with weak or unstable signal or in very &quot;noisy&quot; environment (i.e. many networks on same channel)\n- you are trying to access network which is using so called MAC filtering, so only explicitly allowed devices could access the network\n\nThe solution is to try WIBR+ on another network with good signal.\n\n\nApk App Info Link:\n &lt;a href=&quot;\nhttps://play.google.com/store/apps/details?id=cz.auradesign.wibrplus&amp;hl=en&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://play.google.com/store/apps/details?id=cz.auradesign.wibrplus&amp;hl=en&lt;/a&gt;\n\n\n*~ Please Help SEED And ENJOY ;7) ~* ",
+  "parsed": {
+    "xt": "urn:btih:016cb0484050ea36ce495fe7be1dbce1df3656ef",
+    "dn": "WIBR  WIfi BRuteforce Hack Apk",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "016cb0484050ea36ce495fe7be1dbce1df3656ef",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        1,
+        108,
+        176,
+        72,
+        64,
+        80,
+        234,
+        54,
+        206,
+        73,
+        95,
+        231,
+        190,
+        29,
+        188,
+        225,
+        223,
+        54,
+        86,
+        239
+      ]
+    },
+    "name": "WIBR  WIfi BRuteforce Hack Apk",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 29,
+  "last_updated": "2016-12-24T15:27:14.272Z"
+}

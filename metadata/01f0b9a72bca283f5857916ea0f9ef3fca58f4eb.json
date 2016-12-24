@@ -1,1 +1,61 @@
-{"title":"Killjoys.S01E03.HDTV.x264-ASAP[ettv]","uid":12089022,"size":357131896,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:01f0b9a72bca283f5857916ea0f9ef3fca58f4eb&amp;dn=Killjoys.S01E03.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":278,"leechers":8,"uploader":"ettv","files":3,"time":1435982511,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                           &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:01f0b9a72bca283f5857916ea0f9ef3fca58f4eb","amp;dn":"Killjoys.S01E03.HDTV.x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"01f0b9a72bca283f5857916ea0f9ef3fca58f4eb","infoHashBuffer":{"type":"Buffer","data":[1,240,185,167,43,202,40,63,88,87,145,110,160,249,239,63,202,88,244,235]},"announce":[],"urlList":[]}}
+{
+  "title": "Killjoys.S01E03.HDTV.x264-ASAP[ettv]",
+  "uid": 12089022,
+  "size": 357131896,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:01f0b9a72bca283f5857916ea0f9ef3fca58f4eb&amp;dn=Killjoys.S01E03.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 278,
+  "leechers": 8,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1435982511,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                           &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:01f0b9a72bca283f5857916ea0f9ef3fca58f4eb",
+    "dn": "Killjoys.S01E03.HDTV.x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "01f0b9a72bca283f5857916ea0f9ef3fca58f4eb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        1,
+        240,
+        185,
+        167,
+        43,
+        202,
+        40,
+        63,
+        88,
+        87,
+        145,
+        110,
+        160,
+        249,
+        239,
+        63,
+        202,
+        88,
+        244,
+        235
+      ]
+    },
+    "name": "Killjoys.S01E03.HDTV.x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 286,
+  "peers": 33,
+  "last_updated": "2016-12-24T15:30:26.779Z"
+}

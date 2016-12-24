@@ -1,1 +1,61 @@
-{"title":"A$AP Rocky - AT.LONG.LAST.A$AP [2015] [Album]","uid":11972093,"size":401489174,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:02097e21bebd5010b13d05b599b2e61bf7cdf666&amp;dn=A%24AP+Rocky+-+AT.LONG.LAST.A%24AP+%5B2015%5D+%5BAlbum%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":3,"uploader":"mindcrasher","files":21,"time":1432867958,"description":"The massive follow up to A$AP Rocky's 2013 release &quot;Long.Live.A$AP&quot; \n\n1. Holy Ghost (featuring Joe Fox)\n2. Canal St. (featuring Bones)\n3. Fine Whine (featuring Future, Joe Fox and M.I.A.)\n4. L$D\n5. Excuse Me\n6. JD\n7. Lord Pretty Flacko Jodye 2\n8. Electric Body (featuring Schoolboy Q)\n9. Jukebox Joints (featuring Joe Fox and Kanye West)\n10. Max B (featuring Joe Fox)\n11. Pharsyde (featuring Joe Fox)\n12. Wavybone (featuring Juicy J and UGK)\n13. Westside Highway (featuring James Fauntleroy)\n14. Better Things\n15. MÃ¢â‚¬â„¢$ (featuring Lil Wayne)\n16. Dreams (Interlude)\n17. Everyday (featuring Rod Stewart, Miguel and Mark Ronson)\n18. Back Home (featuring Mos Def, Acyde and A$AP Yams)","torrent":{"xt":"urn:btih:02097e21bebd5010b13d05b599b2e61bf7cdf666","amp;dn":"A%24AP+Rocky+-+AT.LONG.LAST.A%24AP+%5B2015%5D+%5BAlbum%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"02097e21bebd5010b13d05b599b2e61bf7cdf666","infoHashBuffer":{"type":"Buffer","data":[2,9,126,33,190,189,80,16,177,61,5,181,153,178,230,27,247,205,246,102]},"announce":[],"urlList":[]}}
+{
+  "title": "A$AP Rocky - AT.LONG.LAST.A$AP [2015] [Album]",
+  "uid": 11972093,
+  "size": 401489174,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:02097e21bebd5010b13d05b599b2e61bf7cdf666&amp;dn=A%24AP+Rocky+-+AT.LONG.LAST.A%24AP+%5B2015%5D+%5BAlbum%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 3,
+  "uploader": "mindcrasher",
+  "files": 21,
+  "time": 1432867958,
+  "description": "The massive follow up to A$AP Rocky's 2013 release &quot;Long.Live.A$AP&quot; \n\n1. Holy Ghost (featuring Joe Fox)\n2. Canal St. (featuring Bones)\n3. Fine Whine (featuring Future, Joe Fox and M.I.A.)\n4. L$D\n5. Excuse Me\n6. JD\n7. Lord Pretty Flacko Jodye 2\n8. Electric Body (featuring Schoolboy Q)\n9. Jukebox Joints (featuring Joe Fox and Kanye West)\n10. Max B (featuring Joe Fox)\n11. Pharsyde (featuring Joe Fox)\n12. Wavybone (featuring Juicy J and UGK)\n13. Westside Highway (featuring James Fauntleroy)\n14. Better Things\n15. MÃ¢â‚¬â„¢$ (featuring Lil Wayne)\n16. Dreams (Interlude)\n17. Everyday (featuring Rod Stewart, Miguel and Mark Ronson)\n18. Back Home (featuring Mos Def, Acyde and A$AP Yams)",
+  "parsed": {
+    "xt": "urn:btih:02097e21bebd5010b13d05b599b2e61bf7cdf666",
+    "dn": "A$AP Rocky - AT.LONG.LAST.A$AP [2015] [Album]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "02097e21bebd5010b13d05b599b2e61bf7cdf666",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        2,
+        9,
+        126,
+        33,
+        190,
+        189,
+        80,
+        16,
+        177,
+        61,
+        5,
+        181,
+        153,
+        178,
+        230,
+        27,
+        247,
+        205,
+        246,
+        102
+      ]
+    },
+    "name": "A$AP Rocky - AT.LONG.LAST.A$AP [2015] [Album]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 81,
+  "peers": 98,
+  "last_updated": "2016-12-24T15:31:06.884Z"
+}

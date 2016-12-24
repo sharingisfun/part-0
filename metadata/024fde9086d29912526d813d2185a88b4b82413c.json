@@ -1,1 +1,61 @@
-{"title":"XLN.Audio.Addictive.Drums.1.5.2.VSTi.RTAS.AU.Mac.PC+ADPaks+MIDIP","uid":7026702,"size":7592324124,"categoryP":"applications","categoryS":"other_os","magnet":"?xt=urn:btih:024fde9086d29912526d813d2185a88b4b82413c&amp;dn=XLN.Audio.Addictive.Drums.1.5.2.VSTi.RTAS.AU.Mac.PC%2BADPaks%2BMIDIP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":7,"uploader":"andreros","files":486,"time":1329042771,"description":"- Addictive Drums Plugin with v1.5.2 update\n- ADPaks:\n. . - Funk\n. . - Metal\n. . - Modern Jazz Brushes\n. . - Modern Jazz Sticks\n. . - Reel Machines\n. . - Retro\n- MIDI Paks\n\nMac install notes: In order to install the ADpaks in a Mac computer you will have to install them into a PC and then copy the installed files into the Mac Addictive Drums install directory. This is due to the ADpaks not having the Mac installers. Anyway, it works, I can assure you ;)\n\nFor further info check the file listing. Don't forget to seed! ","torrent":{"xt":"urn:btih:024fde9086d29912526d813d2185a88b4b82413c","amp;dn":"XLN.Audio.Addictive.Drums.1.5.2.VSTi.RTAS.AU.Mac.PC%2BADPaks%2BMIDIP","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"024fde9086d29912526d813d2185a88b4b82413c","infoHashBuffer":{"type":"Buffer","data":[2,79,222,144,134,210,153,18,82,109,129,61,33,133,168,139,75,130,65,60]},"announce":[],"urlList":[]}}
+{
+  "title": "XLN.Audio.Addictive.Drums.1.5.2.VSTi.RTAS.AU.Mac.PC+ADPaks+MIDIP",
+  "uid": 7026702,
+  "size": 7592324124,
+  "categoryP": "applications",
+  "categoryS": "other_os",
+  "magnet": "?xt=urn:btih:024fde9086d29912526d813d2185a88b4b82413c&amp;dn=XLN.Audio.Addictive.Drums.1.5.2.VSTi.RTAS.AU.Mac.PC%2BADPaks%2BMIDIP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 7,
+  "uploader": "andreros",
+  "files": 486,
+  "time": 1329042771,
+  "description": "- Addictive Drums Plugin with v1.5.2 update\n- ADPaks:\n. . - Funk\n. . - Metal\n. . - Modern Jazz Brushes\n. . - Modern Jazz Sticks\n. . - Reel Machines\n. . - Retro\n- MIDI Paks\n\nMac install notes: In order to install the ADpaks in a Mac computer you will have to install them into a PC and then copy the installed files into the Mac Addictive Drums install directory. This is due to the ADpaks not having the Mac installers. Anyway, it works, I can assure you ;)\n\nFor further info check the file listing. Don't forget to seed! ",
+  "parsed": {
+    "xt": "urn:btih:024fde9086d29912526d813d2185a88b4b82413c",
+    "dn": "XLN.Audio.Addictive.Drums.1.5.2.VSTi.RTAS.AU.Mac.PC ADPaks MIDIP",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "024fde9086d29912526d813d2185a88b4b82413c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        2,
+        79,
+        222,
+        144,
+        134,
+        210,
+        153,
+        18,
+        82,
+        109,
+        129,
+        61,
+        33,
+        133,
+        168,
+        139,
+        75,
+        130,
+        65,
+        60
+      ]
+    },
+    "name": "XLN.Audio.Addictive.Drums.1.5.2.VSTi.RTAS.AU.Mac.PC ADPaks MIDIP",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 9,
+  "last_updated": "2016-12-24T15:33:39.305Z"
+}

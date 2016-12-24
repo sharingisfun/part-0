@@ -1,1 +1,61 @@
-{"title":"Eastbound and Down Season 4 Complete mjh","uid":10235962,"size":2672240180,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:005ea6ec11f155761cfeab639f61e2bc31470696&amp;dn=Eastbound+and+Down+Season+4+Complete+mjh&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":8,"uploader":"mattjhorobin","files":8,"time":1401183344,"description":"Eastbound and Down Season 4 Complete\n\n\nGenre: Comedy\n\n\nSource: EZTV\n\n\nVideo: 624x352, XviD @ 23.976fps\n\n\nAudio: MP3 128kbps\n\n\nDuration: 29 mins each","torrent":{"xt":"urn:btih:005ea6ec11f155761cfeab639f61e2bc31470696","amp;dn":"Eastbound+and+Down+Season+4+Complete+mjh","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"005ea6ec11f155761cfeab639f61e2bc31470696","infoHashBuffer":{"type":"Buffer","data":[0,94,166,236,17,241,85,118,28,254,171,99,159,97,226,188,49,71,6,150]},"announce":[],"urlList":[]}}
+{
+  "title": "Eastbound and Down Season 4 Complete mjh",
+  "uid": 10235962,
+  "size": 2672240180,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:005ea6ec11f155761cfeab639f61e2bc31470696&amp;dn=Eastbound+and+Down+Season+4+Complete+mjh&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 8,
+  "uploader": "mattjhorobin",
+  "files": 8,
+  "time": 1401183344,
+  "description": "Eastbound and Down Season 4 Complete\n\n\nGenre: Comedy\n\n\nSource: EZTV\n\n\nVideo: 624x352, XviD @ 23.976fps\n\n\nAudio: MP3 128kbps\n\n\nDuration: 29 mins each",
+  "parsed": {
+    "xt": "urn:btih:005ea6ec11f155761cfeab639f61e2bc31470696",
+    "dn": "Eastbound and Down Season 4 Complete mjh",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "005ea6ec11f155761cfeab639f61e2bc31470696",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        0,
+        94,
+        166,
+        236,
+        17,
+        241,
+        85,
+        118,
+        28,
+        254,
+        171,
+        99,
+        159,
+        97,
+        226,
+        188,
+        49,
+        71,
+        6,
+        150
+      ]
+    },
+    "name": "Eastbound and Down Season 4 Complete mjh",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 37,
+  "last_updated": "2016-12-24T15:19:52.580Z"
+}

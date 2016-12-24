@@ -1,1 +1,63 @@
-{"title":"Insurgency v2.2.7.3","uid":15514824,"size":3578176943,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:007f2bb4b67ca2ef8d4653d6f009be5561a22973&amp;dn=Insurgency+v2.2.7.3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":140,"leechers":71,"uploader":"edipeixoto","files":3,"time":1470698347,"description":"Take to the streets for intense close quarters combat, \r\nwhere a team's survival depends upon securing crucial strongholds and destroying enemy supply in this multiplayer \r\nand cooperative Source Engine based experience. \r\nThe follow-up game to the award-winning Source mod, \r\nInsurgency is highly competitive and unforgivingly lethal, striking a balance between one-life gameplay and prolonged action","torrent":{"xt":"urn:btih:007f2bb4b67ca2ef8d4653d6f009be5561a22973","amp;dn":"Insurgency+v2.2.7.3","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"007f2bb4b67ca2ef8d4653d6f009be5561a22973","infoHashBuffer":{"type":"Buffer","data":[0,127,43,180,182,124,162,239,141,70,83,214,240,9,190,85,97,162,41,115]},"announce":[],"urlList":[]}}
+{
+  "title": "Insurgency v2.2.7.3",
+  "uid": 15514824,
+  "size": 3578176943,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:007f2bb4b67ca2ef8d4653d6f009be5561a22973&amp;dn=Insurgency+v2.2.7.3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 140,
+  "leechers": 71,
+  "uploader": "edipeixoto",
+  "files": 3,
+  "time": 1470698347,
+  "description": "Take to the streets for intense close quarters combat, \r\nwhere a team's survival depends upon securing crucial strongholds and destroying enemy supply in this multiplayer \r\nand cooperative Source Engine based experience. \r\nThe follow-up game to the award-winning Source mod, \r\nInsurgency is highly competitive and unforgivingly lethal, striking a balance between one-life gameplay and prolonged action",
+  "parsed": {
+    "xt": "urn:btih:007f2bb4b67ca2ef8d4653d6f009be5561a22973",
+    "dn": "Insurgency v2.2.7.3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "007f2bb4b67ca2ef8d4653d6f009be5561a22973",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        0,
+        127,
+        43,
+        180,
+        182,
+        124,
+        162,
+        239,
+        141,
+        70,
+        83,
+        214,
+        240,
+        9,
+        190,
+        85,
+        97,
+        162,
+        41,
+        115
+      ]
+    },
+    "name": "Insurgency v2.2.7.3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 211,
+  "peers": 50,
+  "last_updated": "2016-12-24T15:20:46.766Z"
+}

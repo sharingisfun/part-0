@@ -1,1 +1,61 @@
-{"title":"The Weeknd - Beauty Behind The Madness","uid":12383223,"size":435862703,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:0067bc51432458cfbcf43a0e4bf3b3cb66c8c44d&amp;dn=The+Weeknd+-+Beauty+Behind+The+Madness&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":5,"uploader":"LosslessDude","files":18,"time":1441795011,"description":"The Weeknd - Beauty Behind The Madness","torrent":{"xt":"urn:btih:0067bc51432458cfbcf43a0e4bf3b3cb66c8c44d","amp;dn":"The+Weeknd+-+Beauty+Behind+The+Madness","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0067bc51432458cfbcf43a0e4bf3b3cb66c8c44d","infoHashBuffer":{"type":"Buffer","data":[0,103,188,81,67,36,88,207,188,244,58,14,75,243,179,203,102,200,196,77]},"announce":[],"urlList":[]}}
+{
+  "title": "The Weeknd - Beauty Behind The Madness",
+  "uid": 12383223,
+  "size": 435862703,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:0067bc51432458cfbcf43a0e4bf3b3cb66c8c44d&amp;dn=The+Weeknd+-+Beauty+Behind+The+Madness&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 5,
+  "uploader": "LosslessDude",
+  "files": 18,
+  "time": 1441795011,
+  "description": "The Weeknd - Beauty Behind The Madness",
+  "parsed": {
+    "xt": "urn:btih:0067bc51432458cfbcf43a0e4bf3b3cb66c8c44d",
+    "dn": "The Weeknd - Beauty Behind The Madness",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0067bc51432458cfbcf43a0e4bf3b3cb66c8c44d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        0,
+        103,
+        188,
+        81,
+        67,
+        36,
+        88,
+        207,
+        188,
+        244,
+        58,
+        14,
+        75,
+        243,
+        179,
+        203,
+        102,
+        200,
+        196,
+        77
+      ]
+    },
+    "name": "The Weeknd - Beauty Behind The Madness",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 80,
+  "last_updated": "2016-12-24T15:20:04.618Z"
+}

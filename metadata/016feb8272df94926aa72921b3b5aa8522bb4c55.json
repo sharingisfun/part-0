@@ -1,1 +1,61 @@
-{"title":"Flume And Chet Faker Lockjaw EP","uid":9404995,"size":21932998,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:016feb8272df94926aa72921b3b5aa8522bb4c55&amp;dn=Flume+And+Chet+Faker+Lockjaw+EP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":93,"leechers":3,"uploader":"belthagor","files":3,"time":1388140986,"description":"1. Flume And Chet Faker - [Lockjaw #01] Drop The Game [3:41]\n2. Flume And Chet Faker - [Lockjaw #02] What About Us [5:07]\n3. Flume And Chet Faker - [Lockjaw #03] This Song Is Not About A Girl [4:14]","torrent":{"xt":"urn:btih:016feb8272df94926aa72921b3b5aa8522bb4c55","amp;dn":"Flume+And+Chet+Faker+Lockjaw+EP","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"016feb8272df94926aa72921b3b5aa8522bb4c55","infoHashBuffer":{"type":"Buffer","data":[1,111,235,130,114,223,148,146,106,167,41,33,179,181,170,133,34,187,76,85]},"announce":[],"urlList":[]}}
+{
+  "title": "Flume And Chet Faker Lockjaw EP",
+  "uid": 9404995,
+  "size": 21932998,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:016feb8272df94926aa72921b3b5aa8522bb4c55&amp;dn=Flume+And+Chet+Faker+Lockjaw+EP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 93,
+  "leechers": 3,
+  "uploader": "belthagor",
+  "files": 3,
+  "time": 1388140986,
+  "description": "1. Flume And Chet Faker - [Lockjaw #01] Drop The Game [3:41]\n2. Flume And Chet Faker - [Lockjaw #02] What About Us [5:07]\n3. Flume And Chet Faker - [Lockjaw #03] This Song Is Not About A Girl [4:14]",
+  "parsed": {
+    "xt": "urn:btih:016feb8272df94926aa72921b3b5aa8522bb4c55",
+    "dn": "Flume And Chet Faker Lockjaw EP",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "016feb8272df94926aa72921b3b5aa8522bb4c55",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        1,
+        111,
+        235,
+        130,
+        114,
+        223,
+        148,
+        146,
+        106,
+        167,
+        41,
+        33,
+        179,
+        181,
+        170,
+        133,
+        34,
+        187,
+        76,
+        85
+      ]
+    },
+    "name": "Flume And Chet Faker Lockjaw EP",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 96,
+  "peers": 49,
+  "last_updated": "2016-12-24T15:27:22.297Z"
+}

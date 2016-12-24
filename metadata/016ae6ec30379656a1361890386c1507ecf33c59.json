@@ -1,1 +1,61 @@
-{"title":"ZBrush 4R7","uid":11978463,"size":819622995,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:016ae6ec30379656a1361890386c1507ecf33c59&amp;dn=ZBrush+4R7&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":117,"leechers":4,"uploader":"stopb","files":1,"time":1433110110,"description":"Did not see this on here so i uploaded.\n\nZBrush 4R7 with keygen","torrent":{"xt":"urn:btih:016ae6ec30379656a1361890386c1507ecf33c59","amp;dn":"ZBrush+4R7","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"016ae6ec30379656a1361890386c1507ecf33c59","infoHashBuffer":{"type":"Buffer","data":[1,106,230,236,48,55,150,86,161,54,24,144,56,108,21,7,236,243,60,89]},"announce":[],"urlList":[]}}
+{
+  "title": "ZBrush 4R7",
+  "uid": 11978463,
+  "size": 819622995,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:016ae6ec30379656a1361890386c1507ecf33c59&amp;dn=ZBrush+4R7&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 117,
+  "leechers": 4,
+  "uploader": "stopb",
+  "files": 1,
+  "time": 1433110110,
+  "description": "Did not see this on here so i uploaded.\n\nZBrush 4R7 with keygen",
+  "parsed": {
+    "xt": "urn:btih:016ae6ec30379656a1361890386c1507ecf33c59",
+    "dn": "ZBrush 4R7",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "016ae6ec30379656a1361890386c1507ecf33c59",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        1,
+        106,
+        230,
+        236,
+        48,
+        55,
+        150,
+        86,
+        161,
+        54,
+        24,
+        144,
+        56,
+        108,
+        21,
+        7,
+        236,
+        243,
+        60,
+        89
+      ]
+    },
+    "name": "ZBrush 4R7",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 121,
+  "peers": 50,
+  "last_updated": "2016-12-24T15:27:10.261Z"
+}

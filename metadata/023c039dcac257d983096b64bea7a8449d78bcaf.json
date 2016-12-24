@@ -1,1 +1,61 @@
-{"title":"Windows 7 Professional x86 (32bit) (ISO)","uid":5389213,"size":2501894191,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:023c039dcac257d983096b64bea7a8449d78bcaf&amp;dn=Windows+7+Professional+x86+%2832bit%29+%28ISO%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":8,"uploader":"Brent328","files":2,"time":1266984491,"description":"A .iso DVD image containing installation for  32BIT  Windows 7 Professional Operating System.","torrent":{"xt":"urn:btih:023c039dcac257d983096b64bea7a8449d78bcaf","amp;dn":"Windows+7+Professional+x86+%2832bit%29+%28ISO%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"023c039dcac257d983096b64bea7a8449d78bcaf","infoHashBuffer":{"type":"Buffer","data":[2,60,3,157,202,194,87,217,131,9,107,100,190,167,168,68,157,120,188,175]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows 7 Professional x86 (32bit) (ISO)",
+  "uid": 5389213,
+  "size": 2501894191,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:023c039dcac257d983096b64bea7a8449d78bcaf&amp;dn=Windows+7+Professional+x86+%2832bit%29+%28ISO%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 8,
+  "uploader": "Brent328",
+  "files": 2,
+  "time": 1266984491,
+  "description": "A .iso DVD image containing installation for  32BIT  Windows 7 Professional Operating System.",
+  "parsed": {
+    "xt": "urn:btih:023c039dcac257d983096b64bea7a8449d78bcaf",
+    "dn": "Windows 7 Professional x86 (32bit) (ISO)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "023c039dcac257d983096b64bea7a8449d78bcaf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        2,
+        60,
+        3,
+        157,
+        202,
+        194,
+        87,
+        217,
+        131,
+        9,
+        107,
+        100,
+        190,
+        167,
+        168,
+        68,
+        157,
+        120,
+        188,
+        175
+      ]
+    },
+    "name": "Windows 7 Professional x86 (32bit) (ISO)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 50,
+  "last_updated": "2016-12-24T15:32:41.128Z"
+}

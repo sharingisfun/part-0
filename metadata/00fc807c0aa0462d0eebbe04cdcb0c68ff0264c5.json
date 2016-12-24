@@ -1,1 +1,61 @@
-{"title":"JavaScript: The Definitive Guide, 6th Edition","uid":8126280,"size":14129654,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:00fc807c0aa0462d0eebbe04cdcb0c68ff0264c5&amp;dn=JavaScript%3A+The+Definitive+Guide%2C+6th+Edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":0,"uploader":"AUDI-A4","files":1,"time":1360507083,"description":"Book Description\nJavaScript: The Definitive Guide has been the bible for JavaScript programmers-a programmer's guide and comprehensive reference to the core language and to the client-side JavaScript APIs defined by web browsers.\n\nThe 6th edition covers HTML5 and ECMAScript 5. Many chapters have been completely rewritten to bring them in line with today's best web development practices. New chapters in this edition document jQuery and server side JavaScript. It's recommended for experienced programmers who want to learn the programming language of the Web, and for current JavaScript programmers who want to master it.\n\n\nBook Details\nPublisher:\tO'Reilly Media\nBy:\tDavid Flanagan\nISBN:\t978-0-596-80552-4\nYear:\t2011\nPages:\t1098\nLanguage:\tEnglish\nFile size:\t13.4 MB\nFile format:\tPDF","torrent":{"xt":"urn:btih:00fc807c0aa0462d0eebbe04cdcb0c68ff0264c5","amp;dn":"JavaScript%3A+The+Definitive+Guide%2C+6th+Edition","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"00fc807c0aa0462d0eebbe04cdcb0c68ff0264c5","infoHashBuffer":{"type":"Buffer","data":[0,252,128,124,10,160,70,45,14,235,190,4,205,203,12,104,255,2,100,197]},"announce":[],"urlList":[]}}
+{
+  "title": "JavaScript: The Definitive Guide, 6th Edition",
+  "uid": 8126280,
+  "size": 14129654,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:00fc807c0aa0462d0eebbe04cdcb0c68ff0264c5&amp;dn=JavaScript%3A+The+Definitive+Guide%2C+6th+Edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 0,
+  "uploader": "AUDI-A4",
+  "files": 1,
+  "time": 1360507083,
+  "description": "Book Description\nJavaScript: The Definitive Guide has been the bible for JavaScript programmers-a programmer's guide and comprehensive reference to the core language and to the client-side JavaScript APIs defined by web browsers.\n\nThe 6th edition covers HTML5 and ECMAScript 5. Many chapters have been completely rewritten to bring them in line with today's best web development practices. New chapters in this edition document jQuery and server side JavaScript. It's recommended for experienced programmers who want to learn the programming language of the Web, and for current JavaScript programmers who want to master it.\n\n\nBook Details\nPublisher:\tO'Reilly Media\nBy:\tDavid Flanagan\nISBN:\t978-0-596-80552-4\nYear:\t2011\nPages:\t1098\nLanguage:\tEnglish\nFile size:\t13.4 MB\nFile format:\tPDF",
+  "parsed": {
+    "xt": "urn:btih:00fc807c0aa0462d0eebbe04cdcb0c68ff0264c5",
+    "dn": "JavaScript: The Definitive Guide, 6th Edition",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "00fc807c0aa0462d0eebbe04cdcb0c68ff0264c5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        0,
+        252,
+        128,
+        124,
+        10,
+        160,
+        70,
+        45,
+        14,
+        235,
+        190,
+        4,
+        205,
+        203,
+        12,
+        104,
+        255,
+        2,
+        100,
+        197
+      ]
+    },
+    "name": "JavaScript: The Definitive Guide, 6th Edition",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 36,
+  "peers": 23,
+  "last_updated": "2016-12-24T15:23:39.278Z"
+}

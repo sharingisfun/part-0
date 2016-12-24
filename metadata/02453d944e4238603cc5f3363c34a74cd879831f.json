@@ -1,1 +1,61 @@
-{"title":"Wardruna - Yggdrasil (2013) [mp3@256]","uid":8336854,"size":138342572,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:02453d944e4238603cc5f3363c34a74cd879831f&amp;dn=Wardruna+-+Yggdrasil+%282013%29+%5Bmp3%40256%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":3,"uploader":"qculfj","files":12,"time":1365004578,"description":"01. Rotlaust Tre Fell\n02. Fehu\n03. NaudiR\n04. EhwaR\n05. AnsuR\n06. IwaR\n07. IngwaR\n08. Gibu\n09. Solringen\n10. Sowelu\n11. Helvegen","torrent":{"xt":"urn:btih:02453d944e4238603cc5f3363c34a74cd879831f","amp;dn":"Wardruna+-+Yggdrasil+%282013%29+%5Bmp3%40256%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"02453d944e4238603cc5f3363c34a74cd879831f","infoHashBuffer":{"type":"Buffer","data":[2,69,61,148,78,66,56,96,60,197,243,54,60,52,167,76,216,121,131,31]},"announce":[],"urlList":[]}}
+{
+  "title": "Wardruna - Yggdrasil (2013) [mp3@256]",
+  "uid": 8336854,
+  "size": 138342572,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:02453d944e4238603cc5f3363c34a74cd879831f&amp;dn=Wardruna+-+Yggdrasil+%282013%29+%5Bmp3%40256%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 3,
+  "uploader": "qculfj",
+  "files": 12,
+  "time": 1365004578,
+  "description": "01. Rotlaust Tre Fell\n02. Fehu\n03. NaudiR\n04. EhwaR\n05. AnsuR\n06. IwaR\n07. IngwaR\n08. Gibu\n09. Solringen\n10. Sowelu\n11. Helvegen",
+  "parsed": {
+    "xt": "urn:btih:02453d944e4238603cc5f3363c34a74cd879831f",
+    "dn": "Wardruna - Yggdrasil (2013) [mp3@256]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "02453d944e4238603cc5f3363c34a74cd879831f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        2,
+        69,
+        61,
+        148,
+        78,
+        66,
+        56,
+        96,
+        60,
+        197,
+        243,
+        54,
+        60,
+        52,
+        167,
+        76,
+        216,
+        121,
+        131,
+        31
+      ]
+    },
+    "name": "Wardruna - Yggdrasil (2013) [mp3@256]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 13,
+  "last_updated": "2016-12-24T15:33:07.195Z"
+}

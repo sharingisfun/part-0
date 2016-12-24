@@ -1,1 +1,61 @@
-{"title":"Hitler - La naissance du mal (Version Longue - Non censurÃƒÆ’Ã‚Â©)","uid":4430297,"size":1724493072,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:008368dc13c35e469cceec5fb96aff08ca97773a&amp;dn=Hitler+-+La+naissance+du+mal+%28Version+Longue+-+Non+censur%C3%83%C2%A9%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":2,"uploader":"delemo","files":1,"time":1223249490,"description":"Version trÃƒÆ’Ã‚Â¨s rare !!","torrent":{"xt":"urn:btih:008368dc13c35e469cceec5fb96aff08ca97773a","amp;dn":"Hitler+-+La+naissance+du+mal+%28Version+Longue+-+Non+censur%C3%83%C2%A9%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"008368dc13c35e469cceec5fb96aff08ca97773a","infoHashBuffer":{"type":"Buffer","data":[0,131,104,220,19,195,94,70,156,206,236,95,185,106,255,8,202,151,119,58]},"announce":[],"urlList":[]}}
+{
+  "title": "Hitler - La naissance du mal (Version Longue - Non censurÃƒÆ’Ã‚Â©)",
+  "uid": 4430297,
+  "size": 1724493072,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:008368dc13c35e469cceec5fb96aff08ca97773a&amp;dn=Hitler+-+La+naissance+du+mal+%28Version+Longue+-+Non+censur%C3%83%C2%A9%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 2,
+  "uploader": "delemo",
+  "files": 1,
+  "time": 1223249490,
+  "description": "Version trÃƒÆ’Ã‚Â¨s rare !!",
+  "parsed": {
+    "xt": "urn:btih:008368dc13c35e469cceec5fb96aff08ca97773a",
+    "dn": "Hitler - La naissance du mal (Version Longue - Non censurÃ©)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "008368dc13c35e469cceec5fb96aff08ca97773a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        0,
+        131,
+        104,
+        220,
+        19,
+        195,
+        94,
+        70,
+        156,
+        206,
+        236,
+        95,
+        185,
+        106,
+        255,
+        8,
+        202,
+        151,
+        119,
+        58
+      ]
+    },
+    "name": "Hitler - La naissance du mal (Version Longue - Non censurÃ©)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 141,
+  "last_updated": "2016-12-24T15:20:58.804Z"
+}

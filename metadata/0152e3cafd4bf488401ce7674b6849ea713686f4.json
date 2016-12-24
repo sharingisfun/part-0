@@ -1,1 +1,61 @@
-{"title":"Greys.Anatomy.S11E18.HDTV.x264-LOL[ettv]","uid":11793189,"size":241484956,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:0152e3cafd4bf488401ce7674b6849ea713686f4&amp;dn=Greys.Anatomy.S11E18.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":183,"leechers":52,"uploader":"ettv","files":4,"time":1428026268,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:0152e3cafd4bf488401ce7674b6849ea713686f4","amp;dn":"Greys.Anatomy.S11E18.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0152e3cafd4bf488401ce7674b6849ea713686f4","infoHashBuffer":{"type":"Buffer","data":[1,82,227,202,253,75,244,136,64,28,231,103,75,104,73,234,113,54,134,244]},"announce":[],"urlList":[]}}
+{
+  "title": "Greys.Anatomy.S11E18.HDTV.x264-LOL[ettv]",
+  "uid": 11793189,
+  "size": 241484956,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:0152e3cafd4bf488401ce7674b6849ea713686f4&amp;dn=Greys.Anatomy.S11E18.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 183,
+  "leechers": 52,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1428026268,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:0152e3cafd4bf488401ce7674b6849ea713686f4",
+    "dn": "Greys.Anatomy.S11E18.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0152e3cafd4bf488401ce7674b6849ea713686f4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        1,
+        82,
+        227,
+        202,
+        253,
+        75,
+        244,
+        136,
+        64,
+        28,
+        231,
+        103,
+        75,
+        104,
+        73,
+        234,
+        113,
+        54,
+        134,
+        244
+      ]
+    },
+    "name": "Greys.Anatomy.S11E18.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 235,
+  "peers": 26,
+  "last_updated": "2016-12-24T15:26:16.095Z"
+}

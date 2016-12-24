@@ -1,1 +1,63 @@
-{"title":"The Daily Show 2016.09.27 WEB x264-Nada[state]","uid":15907860,"size":227333706,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:013e753867c6f0fdf24dc423b829aa3d47c66360&amp;dn=The+Daily+Show+2016.09.27+WEB+x264-Nada%5Bstate%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":4,"uploader":"stateofmind80","files":1,"time":1475064622,"description":"Format : MPEG-4\r\nFile size : 217 MiB\r\nDuration : 21mn 29s\r\nbit rate : 1 410 Kbps\r\nWidth : 1 920 pixels\r\nHeight : 1 080 pixels\r\naspect ratio : 16:9\r\nFrame rate : 29.970 fps\r\n\r\n\r\n2016 09 27 Sara Goldrick-Rab, author â€“ â€œPaying The Priceâ€","torrent":{"xt":"urn:btih:013e753867c6f0fdf24dc423b829aa3d47c66360","amp;dn":"The+Daily+Show+2016.09.27+WEB+x264-Nada%5Bstate%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"013e753867c6f0fdf24dc423b829aa3d47c66360","infoHashBuffer":{"type":"Buffer","data":[1,62,117,56,103,198,240,253,242,77,196,35,184,41,170,61,71,198,99,96]},"announce":[],"urlList":[]}}
+{
+  "title": "The Daily Show 2016.09.27 WEB x264-Nada[state]",
+  "uid": 15907860,
+  "size": 227333706,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:013e753867c6f0fdf24dc423b829aa3d47c66360&amp;dn=The+Daily+Show+2016.09.27+WEB+x264-Nada%5Bstate%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 4,
+  "uploader": "stateofmind80",
+  "files": 1,
+  "time": 1475064622,
+  "description": "Format : MPEG-4\r\nFile size : 217 MiB\r\nDuration : 21mn 29s\r\nbit rate : 1 410 Kbps\r\nWidth : 1 920 pixels\r\nHeight : 1 080 pixels\r\naspect ratio : 16:9\r\nFrame rate : 29.970 fps\r\n\r\n\r\n2016 09 27 Sara Goldrick-Rab, author â€“ â€œPaying The Priceâ€",
+  "parsed": {
+    "xt": "urn:btih:013e753867c6f0fdf24dc423b829aa3d47c66360",
+    "dn": "The Daily Show 2016.09.27 WEB x264-Nada[state]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "013e753867c6f0fdf24dc423b829aa3d47c66360",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        1,
+        62,
+        117,
+        56,
+        103,
+        198,
+        240,
+        253,
+        242,
+        77,
+        196,
+        35,
+        184,
+        41,
+        170,
+        61,
+        71,
+        198,
+        99,
+        96
+      ]
+    },
+    "name": "The Daily Show 2016.09.27 WEB x264-Nada[state]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 76,
+  "peers": 38,
+  "last_updated": "2016-12-24T15:25:31.979Z"
+}

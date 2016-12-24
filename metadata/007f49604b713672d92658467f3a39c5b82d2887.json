@@ -1,1 +1,61 @@
-{"title":"Hannibal S01E02 HDTV x264-LOL[ettv]","uid":8365157,"size":293413090,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:007f49604b713672d92658467f3a39c5b82d2887&amp;dn=Hannibal+S01E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":1,"uploader":"ettv","files":2,"time":1365742850,"description":"x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n","torrent":{"xt":"urn:btih:007f49604b713672d92658467f3a39c5b82d2887","amp;dn":"Hannibal+S01E02+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"007f49604b713672d92658467f3a39c5b82d2887","infoHashBuffer":{"type":"Buffer","data":[0,127,73,96,75,113,54,114,217,38,88,70,127,58,57,197,184,45,40,135]},"announce":[],"urlList":[]}}
+{
+  "title": "Hannibal S01E02 HDTV x264-LOL[ettv]",
+  "uid": 8365157,
+  "size": 293413090,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:007f49604b713672d92658467f3a39c5b82d2887&amp;dn=Hannibal+S01E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1365742850,
+  "description": "x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n",
+  "parsed": {
+    "xt": "urn:btih:007f49604b713672d92658467f3a39c5b82d2887",
+    "dn": "Hannibal S01E02 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "007f49604b713672d92658467f3a39c5b82d2887",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        0,
+        127,
+        73,
+        96,
+        75,
+        113,
+        54,
+        114,
+        217,
+        38,
+        88,
+        70,
+        127,
+        58,
+        57,
+        197,
+        184,
+        45,
+        40,
+        135
+      ]
+    },
+    "name": "Hannibal S01E02 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 20,
+  "last_updated": "2016-12-24T15:20:50.783Z"
+}

@@ -1,1 +1,61 @@
-{"title":"CL PS3 Driver for Sony Eye Cam windows 7 - 5.3.0.0341.","uid":10598936,"size":5410368,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:00ddd4d7be70f55eb99e20603eb19f881a0448b0&amp;dn=CL+PS3+Driver+for+Sony+Eye+Cam+windows+7+-+5.3.0.0341.&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":0,"uploader":"chandie","files":1,"time":1405891352,"description":"Provides audio/video functionality with a single Playstation 3 Eye camera supported in a wide range of native and web applications that use Microsoft Windows DirectShow/WinRT Framework (Google Chrome, Skype, Adobe Flash, AIM, MSN Messenger, Cameriod)\n\n","torrent":{"xt":"urn:btih:00ddd4d7be70f55eb99e20603eb19f881a0448b0","amp;dn":"CL+PS3+Driver+for+Sony+Eye+Cam+windows+7+-+5.3.0.0341.","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"00ddd4d7be70f55eb99e20603eb19f881a0448b0","infoHashBuffer":{"type":"Buffer","data":[0,221,212,215,190,112,245,94,185,158,32,96,62,177,159,136,26,4,72,176]},"announce":[],"urlList":[]}}
+{
+  "title": "CL PS3 Driver for Sony Eye Cam windows 7 - 5.3.0.0341.",
+  "uid": 10598936,
+  "size": 5410368,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:00ddd4d7be70f55eb99e20603eb19f881a0448b0&amp;dn=CL+PS3+Driver+for+Sony+Eye+Cam+windows+7+-+5.3.0.0341.&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 0,
+  "uploader": "chandie",
+  "files": 1,
+  "time": 1405891352,
+  "description": "Provides audio/video functionality with a single Playstation 3 Eye camera supported in a wide range of native and web applications that use Microsoft Windows DirectShow/WinRT Framework (Google Chrome, Skype, Adobe Flash, AIM, MSN Messenger, Cameriod)\n\n",
+  "parsed": {
+    "xt": "urn:btih:00ddd4d7be70f55eb99e20603eb19f881a0448b0",
+    "dn": "CL PS3 Driver for Sony Eye Cam windows 7 - 5.3.0.0341.",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "00ddd4d7be70f55eb99e20603eb19f881a0448b0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        0,
+        221,
+        212,
+        215,
+        190,
+        112,
+        245,
+        94,
+        185,
+        158,
+        32,
+        96,
+        62,
+        177,
+        159,
+        136,
+        26,
+        4,
+        72,
+        176
+      ]
+    },
+    "name": "CL PS3 Driver for Sony Eye Cam windows 7 - 5.3.0.0341.",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 49,
+  "last_updated": "2016-12-24T15:23:01.157Z"
+}

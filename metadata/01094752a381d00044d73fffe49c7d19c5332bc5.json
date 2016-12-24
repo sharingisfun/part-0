@@ -1,1 +1,61 @@
-{"title":"Grimm 1 temporada completa dublado ptbr","uid":8382894,"size":3832922255,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:01094752a381d00044d73fffe49c7d19c5332bc5&amp;dn=Grimm+1+temporada+completa+dublado+ptbr&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":105,"leechers":46,"uploader":"vagnerdj2012","files":23,"time":1366216582,"description":"primeira temporada completa dublada em portugues","torrent":{"xt":"urn:btih:01094752a381d00044d73fffe49c7d19c5332bc5","amp;dn":"Grimm+1+temporada+completa+dublado+ptbr","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"01094752a381d00044d73fffe49c7d19c5332bc5","infoHashBuffer":{"type":"Buffer","data":[1,9,71,82,163,129,208,0,68,215,63,255,228,156,125,25,197,51,43,197]},"announce":[],"urlList":[]}}
+{
+  "title": "Grimm 1 temporada completa dublado ptbr",
+  "uid": 8382894,
+  "size": 3832922255,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:01094752a381d00044d73fffe49c7d19c5332bc5&amp;dn=Grimm+1+temporada+completa+dublado+ptbr&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 105,
+  "leechers": 46,
+  "uploader": "vagnerdj2012",
+  "files": 23,
+  "time": 1366216582,
+  "description": "primeira temporada completa dublada em portugues",
+  "parsed": {
+    "xt": "urn:btih:01094752a381d00044d73fffe49c7d19c5332bc5",
+    "dn": "Grimm 1 temporada completa dublado ptbr",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "01094752a381d00044d73fffe49c7d19c5332bc5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        1,
+        9,
+        71,
+        82,
+        163,
+        129,
+        208,
+        0,
+        68,
+        215,
+        63,
+        255,
+        228,
+        156,
+        125,
+        25,
+        197,
+        51,
+        43,
+        197
+      ]
+    },
+    "name": "Grimm 1 temporada completa dublado ptbr",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 151,
+  "peers": 24,
+  "last_updated": "2016-12-24T15:24:07.365Z"
+}

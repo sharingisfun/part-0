@@ -1,1 +1,61 @@
-{"title":"MAGIC! - Rude (Zedd Remix)","uid":10925525,"size":13167757,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:01bbb0e0fe9e54e45af291861163f84293e8051c&amp;dn=MAGIC%21+-+Rude+%28Zedd+Remix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":143,"leechers":0,"uploader":"pamabego","files":-1,"time":1409361263,"description":"Format                                   : MPEG Audio\nFile size                                : 12.6 MiB\nDuration                                 : 5mn 28s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 320 Kbps\nAlbum                                    : Rude - Remixes\nTrack name                               : Rude (Zedd Extended)\nPerformer                                : MAGIC!\nEncoded by                               : Late Night Record Pool\nGenre                                    : House\nRecorded date                            : 2014\nWriting library                          : LAME3.98.4\nCover                                    : Yes\nCover type                               : Cover (front)\nCover MIME                               : image/jpg\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nMode extension                           : MS Stereo\nDuration                                 : 5mn 28s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 12.5 MiB (100%)\nWriting library                          : LAME3.98.4\nLanguage                                 : English\n\n","torrent":{"xt":"urn:btih:01bbb0e0fe9e54e45af291861163f84293e8051c","amp;dn":"MAGIC%21+-+Rude+%28Zedd+Remix%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"01bbb0e0fe9e54e45af291861163f84293e8051c","infoHashBuffer":{"type":"Buffer","data":[1,187,176,224,254,158,84,228,90,242,145,134,17,99,248,66,147,232,5,28]},"announce":[],"urlList":[]}}
+{
+  "title": "MAGIC! - Rude (Zedd Remix)",
+  "uid": 10925525,
+  "size": 13167757,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:01bbb0e0fe9e54e45af291861163f84293e8051c&amp;dn=MAGIC%21+-+Rude+%28Zedd+Remix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 143,
+  "leechers": 0,
+  "uploader": "pamabego",
+  "files": -1,
+  "time": 1409361263,
+  "description": "Format                                   : MPEG Audio\nFile size                                : 12.6 MiB\nDuration                                 : 5mn 28s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 320 Kbps\nAlbum                                    : Rude - Remixes\nTrack name                               : Rude (Zedd Extended)\nPerformer                                : MAGIC!\nEncoded by                               : Late Night Record Pool\nGenre                                    : House\nRecorded date                            : 2014\nWriting library                          : LAME3.98.4\nCover                                    : Yes\nCover type                               : Cover (front)\nCover MIME                               : image/jpg\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nMode extension                           : MS Stereo\nDuration                                 : 5mn 28s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 12.5 MiB (100%)\nWriting library                          : LAME3.98.4\nLanguage                                 : English\n\n",
+  "parsed": {
+    "xt": "urn:btih:01bbb0e0fe9e54e45af291861163f84293e8051c",
+    "dn": "MAGIC! - Rude (Zedd Remix)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "01bbb0e0fe9e54e45af291861163f84293e8051c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        1,
+        187,
+        176,
+        224,
+        254,
+        158,
+        84,
+        228,
+        90,
+        242,
+        145,
+        134,
+        17,
+        99,
+        248,
+        66,
+        147,
+        232,
+        5,
+        28
+      ]
+    },
+    "name": "MAGIC! - Rude (Zedd Remix)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 143,
+  "peers": 33,
+  "last_updated": "2016-12-24T15:29:18.607Z"
+}

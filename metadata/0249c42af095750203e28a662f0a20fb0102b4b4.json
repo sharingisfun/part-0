@@ -1,1 +1,63 @@
-{"title":"Osiris: New Dawn v0.976","uid":15986814,"size":2021947970,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:0249c42af095750203e28a662f0a20fb0102b4b4&amp;dn=Osiris%3A+New+Dawn+v0.976&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":7,"uploader":"dauphong","files":1,"time":1475974041,"description":"The year is 2046 and mankindâ€™s discovery of near-lightspeed &quot;fold engine&quot; propulsion has empowered mankind's Osiris expeditionary missions to the Gliese 581 system. You are the second colonization team sent by the U.N.E. (United Nations of Earth) to study potential habitable planets when your spacecraft malfunctions braking from light speed, forcing an emergency landing on the planetâ€™s surface","torrent":{"xt":"urn:btih:0249c42af095750203e28a662f0a20fb0102b4b4","amp;dn":"Osiris%3A+New+Dawn+v0.976","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0249c42af095750203e28a662f0a20fb0102b4b4","infoHashBuffer":{"type":"Buffer","data":[2,73,196,42,240,149,117,2,3,226,138,102,47,10,32,251,1,2,180,180]},"announce":[],"urlList":[]}}
+{
+  "title": "Osiris: New Dawn v0.976",
+  "uid": 15986814,
+  "size": 2021947970,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:0249c42af095750203e28a662f0a20fb0102b4b4&amp;dn=Osiris%3A+New+Dawn+v0.976&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 7,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1475974041,
+  "description": "The year is 2046 and mankindâ€™s discovery of near-lightspeed &quot;fold engine&quot; propulsion has empowered mankind's Osiris expeditionary missions to the Gliese 581 system. You are the second colonization team sent by the U.N.E. (United Nations of Earth) to study potential habitable planets when your spacecraft malfunctions braking from light speed, forcing an emergency landing on the planetâ€™s surface",
+  "parsed": {
+    "xt": "urn:btih:0249c42af095750203e28a662f0a20fb0102b4b4",
+    "dn": "Osiris: New Dawn v0.976",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "0249c42af095750203e28a662f0a20fb0102b4b4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        2,
+        73,
+        196,
+        42,
+        240,
+        149,
+        117,
+        2,
+        3,
+        226,
+        138,
+        102,
+        47,
+        10,
+        32,
+        251,
+        1,
+        2,
+        180,
+        180
+      ]
+    },
+    "name": "Osiris: New Dawn v0.976",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 56,
+  "last_updated": "2016-12-24T15:33:17.217Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Romeo.And.Juliet.[1996].DVDRip.XviD-BLiTZKRiEG.avi","uid":5198283,"size":734019584,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:0184398dfa6d98796f3acc5e59865caacd84c2d7&amp;dn=Romeo.And.Juliet.%5B1996%5D.DVDRip.XviD-BLiTZKRiEG.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":1,"uploader":"JKBlitz","files":1,"time":1260026190,"description":"Movies Romance!\n\nShakespeare's famous play is updated to the hip modern suburb of Verona still retaining its original dialogue. The gun-toting members of the families wage a vicious war on the streets as the star-crossed lovers, their tragic destiny.","torrent":{"xt":"urn:btih:0184398dfa6d98796f3acc5e59865caacd84c2d7","amp;dn":"Romeo.And.Juliet.%5B1996%5D.DVDRip.XviD-BLiTZKRiEG.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"0184398dfa6d98796f3acc5e59865caacd84c2d7","infoHashBuffer":{"type":"Buffer","data":[1,132,57,141,250,109,152,121,111,58,204,94,89,134,92,170,205,132,194,215]},"announce":[],"urlList":[]}}
+{
+  "title": "Romeo.And.Juliet.[1996].DVDRip.XviD-BLiTZKRiEG.avi",
+  "uid": 5198283,
+  "size": 734019584,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:0184398dfa6d98796f3acc5e59865caacd84c2d7&amp;dn=Romeo.And.Juliet.%5B1996%5D.DVDRip.XviD-BLiTZKRiEG.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 1,
+  "uploader": "JKBlitz",
+  "files": 1,
+  "time": 1260026190,
+  "description": "Movies Romance!\n\nShakespeare's famous play is updated to the hip modern suburb of Verona still retaining its original dialogue. The gun-toting members of the families wage a vicious war on the streets as the star-crossed lovers, their tragic destiny.",
+  "parsed": {
+    "xt": "urn:btih:0184398dfa6d98796f3acc5e59865caacd84c2d7",
+    "dn": "Romeo.And.Juliet.[1996].DVDRip.XviD-BLiTZKRiEG.avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "0184398dfa6d98796f3acc5e59865caacd84c2d7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        1,
+        132,
+        57,
+        141,
+        250,
+        109,
+        152,
+        121,
+        111,
+        58,
+        204,
+        94,
+        89,
+        134,
+        92,
+        170,
+        205,
+        132,
+        194,
+        215
+      ]
+    },
+    "name": "Romeo.And.Juliet.[1996].DVDRip.XviD-BLiTZKRiEG.avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 143,
+  "last_updated": "2016-12-24T15:27:56.389Z"
+}
