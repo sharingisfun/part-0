@@ -1,1 +1,61 @@
-{"title":"D'Angelo &amp; The Vanguard - Black Messiah {MP3-2014}","uid":11677798,"size":137251618,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:31f55c54eae5b31dc62dc40c9e6b5e9e39c77c62&amp;dn=D%27Angelo+%26amp%3B+The+Vanguard+-+Black+Messiah+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":286,"leechers":4,"uploader":"simpsonrony","files":12,"time":1422947519,"description":"Source: https://itunes.apple.com/us/album/black-messiah/id950764300\n\nArtist: D'Angelo &amp; The Vanguard\n\nAlbum: Black Messiah\n\nGenre: R&amp;B/Soul\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\nTracklist:\n**********\n\n01 Ain't That Easy\n02 1000 Deaths\n03 The Charade\n04 Sugah Daddy\n05 Really Love\n06 Back To the Future (Part I)\n07 Till It's Done (Tutu)\n08 Prayer\n09 Betray My Heart\n10 The Door\n11 Back To the Future (Part II)\n12 Another Life","torrent":{"xt":"urn:btih:31f55c54eae5b31dc62dc40c9e6b5e9e39c77c62","amp;dn":"D%27Angelo+%26amp%3B+The+Vanguard+-+Black+Messiah+%7BMP3-2014%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"31f55c54eae5b31dc62dc40c9e6b5e9e39c77c62","infoHashBuffer":{"type":"Buffer","data":[49,245,92,84,234,229,179,29,198,45,196,12,158,107,94,158,57,199,124,98]},"announce":[],"urlList":[]}}
+{
+  "title": "D'Angelo &amp; The Vanguard - Black Messiah {MP3-2014}",
+  "uid": 11677798,
+  "size": 137251618,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:31f55c54eae5b31dc62dc40c9e6b5e9e39c77c62&amp;dn=D%27Angelo+%26amp%3B+The+Vanguard+-+Black+Messiah+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 286,
+  "leechers": 4,
+  "uploader": "simpsonrony",
+  "files": 12,
+  "time": 1422947519,
+  "description": "Source: https://itunes.apple.com/us/album/black-messiah/id950764300\n\nArtist: D'Angelo &amp; The Vanguard\n\nAlbum: Black Messiah\n\nGenre: R&amp;B/Soul\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\nTracklist:\n**********\n\n01 Ain't That Easy\n02 1000 Deaths\n03 The Charade\n04 Sugah Daddy\n05 Really Love\n06 Back To the Future (Part I)\n07 Till It's Done (Tutu)\n08 Prayer\n09 Betray My Heart\n10 The Door\n11 Back To the Future (Part II)\n12 Another Life",
+  "parsed": {
+    "xt": "urn:btih:31f55c54eae5b31dc62dc40c9e6b5e9e39c77c62",
+    "dn": "D'Angelo &amp; The Vanguard - Black Messiah {MP3-2014}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "31f55c54eae5b31dc62dc40c9e6b5e9e39c77c62",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        49,
+        245,
+        92,
+        84,
+        234,
+        229,
+        179,
+        29,
+        198,
+        45,
+        196,
+        12,
+        158,
+        107,
+        94,
+        158,
+        57,
+        199,
+        124,
+        98
+      ]
+    },
+    "name": "D'Angelo &amp; The Vanguard - Black Messiah {MP3-2014}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 290,
+  "peers": 123,
+  "last_updated": "2016-12-24T21:34:10.940Z"
+}

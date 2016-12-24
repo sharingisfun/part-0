@@ -1,1 +1,61 @@
-{"title":"Shameless.US.S01E06.HDTV.XviD-ASAP.[VTV].avi","uid":6173115,"size":577765376,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:30ba820e6c2a90ccc963af1461a0719790ce2abd&amp;dn=Shameless.US.S01E06.HDTV.XviD-ASAP.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":7,"uploader":"VTV","files":1,"time":1297661469,"description":"Shameless US 1x06 (HDTV-ASAP)[VTV]","torrent":{"xt":"urn:btih:30ba820e6c2a90ccc963af1461a0719790ce2abd","amp;dn":"Shameless.US.S01E06.HDTV.XviD-ASAP.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"30ba820e6c2a90ccc963af1461a0719790ce2abd","infoHashBuffer":{"type":"Buffer","data":[48,186,130,14,108,42,144,204,201,99,175,20,97,160,113,151,144,206,42,189]},"announce":[],"urlList":[]}}
+{
+  "title": "Shameless.US.S01E06.HDTV.XviD-ASAP.[VTV].avi",
+  "uid": 6173115,
+  "size": 577765376,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:30ba820e6c2a90ccc963af1461a0719790ce2abd&amp;dn=Shameless.US.S01E06.HDTV.XviD-ASAP.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 7,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1297661469,
+  "description": "Shameless US 1x06 (HDTV-ASAP)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:30ba820e6c2a90ccc963af1461a0719790ce2abd",
+    "dn": "Shameless.US.S01E06.HDTV.XviD-ASAP.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "30ba820e6c2a90ccc963af1461a0719790ce2abd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        48,
+        186,
+        130,
+        14,
+        108,
+        42,
+        144,
+        204,
+        201,
+        99,
+        175,
+        20,
+        97,
+        160,
+        113,
+        151,
+        144,
+        206,
+        42,
+        189
+      ]
+    },
+    "name": "Shameless.US.S01E06.HDTV.XviD-ASAP.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 90,
+  "last_updated": "2016-12-24T21:26:17.005Z"
+}

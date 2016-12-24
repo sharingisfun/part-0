@@ -1,1 +1,61 @@
-{"title":"Timmy Trumpet - Freaks (Original Mix)","uid":9966854,"size":11063010,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:311692fb0fef4719c37d66c9b8810fdeece9f44f&amp;dn=Timmy+Trumpet+-+Freaks+%28Original+Mix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":139,"leechers":4,"uploader":"pamabego","files":-1,"time":1397583705,"description":"Format                                   : MPEG Audio\nFile size                                : 10.6 MiB\nDuration                                 : 4mn 34s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 320 Kbps\nAlbum                                    : Freaks\nTrack name                               : Freaks (Original Mix)\nTrack name/Position                      : 1\nTrack name/Total                         : 1\nPerformer                                : Timmy Trumpet\nGenre                                    : Electro House\nRecorded date                            : 2014\nWriting library                          : LAME3.97 \nCover                                    : Yes\nCover type                               : Cover (front)\nCover MIME                               : image/jpg\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nDuration                                 : 4mn 34s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 10.5 MiB (99%)\nWriting library                          : LAME3.97 \nEncoding settings                        : -m s -V 4 -q 3 -lowpass 20.5\n\n","torrent":{"xt":"urn:btih:311692fb0fef4719c37d66c9b8810fdeece9f44f","amp;dn":"Timmy+Trumpet+-+Freaks+%28Original+Mix%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"311692fb0fef4719c37d66c9b8810fdeece9f44f","infoHashBuffer":{"type":"Buffer","data":[49,22,146,251,15,239,71,25,195,125,102,201,184,129,15,222,236,233,244,79]},"announce":[],"urlList":[]}}
+{
+  "title": "Timmy Trumpet - Freaks (Original Mix)",
+  "uid": 9966854,
+  "size": 11063010,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:311692fb0fef4719c37d66c9b8810fdeece9f44f&amp;dn=Timmy+Trumpet+-+Freaks+%28Original+Mix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 139,
+  "leechers": 4,
+  "uploader": "pamabego",
+  "files": -1,
+  "time": 1397583705,
+  "description": "Format                                   : MPEG Audio\nFile size                                : 10.6 MiB\nDuration                                 : 4mn 34s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 320 Kbps\nAlbum                                    : Freaks\nTrack name                               : Freaks (Original Mix)\nTrack name/Position                      : 1\nTrack name/Total                         : 1\nPerformer                                : Timmy Trumpet\nGenre                                    : Electro House\nRecorded date                            : 2014\nWriting library                          : LAME3.97 \nCover                                    : Yes\nCover type                               : Cover (front)\nCover MIME                               : image/jpg\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nDuration                                 : 4mn 34s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 10.5 MiB (99%)\nWriting library                          : LAME3.97 \nEncoding settings                        : -m s -V 4 -q 3 -lowpass 20.5\n\n",
+  "parsed": {
+    "xt": "urn:btih:311692fb0fef4719c37d66c9b8810fdeece9f44f",
+    "dn": "Timmy Trumpet - Freaks (Original Mix)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "311692fb0fef4719c37d66c9b8810fdeece9f44f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        49,
+        22,
+        146,
+        251,
+        15,
+        239,
+        71,
+        25,
+        195,
+        125,
+        102,
+        201,
+        184,
+        129,
+        15,
+        222,
+        236,
+        233,
+        244,
+        79
+      ]
+    },
+    "name": "Timmy Trumpet - Freaks (Original Mix)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 143,
+  "peers": 51,
+  "last_updated": "2016-12-24T21:29:09.592Z"
+}

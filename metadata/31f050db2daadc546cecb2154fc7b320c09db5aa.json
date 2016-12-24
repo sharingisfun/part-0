@@ -1,1 +1,61 @@
-{"title":"Company.Of.Heroes.Tales.Of.Valor-RELOADED","uid":4836190,"size":8263116374,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:31f050db2daadc546cecb2154fc7b320c09db5aa&amp;dn=Company.Of.Heroes.Tales.Of.Valor-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":15,"uploader":"AiTB","files":85,"time":1239323137,"description":"info\n &lt;a href=&quot;\nhttp://www.btarena.org/games/company-of-heroes-tales-of-valor-reloaded&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.btarena.org/games/company-of-heroes-tales-of-valor-reloaded&lt;/a&gt;","torrent":{"xt":"urn:btih:31f050db2daadc546cecb2154fc7b320c09db5aa","amp;dn":"Company.Of.Heroes.Tales.Of.Valor-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"31f050db2daadc546cecb2154fc7b320c09db5aa","infoHashBuffer":{"type":"Buffer","data":[49,240,80,219,45,170,220,84,108,236,178,21,79,199,179,32,192,157,181,170]},"announce":[],"urlList":[]}}
+{
+  "title": "Company.Of.Heroes.Tales.Of.Valor-RELOADED",
+  "uid": 4836190,
+  "size": 8263116374,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:31f050db2daadc546cecb2154fc7b320c09db5aa&amp;dn=Company.Of.Heroes.Tales.Of.Valor-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 15,
+  "uploader": "AiTB",
+  "files": 85,
+  "time": 1239323137,
+  "description": "info\n &lt;a href=&quot;\nhttp://www.btarena.org/games/company-of-heroes-tales-of-valor-reloaded&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.btarena.org/games/company-of-heroes-tales-of-valor-reloaded&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:31f050db2daadc546cecb2154fc7b320c09db5aa",
+    "dn": "Company.Of.Heroes.Tales.Of.Valor-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "31f050db2daadc546cecb2154fc7b320c09db5aa",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        49,
+        240,
+        80,
+        219,
+        45,
+        170,
+        220,
+        84,
+        108,
+        236,
+        178,
+        21,
+        79,
+        199,
+        179,
+        32,
+        192,
+        157,
+        181,
+        170
+      ]
+    },
+    "name": "Company.Of.Heroes.Tales.Of.Valor-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 11,
+  "last_updated": "2016-12-24T21:34:02.894Z"
+}

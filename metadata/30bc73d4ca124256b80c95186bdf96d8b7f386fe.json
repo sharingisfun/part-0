@@ -1,1 +1,61 @@
-{"title":"Kali Linux 1.1.0 x64","uid":11692267,"size":3049521222,"categoryP":"applications","categoryS":"unix","magnet":"?xt=urn:btih:30bc73d4ca124256b80c95186bdf96d8b7f386fe&amp;dn=Kali+Linux+1.1.0+x64&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":10,"uploader":null,"files":2,"time":1423588177,"description":"sha1: 40a1fd1d4864e7fac70438a1bf2095c8c1a4e764\n\n\n\nofficial download page: &lt;a href=&quot;\nhttps://www.kali.org/downloads/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://www.kali.org/downloads/&lt;/a&gt;","torrent":{"xt":"urn:btih:30bc73d4ca124256b80c95186bdf96d8b7f386fe","amp;dn":"Kali+Linux+1.1.0+x64","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"30bc73d4ca124256b80c95186bdf96d8b7f386fe","infoHashBuffer":{"type":"Buffer","data":[48,188,115,212,202,18,66,86,184,12,149,24,107,223,150,216,183,243,134,254]},"announce":[],"urlList":[]}}
+{
+  "title": "Kali Linux 1.1.0 x64",
+  "uid": 11692267,
+  "size": 3049521222,
+  "categoryP": "applications",
+  "categoryS": "unix",
+  "magnet": "?xt=urn:btih:30bc73d4ca124256b80c95186bdf96d8b7f386fe&amp;dn=Kali+Linux+1.1.0+x64&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 10,
+  "uploader": null,
+  "files": 2,
+  "time": 1423588177,
+  "description": "sha1: 40a1fd1d4864e7fac70438a1bf2095c8c1a4e764\n\n\n\nofficial download page: &lt;a href=&quot;\nhttps://www.kali.org/downloads/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://www.kali.org/downloads/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:30bc73d4ca124256b80c95186bdf96d8b7f386fe",
+    "dn": "Kali Linux 1.1.0 x64",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "30bc73d4ca124256b80c95186bdf96d8b7f386fe",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        48,
+        188,
+        115,
+        212,
+        202,
+        18,
+        66,
+        86,
+        184,
+        12,
+        149,
+        24,
+        107,
+        223,
+        150,
+        216,
+        183,
+        243,
+        134,
+        254
+      ]
+    },
+    "name": "Kali Linux 1.1.0 x64",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 84,
+  "peers": 5,
+  "last_updated": "2016-12-24T21:26:19.013Z"
+}

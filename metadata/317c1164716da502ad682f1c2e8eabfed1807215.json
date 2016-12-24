@@ -1,1 +1,61 @@
-{"title":"House.Of.Cards.2013.S01E08.WEBRip.x264-TRiC","uid":8101895,"size":221732367,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:317c1164716da502ad682f1c2e8eabfed1807215&amp;dn=House.Of.Cards.2013.S01E08.WEBRip.x264-TRiC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":95,"leechers":5,"uploader":"maximersk","files":1,"time":1359993760,"description":"House.Of.Cards.2013.S01E08.WEBRip.x264-TRiC","torrent":{"xt":"urn:btih:317c1164716da502ad682f1c2e8eabfed1807215","amp;dn":"House.Of.Cards.2013.S01E08.WEBRip.x264-TRiC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"317c1164716da502ad682f1c2e8eabfed1807215","infoHashBuffer":{"type":"Buffer","data":[49,124,17,100,113,109,165,2,173,104,47,28,46,142,171,254,209,128,114,21]},"announce":[],"urlList":[]}}
+{
+  "title": "House.Of.Cards.2013.S01E08.WEBRip.x264-TRiC",
+  "uid": 8101895,
+  "size": 221732367,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:317c1164716da502ad682f1c2e8eabfed1807215&amp;dn=House.Of.Cards.2013.S01E08.WEBRip.x264-TRiC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 95,
+  "leechers": 5,
+  "uploader": "maximersk",
+  "files": 1,
+  "time": 1359993760,
+  "description": "House.Of.Cards.2013.S01E08.WEBRip.x264-TRiC",
+  "parsed": {
+    "xt": "urn:btih:317c1164716da502ad682f1c2e8eabfed1807215",
+    "dn": "House.Of.Cards.2013.S01E08.WEBRip.x264-TRiC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "317c1164716da502ad682f1c2e8eabfed1807215",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        49,
+        124,
+        17,
+        100,
+        113,
+        109,
+        165,
+        2,
+        173,
+        104,
+        47,
+        28,
+        46,
+        142,
+        171,
+        254,
+        209,
+        128,
+        114,
+        21
+      ]
+    },
+    "name": "House.Of.Cards.2013.S01E08.WEBRip.x264-TRiC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 100,
+  "peers": 10,
+  "last_updated": "2016-12-24T21:31:44.349Z"
+}

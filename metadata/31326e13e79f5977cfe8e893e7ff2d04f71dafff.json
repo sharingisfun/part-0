@@ -1,1 +1,61 @@
-{"title":"The Script - No Sound Without Silence (2014)","uid":11006591,"size":108707305,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:31326e13e79f5977cfe8e893e7ff2d04f71dafff&amp;dn=The+Script+-+No+Sound+Without+Silence+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":3,"uploader":"santicaz","files":12,"time":1410247487,"description":"Artist: The Script\nTitle Of Album: No Sound Without Silence\nYear Of Release: 2014\nLabel: Sony Music \nGenre: Pop, Rock\nQuality: 256 Kbps\nTotal Time: 43:47 min\nTotal Size: 103 MB\n\nTracklist:\n\n01. No Good In Goodbye\n02. Superheroes\n03. Man On A Wire\n04. It's Not Right For You\n05. The Energy Never Dies\n06. Flares\n07. Army Of Angels\n08. Never Seen Anything 'Quite Like You'\n09. Paint The Town Green\n10. Without Those Songs\n11. Hail Rain Or Sunshine","torrent":{"xt":"urn:btih:31326e13e79f5977cfe8e893e7ff2d04f71dafff","amp;dn":"The+Script+-+No+Sound+Without+Silence+%282014%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"31326e13e79f5977cfe8e893e7ff2d04f71dafff","infoHashBuffer":{"type":"Buffer","data":[49,50,110,19,231,159,89,119,207,232,232,147,231,255,45,4,247,29,175,255]},"announce":[],"urlList":[]}}
+{
+  "title": "The Script - No Sound Without Silence (2014)",
+  "uid": 11006591,
+  "size": 108707305,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:31326e13e79f5977cfe8e893e7ff2d04f71dafff&amp;dn=The+Script+-+No+Sound+Without+Silence+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 3,
+  "uploader": "santicaz",
+  "files": 12,
+  "time": 1410247487,
+  "description": "Artist: The Script\nTitle Of Album: No Sound Without Silence\nYear Of Release: 2014\nLabel: Sony Music \nGenre: Pop, Rock\nQuality: 256 Kbps\nTotal Time: 43:47 min\nTotal Size: 103 MB\n\nTracklist:\n\n01. No Good In Goodbye\n02. Superheroes\n03. Man On A Wire\n04. It's Not Right For You\n05. The Energy Never Dies\n06. Flares\n07. Army Of Angels\n08. Never Seen Anything 'Quite Like You'\n09. Paint The Town Green\n10. Without Those Songs\n11. Hail Rain Or Sunshine",
+  "parsed": {
+    "xt": "urn:btih:31326e13e79f5977cfe8e893e7ff2d04f71dafff",
+    "dn": "The Script - No Sound Without Silence (2014)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "31326e13e79f5977cfe8e893e7ff2d04f71dafff",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        49,
+        50,
+        110,
+        19,
+        231,
+        159,
+        89,
+        119,
+        207,
+        232,
+        232,
+        147,
+        231,
+        255,
+        45,
+        4,
+        247,
+        29,
+        175,
+        255
+      ]
+    },
+    "name": "The Script - No Sound Without Silence (2014)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 42,
+  "last_updated": "2016-12-24T21:30:01.870Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Final Cut Pro X","uid":6488380,"size":1462959639,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:30d0190fd2f17369032f4c261048c8019d41bb9b&amp;dn=Final+Cut+Pro+X&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":96,"leechers":2,"uploader":"iMZDL","files":1,"time":1308792574,"description":"Final Cut Pro X\n\nCheck our our website: Google iMZDL\n\nFollow Our Twitter: @iMZDL\nLike Our FaceBook: Search iModZone Downloads\t","torrent":{"xt":"urn:btih:30d0190fd2f17369032f4c261048c8019d41bb9b","amp;dn":"Final+Cut+Pro+X","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"30d0190fd2f17369032f4c261048c8019d41bb9b","infoHashBuffer":{"type":"Buffer","data":[48,208,25,15,210,241,115,105,3,47,76,38,16,72,200,1,157,65,187,155]},"announce":[],"urlList":[]}}
+{
+  "title": "Final Cut Pro X",
+  "uid": 6488380,
+  "size": 1462959639,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:30d0190fd2f17369032f4c261048c8019d41bb9b&amp;dn=Final+Cut+Pro+X&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 96,
+  "leechers": 2,
+  "uploader": "iMZDL",
+  "files": 1,
+  "time": 1308792574,
+  "description": "Final Cut Pro X\n\nCheck our our website: Google iMZDL\n\nFollow Our Twitter: @iMZDL\nLike Our FaceBook: Search iModZone Downloads\t",
+  "parsed": {
+    "xt": "urn:btih:30d0190fd2f17369032f4c261048c8019d41bb9b",
+    "dn": "Final Cut Pro X",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "30d0190fd2f17369032f4c261048c8019d41bb9b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        48,
+        208,
+        25,
+        15,
+        210,
+        241,
+        115,
+        105,
+        3,
+        47,
+        76,
+        38,
+        16,
+        72,
+        200,
+        1,
+        157,
+        65,
+        187,
+        155
+      ]
+    },
+    "name": "Final Cut Pro X",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 98,
+  "peers": 22,
+  "last_updated": "2016-12-24T21:27:05.176Z"
+}

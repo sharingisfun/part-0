@@ -1,1 +1,63 @@
-{"title":"KOSEM SOULTAN dvd-32 GREEK SUBS.avi","uid":15734835,"size":808556836,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:32dc947534ef3e45e1ee2c92ffa65eb9ac791aa8&amp;dn=KOSEM+SOULTAN+dvd-32+GREEK+SUBS.avi&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":3,"uploader":"panview","files":1,"time":1472825865,"description":"dvd 32","torrent":{"xt":"urn:btih:32dc947534ef3e45e1ee2c92ffa65eb9ac791aa8","amp;dn":"KOSEM+SOULTAN+dvd-32+GREEK+SUBS.avi","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"32dc947534ef3e45e1ee2c92ffa65eb9ac791aa8","infoHashBuffer":{"type":"Buffer","data":[50,220,148,117,52,239,62,69,225,238,44,146,255,166,94,185,172,121,26,168]},"announce":[],"urlList":[]}}
+{
+  "title": "KOSEM SOULTAN dvd-32 GREEK SUBS.avi",
+  "uid": 15734835,
+  "size": 808556836,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:32dc947534ef3e45e1ee2c92ffa65eb9ac791aa8&amp;dn=KOSEM+SOULTAN+dvd-32+GREEK+SUBS.avi&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 3,
+  "uploader": "panview",
+  "files": 1,
+  "time": 1472825865,
+  "description": "dvd 32",
+  "parsed": {
+    "xt": "urn:btih:32dc947534ef3e45e1ee2c92ffa65eb9ac791aa8",
+    "dn": "KOSEM SOULTAN dvd-32 GREEK SUBS.avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "32dc947534ef3e45e1ee2c92ffa65eb9ac791aa8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        50,
+        220,
+        148,
+        117,
+        52,
+        239,
+        62,
+        69,
+        225,
+        238,
+        44,
+        146,
+        255,
+        166,
+        94,
+        185,
+        172,
+        121,
+        26,
+        168
+      ]
+    },
+    "name": "KOSEM SOULTAN dvd-32 GREEK SUBS.avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 15,
+  "last_updated": "2016-12-24T21:40:12.406Z"
+}

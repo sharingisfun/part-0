@@ -1,1 +1,61 @@
-{"title":"Wii.Mario.Kart.Wii.DVD5.PAL.[WiiScrubbed].[Brickblocked].PBoy","uid":4618081,"size":2870470798,"categoryP":"games","categoryS":"wii","magnet":"?xt=urn:btih:32d67b1b50c1451bd7d26fc83e812b460415a061&amp;dn=Wii.Mario.Kart.Wii.DVD5.PAL.%5BWiiScrubbed%5D.%5BBrickblocked%5D.PBoy&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":11,"uploader":"P_Boy","files":-1,"time":1230921492,"description":"Mario and friends once again jump into the seat of their go-kart machines for the first Wii installment of this popular franchise. New features this year are an online racing mode, new motorbike vehicle types, a special balancing system for new and veteran players, and (in its initial release) a special Mario Kart wheel packaged with the game.\n\nGenre: Racing Action\nOnline Play: 12 Versus\nExclusively on Wii\nRelease Date: April 11, 2008 (UK)","torrent":{"xt":"urn:btih:32d67b1b50c1451bd7d26fc83e812b460415a061","amp;dn":"Wii.Mario.Kart.Wii.DVD5.PAL.%5BWiiScrubbed%5D.%5BBrickblocked%5D.PBoy","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"32d67b1b50c1451bd7d26fc83e812b460415a061","infoHashBuffer":{"type":"Buffer","data":[50,214,123,27,80,193,69,27,215,210,111,200,62,129,43,70,4,21,160,97]},"announce":[],"urlList":[]}}
+{
+  "title": "Wii.Mario.Kart.Wii.DVD5.PAL.[WiiScrubbed].[Brickblocked].PBoy",
+  "uid": 4618081,
+  "size": 2870470798,
+  "categoryP": "games",
+  "categoryS": "wii",
+  "magnet": "?xt=urn:btih:32d67b1b50c1451bd7d26fc83e812b460415a061&amp;dn=Wii.Mario.Kart.Wii.DVD5.PAL.%5BWiiScrubbed%5D.%5BBrickblocked%5D.PBoy&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 11,
+  "uploader": "P_Boy",
+  "files": -1,
+  "time": 1230921492,
+  "description": "Mario and friends once again jump into the seat of their go-kart machines for the first Wii installment of this popular franchise. New features this year are an online racing mode, new motorbike vehicle types, a special balancing system for new and veteran players, and (in its initial release) a special Mario Kart wheel packaged with the game.\n\nGenre: Racing Action\nOnline Play: 12 Versus\nExclusively on Wii\nRelease Date: April 11, 2008 (UK)",
+  "parsed": {
+    "xt": "urn:btih:32d67b1b50c1451bd7d26fc83e812b460415a061",
+    "dn": "Wii.Mario.Kart.Wii.DVD5.PAL.[WiiScrubbed].[Brickblocked].PBoy",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "32d67b1b50c1451bd7d26fc83e812b460415a061",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        50,
+        214,
+        123,
+        27,
+        80,
+        193,
+        69,
+        27,
+        215,
+        210,
+        111,
+        200,
+        62,
+        129,
+        43,
+        70,
+        4,
+        21,
+        160,
+        97
+      ]
+    },
+    "name": "Wii.Mario.Kart.Wii.DVD5.PAL.[WiiScrubbed].[Brickblocked].PBoy",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 98,
+  "peers": 170,
+  "last_updated": "2016-12-24T21:39:56.361Z"
+}

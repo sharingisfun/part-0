@@ -1,1 +1,61 @@
-{"title":"Two and a Half Men S11E21 HDTV x264-LOL[ettv]","uid":10080871,"size":170304232,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:32982e52b6dcab2002576044ee232de10efb10e6&amp;dn=Two+and+a+Half+Men+S11E21+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":8,"uploader":"ettv","files":2,"time":1398999927,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:32982e52b6dcab2002576044ee232de10efb10e6","amp;dn":"Two+and+a+Half+Men+S11E21+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"32982e52b6dcab2002576044ee232de10efb10e6","infoHashBuffer":{"type":"Buffer","data":[50,152,46,82,182,220,171,32,2,87,96,68,238,35,45,225,14,251,16,230]},"announce":[],"urlList":[]}}
+{
+  "title": "Two and a Half Men S11E21 HDTV x264-LOL[ettv]",
+  "uid": 10080871,
+  "size": 170304232,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:32982e52b6dcab2002576044ee232de10efb10e6&amp;dn=Two+and+a+Half+Men+S11E21+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 8,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1398999927,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:32982e52b6dcab2002576044ee232de10efb10e6",
+    "dn": "Two and a Half Men S11E21 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "32982e52b6dcab2002576044ee232de10efb10e6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        50,
+        152,
+        46,
+        82,
+        182,
+        220,
+        171,
+        32,
+        2,
+        87,
+        96,
+        68,
+        238,
+        35,
+        45,
+        225,
+        14,
+        251,
+        16,
+        230
+      ]
+    },
+    "name": "Two and a Half Men S11E21 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 1,
+  "last_updated": "2016-12-24T21:38:10.007Z"
+}

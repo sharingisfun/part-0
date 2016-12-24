@@ -1,1 +1,61 @@
-{"title":"Rosetta Stone - Spanish (Spain) - Level 1, 2, 3, 4, 5","uid":7061421,"size":2091462656,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:3256766140790a5ec122f40273f23b818be75d6e&amp;dn=Rosetta+Stone+-+Spanish+%28Spain%29+-+Level+1%2C+2%2C+3%2C+4%2C+5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":75,"leechers":5,"uploader":"EinDeutschMan","files":5,"time":1330357598,"description":"For Rosetta Stone v3","torrent":{"xt":"urn:btih:3256766140790a5ec122f40273f23b818be75d6e","amp;dn":"Rosetta+Stone+-+Spanish+%28Spain%29+-+Level+1%2C+2%2C+3%2C+4%2C+5","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3256766140790a5ec122f40273f23b818be75d6e","infoHashBuffer":{"type":"Buffer","data":[50,86,118,97,64,121,10,94,193,34,244,2,115,242,59,129,139,231,93,110]},"announce":[],"urlList":[]}}
+{
+  "title": "Rosetta Stone - Spanish (Spain) - Level 1, 2, 3, 4, 5",
+  "uid": 7061421,
+  "size": 2091462656,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:3256766140790a5ec122f40273f23b818be75d6e&amp;dn=Rosetta+Stone+-+Spanish+%28Spain%29+-+Level+1%2C+2%2C+3%2C+4%2C+5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 75,
+  "leechers": 5,
+  "uploader": "EinDeutschMan",
+  "files": 5,
+  "time": 1330357598,
+  "description": "For Rosetta Stone v3",
+  "parsed": {
+    "xt": "urn:btih:3256766140790a5ec122f40273f23b818be75d6e",
+    "dn": "Rosetta Stone - Spanish (Spain) - Level 1, 2, 3, 4, 5",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3256766140790a5ec122f40273f23b818be75d6e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        50,
+        86,
+        118,
+        97,
+        64,
+        121,
+        10,
+        94,
+        193,
+        34,
+        244,
+        2,
+        115,
+        242,
+        59,
+        129,
+        139,
+        231,
+        93,
+        110
+      ]
+    },
+    "name": "Rosetta Stone - Spanish (Spain) - Level 1, 2, 3, 4, 5",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 50,
+  "last_updated": "2016-12-24T21:36:37.616Z"
+}

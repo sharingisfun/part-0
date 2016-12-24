@@ -1,1 +1,61 @@
-{"title":"Povorot_ne_tuda-5_(2012)_HORRORHALL.ru","uid":8045206,"size":1559930880,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:30bf960d3d62502b44f49256591a2d1b7b225d67&amp;dn=Povorot_ne_tuda-5_%282012%29_HORRORHALL.ru&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":68,"leechers":3,"uploader":"But4er","files":1,"time":1358729896,"description":"horrorhall.ru","torrent":{"xt":"urn:btih:30bf960d3d62502b44f49256591a2d1b7b225d67","amp;dn":"Povorot_ne_tuda-5_%282012%29_HORRORHALL.ru","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"30bf960d3d62502b44f49256591a2d1b7b225d67","infoHashBuffer":{"type":"Buffer","data":[48,191,150,13,61,98,80,43,68,244,146,86,89,26,45,27,123,34,93,103]},"announce":[],"urlList":[]}}
+{
+  "title": "Povorot_ne_tuda-5_(2012)_HORRORHALL.ru",
+  "uid": 8045206,
+  "size": 1559930880,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:30bf960d3d62502b44f49256591a2d1b7b225d67&amp;dn=Povorot_ne_tuda-5_%282012%29_HORRORHALL.ru&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 68,
+  "leechers": 3,
+  "uploader": "But4er",
+  "files": 1,
+  "time": 1358729896,
+  "description": "horrorhall.ru",
+  "parsed": {
+    "xt": "urn:btih:30bf960d3d62502b44f49256591a2d1b7b225d67",
+    "dn": "Povorot_ne_tuda-5_(2012)_HORRORHALL.ru",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "30bf960d3d62502b44f49256591a2d1b7b225d67",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        48,
+        191,
+        150,
+        13,
+        61,
+        98,
+        80,
+        43,
+        68,
+        244,
+        146,
+        86,
+        89,
+        26,
+        45,
+        27,
+        123,
+        34,
+        93,
+        103
+      ]
+    },
+    "name": "Povorot_ne_tuda-5_(2012)_HORRORHALL.ru",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 73,
+  "last_updated": "2016-12-24T21:26:23.027Z"
+}

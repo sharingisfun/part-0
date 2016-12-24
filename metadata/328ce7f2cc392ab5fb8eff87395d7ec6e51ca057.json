@@ -1,1 +1,61 @@
-{"title":"iExplorer 3.5.1.5 MacOSX [ATOM]","uid":11393678,"size":21238858,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:328ce7f2cc392ab5fb8eff87395d7ec6e51ca057&amp;dn=iExplorer+3.5.1.5+MacOSX+%5BATOM%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":67,"leechers":1,"uploader":"AtomTPB","files":-1,"time":1415360408,"description":"Description:\niExplorer is an iPhone browser for Mac lets you view the files on your iOS device. By using a drag and drop interface, you can quickly copy files and folders between your Mac and your iPhone or iTouch. It works with both jailbroken and non-jailbroken iPhones and works quickly with a standard USB cable.\n\nFeatures:\n-All the best technology from Phone to Mac, Phone Disk, and iExplorer 2, and then some\n-One-click recovery of music and videos straight to iTunes\n-Explore and export photos and videos (even from older iPods)\n-Mount any folder or category, including playlists and photo albums, then browse in Finder and open with other apps\n-Browse any iTunes backups (encrypted too). Export: Messages (including attachments), notes, voicemail, call history, contacts, calendars...\n-Works with all types of iPhones, iPads, iPod Touch, and regular iPod\n\nWhat's New: \nVersion 3.5.1.5:\n\n-Fixed bug that caused missing messages and messages with wrong contact info\n-Fixed bug that prevented display of messages from iOS 5 and earlier\n\n\nSystem Requirements:\n-Intel, 64-bit processor\n-OS X 10.6 or later\n-iTunes 10 or later","torrent":{"xt":"urn:btih:328ce7f2cc392ab5fb8eff87395d7ec6e51ca057","amp;dn":"iExplorer+3.5.1.5+MacOSX+%5BATOM%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"328ce7f2cc392ab5fb8eff87395d7ec6e51ca057","infoHashBuffer":{"type":"Buffer","data":[50,140,231,242,204,57,42,181,251,142,255,135,57,93,126,198,229,28,160,87]},"announce":[],"urlList":[]}}
+{
+  "title": "iExplorer 3.5.1.5 MacOSX [ATOM]",
+  "uid": 11393678,
+  "size": 21238858,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:328ce7f2cc392ab5fb8eff87395d7ec6e51ca057&amp;dn=iExplorer+3.5.1.5+MacOSX+%5BATOM%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 67,
+  "leechers": 1,
+  "uploader": "AtomTPB",
+  "files": -1,
+  "time": 1415360408,
+  "description": "Description:\niExplorer is an iPhone browser for Mac lets you view the files on your iOS device. By using a drag and drop interface, you can quickly copy files and folders between your Mac and your iPhone or iTouch. It works with both jailbroken and non-jailbroken iPhones and works quickly with a standard USB cable.\n\nFeatures:\n-All the best technology from Phone to Mac, Phone Disk, and iExplorer 2, and then some\n-One-click recovery of music and videos straight to iTunes\n-Explore and export photos and videos (even from older iPods)\n-Mount any folder or category, including playlists and photo albums, then browse in Finder and open with other apps\n-Browse any iTunes backups (encrypted too). Export: Messages (including attachments), notes, voicemail, call history, contacts, calendars...\n-Works with all types of iPhones, iPads, iPod Touch, and regular iPod\n\nWhat's New: \nVersion 3.5.1.5:\n\n-Fixed bug that caused missing messages and messages with wrong contact info\n-Fixed bug that prevented display of messages from iOS 5 and earlier\n\n\nSystem Requirements:\n-Intel, 64-bit processor\n-OS X 10.6 or later\n-iTunes 10 or later",
+  "parsed": {
+    "xt": "urn:btih:328ce7f2cc392ab5fb8eff87395d7ec6e51ca057",
+    "dn": "iExplorer 3.5.1.5 MacOSX [ATOM]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "328ce7f2cc392ab5fb8eff87395d7ec6e51ca057",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        50,
+        140,
+        231,
+        242,
+        204,
+        57,
+        42,
+        181,
+        251,
+        142,
+        255,
+        135,
+        57,
+        93,
+        126,
+        198,
+        229,
+        28,
+        160,
+        87
+      ]
+    },
+    "name": "iExplorer 3.5.1.5 MacOSX [ATOM]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 35,
+  "last_updated": "2016-12-24T21:37:51.930Z"
+}

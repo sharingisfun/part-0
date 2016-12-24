@@ -1,1 +1,63 @@
-{"title":"The Great British Bake Off Season 4 (MP4)","uid":12502424,"size":5985948219,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:30d50d876a204e1cd73c30d6ed5f17a29b24de0c&amp;dn=The+Great+British+Bake+Off+Season+4+%28MP4%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":25,"uploader":null,"files":16,"time":1443388655,"description":"The Great British Bake Off Season 4","torrent":{"xt":"urn:btih:30d50d876a204e1cd73c30d6ed5f17a29b24de0c","amp;dn":"The+Great+British+Bake+Off+Season+4+%28MP4%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"30d50d876a204e1cd73c30d6ed5f17a29b24de0c","infoHashBuffer":{"type":"Buffer","data":[48,213,13,135,106,32,78,28,215,60,48,214,237,95,23,162,155,36,222,12]},"announce":[],"urlList":[]}}
+{
+  "title": "The Great British Bake Off Season 4 (MP4)",
+  "uid": 12502424,
+  "size": 5985948219,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:30d50d876a204e1cd73c30d6ed5f17a29b24de0c&amp;dn=The+Great+British+Bake+Off+Season+4+%28MP4%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 25,
+  "uploader": null,
+  "files": 16,
+  "time": 1443388655,
+  "description": "The Great British Bake Off Season 4",
+  "parsed": {
+    "xt": "urn:btih:30d50d876a204e1cd73c30d6ed5f17a29b24de0c",
+    "dn": "The Great British Bake Off Season 4 (MP4)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "30d50d876a204e1cd73c30d6ed5f17a29b24de0c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        48,
+        213,
+        13,
+        135,
+        106,
+        32,
+        78,
+        28,
+        215,
+        60,
+        48,
+        214,
+        237,
+        95,
+        23,
+        162,
+        155,
+        36,
+        222,
+        12
+      ]
+    },
+    "name": "The Great British Bake Off Season 4 (MP4)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 134,
+  "last_updated": "2016-12-24T21:27:11.194Z"
+}

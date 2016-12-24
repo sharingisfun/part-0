@@ -1,1 +1,61 @@
-{"title":"Criminal Minds Season 1","uid":6475941,"size":8065187640,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:326f1af25e48dc7177529aeabb5c237eb37c43cf&amp;dn=Criminal+Minds+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":39,"uploader":"ddaviey3","files":22,"time":1308304609,"description":"Complete first season the rest to follow shortly","torrent":{"xt":"urn:btih:326f1af25e48dc7177529aeabb5c237eb37c43cf","amp;dn":"Criminal+Minds+Season+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"326f1af25e48dc7177529aeabb5c237eb37c43cf","infoHashBuffer":{"type":"Buffer","data":[50,111,26,242,94,72,220,113,119,82,154,234,187,92,35,126,179,124,67,207]},"announce":[],"urlList":[]}}
+{
+  "title": "Criminal Minds Season 1",
+  "uid": 6475941,
+  "size": 8065187640,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:326f1af25e48dc7177529aeabb5c237eb37c43cf&amp;dn=Criminal+Minds+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 39,
+  "uploader": "ddaviey3",
+  "files": 22,
+  "time": 1308304609,
+  "description": "Complete first season the rest to follow shortly",
+  "parsed": {
+    "xt": "urn:btih:326f1af25e48dc7177529aeabb5c237eb37c43cf",
+    "dn": "Criminal Minds Season 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "326f1af25e48dc7177529aeabb5c237eb37c43cf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        50,
+        111,
+        26,
+        242,
+        94,
+        72,
+        220,
+        113,
+        119,
+        82,
+        154,
+        234,
+        187,
+        92,
+        35,
+        126,
+        179,
+        124,
+        67,
+        207
+      ]
+    },
+    "name": "Criminal Minds Season 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 126,
+  "peers": 50,
+  "last_updated": "2016-12-24T21:37:03.738Z"
+}

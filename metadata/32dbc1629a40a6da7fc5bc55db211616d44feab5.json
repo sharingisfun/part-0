@@ -1,1 +1,61 @@
-{"title":"La piel que habito","uid":8557857,"size":1864691712,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:32dbc1629a40a6da7fc5bc55db211616d44feab5&amp;dn=La+piel+que+habito+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":2,"uploader":"Miguel223","files":1,"time":1370809828,"description":"La piel que habito \n\nwww.peliculasytorrent.com","torrent":{"xt":"urn:btih:32dbc1629a40a6da7fc5bc55db211616d44feab5","amp;dn":"La+piel+que+habito+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"32dbc1629a40a6da7fc5bc55db211616d44feab5","infoHashBuffer":{"type":"Buffer","data":[50,219,193,98,154,64,166,218,127,197,188,85,219,33,22,22,212,79,234,181]},"announce":[],"urlList":[]}}
+{
+  "title": "La piel que habito",
+  "uid": 8557857,
+  "size": 1864691712,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:32dbc1629a40a6da7fc5bc55db211616d44feab5&amp;dn=La+piel+que+habito+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 2,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1370809828,
+  "description": "La piel que habito \n\nwww.peliculasytorrent.com",
+  "parsed": {
+    "xt": "urn:btih:32dbc1629a40a6da7fc5bc55db211616d44feab5",
+    "dn": "La piel que habito ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "32dbc1629a40a6da7fc5bc55db211616d44feab5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        50,
+        219,
+        193,
+        98,
+        154,
+        64,
+        166,
+        218,
+        127,
+        197,
+        188,
+        85,
+        219,
+        33,
+        22,
+        22,
+        212,
+        79,
+        234,
+        181
+      ]
+    },
+    "name": "La piel que habito ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 1,
+  "last_updated": "2016-12-24T21:40:08.397Z"
+}
