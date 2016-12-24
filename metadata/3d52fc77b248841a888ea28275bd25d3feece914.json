@@ -1,1 +1,61 @@
-{"title":"The Simpsons S26E11 HDTV x264-KILLERS [eztv]","uid":11672938,"size":138505539,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3d52fc77b248841a888ea28275bd25d3feece914&amp;dn=The+Simpsons+S26E11+HDTV+x264-KILLERS+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":196,"leechers":10,"uploader":"Mbb15","files":1,"time":1422738666,"description":"An animated series about the satiric adventures of a working-class family in the misfit city of Springfield","torrent":{"xt":"urn:btih:3d52fc77b248841a888ea28275bd25d3feece914","amp;dn":"The+Simpsons+S26E11+HDTV+x264-KILLERS+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3d52fc77b248841a888ea28275bd25d3feece914","infoHashBuffer":{"type":"Buffer","data":[61,82,252,119,178,72,132,26,136,142,162,130,117,189,37,211,254,236,233,20]},"announce":[],"urlList":[]}}
+{
+  "title": "The Simpsons S26E11 HDTV x264-KILLERS [eztv]",
+  "uid": 11672938,
+  "size": 138505539,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3d52fc77b248841a888ea28275bd25d3feece914&amp;dn=The+Simpsons+S26E11+HDTV+x264-KILLERS+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 196,
+  "leechers": 10,
+  "uploader": "Mbb15",
+  "files": 1,
+  "time": 1422738666,
+  "description": "An animated series about the satiric adventures of a working-class family in the misfit city of Springfield",
+  "parsed": {
+    "xt": "urn:btih:3d52fc77b248841a888ea28275bd25d3feece914",
+    "dn": "The Simpsons S26E11 HDTV x264-KILLERS [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3d52fc77b248841a888ea28275bd25d3feece914",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        61,
+        82,
+        252,
+        119,
+        178,
+        72,
+        132,
+        26,
+        136,
+        142,
+        162,
+        130,
+        117,
+        189,
+        37,
+        211,
+        254,
+        236,
+        233,
+        20
+      ]
+    },
+    "name": "The Simpsons S26E11 HDTV x264-KILLERS [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 206,
+  "peers": 23,
+  "last_updated": "2016-12-24T22:49:51.347Z"
+}

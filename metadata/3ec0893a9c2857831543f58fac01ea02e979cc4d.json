@@ -1,1 +1,61 @@
-{"title":"CSI.Cyber.S01E09.HDTV.x264-LOL[ettv]","uid":11866497,"size":357461833,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3ec0893a9c2857831543f58fac01ea02e979cc4d&amp;dn=CSI.Cyber.S01E09.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":130,"leechers":11,"uploader":"ettv","files":3,"time":1430369838,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:3ec0893a9c2857831543f58fac01ea02e979cc4d","amp;dn":"CSI.Cyber.S01E09.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3ec0893a9c2857831543f58fac01ea02e979cc4d","infoHashBuffer":{"type":"Buffer","data":[62,192,137,58,156,40,87,131,21,67,245,143,172,1,234,2,233,121,204,77]},"announce":[],"urlList":[]}}
+{
+  "title": "CSI.Cyber.S01E09.HDTV.x264-LOL[ettv]",
+  "uid": 11866497,
+  "size": 357461833,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3ec0893a9c2857831543f58fac01ea02e979cc4d&amp;dn=CSI.Cyber.S01E09.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 130,
+  "leechers": 11,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1430369838,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:3ec0893a9c2857831543f58fac01ea02e979cc4d",
+    "dn": "CSI.Cyber.S01E09.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3ec0893a9c2857831543f58fac01ea02e979cc4d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        62,
+        192,
+        137,
+        58,
+        156,
+        40,
+        87,
+        131,
+        21,
+        67,
+        245,
+        143,
+        172,
+        1,
+        234,
+        2,
+        233,
+        121,
+        204,
+        77
+      ]
+    },
+    "name": "CSI.Cyber.S01E09.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 141,
+  "peers": 48,
+  "last_updated": "2016-12-24T22:59:59.471Z"
+}

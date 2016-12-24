@@ -1,1 +1,61 @@
-{"title":"Aero Chord &amp;ndash; Surface (2014) [MCS215]","uid":10033097,"size":10210035,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3e54c8958556ea90d8e0f20f18494ca6f78c4512&amp;dn=Aero+Chord+%26ndash%3B+Surface+%282014%29+%5BMCS215%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":5,"uploader":"RG.REBOOT","files":-1,"time":1398362129,"description":"Artist       : Aero Chord\nAlbum        : Surface\nGenre        : Trap\nYear         : 2014\nTracks       : 1\nPlaytime     : 00:04:14\nSize         : 9.71 MB\nCodec        : MPEG 1 Layer III / Lame 3.98 / 320 kbps\n\n01. Surface (Original Mix) (04:14)","torrent":{"xt":"urn:btih:3e54c8958556ea90d8e0f20f18494ca6f78c4512","amp;dn":"Aero+Chord+%26ndash%3B+Surface+%282014%29+%5BMCS215%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3e54c8958556ea90d8e0f20f18494ca6f78c4512","infoHashBuffer":{"type":"Buffer","data":[62,84,200,149,133,86,234,144,216,224,242,15,24,73,76,166,247,140,69,18]},"announce":[],"urlList":[]}}
+{
+  "title": "Aero Chord &amp;ndash; Surface (2014) [MCS215]",
+  "uid": 10033097,
+  "size": 10210035,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3e54c8958556ea90d8e0f20f18494ca6f78c4512&amp;dn=Aero+Chord+%26ndash%3B+Surface+%282014%29+%5BMCS215%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 5,
+  "uploader": "RG.REBOOT",
+  "files": -1,
+  "time": 1398362129,
+  "description": "Artist       : Aero Chord\nAlbum        : Surface\nGenre        : Trap\nYear         : 2014\nTracks       : 1\nPlaytime     : 00:04:14\nSize         : 9.71 MB\nCodec        : MPEG 1 Layer III / Lame 3.98 / 320 kbps\n\n01. Surface (Original Mix) (04:14)",
+  "parsed": {
+    "xt": "urn:btih:3e54c8958556ea90d8e0f20f18494ca6f78c4512",
+    "dn": "Aero Chord &ndash; Surface (2014) [MCS215]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3e54c8958556ea90d8e0f20f18494ca6f78c4512",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        62,
+        84,
+        200,
+        149,
+        133,
+        86,
+        234,
+        144,
+        216,
+        224,
+        242,
+        15,
+        24,
+        73,
+        76,
+        166,
+        247,
+        140,
+        69,
+        18
+      ]
+    },
+    "name": "Aero Chord &ndash; Surface (2014) [MCS215]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 23,
+  "last_updated": "2016-12-24T22:56:26.759Z"
+}

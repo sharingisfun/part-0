@@ -1,1 +1,61 @@
-{"title":"The Americans S01E01 HDTV x264-2HD[ettv]","uid":8085583,"size":398486156,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3e22114b0178a1cd04d8ab5ed87d4b1ba8695b34&amp;dn=The+Americans+S01E01+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":82,"leechers":4,"uploader":"ettv","files":2,"time":1359610434,"description":"SunZero\n!06\n\nRelease Name----- The.Americans.S01E01.HDTV.x264-2HD\nRelease Date----- 2013-01-30\nRelease Size----- 380.0MB\nTime-------- 01:08:06.506\nResolution------- 720x404\nFrame Rate------- 23.976 fps\nVideo Bitrate---- 652Kbps\nVideo Codec------ x264\n----------- 124Kbps\nAudio Codec------ AAC\n","torrent":{"xt":"urn:btih:3e22114b0178a1cd04d8ab5ed87d4b1ba8695b34","amp;dn":"The+Americans+S01E01+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3e22114b0178a1cd04d8ab5ed87d4b1ba8695b34","infoHashBuffer":{"type":"Buffer","data":[62,34,17,75,1,120,161,205,4,216,171,94,216,125,75,27,168,105,91,52]},"announce":[],"urlList":[]}}
+{
+  "title": "The Americans S01E01 HDTV x264-2HD[ettv]",
+  "uid": 8085583,
+  "size": 398486156,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3e22114b0178a1cd04d8ab5ed87d4b1ba8695b34&amp;dn=The+Americans+S01E01+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 82,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1359610434,
+  "description": "SunZero\n!06\n\nRelease Name----- The.Americans.S01E01.HDTV.x264-2HD\nRelease Date----- 2013-01-30\nRelease Size----- 380.0MB\nTime-------- 01:08:06.506\nResolution------- 720x404\nFrame Rate------- 23.976 fps\nVideo Bitrate---- 652Kbps\nVideo Codec------ x264\n----------- 124Kbps\nAudio Codec------ AAC\n",
+  "parsed": {
+    "xt": "urn:btih:3e22114b0178a1cd04d8ab5ed87d4b1ba8695b34",
+    "dn": "The Americans S01E01 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3e22114b0178a1cd04d8ab5ed87d4b1ba8695b34",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        62,
+        34,
+        17,
+        75,
+        1,
+        120,
+        161,
+        205,
+        4,
+        216,
+        171,
+        94,
+        216,
+        125,
+        75,
+        27,
+        168,
+        105,
+        91,
+        52
+      ]
+    },
+    "name": "The Americans S01E01 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 86,
+  "peers": 21,
+  "last_updated": "2016-12-24T22:55:06.492Z"
+}

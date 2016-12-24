@@ -1,1 +1,61 @@
-{"title":"Lulu Santos - Discografia","uid":10723554,"size":1468987122,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3f6431a2feb4c1437fe1fdd8b87412b168139aec&amp;dn=Lulu+Santos+-+Discografia&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":17,"uploader":"apessoavf","files":346,"time":1407520775,"description":"Lulu Santos","torrent":{"xt":"urn:btih:3f6431a2feb4c1437fe1fdd8b87412b168139aec","amp;dn":"Lulu+Santos+-+Discografia","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3f6431a2feb4c1437fe1fdd8b87412b168139aec","infoHashBuffer":{"type":"Buffer","data":[63,100,49,162,254,180,193,67,127,225,253,216,184,116,18,177,104,19,154,236]},"announce":[],"urlList":[]}}
+{
+  "title": "Lulu Santos - Discografia",
+  "uid": 10723554,
+  "size": 1468987122,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3f6431a2feb4c1437fe1fdd8b87412b168139aec&amp;dn=Lulu+Santos+-+Discografia&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 17,
+  "uploader": "apessoavf",
+  "files": 346,
+  "time": 1407520775,
+  "description": "Lulu Santos",
+  "parsed": {
+    "xt": "urn:btih:3f6431a2feb4c1437fe1fdd8b87412b168139aec",
+    "dn": "Lulu Santos - Discografia",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3f6431a2feb4c1437fe1fdd8b87412b168139aec",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        63,
+        100,
+        49,
+        162,
+        254,
+        180,
+        193,
+        67,
+        127,
+        225,
+        253,
+        216,
+        184,
+        116,
+        18,
+        177,
+        104,
+        19,
+        154,
+        236
+      ]
+    },
+    "name": "Lulu Santos - Discografia",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 76,
+  "peers": 180,
+  "last_updated": "2016-12-24T23:03:44.483Z"
+}

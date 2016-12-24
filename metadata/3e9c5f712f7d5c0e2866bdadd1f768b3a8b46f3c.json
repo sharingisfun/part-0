@@ -1,1 +1,61 @@
-{"title":"World of Warcraft: Cataclysm 4.3.4enGB (15595)","uid":8665350,"size":15373693931,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:3e9c5f712f7d5c0e2866bdadd1f768b3a8b46f3c&amp;dn=World+of+Warcraft%3A+Cataclysm+4.3.4enGB+%2815595%29+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":9,"uploader":"feruend","files":-1,"time":1373397365,"description":"Full World of Warcraft: Cataclysm v4.3.4enGB(15595) Clean, no viruses. No install.\n\nFree to play:\n\n","torrent":{"xt":"urn:btih:3e9c5f712f7d5c0e2866bdadd1f768b3a8b46f3c","amp;dn":"World+of+Warcraft%3A+Cataclysm+4.3.4enGB+%2815595%29+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3e9c5f712f7d5c0e2866bdadd1f768b3a8b46f3c","infoHashBuffer":{"type":"Buffer","data":[62,156,95,113,47,125,92,14,40,102,189,173,209,247,104,179,168,180,111,60]},"announce":[],"urlList":[]}}
+{
+  "title": "World of Warcraft: Cataclysm 4.3.4enGB (15595)",
+  "uid": 8665350,
+  "size": 15373693931,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:3e9c5f712f7d5c0e2866bdadd1f768b3a8b46f3c&amp;dn=World+of+Warcraft%3A+Cataclysm+4.3.4enGB+%2815595%29+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 9,
+  "uploader": "feruend",
+  "files": -1,
+  "time": 1373397365,
+  "description": "Full World of Warcraft: Cataclysm v4.3.4enGB(15595) Clean, no viruses. No install.\n\nFree to play:\n\n",
+  "parsed": {
+    "xt": "urn:btih:3e9c5f712f7d5c0e2866bdadd1f768b3a8b46f3c",
+    "dn": "World of Warcraft: Cataclysm 4.3.4enGB (15595) ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3e9c5f712f7d5c0e2866bdadd1f768b3a8b46f3c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        62,
+        156,
+        95,
+        113,
+        47,
+        125,
+        92,
+        14,
+        40,
+        102,
+        189,
+        173,
+        209,
+        247,
+        104,
+        179,
+        168,
+        180,
+        111,
+        60
+      ]
+    },
+    "name": "World of Warcraft: Cataclysm 4.3.4enGB (15595) ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 9,
+  "last_updated": "2016-12-24T22:59:01.256Z"
+}

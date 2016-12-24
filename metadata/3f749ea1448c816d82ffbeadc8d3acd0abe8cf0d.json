@@ -1,1 +1,61 @@
-{"title":"The 100 S01E09 HDTV x264-LOL[ettv]","uid":10153649,"size":367307254,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3f749ea1448c816d82ffbeadc8d3acd0abe8cf0d&amp;dn=The+100+S01E09+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":92,"leechers":7,"uploader":"ettv","files":2,"time":1400129412,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:3f749ea1448c816d82ffbeadc8d3acd0abe8cf0d","amp;dn":"The+100+S01E09+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3f749ea1448c816d82ffbeadc8d3acd0abe8cf0d","infoHashBuffer":{"type":"Buffer","data":[63,116,158,161,68,140,129,109,130,255,190,173,200,211,172,208,171,232,207,13]},"announce":[],"urlList":[]}}
+{
+  "title": "The 100 S01E09 HDTV x264-LOL[ettv]",
+  "uid": 10153649,
+  "size": 367307254,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3f749ea1448c816d82ffbeadc8d3acd0abe8cf0d&amp;dn=The+100+S01E09+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 92,
+  "leechers": 7,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1400129412,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:3f749ea1448c816d82ffbeadc8d3acd0abe8cf0d",
+    "dn": "The 100 S01E09 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3f749ea1448c816d82ffbeadc8d3acd0abe8cf0d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        63,
+        116,
+        158,
+        161,
+        68,
+        140,
+        129,
+        109,
+        130,
+        255,
+        190,
+        173,
+        200,
+        211,
+        172,
+        208,
+        171,
+        232,
+        207,
+        13
+      ]
+    },
+    "name": "The 100 S01E09 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 99,
+  "peers": 30,
+  "last_updated": "2016-12-24T23:04:12.582Z"
+}

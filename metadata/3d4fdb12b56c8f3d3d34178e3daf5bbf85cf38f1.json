@@ -1,1 +1,61 @@
-{"title":"Top Gear 22x02 HDTV x264-FoV[ettv]","uid":11675322,"size":671696173,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3d4fdb12b56c8f3d3d34178e3daf5bbf85cf38f1&amp;dn=Top+Gear+22x02+HDTV+x264-FoV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":158,"leechers":5,"uploader":"ettv","files":3,"time":1422831140,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:3d4fdb12b56c8f3d3d34178e3daf5bbf85cf38f1","amp;dn":"Top+Gear+22x02+HDTV+x264-FoV%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3d4fdb12b56c8f3d3d34178e3daf5bbf85cf38f1","infoHashBuffer":{"type":"Buffer","data":[61,79,219,18,181,108,143,61,61,52,23,142,61,175,91,191,133,207,56,241]},"announce":[],"urlList":[]}}
+{
+  "title": "Top Gear 22x02 HDTV x264-FoV[ettv]",
+  "uid": 11675322,
+  "size": 671696173,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3d4fdb12b56c8f3d3d34178e3daf5bbf85cf38f1&amp;dn=Top+Gear+22x02+HDTV+x264-FoV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 158,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1422831140,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:3d4fdb12b56c8f3d3d34178e3daf5bbf85cf38f1",
+    "dn": "Top Gear 22x02 HDTV x264-FoV[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3d4fdb12b56c8f3d3d34178e3daf5bbf85cf38f1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        61,
+        79,
+        219,
+        18,
+        181,
+        108,
+        143,
+        61,
+        61,
+        52,
+        23,
+        142,
+        61,
+        175,
+        91,
+        191,
+        133,
+        207,
+        56,
+        241
+      ]
+    },
+    "name": "Top Gear 22x02 HDTV x264-FoV[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 163,
+  "peers": 26,
+  "last_updated": "2016-12-24T22:49:39.299Z"
+}

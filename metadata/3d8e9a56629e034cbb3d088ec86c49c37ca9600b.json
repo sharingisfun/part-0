@@ -1,1 +1,61 @@
-{"title":"Mickey Mouse Clubhouse Collection","uid":11281222,"size":4612746956,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3d8e9a56629e034cbb3d088ec86c49c37ca9600b&amp;dn=Mickey+Mouse+Clubhouse+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":9,"uploader":"flyinbob2","files":-1,"time":1414217574,"description":"12 Random episodes of Mickey Mouse Clubhouse to keep your little ones entertained, all excelent quality. Enjoy, and seed for the kids!","torrent":{"xt":"urn:btih:3d8e9a56629e034cbb3d088ec86c49c37ca9600b","amp;dn":"Mickey+Mouse+Clubhouse+Collection","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3d8e9a56629e034cbb3d088ec86c49c37ca9600b","infoHashBuffer":{"type":"Buffer","data":[61,142,154,86,98,158,3,76,187,61,8,142,200,108,73,195,124,169,96,11]},"announce":[],"urlList":[]}}
+{
+  "title": "Mickey Mouse Clubhouse Collection",
+  "uid": 11281222,
+  "size": 4612746956,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3d8e9a56629e034cbb3d088ec86c49c37ca9600b&amp;dn=Mickey+Mouse+Clubhouse+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 9,
+  "uploader": "flyinbob2",
+  "files": -1,
+  "time": 1414217574,
+  "description": "12 Random episodes of Mickey Mouse Clubhouse to keep your little ones entertained, all excelent quality. Enjoy, and seed for the kids!",
+  "parsed": {
+    "xt": "urn:btih:3d8e9a56629e034cbb3d088ec86c49c37ca9600b",
+    "dn": "Mickey Mouse Clubhouse Collection",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3d8e9a56629e034cbb3d088ec86c49c37ca9600b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        61,
+        142,
+        154,
+        86,
+        98,
+        158,
+        3,
+        76,
+        187,
+        61,
+        8,
+        142,
+        200,
+        108,
+        73,
+        195,
+        124,
+        169,
+        96,
+        11
+      ]
+    },
+    "name": "Mickey Mouse Clubhouse Collection",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 169,
+  "last_updated": "2016-12-24T22:51:07.629Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Juego de Tronos 4x09 - Castellano MP4","uid":10364082,"size":292550862,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:3f044fb8ee06943bbf4b009e0994814f5f430e54&amp;dn=Juego+de+Tronos+4x09+-+Castellano+MP4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":144,"leechers":5,"uploader":null,"files":1,"time":1402853864,"description":"Temporada 4\nCapitulo 9\n\nFormato: MP4\nTamaÃƒÂ±o: 250Mb","torrent":{"xt":"urn:btih:3f044fb8ee06943bbf4b009e0994814f5f430e54","amp;dn":"Juego+de+Tronos+4x09+-+Castellano+MP4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3f044fb8ee06943bbf4b009e0994814f5f430e54","infoHashBuffer":{"type":"Buffer","data":[63,4,79,184,238,6,148,59,191,75,0,158,9,148,129,79,95,67,14,84]},"announce":[],"urlList":[]}}
+{
+  "title": "Juego de Tronos 4x09 - Castellano MP4",
+  "uid": 10364082,
+  "size": 292550862,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:3f044fb8ee06943bbf4b009e0994814f5f430e54&amp;dn=Juego+de+Tronos+4x09+-+Castellano+MP4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 144,
+  "leechers": 5,
+  "uploader": null,
+  "files": 1,
+  "time": 1402853864,
+  "description": "Temporada 4\nCapitulo 9\n\nFormato: MP4\nTamaÃƒÂ±o: 250Mb",
+  "parsed": {
+    "xt": "urn:btih:3f044fb8ee06943bbf4b009e0994814f5f430e54",
+    "dn": "Juego de Tronos 4x09 - Castellano MP4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3f044fb8ee06943bbf4b009e0994814f5f430e54",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        63,
+        4,
+        79,
+        184,
+        238,
+        6,
+        148,
+        59,
+        191,
+        75,
+        0,
+        158,
+        9,
+        148,
+        129,
+        79,
+        95,
+        67,
+        14,
+        84
+      ]
+    },
+    "name": "Juego de Tronos 4x09 - Castellano MP4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 149,
+  "peers": 2,
+  "last_updated": "2016-12-24T23:01:57.973Z"
+}

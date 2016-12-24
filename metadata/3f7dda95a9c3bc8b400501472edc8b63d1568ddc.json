@@ -1,1 +1,61 @@
-{"title":"Coldplay-Ghost_Stories-(Deluxe_Edition)-2014-MTD","uid":10356796,"size":89607528,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:3f7dda95a9c3bc8b400501472edc8b63d1568ddc&amp;dn=Coldplay-Ghost_Stories-%28Deluxe_Edition%29-2014-MTD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":2,"uploader":"phcm4a","files":-1,"time":1402707536,"description":"Artist : Coldplay\nAlbum : Ghost Stories\nLabel : Atlantic\nGenre : Rock\nStreet Date : 2014-00-00\nQuality : 240 kbps / 44.1kHz / Joint Stereo\nEncoder : Lame 3.98.4 -V0\nSize : 89.33 MB\nTime : 49:40 min\nUrl : http://www.coldplay.com/\n\nTracks\n\n1. Always In My Head 3:36\n2. Magic 4:45\n3. Ink 3:48\n4. True Love 4:06\n5. Midnight 4:54\n6. Anothers Arms 3:54\n7. Oceans 5:21\n8. A Sky Full Of Stars 4:28\n9. O 5:23\n10. All Your Friends 3:31\n11. Ghost Story 4:17\n12. O (Reprise) 1:37","torrent":{"xt":"urn:btih:3f7dda95a9c3bc8b400501472edc8b63d1568ddc","amp;dn":"Coldplay-Ghost_Stories-%28Deluxe_Edition%29-2014-MTD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"3f7dda95a9c3bc8b400501472edc8b63d1568ddc","infoHashBuffer":{"type":"Buffer","data":[63,125,218,149,169,195,188,139,64,5,1,71,46,220,139,99,209,86,141,220]},"announce":[],"urlList":[]}}
+{
+  "title": "Coldplay-Ghost_Stories-(Deluxe_Edition)-2014-MTD",
+  "uid": 10356796,
+  "size": 89607528,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:3f7dda95a9c3bc8b400501472edc8b63d1568ddc&amp;dn=Coldplay-Ghost_Stories-%28Deluxe_Edition%29-2014-MTD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 2,
+  "uploader": "phcm4a",
+  "files": -1,
+  "time": 1402707536,
+  "description": "Artist : Coldplay\nAlbum : Ghost Stories\nLabel : Atlantic\nGenre : Rock\nStreet Date : 2014-00-00\nQuality : 240 kbps / 44.1kHz / Joint Stereo\nEncoder : Lame 3.98.4 -V0\nSize : 89.33 MB\nTime : 49:40 min\nUrl : http://www.coldplay.com/\n\nTracks\n\n1. Always In My Head 3:36\n2. Magic 4:45\n3. Ink 3:48\n4. True Love 4:06\n5. Midnight 4:54\n6. Anothers Arms 3:54\n7. Oceans 5:21\n8. A Sky Full Of Stars 4:28\n9. O 5:23\n10. All Your Friends 3:31\n11. Ghost Story 4:17\n12. O (Reprise) 1:37",
+  "parsed": {
+    "xt": "urn:btih:3f7dda95a9c3bc8b400501472edc8b63d1568ddc",
+    "dn": "Coldplay-Ghost_Stories-(Deluxe_Edition)-2014-MTD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "3f7dda95a9c3bc8b400501472edc8b63d1568ddc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        63,
+        125,
+        218,
+        149,
+        169,
+        195,
+        188,
+        139,
+        64,
+        5,
+        1,
+        71,
+        46,
+        220,
+        139,
+        99,
+        209,
+        86,
+        141,
+        220
+      ]
+    },
+    "name": "Coldplay-Ghost_Stories-(Deluxe_Edition)-2014-MTD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 10,
+  "last_updated": "2016-12-24T23:04:24.619Z"
+}
