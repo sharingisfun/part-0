@@ -1,1 +1,61 @@
-{"title":"Klangkarussell - Sonnentanz (Single)","uid":7782852,"size":15064081,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2609a9d6cf1f6ee67c1cfc6a1db416660146e3e7&amp;dn=Klangkarussell+-+Sonnentanz+%28Single%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":0,"uploader":"AmericanRZ0479","files":1,"time":1351814960,"description":"Download, comment and seed!!\n320 Kbps :)","torrent":{"xt":"urn:btih:2609a9d6cf1f6ee67c1cfc6a1db416660146e3e7","amp;dn":"Klangkarussell+-+Sonnentanz+%28Single%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2609a9d6cf1f6ee67c1cfc6a1db416660146e3e7","infoHashBuffer":{"type":"Buffer","data":[38,9,169,214,207,31,110,230,124,28,252,106,29,180,22,102,1,70,227,231]},"announce":[],"urlList":[]}}
+{
+  "title": "Klangkarussell - Sonnentanz (Single)",
+  "uid": 7782852,
+  "size": 15064081,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2609a9d6cf1f6ee67c1cfc6a1db416660146e3e7&amp;dn=Klangkarussell+-+Sonnentanz+%28Single%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 0,
+  "uploader": "AmericanRZ0479",
+  "files": 1,
+  "time": 1351814960,
+  "description": "Download, comment and seed!!\n320 Kbps :)",
+  "parsed": {
+    "xt": "urn:btih:2609a9d6cf1f6ee67c1cfc6a1db416660146e3e7",
+    "dn": "Klangkarussell - Sonnentanz (Single)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2609a9d6cf1f6ee67c1cfc6a1db416660146e3e7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        38,
+        9,
+        169,
+        214,
+        207,
+        31,
+        110,
+        230,
+        124,
+        28,
+        252,
+        106,
+        29,
+        180,
+        22,
+        102,
+        1,
+        70,
+        227,
+        231
+      ]
+    },
+    "name": "Klangkarussell - Sonnentanz (Single)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 12,
+  "last_updated": "2016-12-24T20:07:02.783Z"
+}

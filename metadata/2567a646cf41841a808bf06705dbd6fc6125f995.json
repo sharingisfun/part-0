@@ -1,1 +1,61 @@
-{"title":"Orange is the New Black S03E10 720p WEBRip DD5.1 x264-SNEAkY","uid":12015938,"size":1675025848,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:2567a646cf41841a808bf06705dbd6fc6125f995&amp;dn=Orange+is+the+New+Black+S03E10+720p+WEBRip+DD5.1+x264-SNEAkY&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":2,"uploader":"OvoJeKraj","files":2,"time":1434313580,"description":"Duration: 00:58:34\nResolution: 1280x720\nBitrate: 3097 kbps\nFramerate: 23.976 FPS\n\nFormat: AC-3\nBitrate: 640 kbps\nChannel(s): 6","torrent":{"xt":"urn:btih:2567a646cf41841a808bf06705dbd6fc6125f995","amp;dn":"Orange+is+the+New+Black+S03E10+720p+WEBRip+DD5.1+x264-SNEAkY","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2567a646cf41841a808bf06705dbd6fc6125f995","infoHashBuffer":{"type":"Buffer","data":[37,103,166,70,207,65,132,26,128,139,240,103,5,219,214,252,97,37,249,149]},"announce":[],"urlList":[]}}
+{
+  "title": "Orange is the New Black S03E10 720p WEBRip DD5.1 x264-SNEAkY",
+  "uid": 12015938,
+  "size": 1675025848,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:2567a646cf41841a808bf06705dbd6fc6125f995&amp;dn=Orange+is+the+New+Black+S03E10+720p+WEBRip+DD5.1+x264-SNEAkY&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 2,
+  "uploader": "OvoJeKraj",
+  "files": 2,
+  "time": 1434313580,
+  "description": "Duration: 00:58:34\nResolution: 1280x720\nBitrate: 3097 kbps\nFramerate: 23.976 FPS\n\nFormat: AC-3\nBitrate: 640 kbps\nChannel(s): 6",
+  "parsed": {
+    "xt": "urn:btih:2567a646cf41841a808bf06705dbd6fc6125f995",
+    "dn": "Orange is the New Black S03E10 720p WEBRip DD5.1 x264-SNEAkY",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2567a646cf41841a808bf06705dbd6fc6125f995",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        37,
+        103,
+        166,
+        70,
+        207,
+        65,
+        132,
+        26,
+        128,
+        139,
+        240,
+        103,
+        5,
+        219,
+        214,
+        252,
+        97,
+        37,
+        249,
+        149
+      ]
+    },
+    "name": "Orange is the New Black S03E10 720p WEBRip DD5.1 x264-SNEAkY",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 7,
+  "last_updated": "2016-12-24T20:02:09.787Z"
+}

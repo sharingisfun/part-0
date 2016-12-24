@@ -1,1 +1,61 @@
-{"title":"House.of.Cards.S03.720p.WEBRip.DD5.1.x264-FGT","uid":11727577,"size":11641309782,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:2598a47ba55d2b66ee32b373b232b260c02ad8ad&amp;dn=House.of.Cards.S03.720p.WEBRip.DD5.1.x264-FGT&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":230,"leechers":72,"uploader":"CrAGRG","files":14,"time":1425140770,"description":"Cover:\n &lt;a href=&quot;\nhttp://i.imgur.com/NfUisTs.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/NfUisTs.jpg&lt;/a&gt;\n &lt;a href=&quot;\nhttp://www.imdb.com/title/tt1856010/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt1856010/&lt;/a&gt;\n\nInFO:\n &lt;a href=&quot;\nhttp://www.moviemart.org/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.moviemart.org/&lt;/a&gt;","torrent":{"xt":"urn:btih:2598a47ba55d2b66ee32b373b232b260c02ad8ad","amp;dn":"House.of.Cards.S03.720p.WEBRip.DD5.1.x264-FGT","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2598a47ba55d2b66ee32b373b232b260c02ad8ad","infoHashBuffer":{"type":"Buffer","data":[37,152,164,123,165,93,43,102,238,50,179,115,178,50,178,96,192,42,216,173]},"announce":[],"urlList":[]}}
+{
+  "title": "House.of.Cards.S03.720p.WEBRip.DD5.1.x264-FGT",
+  "uid": 11727577,
+  "size": 11641309782,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:2598a47ba55d2b66ee32b373b232b260c02ad8ad&amp;dn=House.of.Cards.S03.720p.WEBRip.DD5.1.x264-FGT&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 230,
+  "leechers": 72,
+  "uploader": "CrAGRG",
+  "files": 14,
+  "time": 1425140770,
+  "description": "Cover:\n &lt;a href=&quot;\nhttp://i.imgur.com/NfUisTs.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/NfUisTs.jpg&lt;/a&gt;\n &lt;a href=&quot;\nhttp://www.imdb.com/title/tt1856010/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt1856010/&lt;/a&gt;\n\nInFO:\n &lt;a href=&quot;\nhttp://www.moviemart.org/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.moviemart.org/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:2598a47ba55d2b66ee32b373b232b260c02ad8ad",
+    "dn": "House.of.Cards.S03.720p.WEBRip.DD5.1.x264-FGT",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2598a47ba55d2b66ee32b373b232b260c02ad8ad",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        37,
+        152,
+        164,
+        123,
+        165,
+        93,
+        43,
+        102,
+        238,
+        50,
+        179,
+        115,
+        178,
+        50,
+        178,
+        96,
+        192,
+        42,
+        216,
+        173
+      ]
+    },
+    "name": "House.of.Cards.S03.720p.WEBRip.DD5.1.x264-FGT",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 302,
+  "peers": 141,
+  "last_updated": "2016-12-24T20:03:26.031Z"
+}

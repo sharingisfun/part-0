@@ -1,1 +1,61 @@
-{"title":"Little dragon - Little dragon [2007]","uid":3836636,"size":58563045,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:2602ec7acca8edbb1be75e137defcc02804c1f77&amp;dn=Little+dragon+-+Little+dragon+%5B2007%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":3,"uploader":"skengravid","files":12,"time":1191977133,"description":"1. Twice  \n2. Turn Left  \n3. No Love  \n4. Recommendation  \n5. Constant Surprises  \n6. Forever  \n7. After The Rain  \n8. Place To Belong  \n9. Stormy Weather  \n10. Test  \n11. Wink  \n12. Scribbled Paper \n\n50:33 min\nvbr","torrent":{"xt":"urn:btih:2602ec7acca8edbb1be75e137defcc02804c1f77","amp;dn":"Little+dragon+-+Little+dragon+%5B2007%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2602ec7acca8edbb1be75e137defcc02804c1f77","infoHashBuffer":{"type":"Buffer","data":[38,2,236,122,204,168,237,187,27,231,94,19,125,239,204,2,128,76,31,119]},"announce":[],"urlList":[]}}
+{
+  "title": "Little dragon - Little dragon [2007]",
+  "uid": 3836636,
+  "size": 58563045,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:2602ec7acca8edbb1be75e137defcc02804c1f77&amp;dn=Little+dragon+-+Little+dragon+%5B2007%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 3,
+  "uploader": "skengravid",
+  "files": 12,
+  "time": 1191977133,
+  "description": "1. Twice  \n2. Turn Left  \n3. No Love  \n4. Recommendation  \n5. Constant Surprises  \n6. Forever  \n7. After The Rain  \n8. Place To Belong  \n9. Stormy Weather  \n10. Test  \n11. Wink  \n12. Scribbled Paper \n\n50:33 min\nvbr",
+  "parsed": {
+    "xt": "urn:btih:2602ec7acca8edbb1be75e137defcc02804c1f77",
+    "dn": "Little dragon - Little dragon [2007]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2602ec7acca8edbb1be75e137defcc02804c1f77",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        38,
+        2,
+        236,
+        122,
+        204,
+        168,
+        237,
+        187,
+        27,
+        231,
+        94,
+        19,
+        125,
+        239,
+        204,
+        2,
+        128,
+        76,
+        31,
+        119
+      ]
+    },
+    "name": "Little dragon - Little dragon [2007]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 11,
+  "last_updated": "2016-12-24T20:06:42.726Z"
+}

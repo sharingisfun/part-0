@@ -1,1 +1,61 @@
-{"title":"Sheppard - Bombs Away (2014)","uid":10552151,"size":99942860,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:270226a31722b60ba7e123dee9bec58153997b66&amp;dn=Sheppard+-+Bombs+Away+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":6,"uploader":"santicaz","files":12,"time":1405345774,"description":"Artist: Sheppard\nTitle Of Album: Bombs Away\nYear Of Release: 2014\nGenre: Indie Rock\nQuality: MP3\nBitrate: 320 kbps\nTotal Time: 41:03\nTotal Size: 95.3 mb\n\nTracklist:\n\n01. Sheppard - Geronimo (03:39)\n02. Sheppard - Something's Missing (02:52)\n03. Sheppard - Let Me Down Easy (03:48)\n04. Sheppard - These People (03:21)\n05. Sheppard - A Grade Playa (03:39)\n06. Sheppard - Smile (03:51)\n07. Sheppard - The Best Is Yet To Come (04:06)\n08. Sheppard - This Electric Feeling (04:03)\n09. Sheppard - Find Someone (03:09)\n10. Sheppard - Lingering (03:53)\n11. Sheppard - Halfway To Hell (04:42)","torrent":{"xt":"urn:btih:270226a31722b60ba7e123dee9bec58153997b66","amp;dn":"Sheppard+-+Bombs+Away+%282014%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"270226a31722b60ba7e123dee9bec58153997b66","infoHashBuffer":{"type":"Buffer","data":[39,2,38,163,23,34,182,11,167,225,35,222,233,190,197,129,83,153,123,102]},"announce":[],"urlList":[]}}
+{
+  "title": "Sheppard - Bombs Away (2014)",
+  "uid": 10552151,
+  "size": 99942860,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:270226a31722b60ba7e123dee9bec58153997b66&amp;dn=Sheppard+-+Bombs+Away+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 6,
+  "uploader": "santicaz",
+  "files": 12,
+  "time": 1405345774,
+  "description": "Artist: Sheppard\nTitle Of Album: Bombs Away\nYear Of Release: 2014\nGenre: Indie Rock\nQuality: MP3\nBitrate: 320 kbps\nTotal Time: 41:03\nTotal Size: 95.3 mb\n\nTracklist:\n\n01. Sheppard - Geronimo (03:39)\n02. Sheppard - Something's Missing (02:52)\n03. Sheppard - Let Me Down Easy (03:48)\n04. Sheppard - These People (03:21)\n05. Sheppard - A Grade Playa (03:39)\n06. Sheppard - Smile (03:51)\n07. Sheppard - The Best Is Yet To Come (04:06)\n08. Sheppard - This Electric Feeling (04:03)\n09. Sheppard - Find Someone (03:09)\n10. Sheppard - Lingering (03:53)\n11. Sheppard - Halfway To Hell (04:42)",
+  "parsed": {
+    "xt": "urn:btih:270226a31722b60ba7e123dee9bec58153997b66",
+    "dn": "Sheppard - Bombs Away (2014)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "270226a31722b60ba7e123dee9bec58153997b66",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        39,
+        2,
+        38,
+        163,
+        23,
+        34,
+        182,
+        11,
+        167,
+        225,
+        35,
+        222,
+        233,
+        190,
+        197,
+        129,
+        83,
+        153,
+        123,
+        102
+      ]
+    },
+    "name": "Sheppard - Bombs Away (2014)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 85,
+  "peers": 24,
+  "last_updated": "2016-12-24T20:14:10.507Z"
+}

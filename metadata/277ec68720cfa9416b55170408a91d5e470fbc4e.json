@@ -1,1 +1,61 @@
-{"title":"ZHU &amp;ndash; Faded [iTunes Plus AAC M4A]","uid":10642456,"size":7941757,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:277ec68720cfa9416b55170408a91d5e470fbc4e&amp;dn=ZHU+%26ndash%3B+Faded+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":1,"uploader":"Music_Blitz","files":-1,"time":1406492452,"description":"ZHU Ã¢â‚¬â€œ Faded [iTunes Plus AAC M4A]\n\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes \nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Friday 25th July 2014","torrent":{"xt":"urn:btih:277ec68720cfa9416b55170408a91d5e470fbc4e","amp;dn":"ZHU+%26ndash%3B+Faded+%5BiTunes+Plus+AAC+M4A%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"277ec68720cfa9416b55170408a91d5e470fbc4e","infoHashBuffer":{"type":"Buffer","data":[39,126,198,135,32,207,169,65,107,85,23,4,8,169,29,94,71,15,188,78]},"announce":[],"urlList":[]}}
+{
+  "title": "ZHU &amp;ndash; Faded [iTunes Plus AAC M4A]",
+  "uid": 10642456,
+  "size": 7941757,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:277ec68720cfa9416b55170408a91d5e470fbc4e&amp;dn=ZHU+%26ndash%3B+Faded+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 1,
+  "uploader": "Music_Blitz",
+  "files": -1,
+  "time": 1406492452,
+  "description": "ZHU Ã¢â‚¬â€œ Faded [iTunes Plus AAC M4A]\n\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes \nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Friday 25th July 2014",
+  "parsed": {
+    "xt": "urn:btih:277ec68720cfa9416b55170408a91d5e470fbc4e",
+    "dn": "ZHU &ndash; Faded [iTunes Plus AAC M4A]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "277ec68720cfa9416b55170408a91d5e470fbc4e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        39,
+        126,
+        198,
+        135,
+        32,
+        207,
+        169,
+        65,
+        107,
+        85,
+        23,
+        4,
+        8,
+        169,
+        29,
+        94,
+        71,
+        15,
+        188,
+        78
+      ]
+    },
+    "name": "ZHU &ndash; Faded [iTunes Plus AAC M4A]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 21,
+  "last_updated": "2016-12-24T20:18:03.309Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Demi Lovato - Give Your Heart A Break","uid":7374084,"size":8293530,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:26c0e56d7cb9c7fd6a9fad6c0851f0ecf59acf24&amp;dn=Demi+Lovato+-+Give+Your+Heart+A+Break&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":77,"leechers":0,"uploader":"Tuffnut","files":-1,"time":1340312125,"description":"Demi Lovato - Give Your Heart A Break\n\n\nArtist: Demi Lovato\nAlbum: Give Your Heart A Break\nGenre: Pop\nYear: 2012\nBitrate: 320 Kbps\n\n--------------------------------\n!!! Download, Seed and Enjoy !!!\n--------------------------------","torrent":{"xt":"urn:btih:26c0e56d7cb9c7fd6a9fad6c0851f0ecf59acf24","amp;dn":"Demi+Lovato+-+Give+Your+Heart+A+Break","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"26c0e56d7cb9c7fd6a9fad6c0851f0ecf59acf24","infoHashBuffer":{"type":"Buffer","data":[38,192,229,109,124,185,199,253,106,159,173,108,8,81,240,236,245,154,207,36]},"announce":[],"urlList":[]}}
+{
+  "title": "Demi Lovato - Give Your Heart A Break",
+  "uid": 7374084,
+  "size": 8293530,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:26c0e56d7cb9c7fd6a9fad6c0851f0ecf59acf24&amp;dn=Demi+Lovato+-+Give+Your+Heart+A+Break&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 77,
+  "leechers": 0,
+  "uploader": "Tuffnut",
+  "files": -1,
+  "time": 1340312125,
+  "description": "Demi Lovato - Give Your Heart A Break\n\n\nArtist: Demi Lovato\nAlbum: Give Your Heart A Break\nGenre: Pop\nYear: 2012\nBitrate: 320 Kbps\n\n--------------------------------\n!!! Download, Seed and Enjoy !!!\n--------------------------------",
+  "parsed": {
+    "xt": "urn:btih:26c0e56d7cb9c7fd6a9fad6c0851f0ecf59acf24",
+    "dn": "Demi Lovato - Give Your Heart A Break",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "26c0e56d7cb9c7fd6a9fad6c0851f0ecf59acf24",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        38,
+        192,
+        229,
+        109,
+        124,
+        185,
+        199,
+        253,
+        106,
+        159,
+        173,
+        108,
+        8,
+        81,
+        240,
+        236,
+        245,
+        154,
+        207,
+        36
+      ]
+    },
+    "name": "Demi Lovato - Give Your Heart A Break",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 77,
+  "peers": 50,
+  "last_updated": "2016-12-24T20:12:12.033Z"
+}

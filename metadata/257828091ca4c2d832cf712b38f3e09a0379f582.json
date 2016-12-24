@@ -1,1 +1,61 @@
-{"title":"BeamNG.drive v0.4.0.3","uid":11988802,"size":1859913328,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:257828091ca4c2d832cf712b38f3e09a0379f582&amp;dn=BeamNG.drive+v0.4.0.3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":82,"leechers":5,"uploader":"dauphong","files":1,"time":1433441159,"description":"About This Game\nBeamNG.drive is a realistic, immersive driving game offering near-limitless possibilities. Our soft-body physics engine simulates every component of a vehicle in real time, resulting in realistic, dynamic behavior.\nThe driving feel is authentic and visceral, and crashes are realistic and violent; yet the physics are accessible enough to drive with a keyboard or gamepad while still being authentic with a full racing wheel with uncompromising realism.\n\nEnvironments and vehicles in BeamNG.drive are hand-crafted with passionate attention to detail. With years of meticulous design, research, and experience, we authentically recreate the feeling and excitement of real world driving.\n\nWe are a small team from around the world with no obligations to publishers or outside interests. Our users and modding community are our first priority. Help us make BeamNG.drive the ultimate driving experience and discover what an open and uncompromising soft-body vehicle simulator can be","torrent":{"xt":"urn:btih:257828091ca4c2d832cf712b38f3e09a0379f582","amp;dn":"BeamNG.drive+v0.4.0.3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"257828091ca4c2d832cf712b38f3e09a0379f582","infoHashBuffer":{"type":"Buffer","data":[37,120,40,9,28,164,194,216,50,207,113,43,56,243,224,154,3,121,245,130]},"announce":[],"urlList":[]}}
+{
+  "title": "BeamNG.drive v0.4.0.3",
+  "uid": 11988802,
+  "size": 1859913328,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:257828091ca4c2d832cf712b38f3e09a0379f582&amp;dn=BeamNG.drive+v0.4.0.3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 82,
+  "leechers": 5,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1433441159,
+  "description": "About This Game\nBeamNG.drive is a realistic, immersive driving game offering near-limitless possibilities. Our soft-body physics engine simulates every component of a vehicle in real time, resulting in realistic, dynamic behavior.\nThe driving feel is authentic and visceral, and crashes are realistic and violent; yet the physics are accessible enough to drive with a keyboard or gamepad while still being authentic with a full racing wheel with uncompromising realism.\n\nEnvironments and vehicles in BeamNG.drive are hand-crafted with passionate attention to detail. With years of meticulous design, research, and experience, we authentically recreate the feeling and excitement of real world driving.\n\nWe are a small team from around the world with no obligations to publishers or outside interests. Our users and modding community are our first priority. Help us make BeamNG.drive the ultimate driving experience and discover what an open and uncompromising soft-body vehicle simulator can be",
+  "parsed": {
+    "xt": "urn:btih:257828091ca4c2d832cf712b38f3e09a0379f582",
+    "dn": "BeamNG.drive v0.4.0.3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "257828091ca4c2d832cf712b38f3e09a0379f582",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        37,
+        120,
+        40,
+        9,
+        28,
+        164,
+        194,
+        216,
+        50,
+        207,
+        113,
+        43,
+        56,
+        243,
+        224,
+        154,
+        3,
+        121,
+        245,
+        130
+      ]
+    },
+    "name": "BeamNG.drive v0.4.0.3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 87,
+  "peers": 25,
+  "last_updated": "2016-12-24T20:02:29.859Z"
+}

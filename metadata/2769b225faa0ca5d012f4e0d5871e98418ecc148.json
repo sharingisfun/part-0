@@ -1,1 +1,61 @@
-{"title":"The Walking Dead 134 (2014) (Digital) (Zone-Empire).cbr","uid":11442681,"size":45103895,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:2769b225faa0ca5d012f4e0d5871e98418ecc148&amp;dn=The+Walking+Dead+134+%282014%29+%28Digital%29+%28Zone-Empire%29.cbr&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":130,"leechers":1,"uploader":"nemesis43","files":1,"time":1415825495,"description":"The Walking Dead 134 (2014) (Digital) (Zone-Empire)","torrent":{"xt":"urn:btih:2769b225faa0ca5d012f4e0d5871e98418ecc148","amp;dn":"The+Walking+Dead+134+%282014%29+%28Digital%29+%28Zone-Empire%29.cbr","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2769b225faa0ca5d012f4e0d5871e98418ecc148","infoHashBuffer":{"type":"Buffer","data":[39,105,178,37,250,160,202,93,1,47,78,13,88,113,233,132,24,236,193,72]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead 134 (2014) (Digital) (Zone-Empire).cbr",
+  "uid": 11442681,
+  "size": 45103895,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:2769b225faa0ca5d012f4e0d5871e98418ecc148&amp;dn=The+Walking+Dead+134+%282014%29+%28Digital%29+%28Zone-Empire%29.cbr&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 130,
+  "leechers": 1,
+  "uploader": "nemesis43",
+  "files": 1,
+  "time": 1415825495,
+  "description": "The Walking Dead 134 (2014) (Digital) (Zone-Empire)",
+  "parsed": {
+    "xt": "urn:btih:2769b225faa0ca5d012f4e0d5871e98418ecc148",
+    "dn": "The Walking Dead 134 (2014) (Digital) (Zone-Empire).cbr",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2769b225faa0ca5d012f4e0d5871e98418ecc148",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        39,
+        105,
+        178,
+        37,
+        250,
+        160,
+        202,
+        93,
+        1,
+        47,
+        78,
+        13,
+        88,
+        113,
+        233,
+        132,
+        24,
+        236,
+        193,
+        72
+      ]
+    },
+    "name": "The Walking Dead 134 (2014) (Digital) (Zone-Empire).cbr",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 131,
+  "peers": 14,
+  "last_updated": "2016-12-24T20:17:21.177Z"
+}

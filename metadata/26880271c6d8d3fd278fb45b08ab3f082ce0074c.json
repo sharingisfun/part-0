@@ -1,1 +1,61 @@
-{"title":"Paranormal Witness S04E02 Nightmare on Chestnut Street HDTV x264","uid":12338432,"size":212783045,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:26880271c6d8d3fd278fb45b08ab3f082ce0074c&amp;dn=Paranormal+Witness+S04E02+Nightmare+on+Chestnut+Street+HDTV+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":2,"uploader":"LegendET","files":2,"time":1441273818,"description":"Video\nFormat: AVC\nWidth: 720 pixels\nHeight: 404 pixels\nAudio\nFormat: AAC\nBit rate: Variable\nSource: 720p DHD","torrent":{"xt":"urn:btih:26880271c6d8d3fd278fb45b08ab3f082ce0074c","amp;dn":"Paranormal+Witness+S04E02+Nightmare+on+Chestnut+Street+HDTV+x264","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"26880271c6d8d3fd278fb45b08ab3f082ce0074c","infoHashBuffer":{"type":"Buffer","data":[38,136,2,113,198,216,211,253,39,143,180,91,8,171,63,8,44,224,7,76]},"announce":[],"urlList":[]}}
+{
+  "title": "Paranormal Witness S04E02 Nightmare on Chestnut Street HDTV x264",
+  "uid": 12338432,
+  "size": 212783045,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:26880271c6d8d3fd278fb45b08ab3f082ce0074c&amp;dn=Paranormal+Witness+S04E02+Nightmare+on+Chestnut+Street+HDTV+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 2,
+  "uploader": "LegendET",
+  "files": 2,
+  "time": 1441273818,
+  "description": "Video\nFormat: AVC\nWidth: 720 pixels\nHeight: 404 pixels\nAudio\nFormat: AAC\nBit rate: Variable\nSource: 720p DHD",
+  "parsed": {
+    "xt": "urn:btih:26880271c6d8d3fd278fb45b08ab3f082ce0074c",
+    "dn": "Paranormal Witness S04E02 Nightmare on Chestnut Street HDTV x264",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "26880271c6d8d3fd278fb45b08ab3f082ce0074c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        38,
+        136,
+        2,
+        113,
+        198,
+        216,
+        211,
+        253,
+        39,
+        143,
+        180,
+        91,
+        8,
+        171,
+        63,
+        8,
+        44,
+        224,
+        7,
+        76
+      ]
+    },
+    "name": "Paranormal Witness S04E02 Nightmare on Chestnut Street HDTV x264",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 6,
+  "last_updated": "2016-12-24T20:11:11.817Z"
+}

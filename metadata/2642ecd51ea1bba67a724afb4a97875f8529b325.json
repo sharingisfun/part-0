@@ -1,1 +1,61 @@
-{"title":"The Missing 1x01 Pilot HDTV x264-FoV [eztv]","uid":11315539,"size":395419744,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:2642ecd51ea1bba67a724afb4a97875f8529b325&amp;dn=The+Missing+1x01+Pilot+HDTV+x264-FoV+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":89,"leechers":4,"uploader":"eztv","files":1,"time":1414548104,"description":"Help us by donating with Bitcoin: 1EZTVaGQ6UsjYJ9fwqGnd45oZ6HGT7WKZd\n\n#EZTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by eztv. &lt;a href=&quot;\nhttps://eztv.it/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://eztv.it/&lt;/a&gt;\n\nEpisode: The Missing 1x01 Pilot HDTV x264-FoV\nScreenshots:\n\n\n","torrent":{"xt":"urn:btih:2642ecd51ea1bba67a724afb4a97875f8529b325","amp;dn":"The+Missing+1x01+Pilot+HDTV+x264-FoV+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"2642ecd51ea1bba67a724afb4a97875f8529b325","infoHashBuffer":{"type":"Buffer","data":[38,66,236,213,30,161,187,166,122,114,74,251,74,151,135,95,133,41,179,37]},"announce":[],"urlList":[]}}
+{
+  "title": "The Missing 1x01 Pilot HDTV x264-FoV [eztv]",
+  "uid": 11315539,
+  "size": 395419744,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:2642ecd51ea1bba67a724afb4a97875f8529b325&amp;dn=The+Missing+1x01+Pilot+HDTV+x264-FoV+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 89,
+  "leechers": 4,
+  "uploader": "eztv",
+  "files": 1,
+  "time": 1414548104,
+  "description": "Help us by donating with Bitcoin: 1EZTVaGQ6UsjYJ9fwqGnd45oZ6HGT7WKZd\n\n#EZTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by eztv. &lt;a href=&quot;\nhttps://eztv.it/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://eztv.it/&lt;/a&gt;\n\nEpisode: The Missing 1x01 Pilot HDTV x264-FoV\nScreenshots:\n\n\n",
+  "parsed": {
+    "xt": "urn:btih:2642ecd51ea1bba67a724afb4a97875f8529b325",
+    "dn": "The Missing 1x01 Pilot HDTV x264-FoV [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "2642ecd51ea1bba67a724afb4a97875f8529b325",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        38,
+        66,
+        236,
+        213,
+        30,
+        161,
+        187,
+        166,
+        122,
+        114,
+        74,
+        251,
+        74,
+        151,
+        135,
+        95,
+        133,
+        41,
+        179,
+        37
+      ]
+    },
+    "name": "The Missing 1x01 Pilot HDTV x264-FoV [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 93,
+  "peers": 50,
+  "last_updated": "2016-12-24T20:08:33.139Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Drake - 0 To 100 / The Catch Up [iTunes Plus AAC M4A]","uid":10563846,"size":19179942,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:25e93eec1f9520d131f4e24933552e47cfcaf184&amp;dn=Drake+-+0+To+100+%2F+The+Catch+Up+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":10,"uploader":"Music_Blitz","files":-1,"time":1405493384,"description":"Drake - 0 To 100 / The Catch Up [iTunes Plus AAC M4A]\n\n\nTracklist:\n\n1. 0 To 100 / The Catch Up (Clean)\n2. 0 To 100 / The Catch Up (Explicit)\n\n\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes \nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Tuesday 15th July 2014","torrent":{"xt":"urn:btih:25e93eec1f9520d131f4e24933552e47cfcaf184","amp;dn":"Drake+-+0+To+100+%2F+The+Catch+Up+%5BiTunes+Plus+AAC+M4A%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"25e93eec1f9520d131f4e24933552e47cfcaf184","infoHashBuffer":{"type":"Buffer","data":[37,233,62,236,31,149,32,209,49,244,226,73,51,85,46,71,207,202,241,132]},"announce":[],"urlList":[]}}
+{
+  "title": "Drake - 0 To 100 / The Catch Up [iTunes Plus AAC M4A]",
+  "uid": 10563846,
+  "size": 19179942,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:25e93eec1f9520d131f4e24933552e47cfcaf184&amp;dn=Drake+-+0+To+100+%2F+The+Catch+Up+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 10,
+  "uploader": "Music_Blitz",
+  "files": -1,
+  "time": 1405493384,
+  "description": "Drake - 0 To 100 / The Catch Up [iTunes Plus AAC M4A]\n\n\nTracklist:\n\n1. 0 To 100 / The Catch Up (Clean)\n2. 0 To 100 / The Catch Up (Explicit)\n\n\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes \nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Tuesday 15th July 2014",
+  "parsed": {
+    "xt": "urn:btih:25e93eec1f9520d131f4e24933552e47cfcaf184",
+    "dn": "Drake - 0 To 100 / The Catch Up [iTunes Plus AAC M4A]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "25e93eec1f9520d131f4e24933552e47cfcaf184",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        37,
+        233,
+        62,
+        236,
+        31,
+        149,
+        32,
+        209,
+        49,
+        244,
+        226,
+        73,
+        51,
+        85,
+        46,
+        71,
+        207,
+        202,
+        241,
+        132
+      ]
+    },
+    "name": "Drake - 0 To 100 / The Catch Up [iTunes Plus AAC M4A]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 6,
+  "last_updated": "2016-12-24T20:05:58.580Z"
+}

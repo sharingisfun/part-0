@@ -1,1 +1,61 @@
-{"title":"New.Girl.S01E03.HDTV.XviD-LOL.[VTV].avi","uid":6720886,"size":183515970,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:26b98beae63f2cde63b2357c6d3d85e03f966cdd&amp;dn=New.Girl.S01E03.HDTV.XviD-LOL.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":2,"uploader":"VTV","files":1,"time":1317786362,"description":"New Girl 1x03 (HDTV-LOL)[VTV]","torrent":{"xt":"urn:btih:26b98beae63f2cde63b2357c6d3d85e03f966cdd","amp;dn":"New.Girl.S01E03.HDTV.XviD-LOL.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"26b98beae63f2cde63b2357c6d3d85e03f966cdd","infoHashBuffer":{"type":"Buffer","data":[38,185,139,234,230,63,44,222,99,178,53,124,109,61,133,224,63,150,108,221]},"announce":[],"urlList":[]}}
+{
+  "title": "New.Girl.S01E03.HDTV.XviD-LOL.[VTV].avi",
+  "uid": 6720886,
+  "size": 183515970,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:26b98beae63f2cde63b2357c6d3d85e03f966cdd&amp;dn=New.Girl.S01E03.HDTV.XviD-LOL.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 2,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1317786362,
+  "description": "New Girl 1x03 (HDTV-LOL)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:26b98beae63f2cde63b2357c6d3d85e03f966cdd",
+    "dn": "New.Girl.S01E03.HDTV.XviD-LOL.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "26b98beae63f2cde63b2357c6d3d85e03f966cdd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        38,
+        185,
+        139,
+        234,
+        230,
+        63,
+        44,
+        222,
+        99,
+        178,
+        53,
+        124,
+        109,
+        61,
+        133,
+        224,
+        63,
+        150,
+        108,
+        221
+      ]
+    },
+    "name": "New.Girl.S01E03.HDTV.XviD-LOL.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 14,
+  "last_updated": "2016-12-24T20:12:01.994Z"
+}
