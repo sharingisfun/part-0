@@ -1,1 +1,63 @@
-{"title":"Rambo The Video Game Baker Team-SKIDROW","uid":15964345,"size":12562196,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:13c6fdfbcf55b354a67c9f3980efc9677dafd816&amp;dn=Rambo+The+Video+Game+Baker+Team-SKIDROW&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":47,"uploader":"trwetwr","files":4,"time":1475707659,"description":"Good Game","torrent":{"xt":"urn:btih:13c6fdfbcf55b354a67c9f3980efc9677dafd816","amp;dn":"Rambo+The+Video+Game+Baker+Team-SKIDROW","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"13c6fdfbcf55b354a67c9f3980efc9677dafd816","infoHashBuffer":{"type":"Buffer","data":[19,198,253,251,207,85,179,84,166,124,159,57,128,239,201,103,125,175,216,22]},"announce":[],"urlList":[]}}
+{
+  "title": "Rambo The Video Game Baker Team-SKIDROW",
+  "uid": 15964345,
+  "size": 12562196,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:13c6fdfbcf55b354a67c9f3980efc9677dafd816&amp;dn=Rambo+The+Video+Game+Baker+Team-SKIDROW&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 47,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475707659,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:13c6fdfbcf55b354a67c9f3980efc9677dafd816",
+    "dn": "Rambo The Video Game Baker Team-SKIDROW",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "13c6fdfbcf55b354a67c9f3980efc9677dafd816",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        19,
+        198,
+        253,
+        251,
+        207,
+        85,
+        179,
+        84,
+        166,
+        124,
+        159,
+        57,
+        128,
+        239,
+        201,
+        103,
+        125,
+        175,
+        216,
+        22
+      ]
+    },
+    "name": "Rambo The Video Game Baker Team-SKIDROW",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 119,
+  "peers": 6,
+  "last_updated": "2016-12-24T17:47:54.666Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Lana Del Rey - Honeymoon [Album [2015] Not a transcode/recording","uid":12425905,"size":69986498,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:125d09be02577d099898b60ea8b5ccb35a24175b&amp;dn=Lana+Del+Rey+-+Honeymoon+%5BAlbum+%5B2015%5D+Not+a+transcode%2Frecording&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":2,"uploader":"S_K_G","files":14,"time":1442374896,"description":"not a cell phone recording like the other uploads available","torrent":{"xt":"urn:btih:125d09be02577d099898b60ea8b5ccb35a24175b","amp;dn":"Lana+Del+Rey+-+Honeymoon+%5BAlbum+%5B2015%5D+Not+a+transcode%2Frecording","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"125d09be02577d099898b60ea8b5ccb35a24175b","infoHashBuffer":{"type":"Buffer","data":[18,93,9,190,2,87,125,9,152,152,182,14,168,181,204,179,90,36,23,91]},"announce":[],"urlList":[]}}
+{
+  "title": "Lana Del Rey - Honeymoon [Album [2015] Not a transcode/recording",
+  "uid": 12425905,
+  "size": 69986498,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:125d09be02577d099898b60ea8b5ccb35a24175b&amp;dn=Lana+Del+Rey+-+Honeymoon+%5BAlbum+%5B2015%5D+Not+a+transcode%2Frecording&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 2,
+  "uploader": "S_K_G",
+  "files": 14,
+  "time": 1442374896,
+  "description": "not a cell phone recording like the other uploads available",
+  "parsed": {
+    "xt": "urn:btih:125d09be02577d099898b60ea8b5ccb35a24175b",
+    "dn": "Lana Del Rey - Honeymoon [Album [2015] Not a transcode/recording",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "125d09be02577d099898b60ea8b5ccb35a24175b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        93,
+        9,
+        190,
+        2,
+        87,
+        125,
+        9,
+        152,
+        152,
+        182,
+        14,
+        168,
+        181,
+        204,
+        179,
+        90,
+        36,
+        23,
+        91
+      ]
+    },
+    "name": "Lana Del Rey - Honeymoon [Album [2015] Not a transcode/recording",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 6,
+  "last_updated": "2016-12-24T17:36:34.067Z"
+}

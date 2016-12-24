@@ -1,1 +1,63 @@
-{"title":"OS X El Capitan 10.11.0 bootable USB (DMG File) (15A284)","uid":12517529,"size":6149844757,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:12750fd2eeac6a310dcb43ee27aae26c01dd9d96&amp;dn=OS+X+El+Capitan+10.11.0+bootable+USB+%28DMG+File%29+%2815A284%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":16,"uploader":"BongoNL","files":1,"time":1443789840,"description":"Use the &quot;Restore&quot; option in Disk Utility to write it down on a USB-stick.\r\n\r\nEnjoy!\r\nâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”\r\nHow to do info.. (OS X Versions before El Capitan)\r\n\r\nFormat Your USB Flash Drive..\r\n1. Insert the USB flash drive into your Macâ€™s USB port.\r\n2. Launch Disk Utility, located at /Applications/Utilities/.\r\n3. In the list of drives attached to your Mac, select the USB flash drive device. In my case, itâ€™s called â€œ16 GB TDK Stickâ€.\r\n4. Click the â€˜Partitionâ€™ tab.\r\n5. Select â€˜1 Partitionâ€™ from the Volume Scheme dropdown menu.\r\n6. Enter a descriptive name for your flash drive; I chose &quot;OSXUSBInstall&quot;\r\n7. Select Mac OS X Extended (Journaled) from the Format dropdown menu.\r\n8. Click the â€˜Optionsâ€™ button.\r\n9. Select â€˜GUID Partition Tableâ€™ from the list of available partition schemes.\r\n10. Click â€˜OK.\r\n\r\n\r\nNow the USB flash drive is prepared you can Restore &quot;Install OS X El Capitan.dmg&quot; to your USB flash drive.\r\n\r\n1. Click on &quot;Restore&quot; in the Disk Utility window.\r\n2. Drag &quot;Install OS X El Capitan.dmgâ€ to &quot;Source&quot;\r\n3. Drag the usb flash drive (in my case &quot;OSXUSBInstall&quot;) to &quot;Destination&quot;\r\n4. Click &quot;Restore&quot; and enter your system password.\r\n\r\n(To install OS X restart your Mac with â€œaltâ€ hold and select your USB flash drive)\r\n\r\nDone\r\nâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”\r\nHow to do info.. (When El Capitan is already installed)\r\n\r\nFormat Your USB Flash Drive.. \r\n1. Insert the USB flash drive into your Macâ€™s USB port.\r\n2. Launch Disk Utility, located at /Applications/Utilities/.\r\n3. In the list of drives attached to your Mac, select the USB flash drive device. In my case, itâ€™s called â€œ16 GB TDK Stickâ€.\r\n4. Click on â€œEraseâ€\r\n5. Enter a descriptive name for your flash drive; I chose &quot;OSXUSBInstall&quot;\r\n6. Select Mac OS X Extended (Journaled) from the Format dropdown menu.\r\n7. For Scheme choose â€œGuid Partition Mapâ€\r\n6. And click â€œEraseâ€\r\n\r\n\r\nNow the USB flash drive is prepared you can Restore &quot;Install OS X El Capitan.dmg&quot; to your USB flash drive.\r\n\r\n1. Open Disk Utility\r\n2. In the menu left of the â€œDisk Utilityâ€ window select the USB Drive.\r\n   (The one you gave a specific name) In my case â€œOSXUSBInstallâ€\r\n3. In the top menu bar from â€œDisk Utilityâ€  click â€œEditâ€ / â€œRestoreâ€\r\n\r\n\r\n4.Click on â€œImageâ€ and go to the DMG File with El Capitan named â€œInstall OS X El Capitanâ€ and click â€œOpenâ€\r\n\r\nIn the next  window you see:\r\nRestore from: Install OS X El Capitan.dmg\r\n\r\n5. Now click â€œRestoreâ€ \r\n\r\nIt takes about 3 minutes to restore (In my case :-)\r\n\r\n(To install OS X restart your Mac with â€œaltâ€ hold  and select your USB flash drive)\r\n\r\nDone..\r\nâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”","torrent":{"xt":"urn:btih:12750fd2eeac6a310dcb43ee27aae26c01dd9d96","amp;dn":"OS+X+El+Capitan+10.11.0+bootable+USB+%28DMG+File%29+%2815A284%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"12750fd2eeac6a310dcb43ee27aae26c01dd9d96","infoHashBuffer":{"type":"Buffer","data":[18,117,15,210,238,172,106,49,13,203,67,238,39,170,226,108,1,221,157,150]},"announce":[],"urlList":[]}}
+{
+  "title": "OS X El Capitan 10.11.0 bootable USB (DMG File) (15A284)",
+  "uid": 12517529,
+  "size": 6149844757,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:12750fd2eeac6a310dcb43ee27aae26c01dd9d96&amp;dn=OS+X+El+Capitan+10.11.0+bootable+USB+%28DMG+File%29+%2815A284%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 16,
+  "uploader": "BongoNL",
+  "files": 1,
+  "time": 1443789840,
+  "description": "Use the &quot;Restore&quot; option in Disk Utility to write it down on a USB-stick.\r\n\r\nEnjoy!\r\nâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”\r\nHow to do info.. (OS X Versions before El Capitan)\r\n\r\nFormat Your USB Flash Drive..\r\n1. Insert the USB flash drive into your Macâ€™s USB port.\r\n2. Launch Disk Utility, located at /Applications/Utilities/.\r\n3. In the list of drives attached to your Mac, select the USB flash drive device. In my case, itâ€™s called â€œ16 GB TDK Stickâ€.\r\n4. Click the â€˜Partitionâ€™ tab.\r\n5. Select â€˜1 Partitionâ€™ from the Volume Scheme dropdown menu.\r\n6. Enter a descriptive name for your flash drive; I chose &quot;OSXUSBInstall&quot;\r\n7. Select Mac OS X Extended (Journaled) from the Format dropdown menu.\r\n8. Click the â€˜Optionsâ€™ button.\r\n9. Select â€˜GUID Partition Tableâ€™ from the list of available partition schemes.\r\n10. Click â€˜OK.\r\n\r\n\r\nNow the USB flash drive is prepared you can Restore &quot;Install OS X El Capitan.dmg&quot; to your USB flash drive.\r\n\r\n1. Click on &quot;Restore&quot; in the Disk Utility window.\r\n2. Drag &quot;Install OS X El Capitan.dmgâ€ to &quot;Source&quot;\r\n3. Drag the usb flash drive (in my case &quot;OSXUSBInstall&quot;) to &quot;Destination&quot;\r\n4. Click &quot;Restore&quot; and enter your system password.\r\n\r\n(To install OS X restart your Mac with â€œaltâ€ hold and select your USB flash drive)\r\n\r\nDone\r\nâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”\r\nHow to do info.. (When El Capitan is already installed)\r\n\r\nFormat Your USB Flash Drive.. \r\n1. Insert the USB flash drive into your Macâ€™s USB port.\r\n2. Launch Disk Utility, located at /Applications/Utilities/.\r\n3. In the list of drives attached to your Mac, select the USB flash drive device. In my case, itâ€™s called â€œ16 GB TDK Stickâ€.\r\n4. Click on â€œEraseâ€\r\n5. Enter a descriptive name for your flash drive; I chose &quot;OSXUSBInstall&quot;\r\n6. Select Mac OS X Extended (Journaled) from the Format dropdown menu.\r\n7. For Scheme choose â€œGuid Partition Mapâ€\r\n6. And click â€œEraseâ€\r\n\r\n\r\nNow the USB flash drive is prepared you can Restore &quot;Install OS X El Capitan.dmg&quot; to your USB flash drive.\r\n\r\n1. Open Disk Utility\r\n2. In the menu left of the â€œDisk Utilityâ€ window select the USB Drive.\r\n   (The one you gave a specific name) In my case â€œOSXUSBInstallâ€\r\n3. In the top menu bar from â€œDisk Utilityâ€  click â€œEditâ€ / â€œRestoreâ€\r\n\r\n\r\n4.Click on â€œImageâ€ and go to the DMG File with El Capitan named â€œInstall OS X El Capitanâ€ and click â€œOpenâ€\r\n\r\nIn the next  window you see:\r\nRestore from: Install OS X El Capitan.dmg\r\n\r\n5. Now click â€œRestoreâ€ \r\n\r\nIt takes about 3 minutes to restore (In my case :-)\r\n\r\n(To install OS X restart your Mac with â€œaltâ€ hold  and select your USB flash drive)\r\n\r\nDone..\r\nâ€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”",
+  "parsed": {
+    "xt": "urn:btih:12750fd2eeac6a310dcb43ee27aae26c01dd9d96",
+    "dn": "OS X El Capitan 10.11.0 bootable USB (DMG File) (15A284)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "12750fd2eeac6a310dcb43ee27aae26c01dd9d96",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        117,
+        15,
+        210,
+        238,
+        172,
+        106,
+        49,
+        13,
+        203,
+        67,
+        238,
+        39,
+        170,
+        226,
+        108,
+        1,
+        221,
+        157,
+        150
+      ]
+    },
+    "name": "OS X El Capitan 10.11.0 bootable USB (DMG File) (15A284)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 250,
+  "last_updated": "2016-12-24T17:37:18.192Z"
+}

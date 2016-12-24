@@ -1,1 +1,61 @@
-{"title":"Suits.S05E07.PROPER.HDTV.x264-KILLERS.[VTV].mp4","uid":12201303,"size":255186954,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:12ec5d4039321987944d6cb7da4c51f979180593&amp;dn=Suits.S05E07.PROPER.HDTV.x264-KILLERS.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":0,"uploader":"VTV","files":1,"time":1438836663,"description":"Suits 5x07 (HDTV-PROPER-x264-KILLERS)[VTV]","torrent":{"xt":"urn:btih:12ec5d4039321987944d6cb7da4c51f979180593","amp;dn":"Suits.S05E07.PROPER.HDTV.x264-KILLERS.%5BVTV%5D.mp4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"12ec5d4039321987944d6cb7da4c51f979180593","infoHashBuffer":{"type":"Buffer","data":[18,236,93,64,57,50,25,135,148,77,108,183,218,76,81,249,121,24,5,147]},"announce":[],"urlList":[]}}
+{
+  "title": "Suits.S05E07.PROPER.HDTV.x264-KILLERS.[VTV].mp4",
+  "uid": 12201303,
+  "size": 255186954,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:12ec5d4039321987944d6cb7da4c51f979180593&amp;dn=Suits.S05E07.PROPER.HDTV.x264-KILLERS.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 0,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1438836663,
+  "description": "Suits 5x07 (HDTV-PROPER-x264-KILLERS)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:12ec5d4039321987944d6cb7da4c51f979180593",
+    "dn": "Suits.S05E07.PROPER.HDTV.x264-KILLERS.[VTV].mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "12ec5d4039321987944d6cb7da4c51f979180593",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        236,
+        93,
+        64,
+        57,
+        50,
+        25,
+        135,
+        148,
+        77,
+        108,
+        183,
+        218,
+        76,
+        81,
+        249,
+        121,
+        24,
+        5,
+        147
+      ]
+    },
+    "name": "Suits.S05E07.PROPER.HDTV.x264-KILLERS.[VTV].mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 1,
+  "last_updated": "2016-12-24T17:41:13.263Z"
+}

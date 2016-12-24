@@ -1,1 +1,61 @@
-{"title":"Sia - Chandelier (2014) [ 320 KBPS ] - Kondoro0614","uid":10202287,"size":8468136,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:12e0cd3177fe035199d984c44e7b29a076964d0c&amp;dn=Sia+-+Chandelier+%282014%29+%5B+320+KBPS+%5D+-+Kondoro0614&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":27,"uploader":"Kondoro0614","files":-1,"time":1400790742,"description":"AustraliÃƒÂ« \n\n\n\nRelease : 2014\nAlbum : Sia - 1000 Forms of Fear (2014)\nMet :\nAfspeel lengte : 00:03:32\nBite Rate: 320 KBPS\nExtensie: .mp3\nVersie: Single\n &lt;a href=&quot;\nhttp://www.musicmeter.nl/album/436176&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.musicmeter.nl/album/436176&lt;/a&gt;","torrent":{"xt":"urn:btih:12e0cd3177fe035199d984c44e7b29a076964d0c","amp;dn":"Sia+-+Chandelier+%282014%29+%5B+320+KBPS+%5D+-+Kondoro0614","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"12e0cd3177fe035199d984c44e7b29a076964d0c","infoHashBuffer":{"type":"Buffer","data":[18,224,205,49,119,254,3,81,153,217,132,196,78,123,41,160,118,150,77,12]},"announce":[],"urlList":[]}}
+{
+  "title": "Sia - Chandelier (2014) [ 320 KBPS ] - Kondoro0614",
+  "uid": 10202287,
+  "size": 8468136,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:12e0cd3177fe035199d984c44e7b29a076964d0c&amp;dn=Sia+-+Chandelier+%282014%29+%5B+320+KBPS+%5D+-+Kondoro0614&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 27,
+  "uploader": "Kondoro0614",
+  "files": -1,
+  "time": 1400790742,
+  "description": "AustraliÃƒÂ« \n\n\n\nRelease : 2014\nAlbum : Sia - 1000 Forms of Fear (2014)\nMet :\nAfspeel lengte : 00:03:32\nBite Rate: 320 KBPS\nExtensie: .mp3\nVersie: Single\n &lt;a href=&quot;\nhttp://www.musicmeter.nl/album/436176&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.musicmeter.nl/album/436176&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:12e0cd3177fe035199d984c44e7b29a076964d0c",
+    "dn": "Sia - Chandelier (2014) [ 320 KBPS ] - Kondoro0614",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "12e0cd3177fe035199d984c44e7b29a076964d0c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        224,
+        205,
+        49,
+        119,
+        254,
+        3,
+        81,
+        153,
+        217,
+        132,
+        196,
+        78,
+        123,
+        41,
+        160,
+        118,
+        150,
+        77,
+        12
+      ]
+    },
+    "name": "Sia - Chandelier (2014) [ 320 KBPS ] - Kondoro0614",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 38,
+  "last_updated": "2016-12-24T17:40:53.112Z"
+}

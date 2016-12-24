@@ -1,1 +1,61 @@
-{"title":"The Forest - Alpha v0.22","uid":12243731,"size":1179988322,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:12646de3d9bb0f6175188809f6ae39bf3cf3691b&amp;dn=The+Forest+-+Alpha+v0.22&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":1,"uploader":"dauphong","files":1,"time":1439842229,"description":"As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants.\n\nBuild, explore, survive in this terrifying first person survival horror simulator","torrent":{"xt":"urn:btih:12646de3d9bb0f6175188809f6ae39bf3cf3691b","amp;dn":"The+Forest+-+Alpha+v0.22","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"12646de3d9bb0f6175188809f6ae39bf3cf3691b","infoHashBuffer":{"type":"Buffer","data":[18,100,109,227,217,187,15,97,117,24,136,9,246,174,57,191,60,243,105,27]},"announce":[],"urlList":[]}}
+{
+  "title": "The Forest - Alpha v0.22",
+  "uid": 12243731,
+  "size": 1179988322,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:12646de3d9bb0f6175188809f6ae39bf3cf3691b&amp;dn=The+Forest+-+Alpha+v0.22&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 1,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1439842229,
+  "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants.\n\nBuild, explore, survive in this terrifying first person survival horror simulator",
+  "parsed": {
+    "xt": "urn:btih:12646de3d9bb0f6175188809f6ae39bf3cf3691b",
+    "dn": "The Forest - Alpha v0.22",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "12646de3d9bb0f6175188809f6ae39bf3cf3691b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        100,
+        109,
+        227,
+        217,
+        187,
+        15,
+        97,
+        117,
+        24,
+        136,
+        9,
+        246,
+        174,
+        57,
+        191,
+        60,
+        243,
+        105,
+        27
+      ]
+    },
+    "name": "The Forest - Alpha v0.22",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 59,
+  "last_updated": "2016-12-24T17:36:46.105Z"
+}

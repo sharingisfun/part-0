@@ -1,1 +1,61 @@
-{"title":"Lynyrd Skynyrd - Discography (1973-2009) [mp3@320]","uid":5849040,"size":2602472347,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1224fa5b2dc7202e3efd379c72d00aec5ff6d0af&amp;dn=Lynyrd+Skynyrd+-+Discography+%281973-2009%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":16,"uploader":"zibbik","files":250,"time":1285310129,"description":"Genre: Southern Rock / Hard Rock\nOrigin: USA\n\nIncluded albums:\nPronounced Leh-nerd Skin-nerd (1973)\nSecond Helping (1974)\nNuthin' Fancy (1975)\nGimme Back My Bullets (1976)\nOne More From The Road (1976)\nStreet Survivors (1977)\nEverybody Dies (1977)*\nSkynyrd's First And Last (1978)\nGold &amp; Platinum (1979)\nSouthern By The Grace Of God-Lynyrd Skynyrd Tribute Tour, Vol. 1 [Live] (1987)\nLegend (1987)\nLynyrd Skynyrd 1991 (1991)\nThe Last Rebel (1993)\nEndangered Species (1994)\nTwenty (1997)\nThe Essential Lynyrd Skynyrd (1998)\nEdge Of Forever (1999)\nAll Time Greatest Hits (2000)\nChristmas Time Again (2000)\nGod &amp; Guns (2009)\n","torrent":{"xt":"urn:btih:1224fa5b2dc7202e3efd379c72d00aec5ff6d0af","amp;dn":"Lynyrd+Skynyrd+-+Discography+%281973-2009%29+%5Bmp3%40320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1224fa5b2dc7202e3efd379c72d00aec5ff6d0af","infoHashBuffer":{"type":"Buffer","data":[18,36,250,91,45,199,32,46,62,253,55,156,114,208,10,236,95,246,208,175]},"announce":[],"urlList":[]}}
+{
+  "title": "Lynyrd Skynyrd - Discography (1973-2009) [mp3@320]",
+  "uid": 5849040,
+  "size": 2602472347,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1224fa5b2dc7202e3efd379c72d00aec5ff6d0af&amp;dn=Lynyrd+Skynyrd+-+Discography+%281973-2009%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 16,
+  "uploader": "zibbik",
+  "files": 250,
+  "time": 1285310129,
+  "description": "Genre: Southern Rock / Hard Rock\nOrigin: USA\n\nIncluded albums:\nPronounced Leh-nerd Skin-nerd (1973)\nSecond Helping (1974)\nNuthin' Fancy (1975)\nGimme Back My Bullets (1976)\nOne More From The Road (1976)\nStreet Survivors (1977)\nEverybody Dies (1977)*\nSkynyrd's First And Last (1978)\nGold &amp; Platinum (1979)\nSouthern By The Grace Of God-Lynyrd Skynyrd Tribute Tour, Vol. 1 [Live] (1987)\nLegend (1987)\nLynyrd Skynyrd 1991 (1991)\nThe Last Rebel (1993)\nEndangered Species (1994)\nTwenty (1997)\nThe Essential Lynyrd Skynyrd (1998)\nEdge Of Forever (1999)\nAll Time Greatest Hits (2000)\nChristmas Time Again (2000)\nGod &amp; Guns (2009)\n",
+  "parsed": {
+    "xt": "urn:btih:1224fa5b2dc7202e3efd379c72d00aec5ff6d0af",
+    "dn": "Lynyrd Skynyrd - Discography (1973-2009) [mp3@320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1224fa5b2dc7202e3efd379c72d00aec5ff6d0af",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        36,
+        250,
+        91,
+        45,
+        199,
+        32,
+        46,
+        62,
+        253,
+        55,
+        156,
+        114,
+        208,
+        10,
+        236,
+        95,
+        246,
+        208,
+        175
+      ]
+    },
+    "name": "Lynyrd Skynyrd - Discography (1973-2009) [mp3@320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 50,
+  "last_updated": "2016-12-24T17:34:45.697Z"
+}

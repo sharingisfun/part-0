@@ -1,1 +1,61 @@
-{"title":"Suits.S02E05.HDTV.x264-COMPULSiON.[VTV].mp4","uid":7459334,"size":262896302,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:11fc7b318bd610c46f608061e58a3bf8c16a4192&amp;dn=Suits.S02E05.HDTV.x264-COMPULSiON.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":81,"leechers":12,"uploader":"VTV","files":1,"time":1342763414,"description":"Suits 2x05 (HDTV-x264-COMPULSiON)[VTV]","torrent":{"xt":"urn:btih:11fc7b318bd610c46f608061e58a3bf8c16a4192","amp;dn":"Suits.S02E05.HDTV.x264-COMPULSiON.%5BVTV%5D.mp4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"11fc7b318bd610c46f608061e58a3bf8c16a4192","infoHashBuffer":{"type":"Buffer","data":[17,252,123,49,139,214,16,196,111,96,128,97,229,138,59,248,193,106,65,146]},"announce":[],"urlList":[]}}
+{
+  "title": "Suits.S02E05.HDTV.x264-COMPULSiON.[VTV].mp4",
+  "uid": 7459334,
+  "size": 262896302,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:11fc7b318bd610c46f608061e58a3bf8c16a4192&amp;dn=Suits.S02E05.HDTV.x264-COMPULSiON.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 81,
+  "leechers": 12,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1342763414,
+  "description": "Suits 2x05 (HDTV-x264-COMPULSiON)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:11fc7b318bd610c46f608061e58a3bf8c16a4192",
+    "dn": "Suits.S02E05.HDTV.x264-COMPULSiON.[VTV].mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "11fc7b318bd610c46f608061e58a3bf8c16a4192",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        17,
+        252,
+        123,
+        49,
+        139,
+        214,
+        16,
+        196,
+        111,
+        96,
+        128,
+        97,
+        229,
+        138,
+        59,
+        248,
+        193,
+        106,
+        65,
+        146
+      ]
+    },
+    "name": "Suits.S02E05.HDTV.x264-COMPULSiON.[VTV].mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 93,
+  "peers": 63,
+  "last_updated": "2016-12-24T17:33:03.362Z"
+}

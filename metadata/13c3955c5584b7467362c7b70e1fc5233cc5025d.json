@@ -1,1 +1,61 @@
-{"title":"Star Wars 002 (2015) (digital) (Minutemen-Midas)","uid":11681168,"size":37203019,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:13c3955c5584b7467362c7b70e1fc5233cc5025d&amp;dn=Star+Wars+002+%282015%29+%28digital%29+%28Minutemen-Midas%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":90,"leechers":3,"uploader":"jedi.jesse","files":1,"time":1423098813,"description":"THE GREATEST SPACE ADVENTURE OF ALL TIME CONTINUES! The Rebel assault on Cymoon 1 continues! Luke Skywalker - cornered by Darth Vader! Han, Leia, and the others - trapped!","torrent":{"xt":"urn:btih:13c3955c5584b7467362c7b70e1fc5233cc5025d","amp;dn":"Star+Wars+002+%282015%29+%28digital%29+%28Minutemen-Midas%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"13c3955c5584b7467362c7b70e1fc5233cc5025d","infoHashBuffer":{"type":"Buffer","data":[19,195,149,92,85,132,183,70,115,98,199,183,14,31,197,35,60,197,2,93]},"announce":[],"urlList":[]}}
+{
+  "title": "Star Wars 002 (2015) (digital) (Minutemen-Midas)",
+  "uid": 11681168,
+  "size": 37203019,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:13c3955c5584b7467362c7b70e1fc5233cc5025d&amp;dn=Star+Wars+002+%282015%29+%28digital%29+%28Minutemen-Midas%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 90,
+  "leechers": 3,
+  "uploader": "jedi.jesse",
+  "files": 1,
+  "time": 1423098813,
+  "description": "THE GREATEST SPACE ADVENTURE OF ALL TIME CONTINUES! The Rebel assault on Cymoon 1 continues! Luke Skywalker - cornered by Darth Vader! Han, Leia, and the others - trapped!",
+  "parsed": {
+    "xt": "urn:btih:13c3955c5584b7467362c7b70e1fc5233cc5025d",
+    "dn": "Star Wars 002 (2015) (digital) (Minutemen-Midas)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "13c3955c5584b7467362c7b70e1fc5233cc5025d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        19,
+        195,
+        149,
+        92,
+        85,
+        132,
+        183,
+        70,
+        115,
+        98,
+        199,
+        183,
+        14,
+        31,
+        197,
+        35,
+        60,
+        197,
+        2,
+        93
+      ]
+    },
+    "name": "Star Wars 002 (2015) (digital) (Minutemen-Midas)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 93,
+  "peers": 5,
+  "last_updated": "2016-12-24T17:47:48.648Z"
+}

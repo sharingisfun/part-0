@@ -1,1 +1,61 @@
-{"title":"Queens of the Stone Age - Songs for the Deaf","uid":11680009,"size":116770836,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:12df4c7e6d61613ea194874a1a1b5c1fedc90921&amp;dn=Queens+of+the+Stone+Age+-+Songs+for+the+Deaf&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":103,"leechers":6,"uploader":null,"files":15,"time":1423039024,"description":"Queens of the Stone Age - Songs for the Deaf","torrent":{"xt":"urn:btih:12df4c7e6d61613ea194874a1a1b5c1fedc90921","amp;dn":"Queens+of+the+Stone+Age+-+Songs+for+the+Deaf","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"12df4c7e6d61613ea194874a1a1b5c1fedc90921","infoHashBuffer":{"type":"Buffer","data":[18,223,76,126,109,97,97,62,161,148,135,74,26,27,92,31,237,201,9,33]},"announce":[],"urlList":[]}}
+{
+  "title": "Queens of the Stone Age - Songs for the Deaf",
+  "uid": 11680009,
+  "size": 116770836,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:12df4c7e6d61613ea194874a1a1b5c1fedc90921&amp;dn=Queens+of+the+Stone+Age+-+Songs+for+the+Deaf&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 103,
+  "leechers": 6,
+  "uploader": null,
+  "files": 15,
+  "time": 1423039024,
+  "description": "Queens of the Stone Age - Songs for the Deaf",
+  "parsed": {
+    "xt": "urn:btih:12df4c7e6d61613ea194874a1a1b5c1fedc90921",
+    "dn": "Queens of the Stone Age - Songs for the Deaf",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "12df4c7e6d61613ea194874a1a1b5c1fedc90921",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        223,
+        76,
+        126,
+        109,
+        97,
+        97,
+        62,
+        161,
+        148,
+        135,
+        74,
+        26,
+        27,
+        92,
+        31,
+        237,
+        201,
+        9,
+        33
+      ]
+    },
+    "name": "Queens of the Stone Age - Songs for the Deaf",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 109,
+  "peers": 39,
+  "last_updated": "2016-12-24T17:40:51.106Z"
+}

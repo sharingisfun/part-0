@@ -1,1 +1,63 @@
-{"title":"Bon Iver - 22, A Million [FLAC]","uid":15918439,"size":197690819,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:1312e40ca8d55587b2f074fe9b7bb5c0566ea202&amp;dn=Bon+Iver+-+22%2C+A+Million+%5BFLAC%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":8,"uploader":"DellTaco","files":12,"time":1475226474,"description":"Artist: Bon Iver\r\n\r\nAlbum: 22, A Million\r\n\r\n\r\n01. 22 (OVER SâˆžâˆžN)\r\n\r\n02. 10 d E A T h b R E a s T âš„ âš„\r\n\r\n03. 715 - CRÎ£Î£KS\r\n\r\n04. 33 â€œGODâ€\r\n\r\n05. 29 #Strafford APTS\r\n\r\n06. 666 Ê‡\r\n\r\n07. 21 Mâ™¢â™¢N WATER\r\n\r\n08. 8 (circle)\r\n\r\n09. ____45_____\r\n\r\n10. 00000 Million\r\n\r\n\r\n.cue and .log files included","torrent":{"xt":"urn:btih:1312e40ca8d55587b2f074fe9b7bb5c0566ea202","amp;dn":"Bon+Iver+-+22%2C+A+Million+%5BFLAC%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1312e40ca8d55587b2f074fe9b7bb5c0566ea202","infoHashBuffer":{"type":"Buffer","data":[19,18,228,12,168,213,85,135,178,240,116,254,155,123,181,192,86,110,162,2]},"announce":[],"urlList":[]}}
+{
+  "title": "Bon Iver - 22, A Million [FLAC]",
+  "uid": 15918439,
+  "size": 197690819,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:1312e40ca8d55587b2f074fe9b7bb5c0566ea202&amp;dn=Bon+Iver+-+22%2C+A+Million+%5BFLAC%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 8,
+  "uploader": "DellTaco",
+  "files": 12,
+  "time": 1475226474,
+  "description": "Artist: Bon Iver\r\n\r\nAlbum: 22, A Million\r\n\r\n\r\n01. 22 (OVER SâˆžâˆžN)\r\n\r\n02. 10 d E A T h b R E a s T âš„ âš„\r\n\r\n03. 715 - CRÎ£Î£KS\r\n\r\n04. 33 â€œGODâ€\r\n\r\n05. 29 #Strafford APTS\r\n\r\n06. 666 Ê‡\r\n\r\n07. 21 Mâ™¢â™¢N WATER\r\n\r\n08. 8 (circle)\r\n\r\n09. ____45_____\r\n\r\n10. 00000 Million\r\n\r\n\r\n.cue and .log files included",
+  "parsed": {
+    "xt": "urn:btih:1312e40ca8d55587b2f074fe9b7bb5c0566ea202",
+    "dn": "Bon Iver - 22, A Million [FLAC]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "1312e40ca8d55587b2f074fe9b7bb5c0566ea202",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        19,
+        18,
+        228,
+        12,
+        168,
+        213,
+        85,
+        135,
+        178,
+        240,
+        116,
+        254,
+        155,
+        123,
+        181,
+        192,
+        86,
+        110,
+        162,
+        2
+      ]
+    },
+    "name": "Bon Iver - 22, A Million [FLAC]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 117,
+  "last_updated": "2016-12-24T17:42:41.606Z"
+}

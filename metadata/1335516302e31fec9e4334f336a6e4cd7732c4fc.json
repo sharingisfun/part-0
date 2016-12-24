@@ -1,1 +1,61 @@
-{"title":"Wisin - Que Viva la Vida [320kbps]","uid":9205176,"size":8276297,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1335516302e31fec9e4334f336a6e4cd7732c4fc&amp;dn=Wisin+-+Que+Viva+la+Vida+%5B320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":0,"uploader":"vjyrusx","files":1,"time":1384682141,"description":"AUDIO INFO :\n==========\nTrack name : Wisin - Que Viva la Vida {320 kbps}\nFormat : MP3\nYear : 2013\nFile size : 7.89 MB\nGenre : Reggaeton/Latin Hip-Hop/Urban\nDuration : 3mn 22s\nBit rate : 320 Kbps\n\n","torrent":{"xt":"urn:btih:1335516302e31fec9e4334f336a6e4cd7732c4fc","amp;dn":"Wisin+-+Que+Viva+la+Vida+%5B320kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1335516302e31fec9e4334f336a6e4cd7732c4fc","infoHashBuffer":{"type":"Buffer","data":[19,53,81,99,2,227,31,236,158,67,52,243,54,166,228,205,119,50,196,252]},"announce":[],"urlList":[]}}
+{
+  "title": "Wisin - Que Viva la Vida [320kbps]",
+  "uid": 9205176,
+  "size": 8276297,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1335516302e31fec9e4334f336a6e4cd7732c4fc&amp;dn=Wisin+-+Que+Viva+la+Vida+%5B320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 0,
+  "uploader": "vjyrusx",
+  "files": 1,
+  "time": 1384682141,
+  "description": "AUDIO INFO :\n==========\nTrack name : Wisin - Que Viva la Vida {320 kbps}\nFormat : MP3\nYear : 2013\nFile size : 7.89 MB\nGenre : Reggaeton/Latin Hip-Hop/Urban\nDuration : 3mn 22s\nBit rate : 320 Kbps\n\n",
+  "parsed": {
+    "xt": "urn:btih:1335516302e31fec9e4334f336a6e4cd7732c4fc",
+    "dn": "Wisin - Que Viva la Vida [320kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1335516302e31fec9e4334f336a6e4cd7732c4fc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        19,
+        53,
+        81,
+        99,
+        2,
+        227,
+        31,
+        236,
+        158,
+        67,
+        52,
+        243,
+        54,
+        166,
+        228,
+        205,
+        119,
+        50,
+        196,
+        252
+      ]
+    },
+    "name": "Wisin - Que Viva la Vida [320kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 56,
+  "last_updated": "2016-12-24T17:43:47.817Z"
+}

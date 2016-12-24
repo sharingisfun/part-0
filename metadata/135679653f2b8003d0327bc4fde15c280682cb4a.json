@@ -1,1 +1,61 @@
-{"title":"AC DC - Back In Black [mp3]","uid":7176205,"size":91930864,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:135679653f2b8003d0327bc4fde15c280682cb4a&amp;dn=AC+DC+-+Back+In+Black+%5Bmp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":6,"uploader":"virana","files":-1,"time":1334126393,"description":"AC/DC - BACK IN BLACK 1980\n\nLO MEJOR UNA OBRA NUNCA IGUALADA ... DENTRO DEL GENERO.\n\nBACK IN BLACK 1980\n\nTRACK LIST\n\n01 - Hells Bells\n02 - Shoot to Thrill\n03 - What Do You Do for Money Honey\n04 - Givin' the Dog a Bone\n05 - Let Me Put My Love into You\n06 - Back in Black\n07 - You Shook Me All Night Long\n08 - Have a Drink on Me\n09 - Shake a Leg\n10 - Rock and Roll Ain't Noise Pollution","torrent":{"xt":"urn:btih:135679653f2b8003d0327bc4fde15c280682cb4a","amp;dn":"AC+DC+-+Back+In+Black+%5Bmp3%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"135679653f2b8003d0327bc4fde15c280682cb4a","infoHashBuffer":{"type":"Buffer","data":[19,86,121,101,63,43,128,3,208,50,123,196,253,225,92,40,6,130,203,74]},"announce":[],"urlList":[]}}
+{
+  "title": "AC DC - Back In Black [mp3]",
+  "uid": 7176205,
+  "size": 91930864,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:135679653f2b8003d0327bc4fde15c280682cb4a&amp;dn=AC+DC+-+Back+In+Black+%5Bmp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 6,
+  "uploader": "virana",
+  "files": -1,
+  "time": 1334126393,
+  "description": "AC/DC - BACK IN BLACK 1980\n\nLO MEJOR UNA OBRA NUNCA IGUALADA ... DENTRO DEL GENERO.\n\nBACK IN BLACK 1980\n\nTRACK LIST\n\n01 - Hells Bells\n02 - Shoot to Thrill\n03 - What Do You Do for Money Honey\n04 - Givin' the Dog a Bone\n05 - Let Me Put My Love into You\n06 - Back in Black\n07 - You Shook Me All Night Long\n08 - Have a Drink on Me\n09 - Shake a Leg\n10 - Rock and Roll Ain't Noise Pollution",
+  "parsed": {
+    "xt": "urn:btih:135679653f2b8003d0327bc4fde15c280682cb4a",
+    "dn": "AC DC - Back In Black [mp3]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "135679653f2b8003d0327bc4fde15c280682cb4a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        19,
+        86,
+        121,
+        101,
+        63,
+        43,
+        128,
+        3,
+        208,
+        50,
+        123,
+        196,
+        253,
+        225,
+        92,
+        40,
+        6,
+        130,
+        203,
+        74
+      ]
+    },
+    "name": "AC DC - Back In Black [mp3]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 164,
+  "last_updated": "2016-12-24T17:44:33.961Z"
+}

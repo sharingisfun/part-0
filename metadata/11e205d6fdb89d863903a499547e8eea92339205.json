@@ -1,1 +1,61 @@
-{"title":"Lynda - Object-Oriented Programming with PHP","uid":11465675,"size":172692846,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:11e205d6fdb89d863903a499547e8eea92339205&amp;dn=Lynda+-+Object-Oriented+Programming+with+PHP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":2,"uploader":"NepsterJay","files":75,"time":1416029517,"description":"Whether you're enhancing or optimizing existing code or just starting from scratch, there's never a better time to start integrating object-oriented design techniques. This course shows how to integrate the principles of object-oriented programming into the build of a PHP-driven web page or application. After an overview of what objects and classes are and why they should be used, author Jon Peck dives into creating and instantiating objects, then defining the class relationships and interactions that will form the basis of your coding arsenal. The course also shows how to leverage PHP objects and implement design patterns, and looks at steps you can take to continue adding to your programming tool belt.\n\nTopics include:\nHistorical overview of object-oriented PHP\nDefining classes\nCreating a method/object context with $this\nAccessing classes without instantiation\nCreating a database class\nExtending and abstracting classes\nCloning and comparing objects\nError handling with exceptions\nImplementing design patterns, such as the factory and strategy patterns","torrent":{"xt":"urn:btih:11e205d6fdb89d863903a499547e8eea92339205","amp;dn":"Lynda+-+Object-Oriented+Programming+with+PHP","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"11e205d6fdb89d863903a499547e8eea92339205","infoHashBuffer":{"type":"Buffer","data":[17,226,5,214,253,184,157,134,57,3,164,153,84,126,142,234,146,51,146,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Lynda - Object-Oriented Programming with PHP",
+  "uid": 11465675,
+  "size": 172692846,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:11e205d6fdb89d863903a499547e8eea92339205&amp;dn=Lynda+-+Object-Oriented+Programming+with+PHP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 2,
+  "uploader": "NepsterJay",
+  "files": 75,
+  "time": 1416029517,
+  "description": "Whether you're enhancing or optimizing existing code or just starting from scratch, there's never a better time to start integrating object-oriented design techniques. This course shows how to integrate the principles of object-oriented programming into the build of a PHP-driven web page or application. After an overview of what objects and classes are and why they should be used, author Jon Peck dives into creating and instantiating objects, then defining the class relationships and interactions that will form the basis of your coding arsenal. The course also shows how to leverage PHP objects and implement design patterns, and looks at steps you can take to continue adding to your programming tool belt.\n\nTopics include:\nHistorical overview of object-oriented PHP\nDefining classes\nCreating a method/object context with $this\nAccessing classes without instantiation\nCreating a database class\nExtending and abstracting classes\nCloning and comparing objects\nError handling with exceptions\nImplementing design patterns, such as the factory and strategy patterns",
+  "parsed": {
+    "xt": "urn:btih:11e205d6fdb89d863903a499547e8eea92339205",
+    "dn": "Lynda - Object-Oriented Programming with PHP",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "11e205d6fdb89d863903a499547e8eea92339205",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        17,
+        226,
+        5,
+        214,
+        253,
+        184,
+        157,
+        134,
+        57,
+        3,
+        164,
+        153,
+        84,
+        126,
+        142,
+        234,
+        146,
+        51,
+        146,
+        5
+      ]
+    },
+    "name": "Lynda - Object-Oriented Programming with PHP",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 0,
+  "last_updated": "2016-12-24T17:32:19.214Z"
+}

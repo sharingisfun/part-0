@@ -1,1 +1,61 @@
-{"title":"Plant Vs Zombie Full Version","uid":6890687,"size":63869233,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:1298b9635265f9e724b09d16c2a154721826f96a&amp;dn=Plant+Vs+Zombie+Full+Version&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":1,"uploader":"Adly312","files":445,"time":1324000689,"description":"Plant Vs Zombie","torrent":{"xt":"urn:btih:1298b9635265f9e724b09d16c2a154721826f96a","amp;dn":"Plant+Vs+Zombie+Full+Version","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1298b9635265f9e724b09d16c2a154721826f96a","infoHashBuffer":{"type":"Buffer","data":[18,152,185,99,82,101,249,231,36,176,157,22,194,161,84,114,24,38,249,106]},"announce":[],"urlList":[]}}
+{
+  "title": "Plant Vs Zombie Full Version",
+  "uid": 6890687,
+  "size": 63869233,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:1298b9635265f9e724b09d16c2a154721826f96a&amp;dn=Plant+Vs+Zombie+Full+Version&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 1,
+  "uploader": "Adly312",
+  "files": 445,
+  "time": 1324000689,
+  "description": "Plant Vs Zombie",
+  "parsed": {
+    "xt": "urn:btih:1298b9635265f9e724b09d16c2a154721826f96a",
+    "dn": "Plant Vs Zombie Full Version",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1298b9635265f9e724b09d16c2a154721826f96a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        152,
+        185,
+        99,
+        82,
+        101,
+        249,
+        231,
+        36,
+        176,
+        157,
+        22,
+        194,
+        161,
+        84,
+        114,
+        24,
+        38,
+        249,
+        106
+      ]
+    },
+    "name": "Plant Vs Zombie Full Version",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 50,
+  "last_updated": "2016-12-24T17:38:40.610Z"
+}

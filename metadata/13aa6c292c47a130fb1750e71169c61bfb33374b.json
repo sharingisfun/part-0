@@ -1,1 +1,61 @@
-{"title":"Cake.2014.LIMITED.720p.BluRay.x264-GECKOS","uid":11789155,"size":4698341024,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:13aa6c292c47a130fb1750e71169c61bfb33374b&amp;dn=Cake.2014.LIMITED.720p.BluRay.x264-GECKOS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":9,"uploader":"makintos13","files":6,"time":1427862631,"description":"screens:\n &lt;a href=&quot;\nhttp://imgmak.com/image/4&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgmak.com/image/4&lt;/a&gt;","torrent":{"xt":"urn:btih:13aa6c292c47a130fb1750e71169c61bfb33374b","amp;dn":"Cake.2014.LIMITED.720p.BluRay.x264-GECKOS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"13aa6c292c47a130fb1750e71169c61bfb33374b","infoHashBuffer":{"type":"Buffer","data":[19,170,108,41,44,71,161,48,251,23,80,231,17,105,198,27,251,51,55,75]},"announce":[],"urlList":[]}}
+{
+  "title": "Cake.2014.LIMITED.720p.BluRay.x264-GECKOS",
+  "uid": 11789155,
+  "size": 4698341024,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:13aa6c292c47a130fb1750e71169c61bfb33374b&amp;dn=Cake.2014.LIMITED.720p.BluRay.x264-GECKOS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 9,
+  "uploader": "makintos13",
+  "files": 6,
+  "time": 1427862631,
+  "description": "screens:\n &lt;a href=&quot;\nhttp://imgmak.com/image/4&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgmak.com/image/4&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:13aa6c292c47a130fb1750e71169c61bfb33374b",
+    "dn": "Cake.2014.LIMITED.720p.BluRay.x264-GECKOS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "13aa6c292c47a130fb1750e71169c61bfb33374b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        19,
+        170,
+        108,
+        41,
+        44,
+        71,
+        161,
+        48,
+        251,
+        23,
+        80,
+        231,
+        17,
+        105,
+        198,
+        27,
+        251,
+        51,
+        55,
+        75
+      ]
+    },
+    "name": "Cake.2014.LIMITED.720p.BluRay.x264-GECKOS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 2,
+  "last_updated": "2016-12-24T17:46:56.484Z"
+}

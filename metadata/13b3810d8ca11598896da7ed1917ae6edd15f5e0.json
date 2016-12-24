@@ -1,1 +1,61 @@
-{"title":"Rascal Flatts - Rewind","uid":9495039,"size":8267665,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:13b3810d8ca11598896da7ed1917ae6edd15f5e0&amp;dn=Rascal+Flatts+-+Rewind&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":1,"uploader":"Booyahhayoob","files":-1,"time":1390080176,"description":"Couldn't find a torrent on TPB, so I figured I'd upload one.","torrent":{"xt":"urn:btih:13b3810d8ca11598896da7ed1917ae6edd15f5e0","amp;dn":"Rascal+Flatts+-+Rewind","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"13b3810d8ca11598896da7ed1917ae6edd15f5e0","infoHashBuffer":{"type":"Buffer","data":[19,179,129,13,140,161,21,152,137,109,167,237,25,23,174,110,221,21,245,224]},"announce":[],"urlList":[]}}
+{
+  "title": "Rascal Flatts - Rewind",
+  "uid": 9495039,
+  "size": 8267665,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:13b3810d8ca11598896da7ed1917ae6edd15f5e0&amp;dn=Rascal+Flatts+-+Rewind&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 1,
+  "uploader": "Booyahhayoob",
+  "files": -1,
+  "time": 1390080176,
+  "description": "Couldn't find a torrent on TPB, so I figured I'd upload one.",
+  "parsed": {
+    "xt": "urn:btih:13b3810d8ca11598896da7ed1917ae6edd15f5e0",
+    "dn": "Rascal Flatts - Rewind",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "13b3810d8ca11598896da7ed1917ae6edd15f5e0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        19,
+        179,
+        129,
+        13,
+        140,
+        161,
+        21,
+        152,
+        137,
+        109,
+        167,
+        237,
+        25,
+        23,
+        174,
+        110,
+        221,
+        21,
+        245,
+        224
+      ]
+    },
+    "name": "Rascal Flatts - Rewind",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 15,
+  "last_updated": "2016-12-24T17:47:22.564Z"
+}

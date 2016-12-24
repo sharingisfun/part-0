@@ -1,1 +1,61 @@
-{"title":"Suits.S05E09.HDTV.x264-ASAP[ettv]","uid":12252332,"size":256664799,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:12b6c646dfe6fff15b5da7bd2105fbf6cb7489ba&amp;dn=Suits.S05E09.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":234,"leechers":2,"uploader":"ettv","files":3,"time":1440043329,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:12b6c646dfe6fff15b5da7bd2105fbf6cb7489ba","amp;dn":"Suits.S05E09.HDTV.x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"12b6c646dfe6fff15b5da7bd2105fbf6cb7489ba","infoHashBuffer":{"type":"Buffer","data":[18,182,198,70,223,230,255,241,91,93,167,189,33,5,251,246,203,116,137,186]},"announce":[],"urlList":[]}}
+{
+  "title": "Suits.S05E09.HDTV.x264-ASAP[ettv]",
+  "uid": 12252332,
+  "size": 256664799,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:12b6c646dfe6fff15b5da7bd2105fbf6cb7489ba&amp;dn=Suits.S05E09.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 234,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1440043329,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:12b6c646dfe6fff15b5da7bd2105fbf6cb7489ba",
+    "dn": "Suits.S05E09.HDTV.x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "12b6c646dfe6fff15b5da7bd2105fbf6cb7489ba",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        182,
+        198,
+        70,
+        223,
+        230,
+        255,
+        241,
+        91,
+        93,
+        167,
+        189,
+        33,
+        5,
+        251,
+        246,
+        203,
+        116,
+        137,
+        186
+      ]
+    },
+    "name": "Suits.S05E09.HDTV.x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 236,
+  "peers": 22,
+  "last_updated": "2016-12-24T17:39:42.846Z"
+}

@@ -1,1 +1,61 @@
-{"title":"This War Of Mine (GOG)","uid":11589309,"size":773499620,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:12325e0c73defe7c645bde4179602409b3211d7d&amp;dn=This+War+Of+Mine+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":1031,"leechers":169,"uploader":"Sarah116","files":-1,"time":1417209392,"description":"Hey guys, here &quot;This war of mine&quot;. Hope you guys enjoy and please help seed.\n\n\n----------------\n\n\nThis War of Mine is the first game that lets you experience war not as a soldier, but as a group of civilians in a besieged city, struggling with a constant threat of disease, starvation and death, either from hardship, a sniper's bullet or at the hands of bandits. Do whatever it takes to survive - without destroying your souls, if possible.\n\nThe pace of the game is imposed by the day and night cycle. During the day snipers outside stop you from leaving your refuge, so you need to focus on maintaining your hideout: crafting, trading and taking care of survivors. At night, take one of your civilians on a mission to scavenge through a set of unique locations for items that will help you stay alive. \n\n\n    \n* Experience war from a completely new angle: play as civilians trying to survive\n    \n* Forge emotional bonds with your characters\n    \n* Inspired by real events\n\n &lt;a href=&quot;\nhttp://www.gog.com/game/this_war_of_mine&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.gog.com/game/this_war_of_mine&lt;/a&gt;","torrent":{"xt":"urn:btih:12325e0c73defe7c645bde4179602409b3211d7d","amp;dn":"This+War+Of+Mine+%28GOG%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"12325e0c73defe7c645bde4179602409b3211d7d","infoHashBuffer":{"type":"Buffer","data":[18,50,94,12,115,222,254,124,100,91,222,65,121,96,36,9,179,33,29,125]},"announce":[],"urlList":[]}}
+{
+  "title": "This War Of Mine (GOG)",
+  "uid": 11589309,
+  "size": 773499620,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:12325e0c73defe7c645bde4179602409b3211d7d&amp;dn=This+War+Of+Mine+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 1031,
+  "leechers": 169,
+  "uploader": "Sarah116",
+  "files": -1,
+  "time": 1417209392,
+  "description": "Hey guys, here &quot;This war of mine&quot;. Hope you guys enjoy and please help seed.\n\n\n----------------\n\n\nThis War of Mine is the first game that lets you experience war not as a soldier, but as a group of civilians in a besieged city, struggling with a constant threat of disease, starvation and death, either from hardship, a sniper's bullet or at the hands of bandits. Do whatever it takes to survive - without destroying your souls, if possible.\n\nThe pace of the game is imposed by the day and night cycle. During the day snipers outside stop you from leaving your refuge, so you need to focus on maintaining your hideout: crafting, trading and taking care of survivors. At night, take one of your civilians on a mission to scavenge through a set of unique locations for items that will help you stay alive. \n\n\n    \n* Experience war from a completely new angle: play as civilians trying to survive\n    \n* Forge emotional bonds with your characters\n    \n* Inspired by real events\n\n &lt;a href=&quot;\nhttp://www.gog.com/game/this_war_of_mine&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.gog.com/game/this_war_of_mine&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:12325e0c73defe7c645bde4179602409b3211d7d",
+    "dn": "This War Of Mine (GOG)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "12325e0c73defe7c645bde4179602409b3211d7d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        50,
+        94,
+        12,
+        115,
+        222,
+        254,
+        124,
+        100,
+        91,
+        222,
+        65,
+        121,
+        96,
+        36,
+        9,
+        179,
+        33,
+        29,
+        125
+      ]
+    },
+    "name": "This War Of Mine (GOG)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 1200,
+  "peers": 221,
+  "last_updated": "2016-12-24T17:35:17.812Z"
+}

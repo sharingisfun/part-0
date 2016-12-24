@@ -1,1 +1,61 @@
-{"title":"SDL Trados Studio 2014 Professional","uid":9001893,"size":839269365,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:11dfbcb2cea812bfdf51db9950992db36f633312&amp;dn=SDL+Trados+Studio+2014+Professional&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":0,"uploader":"jsrodrigo","files":1,"time":1380958354,"description":"Yes, this is SDL Trados Studio 2014 Professional.\nFollow the instructions in ReadMe file closely.\nCheers!!!","torrent":{"xt":"urn:btih:11dfbcb2cea812bfdf51db9950992db36f633312","amp;dn":"SDL+Trados+Studio+2014+Professional","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"11dfbcb2cea812bfdf51db9950992db36f633312","infoHashBuffer":{"type":"Buffer","data":[17,223,188,178,206,168,18,191,223,81,219,153,80,153,45,179,111,99,51,18]},"announce":[],"urlList":[]}}
+{
+  "title": "SDL Trados Studio 2014 Professional",
+  "uid": 9001893,
+  "size": 839269365,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:11dfbcb2cea812bfdf51db9950992db36f633312&amp;dn=SDL+Trados+Studio+2014+Professional&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 0,
+  "uploader": "jsrodrigo",
+  "files": 1,
+  "time": 1380958354,
+  "description": "Yes, this is SDL Trados Studio 2014 Professional.\nFollow the instructions in ReadMe file closely.\nCheers!!!",
+  "parsed": {
+    "xt": "urn:btih:11dfbcb2cea812bfdf51db9950992db36f633312",
+    "dn": "SDL Trados Studio 2014 Professional",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "11dfbcb2cea812bfdf51db9950992db36f633312",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        17,
+        223,
+        188,
+        178,
+        206,
+        168,
+        18,
+        191,
+        223,
+        81,
+        219,
+        153,
+        80,
+        153,
+        45,
+        179,
+        111,
+        99,
+        51,
+        18
+      ]
+    },
+    "name": "SDL Trados Studio 2014 Professional",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 64,
+  "last_updated": "2016-12-24T17:32:15.198Z"
+}

@@ -1,1 +1,61 @@
-{"title":"&quot;Weird Al&quot; Yankovic - Mandatory Fun (2014) 320kbps","uid":10534345,"size":108999336,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1289c5a79f58b6bdc0a4bcfab154cb3e18180328&amp;dn=%26quot%3BWeird+Al%26quot%3B+Yankovic+-+Mandatory+Fun+%282014%29+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":0,"uploader":"NadCu42","files":12,"time":1405142755,"description":"The pervasion of fun exists except for the lack of fun.","torrent":{"xt":"urn:btih:1289c5a79f58b6bdc0a4bcfab154cb3e18180328","amp;dn":"%26quot%3BWeird+Al%26quot%3B+Yankovic+-+Mandatory+Fun+%282014%29+320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1289c5a79f58b6bdc0a4bcfab154cb3e18180328","infoHashBuffer":{"type":"Buffer","data":[18,137,197,167,159,88,182,189,192,164,188,250,177,84,203,62,24,24,3,40]},"announce":[],"urlList":[]}}
+{
+  "title": "&quot;Weird Al&quot; Yankovic - Mandatory Fun (2014) 320kbps",
+  "uid": 10534345,
+  "size": 108999336,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1289c5a79f58b6bdc0a4bcfab154cb3e18180328&amp;dn=%26quot%3BWeird+Al%26quot%3B+Yankovic+-+Mandatory+Fun+%282014%29+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 0,
+  "uploader": "NadCu42",
+  "files": 12,
+  "time": 1405142755,
+  "description": "The pervasion of fun exists except for the lack of fun.",
+  "parsed": {
+    "xt": "urn:btih:1289c5a79f58b6bdc0a4bcfab154cb3e18180328",
+    "dn": "&quot;Weird Al&quot; Yankovic - Mandatory Fun (2014) 320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1289c5a79f58b6bdc0a4bcfab154cb3e18180328",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        137,
+        197,
+        167,
+        159,
+        88,
+        182,
+        189,
+        192,
+        164,
+        188,
+        250,
+        177,
+        84,
+        203,
+        62,
+        24,
+        24,
+        3,
+        40
+      ]
+    },
+    "name": "&quot;Weird Al&quot; Yankovic - Mandatory Fun (2014) 320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 10,
+  "last_updated": "2016-12-24T17:38:10.443Z"
+}

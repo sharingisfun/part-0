@@ -1,1 +1,61 @@
-{"title":"Rancid - And Out Come The Wolves (320KBPS)","uid":7684021,"size":119574713,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:133515bff0a8fcfa6d47a79758750c4d473374c9&amp;dn=Rancid+-+And+Out+Come+The+Wolves+%28320KBPS%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":3,"uploader":"MusicIsCoolio","files":-1,"time":1348900606,"description":"1995 Epitaph\n\n\n\n\nIf you don't seed,who will????\n\n\nONLY DOWNLOAD FROM THE PIRATE BAY!!!!!!\n\nSECOND RATE SITES ARE FOR SECOND RATE PEOPLE!!!!","torrent":{"xt":"urn:btih:133515bff0a8fcfa6d47a79758750c4d473374c9","amp;dn":"Rancid+-+And+Out+Come+The+Wolves+%28320KBPS%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"133515bff0a8fcfa6d47a79758750c4d473374c9","infoHashBuffer":{"type":"Buffer","data":[19,53,21,191,240,168,252,250,109,71,167,151,88,117,12,77,71,51,116,201]},"announce":[],"urlList":[]}}
+{
+  "title": "Rancid - And Out Come The Wolves (320KBPS)",
+  "uid": 7684021,
+  "size": 119574713,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:133515bff0a8fcfa6d47a79758750c4d473374c9&amp;dn=Rancid+-+And+Out+Come+The+Wolves+%28320KBPS%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 3,
+  "uploader": "MusicIsCoolio",
+  "files": -1,
+  "time": 1348900606,
+  "description": "1995 Epitaph\n\n\n\n\nIf you don't seed,who will????\n\n\nONLY DOWNLOAD FROM THE PIRATE BAY!!!!!!\n\nSECOND RATE SITES ARE FOR SECOND RATE PEOPLE!!!!",
+  "parsed": {
+    "xt": "urn:btih:133515bff0a8fcfa6d47a79758750c4d473374c9",
+    "dn": "Rancid - And Out Come The Wolves (320KBPS)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "133515bff0a8fcfa6d47a79758750c4d473374c9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        19,
+        53,
+        21,
+        191,
+        240,
+        168,
+        252,
+        250,
+        109,
+        71,
+        167,
+        151,
+        88,
+        117,
+        12,
+        77,
+        71,
+        51,
+        116,
+        201
+      ]
+    },
+    "name": "Rancid - And Out Come The Wolves (320KBPS)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 13,
+  "last_updated": "2016-12-24T17:43:45.810Z"
+}

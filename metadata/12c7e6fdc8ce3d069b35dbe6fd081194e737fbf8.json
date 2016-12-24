@@ -1,1 +1,61 @@
-{"title":"The.Lumineers-The.Lumineers-.Deluxe.Edition.-2013-MTD","uid":8834518,"size":98459934,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:12c7e6fdc8ce3d069b35dbe6fd081194e737fbf8&amp;dn=The.Lumineers-The.Lumineers-.Deluxe.Edition.-2013-MTD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":2,"uploader":"Drarbg","files":-1,"time":1377078568,"description":"The_Lumineers-The_Lumineers-_Deluxe_Edition_-2013-MTD\n","torrent":{"xt":"urn:btih:12c7e6fdc8ce3d069b35dbe6fd081194e737fbf8","amp;dn":"The.Lumineers-The.Lumineers-.Deluxe.Edition.-2013-MTD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"12c7e6fdc8ce3d069b35dbe6fd081194e737fbf8","infoHashBuffer":{"type":"Buffer","data":[18,199,230,253,200,206,61,6,155,53,219,230,253,8,17,148,231,55,251,248]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Lumineers-The.Lumineers-.Deluxe.Edition.-2013-MTD",
+  "uid": 8834518,
+  "size": 98459934,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:12c7e6fdc8ce3d069b35dbe6fd081194e737fbf8&amp;dn=The.Lumineers-The.Lumineers-.Deluxe.Edition.-2013-MTD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 2,
+  "uploader": "Drarbg",
+  "files": -1,
+  "time": 1377078568,
+  "description": "The_Lumineers-The_Lumineers-_Deluxe_Edition_-2013-MTD\n",
+  "parsed": {
+    "xt": "urn:btih:12c7e6fdc8ce3d069b35dbe6fd081194e737fbf8",
+    "dn": "The.Lumineers-The.Lumineers-.Deluxe.Edition.-2013-MTD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "12c7e6fdc8ce3d069b35dbe6fd081194e737fbf8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        199,
+        230,
+        253,
+        200,
+        206,
+        61,
+        6,
+        155,
+        53,
+        219,
+        230,
+        253,
+        8,
+        17,
+        148,
+        231,
+        55,
+        251,
+        248
+      ]
+    },
+    "name": "The.Lumineers-The.Lumineers-.Deluxe.Edition.-2013-MTD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 78,
+  "peers": 171,
+  "last_updated": "2016-12-24T17:40:02.916Z"
+}

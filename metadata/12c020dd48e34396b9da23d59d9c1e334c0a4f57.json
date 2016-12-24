@@ -1,1 +1,61 @@
-{"title":"Lost Frequencies - Are You With Me (Radio Edit)320kbps","uid":12081632,"size":5659013,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:12c020dd48e34396b9da23d59d9c1e334c0a4f57&amp;dn=Lost+Frequencies+-+Are+You+With+Me+%28Radio+Edit%29320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":140,"leechers":2,"uploader":"shlomonix","files":1,"time":1435786070,"description":"Lost Frequencies - Are You With Me (Radio Edit)320kbps","torrent":{"xt":"urn:btih:12c020dd48e34396b9da23d59d9c1e334c0a4f57","amp;dn":"Lost+Frequencies+-+Are+You+With+Me+%28Radio+Edit%29320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"12c020dd48e34396b9da23d59d9c1e334c0a4f57","infoHashBuffer":{"type":"Buffer","data":[18,192,32,221,72,227,67,150,185,218,35,213,157,156,30,51,76,10,79,87]},"announce":[],"urlList":[]}}
+{
+  "title": "Lost Frequencies - Are You With Me (Radio Edit)320kbps",
+  "uid": 12081632,
+  "size": 5659013,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:12c020dd48e34396b9da23d59d9c1e334c0a4f57&amp;dn=Lost+Frequencies+-+Are+You+With+Me+%28Radio+Edit%29320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 140,
+  "leechers": 2,
+  "uploader": "shlomonix",
+  "files": 1,
+  "time": 1435786070,
+  "description": "Lost Frequencies - Are You With Me (Radio Edit)320kbps",
+  "parsed": {
+    "xt": "urn:btih:12c020dd48e34396b9da23d59d9c1e334c0a4f57",
+    "dn": "Lost Frequencies - Are You With Me (Radio Edit)320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "12c020dd48e34396b9da23d59d9c1e334c0a4f57",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        192,
+        32,
+        221,
+        72,
+        227,
+        67,
+        150,
+        185,
+        218,
+        35,
+        213,
+        157,
+        156,
+        30,
+        51,
+        76,
+        10,
+        79,
+        87
+      ]
+    },
+    "name": "Lost Frequencies - Are You With Me (Radio Edit)320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 142,
+  "peers": 59,
+  "last_updated": "2016-12-24T17:39:56.901Z"
+}

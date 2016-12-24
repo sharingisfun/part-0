@@ -1,1 +1,61 @@
-{"title":"Terraria v1.3.0.2-MERCS213","uid":12079736,"size":90186672,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:12a901b43319159a4c7ef5f4806ab5bd625f3047&amp;dn=Terraria+v1.3.0.2-MERCS213&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":0,"uploader":"mercs215","files":1,"time":1435724408,"description":"Install instructions:\n1. Download and unzip \n2. Run &quot;StartTerraria.exe&quot;\n3. Play\n\nChange log:\n\nCore Game Fixes:\n Multicore lighting will now be disabled for everyone, although you may reenable it in the settings. \n Fixed issue with bubbles and reversed gravity. \n Fixed several crashes.\n &quot;Star Power&quot; and &quot;Get A Life&quot; achievements will no longer be granted upon entering a world. \n Fixed an issue with black squares appearing on backgrounds when using retro lighting. \n Capture mode will now disable itself if your computer cannot handle it.\n Fixed a stacking issue with wires. \n Made the &quot;Rock Bottom&quot; achievement slightly easier to get.\n Various balance tweaks.\n \n \nMultiplayer Fixes:\n You will now be able to enter the password every time when entering or creating a server. \n Many issues with the dedicated server and its configurations have been resolved. \n Fixed an issue where users would be unable to invite eachother when in &quot;Invite Only&quot; mode.\n Due to some changes in this hotfix, multiplayer will not be compatable between 1.3.0.2 and previous versions","torrent":{"xt":"urn:btih:12a901b43319159a4c7ef5f4806ab5bd625f3047","amp;dn":"Terraria+v1.3.0.2-MERCS213","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"12a901b43319159a4c7ef5f4806ab5bd625f3047","infoHashBuffer":{"type":"Buffer","data":[18,169,1,180,51,25,21,154,76,126,245,244,128,106,181,189,98,95,48,71]},"announce":[],"urlList":[]}}
+{
+  "title": "Terraria v1.3.0.2-MERCS213",
+  "uid": 12079736,
+  "size": 90186672,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:12a901b43319159a4c7ef5f4806ab5bd625f3047&amp;dn=Terraria+v1.3.0.2-MERCS213&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 0,
+  "uploader": "mercs215",
+  "files": 1,
+  "time": 1435724408,
+  "description": "Install instructions:\n1. Download and unzip \n2. Run &quot;StartTerraria.exe&quot;\n3. Play\n\nChange log:\n\nCore Game Fixes:\n Multicore lighting will now be disabled for everyone, although you may reenable it in the settings. \n Fixed issue with bubbles and reversed gravity. \n Fixed several crashes.\n &quot;Star Power&quot; and &quot;Get A Life&quot; achievements will no longer be granted upon entering a world. \n Fixed an issue with black squares appearing on backgrounds when using retro lighting. \n Capture mode will now disable itself if your computer cannot handle it.\n Fixed a stacking issue with wires. \n Made the &quot;Rock Bottom&quot; achievement slightly easier to get.\n Various balance tweaks.\n \n \nMultiplayer Fixes:\n You will now be able to enter the password every time when entering or creating a server. \n Many issues with the dedicated server and its configurations have been resolved. \n Fixed an issue where users would be unable to invite eachother when in &quot;Invite Only&quot; mode.\n Due to some changes in this hotfix, multiplayer will not be compatable between 1.3.0.2 and previous versions",
+  "parsed": {
+    "xt": "urn:btih:12a901b43319159a4c7ef5f4806ab5bd625f3047",
+    "dn": "Terraria v1.3.0.2-MERCS213",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "12a901b43319159a4c7ef5f4806ab5bd625f3047",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        169,
+        1,
+        180,
+        51,
+        25,
+        21,
+        154,
+        76,
+        126,
+        245,
+        244,
+        128,
+        106,
+        181,
+        189,
+        98,
+        95,
+        48,
+        71
+      ]
+    },
+    "name": "Terraria v1.3.0.2-MERCS213",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 7,
+  "last_updated": "2016-12-24T17:39:12.738Z"
+}

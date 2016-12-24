@@ -1,1 +1,61 @@
-{"title":"Coldplay - A Sky Full of Stars - EP-[Mp3-320kbps-2014]","uid":10446831,"size":32533112,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:1308f944e1fa8ab6d2d89017cb03f3b16c4343eb&amp;dn=Coldplay+-+A+Sky+Full+of+Stars+-+EP-%5BMp3-320kbps-2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":7,"uploader":"simpsonrony","files":-1,"time":1403973793,"description":"Source: https://itunes.apple.com/nz/album/a-sky-full-of-stars-ep/id892542258\n\nTrack List:\n***********\n\n01 A Sky Full of Stars (Radio Edit)\n02 All Your Friends\n03 Ghost Story\n04 O (Reprise)\n\n\n\nAudio Info:\n***********\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nWriting library                          : LAME3.99.5\n\n","torrent":{"xt":"urn:btih:1308f944e1fa8ab6d2d89017cb03f3b16c4343eb","amp;dn":"Coldplay+-+A+Sky+Full+of+Stars+-+EP-%5BMp3-320kbps-2014%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"1308f944e1fa8ab6d2d89017cb03f3b16c4343eb","infoHashBuffer":{"type":"Buffer","data":[19,8,249,68,225,250,138,182,210,216,144,23,203,3,243,177,108,67,67,235]},"announce":[],"urlList":[]}}
+{
+  "title": "Coldplay - A Sky Full of Stars - EP-[Mp3-320kbps-2014]",
+  "uid": 10446831,
+  "size": 32533112,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:1308f944e1fa8ab6d2d89017cb03f3b16c4343eb&amp;dn=Coldplay+-+A+Sky+Full+of+Stars+-+EP-%5BMp3-320kbps-2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 7,
+  "uploader": "simpsonrony",
+  "files": -1,
+  "time": 1403973793,
+  "description": "Source: https://itunes.apple.com/nz/album/a-sky-full-of-stars-ep/id892542258\n\nTrack List:\n***********\n\n01 A Sky Full of Stars (Radio Edit)\n02 All Your Friends\n03 Ghost Story\n04 O (Reprise)\n\n\n\nAudio Info:\n***********\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nWriting library                          : LAME3.99.5\n\n",
+  "parsed": {
+    "xt": "urn:btih:1308f944e1fa8ab6d2d89017cb03f3b16c4343eb",
+    "dn": "Coldplay - A Sky Full of Stars - EP-[Mp3-320kbps-2014]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "1308f944e1fa8ab6d2d89017cb03f3b16c4343eb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        19,
+        8,
+        249,
+        68,
+        225,
+        250,
+        138,
+        182,
+        210,
+        216,
+        144,
+        23,
+        203,
+        3,
+        243,
+        177,
+        108,
+        67,
+        67,
+        235
+      ]
+    },
+    "name": "Coldplay - A Sky Full of Stars - EP-[Mp3-320kbps-2014]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 67,
+  "last_updated": "2016-12-24T17:42:25.523Z"
+}

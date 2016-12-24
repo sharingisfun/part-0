@@ -1,1 +1,61 @@
-{"title":"ZZ Top - Greatest Hits @320","uid":5370036,"size":174723048,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:12d8aa3f31e8a497bffbd44162d347a73299bd45&amp;dn=ZZ+Top+-+Greatest+Hits+%40320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":100,"leechers":10,"uploader":"gerti_id","files":-1,"time":1266397218,"description":"ZZ Top - Greatest Hits\n\n01 Gimme All Your Lovin'\n02 Sharp Dressed Man\n03 Rough Boy\n04 Tush\n05 My Head's in Mississippi\n06 Pearl Necklace\n07 I'm Bad, I'm Nationwide\n08 Viva Las Vegas\n09 Doubleback\n10 Gun Love\n11 Got Me Under Pressure\n12 Give It Up\n13 Cheap Sunglasses\n14 Sleeping Bag\n15 Planet of Women\n16 La Grange\n17 Tube Snake Boogie\n18 Legs [#]\n\nEnjoy and keep seeding!","torrent":{"xt":"urn:btih:12d8aa3f31e8a497bffbd44162d347a73299bd45","amp;dn":"ZZ+Top+-+Greatest+Hits+%40320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"12d8aa3f31e8a497bffbd44162d347a73299bd45","infoHashBuffer":{"type":"Buffer","data":[18,216,170,63,49,232,164,151,191,251,212,65,98,211,71,167,50,153,189,69]},"announce":[],"urlList":[]}}
+{
+  "title": "ZZ Top - Greatest Hits @320",
+  "uid": 5370036,
+  "size": 174723048,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:12d8aa3f31e8a497bffbd44162d347a73299bd45&amp;dn=ZZ+Top+-+Greatest+Hits+%40320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 100,
+  "leechers": 10,
+  "uploader": "gerti_id",
+  "files": -1,
+  "time": 1266397218,
+  "description": "ZZ Top - Greatest Hits\n\n01 Gimme All Your Lovin'\n02 Sharp Dressed Man\n03 Rough Boy\n04 Tush\n05 My Head's in Mississippi\n06 Pearl Necklace\n07 I'm Bad, I'm Nationwide\n08 Viva Las Vegas\n09 Doubleback\n10 Gun Love\n11 Got Me Under Pressure\n12 Give It Up\n13 Cheap Sunglasses\n14 Sleeping Bag\n15 Planet of Women\n16 La Grange\n17 Tube Snake Boogie\n18 Legs [#]\n\nEnjoy and keep seeding!",
+  "parsed": {
+    "xt": "urn:btih:12d8aa3f31e8a497bffbd44162d347a73299bd45",
+    "dn": "ZZ Top - Greatest Hits @320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "12d8aa3f31e8a497bffbd44162d347a73299bd45",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        18,
+        216,
+        170,
+        63,
+        49,
+        232,
+        164,
+        151,
+        191,
+        251,
+        212,
+        65,
+        98,
+        211,
+        71,
+        167,
+        50,
+        153,
+        189,
+        69
+      ]
+    },
+    "name": "ZZ Top - Greatest Hits @320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 110,
+  "peers": 111,
+  "last_updated": "2016-12-24T17:40:29.010Z"
+}
