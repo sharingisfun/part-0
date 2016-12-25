@@ -1,1 +1,61 @@
-{"title":"The Walking Dead Season 1","uid":9045025,"size":2408326568,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d407eb3db41bd80a91f7db581c51142bcce101e2&amp;dn=The+Walking+Dead+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":173,"leechers":6,"uploader":"rukin2","files":-1,"time":1381723144,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt1520211&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt1520211&lt;/a&gt;\nThe COMPLETE FIRST season of The Walking Dead!\n\tSeason 1\nTWD.S1E01-Days Gone Bye\nTWD.S1E02-Guts\nTWD.S1E03-Tell It To The Frogs\nTWD.S1E04-Fever\nTWD.S1E05-Wildfire\nTWD.S1E06-TS-19\n Enjoy!\n Seed!\n Share!\n Comment!\n\n","torrent":{"xt":"urn:btih:d407eb3db41bd80a91f7db581c51142bcce101e2","amp;dn":"The+Walking+Dead+Season+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d407eb3db41bd80a91f7db581c51142bcce101e2","infoHashBuffer":{"type":"Buffer","data":[212,7,235,61,180,27,216,10,145,247,219,88,28,81,20,43,204,225,1,226]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead Season 1",
+  "uid": 9045025,
+  "size": 2408326568,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d407eb3db41bd80a91f7db581c51142bcce101e2&amp;dn=The+Walking+Dead+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 173,
+  "leechers": 6,
+  "uploader": "rukin2",
+  "files": -1,
+  "time": 1381723144,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt1520211&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt1520211&lt;/a&gt;\nThe COMPLETE FIRST season of The Walking Dead!\n\tSeason 1\nTWD.S1E01-Days Gone Bye\nTWD.S1E02-Guts\nTWD.S1E03-Tell It To The Frogs\nTWD.S1E04-Fever\nTWD.S1E05-Wildfire\nTWD.S1E06-TS-19\n Enjoy!\n Seed!\n Share!\n Comment!\n\n",
+  "parsed": {
+    "xt": "urn:btih:d407eb3db41bd80a91f7db581c51142bcce101e2",
+    "dn": "The Walking Dead Season 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d407eb3db41bd80a91f7db581c51142bcce101e2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        212,
+        7,
+        235,
+        61,
+        180,
+        27,
+        216,
+        10,
+        145,
+        247,
+        219,
+        88,
+        28,
+        81,
+        20,
+        43,
+        204,
+        225,
+        1,
+        226
+      ]
+    },
+    "name": "The Walking Dead Season 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 179,
+  "peers": 68,
+  "last_updated": "2016-12-25T14:56:23.902Z"
+}

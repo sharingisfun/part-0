@@ -1,1 +1,61 @@
-{"title":"Trailer Park Boys Season 9","uid":11783174,"size":3247625723,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d3b0318c91a4a3f1efbc44e94fd6342b7a059cf9&amp;dn=Trailer+Park+Boys+Season+9&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":13,"uploader":"HowdyDooDoo","files":10,"time":1427668420,"description":"Trailer Park Boys Season 9","torrent":{"xt":"urn:btih:d3b0318c91a4a3f1efbc44e94fd6342b7a059cf9","amp;dn":"Trailer+Park+Boys+Season+9","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d3b0318c91a4a3f1efbc44e94fd6342b7a059cf9","infoHashBuffer":{"type":"Buffer","data":[211,176,49,140,145,164,163,241,239,188,68,233,79,214,52,43,122,5,156,249]},"announce":[],"urlList":[]}}
+{
+  "title": "Trailer Park Boys Season 9",
+  "uid": 11783174,
+  "size": 3247625723,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d3b0318c91a4a3f1efbc44e94fd6342b7a059cf9&amp;dn=Trailer+Park+Boys+Season+9&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 13,
+  "uploader": "HowdyDooDoo",
+  "files": 10,
+  "time": 1427668420,
+  "description": "Trailer Park Boys Season 9",
+  "parsed": {
+    "xt": "urn:btih:d3b0318c91a4a3f1efbc44e94fd6342b7a059cf9",
+    "dn": "Trailer Park Boys Season 9",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d3b0318c91a4a3f1efbc44e94fd6342b7a059cf9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        211,
+        176,
+        49,
+        140,
+        145,
+        164,
+        163,
+        241,
+        239,
+        188,
+        68,
+        233,
+        79,
+        214,
+        52,
+        43,
+        122,
+        5,
+        156,
+        249
+      ]
+    },
+    "name": "Trailer Park Boys Season 9",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 77,
+  "peers": 126,
+  "last_updated": "2016-12-25T14:54:13.525Z"
+}

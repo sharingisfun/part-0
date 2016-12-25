@@ -1,1 +1,61 @@
-{"title":"The Chainsmokers - #SELFIE","uid":9625916,"size":9688760,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d41a54f4b1a2c847f89c502f63ade23611f6da10&amp;dn=The+Chainsmokers+-+%23SELFIE&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":80,"leechers":0,"uploader":"SickofReality","files":1,"time":1392592014,"description":"Here it is!~\n\nEnjoy.. Oh and..\n\nLet me take a #SELFIE","torrent":{"xt":"urn:btih:d41a54f4b1a2c847f89c502f63ade23611f6da10","amp;dn":"The+Chainsmokers+-+%23SELFIE","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d41a54f4b1a2c847f89c502f63ade23611f6da10","infoHashBuffer":{"type":"Buffer","data":[212,26,84,244,177,162,200,71,248,156,80,47,99,173,226,54,17,246,218,16]},"announce":[],"urlList":[]}}
+{
+  "title": "The Chainsmokers - #SELFIE",
+  "uid": 9625916,
+  "size": 9688760,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d41a54f4b1a2c847f89c502f63ade23611f6da10&amp;dn=The+Chainsmokers+-+%23SELFIE&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 80,
+  "leechers": 0,
+  "uploader": "SickofReality",
+  "files": 1,
+  "time": 1392592014,
+  "description": "Here it is!~\n\nEnjoy.. Oh and..\n\nLet me take a #SELFIE",
+  "parsed": {
+    "xt": "urn:btih:d41a54f4b1a2c847f89c502f63ade23611f6da10",
+    "dn": "The Chainsmokers - #SELFIE",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d41a54f4b1a2c847f89c502f63ade23611f6da10",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        212,
+        26,
+        84,
+        244,
+        177,
+        162,
+        200,
+        71,
+        248,
+        156,
+        80,
+        47,
+        99,
+        173,
+        226,
+        54,
+        17,
+        246,
+        218,
+        16
+      ]
+    },
+    "name": "The Chainsmokers - #SELFIE",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 65,
+  "last_updated": "2016-12-25T14:56:54.000Z"
+}

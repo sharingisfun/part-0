@@ -1,1 +1,61 @@
-{"title":"Premam - 2015 - Malayalam HQRip x264 800MB","uid":12120333,"size":866121699,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:d26cafcc1813a6af663f701f80c876f5efd27d31&amp;dn=Premam+-+2015+-+Malayalam+HQRip+x264+800MB&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":80,"leechers":16,"uploader":null,"files":2,"time":1436812387,"description":"Megahit malayalam movie 'Premam' (love) (2015) starring Nivin Pauly in lead role","torrent":{"xt":"urn:btih:d26cafcc1813a6af663f701f80c876f5efd27d31","amp;dn":"Premam+-+2015+-+Malayalam+HQRip+x264+800MB","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d26cafcc1813a6af663f701f80c876f5efd27d31","infoHashBuffer":{"type":"Buffer","data":[210,108,175,204,24,19,166,175,102,63,112,31,128,200,118,245,239,210,125,49]},"announce":[],"urlList":[]}}
+{
+  "title": "Premam - 2015 - Malayalam HQRip x264 800MB",
+  "uid": 12120333,
+  "size": 866121699,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:d26cafcc1813a6af663f701f80c876f5efd27d31&amp;dn=Premam+-+2015+-+Malayalam+HQRip+x264+800MB&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 80,
+  "leechers": 16,
+  "uploader": null,
+  "files": 2,
+  "time": 1436812387,
+  "description": "Megahit malayalam movie 'Premam' (love) (2015) starring Nivin Pauly in lead role",
+  "parsed": {
+    "xt": "urn:btih:d26cafcc1813a6af663f701f80c876f5efd27d31",
+    "dn": "Premam - 2015 - Malayalam HQRip x264 800MB",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d26cafcc1813a6af663f701f80c876f5efd27d31",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        210,
+        108,
+        175,
+        204,
+        24,
+        19,
+        166,
+        175,
+        102,
+        63,
+        112,
+        31,
+        128,
+        200,
+        118,
+        245,
+        239,
+        210,
+        125,
+        49
+      ]
+    },
+    "name": "Premam - 2015 - Malayalam HQRip x264 800MB",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 96,
+  "peers": 16,
+  "last_updated": "2016-12-25T14:45:45.549Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Gojira - Discography (1996-2012) [mp3@320]","uid":10100730,"size":1569376521,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d2c581d101b2938d57fb96fb0ce9626747b7f2c5&amp;dn=Gojira+-+Discography+%281996-2012%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":22,"uploader":"qculfj","files":152,"time":1399394824,"description":"Studio albums:\n\n2001 - Terra Incognita\n2001 - Terra Incognita (Reissued - 2009)\n2003 - The Link\n2003 - The Link (Re-Release - 2005)\n2005 - From Mars to Sirius\n2008 - The Way of All Flesh\n2012 - L'enfant Sauvage (Special Edition)\n\nLive albums:\n\n2005 - The Link Alive\n2012 - The Flesh Alive\n\nDemo albums:\n\n1996 - Victim (vbr 245 kbps)\n1997 - Possessed (2003 Re-Release)\n1999 - Saturate (vbr 215 kbps)\n2000 - Wisdom comes (vbr 222 kbps)\n\nSingles:\n\n2011 - Of Blood And Salt","torrent":{"xt":"urn:btih:d2c581d101b2938d57fb96fb0ce9626747b7f2c5","amp;dn":"Gojira+-+Discography+%281996-2012%29+%5Bmp3%40320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d2c581d101b2938d57fb96fb0ce9626747b7f2c5","infoHashBuffer":{"type":"Buffer","data":[210,197,129,209,1,178,147,141,87,251,150,251,12,233,98,103,71,183,242,197]},"announce":[],"urlList":[]}}
+{
+  "title": "Gojira - Discography (1996-2012) [mp3@320]",
+  "uid": 10100730,
+  "size": 1569376521,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d2c581d101b2938d57fb96fb0ce9626747b7f2c5&amp;dn=Gojira+-+Discography+%281996-2012%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 22,
+  "uploader": "qculfj",
+  "files": 152,
+  "time": 1399394824,
+  "description": "Studio albums:\n\n2001 - Terra Incognita\n2001 - Terra Incognita (Reissued - 2009)\n2003 - The Link\n2003 - The Link (Re-Release - 2005)\n2005 - From Mars to Sirius\n2008 - The Way of All Flesh\n2012 - L'enfant Sauvage (Special Edition)\n\nLive albums:\n\n2005 - The Link Alive\n2012 - The Flesh Alive\n\nDemo albums:\n\n1996 - Victim (vbr 245 kbps)\n1997 - Possessed (2003 Re-Release)\n1999 - Saturate (vbr 215 kbps)\n2000 - Wisdom comes (vbr 222 kbps)\n\nSingles:\n\n2011 - Of Blood And Salt",
+  "parsed": {
+    "xt": "urn:btih:d2c581d101b2938d57fb96fb0ce9626747b7f2c5",
+    "dn": "Gojira - Discography (1996-2012) [mp3@320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d2c581d101b2938d57fb96fb0ce9626747b7f2c5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        210,
+        197,
+        129,
+        209,
+        1,
+        178,
+        147,
+        141,
+        87,
+        251,
+        150,
+        251,
+        12,
+        233,
+        98,
+        103,
+        71,
+        183,
+        242,
+        197
+      ]
+    },
+    "name": "Gojira - Discography (1996-2012) [mp3@320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 0,
+  "last_updated": "2016-12-25T14:48:10.129Z"
+}

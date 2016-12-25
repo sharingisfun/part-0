@@ -1,1 +1,63 @@
-{"title":"Mario Kart 8 WiiU USA Loadiine Ready2Play","uid":13789438,"size":5395866838,"categoryP":"games","categoryS":"wii","magnet":"?xt=urn:btih:d4317e1166c9f76e07c500ab3676c9f861e323a3&amp;dn=Mario+Kart+8+WiiU+USA+Loadiine+Ready2Play&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":162,"leechers":25,"uploader":"elton_eas","files":22,"time":1457387142,"description":"Mario Kart 8 USA testado no Loadiine GX2.\r\n\r\n\r\nEspero que ajude.\r\n\r\n\r\nBrasil acima de tudo!","torrent":{"xt":"urn:btih:d4317e1166c9f76e07c500ab3676c9f861e323a3","amp;dn":"Mario+Kart+8+WiiU+USA+Loadiine+Ready2Play","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d4317e1166c9f76e07c500ab3676c9f861e323a3","infoHashBuffer":{"type":"Buffer","data":[212,49,126,17,102,201,247,110,7,197,0,171,54,118,201,248,97,227,35,163]},"announce":[],"urlList":[]}}
+{
+  "title": "Mario Kart 8 WiiU USA Loadiine Ready2Play",
+  "uid": 13789438,
+  "size": 5395866838,
+  "categoryP": "games",
+  "categoryS": "wii",
+  "magnet": "?xt=urn:btih:d4317e1166c9f76e07c500ab3676c9f861e323a3&amp;dn=Mario+Kart+8+WiiU+USA+Loadiine+Ready2Play&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 162,
+  "leechers": 25,
+  "uploader": "elton_eas",
+  "files": 22,
+  "time": 1457387142,
+  "description": "Mario Kart 8 USA testado no Loadiine GX2.\r\n\r\n\r\nEspero que ajude.\r\n\r\n\r\nBrasil acima de tudo!",
+  "parsed": {
+    "xt": "urn:btih:d4317e1166c9f76e07c500ab3676c9f861e323a3",
+    "dn": "Mario Kart 8 WiiU USA Loadiine Ready2Play",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "d4317e1166c9f76e07c500ab3676c9f861e323a3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        212,
+        49,
+        126,
+        17,
+        102,
+        201,
+        247,
+        110,
+        7,
+        197,
+        0,
+        171,
+        54,
+        118,
+        201,
+        248,
+        97,
+        227,
+        35,
+        163
+      ]
+    },
+    "name": "Mario Kart 8 WiiU USA Loadiine Ready2Play",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 187,
+  "peers": 100,
+  "last_updated": "2016-12-25T14:57:26.096Z"
+}

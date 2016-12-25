@@ -1,1 +1,61 @@
-{"title":"Thor 002 (2015) (digital) (Minutemen-Midas).cbr","uid":11440872,"size":49960440,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:d20ba881547a7f8133f3f840d2e614c6d9a0d931&amp;dn=Thor+002+%282015%29+%28digital%29+%28Minutemen-Midas%29.cbr&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":0,"uploader":"nemesis43","files":1,"time":1415805915,"description":"Thor 002 (2015) (digital) (Minutemen-Midas)","torrent":{"xt":"urn:btih:d20ba881547a7f8133f3f840d2e614c6d9a0d931","amp;dn":"Thor+002+%282015%29+%28digital%29+%28Minutemen-Midas%29.cbr","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d20ba881547a7f8133f3f840d2e614c6d9a0d931","infoHashBuffer":{"type":"Buffer","data":[210,11,168,129,84,122,127,129,51,243,248,64,210,230,20,198,217,160,217,49]},"announce":[],"urlList":[]}}
+{
+  "title": "Thor 002 (2015) (digital) (Minutemen-Midas).cbr",
+  "uid": 11440872,
+  "size": 49960440,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:d20ba881547a7f8133f3f840d2e614c6d9a0d931&amp;dn=Thor+002+%282015%29+%28digital%29+%28Minutemen-Midas%29.cbr&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 0,
+  "uploader": "nemesis43",
+  "files": 1,
+  "time": 1415805915,
+  "description": "Thor 002 (2015) (digital) (Minutemen-Midas)",
+  "parsed": {
+    "xt": "urn:btih:d20ba881547a7f8133f3f840d2e614c6d9a0d931",
+    "dn": "Thor 002 (2015) (digital) (Minutemen-Midas).cbr",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d20ba881547a7f8133f3f840d2e614c6d9a0d931",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        210,
+        11,
+        168,
+        129,
+        84,
+        122,
+        127,
+        129,
+        51,
+        243,
+        248,
+        64,
+        210,
+        230,
+        20,
+        198,
+        217,
+        160,
+        217,
+        49
+      ]
+    },
+    "name": "Thor 002 (2015) (digital) (Minutemen-Midas).cbr",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 14,
+  "last_updated": "2016-12-25T14:43:51.106Z"
+}

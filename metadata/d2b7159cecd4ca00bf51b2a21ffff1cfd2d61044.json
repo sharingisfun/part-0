@@ -1,1 +1,61 @@
-{"title":"Ryse.Son.of.Rome-CODEX","uid":11187127,"size":27817645636,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:d2b7159cecd4ca00bf51b2a21ffff1cfd2d61044&amp;dn=Ryse.Son.of.Rome-CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":169,"leechers":104,"uploader":"Drarbg","files":3,"time":1412941496,"description":" &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nRyse.Son.of.Rome-CODEX\n","torrent":{"xt":"urn:btih:d2b7159cecd4ca00bf51b2a21ffff1cfd2d61044","amp;dn":"Ryse.Son.of.Rome-CODEX","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d2b7159cecd4ca00bf51b2a21ffff1cfd2d61044","infoHashBuffer":{"type":"Buffer","data":[210,183,21,156,236,212,202,0,191,81,178,162,31,255,241,207,210,214,16,68]},"announce":[],"urlList":[]}}
+{
+  "title": "Ryse.Son.of.Rome-CODEX",
+  "uid": 11187127,
+  "size": 27817645636,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:d2b7159cecd4ca00bf51b2a21ffff1cfd2d61044&amp;dn=Ryse.Son.of.Rome-CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 169,
+  "leechers": 104,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1412941496,
+  "description": " &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nRyse.Son.of.Rome-CODEX\n",
+  "parsed": {
+    "xt": "urn:btih:d2b7159cecd4ca00bf51b2a21ffff1cfd2d61044",
+    "dn": "Ryse.Son.of.Rome-CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d2b7159cecd4ca00bf51b2a21ffff1cfd2d61044",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        210,
+        183,
+        21,
+        156,
+        236,
+        212,
+        202,
+        0,
+        191,
+        81,
+        178,
+        162,
+        31,
+        255,
+        241,
+        207,
+        210,
+        214,
+        16,
+        68
+      ]
+    },
+    "name": "Ryse.Son.of.Rome-CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 273,
+  "peers": 40,
+  "last_updated": "2016-12-25T14:47:52.064Z"
+}

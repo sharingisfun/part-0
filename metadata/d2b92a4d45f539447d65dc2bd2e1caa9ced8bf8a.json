@@ -1,1 +1,61 @@
-{"title":"Lana Del Rey - Born to Die","uid":7998168,"size":11537378,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d2b92a4d45f539447d65dc2bd2e1caa9ced8bf8a&amp;dn=Lana+Del+Rey+-+Born+to+Die&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":0,"uploader":"Tuffnut","files":-1,"time":1357675116,"description":"Lana Del Rey - Born to Die\n\nArtist: Lana Del Rey\nTrack: Born to Die\nGenre: Alternative\nYear: 2012\nBitrate: 320 Kbps\n\n--------------------------------\n!!! Download, Seed and Enjoy !!!\n--------------------------------\n","torrent":{"xt":"urn:btih:d2b92a4d45f539447d65dc2bd2e1caa9ced8bf8a","amp;dn":"Lana+Del+Rey+-+Born+to+Die","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d2b92a4d45f539447d65dc2bd2e1caa9ced8bf8a","infoHashBuffer":{"type":"Buffer","data":[210,185,42,77,69,245,57,68,125,101,220,43,210,225,202,169,206,216,191,138]},"announce":[],"urlList":[]}}
+{
+  "title": "Lana Del Rey - Born to Die",
+  "uid": 7998168,
+  "size": 11537378,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d2b92a4d45f539447d65dc2bd2e1caa9ced8bf8a&amp;dn=Lana+Del+Rey+-+Born+to+Die&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 0,
+  "uploader": "Tuffnut",
+  "files": -1,
+  "time": 1357675116,
+  "description": "Lana Del Rey - Born to Die\n\nArtist: Lana Del Rey\nTrack: Born to Die\nGenre: Alternative\nYear: 2012\nBitrate: 320 Kbps\n\n--------------------------------\n!!! Download, Seed and Enjoy !!!\n--------------------------------\n",
+  "parsed": {
+    "xt": "urn:btih:d2b92a4d45f539447d65dc2bd2e1caa9ced8bf8a",
+    "dn": "Lana Del Rey - Born to Die",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d2b92a4d45f539447d65dc2bd2e1caa9ced8bf8a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        210,
+        185,
+        42,
+        77,
+        69,
+        245,
+        57,
+        68,
+        125,
+        101,
+        220,
+        43,
+        210,
+        225,
+        202,
+        169,
+        206,
+        216,
+        191,
+        138
+      ]
+    },
+    "name": "Lana Del Rey - Born to Die",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 18,
+  "last_updated": "2016-12-25T14:47:56.078Z"
+}

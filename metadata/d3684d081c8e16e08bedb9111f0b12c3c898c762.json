@@ -1,1 +1,61 @@
-{"title":"The Simpsons S26E10 HDTV x264-ASAP [eztv]","uid":11672934,"size":171892500,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d3684d081c8e16e08bedb9111f0b12c3c898c762&amp;dn=The+Simpsons+S26E10+HDTV+x264-ASAP+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":156,"leechers":7,"uploader":"Mbb15","files":1,"time":1422738638,"description":"An animated series about the satiric adventures of a working-class family in the misfit city of Springfield","torrent":{"xt":"urn:btih:d3684d081c8e16e08bedb9111f0b12c3c898c762","amp;dn":"The+Simpsons+S26E10+HDTV+x264-ASAP+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d3684d081c8e16e08bedb9111f0b12c3c898c762","infoHashBuffer":{"type":"Buffer","data":[211,104,77,8,28,142,22,224,139,237,185,17,31,11,18,195,200,152,199,98]},"announce":[],"urlList":[]}}
+{
+  "title": "The Simpsons S26E10 HDTV x264-ASAP [eztv]",
+  "uid": 11672934,
+  "size": 171892500,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d3684d081c8e16e08bedb9111f0b12c3c898c762&amp;dn=The+Simpsons+S26E10+HDTV+x264-ASAP+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 156,
+  "leechers": 7,
+  "uploader": "Mbb15",
+  "files": 1,
+  "time": 1422738638,
+  "description": "An animated series about the satiric adventures of a working-class family in the misfit city of Springfield",
+  "parsed": {
+    "xt": "urn:btih:d3684d081c8e16e08bedb9111f0b12c3c898c762",
+    "dn": "The Simpsons S26E10 HDTV x264-ASAP [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d3684d081c8e16e08bedb9111f0b12c3c898c762",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        211,
+        104,
+        77,
+        8,
+        28,
+        142,
+        22,
+        224,
+        139,
+        237,
+        185,
+        17,
+        31,
+        11,
+        18,
+        195,
+        200,
+        152,
+        199,
+        98
+      ]
+    },
+    "name": "The Simpsons S26E10 HDTV x264-ASAP [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 163,
+  "peers": 17,
+  "last_updated": "2016-12-25T14:52:21.195Z"
+}

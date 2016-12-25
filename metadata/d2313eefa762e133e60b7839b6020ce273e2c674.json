@@ -1,1 +1,61 @@
-{"title":"ACDC - Greatest Hits","uid":5877482,"size":388841903,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d2313eefa762e133e60b7839b6020ce273e2c674&amp;dn=ACDC+-+Greatest+Hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":121,"leechers":3,"uploader":"Gemool","files":42,"time":1286705221,"description":"please seed and check out my other torrents","torrent":{"xt":"urn:btih:d2313eefa762e133e60b7839b6020ce273e2c674","amp;dn":"ACDC+-+Greatest+Hits","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d2313eefa762e133e60b7839b6020ce273e2c674","infoHashBuffer":{"type":"Buffer","data":[210,49,62,239,167,98,225,51,230,11,120,57,182,2,12,226,115,226,198,116]},"announce":[],"urlList":[]}}
+{
+  "title": "ACDC - Greatest Hits",
+  "uid": 5877482,
+  "size": 388841903,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d2313eefa762e133e60b7839b6020ce273e2c674&amp;dn=ACDC+-+Greatest+Hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 121,
+  "leechers": 3,
+  "uploader": "Gemool",
+  "files": 42,
+  "time": 1286705221,
+  "description": "please seed and check out my other torrents",
+  "parsed": {
+    "xt": "urn:btih:d2313eefa762e133e60b7839b6020ce273e2c674",
+    "dn": "ACDC - Greatest Hits",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d2313eefa762e133e60b7839b6020ce273e2c674",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        210,
+        49,
+        62,
+        239,
+        167,
+        98,
+        225,
+        51,
+        230,
+        11,
+        120,
+        57,
+        182,
+        2,
+        12,
+        226,
+        115,
+        226,
+        198,
+        116
+      ]
+    },
+    "name": "ACDC - Greatest Hits",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 124,
+  "peers": 52,
+  "last_updated": "2016-12-25T14:44:31.265Z"
+}

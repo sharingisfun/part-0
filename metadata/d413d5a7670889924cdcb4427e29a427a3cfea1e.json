@@ -1,1 +1,61 @@
-{"title":"Kanye West - Late Registration","uid":11773749,"size":165473071,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d413d5a7670889924cdcb4427e29a427a3cfea1e&amp;dn=Kanye+West+-+Late+Registration&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":33,"uploader":null,"files":21,"time":1427184993,"description":"320","torrent":{"xt":"urn:btih:d413d5a7670889924cdcb4427e29a427a3cfea1e","amp;dn":"Kanye+West+-+Late+Registration","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d413d5a7670889924cdcb4427e29a427a3cfea1e","infoHashBuffer":{"type":"Buffer","data":[212,19,213,167,103,8,137,146,76,220,180,66,126,41,164,39,163,207,234,30]},"announce":[],"urlList":[]}}
+{
+  "title": "Kanye West - Late Registration",
+  "uid": 11773749,
+  "size": 165473071,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d413d5a7670889924cdcb4427e29a427a3cfea1e&amp;dn=Kanye+West+-+Late+Registration&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 33,
+  "uploader": null,
+  "files": 21,
+  "time": 1427184993,
+  "description": "320",
+  "parsed": {
+    "xt": "urn:btih:d413d5a7670889924cdcb4427e29a427a3cfea1e",
+    "dn": "Kanye West - Late Registration",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d413d5a7670889924cdcb4427e29a427a3cfea1e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        212,
+        19,
+        213,
+        167,
+        103,
+        8,
+        137,
+        146,
+        76,
+        220,
+        180,
+        66,
+        126,
+        41,
+        164,
+        39,
+        163,
+        207,
+        234,
+        30
+      ]
+    },
+    "name": "Kanye West - Late Registration",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 112,
+  "peers": 18,
+  "last_updated": "2016-12-25T14:56:37.953Z"
+}

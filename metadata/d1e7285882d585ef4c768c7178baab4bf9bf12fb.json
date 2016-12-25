@@ -1,1 +1,61 @@
-{"title":"Adobe CS6 Master Collection Multi Mac","uid":8254337,"size":8752219788,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:d1e7285882d585ef4c768c7178baab4bf9bf12fb&amp;dn=Adobe+CS6+Master+Collection+Multi+Mac&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":6,"uploader":"gr1LLo","files":2,"time":1363226276,"description":"EspaÃƒÂ±ol\nDeutsch\nItaliano\nFranÃƒÂ§ais","torrent":{"xt":"urn:btih:d1e7285882d585ef4c768c7178baab4bf9bf12fb","amp;dn":"Adobe+CS6+Master+Collection+Multi+Mac","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d1e7285882d585ef4c768c7178baab4bf9bf12fb","infoHashBuffer":{"type":"Buffer","data":[209,231,40,88,130,213,133,239,76,118,140,113,120,186,171,75,249,191,18,251]},"announce":[],"urlList":[]}}
+{
+  "title": "Adobe CS6 Master Collection Multi Mac",
+  "uid": 8254337,
+  "size": 8752219788,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:d1e7285882d585ef4c768c7178baab4bf9bf12fb&amp;dn=Adobe+CS6+Master+Collection+Multi+Mac&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 6,
+  "uploader": "gr1LLo",
+  "files": 2,
+  "time": 1363226276,
+  "description": "EspaÃƒÂ±ol\nDeutsch\nItaliano\nFranÃƒÂ§ais",
+  "parsed": {
+    "xt": "urn:btih:d1e7285882d585ef4c768c7178baab4bf9bf12fb",
+    "dn": "Adobe CS6 Master Collection Multi Mac",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d1e7285882d585ef4c768c7178baab4bf9bf12fb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        209,
+        231,
+        40,
+        88,
+        130,
+        213,
+        133,
+        239,
+        76,
+        118,
+        140,
+        113,
+        120,
+        186,
+        171,
+        75,
+        249,
+        191,
+        18,
+        251
+      ]
+    },
+    "name": "Adobe CS6 Master Collection Multi Mac",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 50,
+  "last_updated": "2016-12-25T14:42:48.862Z"
+}

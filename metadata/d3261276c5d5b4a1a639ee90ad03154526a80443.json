@@ -1,1 +1,61 @@
-{"title":"Northlane - Discoveries (2011) MP3","uid":7121786,"size":109041385,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d3261276c5d5b4a1a639ee90ad03154526a80443&amp;dn=Northlane+-+Discoveries+%282011%29+MP3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":5,"uploader":"maxrus","files":-1,"time":1332395868,"description":"Genre: Progressive Metalcore \nYear: 2011 \nCodec: MP3 \nType: Tracks \nBitrate: 320 kbps \nDuration: 00:41:14 \n \nTracklist:\n\n 01. Dispossession (03:43) \n 02. Abrasumente (04:04) \n 03. Comatose (04:13) \n 04. Transcending Dimensions (03:43) \n 05. Discoveries (04:56) \n 06. Collision (03:55) \n 07. Exposure (03:41) \n 08. Metamorphosis (04:39) \n 09. Solace (03:23) \n 10. I Shook Hands With Death (04:56)","torrent":{"xt":"urn:btih:d3261276c5d5b4a1a639ee90ad03154526a80443","amp;dn":"Northlane+-+Discoveries+%282011%29+MP3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d3261276c5d5b4a1a639ee90ad03154526a80443","infoHashBuffer":{"type":"Buffer","data":[211,38,18,118,197,213,180,161,166,57,238,144,173,3,21,69,38,168,4,67]},"announce":[],"urlList":[]}}
+{
+  "title": "Northlane - Discoveries (2011) MP3",
+  "uid": 7121786,
+  "size": 109041385,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d3261276c5d5b4a1a639ee90ad03154526a80443&amp;dn=Northlane+-+Discoveries+%282011%29+MP3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 5,
+  "uploader": "maxrus",
+  "files": -1,
+  "time": 1332395868,
+  "description": "Genre: Progressive Metalcore \nYear: 2011 \nCodec: MP3 \nType: Tracks \nBitrate: 320 kbps \nDuration: 00:41:14 \n \nTracklist:\n\n 01. Dispossession (03:43) \n 02. Abrasumente (04:04) \n 03. Comatose (04:13) \n 04. Transcending Dimensions (03:43) \n 05. Discoveries (04:56) \n 06. Collision (03:55) \n 07. Exposure (03:41) \n 08. Metamorphosis (04:39) \n 09. Solace (03:23) \n 10. I Shook Hands With Death (04:56)",
+  "parsed": {
+    "xt": "urn:btih:d3261276c5d5b4a1a639ee90ad03154526a80443",
+    "dn": "Northlane - Discoveries (2011) MP3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d3261276c5d5b4a1a639ee90ad03154526a80443",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        211,
+        38,
+        18,
+        118,
+        197,
+        213,
+        180,
+        161,
+        166,
+        57,
+        238,
+        144,
+        173,
+        3,
+        21,
+        69,
+        38,
+        168,
+        4,
+        67
+      ]
+    },
+    "name": "Northlane - Discoveries (2011) MP3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 20,
+  "last_updated": "2016-12-25T14:50:32.812Z"
+}

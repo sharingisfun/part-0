@@ -1,1 +1,63 @@
-{"title":"Sandboxie 4.18 - Final (x86-x64) + Patch-uuk","uid":15963955,"size":13361298,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:d475def3619ddbdd55d2160d4a75c6fdab69218f&amp;dn=Sandboxie+4.18+-+Final+%28x86-x64%29+%2B+Patch-uuk&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":1921,"leechers":262,"uploader":"gDeinad","files":1,"time":1475703797,"description":"\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program","torrent":{"xt":"urn:btih:d475def3619ddbdd55d2160d4a75c6fdab69218f","amp;dn":"Sandboxie+4.18+-+Final+%28x86-x64%29+%2B+Patch-uuk","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d475def3619ddbdd55d2160d4a75c6fdab69218f","infoHashBuffer":{"type":"Buffer","data":[212,117,222,243,97,157,219,221,85,210,22,13,74,117,198,253,171,105,33,143]},"announce":[],"urlList":[]}}
+{
+  "title": "Sandboxie 4.18 - Final (x86-x64) + Patch-uuk",
+  "uid": 15963955,
+  "size": 13361298,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:d475def3619ddbdd55d2160d4a75c6fdab69218f&amp;dn=Sandboxie+4.18+-+Final+%28x86-x64%29+%2B+Patch-uuk&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 1921,
+  "leechers": 262,
+  "uploader": "gDeinad",
+  "files": 1,
+  "time": 1475703797,
+  "description": "\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program",
+  "parsed": {
+    "xt": "urn:btih:d475def3619ddbdd55d2160d4a75c6fdab69218f",
+    "dn": "Sandboxie 4.18 - Final (x86-x64)   Patch-uuk",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "d475def3619ddbdd55d2160d4a75c6fdab69218f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        212,
+        117,
+        222,
+        243,
+        97,
+        157,
+        219,
+        221,
+        85,
+        210,
+        22,
+        13,
+        74,
+        117,
+        198,
+        253,
+        171,
+        105,
+        33,
+        143
+      ]
+    },
+    "name": "Sandboxie 4.18 - Final (x86-x64)   Patch-uuk",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 2183,
+  "peers": 1,
+  "last_updated": "2016-12-25T14:58:56.356Z"
+}

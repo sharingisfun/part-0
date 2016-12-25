@@ -1,1 +1,61 @@
-{"title":"Olive Kitteridge Part 1-4 HDTV x264-KILLERS[ettv]","uid":11400337,"size":1918930906,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d20428b15019aac7a6e3c31aa1448a01cf3247f2&amp;dn=Olive+Kitteridge+Part+1-4+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":102,"leechers":5,"uploader":"ettv","files":5,"time":1415410560,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps &lt;a href=&quot;\nhttp://www.tvrage.com/olive-kitteridge&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.tvrage.com/olive-kitteridge&lt;/a&gt;","torrent":{"xt":"urn:btih:d20428b15019aac7a6e3c31aa1448a01cf3247f2","amp;dn":"Olive+Kitteridge+Part+1-4+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d20428b15019aac7a6e3c31aa1448a01cf3247f2","infoHashBuffer":{"type":"Buffer","data":[210,4,40,177,80,25,170,199,166,227,195,26,161,68,138,1,207,50,71,242]},"announce":[],"urlList":[]}}
+{
+  "title": "Olive Kitteridge Part 1-4 HDTV x264-KILLERS[ettv]",
+  "uid": 11400337,
+  "size": 1918930906,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d20428b15019aac7a6e3c31aa1448a01cf3247f2&amp;dn=Olive+Kitteridge+Part+1-4+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 102,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 5,
+  "time": 1415410560,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps &lt;a href=&quot;\nhttp://www.tvrage.com/olive-kitteridge&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.tvrage.com/olive-kitteridge&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:d20428b15019aac7a6e3c31aa1448a01cf3247f2",
+    "dn": "Olive Kitteridge Part 1-4 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d20428b15019aac7a6e3c31aa1448a01cf3247f2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        210,
+        4,
+        40,
+        177,
+        80,
+        25,
+        170,
+        199,
+        166,
+        227,
+        195,
+        26,
+        161,
+        68,
+        138,
+        1,
+        207,
+        50,
+        71,
+        242
+      ]
+    },
+    "name": "Olive Kitteridge Part 1-4 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 107,
+  "peers": 11,
+  "last_updated": "2016-12-25T14:43:35.043Z"
+}

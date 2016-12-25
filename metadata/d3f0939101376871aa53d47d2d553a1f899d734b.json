@@ -1,1 +1,61 @@
-{"title":"Criminal Minds Season 6","uid":6468160,"size":8803276260,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d3f0939101376871aa53d47d2d553a1f899d734b&amp;dn=Criminal+Minds+Season+6&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":68,"uploader":"sundox","files":24,"time":1308038606,"description":"[Runtime ]........45 minutes \n[File Size ]......350MB \n[Resolution]...... 624x352\n[Language ].......English \n[Container ]......AVI container \n[Source]..........HDTV","torrent":{"xt":"urn:btih:d3f0939101376871aa53d47d2d553a1f899d734b","amp;dn":"Criminal+Minds+Season+6","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d3f0939101376871aa53d47d2d553a1f899d734b","infoHashBuffer":{"type":"Buffer","data":[211,240,147,145,1,55,104,113,170,83,212,125,45,85,58,31,137,157,115,75]},"announce":[],"urlList":[]}}
+{
+  "title": "Criminal Minds Season 6",
+  "uid": 6468160,
+  "size": 8803276260,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d3f0939101376871aa53d47d2d553a1f899d734b&amp;dn=Criminal+Minds+Season+6&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 68,
+  "uploader": "sundox",
+  "files": 24,
+  "time": 1308038606,
+  "description": "[Runtime ]........45 minutes \n[File Size ]......350MB \n[Resolution]...... 624x352\n[Language ].......English \n[Container ]......AVI container \n[Source]..........HDTV",
+  "parsed": {
+    "xt": "urn:btih:d3f0939101376871aa53d47d2d553a1f899d734b",
+    "dn": "Criminal Minds Season 6",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d3f0939101376871aa53d47d2d553a1f899d734b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        211,
+        240,
+        147,
+        145,
+        1,
+        55,
+        104,
+        113,
+        170,
+        83,
+        212,
+        125,
+        45,
+        85,
+        58,
+        31,
+        137,
+        157,
+        115,
+        75
+      ]
+    },
+    "name": "Criminal Minds Season 6",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 155,
+  "peers": 164,
+  "last_updated": "2016-12-25T14:55:51.809Z"
+}

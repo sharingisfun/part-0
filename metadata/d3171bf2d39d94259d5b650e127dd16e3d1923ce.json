@@ -1,1 +1,61 @@
-{"title":"PremiumSoft Navicat Premium v11.0.18 x86 x64","uid":10641410,"size":60999013,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:d3171bf2d39d94259d5b650e127dd16e3d1923ce&amp;dn=PremiumSoft+Navicat+Premium+v11.0.18+x86+x64&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":100,"leechers":7,"uploader":"fafw","files":3,"time":1406461578,"description":"Description\n\n\nimage\n\n\nMay 21 2014\n\nImprovements:\n - Support JSON data type for PostgreSQL.\n - Query profile now support to show in server level.\n\nBug Fixes:\n - Fixed to set MYSQL_OPT_LOCAL_INFILE for MariaDB connection.\n - Database properties for SQL Server not able to alter proper compatibility levels.\n - Unable to save local file if database name contained heading/tailing space.\n - Crashed when loading and parsing a long incorrect syntax SQL in Query.\n - After adding a new row, pressing next/last button would freeze the Form View in Table Viewer.\n - Number of rows selected incorrectly when using shift+up/down keys in Table Viewer.\n - Multiple selection not working properly with shift+keys in Table Viewer.\n - When using CTRL+A to select text inside a data cell, all cells were incorrectly selected in Table Viewer.\n - Import Paradox not able to import data properly in Navicat 64bits.\n - ORA-00911: invalid character error occured when exporting Oracle query results.\n - Backup not able to backup MySQL table with foreign key.\n - Wrong NullsOrder setting was shown for foreign key fields under Table Designer in Data Modeling Tool.\n - Wrong CREATE TABLE SQL with character set and comment exported under Export SQL in Data Modeling Tool.\n","torrent":{"xt":"urn:btih:d3171bf2d39d94259d5b650e127dd16e3d1923ce","amp;dn":"PremiumSoft+Navicat+Premium+v11.0.18+x86+x64","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d3171bf2d39d94259d5b650e127dd16e3d1923ce","infoHashBuffer":{"type":"Buffer","data":[211,23,27,242,211,157,148,37,157,91,101,14,18,125,209,110,61,25,35,206]},"announce":[],"urlList":[]}}
+{
+  "title": "PremiumSoft Navicat Premium v11.0.18 x86 x64",
+  "uid": 10641410,
+  "size": 60999013,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:d3171bf2d39d94259d5b650e127dd16e3d1923ce&amp;dn=PremiumSoft+Navicat+Premium+v11.0.18+x86+x64&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 100,
+  "leechers": 7,
+  "uploader": "fafw",
+  "files": 3,
+  "time": 1406461578,
+  "description": "Description\n\n\nimage\n\n\nMay 21 2014\n\nImprovements:\n - Support JSON data type for PostgreSQL.\n - Query profile now support to show in server level.\n\nBug Fixes:\n - Fixed to set MYSQL_OPT_LOCAL_INFILE for MariaDB connection.\n - Database properties for SQL Server not able to alter proper compatibility levels.\n - Unable to save local file if database name contained heading/tailing space.\n - Crashed when loading and parsing a long incorrect syntax SQL in Query.\n - After adding a new row, pressing next/last button would freeze the Form View in Table Viewer.\n - Number of rows selected incorrectly when using shift+up/down keys in Table Viewer.\n - Multiple selection not working properly with shift+keys in Table Viewer.\n - When using CTRL+A to select text inside a data cell, all cells were incorrectly selected in Table Viewer.\n - Import Paradox not able to import data properly in Navicat 64bits.\n - ORA-00911: invalid character error occured when exporting Oracle query results.\n - Backup not able to backup MySQL table with foreign key.\n - Wrong NullsOrder setting was shown for foreign key fields under Table Designer in Data Modeling Tool.\n - Wrong CREATE TABLE SQL with character set and comment exported under Export SQL in Data Modeling Tool.\n",
+  "parsed": {
+    "xt": "urn:btih:d3171bf2d39d94259d5b650e127dd16e3d1923ce",
+    "dn": "PremiumSoft Navicat Premium v11.0.18 x86 x64",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d3171bf2d39d94259d5b650e127dd16e3d1923ce",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        211,
+        23,
+        27,
+        242,
+        211,
+        157,
+        148,
+        37,
+        157,
+        91,
+        101,
+        14,
+        18,
+        125,
+        209,
+        110,
+        61,
+        25,
+        35,
+        206
+      ]
+    },
+    "name": "PremiumSoft Navicat Premium v11.0.18 x86 x64",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 107,
+  "peers": 97,
+  "last_updated": "2016-12-25T14:49:50.530Z"
+}

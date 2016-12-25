@@ -1,1 +1,61 @@
-{"title":"Python Programming Fundamentals - 2nd Edition - Kent D. Lee","uid":11766381,"size":13586387,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:d3965f2d29174b81c3dd2bb3397ecf9d0e4a6c6a&amp;dn=Python+Programming+Fundamentals+-+2nd+Edition+-+Kent+D.+Lee&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":4,"uploader":"Mohammad_AT","files":3,"time":1426865500,"description":"This easy-to-follow and classroom-tested textbook guides the reader through the fundamentals of programming with Python, an accessible language which can be learned incrementally. Features: incudes numerous examples and practice exercises throughout the text, with additional exercises, solutions and review questions at the end of each chapter; highlights the patterns which frequently appear when writing programs, reinforcing the application of these patterns for problem-solving through practice exercises; introduces the use of a debugger tool to inspect a program, enabling students to discover for themselves how programs work and enhance their understanding; presents the Tkinter framework for building graphical user interface applications and event-driven programs; provides instructional videos and additional information for students, as well as support materials for instructors, at an associated website","torrent":{"xt":"urn:btih:d3965f2d29174b81c3dd2bb3397ecf9d0e4a6c6a","amp;dn":"Python+Programming+Fundamentals+-+2nd+Edition+-+Kent+D.+Lee","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d3965f2d29174b81c3dd2bb3397ecf9d0e4a6c6a","infoHashBuffer":{"type":"Buffer","data":[211,150,95,45,41,23,75,129,195,221,43,179,57,126,207,157,14,74,108,106]},"announce":[],"urlList":[]}}
+{
+  "title": "Python Programming Fundamentals - 2nd Edition - Kent D. Lee",
+  "uid": 11766381,
+  "size": 13586387,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:d3965f2d29174b81c3dd2bb3397ecf9d0e4a6c6a&amp;dn=Python+Programming+Fundamentals+-+2nd+Edition+-+Kent+D.+Lee&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 4,
+  "uploader": "Mohammad_AT",
+  "files": 3,
+  "time": 1426865500,
+  "description": "This easy-to-follow and classroom-tested textbook guides the reader through the fundamentals of programming with Python, an accessible language which can be learned incrementally. Features: incudes numerous examples and practice exercises throughout the text, with additional exercises, solutions and review questions at the end of each chapter; highlights the patterns which frequently appear when writing programs, reinforcing the application of these patterns for problem-solving through practice exercises; introduces the use of a debugger tool to inspect a program, enabling students to discover for themselves how programs work and enhance their understanding; presents the Tkinter framework for building graphical user interface applications and event-driven programs; provides instructional videos and additional information for students, as well as support materials for instructors, at an associated website",
+  "parsed": {
+    "xt": "urn:btih:d3965f2d29174b81c3dd2bb3397ecf9d0e4a6c6a",
+    "dn": "Python Programming Fundamentals - 2nd Edition - Kent D. Lee",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d3965f2d29174b81c3dd2bb3397ecf9d0e4a6c6a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        211,
+        150,
+        95,
+        45,
+        41,
+        23,
+        75,
+        129,
+        195,
+        221,
+        43,
+        179,
+        57,
+        126,
+        207,
+        157,
+        14,
+        74,
+        108,
+        106
+      ]
+    },
+    "name": "Python Programming Fundamentals - 2nd Edition - Kent D. Lee",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 66,
+  "peers": 3,
+  "last_updated": "2016-12-25T14:53:31.415Z"
+}

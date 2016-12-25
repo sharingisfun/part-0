@@ -1,1 +1,61 @@
-{"title":"Google Chrome 35.0.1916.153 Stable","uid":10505063,"size":40514640,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:d3a899ed6f6627136522e99d4fc19cf234d6820b&amp;dn=Google+Chrome+35.0.1916.153+Stable&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":0,"uploader":"yfjfrj","files":1,"time":1404749931,"description":"Google Chrome 35.0.1916.153 Stable\n\nGoogle Chrome is a web browser from Google open source, which combines support for the latest web applications, easy search with high speed and stability.  ","torrent":{"xt":"urn:btih:d3a899ed6f6627136522e99d4fc19cf234d6820b","amp;dn":"Google+Chrome+35.0.1916.153+Stable","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d3a899ed6f6627136522e99d4fc19cf234d6820b","infoHashBuffer":{"type":"Buffer","data":[211,168,153,237,111,102,39,19,101,34,233,157,79,193,156,242,52,214,130,11]},"announce":[],"urlList":[]}}
+{
+  "title": "Google Chrome 35.0.1916.153 Stable",
+  "uid": 10505063,
+  "size": 40514640,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:d3a899ed6f6627136522e99d4fc19cf234d6820b&amp;dn=Google+Chrome+35.0.1916.153+Stable&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 0,
+  "uploader": "yfjfrj",
+  "files": 1,
+  "time": 1404749931,
+  "description": "Google Chrome 35.0.1916.153 Stable\n\nGoogle Chrome is a web browser from Google open source, which combines support for the latest web applications, easy search with high speed and stability.  ",
+  "parsed": {
+    "xt": "urn:btih:d3a899ed6f6627136522e99d4fc19cf234d6820b",
+    "dn": "Google Chrome 35.0.1916.153 Stable",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d3a899ed6f6627136522e99d4fc19cf234d6820b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        211,
+        168,
+        153,
+        237,
+        111,
+        102,
+        39,
+        19,
+        101,
+        34,
+        233,
+        157,
+        79,
+        193,
+        156,
+        242,
+        52,
+        214,
+        130,
+        11
+      ]
+    },
+    "name": "Google Chrome 35.0.1916.153 Stable",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 0,
+  "last_updated": "2016-12-25T14:53:59.486Z"
+}

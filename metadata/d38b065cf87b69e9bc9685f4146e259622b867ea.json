@@ -1,1 +1,61 @@
-{"title":"Shameless.US.S01E01.HDTV.XviD-FEVER.[VTV].avi","uid":6092914,"size":734666752,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d38b065cf87b69e9bc9685f4146e259622b867ea&amp;dn=Shameless.US.S01E01.HDTV.XviD-FEVER.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":21,"uploader":"VTV","files":1,"time":1294640426,"description":"Shameless 1x01 (HDTV-FEVER)[VTV]","torrent":{"xt":"urn:btih:d38b065cf87b69e9bc9685f4146e259622b867ea","amp;dn":"Shameless.US.S01E01.HDTV.XviD-FEVER.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d38b065cf87b69e9bc9685f4146e259622b867ea","infoHashBuffer":{"type":"Buffer","data":[211,139,6,92,248,123,105,233,188,150,133,244,20,110,37,150,34,184,103,234]},"announce":[],"urlList":[]}}
+{
+  "title": "Shameless.US.S01E01.HDTV.XviD-FEVER.[VTV].avi",
+  "uid": 6092914,
+  "size": 734666752,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d38b065cf87b69e9bc9685f4146e259622b867ea&amp;dn=Shameless.US.S01E01.HDTV.XviD-FEVER.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 21,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1294640426,
+  "description": "Shameless 1x01 (HDTV-FEVER)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:d38b065cf87b69e9bc9685f4146e259622b867ea",
+    "dn": "Shameless.US.S01E01.HDTV.XviD-FEVER.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d38b065cf87b69e9bc9685f4146e259622b867ea",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        211,
+        139,
+        6,
+        92,
+        248,
+        123,
+        105,
+        233,
+        188,
+        150,
+        133,
+        244,
+        20,
+        110,
+        37,
+        150,
+        34,
+        184,
+        103,
+        234
+      ]
+    },
+    "name": "Shameless.US.S01E01.HDTV.XviD-FEVER.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 97,
+  "peers": 50,
+  "last_updated": "2016-12-25T14:53:17.375Z"
+}
