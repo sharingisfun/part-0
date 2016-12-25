@@ -1,1 +1,61 @@
-{"title":"2015.MTV.Movie.Awards.HDTV.x264-W4F[ettv]","uid":11812064,"size":704271710,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d775cd810197580940bd001ccac20511b33c531d&amp;dn=2015.MTV.Movie.Awards.HDTV.x264-W4F%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":3,"uploader":"ettv","files":3,"time":1428920443,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:d775cd810197580940bd001ccac20511b33c531d","amp;dn":"2015.MTV.Movie.Awards.HDTV.x264-W4F%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d775cd810197580940bd001ccac20511b33c531d","infoHashBuffer":{"type":"Buffer","data":[215,117,205,129,1,151,88,9,64,189,0,28,202,194,5,17,179,60,83,29]},"announce":[],"urlList":[]}}
+{
+  "title": "2015.MTV.Movie.Awards.HDTV.x264-W4F[ettv]",
+  "uid": 11812064,
+  "size": 704271710,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d775cd810197580940bd001ccac20511b33c531d&amp;dn=2015.MTV.Movie.Awards.HDTV.x264-W4F%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1428920443,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:d775cd810197580940bd001ccac20511b33c531d",
+    "dn": "2015.MTV.Movie.Awards.HDTV.x264-W4F[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d775cd810197580940bd001ccac20511b33c531d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        215,
+        117,
+        205,
+        129,
+        1,
+        151,
+        88,
+        9,
+        64,
+        189,
+        0,
+        28,
+        202,
+        194,
+        5,
+        17,
+        179,
+        60,
+        83,
+        29
+      ]
+    },
+    "name": "2015.MTV.Movie.Awards.HDTV.x264-W4F[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 63,
+  "peers": 15,
+  "last_updated": "2016-12-25T15:16:53.721Z"
+}

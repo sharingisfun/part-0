@@ -1,1 +1,61 @@
-{"title":"The Blacklist S02E06 HDTV x264-LOL[ettv]","uid":11305614,"size":271998141,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d9437f5d28582627adb89177471ca1b3906c2ca8&amp;dn=The+Blacklist+S02E06+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":113,"leechers":4,"uploader":"ettv","files":2,"time":1414468716,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:d9437f5d28582627adb89177471ca1b3906c2ca8","amp;dn":"The+Blacklist+S02E06+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d9437f5d28582627adb89177471ca1b3906c2ca8","infoHashBuffer":{"type":"Buffer","data":[217,67,127,93,40,88,38,39,173,184,145,119,71,28,161,179,144,108,44,168]},"announce":[],"urlList":[]}}
+{
+  "title": "The Blacklist S02E06 HDTV x264-LOL[ettv]",
+  "uid": 11305614,
+  "size": 271998141,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d9437f5d28582627adb89177471ca1b3906c2ca8&amp;dn=The+Blacklist+S02E06+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 113,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1414468716,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:d9437f5d28582627adb89177471ca1b3906c2ca8",
+    "dn": "The Blacklist S02E06 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d9437f5d28582627adb89177471ca1b3906c2ca8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        217,
+        67,
+        127,
+        93,
+        40,
+        88,
+        38,
+        39,
+        173,
+        184,
+        145,
+        119,
+        71,
+        28,
+        161,
+        179,
+        144,
+        108,
+        44,
+        168
+      ]
+    },
+    "name": "The Blacklist S02E06 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 117,
+  "peers": 39,
+  "last_updated": "2016-12-25T15:27:16.173Z"
+}

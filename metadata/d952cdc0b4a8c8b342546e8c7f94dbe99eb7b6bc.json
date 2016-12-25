@@ -1,1 +1,61 @@
-{"title":"Broad.City.S02E10.HDTV.x264-ASAP[ettv]","uid":11765355,"size":230974163,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d952cdc0b4a8c8b342546e8c7f94dbe99eb7b6bc&amp;dn=Broad.City.S02E10.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":4,"uploader":"ettv","files":3,"time":1426845827,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                       &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:d952cdc0b4a8c8b342546e8c7f94dbe99eb7b6bc","amp;dn":"Broad.City.S02E10.HDTV.x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d952cdc0b4a8c8b342546e8c7f94dbe99eb7b6bc","infoHashBuffer":{"type":"Buffer","data":[217,82,205,192,180,168,200,179,66,84,110,140,127,148,219,233,158,183,182,188]},"announce":[],"urlList":[]}}
+{
+  "title": "Broad.City.S02E10.HDTV.x264-ASAP[ettv]",
+  "uid": 11765355,
+  "size": 230974163,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d952cdc0b4a8c8b342546e8c7f94dbe99eb7b6bc&amp;dn=Broad.City.S02E10.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1426845827,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                       &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:d952cdc0b4a8c8b342546e8c7f94dbe99eb7b6bc",
+    "dn": "Broad.City.S02E10.HDTV.x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d952cdc0b4a8c8b342546e8c7f94dbe99eb7b6bc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        217,
+        82,
+        205,
+        192,
+        180,
+        168,
+        200,
+        179,
+        66,
+        84,
+        110,
+        140,
+        127,
+        148,
+        219,
+        233,
+        158,
+        183,
+        182,
+        188
+      ]
+    },
+    "name": "Broad.City.S02E10.HDTV.x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 21,
+  "last_updated": "2016-12-25T15:27:38.233Z"
+}

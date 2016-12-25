@@ -1,1 +1,61 @@
-{"title":"Albert Camus - 11 books (multiple formats)","uid":8590574,"size":7825246,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:d7d3fb713fabb50bc2b2118a77b466994d9a2b70&amp;dn=Albert+Camus+-+11+books+%28multiple+formats%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":6,"uploader":"pharmakate","files":44,"time":1371632443,"description":"**by request**\n\nA collection of Camus' books in English. Quality varies, but most appear to be at least readable. They are offered here in the same condition in which they were found.\n\nincludes:\n\nExile and the Kingdom (epub, mobi)\nThe Fall (epub, mobi, pdf)\nThe First Man (epub, mobi)\nThe Guest (epub, mobi)\nA Happy Death (epub, mobi)\nThe Just (pdf, rtf)\nThe Myth of Sisyphus and Other Essays (epub, mobi, pdf)\nThe Plague (epub, mobi)\nThe Possessed (doc)\nThe Rebel (epub, mobi, pdf)\nThe Stranger (epub, mobi)","torrent":{"xt":"urn:btih:d7d3fb713fabb50bc2b2118a77b466994d9a2b70","amp;dn":"Albert+Camus+-+11+books+%28multiple+formats%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d7d3fb713fabb50bc2b2118a77b466994d9a2b70","infoHashBuffer":{"type":"Buffer","data":[215,211,251,113,63,171,181,11,194,178,17,138,119,180,102,153,77,154,43,112]},"announce":[],"urlList":[]}}
+{
+  "title": "Albert Camus - 11 books (multiple formats)",
+  "uid": 8590574,
+  "size": 7825246,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:d7d3fb713fabb50bc2b2118a77b466994d9a2b70&amp;dn=Albert+Camus+-+11+books+%28multiple+formats%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 6,
+  "uploader": "pharmakate",
+  "files": 44,
+  "time": 1371632443,
+  "description": "**by request**\n\nA collection of Camus' books in English. Quality varies, but most appear to be at least readable. They are offered here in the same condition in which they were found.\n\nincludes:\n\nExile and the Kingdom (epub, mobi)\nThe Fall (epub, mobi, pdf)\nThe First Man (epub, mobi)\nThe Guest (epub, mobi)\nA Happy Death (epub, mobi)\nThe Just (pdf, rtf)\nThe Myth of Sisyphus and Other Essays (epub, mobi, pdf)\nThe Plague (epub, mobi)\nThe Possessed (doc)\nThe Rebel (epub, mobi, pdf)\nThe Stranger (epub, mobi)",
+  "parsed": {
+    "xt": "urn:btih:d7d3fb713fabb50bc2b2118a77b466994d9a2b70",
+    "dn": "Albert Camus - 11 books (multiple formats)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d7d3fb713fabb50bc2b2118a77b466994d9a2b70",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        215,
+        211,
+        251,
+        113,
+        63,
+        171,
+        181,
+        11,
+        194,
+        178,
+        17,
+        138,
+        119,
+        180,
+        102,
+        153,
+        77,
+        154,
+        43,
+        112
+      ]
+    },
+    "name": "Albert Camus - 11 books (multiple formats)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 16,
+  "last_updated": "2016-12-25T15:18:24.056Z"
+}

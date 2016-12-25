@@ -1,1 +1,61 @@
-{"title":"Sons of Anarchy S07E01 HDTV XviD-FUM[ettv]","uid":11009652,"size":590742815,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d9e7313a3c07e39910095691736652afddd8d8b2&amp;dn=Sons+of+Anarchy+S07E01+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":2,"uploader":"ettv","files":2,"time":1410331845,"description":"FUM\nXviD Video : 1 124 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 624x350\n","torrent":{"xt":"urn:btih:d9e7313a3c07e39910095691736652afddd8d8b2","amp;dn":"Sons+of+Anarchy+S07E01+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d9e7313a3c07e39910095691736652afddd8d8b2","infoHashBuffer":{"type":"Buffer","data":[217,231,49,58,60,7,227,153,16,9,86,145,115,102,82,175,221,216,216,178]},"announce":[],"urlList":[]}}
+{
+  "title": "Sons of Anarchy S07E01 HDTV XviD-FUM[ettv]",
+  "uid": 11009652,
+  "size": 590742815,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d9e7313a3c07e39910095691736652afddd8d8b2&amp;dn=Sons+of+Anarchy+S07E01+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1410331845,
+  "description": "FUM\nXviD Video : 1 124 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 624x350\n",
+  "parsed": {
+    "xt": "urn:btih:d9e7313a3c07e39910095691736652afddd8d8b2",
+    "dn": "Sons of Anarchy S07E01 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d9e7313a3c07e39910095691736652afddd8d8b2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        217,
+        231,
+        49,
+        58,
+        60,
+        7,
+        227,
+        153,
+        16,
+        9,
+        86,
+        145,
+        115,
+        102,
+        82,
+        175,
+        221,
+        216,
+        216,
+        178
+      ]
+    },
+    "name": "Sons of Anarchy S07E01 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 5,
+  "last_updated": "2016-12-25T15:30:58.810Z"
+}

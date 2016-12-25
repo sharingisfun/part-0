@@ -1,1 +1,61 @@
-{"title":"Bon Iver - Bon Iver","uid":11034744,"size":79434291,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d7f22ac2519b1c5fcb6824211083ba689d469f43&amp;dn=Bon+Iver+-+Bon+Iver&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":6,"uploader":null,"files":10,"time":1410777686,"description":"Bon Iver - Bon Iver","torrent":{"xt":"urn:btih:d7f22ac2519b1c5fcb6824211083ba689d469f43","amp;dn":"Bon+Iver+-+Bon+Iver","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d7f22ac2519b1c5fcb6824211083ba689d469f43","infoHashBuffer":{"type":"Buffer","data":[215,242,42,194,81,155,28,95,203,104,36,33,16,131,186,104,157,70,159,67]},"announce":[],"urlList":[]}}
+{
+  "title": "Bon Iver - Bon Iver",
+  "uid": 11034744,
+  "size": 79434291,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d7f22ac2519b1c5fcb6824211083ba689d469f43&amp;dn=Bon+Iver+-+Bon+Iver&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 6,
+  "uploader": null,
+  "files": 10,
+  "time": 1410777686,
+  "description": "Bon Iver - Bon Iver",
+  "parsed": {
+    "xt": "urn:btih:d7f22ac2519b1c5fcb6824211083ba689d469f43",
+    "dn": "Bon Iver - Bon Iver",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d7f22ac2519b1c5fcb6824211083ba689d469f43",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        215,
+        242,
+        42,
+        194,
+        81,
+        155,
+        28,
+        95,
+        203,
+        104,
+        36,
+        33,
+        16,
+        131,
+        186,
+        104,
+        157,
+        70,
+        159,
+        67
+      ]
+    },
+    "name": "Bon Iver - Bon Iver",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 13,
+  "last_updated": "2016-12-25T15:19:00.202Z"
+}

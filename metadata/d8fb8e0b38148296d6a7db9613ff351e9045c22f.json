@@ -1,1 +1,61 @@
-{"title":"VLC Media Player 2.1.3 (32x) [UJ]","uid":9922927,"size":24762806,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:d8fb8e0b38148296d6a7db9613ff351e9045c22f&amp;dn=VLC+Media+Player+2.1.3+%2832x%29+%5BUJ%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":82,"leechers":2,"uploader":"AshUtpal","files":3,"time":1397020388,"description":"VLC Media Player 2.1.3 Rincewid (32x) [UJ]\n============================================\n\nSimple, fast and powerful media player.\n\nPlays everything: Files, Discs, Webcams, Devices and Streams.\n\nPlays most codecs with no codec packs needed:\nMPEG-2, DivX, H.264, MKV, WebM, WMV, MP3...\n\nRuns on all platforms: Windows, Linux, Mac OS X, Unix...\n\nCompletely Free, 0 spyware, 0 ads and no user tracking.\n\nCan do media conversion and streaming. \n &lt;a href=&quot;\nhttp://thepiratebay.se/user/AshUtpal/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://thepiratebay.se/user/AshUtpal/&lt;/a&gt;","torrent":{"xt":"urn:btih:d8fb8e0b38148296d6a7db9613ff351e9045c22f","amp;dn":"VLC+Media+Player+2.1.3+%2832x%29+%5BUJ%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d8fb8e0b38148296d6a7db9613ff351e9045c22f","infoHashBuffer":{"type":"Buffer","data":[216,251,142,11,56,20,130,150,214,167,219,150,19,255,53,30,144,69,194,47]},"announce":[],"urlList":[]}}
+{
+  "title": "VLC Media Player 2.1.3 (32x) [UJ]",
+  "uid": 9922927,
+  "size": 24762806,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:d8fb8e0b38148296d6a7db9613ff351e9045c22f&amp;dn=VLC+Media+Player+2.1.3+%2832x%29+%5BUJ%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 82,
+  "leechers": 2,
+  "uploader": "AshUtpal",
+  "files": 3,
+  "time": 1397020388,
+  "description": "VLC Media Player 2.1.3 Rincewid (32x) [UJ]\n============================================\n\nSimple, fast and powerful media player.\n\nPlays everything: Files, Discs, Webcams, Devices and Streams.\n\nPlays most codecs with no codec packs needed:\nMPEG-2, DivX, H.264, MKV, WebM, WMV, MP3...\n\nRuns on all platforms: Windows, Linux, Mac OS X, Unix...\n\nCompletely Free, 0 spyware, 0 ads and no user tracking.\n\nCan do media conversion and streaming. \n &lt;a href=&quot;\nhttp://thepiratebay.se/user/AshUtpal/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://thepiratebay.se/user/AshUtpal/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:d8fb8e0b38148296d6a7db9613ff351e9045c22f",
+    "dn": "VLC Media Player 2.1.3 (32x) [UJ]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d8fb8e0b38148296d6a7db9613ff351e9045c22f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        216,
+        251,
+        142,
+        11,
+        56,
+        20,
+        130,
+        150,
+        214,
+        167,
+        219,
+        150,
+        19,
+        255,
+        53,
+        30,
+        144,
+        69,
+        194,
+        47
+      ]
+    },
+    "name": "VLC Media Player 2.1.3 (32x) [UJ]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 84,
+  "peers": 5,
+  "last_updated": "2016-12-25T15:25:35.891Z"
+}

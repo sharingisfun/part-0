@@ -1,1 +1,61 @@
-{"title":"Fargo S01E05 HDTV x264-LOL[ettv]","uid":10145210,"size":213388476,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d797bea464023fd6cec3bdb5e058a2972e384104&amp;dn=Fargo+S01E05+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":111,"leechers":2,"uploader":"ettv","files":2,"time":1400043587,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:d797bea464023fd6cec3bdb5e058a2972e384104","amp;dn":"Fargo+S01E05+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d797bea464023fd6cec3bdb5e058a2972e384104","infoHashBuffer":{"type":"Buffer","data":[215,151,190,164,100,2,63,214,206,195,189,181,224,88,162,151,46,56,65,4]},"announce":[],"urlList":[]}}
+{
+  "title": "Fargo S01E05 HDTV x264-LOL[ettv]",
+  "uid": 10145210,
+  "size": 213388476,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d797bea464023fd6cec3bdb5e058a2972e384104&amp;dn=Fargo+S01E05+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 111,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1400043587,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:d797bea464023fd6cec3bdb5e058a2972e384104",
+    "dn": "Fargo S01E05 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d797bea464023fd6cec3bdb5e058a2972e384104",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        215,
+        151,
+        190,
+        164,
+        100,
+        2,
+        63,
+        214,
+        206,
+        195,
+        189,
+        181,
+        224,
+        88,
+        162,
+        151,
+        46,
+        56,
+        65,
+        4
+      ]
+    },
+    "name": "Fargo S01E05 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 113,
+  "peers": 7,
+  "last_updated": "2016-12-25T15:17:23.823Z"
+}

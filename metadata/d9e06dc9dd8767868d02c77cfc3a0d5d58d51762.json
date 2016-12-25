@@ -1,1 +1,61 @@
-{"title":"Machinarium","uid":5231521,"size":293526783,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:d9e06dc9dd8767868d02c77cfc3a0d5d58d51762&amp;dn=Machinarium&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":0,"uploader":"sorcgsdf","files":1,"time":1261348805,"description":"Yeah its machinarium.","torrent":{"xt":"urn:btih:d9e06dc9dd8767868d02c77cfc3a0d5d58d51762","amp;dn":"Machinarium","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d9e06dc9dd8767868d02c77cfc3a0d5d58d51762","infoHashBuffer":{"type":"Buffer","data":[217,224,109,201,221,135,103,134,141,2,199,124,252,58,13,93,88,213,23,98]},"announce":[],"urlList":[]}}
+{
+  "title": "Machinarium",
+  "uid": 5231521,
+  "size": 293526783,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:d9e06dc9dd8767868d02c77cfc3a0d5d58d51762&amp;dn=Machinarium&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 0,
+  "uploader": "sorcgsdf",
+  "files": 1,
+  "time": 1261348805,
+  "description": "Yeah its machinarium.",
+  "parsed": {
+    "xt": "urn:btih:d9e06dc9dd8767868d02c77cfc3a0d5d58d51762",
+    "dn": "Machinarium",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d9e06dc9dd8767868d02c77cfc3a0d5d58d51762",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        217,
+        224,
+        109,
+        201,
+        221,
+        135,
+        103,
+        134,
+        141,
+        2,
+        199,
+        124,
+        252,
+        58,
+        13,
+        93,
+        88,
+        213,
+        23,
+        98
+      ]
+    },
+    "name": "Machinarium",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 92,
+  "last_updated": "2016-12-25T15:30:48.778Z"
+}

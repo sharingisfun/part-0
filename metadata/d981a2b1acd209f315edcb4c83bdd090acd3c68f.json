@@ -1,1 +1,61 @@
-{"title":"Home (2015) CAMRip [RUS]","uid":11782912,"size":1469849600,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:d981a2b1acd209f315edcb4c83bdd090acd3c68f&amp;dn=Home+%282015%29+CAMRip+%5BRUS%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":1052,"leechers":30,"uploader":"yfjfrj","files":1,"time":1427661455,"description":"Home (2015) CAMRip [RUS]\n\nAudio - Russian\n\nScreens","torrent":{"xt":"urn:btih:d981a2b1acd209f315edcb4c83bdd090acd3c68f","amp;dn":"Home+%282015%29+CAMRip+%5BRUS%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d981a2b1acd209f315edcb4c83bdd090acd3c68f","infoHashBuffer":{"type":"Buffer","data":[217,129,162,177,172,210,9,243,21,237,203,76,131,189,208,144,172,211,198,143]},"announce":[],"urlList":[]}}
+{
+  "title": "Home (2015) CAMRip [RUS]",
+  "uid": 11782912,
+  "size": 1469849600,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:d981a2b1acd209f315edcb4c83bdd090acd3c68f&amp;dn=Home+%282015%29+CAMRip+%5BRUS%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 1052,
+  "leechers": 30,
+  "uploader": "yfjfrj",
+  "files": 1,
+  "time": 1427661455,
+  "description": "Home (2015) CAMRip [RUS]\n\nAudio - Russian\n\nScreens",
+  "parsed": {
+    "xt": "urn:btih:d981a2b1acd209f315edcb4c83bdd090acd3c68f",
+    "dn": "Home (2015) CAMRip [RUS]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d981a2b1acd209f315edcb4c83bdd090acd3c68f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        217,
+        129,
+        162,
+        177,
+        172,
+        210,
+        9,
+        243,
+        21,
+        237,
+        203,
+        76,
+        131,
+        189,
+        208,
+        144,
+        172,
+        211,
+        198,
+        143
+      ]
+    },
+    "name": "Home (2015) CAMRip [RUS]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 1082,
+  "peers": 6,
+  "last_updated": "2016-12-25T15:28:54.449Z"
+}

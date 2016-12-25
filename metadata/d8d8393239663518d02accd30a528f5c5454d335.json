@@ -1,1 +1,61 @@
-{"title":"Corel DRAW X6 Spanish / EspaÃ±ol","uid":9463255,"size":568169238,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:d8d8393239663518d02accd30a528f5c5454d335&amp;dn=Corel+DRAW+X6+Spanish+%2F+Espa%26ntilde%3Bol&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":94,"leechers":3,"uploader":"caballus","files":2,"time":1389390894,"description":"Corel DRAW X6 en espaÃƒÂ±ol, incluye medicina.","torrent":{"xt":"urn:btih:d8d8393239663518d02accd30a528f5c5454d335","amp;dn":"Corel+DRAW+X6+Spanish+%2F+Espa%26ntilde%3Bol","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d8d8393239663518d02accd30a528f5c5454d335","infoHashBuffer":{"type":"Buffer","data":[216,216,57,50,57,102,53,24,208,42,204,211,10,82,143,92,84,84,211,53]},"announce":[],"urlList":[]}}
+{
+  "title": "Corel DRAW X6 Spanish / EspaÃ±ol",
+  "uid": 9463255,
+  "size": 568169238,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:d8d8393239663518d02accd30a528f5c5454d335&amp;dn=Corel+DRAW+X6+Spanish+%2F+Espa%26ntilde%3Bol&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 94,
+  "leechers": 3,
+  "uploader": "caballus",
+  "files": 2,
+  "time": 1389390894,
+  "description": "Corel DRAW X6 en espaÃƒÂ±ol, incluye medicina.",
+  "parsed": {
+    "xt": "urn:btih:d8d8393239663518d02accd30a528f5c5454d335",
+    "dn": "Corel DRAW X6 Spanish / Espa&ntilde;ol",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d8d8393239663518d02accd30a528f5c5454d335",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        216,
+        216,
+        57,
+        50,
+        57,
+        102,
+        53,
+        24,
+        208,
+        42,
+        204,
+        211,
+        10,
+        82,
+        143,
+        92,
+        84,
+        84,
+        211,
+        53
+      ]
+    },
+    "name": "Corel DRAW X6 Spanish / Espa&ntilde;ol",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 97,
+  "peers": 56,
+  "last_updated": "2016-12-25T15:24:49.488Z"
+}

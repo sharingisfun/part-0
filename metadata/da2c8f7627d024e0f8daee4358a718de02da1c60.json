@@ -1,1 +1,61 @@
-{"title":"Ariana Grande - BreakFree Ft. Zedd [iTunes Single 2014] [RNU]","uid":10479330,"size":7708300,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:da2c8f7627d024e0f8daee4358a718de02da1c60&amp;dn=Ariana+Grande+-+BreakFree+Ft.+Zedd+%5BiTunes+Single+2014%5D+%5BRNU%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":142,"leechers":37,"uploader":"realnerd","files":1,"time":1404387982,"description":"Audio\nID : 1\nFormat : AAC\nFormat/Info : Advanced Audio Codec\nFormat profile : LC\nCodec ID : 40\nDuration : 3mn 34s\nBit rate mode : Variable\nBit rate : 256 Kbps\nMaximum bit rate : 315 Kbps\nChannel(s) : 2 channels\nChannel positions : Front: L R\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nStream size : 6.78 MiB (92%)\nLanguage : English \n\nSEED TILL YOU BLEED!","torrent":{"xt":"urn:btih:da2c8f7627d024e0f8daee4358a718de02da1c60","amp;dn":"Ariana+Grande+-+BreakFree+Ft.+Zedd+%5BiTunes+Single+2014%5D+%5BRNU%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"da2c8f7627d024e0f8daee4358a718de02da1c60","infoHashBuffer":{"type":"Buffer","data":[218,44,143,118,39,208,36,224,248,218,238,67,88,167,24,222,2,218,28,96]},"announce":[],"urlList":[]}}
+{
+  "title": "Ariana Grande - BreakFree Ft. Zedd [iTunes Single 2014] [RNU]",
+  "uid": 10479330,
+  "size": 7708300,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:da2c8f7627d024e0f8daee4358a718de02da1c60&amp;dn=Ariana+Grande+-+BreakFree+Ft.+Zedd+%5BiTunes+Single+2014%5D+%5BRNU%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 142,
+  "leechers": 37,
+  "uploader": "realnerd",
+  "files": 1,
+  "time": 1404387982,
+  "description": "Audio\nID : 1\nFormat : AAC\nFormat/Info : Advanced Audio Codec\nFormat profile : LC\nCodec ID : 40\nDuration : 3mn 34s\nBit rate mode : Variable\nBit rate : 256 Kbps\nMaximum bit rate : 315 Kbps\nChannel(s) : 2 channels\nChannel positions : Front: L R\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nStream size : 6.78 MiB (92%)\nLanguage : English \n\nSEED TILL YOU BLEED!",
+  "parsed": {
+    "xt": "urn:btih:da2c8f7627d024e0f8daee4358a718de02da1c60",
+    "dn": "Ariana Grande - BreakFree Ft. Zedd [iTunes Single 2014] [RNU]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "da2c8f7627d024e0f8daee4358a718de02da1c60",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        218,
+        44,
+        143,
+        118,
+        39,
+        208,
+        36,
+        224,
+        248,
+        218,
+        238,
+        67,
+        88,
+        167,
+        24,
+        222,
+        2,
+        218,
+        28,
+        96
+      ]
+    },
+    "name": "Ariana Grande - BreakFree Ft. Zedd [iTunes Single 2014] [RNU]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 179,
+  "peers": 20,
+  "last_updated": "2016-12-25T15:32:23.065Z"
+}

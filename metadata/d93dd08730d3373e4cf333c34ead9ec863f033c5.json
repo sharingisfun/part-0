@@ -1,1 +1,61 @@
-{"title":"The Simpsons - Season 7 [Complete]","uid":3973113,"size":2258526208,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d93dd08730d3373e4cf333c34ead9ec863f033c5&amp;dn=The+Simpsons+-+Season+7+%5BComplete%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":15,"uploader":"killerdemon","files":25,"time":1200103103,"description":"Complete Season 7 of The Simpsons","torrent":{"xt":"urn:btih:d93dd08730d3373e4cf333c34ead9ec863f033c5","amp;dn":"The+Simpsons+-+Season+7+%5BComplete%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d93dd08730d3373e4cf333c34ead9ec863f033c5","infoHashBuffer":{"type":"Buffer","data":[217,61,208,135,48,211,55,62,76,243,51,195,78,173,158,200,99,240,51,197]},"announce":[],"urlList":[]}}
+{
+  "title": "The Simpsons - Season 7 [Complete]",
+  "uid": 3973113,
+  "size": 2258526208,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d93dd08730d3373e4cf333c34ead9ec863f033c5&amp;dn=The+Simpsons+-+Season+7+%5BComplete%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 15,
+  "uploader": "killerdemon",
+  "files": 25,
+  "time": 1200103103,
+  "description": "Complete Season 7 of The Simpsons",
+  "parsed": {
+    "xt": "urn:btih:d93dd08730d3373e4cf333c34ead9ec863f033c5",
+    "dn": "The Simpsons - Season 7 [Complete]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d93dd08730d3373e4cf333c34ead9ec863f033c5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        217,
+        61,
+        208,
+        135,
+        48,
+        211,
+        55,
+        62,
+        76,
+        243,
+        51,
+        195,
+        78,
+        173,
+        158,
+        200,
+        99,
+        240,
+        51,
+        197
+      ]
+    },
+    "name": "The Simpsons - Season 7 [Complete]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 50,
+  "last_updated": "2016-12-25T15:27:08.152Z"
+}

@@ -1,1 +1,61 @@
-{"title":"City and Colour - Sometimes (Dallas Green, from Alexisonfire)","uid":3418417,"size":92481910,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d83a4168fca7ff58a337812fd91bd17a4080244c&amp;dn=City+and+Colour+-+Sometimes+%28Dallas+Green%2C+from+Alexisonfire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":0,"uploader":"hi_fi","files":10,"time":1133947023,"description":"Dallas Green from Alexisonfire","torrent":{"xt":"urn:btih:d83a4168fca7ff58a337812fd91bd17a4080244c","amp;dn":"City+and+Colour+-+Sometimes+%28Dallas+Green%2C+from+Alexisonfire%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d83a4168fca7ff58a337812fd91bd17a4080244c","infoHashBuffer":{"type":"Buffer","data":[216,58,65,104,252,167,255,88,163,55,129,47,217,27,209,122,64,128,36,76]},"announce":[],"urlList":[]}}
+{
+  "title": "City and Colour - Sometimes (Dallas Green, from Alexisonfire)",
+  "uid": 3418417,
+  "size": 92481910,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d83a4168fca7ff58a337812fd91bd17a4080244c&amp;dn=City+and+Colour+-+Sometimes+%28Dallas+Green%2C+from+Alexisonfire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 0,
+  "uploader": "hi_fi",
+  "files": 10,
+  "time": 1133947023,
+  "description": "Dallas Green from Alexisonfire",
+  "parsed": {
+    "xt": "urn:btih:d83a4168fca7ff58a337812fd91bd17a4080244c",
+    "dn": "City and Colour - Sometimes (Dallas Green, from Alexisonfire)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d83a4168fca7ff58a337812fd91bd17a4080244c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        216,
+        58,
+        65,
+        104,
+        252,
+        167,
+        255,
+        88,
+        163,
+        55,
+        129,
+        47,
+        217,
+        27,
+        209,
+        122,
+        64,
+        128,
+        36,
+        76
+      ]
+    },
+    "name": "City and Colour - Sometimes (Dallas Green, from Alexisonfire)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 21,
+  "last_updated": "2016-12-25T15:20:54.641Z"
+}

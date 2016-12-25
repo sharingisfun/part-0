@@ -1,1 +1,63 @@
-{"title":"mr.robot.s02e02.eps2.0.unm4sk.pt2.tc.1080p.web.dl.dd5.1.h264.ntb","uid":15316661,"size":1706919274,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:d7ef8411ed90ebea5c1e12351e56b1220d842ef0&amp;dn=mr.robot.s02e02.eps2.0.unm4sk.pt2.tc.1080p.web.dl.dd5.1.h264.ntb&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":2,"uploader":null,"files":3,"time":1468616902,"description":"Mr. Robot S02E02","torrent":{"xt":"urn:btih:d7ef8411ed90ebea5c1e12351e56b1220d842ef0","amp;dn":"mr.robot.s02e02.eps2.0.unm4sk.pt2.tc.1080p.web.dl.dd5.1.h264.ntb","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d7ef8411ed90ebea5c1e12351e56b1220d842ef0","infoHashBuffer":{"type":"Buffer","data":[215,239,132,17,237,144,235,234,92,30,18,53,30,86,177,34,13,132,46,240]},"announce":[],"urlList":[]}}
+{
+  "title": "mr.robot.s02e02.eps2.0.unm4sk.pt2.tc.1080p.web.dl.dd5.1.h264.ntb",
+  "uid": 15316661,
+  "size": 1706919274,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:d7ef8411ed90ebea5c1e12351e56b1220d842ef0&amp;dn=mr.robot.s02e02.eps2.0.unm4sk.pt2.tc.1080p.web.dl.dd5.1.h264.ntb&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 2,
+  "uploader": null,
+  "files": 3,
+  "time": 1468616902,
+  "description": "Mr. Robot S02E02",
+  "parsed": {
+    "xt": "urn:btih:d7ef8411ed90ebea5c1e12351e56b1220d842ef0",
+    "dn": "mr.robot.s02e02.eps2.0.unm4sk.pt2.tc.1080p.web.dl.dd5.1.h264.ntb",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "d7ef8411ed90ebea5c1e12351e56b1220d842ef0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        215,
+        239,
+        132,
+        17,
+        237,
+        144,
+        235,
+        234,
+        92,
+        30,
+        18,
+        53,
+        30,
+        86,
+        177,
+        34,
+        13,
+        132,
+        46,
+        240
+      ]
+    },
+    "name": "mr.robot.s02e02.eps2.0.unm4sk.pt2.tc.1080p.web.dl.dd5.1.h264.ntb",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 141,
+  "last_updated": "2016-12-25T15:18:54.181Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Taylor Swift - We Are Never Ever Getting Back Together {2012-Sin","uid":7530477,"size":7815439,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d836936b5a437df676d29a5482dd85c5c25a0f58&amp;dn=Taylor+Swift+-+We+Are+Never+Ever+Getting+Back+Together+%7B2012-Sin&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":1,"uploader":"Oz","files":-1,"time":1344911851,"description":"General\n\nFormat : MPEG Audio\nFile size : 7.45 MiB\nDuration : 3mn 13s\nOverall bit rate mode : Constant\nOverall bit rate : 320 Kbps\nAlbum : Single\nAlbum/Performer : Taylor Swift\nPart/Position : 1\nPart/Total : 1\nTrack name : We Are Never Ever Getting Back Together\nTrack name/Position : 1\nTrack name/Total : 1\nPerformer : Taylor Swift\nComposer : Taylor Swift\nGenre : Pop\nRecorded date : 2012\nWriting library : LAME3.98.2\nCover : Yes\nCover type : Cover (front)\nCover MIME : image/jpeg\n\nAudio\n\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nDuration : 3mn 13s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nStream size : 7.36 MiB (99%)\nWriting library : LAME3.98.2","torrent":{"xt":"urn:btih:d836936b5a437df676d29a5482dd85c5c25a0f58","amp;dn":"Taylor+Swift+-+We+Are+Never+Ever+Getting+Back+Together+%7B2012-Sin","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d836936b5a437df676d29a5482dd85c5c25a0f58","infoHashBuffer":{"type":"Buffer","data":[216,54,147,107,90,67,125,246,118,210,154,84,130,221,133,197,194,90,15,88]},"announce":[],"urlList":[]}}
+{
+  "title": "Taylor Swift - We Are Never Ever Getting Back Together {2012-Sin",
+  "uid": 7530477,
+  "size": 7815439,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d836936b5a437df676d29a5482dd85c5c25a0f58&amp;dn=Taylor+Swift+-+We+Are+Never+Ever+Getting+Back+Together+%7B2012-Sin&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 1,
+  "uploader": "Oz",
+  "files": -1,
+  "time": 1344911851,
+  "description": "General\n\nFormat : MPEG Audio\nFile size : 7.45 MiB\nDuration : 3mn 13s\nOverall bit rate mode : Constant\nOverall bit rate : 320 Kbps\nAlbum : Single\nAlbum/Performer : Taylor Swift\nPart/Position : 1\nPart/Total : 1\nTrack name : We Are Never Ever Getting Back Together\nTrack name/Position : 1\nTrack name/Total : 1\nPerformer : Taylor Swift\nComposer : Taylor Swift\nGenre : Pop\nRecorded date : 2012\nWriting library : LAME3.98.2\nCover : Yes\nCover type : Cover (front)\nCover MIME : image/jpeg\n\nAudio\n\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nDuration : 3mn 13s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nStream size : 7.36 MiB (99%)\nWriting library : LAME3.98.2",
+  "parsed": {
+    "xt": "urn:btih:d836936b5a437df676d29a5482dd85c5c25a0f58",
+    "dn": "Taylor Swift - We Are Never Ever Getting Back Together {2012-Sin",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d836936b5a437df676d29a5482dd85c5c25a0f58",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        216,
+        54,
+        147,
+        107,
+        90,
+        67,
+        125,
+        246,
+        118,
+        210,
+        154,
+        84,
+        130,
+        221,
+        133,
+        197,
+        194,
+        90,
+        15,
+        88
+      ]
+    },
+    "name": "Taylor Swift - We Are Never Ever Getting Back Together {2012-Sin",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 35,
+  "last_updated": "2016-12-25T15:20:46.611Z"
+}

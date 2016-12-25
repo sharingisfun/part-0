@@ -1,1 +1,61 @@
-{"title":"Nero 7 Premium ( Full Version )","uid":6616556,"size":182002354,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:da013403a11b125aec7146d78ebcff0b0e4f1150&amp;dn=Nero+7+Premium+%28+Full+Version+%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":395,"leechers":7,"uploader":"skyler55","files":2,"time":1313819633,"description":"Application: Nero 7 Premium\n\nCompatible with all operating systems.\n\nSerial Key included.","torrent":{"xt":"urn:btih:da013403a11b125aec7146d78ebcff0b0e4f1150","amp;dn":"Nero+7+Premium+%28+Full+Version+%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"da013403a11b125aec7146d78ebcff0b0e4f1150","infoHashBuffer":{"type":"Buffer","data":[218,1,52,3,161,27,18,90,236,113,70,215,142,188,255,11,14,79,17,80]},"announce":[],"urlList":[]}}
+{
+  "title": "Nero 7 Premium ( Full Version )",
+  "uid": 6616556,
+  "size": 182002354,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:da013403a11b125aec7146d78ebcff0b0e4f1150&amp;dn=Nero+7+Premium+%28+Full+Version+%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 395,
+  "leechers": 7,
+  "uploader": "skyler55",
+  "files": 2,
+  "time": 1313819633,
+  "description": "Application: Nero 7 Premium\n\nCompatible with all operating systems.\n\nSerial Key included.",
+  "parsed": {
+    "xt": "urn:btih:da013403a11b125aec7146d78ebcff0b0e4f1150",
+    "dn": "Nero 7 Premium ( Full Version )",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "da013403a11b125aec7146d78ebcff0b0e4f1150",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        218,
+        1,
+        52,
+        3,
+        161,
+        27,
+        18,
+        90,
+        236,
+        113,
+        70,
+        215,
+        142,
+        188,
+        255,
+        11,
+        14,
+        79,
+        17,
+        80
+      ]
+    },
+    "name": "Nero 7 Premium ( Full Version )",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 402,
+  "peers": 50,
+  "last_updated": "2016-12-25T15:31:34.923Z"
+}

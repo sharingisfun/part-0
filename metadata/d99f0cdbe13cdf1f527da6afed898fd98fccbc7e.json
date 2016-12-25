@@ -1,1 +1,63 @@
-{"title":"Nathan For You - Season 1-3","uid":14216557,"size":4321791680,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d99f0cdbe13cdf1f527da6afed898fd98fccbc7e&amp;dn=Nathan+For+You+-+Season+1-3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":31,"uploader":"user170","files":24,"time":1460002722,"description":"Enjoy","torrent":{"xt":"urn:btih:d99f0cdbe13cdf1f527da6afed898fd98fccbc7e","amp;dn":"Nathan+For+You+-+Season+1-3","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d99f0cdbe13cdf1f527da6afed898fd98fccbc7e","infoHashBuffer":{"type":"Buffer","data":[217,159,12,219,225,60,223,31,82,125,166,175,237,137,143,217,143,204,188,126]},"announce":[],"urlList":[]}}
+{
+  "title": "Nathan For You - Season 1-3",
+  "uid": 14216557,
+  "size": 4321791680,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d99f0cdbe13cdf1f527da6afed898fd98fccbc7e&amp;dn=Nathan+For+You+-+Season+1-3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 31,
+  "uploader": "user170",
+  "files": 24,
+  "time": 1460002722,
+  "description": "Enjoy",
+  "parsed": {
+    "xt": "urn:btih:d99f0cdbe13cdf1f527da6afed898fd98fccbc7e",
+    "dn": "Nathan For You - Season 1-3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "d99f0cdbe13cdf1f527da6afed898fd98fccbc7e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        217,
+        159,
+        12,
+        219,
+        225,
+        60,
+        223,
+        31,
+        82,
+        125,
+        166,
+        175,
+        237,
+        137,
+        143,
+        217,
+        143,
+        204,
+        188,
+        126
+      ]
+    },
+    "name": "Nathan For You - Season 1-3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 158,
+  "last_updated": "2016-12-25T15:29:36.574Z"
+}

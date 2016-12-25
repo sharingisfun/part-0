@@ -1,1 +1,61 @@
-{"title":"Factorio 0.11.20 Windows 32&amp;64","uid":11794720,"size":305428617,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:d841d1b2866fc42a9364e471c13ccd90a6c4d6be&amp;dn=Factorio+0.11.20+Windows+32%26amp%3B64&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":90,"leechers":15,"uploader":"Asayhem","files":2,"time":1428086539,"description":"*Stable candidate release!*\n\n[*]Bugfixes\n\nFixed crash related to rail segments in map loaded from 0.10.x\nFixed issue with connecting to Multiplayer host that has open menu.\nFixed multiplayer desync in a game loaded from different mod configuration without save/load in between\nFixed crash when inserter with circuit conditions gets destroyed.\nFixed bug where tank would no longer turn in place. Turning in place is not possible when out of fuel.\nFixed lockup when iterating large numerical arrays in lua. This time for real.\nFixed double speed issue for monitors with 120Hz refresh rate or higher.\nFixed bug with game freezing in some situations when the game is blocked by a firewall.\nFixed rail signals blocking the blueprint.\nRe-Fixed crash when the number shown in the short number format exceeded supported prefix.\nThe prefix support has been extended for lua files parsing also.\nFixed production stats accuracy.\nFixed the graphical glitches in terrain transitions on certain zoom levels.\nAnother fix of manual crafting requirements logic calculation.\nFixed the loot table probability calculation bug.\nFixed armor battery icon being always on top.\nFixed errors when reading game.player.minimapenabled.\nFixed that it wasn't possible to insert ammo into tank ammo slots from cursor.\nFixed the wrong inventory highlights of ammo in tank/car.\n\n\n[*]Scripting\nFixed building position of ghosts built by script","torrent":{"xt":"urn:btih:d841d1b2866fc42a9364e471c13ccd90a6c4d6be","amp;dn":"Factorio+0.11.20+Windows+32%26amp%3B64","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d841d1b2866fc42a9364e471c13ccd90a6c4d6be","infoHashBuffer":{"type":"Buffer","data":[216,65,209,178,134,111,196,42,147,100,228,113,193,60,205,144,166,196,214,190]},"announce":[],"urlList":[]}}
+{
+  "title": "Factorio 0.11.20 Windows 32&amp;64",
+  "uid": 11794720,
+  "size": 305428617,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:d841d1b2866fc42a9364e471c13ccd90a6c4d6be&amp;dn=Factorio+0.11.20+Windows+32%26amp%3B64&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 90,
+  "leechers": 15,
+  "uploader": "Asayhem",
+  "files": 2,
+  "time": 1428086539,
+  "description": "*Stable candidate release!*\n\n[*]Bugfixes\n\nFixed crash related to rail segments in map loaded from 0.10.x\nFixed issue with connecting to Multiplayer host that has open menu.\nFixed multiplayer desync in a game loaded from different mod configuration without save/load in between\nFixed crash when inserter with circuit conditions gets destroyed.\nFixed bug where tank would no longer turn in place. Turning in place is not possible when out of fuel.\nFixed lockup when iterating large numerical arrays in lua. This time for real.\nFixed double speed issue for monitors with 120Hz refresh rate or higher.\nFixed bug with game freezing in some situations when the game is blocked by a firewall.\nFixed rail signals blocking the blueprint.\nRe-Fixed crash when the number shown in the short number format exceeded supported prefix.\nThe prefix support has been extended for lua files parsing also.\nFixed production stats accuracy.\nFixed the graphical glitches in terrain transitions on certain zoom levels.\nAnother fix of manual crafting requirements logic calculation.\nFixed the loot table probability calculation bug.\nFixed armor battery icon being always on top.\nFixed errors when reading game.player.minimapenabled.\nFixed that it wasn't possible to insert ammo into tank ammo slots from cursor.\nFixed the wrong inventory highlights of ammo in tank/car.\n\n\n[*]Scripting\nFixed building position of ghosts built by script",
+  "parsed": {
+    "xt": "urn:btih:d841d1b2866fc42a9364e471c13ccd90a6c4d6be",
+    "dn": "Factorio 0.11.20 Windows 32&amp;64",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d841d1b2866fc42a9364e471c13ccd90a6c4d6be",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        216,
+        65,
+        209,
+        178,
+        134,
+        111,
+        196,
+        42,
+        147,
+        100,
+        228,
+        113,
+        193,
+        60,
+        205,
+        144,
+        166,
+        196,
+        214,
+        190
+      ]
+    },
+    "name": "Factorio 0.11.20 Windows 32&amp;64",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 105,
+  "peers": 0,
+  "last_updated": "2016-12-25T15:21:10.680Z"
+}

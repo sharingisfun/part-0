@@ -1,1 +1,63 @@
-{"title":"Lynda - Introduction to Graphic Design 2016","uid":15826951,"size":1809875301,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:d95d94c311961caeeabd989dfae378a2247062bc&amp;dn=Lynda+-+Introduction+to+Graphic+Design+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":12,"uploader":"Horisarte","files":66,"time":1473865042,"description":"https://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/419419-2.html","torrent":{"xt":"urn:btih:d95d94c311961caeeabd989dfae378a2247062bc","amp;dn":"Lynda+-+Introduction+to+Graphic+Design+2016","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d95d94c311961caeeabd989dfae378a2247062bc","infoHashBuffer":{"type":"Buffer","data":[217,93,148,195,17,150,28,174,234,189,152,157,250,227,120,162,36,112,98,188]},"announce":[],"urlList":[]}}
+{
+  "title": "Lynda - Introduction to Graphic Design 2016",
+  "uid": 15826951,
+  "size": 1809875301,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:d95d94c311961caeeabd989dfae378a2247062bc&amp;dn=Lynda+-+Introduction+to+Graphic+Design+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 12,
+  "uploader": "Horisarte",
+  "files": 66,
+  "time": 1473865042,
+  "description": "https://www.lynda.com/Illustrator-tutorials/Introduction-Graphic-Design/419419-2.html",
+  "parsed": {
+    "xt": "urn:btih:d95d94c311961caeeabd989dfae378a2247062bc",
+    "dn": "Lynda - Introduction to Graphic Design 2016",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "d95d94c311961caeeabd989dfae378a2247062bc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        217,
+        93,
+        148,
+        195,
+        17,
+        150,
+        28,
+        174,
+        234,
+        189,
+        152,
+        157,
+        250,
+        227,
+        120,
+        162,
+        36,
+        112,
+        98,
+        188
+      ]
+    },
+    "name": "Lynda - Introduction to Graphic Design 2016",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 214,
+  "last_updated": "2016-12-25T15:27:52.270Z"
+}
