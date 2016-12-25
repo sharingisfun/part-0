@@ -1,1 +1,61 @@
-{"title":"Mato Seco [Discografia]","uid":7510002,"size":161017532,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e3e1abcfd92ad7a9e25eb3a80c4149f56f26aeda&amp;dn=Mato+Seco+%5BDiscografia%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":2,"uploader":".N3rdz0r.","files":26,"time":1344287478,"description":"Os 2 CD da banda MATO SECO. Reggae brasileiro de qualidade.\n\n\n-=-=-=-=-=-=-=-=-=-=-=-=-=-\nCDs:\n\n1: Resistencia.\n\n2: Seco, mas nÃƒÂ£o morto.\n\n-=-=-=-=-=-=-=-=-=-=-=-=-=-\n\nDeixem semeando. abrÃƒÂ§","torrent":{"xt":"urn:btih:e3e1abcfd92ad7a9e25eb3a80c4149f56f26aeda","amp;dn":"Mato+Seco+%5BDiscografia%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e3e1abcfd92ad7a9e25eb3a80c4149f56f26aeda","infoHashBuffer":{"type":"Buffer","data":[227,225,171,207,217,42,215,169,226,94,179,168,12,65,73,245,111,38,174,218]},"announce":[],"urlList":[]}}
+{
+  "title": "Mato Seco [Discografia]",
+  "uid": 7510002,
+  "size": 161017532,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e3e1abcfd92ad7a9e25eb3a80c4149f56f26aeda&amp;dn=Mato+Seco+%5BDiscografia%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 2,
+  "uploader": ".N3rdz0r.",
+  "files": 26,
+  "time": 1344287478,
+  "description": "Os 2 CD da banda MATO SECO. Reggae brasileiro de qualidade.\n\n\n-=-=-=-=-=-=-=-=-=-=-=-=-=-\nCDs:\n\n1: Resistencia.\n\n2: Seco, mas nÃƒÂ£o morto.\n\n-=-=-=-=-=-=-=-=-=-=-=-=-=-\n\nDeixem semeando. abrÃƒÂ§",
+  "parsed": {
+    "xt": "urn:btih:e3e1abcfd92ad7a9e25eb3a80c4149f56f26aeda",
+    "dn": "Mato Seco [Discografia]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e3e1abcfd92ad7a9e25eb3a80c4149f56f26aeda",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        227,
+        225,
+        171,
+        207,
+        217,
+        42,
+        215,
+        169,
+        226,
+        94,
+        179,
+        168,
+        12,
+        65,
+        73,
+        245,
+        111,
+        38,
+        174,
+        218
+      ]
+    },
+    "name": "Mato Seco [Discografia]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 34,
+  "last_updated": "2016-12-25T16:30:17.057Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Disney's Frozen Deluxe Soundtrack (2013) (flac)","uid":9513722,"size":631971633,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:e46a9e7708ad062dbe509249f4824c8138097495&amp;dn=Disney%27s+Frozen+Deluxe+Soundtrack+%282013%29+%28flac%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":137,"leechers":19,"uploader":"naziswastika","files":-1,"time":1390474579,"description":"Disney's Frozen Deluxe Sountrack","torrent":{"xt":"urn:btih:e46a9e7708ad062dbe509249f4824c8138097495","amp;dn":"Disney%27s+Frozen+Deluxe+Soundtrack+%282013%29+%28flac%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e46a9e7708ad062dbe509249f4824c8138097495","infoHashBuffer":{"type":"Buffer","data":[228,106,158,119,8,173,6,45,190,80,146,73,244,130,76,129,56,9,116,149]},"announce":[],"urlList":[]}}
+{
+  "title": "Disney's Frozen Deluxe Soundtrack (2013) (flac)",
+  "uid": 9513722,
+  "size": 631971633,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:e46a9e7708ad062dbe509249f4824c8138097495&amp;dn=Disney%27s+Frozen+Deluxe+Soundtrack+%282013%29+%28flac%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 137,
+  "leechers": 19,
+  "uploader": "naziswastika",
+  "files": -1,
+  "time": 1390474579,
+  "description": "Disney's Frozen Deluxe Sountrack",
+  "parsed": {
+    "xt": "urn:btih:e46a9e7708ad062dbe509249f4824c8138097495",
+    "dn": "Disney's Frozen Deluxe Soundtrack (2013) (flac)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e46a9e7708ad062dbe509249f4824c8138097495",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        228,
+        106,
+        158,
+        119,
+        8,
+        173,
+        6,
+        45,
+        190,
+        80,
+        146,
+        73,
+        244,
+        130,
+        76,
+        129,
+        56,
+        9,
+        116,
+        149
+      ]
+    },
+    "name": "Disney's Frozen Deluxe Soundtrack (2013) (flac)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 156,
+  "peers": 3,
+  "last_updated": "2016-12-25T16:33:01.502Z"
+}

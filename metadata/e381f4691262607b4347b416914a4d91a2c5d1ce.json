@@ -1,1 +1,61 @@
-{"title":"Sid Meier's Pirates!","uid":5867278,"size":901066799,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:e381f4691262607b4347b416914a4d91a2c5d1ce&amp;dn=Sid+Meier%5C%27s+Pirates%21&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":3,"uploader":".BONE.","files":3,"time":1286258788,"description":"Sid Meiers Pirates\n\nSystem Requirements:\nOS: Windows 98/Me/2000/XP\nCPU: Pentium III or AMD Athlon 1 GHz or higher\nRAM: 256 MB\nHDD: 1.4 GB\nVideo: 64 MB Windows 98/Me/2000/XP Hardware T&amp;L-compatible SVGA\nDirectX 9.0 or higher","torrent":{"xt":"urn:btih:e381f4691262607b4347b416914a4d91a2c5d1ce","amp;dn":"Sid+Meier%5C%27s+Pirates%21","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e381f4691262607b4347b416914a4d91a2c5d1ce","infoHashBuffer":{"type":"Buffer","data":[227,129,244,105,18,98,96,123,67,71,180,22,145,74,77,145,162,197,209,206]},"announce":[],"urlList":[]}}
+{
+  "title": "Sid Meier's Pirates!",
+  "uid": 5867278,
+  "size": 901066799,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:e381f4691262607b4347b416914a4d91a2c5d1ce&amp;dn=Sid+Meier%5C%27s+Pirates%21&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 3,
+  "uploader": ".BONE.",
+  "files": 3,
+  "time": 1286258788,
+  "description": "Sid Meiers Pirates\n\nSystem Requirements:\nOS: Windows 98/Me/2000/XP\nCPU: Pentium III or AMD Athlon 1 GHz or higher\nRAM: 256 MB\nHDD: 1.4 GB\nVideo: 64 MB Windows 98/Me/2000/XP Hardware T&amp;L-compatible SVGA\nDirectX 9.0 or higher",
+  "parsed": {
+    "xt": "urn:btih:e381f4691262607b4347b416914a4d91a2c5d1ce",
+    "dn": "Sid Meier\\'s Pirates!",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e381f4691262607b4347b416914a4d91a2c5d1ce",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        227,
+        129,
+        244,
+        105,
+        18,
+        98,
+        96,
+        123,
+        67,
+        71,
+        180,
+        22,
+        145,
+        74,
+        77,
+        145,
+        162,
+        197,
+        209,
+        206
+      ]
+    },
+    "name": "Sid Meier\\'s Pirates!",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 59,
+  "last_updated": "2016-12-25T16:27:54.652Z"
+}

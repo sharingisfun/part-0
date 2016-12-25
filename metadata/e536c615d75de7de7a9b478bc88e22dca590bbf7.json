@@ -1,1 +1,61 @@
-{"title":"Tyrant S01E03 HDTV x264-LOL[ettv]","uid":10514165,"size":250635197,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e536c615d75de7de7a9b478bc88e22dca590bbf7&amp;dn=Tyrant+S01E03+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":8,"uploader":"ettv","files":2,"time":1404887454,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:e536c615d75de7de7a9b478bc88e22dca590bbf7","amp;dn":"Tyrant+S01E03+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e536c615d75de7de7a9b478bc88e22dca590bbf7","infoHashBuffer":{"type":"Buffer","data":[229,54,198,21,215,93,231,222,122,155,71,139,200,142,34,220,165,144,187,247]},"announce":[],"urlList":[]}}
+{
+  "title": "Tyrant S01E03 HDTV x264-LOL[ettv]",
+  "uid": 10514165,
+  "size": 250635197,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e536c615d75de7de7a9b478bc88e22dca590bbf7&amp;dn=Tyrant+S01E03+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 8,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1404887454,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:e536c615d75de7de7a9b478bc88e22dca590bbf7",
+    "dn": "Tyrant S01E03 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e536c615d75de7de7a9b478bc88e22dca590bbf7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        229,
+        54,
+        198,
+        21,
+        215,
+        93,
+        231,
+        222,
+        122,
+        155,
+        71,
+        139,
+        200,
+        142,
+        34,
+        220,
+        165,
+        144,
+        187,
+        247
+      ]
+    },
+    "name": "Tyrant S01E03 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 66,
+  "peers": 4,
+  "last_updated": "2016-12-25T16:37:56.353Z"
+}

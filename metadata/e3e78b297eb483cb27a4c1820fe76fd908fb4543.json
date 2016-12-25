@@ -1,1 +1,63 @@
-{"title":"Veep - Season 5","uid":15365228,"size":2090635619,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e3e78b297eb483cb27a4c1820fe76fd908fb4543&amp;dn=Veep+-+Season+5&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":128,"leechers":33,"uploader":"7436746","files":10,"time":1469064901,"description":"http://www.imdb.com/title/tt1759761/?ref_=fn_al_tt_1","torrent":{"xt":"urn:btih:e3e78b297eb483cb27a4c1820fe76fd908fb4543","amp;dn":"Veep+-+Season+5","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e3e78b297eb483cb27a4c1820fe76fd908fb4543","infoHashBuffer":{"type":"Buffer","data":[227,231,139,41,126,180,131,203,39,164,193,130,15,231,111,217,8,251,69,67]},"announce":[],"urlList":[]}}
+{
+  "title": "Veep - Season 5",
+  "uid": 15365228,
+  "size": 2090635619,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e3e78b297eb483cb27a4c1820fe76fd908fb4543&amp;dn=Veep+-+Season+5&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 128,
+  "leechers": 33,
+  "uploader": "7436746",
+  "files": 10,
+  "time": 1469064901,
+  "description": "http://www.imdb.com/title/tt1759761/?ref_=fn_al_tt_1",
+  "parsed": {
+    "xt": "urn:btih:e3e78b297eb483cb27a4c1820fe76fd908fb4543",
+    "dn": "Veep - Season 5",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e3e78b297eb483cb27a4c1820fe76fd908fb4543",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        227,
+        231,
+        139,
+        41,
+        126,
+        180,
+        131,
+        203,
+        39,
+        164,
+        193,
+        130,
+        15,
+        231,
+        111,
+        217,
+        8,
+        251,
+        69,
+        67
+      ]
+    },
+    "name": "Veep - Season 5",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 161,
+  "peers": 113,
+  "last_updated": "2016-12-25T16:30:21.069Z"
+}

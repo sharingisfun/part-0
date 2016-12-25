@@ -1,1 +1,61 @@
-{"title":"El Hobbit: Un viaje inesperado DVDRIP","uid":8916653,"size":1442295809,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:e31b05c70694290610b104184cc3a205974b0561&amp;dn=El+Hobbit%3A+Un+viaje+inesperado+DVDRIP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":228,"leechers":4,"uploader":"Miguel223","files":1,"time":1379158483,"description":" &lt;a href=&quot;http://www.peliculasytorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.peliculasytorrent.com/&lt;/a&gt;","torrent":{"xt":"urn:btih:e31b05c70694290610b104184cc3a205974b0561","amp;dn":"El+Hobbit%3A+Un+viaje+inesperado+DVDRIP","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e31b05c70694290610b104184cc3a205974b0561","infoHashBuffer":{"type":"Buffer","data":[227,27,5,199,6,148,41,6,16,177,4,24,76,195,162,5,151,75,5,97]},"announce":[],"urlList":[]}}
+{
+  "title": "El Hobbit: Un viaje inesperado DVDRIP",
+  "uid": 8916653,
+  "size": 1442295809,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:e31b05c70694290610b104184cc3a205974b0561&amp;dn=El+Hobbit%3A+Un+viaje+inesperado+DVDRIP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 228,
+  "leechers": 4,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1379158483,
+  "description": " &lt;a href=&quot;http://www.peliculasytorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.peliculasytorrent.com/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:e31b05c70694290610b104184cc3a205974b0561",
+    "dn": "El Hobbit: Un viaje inesperado DVDRIP",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e31b05c70694290610b104184cc3a205974b0561",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        227,
+        27,
+        5,
+        199,
+        6,
+        148,
+        41,
+        6,
+        16,
+        177,
+        4,
+        24,
+        76,
+        195,
+        162,
+        5,
+        151,
+        75,
+        5,
+        97
+      ]
+    },
+    "name": "El Hobbit: Un viaje inesperado DVDRIP",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 232,
+  "peers": 238,
+  "last_updated": "2016-12-25T16:25:30.243Z"
+}

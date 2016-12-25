@@ -1,1 +1,61 @@
-{"title":"Video Copilot Element 3D 1.6 (Win 32-64 bit) [ChingLiu]","uid":8315195,"size":102600362,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:e496af54d62650ff68b43874f613dc554442b2a7&amp;dn=Video+Copilot+Element+3D+1.6+%28Win+32-64+bit%29+%5BChingLiu%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":144,"leechers":2,"uploader":"Ching_Liu","files":-1,"time":1364571066,"description":"NEW FEATURES\n\n- Added world position pass.\n- Added scene relink.\n- Added replace model option.\n- Added a subsampling mode for post effects.\n- Added planar and polygon mapping types.\n- Added render order.\n- Added group nulls.\n- Added generate 3D position null.\n- Added shape order animation mode.\n- Improved automatic relinking.\n- Fix: issue with baked animation in different groups.\n- Fix: crash due to path aspect ratio fix.\n- Fix: occlusion map was rendering below diffuse.\n- Fix: masks with different aspect ratio than layer.\n- Fix: baked animation wasn't working with 3D object replicator shape.\n- Fix: rendering issues on OSX.\n- Fix: crash when rendering empty scene with missing assets.\n- Fix: licensing popup on Windows when opening old projects.\n\nCompatibility\n\nOperating System:\nWindows XP SP3, Vista and 7 (32 bit and 64 bit supported.)\n\nAfter Effects Version:\nElement supports Adobe After Effects CS3, CS4, CS5, CS5.5 and CS6\n\nSupported Graphics Cards:\nA 512 MB Graphics card, and 1GB or more is recommended for large scenes.\nGeforce 8800 or better. Including Quadro 4000 or better and ATI Radeon 3870 or better.\n\n* NOTE: Be sure to keep your graphics card drivers up to date for best performance.\n\nLanguage : English\n\nHomepage :  &lt;a href=&quot;\nhttps://www.videocopilot.net/products/element/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://www.videocopilot.net/products/element/&lt;/a&gt; ","torrent":{"xt":"urn:btih:e496af54d62650ff68b43874f613dc554442b2a7","amp;dn":"Video+Copilot+Element+3D+1.6+%28Win+32-64+bit%29+%5BChingLiu%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e496af54d62650ff68b43874f613dc554442b2a7","infoHashBuffer":{"type":"Buffer","data":[228,150,175,84,214,38,80,255,104,180,56,116,246,19,220,85,68,66,178,167]},"announce":[],"urlList":[]}}
+{
+  "title": "Video Copilot Element 3D 1.6 (Win 32-64 bit) [ChingLiu]",
+  "uid": 8315195,
+  "size": 102600362,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:e496af54d62650ff68b43874f613dc554442b2a7&amp;dn=Video+Copilot+Element+3D+1.6+%28Win+32-64+bit%29+%5BChingLiu%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 144,
+  "leechers": 2,
+  "uploader": "Ching_Liu",
+  "files": -1,
+  "time": 1364571066,
+  "description": "NEW FEATURES\n\n- Added world position pass.\n- Added scene relink.\n- Added replace model option.\n- Added a subsampling mode for post effects.\n- Added planar and polygon mapping types.\n- Added render order.\n- Added group nulls.\n- Added generate 3D position null.\n- Added shape order animation mode.\n- Improved automatic relinking.\n- Fix: issue with baked animation in different groups.\n- Fix: crash due to path aspect ratio fix.\n- Fix: occlusion map was rendering below diffuse.\n- Fix: masks with different aspect ratio than layer.\n- Fix: baked animation wasn't working with 3D object replicator shape.\n- Fix: rendering issues on OSX.\n- Fix: crash when rendering empty scene with missing assets.\n- Fix: licensing popup on Windows when opening old projects.\n\nCompatibility\n\nOperating System:\nWindows XP SP3, Vista and 7 (32 bit and 64 bit supported.)\n\nAfter Effects Version:\nElement supports Adobe After Effects CS3, CS4, CS5, CS5.5 and CS6\n\nSupported Graphics Cards:\nA 512 MB Graphics card, and 1GB or more is recommended for large scenes.\nGeforce 8800 or better. Including Quadro 4000 or better and ATI Radeon 3870 or better.\n\n* NOTE: Be sure to keep your graphics card drivers up to date for best performance.\n\nLanguage : English\n\nHomepage :  &lt;a href=&quot;\nhttps://www.videocopilot.net/products/element/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://www.videocopilot.net/products/element/&lt;/a&gt; ",
+  "parsed": {
+    "xt": "urn:btih:e496af54d62650ff68b43874f613dc554442b2a7",
+    "dn": "Video Copilot Element 3D 1.6 (Win 32-64 bit) [ChingLiu]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e496af54d62650ff68b43874f613dc554442b2a7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        228,
+        150,
+        175,
+        84,
+        214,
+        38,
+        80,
+        255,
+        104,
+        180,
+        56,
+        116,
+        246,
+        19,
+        220,
+        85,
+        68,
+        66,
+        178,
+        167
+      ]
+    },
+    "name": "Video Copilot Element 3D 1.6 (Win 32-64 bit) [ChingLiu]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 146,
+  "peers": 100,
+  "last_updated": "2016-12-25T16:34:15.712Z"
+}

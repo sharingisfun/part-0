@@ -1,1 +1,63 @@
-{"title":"Lynda - Introduction to Kali Linux 2016","uid":15655642,"size":486415037,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:e57c75ddd82bf928c43b91d06536935343a963dc&amp;dn=Lynda+-+Introduction+to+Kali+Linux+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":7,"uploader":null,"files":42,"time":1472135938,"description":"https://www.lynda.com/Linux-tutorials/Introduction-Kali-Linux/455715-2.html","torrent":{"xt":"urn:btih:e57c75ddd82bf928c43b91d06536935343a963dc","amp;dn":"Lynda+-+Introduction+to+Kali+Linux+2016","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e57c75ddd82bf928c43b91d06536935343a963dc","infoHashBuffer":{"type":"Buffer","data":[229,124,117,221,216,43,249,40,196,59,145,208,101,54,147,83,67,169,99,220]},"announce":[],"urlList":[]}}
+{
+  "title": "Lynda - Introduction to Kali Linux 2016",
+  "uid": 15655642,
+  "size": 486415037,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:e57c75ddd82bf928c43b91d06536935343a963dc&amp;dn=Lynda+-+Introduction+to+Kali+Linux+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 7,
+  "uploader": null,
+  "files": 42,
+  "time": 1472135938,
+  "description": "https://www.lynda.com/Linux-tutorials/Introduction-Kali-Linux/455715-2.html",
+  "parsed": {
+    "xt": "urn:btih:e57c75ddd82bf928c43b91d06536935343a963dc",
+    "dn": "Lynda - Introduction to Kali Linux 2016",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e57c75ddd82bf928c43b91d06536935343a963dc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        229,
+        124,
+        117,
+        221,
+        216,
+        43,
+        249,
+        40,
+        196,
+        59,
+        145,
+        208,
+        101,
+        54,
+        147,
+        83,
+        67,
+        169,
+        99,
+        220
+      ]
+    },
+    "name": "Lynda - Introduction to Kali Linux 2016",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 134,
+  "last_updated": "2016-12-25T16:39:10.576Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Windows 7 SP1 X86 en-US March 2016","uid":16016418,"size":4464770951,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:e3a5757e63125a50a905a9fb60f17162534731f6&amp;dn=Windows+7+SP1+X86+en-US+March+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":1568,"leechers":218,"uploader":"htomoboye","files":2,"time":1476294526,"description":"\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program","torrent":{"xt":"urn:btih:e3a5757e63125a50a905a9fb60f17162534731f6","amp;dn":"Windows+7+SP1+X86+en-US+March+2016","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e3a5757e63125a50a905a9fb60f17162534731f6","infoHashBuffer":{"type":"Buffer","data":[227,165,117,126,99,18,90,80,169,5,169,251,96,241,113,98,83,71,49,246]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows 7 SP1 X86 en-US March 2016",
+  "uid": 16016418,
+  "size": 4464770951,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:e3a5757e63125a50a905a9fb60f17162534731f6&amp;dn=Windows+7+SP1+X86+en-US+March+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 1568,
+  "leechers": 218,
+  "uploader": "htomoboye",
+  "files": 2,
+  "time": 1476294526,
+  "description": "\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program",
+  "parsed": {
+    "xt": "urn:btih:e3a5757e63125a50a905a9fb60f17162534731f6",
+    "dn": "Windows 7 SP1 X86 en-US March 2016",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e3a5757e63125a50a905a9fb60f17162534731f6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        227,
+        165,
+        117,
+        126,
+        99,
+        18,
+        90,
+        80,
+        169,
+        5,
+        169,
+        251,
+        96,
+        241,
+        113,
+        98,
+        83,
+        71,
+        49,
+        246
+      ]
+    },
+    "name": "Windows 7 SP1 X86 en-US March 2016",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 1786,
+  "peers": 2,
+  "last_updated": "2016-12-25T16:29:02.846Z"
+}

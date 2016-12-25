@@ -1,1 +1,61 @@
-{"title":"Muse - 2003 - Absolution","uid":8613153,"size":138138022,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e5867973f5f058f0c9f7d3573f90862039c99c05&amp;dn=Muse+-+2003+-+Absolution&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":1,"uploader":"RockersBR","files":15,"time":1372191990,"description":"By RockersBR","torrent":{"xt":"urn:btih:e5867973f5f058f0c9f7d3573f90862039c99c05","amp;dn":"Muse+-+2003+-+Absolution","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e5867973f5f058f0c9f7d3573f90862039c99c05","infoHashBuffer":{"type":"Buffer","data":[229,134,121,115,245,240,88,240,201,247,211,87,63,144,134,32,57,201,156,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Muse - 2003 - Absolution",
+  "uid": 8613153,
+  "size": 138138022,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e5867973f5f058f0c9f7d3573f90862039c99c05&amp;dn=Muse+-+2003+-+Absolution&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 1,
+  "uploader": "RockersBR",
+  "files": 15,
+  "time": 1372191990,
+  "description": "By RockersBR",
+  "parsed": {
+    "xt": "urn:btih:e5867973f5f058f0c9f7d3573f90862039c99c05",
+    "dn": "Muse - 2003 - Absolution",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e5867973f5f058f0c9f7d3573f90862039c99c05",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        229,
+        134,
+        121,
+        115,
+        245,
+        240,
+        88,
+        240,
+        201,
+        247,
+        211,
+        87,
+        63,
+        144,
+        134,
+        32,
+        57,
+        201,
+        156,
+        5
+      ]
+    },
+    "name": "Muse - 2003 - Absolution",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 43,
+  "last_updated": "2016-12-25T16:39:18.595Z"
+}

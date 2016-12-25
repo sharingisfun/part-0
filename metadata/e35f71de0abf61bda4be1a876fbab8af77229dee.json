@@ -1,1 +1,61 @@
-{"title":"Arctic Monkeys - AM (2013) [mp3@320]","uid":9889545,"size":100496482,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e35f71de0abf61bda4be1a876fbab8af77229dee&amp;dn=Arctic+Monkeys+-+AM+%282013%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":1,"uploader":null,"files":-1,"time":1396626063,"description":"Arctic Monkeys - AM\nMP3@320 kbit, 44.1khz Joint Stereo\n\nTracklist:\n01. Do I Wanna Know? \n02. R U Mine? \n03. One For the Road \n04. Arabella \n05. I Want It All \n06. No. 1 Party Anthem \n07. Mad Sounds \n08. Fireside \n09. Why'd You Only Call Me When You're High? \n10. Snap Out of It \n11. Knee Socks \n12. I Wanna Be Yours ","torrent":{"xt":"urn:btih:e35f71de0abf61bda4be1a876fbab8af77229dee","amp;dn":"Arctic+Monkeys+-+AM+%282013%29+%5Bmp3%40320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e35f71de0abf61bda4be1a876fbab8af77229dee","infoHashBuffer":{"type":"Buffer","data":[227,95,113,222,10,191,97,189,164,190,26,135,111,186,184,175,119,34,157,238]},"announce":[],"urlList":[]}}
+{
+  "title": "Arctic Monkeys - AM (2013) [mp3@320]",
+  "uid": 9889545,
+  "size": 100496482,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e35f71de0abf61bda4be1a876fbab8af77229dee&amp;dn=Arctic+Monkeys+-+AM+%282013%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 1,
+  "uploader": null,
+  "files": -1,
+  "time": 1396626063,
+  "description": "Arctic Monkeys - AM\nMP3@320 kbit, 44.1khz Joint Stereo\n\nTracklist:\n01. Do I Wanna Know? \n02. R U Mine? \n03. One For the Road \n04. Arabella \n05. I Want It All \n06. No. 1 Party Anthem \n07. Mad Sounds \n08. Fireside \n09. Why'd You Only Call Me When You're High? \n10. Snap Out of It \n11. Knee Socks \n12. I Wanna Be Yours ",
+  "parsed": {
+    "xt": "urn:btih:e35f71de0abf61bda4be1a876fbab8af77229dee",
+    "dn": "Arctic Monkeys - AM (2013) [mp3@320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e35f71de0abf61bda4be1a876fbab8af77229dee",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        227,
+        95,
+        113,
+        222,
+        10,
+        191,
+        97,
+        189,
+        164,
+        190,
+        26,
+        135,
+        111,
+        186,
+        184,
+        175,
+        119,
+        34,
+        157,
+        238
+      ]
+    },
+    "name": "Arctic Monkeys - AM (2013) [mp3@320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 2,
+  "last_updated": "2016-12-25T16:26:58.484Z"
+}

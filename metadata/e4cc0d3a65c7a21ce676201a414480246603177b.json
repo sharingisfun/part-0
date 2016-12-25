@@ -1,1 +1,61 @@
-{"title":"Pretty.Little.Liars.S03.HDTV.x264-LOL","uid":8281212,"size":6493885641,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e4cc0d3a65c7a21ce676201a414480246603177b&amp;dn=Pretty.Little.Liars.S03.HDTV.x264-LOL&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":115,"leechers":60,"uploader":"maximersk","files":24,"time":1363841731,"description":"Pretty.Little.Liars.S03.HDTV.x264-LOL","torrent":{"xt":"urn:btih:e4cc0d3a65c7a21ce676201a414480246603177b","amp;dn":"Pretty.Little.Liars.S03.HDTV.x264-LOL","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e4cc0d3a65c7a21ce676201a414480246603177b","infoHashBuffer":{"type":"Buffer","data":[228,204,13,58,101,199,162,28,230,118,32,26,65,68,128,36,102,3,23,123]},"announce":[],"urlList":[]}}
+{
+  "title": "Pretty.Little.Liars.S03.HDTV.x264-LOL",
+  "uid": 8281212,
+  "size": 6493885641,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e4cc0d3a65c7a21ce676201a414480246603177b&amp;dn=Pretty.Little.Liars.S03.HDTV.x264-LOL&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 115,
+  "leechers": 60,
+  "uploader": "maximersk",
+  "files": 24,
+  "time": 1363841731,
+  "description": "Pretty.Little.Liars.S03.HDTV.x264-LOL",
+  "parsed": {
+    "xt": "urn:btih:e4cc0d3a65c7a21ce676201a414480246603177b",
+    "dn": "Pretty.Little.Liars.S03.HDTV.x264-LOL",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e4cc0d3a65c7a21ce676201a414480246603177b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        228,
+        204,
+        13,
+        58,
+        101,
+        199,
+        162,
+        28,
+        230,
+        118,
+        32,
+        26,
+        65,
+        68,
+        128,
+        36,
+        102,
+        3,
+        23,
+        123
+      ]
+    },
+    "name": "Pretty.Little.Liars.S03.HDTV.x264-LOL",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 175,
+  "peers": 29,
+  "last_updated": "2016-12-25T16:35:35.942Z"
+}

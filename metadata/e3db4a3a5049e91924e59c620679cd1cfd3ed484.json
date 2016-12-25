@@ -1,1 +1,63 @@
-{"title":"Scrap Mechanic v0.1.27","uid":15964347,"size":16061556,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:e3db4a3a5049e91924e59c620679cd1cfd3ed484&amp;dn=Scrap+Mechanic+v0.1.27&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":88,"leechers":62,"uploader":"trwetwr","files":3,"time":1475707724,"description":"Good Game","torrent":{"xt":"urn:btih:e3db4a3a5049e91924e59c620679cd1cfd3ed484","amp;dn":"Scrap+Mechanic+v0.1.27","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e3db4a3a5049e91924e59c620679cd1cfd3ed484","infoHashBuffer":{"type":"Buffer","data":[227,219,74,58,80,73,233,25,36,229,156,98,6,121,205,28,253,62,212,132]},"announce":[],"urlList":[]}}
+{
+  "title": "Scrap Mechanic v0.1.27",
+  "uid": 15964347,
+  "size": 16061556,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:e3db4a3a5049e91924e59c620679cd1cfd3ed484&amp;dn=Scrap+Mechanic+v0.1.27&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 88,
+  "leechers": 62,
+  "uploader": "trwetwr",
+  "files": 3,
+  "time": 1475707724,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:e3db4a3a5049e91924e59c620679cd1cfd3ed484",
+    "dn": "Scrap Mechanic v0.1.27",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e3db4a3a5049e91924e59c620679cd1cfd3ed484",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        227,
+        219,
+        74,
+        58,
+        80,
+        73,
+        233,
+        25,
+        36,
+        229,
+        156,
+        98,
+        6,
+        121,
+        205,
+        28,
+        253,
+        62,
+        212,
+        132
+      ]
+    },
+    "name": "Scrap Mechanic v0.1.27",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 150,
+  "peers": 2,
+  "last_updated": "2016-12-25T16:30:09.036Z"
+}

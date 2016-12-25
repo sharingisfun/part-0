@@ -1,1 +1,61 @@
-{"title":"Jessie J - Sweet Talker (Deluxe Version) {MP3-2014}","uid":11181127,"size":135935795,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e363b4bc4eab34a62ff84b991550e62fb2d3cc0a&amp;dn=Jessie+J+-+Sweet+Talker+%28Deluxe+Version%29+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":216,"leechers":5,"uploader":"simpsonrony","files":-1,"time":1412862929,"description":"Source: https://itunes.apple.com/nz/album/sweet-talker-deluxe-version/id911396506\n\nArtist: Jessie J\n\nAlbum: Sweet Talker (Deluxe Version)\n\nGenre: Pop/Dance\n\nAudio Format: MP3\n\nAudio Bitrate: 320KBPS\n\n\n\n\nTracklist:\n**********\n\n01 Ain't Been Done\n02 Burnin' Up (feat. 2 Chainz)\n03 Sweet Talker\n04 Bang Bang\n05 Fire\n06 Personal\n07 Masterpiece\n08 Seal Me With a Kiss (feat. De La Soul)\n09 Said Too Much\n10 Loud (feat. Lindsey Stirling)\n11 Keep Us Together\n12 Get Away\n13 Your Loss I'm Found.\n14 Strip\n15 You Don't Really Know Me","torrent":{"xt":"urn:btih:e363b4bc4eab34a62ff84b991550e62fb2d3cc0a","amp;dn":"Jessie+J+-+Sweet+Talker+%28Deluxe+Version%29+%7BMP3-2014%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e363b4bc4eab34a62ff84b991550e62fb2d3cc0a","infoHashBuffer":{"type":"Buffer","data":[227,99,180,188,78,171,52,166,47,248,75,153,21,80,230,47,178,211,204,10]},"announce":[],"urlList":[]}}
+{
+  "title": "Jessie J - Sweet Talker (Deluxe Version) {MP3-2014}",
+  "uid": 11181127,
+  "size": 135935795,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e363b4bc4eab34a62ff84b991550e62fb2d3cc0a&amp;dn=Jessie+J+-+Sweet+Talker+%28Deluxe+Version%29+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 216,
+  "leechers": 5,
+  "uploader": "simpsonrony",
+  "files": -1,
+  "time": 1412862929,
+  "description": "Source: https://itunes.apple.com/nz/album/sweet-talker-deluxe-version/id911396506\n\nArtist: Jessie J\n\nAlbum: Sweet Talker (Deluxe Version)\n\nGenre: Pop/Dance\n\nAudio Format: MP3\n\nAudio Bitrate: 320KBPS\n\n\n\n\nTracklist:\n**********\n\n01 Ain't Been Done\n02 Burnin' Up (feat. 2 Chainz)\n03 Sweet Talker\n04 Bang Bang\n05 Fire\n06 Personal\n07 Masterpiece\n08 Seal Me With a Kiss (feat. De La Soul)\n09 Said Too Much\n10 Loud (feat. Lindsey Stirling)\n11 Keep Us Together\n12 Get Away\n13 Your Loss I'm Found.\n14 Strip\n15 You Don't Really Know Me",
+  "parsed": {
+    "xt": "urn:btih:e363b4bc4eab34a62ff84b991550e62fb2d3cc0a",
+    "dn": "Jessie J - Sweet Talker (Deluxe Version) {MP3-2014}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e363b4bc4eab34a62ff84b991550e62fb2d3cc0a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        227,
+        99,
+        180,
+        188,
+        78,
+        171,
+        52,
+        166,
+        47,
+        248,
+        75,
+        153,
+        21,
+        80,
+        230,
+        47,
+        178,
+        211,
+        204,
+        10
+      ]
+    },
+    "name": "Jessie J - Sweet Talker (Deluxe Version) {MP3-2014}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 221,
+  "peers": 57,
+  "last_updated": "2016-12-25T16:27:08.512Z"
+}

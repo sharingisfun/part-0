@@ -1,1 +1,61 @@
-{"title":"Microsoft Office 2007 SP1 USB ThinApp - Word, Excel, PowerPoint","uid":4321756,"size":223598719,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:e38ddc227f19756bf8e050134be22d53c8d3cbf7&amp;dn=Microsoft+Office+2007+SP1+USB+ThinApp+-+Word%2C+Excel%2C+PowerPoint&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":1,"uploader":"whitehat2009","files":3,"time":1217524942,"description":"Microsoft Office 2007 SP1 USB ThinApp - Word, Excel, PowerPoint\nJuly 31, 2008\n\n***Update of http://thepiratebay.se/tor/4165858/MS_Office_2007_SP1_Thinstall_Lite_-_Portable_USB_Ready\n\n\nDescription:\nPortable, USB-ready builds of Office 2007 Excel, Powerpoint, and Word. This build is derived from\nthe Enterprise edition, meaning no activation is required - it&amp;#039;s ready to run out of the box.\nAll unnecessary components that would be irrelevant in a portable environment have been stripped. \nHere is a partial list of what has been removed:\n\n-Visual Basic for Applications\n-Clip Organizer\n-Picture Manager\n-Microsoft Query\n-Microsoft Script Editor\n-NET Framework Programmability Support\n-French, Spanish Proofing Components\n-Document Imaging\n-Sharepoint Services\n-Document Update Utility\n\nInstallation Instructions:\nExtract ALL files (to a USB drive). A new folder called &quot;Office2007_ThinApp&quot; will be created.\n\nTo Use:\nRun the corresponding EXE file. First-time startup may take anywhere from a few seconds to a few\nminutes, but subsequent launches should be significantly faster.\n\nTechnical Details:\nBuilt with VMWare ThinApp 4.0 build 2200\nWindows XP Pro SP3 on VMWare Workstation 6.0.4","torrent":{"xt":"urn:btih:e38ddc227f19756bf8e050134be22d53c8d3cbf7","amp;dn":"Microsoft+Office+2007+SP1+USB+ThinApp+-+Word%2C+Excel%2C+PowerPoint","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e38ddc227f19756bf8e050134be22d53c8d3cbf7","infoHashBuffer":{"type":"Buffer","data":[227,141,220,34,127,25,117,107,248,224,80,19,75,226,45,83,200,211,203,247]},"announce":[],"urlList":[]}}
+{
+  "title": "Microsoft Office 2007 SP1 USB ThinApp - Word, Excel, PowerPoint",
+  "uid": 4321756,
+  "size": 223598719,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:e38ddc227f19756bf8e050134be22d53c8d3cbf7&amp;dn=Microsoft+Office+2007+SP1+USB+ThinApp+-+Word%2C+Excel%2C+PowerPoint&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 1,
+  "uploader": "whitehat2009",
+  "files": 3,
+  "time": 1217524942,
+  "description": "Microsoft Office 2007 SP1 USB ThinApp - Word, Excel, PowerPoint\nJuly 31, 2008\n\n***Update of http://thepiratebay.se/tor/4165858/MS_Office_2007_SP1_Thinstall_Lite_-_Portable_USB_Ready\n\n\nDescription:\nPortable, USB-ready builds of Office 2007 Excel, Powerpoint, and Word. This build is derived from\nthe Enterprise edition, meaning no activation is required - it&amp;#039;s ready to run out of the box.\nAll unnecessary components that would be irrelevant in a portable environment have been stripped. \nHere is a partial list of what has been removed:\n\n-Visual Basic for Applications\n-Clip Organizer\n-Picture Manager\n-Microsoft Query\n-Microsoft Script Editor\n-NET Framework Programmability Support\n-French, Spanish Proofing Components\n-Document Imaging\n-Sharepoint Services\n-Document Update Utility\n\nInstallation Instructions:\nExtract ALL files (to a USB drive). A new folder called &quot;Office2007_ThinApp&quot; will be created.\n\nTo Use:\nRun the corresponding EXE file. First-time startup may take anywhere from a few seconds to a few\nminutes, but subsequent launches should be significantly faster.\n\nTechnical Details:\nBuilt with VMWare ThinApp 4.0 build 2200\nWindows XP Pro SP3 on VMWare Workstation 6.0.4",
+  "parsed": {
+    "xt": "urn:btih:e38ddc227f19756bf8e050134be22d53c8d3cbf7",
+    "dn": "Microsoft Office 2007 SP1 USB ThinApp - Word, Excel, PowerPoint",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e38ddc227f19756bf8e050134be22d53c8d3cbf7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        227,
+        141,
+        220,
+        34,
+        127,
+        25,
+        117,
+        107,
+        248,
+        224,
+        80,
+        19,
+        75,
+        226,
+        45,
+        83,
+        200,
+        211,
+        203,
+        247
+      ]
+    },
+    "name": "Microsoft Office 2007 SP1 USB ThinApp - Word, Excel, PowerPoint",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 128,
+  "last_updated": "2016-12-25T16:28:08.694Z"
+}

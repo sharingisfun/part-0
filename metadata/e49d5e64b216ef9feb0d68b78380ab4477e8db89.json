@@ -1,1 +1,61 @@
-{"title":"VA - Summer Hits - 2014 - Top 40 Pop ( 320 Kbps )","uid":10282926,"size":286886054,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e49d5e64b216ef9feb0d68b78380ab4477e8db89&amp;dn=VA+-+Summer+Hits+-+2014+-+Top+40+Pop+%28+320+Kbps+%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":75,"leechers":3,"uploader":"RoffeTheCoolMan","files":45,"time":1401731785,"description":"The top hits of summer 2014.","torrent":{"xt":"urn:btih:e49d5e64b216ef9feb0d68b78380ab4477e8db89","amp;dn":"VA+-+Summer+Hits+-+2014+-+Top+40+Pop+%28+320+Kbps+%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e49d5e64b216ef9feb0d68b78380ab4477e8db89","infoHashBuffer":{"type":"Buffer","data":[228,157,94,100,178,22,239,159,235,13,104,183,131,128,171,68,119,232,219,137]},"announce":[],"urlList":[]}}
+{
+  "title": "VA - Summer Hits - 2014 - Top 40 Pop ( 320 Kbps )",
+  "uid": 10282926,
+  "size": 286886054,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e49d5e64b216ef9feb0d68b78380ab4477e8db89&amp;dn=VA+-+Summer+Hits+-+2014+-+Top+40+Pop+%28+320+Kbps+%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 75,
+  "leechers": 3,
+  "uploader": "RoffeTheCoolMan",
+  "files": 45,
+  "time": 1401731785,
+  "description": "The top hits of summer 2014.",
+  "parsed": {
+    "xt": "urn:btih:e49d5e64b216ef9feb0d68b78380ab4477e8db89",
+    "dn": "VA - Summer Hits - 2014 - Top 40 Pop ( 320 Kbps )",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e49d5e64b216ef9feb0d68b78380ab4477e8db89",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        228,
+        157,
+        94,
+        100,
+        178,
+        22,
+        239,
+        159,
+        235,
+        13,
+        104,
+        183,
+        131,
+        128,
+        171,
+        68,
+        119,
+        232,
+        219,
+        137
+      ]
+    },
+    "name": "VA - Summer Hits - 2014 - Top 40 Pop ( 320 Kbps )",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 78,
+  "peers": 17,
+  "last_updated": "2016-12-25T16:34:29.756Z"
+}

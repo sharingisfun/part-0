@@ -1,1 +1,63 @@
-{"title":"Narcos.S01E10.WEBRip.x264-TASTETV","uid":12752384,"size":327107363,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e54157fa9f7210078497c174324cf3ac067a2de6&amp;dn=Narcos.S01E10.WEBRip.x264-TASTETV&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":128,"leechers":12,"uploader":"TheRival","files":3,"time":1447396774,"description":"Narcos.S01E10.WEBRip.x264-TASTETV\r\n\r\nReleasedate........: 28/08/2015  Airdate............: 28/08/2015\r\nGenre..............: Scripted    Framerate..........: 23.976fps\r\nSource.............: WEBRip      Video.Codec........: x264\r\nResolution.........: 720x404     Video.Bitrate......: 847kbps\r\nSize...............: 22x15m      Audio.Bitrate......: 124kbps","torrent":{"xt":"urn:btih:e54157fa9f7210078497c174324cf3ac067a2de6","amp;dn":"Narcos.S01E10.WEBRip.x264-TASTETV","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e54157fa9f7210078497c174324cf3ac067a2de6","infoHashBuffer":{"type":"Buffer","data":[229,65,87,250,159,114,16,7,132,151,193,116,50,76,243,172,6,122,45,230]},"announce":[],"urlList":[]}}
+{
+  "title": "Narcos.S01E10.WEBRip.x264-TASTETV",
+  "uid": 12752384,
+  "size": 327107363,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e54157fa9f7210078497c174324cf3ac067a2de6&amp;dn=Narcos.S01E10.WEBRip.x264-TASTETV&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 128,
+  "leechers": 12,
+  "uploader": "TheRival",
+  "files": 3,
+  "time": 1447396774,
+  "description": "Narcos.S01E10.WEBRip.x264-TASTETV\r\n\r\nReleasedate........: 28/08/2015  Airdate............: 28/08/2015\r\nGenre..............: Scripted    Framerate..........: 23.976fps\r\nSource.............: WEBRip      Video.Codec........: x264\r\nResolution.........: 720x404     Video.Bitrate......: 847kbps\r\nSize...............: 22x15m      Audio.Bitrate......: 124kbps",
+  "parsed": {
+    "xt": "urn:btih:e54157fa9f7210078497c174324cf3ac067a2de6",
+    "dn": "Narcos.S01E10.WEBRip.x264-TASTETV",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e54157fa9f7210078497c174324cf3ac067a2de6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        229,
+        65,
+        87,
+        250,
+        159,
+        114,
+        16,
+        7,
+        132,
+        151,
+        193,
+        116,
+        50,
+        76,
+        243,
+        172,
+        6,
+        122,
+        45,
+        230
+      ]
+    },
+    "name": "Narcos.S01E10.WEBRip.x264-TASTETV",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 140,
+  "peers": 216,
+  "last_updated": "2016-12-25T16:38:14.404Z"
+}

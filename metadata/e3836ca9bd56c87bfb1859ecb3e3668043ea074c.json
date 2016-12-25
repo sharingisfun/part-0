@@ -1,1 +1,63 @@
-{"title":"RimWorld Alpha 15 (Windows) [ENG-RUS] Repack","uid":15711692,"size":105349026,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:e3836ca9bd56c87bfb1859ecb3e3668043ea074c&amp;dn=RimWorld+Alpha+15+%28Windows%29+%5BENG-RUS%5D+Repack&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":3,"uploader":"sovietrussia","files":1,"time":1472581422,"description":"I'm happy to announce that we've just released RimWorld Alpha 15! This version adds a rich tutorial, an intelligent learning helper to help you pick up the game, a new drug system, deep drilling to provide resources in the end game, and a giant pile of other smaller improvements and fixes. A full change log and detailed info is below.\r\nYouTubeâ„¢ Video: RimWorld Alpha 15 - Tutorial and Drugs \r\nViews: 43,484\r\nGame site: ludeon.com Personal site: tynansylvester.com\r\n\r\nFor Steam players, if you want to continue with Alpha 14 for any reason, you can get on the 'alpha14' beta branch in Steam. In the Steam Library, right click RimWorld, click Properties, go to the Betas tab, select 'alpha14' in the drop-down list, and restart Steam.\r\n\r\nNon-Steam players who wish to update can simply download from the same download link as before; it has been updated to the new version. They should install the new version in a clean empty folder.\r\n\r\nSave compatibility: As usual, Alpha 15 will not load Alpha 14 save games by default. However, a user did put together a guide that allows you to manually update save files with some text editing. Check it out here if you really want to try to continue that Alpha 14 colony.\r\n\r\nMod compatibility: Some purely XML mods will be compatible between versions. However, most significant mods will need to be adjusted and recompiled. Beware: If a mod author updates their existing mod to the new version, it'll stop updating on the old version. You may wish to turn off Steam auto-updates if you really want to avoid this","torrent":{"xt":"urn:btih:e3836ca9bd56c87bfb1859ecb3e3668043ea074c","amp;dn":"RimWorld+Alpha+15+%28Windows%29+%5BENG-RUS%5D+Repack","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e3836ca9bd56c87bfb1859ecb3e3668043ea074c","infoHashBuffer":{"type":"Buffer","data":[227,131,108,169,189,86,200,123,251,24,89,236,179,227,102,128,67,234,7,76]},"announce":[],"urlList":[]}}
+{
+  "title": "RimWorld Alpha 15 (Windows) [ENG-RUS] Repack",
+  "uid": 15711692,
+  "size": 105349026,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:e3836ca9bd56c87bfb1859ecb3e3668043ea074c&amp;dn=RimWorld+Alpha+15+%28Windows%29+%5BENG-RUS%5D+Repack&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 3,
+  "uploader": "sovietrussia",
+  "files": 1,
+  "time": 1472581422,
+  "description": "I'm happy to announce that we've just released RimWorld Alpha 15! This version adds a rich tutorial, an intelligent learning helper to help you pick up the game, a new drug system, deep drilling to provide resources in the end game, and a giant pile of other smaller improvements and fixes. A full change log and detailed info is below.\r\nYouTubeâ„¢ Video: RimWorld Alpha 15 - Tutorial and Drugs \r\nViews: 43,484\r\nGame site: ludeon.com Personal site: tynansylvester.com\r\n\r\nFor Steam players, if you want to continue with Alpha 14 for any reason, you can get on the 'alpha14' beta branch in Steam. In the Steam Library, right click RimWorld, click Properties, go to the Betas tab, select 'alpha14' in the drop-down list, and restart Steam.\r\n\r\nNon-Steam players who wish to update can simply download from the same download link as before; it has been updated to the new version. They should install the new version in a clean empty folder.\r\n\r\nSave compatibility: As usual, Alpha 15 will not load Alpha 14 save games by default. However, a user did put together a guide that allows you to manually update save files with some text editing. Check it out here if you really want to try to continue that Alpha 14 colony.\r\n\r\nMod compatibility: Some purely XML mods will be compatible between versions. However, most significant mods will need to be adjusted and recompiled. Beware: If a mod author updates their existing mod to the new version, it'll stop updating on the old version. You may wish to turn off Steam auto-updates if you really want to avoid this",
+  "parsed": {
+    "xt": "urn:btih:e3836ca9bd56c87bfb1859ecb3e3668043ea074c",
+    "dn": "RimWorld Alpha 15 (Windows) [ENG-RUS] Repack",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e3836ca9bd56c87bfb1859ecb3e3668043ea074c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        227,
+        131,
+        108,
+        169,
+        189,
+        86,
+        200,
+        123,
+        251,
+        24,
+        89,
+        236,
+        179,
+        227,
+        102,
+        128,
+        67,
+        234,
+        7,
+        76
+      ]
+    },
+    "name": "RimWorld Alpha 15 (Windows) [ENG-RUS] Repack",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 61,
+  "last_updated": "2016-12-25T16:27:56.658Z"
+}
