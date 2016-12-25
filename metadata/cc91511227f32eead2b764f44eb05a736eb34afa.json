@@ -1,1 +1,61 @@
-{"title":"Ableton Live Suite v9.1.7 (32-64bit) OS X [dada]","uid":11671422,"size":508068295,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:cc91511227f32eead2b764f44eb05a736eb34afa&amp;dn=Ableton+Live+Suite+v9.1.7+%2832-64bit%29+OS+X+%5Bdada%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":0,"uploader":"future-dada","files":2,"time":1422722221,"description":"Ableton Live Suite v9.1.7 (32-64bit) OS X [dada] \n474.9 MB\n\nOPEN WITH KEKA!\n-------------------------------------------------------------------------------------  &lt;a href=&quot;\nhttps://www.ableton.com/en/live/new-in-9/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://www.ableton.com/en/live/new-in-9/&lt;/a&gt; \n------------------------------------------------------------------------------------- \nCreate, produce and perform. Create ideas, make changes without stopping, and capture everything as you work. If youÃ¢â‚¬â„¢ve used music software before, youÃ¢â‚¬â„¢re already familiar with one half of Ableton Live. LiveÃ¢â‚¬â„¢s Arrangement View is a familiar working space: time moves from left to right, while tracks are stacked vertically. But Live also features the revolutionary Session View: a unique sketchpad for improvising, playing and performing with musical ideas, without the constraints of the timeline. Freely and independently start and stop any number of audio or MIDI loops - everything stays in sync. Almost everything in Live works in real-time - add, reorder or remove devices, play with LiveÃ¢â‚¬â„¢s flexible track routing and more - all without interrupting your creative flow. \n------------------------------------------------------------------------------------- \n9.1.7 Release Notes \n\nImprovements and feature changes:\n\nAdded control surface support for M-Audio Oxygen 4th generation controllers.\n\nBugfixes:\n\nWhen choosing Ã¢â‚¬Å“All Individual TracksÃ¢â‚¬ï¿½ in the Export Audio/Video dialog, tracks using the External Instrument device would not be exported correctly.\nFixed a bug which caused modulations for arrangement clips to disappear when undoing and redoing after duplicating a track.\nImproved fonts for Retina displays (Mac OS X only).\nImproved graphics for the Track Status Display and the Plug-in browser icon on Retina displays (Mac OS X only).\nFixed a graphics problem which could occur on OS X 10.10 Yosemite when a Max for Live device was instantiated directly at application launch, e.g. by double-clicking an .als file or by having a template set containing a Max for Live device.\nFixed a graphics problem which could occur on OS X 10.10 Yosemite when opening the &quot;Export Audio/Video&quot; dialogue and having the &quot;Zoom Display&quot; preference set to a value higher than 100%.\nThe Simpler instrument could lose certain macro mappings after converting a Sampler to Simpler and then enabling Simpler's Pitch Envelope.\nFixed the spacing of the &quot;Hz&quot; icon on Simpler's LFO Rate switch on Retina displays\nUnder certain conditions, the Tension instrument could produce unwanted noise bursts after loading a preset and then playing the first note.\nLive could crash when undoing and redoing after importing a clip or a track containing automation from the browser. Live would also keep crashing when recovering the Live Set from the undo file.\nFixed a crash which could occur with the iZotope &quot;Trash 2&quot; VST plug-in on Windows.\nFixed a crash which might occur on Windows while Live scans or loads certain UAD plugins","torrent":{"xt":"urn:btih:cc91511227f32eead2b764f44eb05a736eb34afa","amp;dn":"Ableton+Live+Suite+v9.1.7+%2832-64bit%29+OS+X+%5Bdada%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cc91511227f32eead2b764f44eb05a736eb34afa","infoHashBuffer":{"type":"Buffer","data":[204,145,81,18,39,243,46,234,210,183,100,244,78,176,90,115,110,179,74,250]},"announce":[],"urlList":[]}}
+{
+  "title": "Ableton Live Suite v9.1.7 (32-64bit) OS X [dada]",
+  "uid": 11671422,
+  "size": 508068295,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:cc91511227f32eead2b764f44eb05a736eb34afa&amp;dn=Ableton+Live+Suite+v9.1.7+%2832-64bit%29+OS+X+%5Bdada%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 0,
+  "uploader": "future-dada",
+  "files": 2,
+  "time": 1422722221,
+  "description": "Ableton Live Suite v9.1.7 (32-64bit) OS X [dada] \n474.9 MB\n\nOPEN WITH KEKA!\n-------------------------------------------------------------------------------------  &lt;a href=&quot;\nhttps://www.ableton.com/en/live/new-in-9/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://www.ableton.com/en/live/new-in-9/&lt;/a&gt; \n------------------------------------------------------------------------------------- \nCreate, produce and perform. Create ideas, make changes without stopping, and capture everything as you work. If youÃ¢â‚¬â„¢ve used music software before, youÃ¢â‚¬â„¢re already familiar with one half of Ableton Live. LiveÃ¢â‚¬â„¢s Arrangement View is a familiar working space: time moves from left to right, while tracks are stacked vertically. But Live also features the revolutionary Session View: a unique sketchpad for improvising, playing and performing with musical ideas, without the constraints of the timeline. Freely and independently start and stop any number of audio or MIDI loops - everything stays in sync. Almost everything in Live works in real-time - add, reorder or remove devices, play with LiveÃ¢â‚¬â„¢s flexible track routing and more - all without interrupting your creative flow. \n------------------------------------------------------------------------------------- \n9.1.7 Release Notes \n\nImprovements and feature changes:\n\nAdded control surface support for M-Audio Oxygen 4th generation controllers.\n\nBugfixes:\n\nWhen choosing Ã¢â‚¬Å“All Individual TracksÃ¢â‚¬ï¿½ in the Export Audio/Video dialog, tracks using the External Instrument device would not be exported correctly.\nFixed a bug which caused modulations for arrangement clips to disappear when undoing and redoing after duplicating a track.\nImproved fonts for Retina displays (Mac OS X only).\nImproved graphics for the Track Status Display and the Plug-in browser icon on Retina displays (Mac OS X only).\nFixed a graphics problem which could occur on OS X 10.10 Yosemite when a Max for Live device was instantiated directly at application launch, e.g. by double-clicking an .als file or by having a template set containing a Max for Live device.\nFixed a graphics problem which could occur on OS X 10.10 Yosemite when opening the &quot;Export Audio/Video&quot; dialogue and having the &quot;Zoom Display&quot; preference set to a value higher than 100%.\nThe Simpler instrument could lose certain macro mappings after converting a Sampler to Simpler and then enabling Simpler's Pitch Envelope.\nFixed the spacing of the &quot;Hz&quot; icon on Simpler's LFO Rate switch on Retina displays\nUnder certain conditions, the Tension instrument could produce unwanted noise bursts after loading a preset and then playing the first note.\nLive could crash when undoing and redoing after importing a clip or a track containing automation from the browser. Live would also keep crashing when recovering the Live Set from the undo file.\nFixed a crash which could occur with the iZotope &quot;Trash 2&quot; VST plug-in on Windows.\nFixed a crash which might occur on Windows while Live scans or loads certain UAD plugins",
+  "parsed": {
+    "xt": "urn:btih:cc91511227f32eead2b764f44eb05a736eb34afa",
+    "dn": "Ableton Live Suite v9.1.7 (32-64bit) OS X [dada]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cc91511227f32eead2b764f44eb05a736eb34afa",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        204,
+        145,
+        81,
+        18,
+        39,
+        243,
+        46,
+        234,
+        210,
+        183,
+        100,
+        244,
+        78,
+        176,
+        90,
+        115,
+        110,
+        179,
+        74,
+        250
+      ]
+    },
+    "name": "Ableton Live Suite v9.1.7 (32-64bit) OS X [dada]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 7,
+  "last_updated": "2016-12-25T14:09:06.178Z"
+}

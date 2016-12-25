@@ -1,1 +1,61 @@
-{"title":"The.Walking.Dead.S01E02.Guts.HDTV.XviD-FQM.[VTV].avi","uid":5941452,"size":366205492,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:cca0c1bbb242a0d59e205e74fc1b40935ef2bc8e&amp;dn=The.Walking.Dead.S01E02.Guts.HDTV.XviD-FQM.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":9,"uploader":"VTV","files":1,"time":1289194979,"description":"The Walking Dead 1x02 (HDTV-FQM)[VTV]","torrent":{"xt":"urn:btih:cca0c1bbb242a0d59e205e74fc1b40935ef2bc8e","amp;dn":"The.Walking.Dead.S01E02.Guts.HDTV.XviD-FQM.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cca0c1bbb242a0d59e205e74fc1b40935ef2bc8e","infoHashBuffer":{"type":"Buffer","data":[204,160,193,187,178,66,160,213,158,32,94,116,252,27,64,147,94,242,188,142]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Walking.Dead.S01E02.Guts.HDTV.XviD-FQM.[VTV].avi",
+  "uid": 5941452,
+  "size": 366205492,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:cca0c1bbb242a0d59e205e74fc1b40935ef2bc8e&amp;dn=The.Walking.Dead.S01E02.Guts.HDTV.XviD-FQM.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 9,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1289194979,
+  "description": "The Walking Dead 1x02 (HDTV-FQM)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:cca0c1bbb242a0d59e205e74fc1b40935ef2bc8e",
+    "dn": "The.Walking.Dead.S01E02.Guts.HDTV.XviD-FQM.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cca0c1bbb242a0d59e205e74fc1b40935ef2bc8e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        204,
+        160,
+        193,
+        187,
+        178,
+        66,
+        160,
+        213,
+        158,
+        32,
+        94,
+        116,
+        252,
+        27,
+        64,
+        147,
+        94,
+        242,
+        188,
+        142
+      ]
+    },
+    "name": "The.Walking.Dead.S01E02.Guts.HDTV.XviD-FQM.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 45,
+  "last_updated": "2016-12-25T14:09:52.341Z"
+}

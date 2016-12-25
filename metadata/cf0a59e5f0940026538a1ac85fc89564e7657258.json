@@ -1,1 +1,61 @@
-{"title":"Jason Mraz - Yes! 2014 [MP3@320kbps] - the.HH","uid":10516458,"size":124538662,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:cf0a59e5f0940026538a1ac85fc89564e7657258&amp;dn=Jason+Mraz+-+Yes%21+2014+%5BMP3%40320kbps%5D+-+the.HH&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":1,"uploader":"the.HH","files":15,"time":1404916761,"description":"\n\n01. Rise\n02. Love Someone\n03. Hello, You Beautiful Thing\n04. Long Drive\n05. Everywhere\n06. Best Friend\n07. Quiet\n08. Out Of My Hands\n09. It's So Hard To Say Goodbye To Yesterday\n10. 3 Things\n11. You Can Rely On Me\n12. Back To The Earth\n13. A World With You\n14. Shine\n\nEnjoy!\n\n","torrent":{"xt":"urn:btih:cf0a59e5f0940026538a1ac85fc89564e7657258","amp;dn":"Jason+Mraz+-+Yes%21+2014+%5BMP3%40320kbps%5D+-+the.HH","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cf0a59e5f0940026538a1ac85fc89564e7657258","infoHashBuffer":{"type":"Buffer","data":[207,10,89,229,240,148,0,38,83,138,26,200,95,200,149,100,231,101,114,88]},"announce":[],"urlList":[]}}
+{
+  "title": "Jason Mraz - Yes! 2014 [MP3@320kbps] - the.HH",
+  "uid": 10516458,
+  "size": 124538662,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:cf0a59e5f0940026538a1ac85fc89564e7657258&amp;dn=Jason+Mraz+-+Yes%21+2014+%5BMP3%40320kbps%5D+-+the.HH&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 1,
+  "uploader": "the.HH",
+  "files": 15,
+  "time": 1404916761,
+  "description": "\n\n01. Rise\n02. Love Someone\n03. Hello, You Beautiful Thing\n04. Long Drive\n05. Everywhere\n06. Best Friend\n07. Quiet\n08. Out Of My Hands\n09. It's So Hard To Say Goodbye To Yesterday\n10. 3 Things\n11. You Can Rely On Me\n12. Back To The Earth\n13. A World With You\n14. Shine\n\nEnjoy!\n\n",
+  "parsed": {
+    "xt": "urn:btih:cf0a59e5f0940026538a1ac85fc89564e7657258",
+    "dn": "Jason Mraz - Yes! 2014 [MP3@320kbps] - the.HH",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cf0a59e5f0940026538a1ac85fc89564e7657258",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        207,
+        10,
+        89,
+        229,
+        240,
+        148,
+        0,
+        38,
+        83,
+        138,
+        26,
+        200,
+        95,
+        200,
+        149,
+        100,
+        231,
+        101,
+        114,
+        88
+      ]
+    },
+    "name": "Jason Mraz - Yes! 2014 [MP3@320kbps] - the.HH",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 15,
+  "last_updated": "2016-12-25T14:24:59.560Z"
+}

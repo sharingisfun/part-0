@@ -1,1 +1,61 @@
-{"title":"Usher Discography 320 kbps (2013)","uid":8891215,"size":1216907446,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:cd30f4e556c1aa1cfeb3e3454e8f22850da484ee&amp;dn=Usher+Discography+320+kbps+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":222,"leechers":456,"uploader":"mindcrasher","files":-1,"time":1378586974,"description":"&quot;Usher&quot;\n&quot;My Way&quot;\n&quot;8701&quot;\n&quot;LIVE&quot;\n&quot;Confession&quot;\n&quot;Here I Stand&quot;\n&quot;Rasymond V Raymond&quot;\n&quot;Versus&quot;&quot;\n&quot;Looking 4 Myself&quot;","torrent":{"xt":"urn:btih:cd30f4e556c1aa1cfeb3e3454e8f22850da484ee","amp;dn":"Usher+Discography+320+kbps+%282013%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cd30f4e556c1aa1cfeb3e3454e8f22850da484ee","infoHashBuffer":{"type":"Buffer","data":[205,48,244,229,86,193,170,28,254,179,227,69,78,143,34,133,13,164,132,238]},"announce":[],"urlList":[]}}
+{
+  "title": "Usher Discography 320 kbps (2013)",
+  "uid": 8891215,
+  "size": 1216907446,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:cd30f4e556c1aa1cfeb3e3454e8f22850da484ee&amp;dn=Usher+Discography+320+kbps+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 222,
+  "leechers": 456,
+  "uploader": "mindcrasher",
+  "files": -1,
+  "time": 1378586974,
+  "description": "&quot;Usher&quot;\n&quot;My Way&quot;\n&quot;8701&quot;\n&quot;LIVE&quot;\n&quot;Confession&quot;\n&quot;Here I Stand&quot;\n&quot;Rasymond V Raymond&quot;\n&quot;Versus&quot;&quot;\n&quot;Looking 4 Myself&quot;",
+  "parsed": {
+    "xt": "urn:btih:cd30f4e556c1aa1cfeb3e3454e8f22850da484ee",
+    "dn": "Usher Discography 320 kbps (2013)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cd30f4e556c1aa1cfeb3e3454e8f22850da484ee",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        205,
+        48,
+        244,
+        229,
+        86,
+        193,
+        170,
+        28,
+        254,
+        179,
+        227,
+        69,
+        78,
+        143,
+        34,
+        133,
+        13,
+        164,
+        132,
+        238
+      ]
+    },
+    "name": "Usher Discography 320 kbps (2013)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 678,
+  "peers": 0,
+  "last_updated": "2016-12-25T14:14:07.317Z"
+}

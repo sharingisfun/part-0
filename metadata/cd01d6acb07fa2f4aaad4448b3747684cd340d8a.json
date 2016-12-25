@@ -1,1 +1,61 @@
-{"title":"Diablo 2 + Diablo 2: Lord Of Destruction","uid":4443984,"size":2419549151,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:cd01d6acb07fa2f4aaad4448b3747684cd340d8a&amp;dn=Diablo+2+%2B+Diablo+2%3A+Lord+Of+Destruction&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":9,"uploader":"Dragons90","files":10,"time":1223948195,"description":" &lt;a href=&quot;http://www.blizzard.com/us/diablo2/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.blizzard.com/us/diablo2/&lt;/a&gt; &lt;a href=&quot;\nhttp://www.blizzard.com/us/diablo2exp/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.blizzard.com/us/diablo2exp/&lt;/a&gt;","torrent":{"xt":"urn:btih:cd01d6acb07fa2f4aaad4448b3747684cd340d8a","amp;dn":"Diablo+2+%2B+Diablo+2%3A+Lord+Of+Destruction","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cd01d6acb07fa2f4aaad4448b3747684cd340d8a","infoHashBuffer":{"type":"Buffer","data":[205,1,214,172,176,127,162,244,170,173,68,72,179,116,118,132,205,52,13,138]},"announce":[],"urlList":[]}}
+{
+  "title": "Diablo 2 + Diablo 2: Lord Of Destruction",
+  "uid": 4443984,
+  "size": 2419549151,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:cd01d6acb07fa2f4aaad4448b3747684cd340d8a&amp;dn=Diablo+2+%2B+Diablo+2%3A+Lord+Of+Destruction&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 9,
+  "uploader": "Dragons90",
+  "files": 10,
+  "time": 1223948195,
+  "description": " &lt;a href=&quot;http://www.blizzard.com/us/diablo2/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.blizzard.com/us/diablo2/&lt;/a&gt; &lt;a href=&quot;\nhttp://www.blizzard.com/us/diablo2exp/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.blizzard.com/us/diablo2exp/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:cd01d6acb07fa2f4aaad4448b3747684cd340d8a",
+    "dn": "Diablo 2   Diablo 2: Lord Of Destruction",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cd01d6acb07fa2f4aaad4448b3747684cd340d8a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        205,
+        1,
+        214,
+        172,
+        176,
+        127,
+        162,
+        244,
+        170,
+        173,
+        68,
+        72,
+        179,
+        116,
+        118,
+        132,
+        205,
+        52,
+        13,
+        138
+      ]
+    },
+    "name": "Diablo 2   Diablo 2: Lord Of Destruction",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 13,
+  "last_updated": "2016-12-25T14:12:45.006Z"
+}

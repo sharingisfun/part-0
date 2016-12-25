@@ -1,1 +1,61 @@
-{"title":"Sid.Meier_s.Pirates-PC_(with_new_patch).ShareReactor","uid":5168973,"size":952236677,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:cd0771407f4369158ec5bd8e0e1569a907f57b00&amp;dn=Sid.Meier_s.Pirates-PC_%28with_new_patch%29.ShareReactor&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":2,"uploader":"Groo_The_Wanderer","files":-1,"time":1258576621,"description":"Sid Meier is an authoritative designer of some of the leading Role-Play games. What does it take to become one of the most feared, successful, and revered pirates of history? Here's an all new version of the classic Pirate role-play scenario that'll shiver your timbers as you yell ahoy! Confront enemies on board ships, in seedy taverns, on the ramparts and even at the Governor's mansion. Wield weapons - or anything within your reach - as you fence against foes. Engage in fierce naval battles fighting single enemies or multiple ships.\n\n ESRB = E Everyone\n\nMount isos with Daemon Tools or burn them to disk and install.When prompted for a serial use the one in the nfo inside the torrent then run the Sid_Meiers_Pirates_Version_1.0.2.0_Update enjoy.","torrent":{"xt":"urn:btih:cd0771407f4369158ec5bd8e0e1569a907f57b00","amp;dn":"Sid.Meier_s.Pirates-PC_%28with_new_patch%29.ShareReactor","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cd0771407f4369158ec5bd8e0e1569a907f57b00","infoHashBuffer":{"type":"Buffer","data":[205,7,113,64,127,67,105,21,142,197,189,142,14,21,105,169,7,245,123,0]},"announce":[],"urlList":[]}}
+{
+  "title": "Sid.Meier_s.Pirates-PC_(with_new_patch).ShareReactor",
+  "uid": 5168973,
+  "size": 952236677,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:cd0771407f4369158ec5bd8e0e1569a907f57b00&amp;dn=Sid.Meier_s.Pirates-PC_%28with_new_patch%29.ShareReactor&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 2,
+  "uploader": "Groo_The_Wanderer",
+  "files": -1,
+  "time": 1258576621,
+  "description": "Sid Meier is an authoritative designer of some of the leading Role-Play games. What does it take to become one of the most feared, successful, and revered pirates of history? Here's an all new version of the classic Pirate role-play scenario that'll shiver your timbers as you yell ahoy! Confront enemies on board ships, in seedy taverns, on the ramparts and even at the Governor's mansion. Wield weapons - or anything within your reach - as you fence against foes. Engage in fierce naval battles fighting single enemies or multiple ships.\n\n ESRB = E Everyone\n\nMount isos with Daemon Tools or burn them to disk and install.When prompted for a serial use the one in the nfo inside the torrent then run the Sid_Meiers_Pirates_Version_1.0.2.0_Update enjoy.",
+  "parsed": {
+    "xt": "urn:btih:cd0771407f4369158ec5bd8e0e1569a907f57b00",
+    "dn": "Sid.Meier_s.Pirates-PC_(with_new_patch).ShareReactor",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cd0771407f4369158ec5bd8e0e1569a907f57b00",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        205,
+        7,
+        113,
+        64,
+        127,
+        67,
+        105,
+        21,
+        142,
+        197,
+        189,
+        142,
+        14,
+        21,
+        105,
+        169,
+        7,
+        245,
+        123,
+        0
+      ]
+    },
+    "name": "Sid.Meier_s.Pirates-PC_(with_new_patch).ShareReactor",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 81,
+  "peers": 83,
+  "last_updated": "2016-12-25T14:12:57.048Z"
+}

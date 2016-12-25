@@ -1,1 +1,61 @@
-{"title":"Styx.Master.of.Shadows-RELOADED","uid":11170924,"size":6129030447,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:ced086ddba0394db5e4261dd1f4545bab46fca3b&amp;dn=Styx.Master.of.Shadows-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":10,"uploader":"Drarbg","files":3,"time":1412704754,"description":" &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nStyx.Master.of.Shadows-RELOADED\n","torrent":{"xt":"urn:btih:ced086ddba0394db5e4261dd1f4545bab46fca3b","amp;dn":"Styx.Master.of.Shadows-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ced086ddba0394db5e4261dd1f4545bab46fca3b","infoHashBuffer":{"type":"Buffer","data":[206,208,134,221,186,3,148,219,94,66,97,221,31,69,69,186,180,111,202,59]},"announce":[],"urlList":[]}}
+{
+  "title": "Styx.Master.of.Shadows-RELOADED",
+  "uid": 11170924,
+  "size": 6129030447,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:ced086ddba0394db5e4261dd1f4545bab46fca3b&amp;dn=Styx.Master.of.Shadows-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 10,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1412704754,
+  "description": " &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nStyx.Master.of.Shadows-RELOADED\n",
+  "parsed": {
+    "xt": "urn:btih:ced086ddba0394db5e4261dd1f4545bab46fca3b",
+    "dn": "Styx.Master.of.Shadows-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ced086ddba0394db5e4261dd1f4545bab46fca3b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        206,
+        208,
+        134,
+        221,
+        186,
+        3,
+        148,
+        219,
+        94,
+        66,
+        97,
+        221,
+        31,
+        69,
+        69,
+        186,
+        180,
+        111,
+        202,
+        59
+      ]
+    },
+    "name": "Styx.Master.of.Shadows-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 137,
+  "last_updated": "2016-12-25T14:23:47.344Z"
+}

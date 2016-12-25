@@ -1,1 +1,61 @@
-{"title":"Rita PM FASTrack PMP Exam Simulation Software - Version 8","uid":9219684,"size":7660393,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:cc9aae6dcb7b7a103ececf6bba29fb00d0f70e7b&amp;dn=Rita+PM+FASTrack+PMP+Exam+Simulation+Software+-+Version+8&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":0,"uploader":"doduykhuong","files":1,"time":1384914671,"description":"PM FASTrack PMP Exam Simulation Software - Version 8","torrent":{"xt":"urn:btih:cc9aae6dcb7b7a103ececf6bba29fb00d0f70e7b","amp;dn":"Rita+PM+FASTrack+PMP+Exam+Simulation+Software+-+Version+8","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cc9aae6dcb7b7a103ececf6bba29fb00d0f70e7b","infoHashBuffer":{"type":"Buffer","data":[204,154,174,109,203,123,122,16,62,206,207,107,186,41,251,0,208,247,14,123]},"announce":[],"urlList":[]}}
+{
+  "title": "Rita PM FASTrack PMP Exam Simulation Software - Version 8",
+  "uid": 9219684,
+  "size": 7660393,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:cc9aae6dcb7b7a103ececf6bba29fb00d0f70e7b&amp;dn=Rita+PM+FASTrack+PMP+Exam+Simulation+Software+-+Version+8&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 0,
+  "uploader": "doduykhuong",
+  "files": 1,
+  "time": 1384914671,
+  "description": "PM FASTrack PMP Exam Simulation Software - Version 8",
+  "parsed": {
+    "xt": "urn:btih:cc9aae6dcb7b7a103ececf6bba29fb00d0f70e7b",
+    "dn": "Rita PM FASTrack PMP Exam Simulation Software - Version 8",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cc9aae6dcb7b7a103ececf6bba29fb00d0f70e7b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        204,
+        154,
+        174,
+        109,
+        203,
+        123,
+        122,
+        16,
+        62,
+        206,
+        207,
+        107,
+        186,
+        41,
+        251,
+        0,
+        208,
+        247,
+        14,
+        123
+      ]
+    },
+    "name": "Rita PM FASTrack PMP Exam Simulation Software - Version 8",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 99,
+  "last_updated": "2016-12-25T14:09:30.258Z"
+}

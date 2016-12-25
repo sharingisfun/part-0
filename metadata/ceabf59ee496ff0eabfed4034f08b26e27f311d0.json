@@ -1,1 +1,61 @@
-{"title":"The Office Season 6 Complete","uid":5577769,"size":4769387325,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ceabf59ee496ff0eabfed4034f08b26e27f311d0&amp;dn=The+Office+Season+6+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":77,"leechers":18,"uploader":"madlibman","files":25,"time":1274436252,"description":"Complete season 6 of the US version of the Office. Now that the season is over I figure it's time to start seeding it in a bundle! \n\nThere's been a lot of confusion on the numbering of the episodes and what number the season is actually on. I went through and visually confirmed that each episode had the correct episode number as per the official episode list on the office website. \n\nEvery episode number/designation is correct, whereas many of the recent torrents have been 1 number off. This season features 2 hour long episodes that actually are listed as 4&amp;5 and 17&amp;18 which messed up some of the other torrents. \n\nNow we have a consistent and correct set of episodes that covers the whole of the recently ended 6th season!","torrent":{"xt":"urn:btih:ceabf59ee496ff0eabfed4034f08b26e27f311d0","amp;dn":"The+Office+Season+6+Complete","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ceabf59ee496ff0eabfed4034f08b26e27f311d0","infoHashBuffer":{"type":"Buffer","data":[206,171,245,158,228,150,255,14,171,254,212,3,79,8,178,110,39,243,17,208]},"announce":[],"urlList":[]}}
+{
+  "title": "The Office Season 6 Complete",
+  "uid": 5577769,
+  "size": 4769387325,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ceabf59ee496ff0eabfed4034f08b26e27f311d0&amp;dn=The+Office+Season+6+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 77,
+  "leechers": 18,
+  "uploader": "madlibman",
+  "files": 25,
+  "time": 1274436252,
+  "description": "Complete season 6 of the US version of the Office. Now that the season is over I figure it's time to start seeding it in a bundle! \n\nThere's been a lot of confusion on the numbering of the episodes and what number the season is actually on. I went through and visually confirmed that each episode had the correct episode number as per the official episode list on the office website. \n\nEvery episode number/designation is correct, whereas many of the recent torrents have been 1 number off. This season features 2 hour long episodes that actually are listed as 4&amp;5 and 17&amp;18 which messed up some of the other torrents. \n\nNow we have a consistent and correct set of episodes that covers the whole of the recently ended 6th season!",
+  "parsed": {
+    "xt": "urn:btih:ceabf59ee496ff0eabfed4034f08b26e27f311d0",
+    "dn": "The Office Season 6 Complete",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ceabf59ee496ff0eabfed4034f08b26e27f311d0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        206,
+        171,
+        245,
+        158,
+        228,
+        150,
+        255,
+        14,
+        171,
+        254,
+        212,
+        3,
+        79,
+        8,
+        178,
+        110,
+        39,
+        243,
+        17,
+        208
+      ]
+    },
+    "name": "The Office Season 6 Complete",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 95,
+  "peers": 50,
+  "last_updated": "2016-12-25T14:22:53.184Z"
+}

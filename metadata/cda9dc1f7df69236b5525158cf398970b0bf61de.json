@@ -1,1 +1,61 @@
-{"title":"Lilly wood &amp; the prick . Invincible friends (2010)","uid":6169756,"size":96860384,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:cda9dc1f7df69236b5525158cf398970b0bf61de&amp;dn=Lilly+wood+%26+the+prick+.+Invincible+friends+%282010%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":1,"uploader":"ph123ph456","files":15,"time":1297523165,"description":"L'album de Lilly Wood and the Prick.\n","torrent":{"xt":"urn:btih:cda9dc1f7df69236b5525158cf398970b0bf61de","amp;dn":"Lilly+wood+%26+the+prick+.+Invincible+friends+%282010%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cda9dc1f7df69236b5525158cf398970b0bf61de","infoHashBuffer":{"type":"Buffer","data":[205,169,220,31,125,246,146,54,181,82,81,88,207,57,137,112,176,191,97,222]},"announce":[],"urlList":[]}}
+{
+  "title": "Lilly wood &amp; the prick . Invincible friends (2010)",
+  "uid": 6169756,
+  "size": 96860384,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:cda9dc1f7df69236b5525158cf398970b0bf61de&amp;dn=Lilly+wood+%26+the+prick+.+Invincible+friends+%282010%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 1,
+  "uploader": "ph123ph456",
+  "files": 15,
+  "time": 1297523165,
+  "description": "L'album de Lilly Wood and the Prick.\n",
+  "parsed": {
+    "xt": "urn:btih:cda9dc1f7df69236b5525158cf398970b0bf61de",
+    "dn": "Lilly wood & the prick . Invincible friends (2010)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cda9dc1f7df69236b5525158cf398970b0bf61de",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        205,
+        169,
+        220,
+        31,
+        125,
+        246,
+        146,
+        54,
+        181,
+        82,
+        81,
+        88,
+        207,
+        57,
+        137,
+        112,
+        176,
+        191,
+        97,
+        222
+      ]
+    },
+    "name": "Lilly wood & the prick . Invincible friends (2010)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 14,
+  "last_updated": "2016-12-25T14:16:51.993Z"
+}

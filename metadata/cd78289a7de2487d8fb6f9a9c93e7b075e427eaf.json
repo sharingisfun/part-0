@@ -1,1 +1,61 @@
-{"title":"Unfriended 2015 FRENCH HDTV XviD-SVR","uid":12278101,"size":716812070,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:cd78289a7de2487d8fb6f9a9c93e7b075e427eaf&amp;dn=Unfriended+2015+FRENCH+HDTV+XviD-SVR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":2644,"leechers":71,"uploader":"Ctrlme","files":1,"time":1440380535,"description":"Movie: Unfriended\nDetected quality: HDRiP\nIMDb link: 3713166\nIMDb rating: 5.9 (18,258 votes)\nRottenTomatoes: 61% 42%\nWatch on Solarmovie: Unfriended\nGenres: Thriller, Horror\n \nRelease date: 17 April 2015\nWriters: Nelson Greaves\nDirector: Levan Gabriadze\nLanguage: French\nCast: Courtney Halverson, Shelley Hennig, Matthew Bohrer, Cal Barnes and others Summary:\nA group of online chat room friends find themselves haunted by a mysterious, supernatural force using the account of their dead friend","torrent":{"xt":"urn:btih:cd78289a7de2487d8fb6f9a9c93e7b075e427eaf","amp;dn":"Unfriended+2015+FRENCH+HDTV+XviD-SVR","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cd78289a7de2487d8fb6f9a9c93e7b075e427eaf","infoHashBuffer":{"type":"Buffer","data":[205,120,40,154,125,226,72,125,143,182,249,169,201,62,123,7,94,66,126,175]},"announce":[],"urlList":[]}}
+{
+  "title": "Unfriended 2015 FRENCH HDTV XviD-SVR",
+  "uid": 12278101,
+  "size": 716812070,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:cd78289a7de2487d8fb6f9a9c93e7b075e427eaf&amp;dn=Unfriended+2015+FRENCH+HDTV+XviD-SVR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 2644,
+  "leechers": 71,
+  "uploader": "Ctrlme",
+  "files": 1,
+  "time": 1440380535,
+  "description": "Movie: Unfriended\nDetected quality: HDRiP\nIMDb link: 3713166\nIMDb rating: 5.9 (18,258 votes)\nRottenTomatoes: 61% 42%\nWatch on Solarmovie: Unfriended\nGenres: Thriller, Horror\n \nRelease date: 17 April 2015\nWriters: Nelson Greaves\nDirector: Levan Gabriadze\nLanguage: French\nCast: Courtney Halverson, Shelley Hennig, Matthew Bohrer, Cal Barnes and others Summary:\nA group of online chat room friends find themselves haunted by a mysterious, supernatural force using the account of their dead friend",
+  "parsed": {
+    "xt": "urn:btih:cd78289a7de2487d8fb6f9a9c93e7b075e427eaf",
+    "dn": "Unfriended 2015 FRENCH HDTV XviD-SVR",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cd78289a7de2487d8fb6f9a9c93e7b075e427eaf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        205,
+        120,
+        40,
+        154,
+        125,
+        226,
+        72,
+        125,
+        143,
+        182,
+        249,
+        169,
+        201,
+        62,
+        123,
+        7,
+        94,
+        66,
+        126,
+        175
+      ]
+    },
+    "name": "Unfriended 2015 FRENCH HDTV XviD-SVR",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 2715,
+  "peers": 156,
+  "last_updated": "2016-12-25T14:15:57.711Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Jessie J - Price Tag (feat. B.o.B) [2011-Single][MJN]","uid":6139198,"size":8944623,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:cd387437ef4e7499b1498967f72e382d268b6faa&amp;dn=Jessie+J+-+Price+Tag+%28feat.+B.o.B%29+%5B2011-Single%5D%5BMJN%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":1,"uploader":"jainmehul","files":-1,"time":1296427640,"description":"\n320 Kbps Constant.\n\niTunes-Rip \n\nENJOY.","torrent":{"xt":"urn:btih:cd387437ef4e7499b1498967f72e382d268b6faa","amp;dn":"Jessie+J+-+Price+Tag+%28feat.+B.o.B%29+%5B2011-Single%5D%5BMJN%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cd387437ef4e7499b1498967f72e382d268b6faa","infoHashBuffer":{"type":"Buffer","data":[205,56,116,55,239,78,116,153,177,73,137,103,247,46,56,45,38,139,111,170]},"announce":[],"urlList":[]}}
+{
+  "title": "Jessie J - Price Tag (feat. B.o.B) [2011-Single][MJN]",
+  "uid": 6139198,
+  "size": 8944623,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:cd387437ef4e7499b1498967f72e382d268b6faa&amp;dn=Jessie+J+-+Price+Tag+%28feat.+B.o.B%29+%5B2011-Single%5D%5BMJN%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 1,
+  "uploader": "jainmehul",
+  "files": -1,
+  "time": 1296427640,
+  "description": "\n320 Kbps Constant.\n\niTunes-Rip \n\nENJOY.",
+  "parsed": {
+    "xt": "urn:btih:cd387437ef4e7499b1498967f72e382d268b6faa",
+    "dn": "Jessie J - Price Tag (feat. B.o.B) [2011-Single][MJN]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cd387437ef4e7499b1498967f72e382d268b6faa",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        205,
+        56,
+        116,
+        55,
+        239,
+        78,
+        116,
+        153,
+        177,
+        73,
+        137,
+        103,
+        247,
+        46,
+        56,
+        45,
+        38,
+        139,
+        111,
+        170
+      ]
+    },
+    "name": "Jessie J - Price Tag (feat. B.o.B) [2011-Single][MJN]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 72,
+  "last_updated": "2016-12-25T14:14:23.365Z"
+}

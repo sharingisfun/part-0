@@ -1,1 +1,61 @@
-{"title":"AWOLNATION &amp;ndash; Run (2015)","uid":11745175,"size":131378035,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:cc9e36e35f8ad6b4dfcd9fa150a7e5b4100232e5&amp;dn=AWOLNATION+%26ndash%3B+Run+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":181,"leechers":7,"uploader":"santicaz","files":14,"time":1425992653,"description":"Artist: AWOLNATION\nTitle: Run\nYear: 2015\nGenre: Indie Rock / Electronic\nOrigin: USA\nSize/Quality: 125 mb | Mp3, CBR 320 kbps\n\nTracklist:\n01. Run\n02. Fat Face\n03. Hollow Moon (Bad Wolf)\n04. Jailbreak\n05. KOOKSEVERYWHERE!!!!\n06. I Am\n07. Headrest For My Soul\n08. Dreamers\n09. Windows\n10. Holy Roller\n11. Woman Woman\n12. Lie Love Live Love\n13. Like People, Like Plastic\n14. Drinking Lightning","torrent":{"xt":"urn:btih:cc9e36e35f8ad6b4dfcd9fa150a7e5b4100232e5","amp;dn":"AWOLNATION+%26ndash%3B+Run+%282015%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cc9e36e35f8ad6b4dfcd9fa150a7e5b4100232e5","infoHashBuffer":{"type":"Buffer","data":[204,158,54,227,95,138,214,180,223,205,159,161,80,167,229,180,16,2,50,229]},"announce":[],"urlList":[]}}
+{
+  "title": "AWOLNATION &amp;ndash; Run (2015)",
+  "uid": 11745175,
+  "size": 131378035,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:cc9e36e35f8ad6b4dfcd9fa150a7e5b4100232e5&amp;dn=AWOLNATION+%26ndash%3B+Run+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 181,
+  "leechers": 7,
+  "uploader": "santicaz",
+  "files": 14,
+  "time": 1425992653,
+  "description": "Artist: AWOLNATION\nTitle: Run\nYear: 2015\nGenre: Indie Rock / Electronic\nOrigin: USA\nSize/Quality: 125 mb | Mp3, CBR 320 kbps\n\nTracklist:\n01. Run\n02. Fat Face\n03. Hollow Moon (Bad Wolf)\n04. Jailbreak\n05. KOOKSEVERYWHERE!!!!\n06. I Am\n07. Headrest For My Soul\n08. Dreamers\n09. Windows\n10. Holy Roller\n11. Woman Woman\n12. Lie Love Live Love\n13. Like People, Like Plastic\n14. Drinking Lightning",
+  "parsed": {
+    "xt": "urn:btih:cc9e36e35f8ad6b4dfcd9fa150a7e5b4100232e5",
+    "dn": "AWOLNATION &ndash; Run (2015)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cc9e36e35f8ad6b4dfcd9fa150a7e5b4100232e5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        204,
+        158,
+        54,
+        227,
+        95,
+        138,
+        214,
+        180,
+        223,
+        205,
+        159,
+        161,
+        80,
+        167,
+        229,
+        180,
+        16,
+        2,
+        50,
+        229
+      ]
+    },
+    "name": "AWOLNATION &ndash; Run (2015)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 188,
+  "peers": 47,
+  "last_updated": "2016-12-25T14:09:40.296Z"
+}

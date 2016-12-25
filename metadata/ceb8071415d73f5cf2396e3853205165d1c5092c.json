@@ -1,1 +1,61 @@
-{"title":"Denzel Curry - Nostalgic 64 [MP3 - 320kbps]","uid":8874090,"size":114072172,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ceb8071415d73f5cf2396e3853205165d1c5092c&amp;dn=Denzel+Curry+-+Nostalgic+64+%5BMP3+-+320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":1,"uploader":"Raquan","files":13,"time":1378145955,"description":"Nostalgic 64 is an upcoming studio album from Raider Klan member Denzel Curry. If you like the album, buy it. Download, comment, seed, and enjoy! I had to encode this album manually &amp; add the properties to it myself.","torrent":{"xt":"urn:btih:ceb8071415d73f5cf2396e3853205165d1c5092c","amp;dn":"Denzel+Curry+-+Nostalgic+64+%5BMP3+-+320kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ceb8071415d73f5cf2396e3853205165d1c5092c","infoHashBuffer":{"type":"Buffer","data":[206,184,7,20,21,215,63,92,242,57,110,56,83,32,81,101,209,197,9,44]},"announce":[],"urlList":[]}}
+{
+  "title": "Denzel Curry - Nostalgic 64 [MP3 - 320kbps]",
+  "uid": 8874090,
+  "size": 114072172,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ceb8071415d73f5cf2396e3853205165d1c5092c&amp;dn=Denzel+Curry+-+Nostalgic+64+%5BMP3+-+320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 1,
+  "uploader": "Raquan",
+  "files": 13,
+  "time": 1378145955,
+  "description": "Nostalgic 64 is an upcoming studio album from Raider Klan member Denzel Curry. If you like the album, buy it. Download, comment, seed, and enjoy! I had to encode this album manually &amp; add the properties to it myself.",
+  "parsed": {
+    "xt": "urn:btih:ceb8071415d73f5cf2396e3853205165d1c5092c",
+    "dn": "Denzel Curry - Nostalgic 64 [MP3 - 320kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ceb8071415d73f5cf2396e3853205165d1c5092c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        206,
+        184,
+        7,
+        20,
+        21,
+        215,
+        63,
+        92,
+        242,
+        57,
+        110,
+        56,
+        83,
+        32,
+        81,
+        101,
+        209,
+        197,
+        9,
+        44
+      ]
+    },
+    "name": "Denzel Curry - Nostalgic 64 [MP3 - 320kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 31,
+  "last_updated": "2016-12-25T14:23:15.248Z"
+}
