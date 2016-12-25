@@ -1,1 +1,61 @@
-{"title":"Broadchurch 1x04 HDTV x264-FoV [eztv]","uid":8300705,"size":319722404,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:4985dd1f82dad728ec8e1b6c7ba08ed3d9813381&amp;dn=Broadchurch+1x04+HDTV+x264-FoV+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":3,"uploader":"eztv","files":1,"time":1364262454,"description":"#EZTV @ EFNet -&gt; To avoid fakes, ALWAYS check that the torrent was added by eztv. &lt;a href=&quot;\nhttp://eztv.it/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://eztv.it/&lt;/a&gt;\n\nEpisode: Broadchurch 1x04 HDTV x264-FoV\nScreenshots:\n\n\n\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW","torrent":{"xt":"urn:btih:4985dd1f82dad728ec8e1b6c7ba08ed3d9813381","amp;dn":"Broadchurch+1x04+HDTV+x264-FoV+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4985dd1f82dad728ec8e1b6c7ba08ed3d9813381","infoHashBuffer":{"type":"Buffer","data":[73,133,221,31,130,218,215,40,236,142,27,108,123,160,142,211,217,129,51,129]},"announce":[],"urlList":[]}}
+{
+  "title": "Broadchurch 1x04 HDTV x264-FoV [eztv]",
+  "uid": 8300705,
+  "size": 319722404,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:4985dd1f82dad728ec8e1b6c7ba08ed3d9813381&amp;dn=Broadchurch+1x04+HDTV+x264-FoV+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 3,
+  "uploader": "eztv",
+  "files": 1,
+  "time": 1364262454,
+  "description": "#EZTV @ EFNet -&gt; To avoid fakes, ALWAYS check that the torrent was added by eztv. &lt;a href=&quot;\nhttp://eztv.it/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://eztv.it/&lt;/a&gt;\n\nEpisode: Broadchurch 1x04 HDTV x264-FoV\nScreenshots:\n\n\n\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW",
+  "parsed": {
+    "xt": "urn:btih:4985dd1f82dad728ec8e1b6c7ba08ed3d9813381",
+    "dn": "Broadchurch 1x04 HDTV x264-FoV [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4985dd1f82dad728ec8e1b6c7ba08ed3d9813381",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        73,
+        133,
+        221,
+        31,
+        130,
+        218,
+        215,
+        40,
+        236,
+        142,
+        27,
+        108,
+        123,
+        160,
+        142,
+        211,
+        217,
+        129,
+        51,
+        129
+      ]
+    },
+    "name": "Broadchurch 1x04 HDTV x264-FoV [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 17,
+  "last_updated": "2016-12-25T00:10:38.571Z"
+}

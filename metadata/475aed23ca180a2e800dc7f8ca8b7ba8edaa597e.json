@@ -1,1 +1,61 @@
-{"title":"Lynda.com - Python 3 Essential Training","uid":7838122,"size":471458958,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:475aed23ca180a2e800dc7f8ca8b7ba8edaa597e&amp;dn=Lynda.com+-+Python+3+Essential+Training&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":2,"uploader":"NepsterJay","files":175,"time":1353256306,"description":"Due to its power, simplicity, and complete object model, Python has become the scripting language of choice for many large organizations, including Google, Yahoo, and IBM. In Python 3 Essential Training, Bill Weinman demonstrates how to use Python 3 to create well-designed scripts and maintain existing projects. This course covers the basics of the language syntax and usage, as well as advanced features such as objects, generators, and exceptions. Example projects include a normalized database interface and a complete working CRUD application. Exercise files accompany the course.\n\nTopics include:\n* A Python 3 quick start for experienced developers\n* Creating functions and objects\n* Using PythonÃ¢â‚¬â„¢s built-in objects and classes\n* Repeating code with loops and iterators\n* Understanding and using conditional expressions\n* Creating sequences with generators\n* Reusing code with objects and libraries\n* Handling errors with exceptions","torrent":{"xt":"urn:btih:475aed23ca180a2e800dc7f8ca8b7ba8edaa597e","amp;dn":"Lynda.com+-+Python+3+Essential+Training","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"475aed23ca180a2e800dc7f8ca8b7ba8edaa597e","infoHashBuffer":{"type":"Buffer","data":[71,90,237,35,202,24,10,46,128,13,199,248,202,139,123,168,237,170,89,126]},"announce":[],"urlList":[]}}
+{
+  "title": "Lynda.com - Python 3 Essential Training",
+  "uid": 7838122,
+  "size": 471458958,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:475aed23ca180a2e800dc7f8ca8b7ba8edaa597e&amp;dn=Lynda.com+-+Python+3+Essential+Training&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 2,
+  "uploader": "NepsterJay",
+  "files": 175,
+  "time": 1353256306,
+  "description": "Due to its power, simplicity, and complete object model, Python has become the scripting language of choice for many large organizations, including Google, Yahoo, and IBM. In Python 3 Essential Training, Bill Weinman demonstrates how to use Python 3 to create well-designed scripts and maintain existing projects. This course covers the basics of the language syntax and usage, as well as advanced features such as objects, generators, and exceptions. Example projects include a normalized database interface and a complete working CRUD application. Exercise files accompany the course.\n\nTopics include:\n* A Python 3 quick start for experienced developers\n* Creating functions and objects\n* Using PythonÃ¢â‚¬â„¢s built-in objects and classes\n* Repeating code with loops and iterators\n* Understanding and using conditional expressions\n* Creating sequences with generators\n* Reusing code with objects and libraries\n* Handling errors with exceptions",
+  "parsed": {
+    "xt": "urn:btih:475aed23ca180a2e800dc7f8ca8b7ba8edaa597e",
+    "dn": "Lynda.com - Python 3 Essential Training",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "475aed23ca180a2e800dc7f8ca8b7ba8edaa597e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        71,
+        90,
+        237,
+        35,
+        202,
+        24,
+        10,
+        46,
+        128,
+        13,
+        199,
+        248,
+        202,
+        139,
+        123,
+        168,
+        237,
+        170,
+        89,
+        126
+      ]
+    },
+    "name": "Lynda.com - Python 3 Essential Training",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 50,
+  "last_updated": "2016-12-24T23:56:12.831Z"
+}

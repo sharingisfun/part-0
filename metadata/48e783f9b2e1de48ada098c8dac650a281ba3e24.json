@@ -1,1 +1,61 @@
-{"title":"The Byrds-The Very Best of The Byrds-remastered-[320Kbps]","uid":8510693,"size":184333860,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:48e783f9b2e1de48ada098c8dac650a281ba3e24&amp;dn=The+Byrds-The+Very+Best+of+The+Byrds-remastered-%5B320Kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":5,"uploader":"Drebben","files":30,"time":1369574842,"description":"The Byrds\nThe Very Best of The Byrds\n\n27 Tracks\n\nCD\n1997\n\nMp3      \n320Kbps\n\nClick  FILES  to see tracklist\n\nDiscover, rediscover, enjoy and seed !!!\n\n","torrent":{"xt":"urn:btih:48e783f9b2e1de48ada098c8dac650a281ba3e24","amp;dn":"The+Byrds-The+Very+Best+of+The+Byrds-remastered-%5B320Kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"48e783f9b2e1de48ada098c8dac650a281ba3e24","infoHashBuffer":{"type":"Buffer","data":[72,231,131,249,178,225,222,72,173,160,152,200,218,198,80,162,129,186,62,36]},"announce":[],"urlList":[]}}
+{
+  "title": "The Byrds-The Very Best of The Byrds-remastered-[320Kbps]",
+  "uid": 8510693,
+  "size": 184333860,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:48e783f9b2e1de48ada098c8dac650a281ba3e24&amp;dn=The+Byrds-The+Very+Best+of+The+Byrds-remastered-%5B320Kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 5,
+  "uploader": "Drebben",
+  "files": 30,
+  "time": 1369574842,
+  "description": "The Byrds\nThe Very Best of The Byrds\n\n27 Tracks\n\nCD\n1997\n\nMp3      \n320Kbps\n\nClick  FILES  to see tracklist\n\nDiscover, rediscover, enjoy and seed !!!\n\n",
+  "parsed": {
+    "xt": "urn:btih:48e783f9b2e1de48ada098c8dac650a281ba3e24",
+    "dn": "The Byrds-The Very Best of The Byrds-remastered-[320Kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "48e783f9b2e1de48ada098c8dac650a281ba3e24",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        72,
+        231,
+        131,
+        249,
+        178,
+        225,
+        222,
+        72,
+        173,
+        160,
+        152,
+        200,
+        218,
+        198,
+        80,
+        162,
+        129,
+        186,
+        62,
+        36
+      ]
+    },
+    "name": "The Byrds-The Very Best of The Byrds-remastered-[320Kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 25,
+  "last_updated": "2016-12-25T00:06:33.160Z"
+}

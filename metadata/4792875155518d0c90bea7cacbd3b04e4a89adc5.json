@@ -1,1 +1,63 @@
-{"title":"MediaMonkey Gold v4.1.9.1764 + Keymaker-CORE","uid":16035966,"size":15541460,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:4792875155518d0c90bea7cacbd3b04e4a89adc5&amp;dn=MediaMonkey+Gold+v4.1.9.1764+%2B+Keymaker-CORE&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":492,"leechers":69,"uploader":"xtegedorau","files":1,"time":1476483590,"description":"\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program","torrent":{"xt":"urn:btih:4792875155518d0c90bea7cacbd3b04e4a89adc5","amp;dn":"MediaMonkey+Gold+v4.1.9.1764+%2B+Keymaker-CORE","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4792875155518d0c90bea7cacbd3b04e4a89adc5","infoHashBuffer":{"type":"Buffer","data":[71,146,135,81,85,81,141,12,144,190,167,202,203,211,176,78,74,137,173,197]},"announce":[],"urlList":[]}}
+{
+  "title": "MediaMonkey Gold v4.1.9.1764 + Keymaker-CORE",
+  "uid": 16035966,
+  "size": 15541460,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:4792875155518d0c90bea7cacbd3b04e4a89adc5&amp;dn=MediaMonkey+Gold+v4.1.9.1764+%2B+Keymaker-CORE&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 492,
+  "leechers": 69,
+  "uploader": "xtegedorau",
+  "files": 1,
+  "time": 1476483590,
+  "description": "\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program",
+  "parsed": {
+    "xt": "urn:btih:4792875155518d0c90bea7cacbd3b04e4a89adc5",
+    "dn": "MediaMonkey Gold v4.1.9.1764   Keymaker-CORE",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "4792875155518d0c90bea7cacbd3b04e4a89adc5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        71,
+        146,
+        135,
+        81,
+        85,
+        81,
+        141,
+        12,
+        144,
+        190,
+        167,
+        202,
+        203,
+        211,
+        176,
+        78,
+        74,
+        137,
+        173,
+        197
+      ]
+    },
+    "name": "MediaMonkey Gold v4.1.9.1764   Keymaker-CORE",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 561,
+  "peers": 2,
+  "last_updated": "2016-12-24T23:57:43.193Z"
+}

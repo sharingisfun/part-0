@@ -1,1 +1,61 @@
-{"title":"Chris Brown - Zero 2015 {MP3 Single}~{VBUc}","uid":12435817,"size":8871852,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4892bdec659067b2ce113691bfc33a243b7c4cfe&amp;dn=Chris+Brown+-+Zero+2015+%7BMP3+Single%7D%7E%7BVBUc%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":3,"uploader":"VBUc","files":1,"time":1442509687,"description":"\nArtist: Chris Brown\nTitle: Zero\nAlbum: Zero - Single\nGenre: R&amp;B/Soul, Music\nReleased: 18 September 2015\nAudio Format: MP3\nAudio Bitrate: 320kbps\n\nTrack Info:\n***********\nAudio\nFormat : MPEG-1 Layer III\nMode : Joint stereo\nTime: 3mn 33s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nFrequency : 44.1 KHz\nCompression mode : Lossy\nÃ¢â€žâ€” 2015 RCA Records, a division of Sony Music Entertainment\n\nSeed and Enjoy","torrent":{"xt":"urn:btih:4892bdec659067b2ce113691bfc33a243b7c4cfe","amp;dn":"Chris+Brown+-+Zero+2015+%7BMP3+Single%7D%7E%7BVBUc%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4892bdec659067b2ce113691bfc33a243b7c4cfe","infoHashBuffer":{"type":"Buffer","data":[72,146,189,236,101,144,103,178,206,17,54,145,191,195,58,36,59,124,76,254]},"announce":[],"urlList":[]}}
+{
+  "title": "Chris Brown - Zero 2015 {MP3 Single}~{VBUc}",
+  "uid": 12435817,
+  "size": 8871852,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4892bdec659067b2ce113691bfc33a243b7c4cfe&amp;dn=Chris+Brown+-+Zero+2015+%7BMP3+Single%7D%7E%7BVBUc%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 3,
+  "uploader": "VBUc",
+  "files": 1,
+  "time": 1442509687,
+  "description": "\nArtist: Chris Brown\nTitle: Zero\nAlbum: Zero - Single\nGenre: R&amp;B/Soul, Music\nReleased: 18 September 2015\nAudio Format: MP3\nAudio Bitrate: 320kbps\n\nTrack Info:\n***********\nAudio\nFormat : MPEG-1 Layer III\nMode : Joint stereo\nTime: 3mn 33s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nFrequency : 44.1 KHz\nCompression mode : Lossy\nÃ¢â€žâ€” 2015 RCA Records, a division of Sony Music Entertainment\n\nSeed and Enjoy",
+  "parsed": {
+    "xt": "urn:btih:4892bdec659067b2ce113691bfc33a243b7c4cfe",
+    "dn": "Chris Brown - Zero 2015 {MP3 Single}~{VBUc}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4892bdec659067b2ce113691bfc33a243b7c4cfe",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        72,
+        146,
+        189,
+        236,
+        101,
+        144,
+        103,
+        178,
+        206,
+        17,
+        54,
+        145,
+        191,
+        195,
+        58,
+        36,
+        59,
+        124,
+        76,
+        254
+      ]
+    },
+    "name": "Chris Brown - Zero 2015 {MP3 Single}~{VBUc}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 37,
+  "last_updated": "2016-12-25T00:03:52.477Z"
+}

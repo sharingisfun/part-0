@@ -1,1 +1,63 @@
-{"title":"The Chainsmokers Ft. Daya -Don't Let Me Down.mp3","uid":14105408,"size":3339722,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:47f8b51b33a96886bebeced2625b83f1970e89cf&amp;dn=The+Chainsmokers+Ft.+Daya+-Don%27t+Let+Me+Down.mp3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":508,"leechers":5,"uploader":"mark4705","files":1,"time":1459349965,"description":"The Chainsmokers Ft. Daya -Don't Let Me Down","torrent":{"xt":"urn:btih:47f8b51b33a96886bebeced2625b83f1970e89cf","amp;dn":"The+Chainsmokers+Ft.+Daya+-Don%27t+Let+Me+Down.mp3","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"47f8b51b33a96886bebeced2625b83f1970e89cf","infoHashBuffer":{"type":"Buffer","data":[71,248,181,27,51,169,104,134,190,190,206,210,98,91,131,241,151,14,137,207]},"announce":[],"urlList":[]}}
+{
+  "title": "The Chainsmokers Ft. Daya -Don't Let Me Down.mp3",
+  "uid": 14105408,
+  "size": 3339722,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:47f8b51b33a96886bebeced2625b83f1970e89cf&amp;dn=The+Chainsmokers+Ft.+Daya+-Don%27t+Let+Me+Down.mp3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 508,
+  "leechers": 5,
+  "uploader": "mark4705",
+  "files": 1,
+  "time": 1459349965,
+  "description": "The Chainsmokers Ft. Daya -Don't Let Me Down",
+  "parsed": {
+    "xt": "urn:btih:47f8b51b33a96886bebeced2625b83f1970e89cf",
+    "dn": "The Chainsmokers Ft. Daya -Don't Let Me Down.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "47f8b51b33a96886bebeced2625b83f1970e89cf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        71,
+        248,
+        181,
+        27,
+        51,
+        169,
+        104,
+        134,
+        190,
+        190,
+        206,
+        210,
+        98,
+        91,
+        131,
+        241,
+        151,
+        14,
+        137,
+        207
+      ]
+    },
+    "name": "The Chainsmokers Ft. Daya -Don't Let Me Down.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 513,
+  "peers": 327,
+  "last_updated": "2016-12-25T00:00:09.676Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Scorpion S01E22 HDTV XviD-FUM[ettv]","uid":11829779,"size":363315018,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:488e2e57aef6945d526b2ea9a0828adaac1a94b8&amp;dn=Scorpion+S01E22+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":3,"uploader":"ettv","files":2,"time":1429591739,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:488e2e57aef6945d526b2ea9a0828adaac1a94b8","amp;dn":"Scorpion+S01E22+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"488e2e57aef6945d526b2ea9a0828adaac1a94b8","infoHashBuffer":{"type":"Buffer","data":[72,142,46,87,174,246,148,93,82,107,46,169,160,130,138,218,172,26,148,184]},"announce":[],"urlList":[]}}
+{
+  "title": "Scorpion S01E22 HDTV XviD-FUM[ettv]",
+  "uid": 11829779,
+  "size": 363315018,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:488e2e57aef6945d526b2ea9a0828adaac1a94b8&amp;dn=Scorpion+S01E22+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1429591739,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:488e2e57aef6945d526b2ea9a0828adaac1a94b8",
+    "dn": "Scorpion S01E22 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "488e2e57aef6945d526b2ea9a0828adaac1a94b8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        72,
+        142,
+        46,
+        87,
+        174,
+        246,
+        148,
+        93,
+        82,
+        107,
+        46,
+        169,
+        160,
+        130,
+        138,
+        218,
+        172,
+        26,
+        148,
+        184
+      ]
+    },
+    "name": "Scorpion S01E22 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 7,
+  "last_updated": "2016-12-25T00:03:42.441Z"
+}

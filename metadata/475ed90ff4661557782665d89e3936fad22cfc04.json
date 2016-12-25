@@ -1,1 +1,61 @@
-{"title":"CALL OF DUTY BLACK OPS-SKIDROW","uid":6945431,"size":7818435653,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:475ed90ff4661557782665d89e3936fad22cfc04&amp;dn=CALL+OF+DUTY+BLACK+OPS-SKIDROW&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":20,"uploader":"luka998","files":2,"time":1326206532,"description":"BEST GAME OF THE 2011!!!\n\n\n\n\n\n\n\n\nPLEASE SEED!!!\n\n\n\n\nPLEASE SEED!!!\n\n\n\n\n\nPLEASE SEED!!!","torrent":{"xt":"urn:btih:475ed90ff4661557782665d89e3936fad22cfc04","amp;dn":"CALL+OF+DUTY+BLACK+OPS-SKIDROW","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"475ed90ff4661557782665d89e3936fad22cfc04","infoHashBuffer":{"type":"Buffer","data":[71,94,217,15,244,102,21,87,120,38,101,216,158,57,54,250,210,44,252,4]},"announce":[],"urlList":[]}}
+{
+  "title": "CALL OF DUTY BLACK OPS-SKIDROW",
+  "uid": 6945431,
+  "size": 7818435653,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:475ed90ff4661557782665d89e3936fad22cfc04&amp;dn=CALL+OF+DUTY+BLACK+OPS-SKIDROW&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 20,
+  "uploader": "luka998",
+  "files": 2,
+  "time": 1326206532,
+  "description": "BEST GAME OF THE 2011!!!\n\n\n\n\n\n\n\n\nPLEASE SEED!!!\n\n\n\n\nPLEASE SEED!!!\n\n\n\n\n\nPLEASE SEED!!!",
+  "parsed": {
+    "xt": "urn:btih:475ed90ff4661557782665d89e3936fad22cfc04",
+    "dn": "CALL OF DUTY BLACK OPS-SKIDROW",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "475ed90ff4661557782665d89e3936fad22cfc04",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        71,
+        94,
+        217,
+        15,
+        244,
+        102,
+        21,
+        87,
+        120,
+        38,
+        101,
+        216,
+        158,
+        57,
+        54,
+        250,
+        210,
+        44,
+        252,
+        4
+      ]
+    },
+    "name": "CALL OF DUTY BLACK OPS-SKIDROW",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 39,
+  "last_updated": "2016-12-24T23:56:22.876Z"
+}

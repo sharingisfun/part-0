@@ -1,1 +1,61 @@
-{"title":"Campaign Cartographer 3","uid":4666283,"size":1065355585,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:483310ace47a7c99c01cf04e9cbcba1b40344f63&amp;dn=Campaign+Cartographer+3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":2,"uploader":"hellpussies","files":2,"time":1232575335,"description":"&quot;CC3 is the fastest and most powerful map-making software for gamers. So if you're a busy person who wants the best, this is the software for you. In minutes you can learn all you need to rapidly create beautiful maps for campaigns, games and even real-world applications.\n\nA few simple but powerful tools do it all, and you can learn what you need in a matter of minutes. But CC3's new simplicity doesn't mean less power. In fact, quite the reverse. CC3gives you easy access to a huge choice of mapping symbols, styles and types. CC3 gives you fingertip control over every aspect of your mapping. With CC3, you draw exactly what and how you want.\n\nWhenever you need designs, whether it's roleplaying games or wargames, fantasy, modern or SF, CC3 can help you create them. From entire worlds and countries, to floorplans and furniture, CC3 can do it. You can map out your entire campaign world, place your troops in the field, or chart your galactic empire.&quot;\n\nThis includes Dungeon Designer.\n &lt;a href=&quot;\nhttp://www.profantasy.com/products/cc3.asp&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.profantasy.com/products/cc3.asp&lt;/a&gt; &lt;a href=&quot;\nhttp://www.profantasy.com/products/dd3.asp&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.profantasy.com/products/dd3.asp&lt;/a&gt;","torrent":{"xt":"urn:btih:483310ace47a7c99c01cf04e9cbcba1b40344f63","amp;dn":"Campaign+Cartographer+3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"483310ace47a7c99c01cf04e9cbcba1b40344f63","infoHashBuffer":{"type":"Buffer","data":[72,51,16,172,228,122,124,153,192,28,240,78,156,188,186,27,64,52,79,99]},"announce":[],"urlList":[]}}
+{
+  "title": "Campaign Cartographer 3",
+  "uid": 4666283,
+  "size": 1065355585,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:483310ace47a7c99c01cf04e9cbcba1b40344f63&amp;dn=Campaign+Cartographer+3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 2,
+  "uploader": "hellpussies",
+  "files": 2,
+  "time": 1232575335,
+  "description": "&quot;CC3 is the fastest and most powerful map-making software for gamers. So if you're a busy person who wants the best, this is the software for you. In minutes you can learn all you need to rapidly create beautiful maps for campaigns, games and even real-world applications.\n\nA few simple but powerful tools do it all, and you can learn what you need in a matter of minutes. But CC3's new simplicity doesn't mean less power. In fact, quite the reverse. CC3gives you easy access to a huge choice of mapping symbols, styles and types. CC3 gives you fingertip control over every aspect of your mapping. With CC3, you draw exactly what and how you want.\n\nWhenever you need designs, whether it's roleplaying games or wargames, fantasy, modern or SF, CC3 can help you create them. From entire worlds and countries, to floorplans and furniture, CC3 can do it. You can map out your entire campaign world, place your troops in the field, or chart your galactic empire.&quot;\n\nThis includes Dungeon Designer.\n &lt;a href=&quot;\nhttp://www.profantasy.com/products/cc3.asp&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.profantasy.com/products/cc3.asp&lt;/a&gt; &lt;a href=&quot;\nhttp://www.profantasy.com/products/dd3.asp&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.profantasy.com/products/dd3.asp&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:483310ace47a7c99c01cf04e9cbcba1b40344f63",
+    "dn": "Campaign Cartographer 3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "483310ace47a7c99c01cf04e9cbcba1b40344f63",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        72,
+        51,
+        16,
+        172,
+        228,
+        122,
+        124,
+        153,
+        192,
+        28,
+        240,
+        78,
+        156,
+        188,
+        186,
+        27,
+        64,
+        52,
+        79,
+        99
+      ]
+    },
+    "name": "Campaign Cartographer 3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 88,
+  "last_updated": "2016-12-25T00:01:43.987Z"
+}

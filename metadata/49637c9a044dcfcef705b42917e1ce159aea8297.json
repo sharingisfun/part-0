@@ -1,1 +1,61 @@
-{"title":"The Walking Dead S05E03 HDTV XviD-FUM[ettv]","uid":11296210,"size":364826519,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:49637c9a044dcfcef705b42917e1ce159aea8297&amp;dn=The+Walking+Dead+S05E03+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":3,"uploader":"ettv","files":2,"time":1414381420,"description":"FUM\nXviD Video : 1 124 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 624x350","torrent":{"xt":"urn:btih:49637c9a044dcfcef705b42917e1ce159aea8297","amp;dn":"The+Walking+Dead+S05E03+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"49637c9a044dcfcef705b42917e1ce159aea8297","infoHashBuffer":{"type":"Buffer","data":[73,99,124,154,4,77,207,206,247,5,180,41,23,225,206,21,154,234,130,151]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead S05E03 HDTV XviD-FUM[ettv]",
+  "uid": 11296210,
+  "size": 364826519,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:49637c9a044dcfcef705b42917e1ce159aea8297&amp;dn=The+Walking+Dead+S05E03+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1414381420,
+  "description": "FUM\nXviD Video : 1 124 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 624x350",
+  "parsed": {
+    "xt": "urn:btih:49637c9a044dcfcef705b42917e1ce159aea8297",
+    "dn": "The Walking Dead S05E03 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "49637c9a044dcfcef705b42917e1ce159aea8297",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        73,
+        99,
+        124,
+        154,
+        4,
+        77,
+        207,
+        206,
+        247,
+        5,
+        180,
+        41,
+        23,
+        225,
+        206,
+        21,
+        154,
+        234,
+        130,
+        151
+      ]
+    },
+    "name": "The Walking Dead S05E03 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 3,
+  "last_updated": "2016-12-25T00:09:48.153Z"
+}

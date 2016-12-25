@@ -1,1 +1,61 @@
-{"title":"Daft Punk - Get Lucky [Single] [mp3@320]","uid":8606741,"size":9914294,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4905eb35de4b84b8c4ff01aa07e614d5886098d9&amp;dn=Daft+Punk+-+Get+Lucky+%5BSingle%5D+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":0,"uploader":"luvmedic","files":-1,"time":1372030805,"description":"Daft Punk - Get Lucky (Feat. Pharrell Williams)\n\nMP3@320 kbit, 44.1khz Joint Stereo","torrent":{"xt":"urn:btih:4905eb35de4b84b8c4ff01aa07e614d5886098d9","amp;dn":"Daft+Punk+-+Get+Lucky+%5BSingle%5D+%5Bmp3%40320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4905eb35de4b84b8c4ff01aa07e614d5886098d9","infoHashBuffer":{"type":"Buffer","data":[73,5,235,53,222,75,132,184,196,255,1,170,7,230,20,213,136,96,152,217]},"announce":[],"urlList":[]}}
+{
+  "title": "Daft Punk - Get Lucky [Single] [mp3@320]",
+  "uid": 8606741,
+  "size": 9914294,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4905eb35de4b84b8c4ff01aa07e614d5886098d9&amp;dn=Daft+Punk+-+Get+Lucky+%5BSingle%5D+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 0,
+  "uploader": "luvmedic",
+  "files": -1,
+  "time": 1372030805,
+  "description": "Daft Punk - Get Lucky (Feat. Pharrell Williams)\n\nMP3@320 kbit, 44.1khz Joint Stereo",
+  "parsed": {
+    "xt": "urn:btih:4905eb35de4b84b8c4ff01aa07e614d5886098d9",
+    "dn": "Daft Punk - Get Lucky [Single] [mp3@320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4905eb35de4b84b8c4ff01aa07e614d5886098d9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        73,
+        5,
+        235,
+        53,
+        222,
+        75,
+        132,
+        184,
+        196,
+        255,
+        1,
+        170,
+        7,
+        230,
+        20,
+        213,
+        136,
+        96,
+        152,
+        217
+      ]
+    },
+    "name": "Daft Punk - Get Lucky [Single] [mp3@320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 51,
+  "last_updated": "2016-12-25T00:07:25.470Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Tchaikovsky,Essential ,Complete,Swan Lake ,The Nutcracker, The S","uid":5024616,"size":1405223207,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:47842040d00e565b76fd2c6689eddcd2b775c88a&amp;dn=Tchaikovsky%2CEssential+%2CComplete%2CSwan+Lake+%2CThe+Nutcracker%2C+The+S&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":3,"uploader":"bogart55","files":157,"time":1248633574,"description":"Tchaikovsky,Essential ,Complete,Swan Lake ,The Nutcracker, The Sleeping Beauty, Richard Bonynge,national philharmonic orchestra\n\nVarious artists on the essential cds.\n\nmp3 cbr 320\n\nEnjoy the Music\n\nBest Regards Bogart55","torrent":{"xt":"urn:btih:47842040d00e565b76fd2c6689eddcd2b775c88a","amp;dn":"Tchaikovsky%2CEssential+%2CComplete%2CSwan+Lake+%2CThe+Nutcracker%2C+The+S","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"47842040d00e565b76fd2c6689eddcd2b775c88a","infoHashBuffer":{"type":"Buffer","data":[71,132,32,64,208,14,86,91,118,253,44,102,137,237,220,210,183,117,200,138]},"announce":[],"urlList":[]}}
+{
+  "title": "Tchaikovsky,Essential ,Complete,Swan Lake ,The Nutcracker, The S",
+  "uid": 5024616,
+  "size": 1405223207,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:47842040d00e565b76fd2c6689eddcd2b775c88a&amp;dn=Tchaikovsky%2CEssential+%2CComplete%2CSwan+Lake+%2CThe+Nutcracker%2C+The+S&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 3,
+  "uploader": "bogart55",
+  "files": 157,
+  "time": 1248633574,
+  "description": "Tchaikovsky,Essential ,Complete,Swan Lake ,The Nutcracker, The Sleeping Beauty, Richard Bonynge,national philharmonic orchestra\n\nVarious artists on the essential cds.\n\nmp3 cbr 320\n\nEnjoy the Music\n\nBest Regards Bogart55",
+  "parsed": {
+    "xt": "urn:btih:47842040d00e565b76fd2c6689eddcd2b775c88a",
+    "dn": "Tchaikovsky,Essential ,Complete,Swan Lake ,The Nutcracker, The S",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "47842040d00e565b76fd2c6689eddcd2b775c88a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        71,
+        132,
+        32,
+        64,
+        208,
+        14,
+        86,
+        91,
+        118,
+        253,
+        44,
+        102,
+        137,
+        237,
+        220,
+        210,
+        183,
+        117,
+        200,
+        138
+      ]
+    },
+    "name": "Tchaikovsky,Essential ,Complete,Swan Lake ,The Nutcracker, The S",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 42,
+  "last_updated": "2016-12-24T23:57:23.121Z"
+}
