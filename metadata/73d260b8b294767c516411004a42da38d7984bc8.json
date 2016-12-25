@@ -1,1 +1,63 @@
-{"title":"The Beatles - Abbey Road - 320kbps","uid":15406605,"size":112491659,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:73d260b8b294767c516411004a42da38d7984bc8&amp;dn=The+Beatles+-+Abbey+Road+-+320kbps&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":5,"uploader":null,"files":17,"time":1469513701,"description":"The Beatles - Abbey Road - 320kbps","torrent":{"xt":"urn:btih:73d260b8b294767c516411004a42da38d7984bc8","amp;dn":"The+Beatles+-+Abbey+Road+-+320kbps","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"73d260b8b294767c516411004a42da38d7984bc8","infoHashBuffer":{"type":"Buffer","data":[115,210,96,184,178,148,118,124,81,100,17,0,74,66,218,56,215,152,75,200]},"announce":[],"urlList":[]}}
+{
+  "title": "The Beatles - Abbey Road - 320kbps",
+  "uid": 15406605,
+  "size": 112491659,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:73d260b8b294767c516411004a42da38d7984bc8&amp;dn=The+Beatles+-+Abbey+Road+-+320kbps&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 5,
+  "uploader": null,
+  "files": 17,
+  "time": 1469513701,
+  "description": "The Beatles - Abbey Road - 320kbps",
+  "parsed": {
+    "xt": "urn:btih:73d260b8b294767c516411004a42da38d7984bc8",
+    "dn": "The Beatles - Abbey Road - 320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "73d260b8b294767c516411004a42da38d7984bc8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        115,
+        210,
+        96,
+        184,
+        178,
+        148,
+        118,
+        124,
+        81,
+        100,
+        17,
+        0,
+        74,
+        66,
+        218,
+        56,
+        215,
+        152,
+        75,
+        200
+      ]
+    },
+    "name": "The Beatles - Abbey Road - 320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 89,
+  "last_updated": "2016-12-25T04:45:43.154Z"
+}

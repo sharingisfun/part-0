@@ -1,1 +1,63 @@
-{"title":"Brock.2016.Part.1.HDTV.x264-FQM","uid":15991533,"size":761079219,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:73dcf99764b0d549ae52f052e132f9612bdf7753&amp;dn=Brock.2016.Part.1.HDTV.x264-FQM&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":41,"uploader":"TvTeam","files":4,"time":1476023258,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:73dcf99764b0d549ae52f052e132f9612bdf7753","amp;dn":"Brock.2016.Part.1.HDTV.x264-FQM","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"73dcf99764b0d549ae52f052e132f9612bdf7753","infoHashBuffer":{"type":"Buffer","data":[115,220,249,151,100,176,213,73,174,82,240,82,225,50,249,97,43,223,119,83]},"announce":[],"urlList":[]}}
+{
+  "title": "Brock.2016.Part.1.HDTV.x264-FQM",
+  "uid": 15991533,
+  "size": 761079219,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:73dcf99764b0d549ae52f052e132f9612bdf7753&amp;dn=Brock.2016.Part.1.HDTV.x264-FQM&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 41,
+  "uploader": "TvTeam",
+  "files": 4,
+  "time": 1476023258,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:73dcf99764b0d549ae52f052e132f9612bdf7753",
+    "dn": "Brock.2016.Part.1.HDTV.x264-FQM",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "73dcf99764b0d549ae52f052e132f9612bdf7753",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        115,
+        220,
+        249,
+        151,
+        100,
+        176,
+        213,
+        73,
+        174,
+        82,
+        240,
+        82,
+        225,
+        50,
+        249,
+        97,
+        43,
+        223,
+        119,
+        83
+      ]
+    },
+    "name": "Brock.2016.Part.1.HDTV.x264-FQM",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 89,
+  "peers": 17,
+  "last_updated": "2016-12-25T04:46:05.215Z"
+}

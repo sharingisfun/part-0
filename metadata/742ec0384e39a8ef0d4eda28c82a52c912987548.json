@@ -1,1 +1,61 @@
-{"title":"Mac OS X 10.4 Tiger DVD (PPC)","uid":3960279,"size":2832236544,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:742ec0384e39a8ef0d4eda28c82a52c912987548&amp;dn=Mac+OS+X+10.4+Tiger+DVD+%28PPC%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":5,"uploader":"Jon55","files":1,"time":1199404295,"description":"Mac OS X 10.4 Tiger Install DVD (PPC).","torrent":{"xt":"urn:btih:742ec0384e39a8ef0d4eda28c82a52c912987548","amp;dn":"Mac+OS+X+10.4+Tiger+DVD+%28PPC%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"742ec0384e39a8ef0d4eda28c82a52c912987548","infoHashBuffer":{"type":"Buffer","data":[116,46,192,56,78,57,168,239,13,78,218,40,200,42,82,201,18,152,117,72]},"announce":[],"urlList":[]}}
+{
+  "title": "Mac OS X 10.4 Tiger DVD (PPC)",
+  "uid": 3960279,
+  "size": 2832236544,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:742ec0384e39a8ef0d4eda28c82a52c912987548&amp;dn=Mac+OS+X+10.4+Tiger+DVD+%28PPC%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 5,
+  "uploader": "Jon55",
+  "files": 1,
+  "time": 1199404295,
+  "description": "Mac OS X 10.4 Tiger Install DVD (PPC).",
+  "parsed": {
+    "xt": "urn:btih:742ec0384e39a8ef0d4eda28c82a52c912987548",
+    "dn": "Mac OS X 10.4 Tiger DVD (PPC)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "742ec0384e39a8ef0d4eda28c82a52c912987548",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        116,
+        46,
+        192,
+        56,
+        78,
+        57,
+        168,
+        239,
+        13,
+        78,
+        218,
+        40,
+        200,
+        42,
+        82,
+        201,
+        18,
+        152,
+        117,
+        72
+      ]
+    },
+    "name": "Mac OS X 10.4 Tiger DVD (PPC)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 0,
+  "last_updated": "2016-12-25T04:47:39.510Z"
+}

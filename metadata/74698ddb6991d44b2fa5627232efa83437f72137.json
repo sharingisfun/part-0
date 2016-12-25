@@ -1,1 +1,63 @@
-{"title":"Family.Guy.S14E01.HDTV.x264-BATV.[VTV].mp4","uid":12503417,"size":87338679,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:74698ddb6991d44b2fa5627232efa83437f72137&amp;dn=Family.Guy.S14E01.HDTV.x264-BATV.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":2,"uploader":"VTV","files":1,"time":1443411744,"description":"Family Guy 14x01 (HDTV-x264-BATV)[VTV]","torrent":{"xt":"urn:btih:74698ddb6991d44b2fa5627232efa83437f72137","amp;dn":"Family.Guy.S14E01.HDTV.x264-BATV.%5BVTV%5D.mp4","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"74698ddb6991d44b2fa5627232efa83437f72137","infoHashBuffer":{"type":"Buffer","data":[116,105,141,219,105,145,212,75,47,165,98,114,50,239,168,52,55,247,33,55]},"announce":[],"urlList":[]}}
+{
+  "title": "Family.Guy.S14E01.HDTV.x264-BATV.[VTV].mp4",
+  "uid": 12503417,
+  "size": 87338679,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:74698ddb6991d44b2fa5627232efa83437f72137&amp;dn=Family.Guy.S14E01.HDTV.x264-BATV.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 2,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1443411744,
+  "description": "Family Guy 14x01 (HDTV-x264-BATV)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:74698ddb6991d44b2fa5627232efa83437f72137",
+    "dn": "Family.Guy.S14E01.HDTV.x264-BATV.[VTV].mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "74698ddb6991d44b2fa5627232efa83437f72137",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        116,
+        105,
+        141,
+        219,
+        105,
+        145,
+        212,
+        75,
+        47,
+        165,
+        98,
+        114,
+        50,
+        239,
+        168,
+        52,
+        55,
+        247,
+        33,
+        55
+      ]
+    },
+    "name": "Family.Guy.S14E01.HDTV.x264-BATV.[VTV].mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 175,
+  "last_updated": "2016-12-25T04:49:19.802Z"
+}

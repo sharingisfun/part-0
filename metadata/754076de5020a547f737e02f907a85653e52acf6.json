@@ -1,1 +1,63 @@
-{"title":"Adobe Photoshop CC 2015.5 (17.01) OS X","uid":15533412,"size":1386384726,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:754076de5020a547f737e02f907a85653e52acf6&amp;dn=Adobe+Photoshop+CC+2015.5+%2817.01%29+OS+X&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":8,"uploader":"pelleke","files":3,"time":1470856430,"description":"Adobe Photoshop CC 2015.5 for Mac OS X.\r\n\r\nRead my Howto for instructions","torrent":{"xt":"urn:btih:754076de5020a547f737e02f907a85653e52acf6","amp;dn":"Adobe+Photoshop+CC+2015.5+%2817.01%29+OS+X","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"754076de5020a547f737e02f907a85653e52acf6","infoHashBuffer":{"type":"Buffer","data":[117,64,118,222,80,32,165,71,247,55,224,47,144,122,133,101,62,82,172,246]},"announce":[],"urlList":[]}}
+{
+  "title": "Adobe Photoshop CC 2015.5 (17.01) OS X",
+  "uid": 15533412,
+  "size": 1386384726,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:754076de5020a547f737e02f907a85653e52acf6&amp;dn=Adobe+Photoshop+CC+2015.5+%2817.01%29+OS+X&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 8,
+  "uploader": "pelleke",
+  "files": 3,
+  "time": 1470856430,
+  "description": "Adobe Photoshop CC 2015.5 for Mac OS X.\r\n\r\nRead my Howto for instructions",
+  "parsed": {
+    "xt": "urn:btih:754076de5020a547f737e02f907a85653e52acf6",
+    "dn": "Adobe Photoshop CC 2015.5 (17.01) OS X",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "754076de5020a547f737e02f907a85653e52acf6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        117,
+        64,
+        118,
+        222,
+        80,
+        32,
+        165,
+        71,
+        247,
+        55,
+        224,
+        47,
+        144,
+        122,
+        133,
+        101,
+        62,
+        82,
+        172,
+        246
+      ]
+    },
+    "name": "Adobe Photoshop CC 2015.5 (17.01) OS X",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 57,
+  "last_updated": "2016-12-25T04:55:14.853Z"
+}

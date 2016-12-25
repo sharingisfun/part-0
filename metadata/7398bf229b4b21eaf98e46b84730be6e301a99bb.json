@@ -1,1 +1,61 @@
-{"title":"Gubka.Bob.3D.2015.D.TS.1400MB.avi","uid":11725250,"size":1467942912,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:7398bf229b4b21eaf98e46b84730be6e301a99bb&amp;dn=Gubka.Bob.3D.2015.D.TS.1400MB.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":754,"leechers":18,"uploader":"ilove1994","files":1,"time":1425015597,"description":"Gubka.Bob.3D.2015.D.TS","torrent":{"xt":"urn:btih:7398bf229b4b21eaf98e46b84730be6e301a99bb","amp;dn":"Gubka.Bob.3D.2015.D.TS.1400MB.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7398bf229b4b21eaf98e46b84730be6e301a99bb","infoHashBuffer":{"type":"Buffer","data":[115,152,191,34,155,75,33,234,249,142,70,184,71,48,190,110,48,26,153,187]},"announce":[],"urlList":[]}}
+{
+  "title": "Gubka.Bob.3D.2015.D.TS.1400MB.avi",
+  "uid": 11725250,
+  "size": 1467942912,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:7398bf229b4b21eaf98e46b84730be6e301a99bb&amp;dn=Gubka.Bob.3D.2015.D.TS.1400MB.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 754,
+  "leechers": 18,
+  "uploader": "ilove1994",
+  "files": 1,
+  "time": 1425015597,
+  "description": "Gubka.Bob.3D.2015.D.TS",
+  "parsed": {
+    "xt": "urn:btih:7398bf229b4b21eaf98e46b84730be6e301a99bb",
+    "dn": "Gubka.Bob.3D.2015.D.TS.1400MB.avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7398bf229b4b21eaf98e46b84730be6e301a99bb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        115,
+        152,
+        191,
+        34,
+        155,
+        75,
+        33,
+        234,
+        249,
+        142,
+        70,
+        184,
+        71,
+        48,
+        190,
+        110,
+        48,
+        26,
+        153,
+        187
+      ]
+    },
+    "name": "Gubka.Bob.3D.2015.D.TS.1400MB.avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 772,
+  "peers": 77,
+  "last_updated": "2016-12-25T04:44:02.808Z"
+}

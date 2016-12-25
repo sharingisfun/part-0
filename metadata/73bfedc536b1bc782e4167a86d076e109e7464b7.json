@@ -1,1 +1,63 @@
-{"title":"Stardock Start8 v1.45 - Final - PreActivated","uid":15963978,"size":12872633,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:73bfedc536b1bc782e4167a86d076e109e7464b7&amp;dn=Stardock+Start8+v1.45+-+Final+-+PreActivated&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":1648,"leechers":176,"uploader":"gDeinad","files":1,"time":1475703836,"description":"\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program","torrent":{"xt":"urn:btih:73bfedc536b1bc782e4167a86d076e109e7464b7","amp;dn":"Stardock+Start8+v1.45+-+Final+-+PreActivated","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"73bfedc536b1bc782e4167a86d076e109e7464b7","infoHashBuffer":{"type":"Buffer","data":[115,191,237,197,54,177,188,120,46,65,103,168,109,7,110,16,158,116,100,183]},"announce":[],"urlList":[]}}
+{
+  "title": "Stardock Start8 v1.45 - Final - PreActivated",
+  "uid": 15963978,
+  "size": 12872633,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:73bfedc536b1bc782e4167a86d076e109e7464b7&amp;dn=Stardock+Start8+v1.45+-+Final+-+PreActivated&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 1648,
+  "leechers": 176,
+  "uploader": "gDeinad",
+  "files": 1,
+  "time": 1475703836,
+  "description": "\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program",
+  "parsed": {
+    "xt": "urn:btih:73bfedc536b1bc782e4167a86d076e109e7464b7",
+    "dn": "Stardock Start8 v1.45 - Final - PreActivated",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "73bfedc536b1bc782e4167a86d076e109e7464b7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        115,
+        191,
+        237,
+        197,
+        54,
+        177,
+        188,
+        120,
+        46,
+        65,
+        103,
+        168,
+        109,
+        7,
+        110,
+        16,
+        158,
+        116,
+        100,
+        183
+      ]
+    },
+    "name": "Stardock Start8 v1.45 - Final - PreActivated",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 1824,
+  "peers": 2,
+  "last_updated": "2016-12-25T04:45:17.084Z"
+}

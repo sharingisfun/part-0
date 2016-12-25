@@ -1,1 +1,61 @@
-{"title":"Dexter S08E07 HDTV x264-ASAP[ettv]","uid":8804000,"size":351806990,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:7377b5486af7f4a3064e2343ba499c9d8a9b5665&amp;dn=Dexter+S08E07+HDTV+x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":2,"uploader":"ettv","files":2,"time":1376279895,"description":"x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n","torrent":{"xt":"urn:btih:7377b5486af7f4a3064e2343ba499c9d8a9b5665","amp;dn":"Dexter+S08E07+HDTV+x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7377b5486af7f4a3064e2343ba499c9d8a9b5665","infoHashBuffer":{"type":"Buffer","data":[115,119,181,72,106,247,244,163,6,78,35,67,186,73,156,157,138,155,86,101]},"announce":[],"urlList":[]}}
+{
+  "title": "Dexter S08E07 HDTV x264-ASAP[ettv]",
+  "uid": 8804000,
+  "size": 351806990,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:7377b5486af7f4a3064e2343ba499c9d8a9b5665&amp;dn=Dexter+S08E07+HDTV+x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1376279895,
+  "description": "x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n",
+  "parsed": {
+    "xt": "urn:btih:7377b5486af7f4a3064e2343ba499c9d8a9b5665",
+    "dn": "Dexter S08E07 HDTV x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7377b5486af7f4a3064e2343ba499c9d8a9b5665",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        115,
+        119,
+        181,
+        72,
+        106,
+        247,
+        244,
+        163,
+        6,
+        78,
+        35,
+        67,
+        186,
+        73,
+        156,
+        157,
+        138,
+        155,
+        86,
+        101
+      ]
+    },
+    "name": "Dexter S08E07 HDTV x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 26,
+  "last_updated": "2016-12-25T04:43:08.629Z"
+}

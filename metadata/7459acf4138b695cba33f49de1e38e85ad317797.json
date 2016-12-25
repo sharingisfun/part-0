@@ -1,1 +1,61 @@
-{"title":"Eminem Ft. Rihanna - The Monster [2013]","uid":9257616,"size":5535673,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:7459acf4138b695cba33f49de1e38e85ad317797&amp;dn=Eminem+Ft.+Rihanna+-+The+Monster+%5B2013%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":0,"uploader":"TheNautiE","files":1,"time":1385577202,"description":"Eminem Ft. Rihanna - Monster\nGenre: Rap\nLength: 04:12\nAudio Bitrate: 165kbps\n\nSource: songslover.pk","torrent":{"xt":"urn:btih:7459acf4138b695cba33f49de1e38e85ad317797","amp;dn":"Eminem+Ft.+Rihanna+-+The+Monster+%5B2013%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7459acf4138b695cba33f49de1e38e85ad317797","infoHashBuffer":{"type":"Buffer","data":[116,89,172,244,19,139,105,92,186,51,244,157,225,227,142,133,173,49,119,151]},"announce":[],"urlList":[]}}
+{
+  "title": "Eminem Ft. Rihanna - The Monster [2013]",
+  "uid": 9257616,
+  "size": 5535673,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:7459acf4138b695cba33f49de1e38e85ad317797&amp;dn=Eminem+Ft.+Rihanna+-+The+Monster+%5B2013%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 0,
+  "uploader": "TheNautiE",
+  "files": 1,
+  "time": 1385577202,
+  "description": "Eminem Ft. Rihanna - Monster\nGenre: Rap\nLength: 04:12\nAudio Bitrate: 165kbps\n\nSource: songslover.pk",
+  "parsed": {
+    "xt": "urn:btih:7459acf4138b695cba33f49de1e38e85ad317797",
+    "dn": "Eminem Ft. Rihanna - The Monster [2013]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7459acf4138b695cba33f49de1e38e85ad317797",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        116,
+        89,
+        172,
+        244,
+        19,
+        139,
+        105,
+        92,
+        186,
+        51,
+        244,
+        157,
+        225,
+        227,
+        142,
+        133,
+        173,
+        49,
+        119,
+        151
+      ]
+    },
+    "name": "Eminem Ft. Rihanna - The Monster [2013]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 0,
+  "last_updated": "2016-12-25T04:49:01.755Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Sonic Youth - Daydream nation","uid":3377533,"size":115716790,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:7534ec35e1dc8fba40e32bb3bbdf96ad8c6041d9&amp;dn=Sonic+Youth+-+Daydream+nation&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":1,"uploader":"sikboy","files":12,"time":1125574242,"description":"Sonic Youth - Daydream nation\nmp3 VBR.","torrent":{"xt":"urn:btih:7534ec35e1dc8fba40e32bb3bbdf96ad8c6041d9","amp;dn":"Sonic+Youth+-+Daydream+nation","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7534ec35e1dc8fba40e32bb3bbdf96ad8c6041d9","infoHashBuffer":{"type":"Buffer","data":[117,52,236,53,225,220,143,186,64,227,43,179,187,223,150,173,140,96,65,217]},"announce":[],"urlList":[]}}
+{
+  "title": "Sonic Youth - Daydream nation",
+  "uid": 3377533,
+  "size": 115716790,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:7534ec35e1dc8fba40e32bb3bbdf96ad8c6041d9&amp;dn=Sonic+Youth+-+Daydream+nation&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 1,
+  "uploader": "sikboy",
+  "files": 12,
+  "time": 1125574242,
+  "description": "Sonic Youth - Daydream nation\nmp3 VBR.",
+  "parsed": {
+    "xt": "urn:btih:7534ec35e1dc8fba40e32bb3bbdf96ad8c6041d9",
+    "dn": "Sonic Youth - Daydream nation",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7534ec35e1dc8fba40e32bb3bbdf96ad8c6041d9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        117,
+        52,
+        236,
+        53,
+        225,
+        220,
+        143,
+        186,
+        64,
+        227,
+        43,
+        179,
+        187,
+        223,
+        150,
+        173,
+        140,
+        96,
+        65,
+        217
+      ]
+    },
+    "name": "Sonic Youth - Daydream nation",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 22,
+  "last_updated": "2016-12-25T04:54:48.737Z"
+}

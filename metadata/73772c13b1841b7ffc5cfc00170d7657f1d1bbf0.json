@@ -1,1 +1,61 @@
-{"title":"Las aventuras de Tadeo Jones","uid":8569931,"size":1555617792,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:73772c13b1841b7ffc5cfc00170d7657f1d1bbf0&amp;dn=Las+aventuras+de+Tadeo+Jones+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":3,"uploader":"Miguel223","files":1,"time":1371082048,"description":"Las aventuras de Tadeo Jones \n\nwww.peliculasytorrent.com","torrent":{"xt":"urn:btih:73772c13b1841b7ffc5cfc00170d7657f1d1bbf0","amp;dn":"Las+aventuras+de+Tadeo+Jones+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"73772c13b1841b7ffc5cfc00170d7657f1d1bbf0","infoHashBuffer":{"type":"Buffer","data":[115,119,44,19,177,132,27,127,252,92,252,0,23,13,118,87,241,209,187,240]},"announce":[],"urlList":[]}}
+{
+  "title": "Las aventuras de Tadeo Jones",
+  "uid": 8569931,
+  "size": 1555617792,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:73772c13b1841b7ffc5cfc00170d7657f1d1bbf0&amp;dn=Las+aventuras+de+Tadeo+Jones+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 3,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1371082048,
+  "description": "Las aventuras de Tadeo Jones \n\nwww.peliculasytorrent.com",
+  "parsed": {
+    "xt": "urn:btih:73772c13b1841b7ffc5cfc00170d7657f1d1bbf0",
+    "dn": "Las aventuras de Tadeo Jones ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "73772c13b1841b7ffc5cfc00170d7657f1d1bbf0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        115,
+        119,
+        44,
+        19,
+        177,
+        132,
+        27,
+        127,
+        252,
+        92,
+        252,
+        0,
+        23,
+        13,
+        118,
+        87,
+        241,
+        209,
+        187,
+        240
+      ]
+    },
+    "name": "Las aventuras de Tadeo Jones ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 64,
+  "last_updated": "2016-12-25T04:43:06.623Z"
+}

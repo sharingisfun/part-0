@@ -1,1 +1,61 @@
-{"title":"Blue Swede - Hooked On A Feeling (1974)","uid":3619885,"size":77348852,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:74596af910a3b7d2ce41b08fd87aec135d0b690f&amp;dn=Blue+Swede+-+Hooked+On+A+Feeling+%281974%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":5,"uploader":"workjobb","files":11,"time":1171650628,"description":"I found a vinyl copy of this album in a record store the other day in great condition, and I was curious as to what this group had done besides their two Top 40 hits, &quot;Hooked On A Feeling&quot; and &quot;Never My Love&quot;.\nThe rest of the album is OK-there&amp;#039;s a few interesting remakes besides those two songs. In any case, there was never a follow up in the US as far as I know, but I&amp;#039;m sure if there was, someone will let us know.\nThis is kind of tough to find, so if you could seed it for a while, it would be appreciated by others.","torrent":{"xt":"urn:btih:74596af910a3b7d2ce41b08fd87aec135d0b690f","amp;dn":"Blue+Swede+-+Hooked+On+A+Feeling+%281974%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"74596af910a3b7d2ce41b08fd87aec135d0b690f","infoHashBuffer":{"type":"Buffer","data":[116,89,106,249,16,163,183,210,206,65,176,143,216,122,236,19,93,11,105,15]},"announce":[],"urlList":[]}}
+{
+  "title": "Blue Swede - Hooked On A Feeling (1974)",
+  "uid": 3619885,
+  "size": 77348852,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:74596af910a3b7d2ce41b08fd87aec135d0b690f&amp;dn=Blue+Swede+-+Hooked+On+A+Feeling+%281974%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 5,
+  "uploader": "workjobb",
+  "files": 11,
+  "time": 1171650628,
+  "description": "I found a vinyl copy of this album in a record store the other day in great condition, and I was curious as to what this group had done besides their two Top 40 hits, &quot;Hooked On A Feeling&quot; and &quot;Never My Love&quot;.\nThe rest of the album is OK-there&amp;#039;s a few interesting remakes besides those two songs. In any case, there was never a follow up in the US as far as I know, but I&amp;#039;m sure if there was, someone will let us know.\nThis is kind of tough to find, so if you could seed it for a while, it would be appreciated by others.",
+  "parsed": {
+    "xt": "urn:btih:74596af910a3b7d2ce41b08fd87aec135d0b690f",
+    "dn": "Blue Swede - Hooked On A Feeling (1974)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "74596af910a3b7d2ce41b08fd87aec135d0b690f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        116,
+        89,
+        106,
+        249,
+        16,
+        163,
+        183,
+        210,
+        206,
+        65,
+        176,
+        143,
+        216,
+        122,
+        236,
+        19,
+        93,
+        11,
+        105,
+        15
+      ]
+    },
+    "name": "Blue Swede - Hooked On A Feeling (1974)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 18,
+  "last_updated": "2016-12-25T04:48:57.745Z"
+}

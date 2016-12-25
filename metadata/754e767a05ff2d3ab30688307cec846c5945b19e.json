@@ -1,1 +1,61 @@
-{"title":"Skillet - Awake [Album 2009] [320kpbs]","uid":5066128,"size":92734469,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:754e767a05ff2d3ab30688307cec846c5945b19e&amp;dn=Skillet+-+Awake+%5BAlbum+2009%5D+%5B320kpbs%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":25,"uploader":"Rupert77","files":-1,"time":1251022956,"description":"Skillet - Awake [Album 2009] [320kpbs]\n\nArtist......: Skillet\nAlbum.......: Awake\nGenre.......: Christian Rock\nReleased....: 2009-08-23\nStreet date.: 2009-08-25\nYear........: 2009\nSource......: Retail CD \nBitrate.....: 320 Kpbs\nQuality.....: VBR V0 \nTracks......: 12 \nSize........: 85 MB\n\nTracks......:\n\n01. Hero                        03:06\n02. Monster                     02:58\n03. Don't Wake Me               03:55\n04. Awake And Alive             03:31\n05. One Day Too Late            03:40\n06. It's Not Me It's You        03:24\n07. Should've When You Could've 03:31\n08. Believe                     03:50\n09. Forgiven                    03:39\n10. Sometimes                   03:28\n11. Never Surrender             03:30\n12. Lucy                        03:38\n\nEnjoy.\n \n","torrent":{"xt":"urn:btih:754e767a05ff2d3ab30688307cec846c5945b19e","amp;dn":"Skillet+-+Awake+%5BAlbum+2009%5D+%5B320kpbs%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"754e767a05ff2d3ab30688307cec846c5945b19e","infoHashBuffer":{"type":"Buffer","data":[117,78,118,122,5,255,45,58,179,6,136,48,124,236,132,108,89,69,177,158]},"announce":[],"urlList":[]}}
+{
+  "title": "Skillet - Awake [Album 2009] [320kpbs]",
+  "uid": 5066128,
+  "size": 92734469,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:754e767a05ff2d3ab30688307cec846c5945b19e&amp;dn=Skillet+-+Awake+%5BAlbum+2009%5D+%5B320kpbs%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 25,
+  "uploader": "Rupert77",
+  "files": -1,
+  "time": 1251022956,
+  "description": "Skillet - Awake [Album 2009] [320kpbs]\n\nArtist......: Skillet\nAlbum.......: Awake\nGenre.......: Christian Rock\nReleased....: 2009-08-23\nStreet date.: 2009-08-25\nYear........: 2009\nSource......: Retail CD \nBitrate.....: 320 Kpbs\nQuality.....: VBR V0 \nTracks......: 12 \nSize........: 85 MB\n\nTracks......:\n\n01. Hero                        03:06\n02. Monster                     02:58\n03. Don't Wake Me               03:55\n04. Awake And Alive             03:31\n05. One Day Too Late            03:40\n06. It's Not Me It's You        03:24\n07. Should've When You Could've 03:31\n08. Believe                     03:50\n09. Forgiven                    03:39\n10. Sometimes                   03:28\n11. Never Surrender             03:30\n12. Lucy                        03:38\n\nEnjoy.\n \n",
+  "parsed": {
+    "xt": "urn:btih:754e767a05ff2d3ab30688307cec846c5945b19e",
+    "dn": "Skillet - Awake [Album 2009] [320kpbs]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "754e767a05ff2d3ab30688307cec846c5945b19e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        117,
+        78,
+        118,
+        122,
+        5,
+        255,
+        45,
+        58,
+        179,
+        6,
+        136,
+        48,
+        124,
+        236,
+        132,
+        108,
+        89,
+        69,
+        177,
+        158
+      ]
+    },
+    "name": "Skillet - Awake [Album 2009] [320kpbs]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 104,
+  "peers": 15,
+  "last_updated": "2016-12-25T04:55:32.922Z"
+}

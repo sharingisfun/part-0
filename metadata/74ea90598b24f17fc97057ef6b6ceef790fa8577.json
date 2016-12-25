@@ -1,1 +1,61 @@
-{"title":"Dominion S01E02 HDTV x264-LOL[ettv]","uid":10436868,"size":278243416,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:74ea90598b24f17fc97057ef6b6ceef790fa8577&amp;dn=Dominion+S01E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":6,"uploader":"ettv","files":2,"time":1403843920,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:74ea90598b24f17fc97057ef6b6ceef790fa8577","amp;dn":"Dominion+S01E02+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"74ea90598b24f17fc97057ef6b6ceef790fa8577","infoHashBuffer":{"type":"Buffer","data":[116,234,144,89,139,36,241,127,201,112,87,239,107,108,238,247,144,250,133,119]},"announce":[],"urlList":[]}}
+{
+  "title": "Dominion S01E02 HDTV x264-LOL[ettv]",
+  "uid": 10436868,
+  "size": 278243416,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:74ea90598b24f17fc97057ef6b6ceef790fa8577&amp;dn=Dominion+S01E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 6,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1403843920,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:74ea90598b24f17fc97057ef6b6ceef790fa8577",
+    "dn": "Dominion S01E02 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "74ea90598b24f17fc97057ef6b6ceef790fa8577",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        116,
+        234,
+        144,
+        89,
+        139,
+        36,
+        241,
+        127,
+        201,
+        112,
+        87,
+        239,
+        107,
+        108,
+        238,
+        247,
+        144,
+        250,
+        133,
+        119
+      ]
+    },
+    "name": "Dominion S01E02 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 2,
+  "last_updated": "2016-12-25T04:52:50.408Z"
+}

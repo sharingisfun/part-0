@@ -1,1 +1,61 @@
-{"title":"Call The Midwife 4x03 HDTV x264-FoV[ettv]","uid":11675338,"size":355740857,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:745bb231b9eae78d1bd463a330a9b8d51a1bda0b&amp;dn=Call+The+Midwife+4x03+HDTV+x264-FoV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":4,"uploader":"ettv","files":3,"time":1422831861,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:745bb231b9eae78d1bd463a330a9b8d51a1bda0b","amp;dn":"Call+The+Midwife+4x03+HDTV+x264-FoV%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"745bb231b9eae78d1bd463a330a9b8d51a1bda0b","infoHashBuffer":{"type":"Buffer","data":[116,91,178,49,185,234,231,141,27,212,99,163,48,169,184,213,26,27,218,11]},"announce":[],"urlList":[]}}
+{
+  "title": "Call The Midwife 4x03 HDTV x264-FoV[ettv]",
+  "uid": 11675338,
+  "size": 355740857,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:745bb231b9eae78d1bd463a330a9b8d51a1bda0b&amp;dn=Call+The+Midwife+4x03+HDTV+x264-FoV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1422831861,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:745bb231b9eae78d1bd463a330a9b8d51a1bda0b",
+    "dn": "Call The Midwife 4x03 HDTV x264-FoV[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "745bb231b9eae78d1bd463a330a9b8d51a1bda0b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        116,
+        91,
+        178,
+        49,
+        185,
+        234,
+        231,
+        141,
+        27,
+        212,
+        99,
+        163,
+        48,
+        169,
+        184,
+        213,
+        26,
+        27,
+        218,
+        11
+      ]
+    },
+    "name": "Call The Midwife 4x03 HDTV x264-FoV[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 22,
+  "last_updated": "2016-12-25T04:49:05.764Z"
+}

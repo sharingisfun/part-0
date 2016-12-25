@@ -1,1 +1,61 @@
-{"title":"Alice In Chains - Dirt","uid":3876315,"size":55252133,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:7439a7afdf1cdd9544bca4ccbcc342a3b4e03bca&amp;dn=Alice+In+Chains+-+Dirt&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":1,"uploader":"mm3_hellraiser","files":13,"time":1194407362,"description":"Alice In Chains - Dirt\n\nFully Tagged! \n\nEnjoy.","torrent":{"xt":"urn:btih:7439a7afdf1cdd9544bca4ccbcc342a3b4e03bca","amp;dn":"Alice+In+Chains+-+Dirt","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7439a7afdf1cdd9544bca4ccbcc342a3b4e03bca","infoHashBuffer":{"type":"Buffer","data":[116,57,167,175,223,28,221,149,68,188,164,204,188,195,66,163,180,224,59,202]},"announce":[],"urlList":[]}}
+{
+  "title": "Alice In Chains - Dirt",
+  "uid": 3876315,
+  "size": 55252133,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:7439a7afdf1cdd9544bca4ccbcc342a3b4e03bca&amp;dn=Alice+In+Chains+-+Dirt&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 1,
+  "uploader": "mm3_hellraiser",
+  "files": 13,
+  "time": 1194407362,
+  "description": "Alice In Chains - Dirt\n\nFully Tagged! \n\nEnjoy.",
+  "parsed": {
+    "xt": "urn:btih:7439a7afdf1cdd9544bca4ccbcc342a3b4e03bca",
+    "dn": "Alice In Chains - Dirt",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7439a7afdf1cdd9544bca4ccbcc342a3b4e03bca",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        116,
+        57,
+        167,
+        175,
+        223,
+        28,
+        221,
+        149,
+        68,
+        188,
+        164,
+        204,
+        188,
+        195,
+        66,
+        163,
+        180,
+        224,
+        59,
+        202
+      ]
+    },
+    "name": "Alice In Chains - Dirt",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 8,
+  "last_updated": "2016-12-25T04:47:59.574Z"
+}

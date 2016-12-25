@@ -1,1 +1,63 @@
-{"title":"Mirrors Edge Catalyst-CPY","uid":15964342,"size":25959441,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:737ddcffb73b9bd00c0bd94b08d08bd307b15395&amp;dn=Mirrors+Edge+Catalyst-CPY&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":86,"leechers":60,"uploader":"trwetwr","files":4,"time":1475707620,"description":"Good Game","torrent":{"xt":"urn:btih:737ddcffb73b9bd00c0bd94b08d08bd307b15395","amp;dn":"Mirrors+Edge+Catalyst-CPY","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"737ddcffb73b9bd00c0bd94b08d08bd307b15395","infoHashBuffer":{"type":"Buffer","data":[115,125,220,255,183,59,155,208,12,11,217,75,8,208,139,211,7,177,83,149]},"announce":[],"urlList":[]}}
+{
+  "title": "Mirrors Edge Catalyst-CPY",
+  "uid": 15964342,
+  "size": 25959441,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:737ddcffb73b9bd00c0bd94b08d08bd307b15395&amp;dn=Mirrors+Edge+Catalyst-CPY&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 86,
+  "leechers": 60,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475707620,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:737ddcffb73b9bd00c0bd94b08d08bd307b15395",
+    "dn": "Mirrors Edge Catalyst-CPY",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "737ddcffb73b9bd00c0bd94b08d08bd307b15395",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        115,
+        125,
+        220,
+        255,
+        183,
+        59,
+        155,
+        208,
+        12,
+        11,
+        217,
+        75,
+        8,
+        208,
+        139,
+        211,
+        7,
+        177,
+        83,
+        149
+      ]
+    },
+    "name": "Mirrors Edge Catalyst-CPY",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 146,
+  "peers": 2,
+  "last_updated": "2016-12-25T04:43:20.683Z"
+}

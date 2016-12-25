@@ -1,1 +1,61 @@
-{"title":"The.Square.[Al-Midan].2013.720p","uid":9495548,"size":1230152975,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:73586c11eefc24281f524f3bbc31015d8c1f455c&amp;dn=The.Square.%5BAl-Midan%5D.2013.720p&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":3,"uploader":"sadelanwar","files":2,"time":1390095288,"description":"A group of Egyptian revolutionaries battle leaders and regimes, risking their lives to build a new society of conscience.\n\nTitle: The Square\nYear: 2013\nIMDB: http://www.imdb.com/title/tt2486682/?ref_=nv_sr_1\nCast:\nKhalid Abdalla\t ...\tHimself\nDina Abdullah\t\t\nDina Amer\t \t\t\nMagdy Ashour\t ...\tHimself - Revolutionary\nSherif Boray\t\t\nAida Elkashef\t ...\tHerself - Revolutionary\nRamy Essam\t ...\tHimself - Revolutionary\nAhmed Hassan\t ...\tHimself - Revolutionary\nBothania Kamel\t\t\nKhaled Nagy\t\t\nRagia Omran\t ...\tHerself - Legal Advocate\nSalma Saied\t\t\nAhmed Saleh\t\t\nAlaa Seif\t\t\nPierre Seyoufr\t\t\nRamy Shaath","torrent":{"xt":"urn:btih:73586c11eefc24281f524f3bbc31015d8c1f455c","amp;dn":"The.Square.%5BAl-Midan%5D.2013.720p","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"73586c11eefc24281f524f3bbc31015d8c1f455c","infoHashBuffer":{"type":"Buffer","data":[115,88,108,17,238,252,36,40,31,82,79,59,188,49,1,93,140,31,69,92]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Square.[Al-Midan].2013.720p",
+  "uid": 9495548,
+  "size": 1230152975,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:73586c11eefc24281f524f3bbc31015d8c1f455c&amp;dn=The.Square.%5BAl-Midan%5D.2013.720p&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 3,
+  "uploader": "sadelanwar",
+  "files": 2,
+  "time": 1390095288,
+  "description": "A group of Egyptian revolutionaries battle leaders and regimes, risking their lives to build a new society of conscience.\n\nTitle: The Square\nYear: 2013\nIMDB: http://www.imdb.com/title/tt2486682/?ref_=nv_sr_1\nCast:\nKhalid Abdalla\t ...\tHimself\nDina Abdullah\t\t\nDina Amer\t \t\t\nMagdy Ashour\t ...\tHimself - Revolutionary\nSherif Boray\t\t\nAida Elkashef\t ...\tHerself - Revolutionary\nRamy Essam\t ...\tHimself - Revolutionary\nAhmed Hassan\t ...\tHimself - Revolutionary\nBothania Kamel\t\t\nKhaled Nagy\t\t\nRagia Omran\t ...\tHerself - Legal Advocate\nSalma Saied\t\t\nAhmed Saleh\t\t\nAlaa Seif\t\t\nPierre Seyoufr\t\t\nRamy Shaath",
+  "parsed": {
+    "xt": "urn:btih:73586c11eefc24281f524f3bbc31015d8c1f455c",
+    "dn": "The.Square.[Al-Midan].2013.720p",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "73586c11eefc24281f524f3bbc31015d8c1f455c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        115,
+        88,
+        108,
+        17,
+        238,
+        252,
+        36,
+        40,
+        31,
+        82,
+        79,
+        59,
+        188,
+        49,
+        1,
+        93,
+        140,
+        31,
+        69,
+        92
+      ]
+    },
+    "name": "The.Square.[Al-Midan].2013.720p",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 9,
+  "last_updated": "2016-12-25T04:42:32.480Z"
+}

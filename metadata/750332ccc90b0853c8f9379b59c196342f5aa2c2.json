@@ -1,1 +1,61 @@
-{"title":"Iggy Azalea - Trouble Ft. Jennifer Hudson (2015)","uid":11686675,"size":6767308,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:750332ccc90b0853c8f9379b59c196342f5aa2c2&amp;dn=Iggy+Azalea+-+Trouble+Ft.+Jennifer+Hudson+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":107,"leechers":15,"uploader":"sergelover","files":1,"time":1423343419,"description":"&quot;Trouble&quot; is a song by Australian rapper Iggy Azalea featuring American recording artist Jennifer Hudson, taken from the former's reissue of her debut studio album, Reclassified (2014). \n\nIn December 2014, Azalea revealed the track would be the second promotional track off the reissue, although no specific date for the single to be released digitally or serviced to radios has been announced so far.\n\nThe song was produced by The Invisible Men and Salt Wives.\n\n2:46, 2014, mp3, 320 kbps","torrent":{"xt":"urn:btih:750332ccc90b0853c8f9379b59c196342f5aa2c2","amp;dn":"Iggy+Azalea+-+Trouble+Ft.+Jennifer+Hudson+%282015%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"750332ccc90b0853c8f9379b59c196342f5aa2c2","infoHashBuffer":{"type":"Buffer","data":[117,3,50,204,201,11,8,83,200,249,55,155,89,193,150,52,47,90,162,194]},"announce":[],"urlList":[]}}
+{
+  "title": "Iggy Azalea - Trouble Ft. Jennifer Hudson (2015)",
+  "uid": 11686675,
+  "size": 6767308,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:750332ccc90b0853c8f9379b59c196342f5aa2c2&amp;dn=Iggy+Azalea+-+Trouble+Ft.+Jennifer+Hudson+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 107,
+  "leechers": 15,
+  "uploader": "sergelover",
+  "files": 1,
+  "time": 1423343419,
+  "description": "&quot;Trouble&quot; is a song by Australian rapper Iggy Azalea featuring American recording artist Jennifer Hudson, taken from the former's reissue of her debut studio album, Reclassified (2014). \n\nIn December 2014, Azalea revealed the track would be the second promotional track off the reissue, although no specific date for the single to be released digitally or serviced to radios has been announced so far.\n\nThe song was produced by The Invisible Men and Salt Wives.\n\n2:46, 2014, mp3, 320 kbps",
+  "parsed": {
+    "xt": "urn:btih:750332ccc90b0853c8f9379b59c196342f5aa2c2",
+    "dn": "Iggy Azalea - Trouble Ft. Jennifer Hudson (2015)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "750332ccc90b0853c8f9379b59c196342f5aa2c2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        117,
+        3,
+        50,
+        204,
+        201,
+        11,
+        8,
+        83,
+        200,
+        249,
+        55,
+        155,
+        89,
+        193,
+        150,
+        52,
+        47,
+        90,
+        162,
+        194
+      ]
+    },
+    "name": "Iggy Azalea - Trouble Ft. Jennifer Hudson (2015)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 122,
+  "peers": 32,
+  "last_updated": "2016-12-25T04:53:32.522Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Arcade Fire - Funeral","uid":3596842,"size":74810081,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:749eff1111e76313f5162a6907c02b1998019833&amp;dn=Arcade+Fire+-+Funeral&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":1,"uploader":"s.shelley","files":10,"time":1168915379,"description":"Their First Album...","torrent":{"xt":"urn:btih:749eff1111e76313f5162a6907c02b1998019833","amp;dn":"Arcade+Fire+-+Funeral","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"749eff1111e76313f5162a6907c02b1998019833","infoHashBuffer":{"type":"Buffer","data":[116,158,255,17,17,231,99,19,245,22,42,105,7,192,43,25,152,1,152,51]},"announce":[],"urlList":[]}}
+{
+  "title": "Arcade Fire - Funeral",
+  "uid": 3596842,
+  "size": 74810081,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:749eff1111e76313f5162a6907c02b1998019833&amp;dn=Arcade+Fire+-+Funeral&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 1,
+  "uploader": "s.shelley",
+  "files": 10,
+  "time": 1168915379,
+  "description": "Their First Album...",
+  "parsed": {
+    "xt": "urn:btih:749eff1111e76313f5162a6907c02b1998019833",
+    "dn": "Arcade Fire - Funeral",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "749eff1111e76313f5162a6907c02b1998019833",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        116,
+        158,
+        255,
+        17,
+        17,
+        231,
+        99,
+        19,
+        245,
+        22,
+        42,
+        105,
+        7,
+        192,
+        43,
+        25,
+        152,
+        1,
+        152,
+        51
+      ]
+    },
+    "name": "Arcade Fire - Funeral",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 6,
+  "last_updated": "2016-12-25T04:50:44.049Z"
+}

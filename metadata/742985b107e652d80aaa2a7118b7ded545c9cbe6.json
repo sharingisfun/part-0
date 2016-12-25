@@ -1,1 +1,63 @@
-{"title":"Gmail Account Hacker v2.2","uid":15964005,"size":9402315,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:742985b107e652d80aaa2a7118b7ded545c9cbe6&amp;dn=Gmail+Account+Hacker+v2.2&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":185,"leechers":34,"uploader":"faropbtf","files":3,"time":1475703953,"description":"Gmail Account Hacker v2.2","torrent":{"xt":"urn:btih:742985b107e652d80aaa2a7118b7ded545c9cbe6","amp;dn":"Gmail+Account+Hacker+v2.2","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"742985b107e652d80aaa2a7118b7ded545c9cbe6","infoHashBuffer":{"type":"Buffer","data":[116,41,133,177,7,230,82,216,10,170,42,113,24,183,222,213,69,201,203,230]},"announce":[],"urlList":[]}}
+{
+  "title": "Gmail Account Hacker v2.2",
+  "uid": 15964005,
+  "size": 9402315,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:742985b107e652d80aaa2a7118b7ded545c9cbe6&amp;dn=Gmail+Account+Hacker+v2.2&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 185,
+  "leechers": 34,
+  "uploader": "faropbtf",
+  "files": 3,
+  "time": 1475703953,
+  "description": "Gmail Account Hacker v2.2",
+  "parsed": {
+    "xt": "urn:btih:742985b107e652d80aaa2a7118b7ded545c9cbe6",
+    "dn": "Gmail Account Hacker v2.2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "742985b107e652d80aaa2a7118b7ded545c9cbe6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        116,
+        41,
+        133,
+        177,
+        7,
+        230,
+        82,
+        216,
+        10,
+        170,
+        42,
+        113,
+        24,
+        183,
+        222,
+        213,
+        69,
+        201,
+        203,
+        230
+      ]
+    },
+    "name": "Gmail Account Hacker v2.2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 219,
+  "peers": 2,
+  "last_updated": "2016-12-25T04:47:31.483Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Virtual Audio Cable v4.13-AiR [deepstatus]","uid":9664981,"size":539971,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:74bc02344ec863d4cd9d5f942c1a0c3ae513746d&amp;dn=Virtual+Audio+Cable+v4.13-AiR+%5Bdeepstatus%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":180,"leechers":3,"uploader":"deepstatus","files":-1,"time":1393361508,"description":"              Virtual Audio Cable v4.13\n\n\n\n\n\n\nVirtual Audio Cable software allows you to transfer audio (wave) streams between applications and/or devices. It creates a set of virtual audio devices named &quot;Virtual Cables&quot;, each of them consists of a pair of the waveform input/output devices. Any application can send audio stream to an output side of a cable, and any other application can receive this stream from an input side. All transfers are made digitally, providing NO sound quality loss (a bitperfect streaming).\n\nVAC behavior is similar to &quot;What You Hear&quot; (or &quot;What U Hear&quot;, &quot;Stereo Mix&quot;) feature of Sound Blaster Live! and Audigy cards. But it is only similar, not equivalent. If you simply need a function like &quot;Stereo Mix&quot; under Vista/Win7/Win8, there could be better to try to enable it in your audio adapter.\n\nIf more than one applications are sending audio to Virtual Cable device, VAC mixes all streams together. If more than one applications are receiving audio from Virtual Cable device, VAC distributes the same audio data among all targets.\n\nVAC is useful to record application's audio output in real time (audio player, instant messenger or software synthesizer), or transfer a sound stream to another application processing it. You can, for example, use two or more software audio players/generators/synthesizers/sequencers to produce audio streams, sending them to Virtual Cablet device and record a mixed stream from the same Virtual Cable device, using any recording software - Windows Sound Recorder, Audacity, Sound Forge, WaveLab, Adobe Audition (formerly Cool Edit Pro), Gold Wave, Cakewalk/Sonar, Cubase/Nuendo etc.\n\nWith an ASIO wrapper like ASIO4ALL from Michael Tippach, you can use VAC in ASIO supporting applications.\n\nIf you use an audio encoder application that encodes a stream coming from a sound card, you can use VAC to supply such encoder with a stream produced by other application.\n\nYou can use VAC to capture an output sound stream from the application that doesn't allow to write it into WAV file directly. Unlike Total Recorder allowing you to simply save audio stream, VAC allows to route it in real time.\n\nIf you are using some Voice Over IP (VoIP) and/or Internet Telephony applications like Skype, you can use VAC to record your calls and conversations.\n\nVAC needs no hardware audio card; it is a &quot;virtual audio card&quot; itself.\n\n\n\nVersion 4.13 (23.07.13)\n\n- Fixed a bug preventing stream buffer watermark parameters from being loaded on restart.\n- Fixed bugs causing integer divide overflows in Audio Repeater (both MME and KS versions).\n- Added a workaround for PortCls bug causing BSOD (bugchecks 0x50 or 0xD6) in GetMaxMapRegisters function if Driver Verifier with the special pool is used for VAC driver verification.\n- Added peak signal level indicators to Control Panel.\n- Changed signal level indication in Audio Repeater from average to peak.\n- Fixed stream position timestamp error if PortCls is not used (occurred in Open Broadcaster Software).\n- Added a feature to control playback pin type (speaker or line out).\n- Fixed sleep/hibernate problems.\n- Added master volume control.\n\n\nRequirements\n\n\n   Win 5.1..6.2 (Windows XP/2003/Vista/Server 2008/Win7/Win8 )\n   platforms, 32-bit and 64-bit.\n   Any hardware suitable for a host OS.\n   A native hardware or a fully virtualized environment\n   (VMware Server/Workstation, VirtualBox, VirtualPC etc.).\n   With partial virtualization (VPS, Virtuozzo etc.), only host OS installation is possible (see VAC user manual for details).\n\n\n\nsee more @ http://software.muzychenko.net/eng/vac.htm\n\n\n\n\n\n\nInstallation\n\n        UnZip and Install\n\n\n\n\n\n          Ã¢â‚¬Â¢  That's it! Done.\n\n                            Ã¢â‚¬Â¢  Supp0rt th3 D3v3lop3r if you liK3 it.\n\n                        3Nj0Y!!!","torrent":{"xt":"urn:btih:74bc02344ec863d4cd9d5f942c1a0c3ae513746d","amp;dn":"Virtual+Audio+Cable+v4.13-AiR+%5Bdeepstatus%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"74bc02344ec863d4cd9d5f942c1a0c3ae513746d","infoHashBuffer":{"type":"Buffer","data":[116,188,2,52,78,200,99,212,205,157,95,148,44,26,12,58,229,19,116,109]},"announce":[],"urlList":[]}}
+{
+  "title": "Virtual Audio Cable v4.13-AiR [deepstatus]",
+  "uid": 9664981,
+  "size": 539971,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:74bc02344ec863d4cd9d5f942c1a0c3ae513746d&amp;dn=Virtual+Audio+Cable+v4.13-AiR+%5Bdeepstatus%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 180,
+  "leechers": 3,
+  "uploader": "deepstatus",
+  "files": -1,
+  "time": 1393361508,
+  "description": "              Virtual Audio Cable v4.13\n\n\n\n\n\n\nVirtual Audio Cable software allows you to transfer audio (wave) streams between applications and/or devices. It creates a set of virtual audio devices named &quot;Virtual Cables&quot;, each of them consists of a pair of the waveform input/output devices. Any application can send audio stream to an output side of a cable, and any other application can receive this stream from an input side. All transfers are made digitally, providing NO sound quality loss (a bitperfect streaming).\n\nVAC behavior is similar to &quot;What You Hear&quot; (or &quot;What U Hear&quot;, &quot;Stereo Mix&quot;) feature of Sound Blaster Live! and Audigy cards. But it is only similar, not equivalent. If you simply need a function like &quot;Stereo Mix&quot; under Vista/Win7/Win8, there could be better to try to enable it in your audio adapter.\n\nIf more than one applications are sending audio to Virtual Cable device, VAC mixes all streams together. If more than one applications are receiving audio from Virtual Cable device, VAC distributes the same audio data among all targets.\n\nVAC is useful to record application's audio output in real time (audio player, instant messenger or software synthesizer), or transfer a sound stream to another application processing it. You can, for example, use two or more software audio players/generators/synthesizers/sequencers to produce audio streams, sending them to Virtual Cablet device and record a mixed stream from the same Virtual Cable device, using any recording software - Windows Sound Recorder, Audacity, Sound Forge, WaveLab, Adobe Audition (formerly Cool Edit Pro), Gold Wave, Cakewalk/Sonar, Cubase/Nuendo etc.\n\nWith an ASIO wrapper like ASIO4ALL from Michael Tippach, you can use VAC in ASIO supporting applications.\n\nIf you use an audio encoder application that encodes a stream coming from a sound card, you can use VAC to supply such encoder with a stream produced by other application.\n\nYou can use VAC to capture an output sound stream from the application that doesn't allow to write it into WAV file directly. Unlike Total Recorder allowing you to simply save audio stream, VAC allows to route it in real time.\n\nIf you are using some Voice Over IP (VoIP) and/or Internet Telephony applications like Skype, you can use VAC to record your calls and conversations.\n\nVAC needs no hardware audio card; it is a &quot;virtual audio card&quot; itself.\n\n\n\nVersion 4.13 (23.07.13)\n\n- Fixed a bug preventing stream buffer watermark parameters from being loaded on restart.\n- Fixed bugs causing integer divide overflows in Audio Repeater (both MME and KS versions).\n- Added a workaround for PortCls bug causing BSOD (bugchecks 0x50 or 0xD6) in GetMaxMapRegisters function if Driver Verifier with the special pool is used for VAC driver verification.\n- Added peak signal level indicators to Control Panel.\n- Changed signal level indication in Audio Repeater from average to peak.\n- Fixed stream position timestamp error if PortCls is not used (occurred in Open Broadcaster Software).\n- Added a feature to control playback pin type (speaker or line out).\n- Fixed sleep/hibernate problems.\n- Added master volume control.\n\n\nRequirements\n\n\n   Win 5.1..6.2 (Windows XP/2003/Vista/Server 2008/Win7/Win8 )\n   platforms, 32-bit and 64-bit.\n   Any hardware suitable for a host OS.\n   A native hardware or a fully virtualized environment\n   (VMware Server/Workstation, VirtualBox, VirtualPC etc.).\n   With partial virtualization (VPS, Virtuozzo etc.), only host OS installation is possible (see VAC user manual for details).\n\n\n\nsee more @ http://software.muzychenko.net/eng/vac.htm\n\n\n\n\n\n\nInstallation\n\n        UnZip and Install\n\n\n\n\n\n          Ã¢â‚¬Â¢  That's it! Done.\n\n                            Ã¢â‚¬Â¢  Supp0rt th3 D3v3lop3r if you liK3 it.\n\n                        3Nj0Y!!!",
+  "parsed": {
+    "xt": "urn:btih:74bc02344ec863d4cd9d5f942c1a0c3ae513746d",
+    "dn": "Virtual Audio Cable v4.13-AiR [deepstatus]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "74bc02344ec863d4cd9d5f942c1a0c3ae513746d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        116,
+        188,
+        2,
+        52,
+        78,
+        200,
+        99,
+        212,
+        205,
+        157,
+        95,
+        148,
+        44,
+        26,
+        12,
+        58,
+        229,
+        19,
+        116,
+        109
+      ]
+    },
+    "name": "Virtual Audio Cable v4.13-AiR [deepstatus]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 183,
+  "peers": 138,
+  "last_updated": "2016-12-25T04:51:26.169Z"
+}
