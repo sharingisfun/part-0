@@ -1,1 +1,61 @@
-{"title":"Under the Dome S02E06 HDTV x264-LOL[ettv]","uid":10698929,"size":228227387,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f3320fdf5cf1d64dabe1c38a19e654a5bd027f5f&amp;dn=Under+the+Dome+S02E06+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":99,"leechers":5,"uploader":"ettv","files":2,"time":1407203934,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:f3320fdf5cf1d64dabe1c38a19e654a5bd027f5f","amp;dn":"Under+the+Dome+S02E06+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f3320fdf5cf1d64dabe1c38a19e654a5bd027f5f","infoHashBuffer":{"type":"Buffer","data":[243,50,15,223,92,241,214,77,171,225,195,138,25,230,84,165,189,2,127,95]},"announce":[],"urlList":[]}}
+{
+  "title": "Under the Dome S02E06 HDTV x264-LOL[ettv]",
+  "uid": 10698929,
+  "size": 228227387,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f3320fdf5cf1d64dabe1c38a19e654a5bd027f5f&amp;dn=Under+the+Dome+S02E06+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 99,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1407203934,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:f3320fdf5cf1d64dabe1c38a19e654a5bd027f5f",
+    "dn": "Under the Dome S02E06 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f3320fdf5cf1d64dabe1c38a19e654a5bd027f5f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        243,
+        50,
+        15,
+        223,
+        92,
+        241,
+        214,
+        77,
+        171,
+        225,
+        195,
+        138,
+        25,
+        230,
+        84,
+        165,
+        189,
+        2,
+        127,
+        95
+      ]
+    },
+    "name": "Under the Dome S02E06 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 104,
+  "peers": 1,
+  "last_updated": "2016-12-25T18:00:30.200Z"
+}

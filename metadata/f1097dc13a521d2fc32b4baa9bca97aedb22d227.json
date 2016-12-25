@@ -1,1 +1,61 @@
-{"title":"iPhone 5 A1428 (GSM) iOS 7 Beta 1","uid":8562218,"size":1202203532,"categoryP":"applications","categoryS":"ios_(ipad_iphone)","magnet":"?xt=urn:btih:f1097dc13a521d2fc32b4baa9bca97aedb22d227&amp;dn=iPhone+5+A1428+%28GSM%29+iOS+7+Beta+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":0,"uploader":"OmarNajdi","files":2,"time":1370913525,"description":"NOTE : YOU NEED TO ACTIVATE YOUR UDID FIRST.","torrent":{"xt":"urn:btih:f1097dc13a521d2fc32b4baa9bca97aedb22d227","amp;dn":"iPhone+5+A1428+%28GSM%29+iOS+7+Beta+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f1097dc13a521d2fc32b4baa9bca97aedb22d227","infoHashBuffer":{"type":"Buffer","data":[241,9,125,193,58,82,29,47,195,43,75,170,155,202,151,174,219,34,210,39]},"announce":[],"urlList":[]}}
+{
+  "title": "iPhone 5 A1428 (GSM) iOS 7 Beta 1",
+  "uid": 8562218,
+  "size": 1202203532,
+  "categoryP": "applications",
+  "categoryS": "ios_(ipad_iphone)",
+  "magnet": "?xt=urn:btih:f1097dc13a521d2fc32b4baa9bca97aedb22d227&amp;dn=iPhone+5+A1428+%28GSM%29+iOS+7+Beta+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 0,
+  "uploader": "OmarNajdi",
+  "files": 2,
+  "time": 1370913525,
+  "description": "NOTE : YOU NEED TO ACTIVATE YOUR UDID FIRST.",
+  "parsed": {
+    "xt": "urn:btih:f1097dc13a521d2fc32b4baa9bca97aedb22d227",
+    "dn": "iPhone 5 A1428 (GSM) iOS 7 Beta 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f1097dc13a521d2fc32b4baa9bca97aedb22d227",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        241,
+        9,
+        125,
+        193,
+        58,
+        82,
+        29,
+        47,
+        195,
+        43,
+        75,
+        170,
+        155,
+        202,
+        151,
+        174,
+        219,
+        34,
+        210,
+        39
+      ]
+    },
+    "name": "iPhone 5 A1428 (GSM) iOS 7 Beta 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 14,
+  "last_updated": "2016-12-25T17:48:22.079Z"
+}

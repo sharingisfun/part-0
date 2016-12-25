@@ -1,1 +1,61 @@
-{"title":"The Americans 2013 S02E01 HDTV x264-2HD[ettv]","uid":9671999,"size":303477813,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f1dc96987843b4baed73c92d6c9923e5d5fef6a4&amp;dn=The+Americans+2013+S02E01+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":1,"uploader":"ettv","files":2,"time":1393477825,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:f1dc96987843b4baed73c92d6c9923e5d5fef6a4","amp;dn":"The+Americans+2013+S02E01+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f1dc96987843b4baed73c92d6c9923e5d5fef6a4","infoHashBuffer":{"type":"Buffer","data":[241,220,150,152,120,67,180,186,237,115,201,45,108,153,35,229,213,254,246,164]},"announce":[],"urlList":[]}}
+{
+  "title": "The Americans 2013 S02E01 HDTV x264-2HD[ettv]",
+  "uid": 9671999,
+  "size": 303477813,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f1dc96987843b4baed73c92d6c9923e5d5fef6a4&amp;dn=The+Americans+2013+S02E01+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1393477825,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:f1dc96987843b4baed73c92d6c9923e5d5fef6a4",
+    "dn": "The Americans 2013 S02E01 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f1dc96987843b4baed73c92d6c9923e5d5fef6a4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        241,
+        220,
+        150,
+        152,
+        120,
+        67,
+        180,
+        186,
+        237,
+        115,
+        201,
+        45,
+        108,
+        153,
+        35,
+        229,
+        213,
+        254,
+        246,
+        164
+      ]
+    },
+    "name": "The Americans 2013 S02E01 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 22,
+  "last_updated": "2016-12-25T17:52:58.882Z"
+}

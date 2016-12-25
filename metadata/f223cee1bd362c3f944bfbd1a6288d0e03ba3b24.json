@@ -1,1 +1,61 @@
-{"title":"(PC GAMES)  Empire Earth (Full Game).zip","uid":3822398,"size":350441291,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:f223cee1bd362c3f944bfbd1a6288d0e03ba3b24&amp;dn=%28PC+GAMES%29++Empire+Earth+%28Full+Game%29.zip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":126,"leechers":3,"uploader":"Myne1978","files":1,"time":1190989591,"description":"Strategy / multiplayer.\n\nIf you like Warcraft or Civiliation, you will like this game...\n","torrent":{"xt":"urn:btih:f223cee1bd362c3f944bfbd1a6288d0e03ba3b24","amp;dn":"%28PC+GAMES%29++Empire+Earth+%28Full+Game%29.zip","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f223cee1bd362c3f944bfbd1a6288d0e03ba3b24","infoHashBuffer":{"type":"Buffer","data":[242,35,206,225,189,54,44,63,148,75,251,209,166,40,141,14,3,186,59,36]},"announce":[],"urlList":[]}}
+{
+  "title": "(PC GAMES)  Empire Earth (Full Game).zip",
+  "uid": 3822398,
+  "size": 350441291,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:f223cee1bd362c3f944bfbd1a6288d0e03ba3b24&amp;dn=%28PC+GAMES%29++Empire+Earth+%28Full+Game%29.zip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 126,
+  "leechers": 3,
+  "uploader": "Myne1978",
+  "files": 1,
+  "time": 1190989591,
+  "description": "Strategy / multiplayer.\n\nIf you like Warcraft or Civiliation, you will like this game...\n",
+  "parsed": {
+    "xt": "urn:btih:f223cee1bd362c3f944bfbd1a6288d0e03ba3b24",
+    "dn": "(PC GAMES)  Empire Earth (Full Game).zip",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f223cee1bd362c3f944bfbd1a6288d0e03ba3b24",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        242,
+        35,
+        206,
+        225,
+        189,
+        54,
+        44,
+        63,
+        148,
+        75,
+        251,
+        209,
+        166,
+        40,
+        141,
+        14,
+        3,
+        186,
+        59,
+        36
+      ]
+    },
+    "name": "(PC GAMES)  Empire Earth (Full Game).zip",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 129,
+  "peers": 132,
+  "last_updated": "2016-12-25T17:54:29.152Z"
+}

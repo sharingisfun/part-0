@@ -1,1 +1,61 @@
-{"title":"New Girl S04E06 HDTV x264-KILLERS[ettv]","uid":11376803,"size":187497380,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f3913a123d03864fe8a59557088d6c7396ca19cc&amp;dn=New+Girl+S04E06+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":1,"uploader":"ettv","files":2,"time":1415158381,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:f3913a123d03864fe8a59557088d6c7396ca19cc","amp;dn":"New+Girl+S04E06+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f3913a123d03864fe8a59557088d6c7396ca19cc","infoHashBuffer":{"type":"Buffer","data":[243,145,58,18,61,3,134,79,232,165,149,87,8,141,108,115,150,202,25,204]},"announce":[],"urlList":[]}}
+{
+  "title": "New Girl S04E06 HDTV x264-KILLERS[ettv]",
+  "uid": 11376803,
+  "size": 187497380,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f3913a123d03864fe8a59557088d6c7396ca19cc&amp;dn=New+Girl+S04E06+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1415158381,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:f3913a123d03864fe8a59557088d6c7396ca19cc",
+    "dn": "New Girl S04E06 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f3913a123d03864fe8a59557088d6c7396ca19cc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        243,
+        145,
+        58,
+        18,
+        61,
+        3,
+        134,
+        79,
+        232,
+        165,
+        149,
+        87,
+        8,
+        141,
+        108,
+        115,
+        150,
+        202,
+        25,
+        204
+      ]
+    },
+    "name": "New Girl S04E06 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 5,
+  "last_updated": "2016-12-25T18:02:16.737Z"
+}

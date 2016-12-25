@@ -1,1 +1,61 @@
-{"title":"The_Walking_Dead_131_(2014)_(Digital)_(Zone-Empire).cbr","uid":11011267,"size":44470634,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:f0fa881716be915a3da601a115fda6da686e8f23&amp;dn=The_Walking_Dead_131_%282014%29_%28Digital%29_%28Zone-Empire%29.cbr&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":0,"uploader":"nemesis43","files":1,"time":1410363699,"description":"The_Walking_Dead_131_(2014)_(Digital)_(Zone-Empire) ","torrent":{"xt":"urn:btih:f0fa881716be915a3da601a115fda6da686e8f23","amp;dn":"The_Walking_Dead_131_%282014%29_%28Digital%29_%28Zone-Empire%29.cbr","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f0fa881716be915a3da601a115fda6da686e8f23","infoHashBuffer":{"type":"Buffer","data":[240,250,136,23,22,190,145,90,61,166,1,161,21,253,166,218,104,110,143,35]},"announce":[],"urlList":[]}}
+{
+  "title": "The_Walking_Dead_131_(2014)_(Digital)_(Zone-Empire).cbr",
+  "uid": 11011267,
+  "size": 44470634,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:f0fa881716be915a3da601a115fda6da686e8f23&amp;dn=The_Walking_Dead_131_%282014%29_%28Digital%29_%28Zone-Empire%29.cbr&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 0,
+  "uploader": "nemesis43",
+  "files": 1,
+  "time": 1410363699,
+  "description": "The_Walking_Dead_131_(2014)_(Digital)_(Zone-Empire) ",
+  "parsed": {
+    "xt": "urn:btih:f0fa881716be915a3da601a115fda6da686e8f23",
+    "dn": "The_Walking_Dead_131_(2014)_(Digital)_(Zone-Empire).cbr",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f0fa881716be915a3da601a115fda6da686e8f23",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        240,
+        250,
+        136,
+        23,
+        22,
+        190,
+        145,
+        90,
+        61,
+        166,
+        1,
+        161,
+        21,
+        253,
+        166,
+        218,
+        104,
+        110,
+        143,
+        35
+      ]
+    },
+    "name": "The_Walking_Dead_131_(2014)_(Digital)_(Zone-Empire).cbr",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 0,
+  "last_updated": "2016-12-25T17:47:55.994Z"
+}

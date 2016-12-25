@@ -1,1 +1,61 @@
-{"title":"Phil Collins - In The Air Tonight","uid":7357315,"size":6719865,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:f393b701c994c163d4af5b7ccce02796d67c12f5&amp;dn=Phil+Collins+-+In+The+Air+Tonight&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":2,"uploader":"Tuffnut","files":1,"time":1339812323,"description":"Phil Collins - In The Air Tonight\n\n\nArtist: Phil Collins\nAlbum: Hits\nGenre: Rock\nYear: 1998\nBitrate: 320 Kbps\n\nPlease continue seeding the torrent.\n\nDon't forget to leave your feedback.\n\nCheck out my uploads for more music.\n","torrent":{"xt":"urn:btih:f393b701c994c163d4af5b7ccce02796d67c12f5","amp;dn":"Phil+Collins+-+In+The+Air+Tonight","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f393b701c994c163d4af5b7ccce02796d67c12f5","infoHashBuffer":{"type":"Buffer","data":[243,147,183,1,201,148,193,99,212,175,91,124,204,224,39,150,214,124,18,245]},"announce":[],"urlList":[]}}
+{
+  "title": "Phil Collins - In The Air Tonight",
+  "uid": 7357315,
+  "size": 6719865,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:f393b701c994c163d4af5b7ccce02796d67c12f5&amp;dn=Phil+Collins+-+In+The+Air+Tonight&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 2,
+  "uploader": "Tuffnut",
+  "files": 1,
+  "time": 1339812323,
+  "description": "Phil Collins - In The Air Tonight\n\n\nArtist: Phil Collins\nAlbum: Hits\nGenre: Rock\nYear: 1998\nBitrate: 320 Kbps\n\nPlease continue seeding the torrent.\n\nDon't forget to leave your feedback.\n\nCheck out my uploads for more music.\n",
+  "parsed": {
+    "xt": "urn:btih:f393b701c994c163d4af5b7ccce02796d67c12f5",
+    "dn": "Phil Collins - In The Air Tonight",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f393b701c994c163d4af5b7ccce02796d67c12f5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        243,
+        147,
+        183,
+        1,
+        201,
+        148,
+        193,
+        99,
+        212,
+        175,
+        91,
+        124,
+        204,
+        224,
+        39,
+        150,
+        214,
+        124,
+        18,
+        245
+      ]
+    },
+    "name": "Phil Collins - In The Air Tonight",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 116,
+  "last_updated": "2016-12-25T18:02:24.762Z"
+}

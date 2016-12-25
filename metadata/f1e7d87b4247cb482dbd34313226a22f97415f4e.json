@@ -1,1 +1,61 @@
-{"title":"Suits S03E15 HDTV x264-KILLERS[ettv]","uid":9885531,"size":259073866,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f1e7d87b4247cb482dbd34313226a22f97415f4e&amp;dn=Suits+S03E15+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":127,"leechers":4,"uploader":"ettv","files":2,"time":1396584588,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:f1e7d87b4247cb482dbd34313226a22f97415f4e","amp;dn":"Suits+S03E15+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f1e7d87b4247cb482dbd34313226a22f97415f4e","infoHashBuffer":{"type":"Buffer","data":[241,231,216,123,66,71,203,72,45,189,52,49,50,38,162,47,151,65,95,78]},"announce":[],"urlList":[]}}
+{
+  "title": "Suits S03E15 HDTV x264-KILLERS[ettv]",
+  "uid": 9885531,
+  "size": 259073866,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f1e7d87b4247cb482dbd34313226a22f97415f4e&amp;dn=Suits+S03E15+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 127,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1396584588,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:f1e7d87b4247cb482dbd34313226a22f97415f4e",
+    "dn": "Suits S03E15 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f1e7d87b4247cb482dbd34313226a22f97415f4e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        241,
+        231,
+        216,
+        123,
+        66,
+        71,
+        203,
+        72,
+        45,
+        189,
+        52,
+        49,
+        50,
+        38,
+        162,
+        47,
+        151,
+        65,
+        95,
+        78
+      ]
+    },
+    "name": "Suits S03E15 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 131,
+  "peers": 42,
+  "last_updated": "2016-12-25T17:53:20.945Z"
+}

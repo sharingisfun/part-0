@@ -1,1 +1,63 @@
-{"title":"Pitch.S01E04.HDTV.x264-FLEET","uid":16030723,"size":307905257,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f322ee2e4fb519630c9e2524b81ffe9fbf9328fd&amp;dn=Pitch.S01E04.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":151,"leechers":79,"uploader":"TvTeam","files":5,"time":1476418328,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:f322ee2e4fb519630c9e2524b81ffe9fbf9328fd","amp;dn":"Pitch.S01E04.HDTV.x264-FLEET","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f322ee2e4fb519630c9e2524b81ffe9fbf9328fd","infoHashBuffer":{"type":"Buffer","data":[243,34,238,46,79,181,25,99,12,158,37,36,184,31,254,159,191,147,40,253]},"announce":[],"urlList":[]}}
+{
+  "title": "Pitch.S01E04.HDTV.x264-FLEET",
+  "uid": 16030723,
+  "size": 307905257,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f322ee2e4fb519630c9e2524b81ffe9fbf9328fd&amp;dn=Pitch.S01E04.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 151,
+  "leechers": 79,
+  "uploader": "TvTeam",
+  "files": 5,
+  "time": 1476418328,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:f322ee2e4fb519630c9e2524b81ffe9fbf9328fd",
+    "dn": "Pitch.S01E04.HDTV.x264-FLEET",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "f322ee2e4fb519630c9e2524b81ffe9fbf9328fd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        243,
+        34,
+        238,
+        46,
+        79,
+        181,
+        25,
+        99,
+        12,
+        158,
+        37,
+        36,
+        184,
+        31,
+        254,
+        159,
+        191,
+        147,
+        40,
+        253
+      ]
+    },
+    "name": "Pitch.S01E04.HDTV.x264-FLEET",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 230,
+  "peers": 0,
+  "last_updated": "2016-12-25T18:00:10.143Z"
+}

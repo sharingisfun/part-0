@@ -1,1 +1,63 @@
-{"title":"Hearts of Iron IV v1.2.0","uid":15849485,"size":1154227360,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:f352a7ac3eb77ec722fda2eac17df4589ab46e6f&amp;dn=Hearts+of+Iron+IV+v1.2.0&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":116,"leechers":11,"uploader":"dauphong","files":1,"time":1474147933,"description":"Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.\r\nFrom the heart of the battlefield to the command center, you will guide your nation to glory and wage war, negotiate or invade. You hold the power to tip the very balance of WWII.\r\nIt is time to show your ability as the greatest military leader in the world. Will you relive or change history? Will you change the fate of the world by achieving victory at all costs?","torrent":{"xt":"urn:btih:f352a7ac3eb77ec722fda2eac17df4589ab46e6f","amp;dn":"Hearts+of+Iron+IV+v1.2.0","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f352a7ac3eb77ec722fda2eac17df4589ab46e6f","infoHashBuffer":{"type":"Buffer","data":[243,82,167,172,62,183,126,199,34,253,162,234,193,125,244,88,154,180,110,111]},"announce":[],"urlList":[]}}
+{
+  "title": "Hearts of Iron IV v1.2.0",
+  "uid": 15849485,
+  "size": 1154227360,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:f352a7ac3eb77ec722fda2eac17df4589ab46e6f&amp;dn=Hearts+of+Iron+IV+v1.2.0&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 116,
+  "leechers": 11,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1474147933,
+  "description": "Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history.\r\nFrom the heart of the battlefield to the command center, you will guide your nation to glory and wage war, negotiate or invade. You hold the power to tip the very balance of WWII.\r\nIt is time to show your ability as the greatest military leader in the world. Will you relive or change history? Will you change the fate of the world by achieving victory at all costs?",
+  "parsed": {
+    "xt": "urn:btih:f352a7ac3eb77ec722fda2eac17df4589ab46e6f",
+    "dn": "Hearts of Iron IV v1.2.0",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "f352a7ac3eb77ec722fda2eac17df4589ab46e6f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        243,
+        82,
+        167,
+        172,
+        62,
+        183,
+        126,
+        199,
+        34,
+        253,
+        162,
+        234,
+        193,
+        125,
+        244,
+        88,
+        154,
+        180,
+        110,
+        111
+      ]
+    },
+    "name": "Hearts of Iron IV v1.2.0",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 127,
+  "peers": 402,
+  "last_updated": "2016-12-25T18:00:50.255Z"
+}

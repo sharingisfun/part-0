@@ -1,1 +1,61 @@
-{"title":"Kanye West-808's &amp; Heartbreak","uid":4762865,"size":125441093,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:f2f9b7d27f006bd56b78515acff10fd0cfabe305&amp;dn=Kanye+West-808%5C%27s+%26+Heartbreak&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":1,"uploader":"kingspade303","files":16,"time":1236761535,"description":"Kanye West-808's &amp; Heartbreak\n\nSay You Will\nWelcome To Heartbreak\nHeartless\nAmazing\nLove Lockdown\nParanoid\nRoboCop\nStreet Lights\nBad News\nSee You In My Nightmares\nColdest Winter\nPinocchio Story [Hidden Track]\n\n\nAll are MP3 format please seed","torrent":{"xt":"urn:btih:f2f9b7d27f006bd56b78515acff10fd0cfabe305","amp;dn":"Kanye+West-808%5C%27s+%26+Heartbreak","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f2f9b7d27f006bd56b78515acff10fd0cfabe305","infoHashBuffer":{"type":"Buffer","data":[242,249,183,210,127,0,107,213,107,120,81,90,207,241,15,208,207,171,227,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Kanye West-808's &amp; Heartbreak",
+  "uid": 4762865,
+  "size": 125441093,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:f2f9b7d27f006bd56b78515acff10fd0cfabe305&amp;dn=Kanye+West-808%5C%27s+%26+Heartbreak&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 1,
+  "uploader": "kingspade303",
+  "files": 16,
+  "time": 1236761535,
+  "description": "Kanye West-808's &amp; Heartbreak\n\nSay You Will\nWelcome To Heartbreak\nHeartless\nAmazing\nLove Lockdown\nParanoid\nRoboCop\nStreet Lights\nBad News\nSee You In My Nightmares\nColdest Winter\nPinocchio Story [Hidden Track]\n\n\nAll are MP3 format please seed",
+  "parsed": {
+    "xt": "urn:btih:f2f9b7d27f006bd56b78515acff10fd0cfabe305",
+    "dn": "Kanye West-808\\'s & Heartbreak",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f2f9b7d27f006bd56b78515acff10fd0cfabe305",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        242,
+        249,
+        183,
+        210,
+        127,
+        0,
+        107,
+        213,
+        107,
+        120,
+        81,
+        90,
+        207,
+        241,
+        15,
+        208,
+        207,
+        171,
+        227,
+        5
+      ]
+    },
+    "name": "Kanye West-808\\'s & Heartbreak",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 15,
+  "last_updated": "2016-12-25T17:59:09.977Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Suits S03E01 HDTV x264-EVOLVE[ettv]","uid":8699901,"size":314385913,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f290a2219270fa5ded2661e48935e39f628063d9&amp;dn=Suits+S03E01+HDTV+x264-EVOLVE%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":90,"leechers":4,"uploader":"ettv","files":2,"time":1374038271,"description":"x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n","torrent":{"xt":"urn:btih:f290a2219270fa5ded2661e48935e39f628063d9","amp;dn":"Suits+S03E01+HDTV+x264-EVOLVE%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f290a2219270fa5ded2661e48935e39f628063d9","infoHashBuffer":{"type":"Buffer","data":[242,144,162,33,146,112,250,93,237,38,97,228,137,53,227,159,98,128,99,217]},"announce":[],"urlList":[]}}
+{
+  "title": "Suits S03E01 HDTV x264-EVOLVE[ettv]",
+  "uid": 8699901,
+  "size": 314385913,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f290a2219270fa5ded2661e48935e39f628063d9&amp;dn=Suits+S03E01+HDTV+x264-EVOLVE%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 90,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1374038271,
+  "description": "x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n",
+  "parsed": {
+    "xt": "urn:btih:f290a2219270fa5ded2661e48935e39f628063d9",
+    "dn": "Suits S03E01 HDTV x264-EVOLVE[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f290a2219270fa5ded2661e48935e39f628063d9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        242,
+        144,
+        162,
+        33,
+        146,
+        112,
+        250,
+        93,
+        237,
+        38,
+        97,
+        228,
+        137,
+        53,
+        227,
+        159,
+        98,
+        128,
+        99,
+        217
+      ]
+    },
+    "name": "Suits S03E01 HDTV x264-EVOLVE[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 94,
+  "peers": 33,
+  "last_updated": "2016-12-25T17:56:35.524Z"
+}

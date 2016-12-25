@@ -1,1 +1,61 @@
-{"title":"Gravity (HDRip) (EliteTorrent.net).avi","uid":9611968,"size":1611911168,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:f0dbf37461b0c0dac07e55f457de343893015684&amp;dn=Gravity+%28HDRip%29+%28EliteTorrent.net%29.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":205,"leechers":4,"uploader":"srcookies","files":1,"time":1392336838,"description":"Durante un paseo espacial fuera de su nave reparando un satÃƒÂ©lite, dos astronautas sufren un grave accidente y quedan flotando en el espacio. Una es la doctora Ryan Stone, una brillante ingeniera que estÃƒÂ¡ en su primera misiÃƒÂ³n espacial. Su acompaÃƒÂ±ante es el veterano astronauta Matt Kowalsky. La misiÃƒÂ³n exterior parecÃƒÂ­a rutinaria, pero una lluvia de basura espacial les alcanza y ocurre el desastre: el satÃƒÂ©lite y parte de la nave quedan destrozados, dejando a Ryan y Matt completamente solos, momento a partir del cual intentarÃƒÂ¡n por todos los medios buscar una soluciÃƒÂ³n para volver a la Tierra.","torrent":{"xt":"urn:btih:f0dbf37461b0c0dac07e55f457de343893015684","amp;dn":"Gravity+%28HDRip%29+%28EliteTorrent.net%29.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f0dbf37461b0c0dac07e55f457de343893015684","infoHashBuffer":{"type":"Buffer","data":[240,219,243,116,97,176,192,218,192,126,85,244,87,222,52,56,147,1,86,132]},"announce":[],"urlList":[]}}
+{
+  "title": "Gravity (HDRip) (EliteTorrent.net).avi",
+  "uid": 9611968,
+  "size": 1611911168,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:f0dbf37461b0c0dac07e55f457de343893015684&amp;dn=Gravity+%28HDRip%29+%28EliteTorrent.net%29.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 205,
+  "leechers": 4,
+  "uploader": "srcookies",
+  "files": 1,
+  "time": 1392336838,
+  "description": "Durante un paseo espacial fuera de su nave reparando un satÃƒÂ©lite, dos astronautas sufren un grave accidente y quedan flotando en el espacio. Una es la doctora Ryan Stone, una brillante ingeniera que estÃƒÂ¡ en su primera misiÃƒÂ³n espacial. Su acompaÃƒÂ±ante es el veterano astronauta Matt Kowalsky. La misiÃƒÂ³n exterior parecÃƒÂ­a rutinaria, pero una lluvia de basura espacial les alcanza y ocurre el desastre: el satÃƒÂ©lite y parte de la nave quedan destrozados, dejando a Ryan y Matt completamente solos, momento a partir del cual intentarÃƒÂ¡n por todos los medios buscar una soluciÃƒÂ³n para volver a la Tierra.",
+  "parsed": {
+    "xt": "urn:btih:f0dbf37461b0c0dac07e55f457de343893015684",
+    "dn": "Gravity (HDRip) (EliteTorrent.net).avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f0dbf37461b0c0dac07e55f457de343893015684",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        240,
+        219,
+        243,
+        116,
+        97,
+        176,
+        192,
+        218,
+        192,
+        126,
+        85,
+        244,
+        87,
+        222,
+        52,
+        56,
+        147,
+        1,
+        86,
+        132
+      ]
+    },
+    "name": "Gravity (HDRip) (EliteTorrent.net).avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 209,
+  "peers": 148,
+  "last_updated": "2016-12-25T17:47:09.863Z"
+}

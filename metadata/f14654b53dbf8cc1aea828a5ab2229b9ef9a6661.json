@@ -1,1 +1,61 @@
-{"title":"Windows XP Pro SP2 (32-Bit) bootable ISO image","uid":8014305,"size":607248785,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:f14654b53dbf8cc1aea828a5ab2229b9ef9a6661&amp;dn=Windows+XP+Pro+SP2+%2832-Bit%29+bootable+ISO+image&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":104,"leechers":3,"uploader":"km11","files":3,"time":1358074624,"description":"Windows XP Pro SP2 (32-Bit) bootable ISO image.","torrent":{"xt":"urn:btih:f14654b53dbf8cc1aea828a5ab2229b9ef9a6661","amp;dn":"Windows+XP+Pro+SP2+%2832-Bit%29+bootable+ISO+image","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f14654b53dbf8cc1aea828a5ab2229b9ef9a6661","infoHashBuffer":{"type":"Buffer","data":[241,70,84,181,61,191,140,193,174,168,40,165,171,34,41,185,239,154,102,97]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows XP Pro SP2 (32-Bit) bootable ISO image",
+  "uid": 8014305,
+  "size": 607248785,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:f14654b53dbf8cc1aea828a5ab2229b9ef9a6661&amp;dn=Windows+XP+Pro+SP2+%2832-Bit%29+bootable+ISO+image&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 104,
+  "leechers": 3,
+  "uploader": "km11",
+  "files": 3,
+  "time": 1358074624,
+  "description": "Windows XP Pro SP2 (32-Bit) bootable ISO image.",
+  "parsed": {
+    "xt": "urn:btih:f14654b53dbf8cc1aea828a5ab2229b9ef9a6661",
+    "dn": "Windows XP Pro SP2 (32-Bit) bootable ISO image",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f14654b53dbf8cc1aea828a5ab2229b9ef9a6661",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        241,
+        70,
+        84,
+        181,
+        61,
+        191,
+        140,
+        193,
+        174,
+        168,
+        40,
+        165,
+        171,
+        34,
+        41,
+        185,
+        239,
+        154,
+        102,
+        97
+      ]
+    },
+    "name": "Windows XP Pro SP2 (32-Bit) bootable ISO image",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 107,
+  "peers": 50,
+  "last_updated": "2016-12-25T17:50:02.371Z"
+}

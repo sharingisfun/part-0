@@ -1,1 +1,61 @@
-{"title":"Sampha - Dual {2013-EP}","uid":8754848,"size":41007317,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:f18afcfc19769cfcfda4357e525d3a89f389601c&amp;dn=Sampha+-+Dual+%7B2013-EP%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":"[mR12]","files":-1,"time":1375123464,"description":"Sampha - Dual {2013-EP}","torrent":{"xt":"urn:btih:f18afcfc19769cfcfda4357e525d3a89f389601c","amp;dn":"Sampha+-+Dual+%7B2013-EP%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f18afcfc19769cfcfda4357e525d3a89f389601c","infoHashBuffer":{"type":"Buffer","data":[241,138,252,252,25,118,156,252,253,164,53,126,82,93,58,137,243,137,96,28]},"announce":[],"urlList":[]}}
+{
+  "title": "Sampha - Dual {2013-EP}",
+  "uid": 8754848,
+  "size": 41007317,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:f18afcfc19769cfcfda4357e525d3a89f389601c&amp;dn=Sampha+-+Dual+%7B2013-EP%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": "[mR12]",
+  "files": -1,
+  "time": 1375123464,
+  "description": "Sampha - Dual {2013-EP}",
+  "parsed": {
+    "xt": "urn:btih:f18afcfc19769cfcfda4357e525d3a89f389601c",
+    "dn": "Sampha - Dual {2013-EP}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f18afcfc19769cfcfda4357e525d3a89f389601c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        241,
+        138,
+        252,
+        252,
+        25,
+        118,
+        156,
+        252,
+        253,
+        164,
+        53,
+        126,
+        82,
+        93,
+        58,
+        137,
+        243,
+        137,
+        96,
+        28
+      ]
+    },
+    "name": "Sampha - Dual {2013-EP}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 18,
+  "last_updated": "2016-12-25T17:51:40.661Z"
+}

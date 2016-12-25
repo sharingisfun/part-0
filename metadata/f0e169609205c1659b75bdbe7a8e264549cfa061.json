@@ -1,1 +1,61 @@
-{"title":"Sia - Elastic Heart feat. (The Weeknd &amp; Diplo) OST [The Hung","uid":8992860,"size":4153472,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:f0e169609205c1659b75bdbe7a8e264549cfa061&amp;dn=Sia+-+Elastic+Heart+feat.+%28The+Weeknd+%26amp%3B+Diplo%29+OST+%5BThe+Hung&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":273,"leechers":4,"uploader":"caprio4us","files":1,"time":1380832353,"description":"Enjoy! caprio4us","torrent":{"xt":"urn:btih:f0e169609205c1659b75bdbe7a8e264549cfa061","amp;dn":"Sia+-+Elastic+Heart+feat.+%28The+Weeknd+%26amp%3B+Diplo%29+OST+%5BThe+Hung","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f0e169609205c1659b75bdbe7a8e264549cfa061","infoHashBuffer":{"type":"Buffer","data":[240,225,105,96,146,5,193,101,155,117,189,190,122,142,38,69,73,207,160,97]},"announce":[],"urlList":[]}}
+{
+  "title": "Sia - Elastic Heart feat. (The Weeknd &amp; Diplo) OST [The Hung",
+  "uid": 8992860,
+  "size": 4153472,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:f0e169609205c1659b75bdbe7a8e264549cfa061&amp;dn=Sia+-+Elastic+Heart+feat.+%28The+Weeknd+%26amp%3B+Diplo%29+OST+%5BThe+Hung&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 273,
+  "leechers": 4,
+  "uploader": "caprio4us",
+  "files": 1,
+  "time": 1380832353,
+  "description": "Enjoy! caprio4us",
+  "parsed": {
+    "xt": "urn:btih:f0e169609205c1659b75bdbe7a8e264549cfa061",
+    "dn": "Sia - Elastic Heart feat. (The Weeknd &amp; Diplo) OST [The Hung",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f0e169609205c1659b75bdbe7a8e264549cfa061",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        240,
+        225,
+        105,
+        96,
+        146,
+        5,
+        193,
+        101,
+        155,
+        117,
+        189,
+        190,
+        122,
+        142,
+        38,
+        69,
+        73,
+        207,
+        160,
+        97
+      ]
+    },
+    "name": "Sia - Elastic Heart feat. (The Weeknd &amp; Diplo) OST [The Hung",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 277,
+  "peers": 1,
+  "last_updated": "2016-12-25T17:47:19.891Z"
+}

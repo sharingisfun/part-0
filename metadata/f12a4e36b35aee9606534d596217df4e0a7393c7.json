@@ -1,1 +1,61 @@
-{"title":"MXGP-RELOADED","uid":9843114,"size":3410832342,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:f12a4e36b35aee9606534d596217df4e0a7393c7&amp;dn=MXGP-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":189,"leechers":11,"uploader":"Drarbg","files":3,"time":1396024991,"description":"MXGP-RELOADED\n","torrent":{"xt":"urn:btih:f12a4e36b35aee9606534d596217df4e0a7393c7","amp;dn":"MXGP-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f12a4e36b35aee9606534d596217df4e0a7393c7","infoHashBuffer":{"type":"Buffer","data":[241,42,78,54,179,90,238,150,6,83,77,89,98,23,223,78,10,115,147,199]},"announce":[],"urlList":[]}}
+{
+  "title": "MXGP-RELOADED",
+  "uid": 9843114,
+  "size": 3410832342,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:f12a4e36b35aee9606534d596217df4e0a7393c7&amp;dn=MXGP-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 189,
+  "leechers": 11,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1396024991,
+  "description": "MXGP-RELOADED\n",
+  "parsed": {
+    "xt": "urn:btih:f12a4e36b35aee9606534d596217df4e0a7393c7",
+    "dn": "MXGP-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f12a4e36b35aee9606534d596217df4e0a7393c7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        241,
+        42,
+        78,
+        54,
+        179,
+        90,
+        238,
+        150,
+        6,
+        83,
+        77,
+        89,
+        98,
+        23,
+        223,
+        78,
+        10,
+        115,
+        147,
+        199
+      ]
+    },
+    "name": "MXGP-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 200,
+  "peers": 34,
+  "last_updated": "2016-12-25T17:49:32.282Z"
+}

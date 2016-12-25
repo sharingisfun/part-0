@@ -1,1 +1,61 @@
-{"title":"Humans.S01E06.HDTV.x264-RiVER[ettv]","uid":12141435,"size":297556278,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f12882b0309d1354ecde51d9b34e4444737cfe65&amp;dn=Humans.S01E06.HDTV.x264-RiVER%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":137,"leechers":17,"uploader":"ettv","files":3,"time":1437353379,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                     &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:f12882b0309d1354ecde51d9b34e4444737cfe65","amp;dn":"Humans.S01E06.HDTV.x264-RiVER%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f12882b0309d1354ecde51d9b34e4444737cfe65","infoHashBuffer":{"type":"Buffer","data":[241,40,130,176,48,157,19,84,236,222,81,217,179,78,68,68,115,124,254,101]},"announce":[],"urlList":[]}}
+{
+  "title": "Humans.S01E06.HDTV.x264-RiVER[ettv]",
+  "uid": 12141435,
+  "size": 297556278,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f12882b0309d1354ecde51d9b34e4444737cfe65&amp;dn=Humans.S01E06.HDTV.x264-RiVER%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 137,
+  "leechers": 17,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1437353379,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                     &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:f12882b0309d1354ecde51d9b34e4444737cfe65",
+    "dn": "Humans.S01E06.HDTV.x264-RiVER[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f12882b0309d1354ecde51d9b34e4444737cfe65",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        241,
+        40,
+        130,
+        176,
+        48,
+        157,
+        19,
+        84,
+        236,
+        222,
+        81,
+        217,
+        179,
+        78,
+        68,
+        68,
+        115,
+        124,
+        254,
+        101
+      ]
+    },
+    "name": "Humans.S01E06.HDTV.x264-RiVER[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 154,
+  "peers": 30,
+  "last_updated": "2016-12-25T17:49:30.277Z"
+}

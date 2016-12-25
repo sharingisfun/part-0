@@ -1,1 +1,61 @@
-{"title":"Traducao + Narracao Silvio Luiz PES 2014","uid":8993231,"size":353102253,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:f22a0c948f4058dad9a58066c41723f4a14466dc&amp;dn=Traducao+%2B+Narracao+Silvio+Luiz+PES+2014&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":88,"leechers":1,"uploader":"lordbraga","files":1,"time":1380838782,"description":"Traducao + Narracao Silvio Luiz PES 2014","torrent":{"xt":"urn:btih:f22a0c948f4058dad9a58066c41723f4a14466dc","amp;dn":"Traducao+%2B+Narracao+Silvio+Luiz+PES+2014","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f22a0c948f4058dad9a58066c41723f4a14466dc","infoHashBuffer":{"type":"Buffer","data":[242,42,12,148,143,64,88,218,217,165,128,102,196,23,35,244,161,68,102,220]},"announce":[],"urlList":[]}}
+{
+  "title": "Traducao + Narracao Silvio Luiz PES 2014",
+  "uid": 8993231,
+  "size": 353102253,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:f22a0c948f4058dad9a58066c41723f4a14466dc&amp;dn=Traducao+%2B+Narracao+Silvio+Luiz+PES+2014&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 88,
+  "leechers": 1,
+  "uploader": "lordbraga",
+  "files": 1,
+  "time": 1380838782,
+  "description": "Traducao + Narracao Silvio Luiz PES 2014",
+  "parsed": {
+    "xt": "urn:btih:f22a0c948f4058dad9a58066c41723f4a14466dc",
+    "dn": "Traducao   Narracao Silvio Luiz PES 2014",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f22a0c948f4058dad9a58066c41723f4a14466dc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        242,
+        42,
+        12,
+        148,
+        143,
+        64,
+        88,
+        218,
+        217,
+        165,
+        128,
+        102,
+        196,
+        23,
+        35,
+        244,
+        161,
+        68,
+        102,
+        220
+      ]
+    },
+    "name": "Traducao   Narracao Silvio Luiz PES 2014",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 89,
+  "peers": 51,
+  "last_updated": "2016-12-25T17:54:39.180Z"
+}

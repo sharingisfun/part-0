@@ -1,1 +1,61 @@
-{"title":"Ty Segall - Manipulator (2014) @320kbps","uid":10839143,"size":135213877,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:f0e8fa17dc914ceabe4e91dbb08a444333bc2905&amp;dn=Ty+Segall+-+Manipulator+%282014%29+%40320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":2,"uploader":"guyr","files":-1,"time":1408725538,"description":"Album:        Manipulator\nArtist:       Ty Segall\nRelease Date: 26/08/2014\n320 kbps\n\nTrack list:\n\n01 Manipulator\n02 Tall Man, Skinny Lady\n03 The Singer\n04 It's Over\n05 Feel\n06 The Faker\n07 The Clock\n08 Green Belly\n09 Connection Man\n10 Mister Main\n11 The Hand\n12 Susie Thumb\n13 Don't You Want To Know? (Sue)\n14 The Crawler\n15 Who's Producing You?\n16 The Feels\n17 Stick Around","torrent":{"xt":"urn:btih:f0e8fa17dc914ceabe4e91dbb08a444333bc2905","amp;dn":"Ty+Segall+-+Manipulator+%282014%29+%40320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f0e8fa17dc914ceabe4e91dbb08a444333bc2905","infoHashBuffer":{"type":"Buffer","data":[240,232,250,23,220,145,76,234,190,78,145,219,176,138,68,67,51,188,41,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Ty Segall - Manipulator (2014) @320kbps",
+  "uid": 10839143,
+  "size": 135213877,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:f0e8fa17dc914ceabe4e91dbb08a444333bc2905&amp;dn=Ty+Segall+-+Manipulator+%282014%29+%40320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 2,
+  "uploader": "guyr",
+  "files": -1,
+  "time": 1408725538,
+  "description": "Album:        Manipulator\nArtist:       Ty Segall\nRelease Date: 26/08/2014\n320 kbps\n\nTrack list:\n\n01 Manipulator\n02 Tall Man, Skinny Lady\n03 The Singer\n04 It's Over\n05 Feel\n06 The Faker\n07 The Clock\n08 Green Belly\n09 Connection Man\n10 Mister Main\n11 The Hand\n12 Susie Thumb\n13 Don't You Want To Know? (Sue)\n14 The Crawler\n15 Who's Producing You?\n16 The Feels\n17 Stick Around",
+  "parsed": {
+    "xt": "urn:btih:f0e8fa17dc914ceabe4e91dbb08a444333bc2905",
+    "dn": "Ty Segall - Manipulator (2014) @320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f0e8fa17dc914ceabe4e91dbb08a444333bc2905",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        240,
+        232,
+        250,
+        23,
+        220,
+        145,
+        76,
+        234,
+        190,
+        78,
+        145,
+        219,
+        176,
+        138,
+        68,
+        67,
+        51,
+        188,
+        41,
+        5
+      ]
+    },
+    "name": "Ty Segall - Manipulator (2014) @320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 57,
+  "last_updated": "2016-12-25T17:47:33.933Z"
+}
