@@ -1,1 +1,61 @@
-{"title":"Chicago PD S02E02 HDTV x264-LOL[ettv]","uid":11144286,"size":339208815,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:5c83aaa708ae71ab5a87624ef0c174375bd237df&amp;dn=Chicago+PD+S02E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":3,"uploader":"ettv","files":2,"time":1412222318,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:5c83aaa708ae71ab5a87624ef0c174375bd237df","amp;dn":"Chicago+PD+S02E02+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5c83aaa708ae71ab5a87624ef0c174375bd237df","infoHashBuffer":{"type":"Buffer","data":[92,131,170,167,8,174,113,171,90,135,98,78,240,193,116,55,91,210,55,223]},"announce":[],"urlList":[]}}
+{
+  "title": "Chicago PD S02E02 HDTV x264-LOL[ettv]",
+  "uid": 11144286,
+  "size": 339208815,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:5c83aaa708ae71ab5a87624ef0c174375bd237df&amp;dn=Chicago+PD+S02E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1412222318,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:5c83aaa708ae71ab5a87624ef0c174375bd237df",
+    "dn": "Chicago PD S02E02 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5c83aaa708ae71ab5a87624ef0c174375bd237df",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        92,
+        131,
+        170,
+        167,
+        8,
+        174,
+        113,
+        171,
+        90,
+        135,
+        98,
+        78,
+        240,
+        193,
+        116,
+        55,
+        91,
+        210,
+        55,
+        223
+      ]
+    },
+    "name": "Chicago PD S02E02 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 21,
+  "last_updated": "2016-12-25T02:14:46.058Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Watch The Throne [Deluxe Version] - [iTunes] - The Throne [Kanye","uid":6591185,"size":164572629,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:5c110121e9e6907f6d517d66a53b9043928a9976&amp;dn=Watch+The+Throne+%5BDeluxe+Version%5D+-+%5BiTunes%5D+-+The+Throne+%5BKanye&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":104,"leechers":2,"uploader":"1stnlast","files":16,"time":1312832079,"description":"iTunes [DELUXE Version] \nWatch The Throne by The Throne [Kanye West &amp; Jay-Z] \nAugust 8, 2011 - Release Date \n46:02 - Length \n# of tracks - 16 \n\n\n\n\n","torrent":{"xt":"urn:btih:5c110121e9e6907f6d517d66a53b9043928a9976","amp;dn":"Watch+The+Throne+%5BDeluxe+Version%5D+-+%5BiTunes%5D+-+The+Throne+%5BKanye","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5c110121e9e6907f6d517d66a53b9043928a9976","infoHashBuffer":{"type":"Buffer","data":[92,17,1,33,233,230,144,127,109,81,125,102,165,59,144,67,146,138,153,118]},"announce":[],"urlList":[]}}
+{
+  "title": "Watch The Throne [Deluxe Version] - [iTunes] - The Throne [Kanye",
+  "uid": 6591185,
+  "size": 164572629,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:5c110121e9e6907f6d517d66a53b9043928a9976&amp;dn=Watch+The+Throne+%5BDeluxe+Version%5D+-+%5BiTunes%5D+-+The+Throne+%5BKanye&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 104,
+  "leechers": 2,
+  "uploader": "1stnlast",
+  "files": 16,
+  "time": 1312832079,
+  "description": "iTunes [DELUXE Version] \nWatch The Throne by The Throne [Kanye West &amp; Jay-Z] \nAugust 8, 2011 - Release Date \n46:02 - Length \n# of tracks - 16 \n\n\n\n\n",
+  "parsed": {
+    "xt": "urn:btih:5c110121e9e6907f6d517d66a53b9043928a9976",
+    "dn": "Watch The Throne [Deluxe Version] - [iTunes] - The Throne [Kanye",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5c110121e9e6907f6d517d66a53b9043928a9976",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        92,
+        17,
+        1,
+        33,
+        233,
+        230,
+        144,
+        127,
+        109,
+        81,
+        125,
+        102,
+        165,
+        59,
+        144,
+        67,
+        146,
+        138,
+        153,
+        118
+      ]
+    },
+    "name": "Watch The Throne [Deluxe Version] - [iTunes] - The Throne [Kanye",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 106,
+  "peers": 37,
+  "last_updated": "2016-12-25T02:11:09.320Z"
+}

@@ -1,1 +1,61 @@
-{"title":"[Classical Music] The Best Of (Vivaldi, Bethovenn, Mozart, Strau","uid":7369955,"size":248075892,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:5cc8fe91e68d13d104c19336482353b1faece9ac&amp;dn=%5BClassical+Music%5D+The+Best+Of+%28Vivaldi%2C+Bethovenn%2C+Mozart%2C+Strau&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":91,"leechers":4,"uploader":"Sapop","files":30,"time":1340205648,"description":"Kopimist &quot;Sapop&quot;Ã‚Â© \n\n                &quot;LusÃƒÂ³fonos&quot;\n\n                                 Copy and Seed\n\n                                                         Quero ficar magnÃƒÂ©tico\n              \n                                                                                             &quot;Thx&quot;","torrent":{"xt":"urn:btih:5cc8fe91e68d13d104c19336482353b1faece9ac","amp;dn":"%5BClassical+Music%5D+The+Best+Of+%28Vivaldi%2C+Bethovenn%2C+Mozart%2C+Strau","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5cc8fe91e68d13d104c19336482353b1faece9ac","infoHashBuffer":{"type":"Buffer","data":[92,200,254,145,230,141,19,209,4,193,147,54,72,35,83,177,250,236,233,172]},"announce":[],"urlList":[]}}
+{
+  "title": "[Classical Music] The Best Of (Vivaldi, Bethovenn, Mozart, Strau",
+  "uid": 7369955,
+  "size": 248075892,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:5cc8fe91e68d13d104c19336482353b1faece9ac&amp;dn=%5BClassical+Music%5D+The+Best+Of+%28Vivaldi%2C+Bethovenn%2C+Mozart%2C+Strau&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 91,
+  "leechers": 4,
+  "uploader": "Sapop",
+  "files": 30,
+  "time": 1340205648,
+  "description": "Kopimist &quot;Sapop&quot;Ã‚Â© \n\n                &quot;LusÃƒÂ³fonos&quot;\n\n                                 Copy and Seed\n\n                                                         Quero ficar magnÃƒÂ©tico\n              \n                                                                                             &quot;Thx&quot;",
+  "parsed": {
+    "xt": "urn:btih:5cc8fe91e68d13d104c19336482353b1faece9ac",
+    "dn": "[Classical Music] The Best Of (Vivaldi, Bethovenn, Mozart, Strau",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5cc8fe91e68d13d104c19336482353b1faece9ac",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        92,
+        200,
+        254,
+        145,
+        230,
+        141,
+        19,
+        209,
+        4,
+        193,
+        147,
+        54,
+        72,
+        35,
+        83,
+        177,
+        250,
+        236,
+        233,
+        172
+      ]
+    },
+    "name": "[Classical Music] The Best Of (Vivaldi, Bethovenn, Mozart, Strau",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 95,
+  "peers": 152,
+  "last_updated": "2016-12-25T02:16:52.472Z"
+}

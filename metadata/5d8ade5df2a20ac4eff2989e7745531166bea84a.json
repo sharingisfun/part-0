@@ -1,1 +1,61 @@
-{"title":"Native.Instruments.Kontakt.5.v5.3.0.UNLOCKED.Update-R2R","uid":9429941,"size":559564502,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:5d8ade5df2a20ac4eff2989e7745531166bea84a&amp;dn=Native.Instruments.Kontakt.5.v5.3.0.UNLOCKED.Update-R2R&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":2,"uploader":"elitistinen","files":-1,"time":1388777445,"description":"File from R2R.\n\nRequested by those of you who don't trust cyberlocker link. And there are WEBSEED, but please SEED for the sake of other.\n\nContain in a Zip. A readme and the install folder.\n\n- Unzip.\n- Install this over your current Kontakt version (must have an old Kontakt version installed).\n- Have fun.\n\nThe image are example of the working one for me.","torrent":{"xt":"urn:btih:5d8ade5df2a20ac4eff2989e7745531166bea84a","amp;dn":"Native.Instruments.Kontakt.5.v5.3.0.UNLOCKED.Update-R2R","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5d8ade5df2a20ac4eff2989e7745531166bea84a","infoHashBuffer":{"type":"Buffer","data":[93,138,222,93,242,162,10,196,239,242,152,158,119,69,83,17,102,190,168,74]},"announce":[],"urlList":[]}}
+{
+  "title": "Native.Instruments.Kontakt.5.v5.3.0.UNLOCKED.Update-R2R",
+  "uid": 9429941,
+  "size": 559564502,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:5d8ade5df2a20ac4eff2989e7745531166bea84a&amp;dn=Native.Instruments.Kontakt.5.v5.3.0.UNLOCKED.Update-R2R&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 2,
+  "uploader": "elitistinen",
+  "files": -1,
+  "time": 1388777445,
+  "description": "File from R2R.\n\nRequested by those of you who don't trust cyberlocker link. And there are WEBSEED, but please SEED for the sake of other.\n\nContain in a Zip. A readme and the install folder.\n\n- Unzip.\n- Install this over your current Kontakt version (must have an old Kontakt version installed).\n- Have fun.\n\nThe image are example of the working one for me.",
+  "parsed": {
+    "xt": "urn:btih:5d8ade5df2a20ac4eff2989e7745531166bea84a",
+    "dn": "Native.Instruments.Kontakt.5.v5.3.0.UNLOCKED.Update-R2R",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5d8ade5df2a20ac4eff2989e7745531166bea84a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        93,
+        138,
+        222,
+        93,
+        242,
+        162,
+        10,
+        196,
+        239,
+        242,
+        152,
+        158,
+        119,
+        69,
+        83,
+        17,
+        102,
+        190,
+        168,
+        74
+      ]
+    },
+    "name": "Native.Instruments.Kontakt.5.v5.3.0.UNLOCKED.Update-R2R",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 13,
+  "last_updated": "2016-12-25T02:21:37.454Z"
+}

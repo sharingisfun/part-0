@@ -1,1 +1,61 @@
-{"title":"Call.of.Duty.Advanced.Warfare-CODEX","uid":11355745,"size":48533275413,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:5d3a13487a60923c14b6ceba0c36d59586256e62&amp;dn=Call.of.Duty.Advanced.Warfare-CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":255,"leechers":160,"uploader":"Drarbg","files":3,"time":1414938794,"description":" &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nCall.of.Duty.Advanced.Warfare-CODEX","torrent":{"xt":"urn:btih:5d3a13487a60923c14b6ceba0c36d59586256e62","amp;dn":"Call.of.Duty.Advanced.Warfare-CODEX","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5d3a13487a60923c14b6ceba0c36d59586256e62","infoHashBuffer":{"type":"Buffer","data":[93,58,19,72,122,96,146,60,20,182,206,186,12,54,213,149,134,37,110,98]},"announce":[],"urlList":[]}}
+{
+  "title": "Call.of.Duty.Advanced.Warfare-CODEX",
+  "uid": 11355745,
+  "size": 48533275413,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:5d3a13487a60923c14b6ceba0c36d59586256e62&amp;dn=Call.of.Duty.Advanced.Warfare-CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 255,
+  "leechers": 160,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1414938794,
+  "description": " &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nCall.of.Duty.Advanced.Warfare-CODEX",
+  "parsed": {
+    "xt": "urn:btih:5d3a13487a60923c14b6ceba0c36d59586256e62",
+    "dn": "Call.of.Duty.Advanced.Warfare-CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5d3a13487a60923c14b6ceba0c36d59586256e62",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        93,
+        58,
+        19,
+        72,
+        122,
+        96,
+        146,
+        60,
+        20,
+        182,
+        206,
+        186,
+        12,
+        54,
+        213,
+        149,
+        134,
+        37,
+        110,
+        98
+      ]
+    },
+    "name": "Call.of.Duty.Advanced.Warfare-CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 415,
+  "peers": 16,
+  "last_updated": "2016-12-25T02:19:43.042Z"
+}

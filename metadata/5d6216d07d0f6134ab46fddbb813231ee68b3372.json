@@ -1,1 +1,61 @@
-{"title":"La que se avecina S08E05","uid":11561044,"size":1071377315,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:5d6216d07d0f6134ab46fddbb813231ee68b3372&amp;dn=La+que+se+avecina+S08E05&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":16,"uploader":"Zeckart","files":3,"time":1416881938,"description":"La que se avecina S08E05","torrent":{"xt":"urn:btih:5d6216d07d0f6134ab46fddbb813231ee68b3372","amp;dn":"La+que+se+avecina+S08E05","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5d6216d07d0f6134ab46fddbb813231ee68b3372","infoHashBuffer":{"type":"Buffer","data":[93,98,22,208,125,15,97,52,171,70,253,219,184,19,35,30,230,139,51,114]},"announce":[],"urlList":[]}}
+{
+  "title": "La que se avecina S08E05",
+  "uid": 11561044,
+  "size": 1071377315,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:5d6216d07d0f6134ab46fddbb813231ee68b3372&amp;dn=La+que+se+avecina+S08E05&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 16,
+  "uploader": "Zeckart",
+  "files": 3,
+  "time": 1416881938,
+  "description": "La que se avecina S08E05",
+  "parsed": {
+    "xt": "urn:btih:5d6216d07d0f6134ab46fddbb813231ee68b3372",
+    "dn": "La que se avecina S08E05",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5d6216d07d0f6134ab46fddbb813231ee68b3372",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        93,
+        98,
+        22,
+        208,
+        125,
+        15,
+        97,
+        52,
+        171,
+        70,
+        253,
+        219,
+        184,
+        19,
+        35,
+        30,
+        230,
+        139,
+        51,
+        114
+      ]
+    },
+    "name": "La que se avecina S08E05",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 72,
+  "peers": 26,
+  "last_updated": "2016-12-25T02:20:37.248Z"
+}

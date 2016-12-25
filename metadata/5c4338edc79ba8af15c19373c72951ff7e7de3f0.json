@@ -1,1 +1,61 @@
-{"title":"UFC.168.Weidman.vs.Silva.II.28th.Dec.2013.HDTV.x264-Sir.Paul","uid":9411294,"size":1623394704,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:5c4338edc79ba8af15c19373c72951ff7e7de3f0&amp;dn=UFC.168.Weidman.vs.Silva.II.28th.Dec.2013.HDTV.x264-Sir.Paul&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":4,"uploader":"TeX","files":1,"time":1388303768,"description":"UFC.168.Weidman.vs.Silva.II.28th.Dec.2013.HDTV.x264-Sir.Paul","torrent":{"xt":"urn:btih:5c4338edc79ba8af15c19373c72951ff7e7de3f0","amp;dn":"UFC.168.Weidman.vs.Silva.II.28th.Dec.2013.HDTV.x264-Sir.Paul","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5c4338edc79ba8af15c19373c72951ff7e7de3f0","infoHashBuffer":{"type":"Buffer","data":[92,67,56,237,199,155,168,175,21,193,147,115,199,41,81,255,126,125,227,240]},"announce":[],"urlList":[]}}
+{
+  "title": "UFC.168.Weidman.vs.Silva.II.28th.Dec.2013.HDTV.x264-Sir.Paul",
+  "uid": 9411294,
+  "size": 1623394704,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:5c4338edc79ba8af15c19373c72951ff7e7de3f0&amp;dn=UFC.168.Weidman.vs.Silva.II.28th.Dec.2013.HDTV.x264-Sir.Paul&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 4,
+  "uploader": "TeX",
+  "files": 1,
+  "time": 1388303768,
+  "description": "UFC.168.Weidman.vs.Silva.II.28th.Dec.2013.HDTV.x264-Sir.Paul",
+  "parsed": {
+    "xt": "urn:btih:5c4338edc79ba8af15c19373c72951ff7e7de3f0",
+    "dn": "UFC.168.Weidman.vs.Silva.II.28th.Dec.2013.HDTV.x264-Sir.Paul",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5c4338edc79ba8af15c19373c72951ff7e7de3f0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        92,
+        67,
+        56,
+        237,
+        199,
+        155,
+        168,
+        175,
+        21,
+        193,
+        147,
+        115,
+        199,
+        41,
+        81,
+        255,
+        126,
+        125,
+        227,
+        240
+      ]
+    },
+    "name": "UFC.168.Weidman.vs.Silva.II.28th.Dec.2013.HDTV.x264-Sir.Paul",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 4,
+  "last_updated": "2016-12-25T02:12:47.616Z"
+}

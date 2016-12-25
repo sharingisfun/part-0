@@ -1,1 +1,61 @@
-{"title":"12 Monkeys S01E12 HDTV XviD-FUM[ettv]","uid":11795155,"size":364035880,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:5d6ec0171d6cea5016ef30c360f6b4cad9325525&amp;dn=12+Monkeys+S01E12+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":0,"uploader":"ettv","files":2,"time":1428122177,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:5d6ec0171d6cea5016ef30c360f6b4cad9325525","amp;dn":"12+Monkeys+S01E12+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5d6ec0171d6cea5016ef30c360f6b4cad9325525","infoHashBuffer":{"type":"Buffer","data":[93,110,192,23,29,108,234,80,22,239,48,195,96,246,180,202,217,50,85,37]},"announce":[],"urlList":[]}}
+{
+  "title": "12 Monkeys S01E12 HDTV XviD-FUM[ettv]",
+  "uid": 11795155,
+  "size": 364035880,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:5d6ec0171d6cea5016ef30c360f6b4cad9325525&amp;dn=12+Monkeys+S01E12+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 0,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1428122177,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:5d6ec0171d6cea5016ef30c360f6b4cad9325525",
+    "dn": "12 Monkeys S01E12 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5d6ec0171d6cea5016ef30c360f6b4cad9325525",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        93,
+        110,
+        192,
+        23,
+        29,
+        108,
+        234,
+        80,
+        22,
+        239,
+        48,
+        195,
+        96,
+        246,
+        180,
+        202,
+        217,
+        50,
+        85,
+        37
+      ]
+    },
+    "name": "12 Monkeys S01E12 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 1,
+  "last_updated": "2016-12-25T02:20:53.302Z"
+}

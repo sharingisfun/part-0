@@ -1,1 +1,61 @@
-{"title":"Sons of Anarchy S06E07 HDTV x264-2HD[ettv]","uid":9086810,"size":449471612,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:5e29512680737b88dfc0d55b50c4552ec604b5c6&amp;dn=Sons+of+Anarchy+S06E07+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":1,"uploader":"ettv","files":2,"time":1382506680,"description":"x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n","torrent":{"xt":"urn:btih:5e29512680737b88dfc0d55b50c4552ec604b5c6","amp;dn":"Sons+of+Anarchy+S06E07+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5e29512680737b88dfc0d55b50c4552ec604b5c6","infoHashBuffer":{"type":"Buffer","data":[94,41,81,38,128,115,123,136,223,192,213,91,80,196,85,46,198,4,181,198]},"announce":[],"urlList":[]}}
+{
+  "title": "Sons of Anarchy S06E07 HDTV x264-2HD[ettv]",
+  "uid": 9086810,
+  "size": 449471612,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:5e29512680737b88dfc0d55b50c4552ec604b5c6&amp;dn=Sons+of+Anarchy+S06E07+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1382506680,
+  "description": "x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n",
+  "parsed": {
+    "xt": "urn:btih:5e29512680737b88dfc0d55b50c4552ec604b5c6",
+    "dn": "Sons of Anarchy S06E07 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5e29512680737b88dfc0d55b50c4552ec604b5c6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        94,
+        41,
+        81,
+        38,
+        128,
+        115,
+        123,
+        136,
+        223,
+        192,
+        213,
+        91,
+        80,
+        196,
+        85,
+        46,
+        198,
+        4,
+        181,
+        198
+      ]
+    },
+    "name": "Sons of Anarchy S06E07 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 7,
+  "last_updated": "2016-12-25T02:25:40.163Z"
+}

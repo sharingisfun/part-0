@@ -1,1 +1,61 @@
-{"title":"Flatbush ZOMBiES - BetterOffDEAD (2013) Freetape","uid":8908342,"size":158104819,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:5cfcaef9a113555366e7b7bbff5de550c1a1fad2&amp;dn=Flatbush+ZOMBiES+-+BetterOffDEAD+%282013%29+Freetape&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":3,"uploader":"tnarref","files":-1,"time":1378960513,"description":"BetterOffDEAD - Full Mixtape","torrent":{"xt":"urn:btih:5cfcaef9a113555366e7b7bbff5de550c1a1fad2","amp;dn":"Flatbush+ZOMBiES+-+BetterOffDEAD+%282013%29+Freetape","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5cfcaef9a113555366e7b7bbff5de550c1a1fad2","infoHashBuffer":{"type":"Buffer","data":[92,252,174,249,161,19,85,83,102,231,183,187,255,93,229,80,193,161,250,210]},"announce":[],"urlList":[]}}
+{
+  "title": "Flatbush ZOMBiES - BetterOffDEAD (2013) Freetape",
+  "uid": 8908342,
+  "size": 158104819,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:5cfcaef9a113555366e7b7bbff5de550c1a1fad2&amp;dn=Flatbush+ZOMBiES+-+BetterOffDEAD+%282013%29+Freetape&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 3,
+  "uploader": "tnarref",
+  "files": -1,
+  "time": 1378960513,
+  "description": "BetterOffDEAD - Full Mixtape",
+  "parsed": {
+    "xt": "urn:btih:5cfcaef9a113555366e7b7bbff5de550c1a1fad2",
+    "dn": "Flatbush ZOMBiES - BetterOffDEAD (2013) Freetape",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5cfcaef9a113555366e7b7bbff5de550c1a1fad2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        92,
+        252,
+        174,
+        249,
+        161,
+        19,
+        85,
+        83,
+        102,
+        231,
+        183,
+        187,
+        255,
+        93,
+        229,
+        80,
+        193,
+        161,
+        250,
+        210
+      ]
+    },
+    "name": "Flatbush ZOMBiES - BetterOffDEAD (2013) Freetape",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 90,
+  "peers": 80,
+  "last_updated": "2016-12-25T02:17:58.703Z"
+}

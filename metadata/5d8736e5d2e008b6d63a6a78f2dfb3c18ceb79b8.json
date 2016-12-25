@@ -1,1 +1,61 @@
-{"title":"Charly Garcia Discografia","uid":8672689,"size":1840792829,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:5d8736e5d2e008b6d63a6a78f2dfb3c18ceb79b8&amp;dn=Charly+Garcia+Discografia&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":65,"leechers":16,"uploader":"agustin152","files":-1,"time":1373527136,"description":"Bueno esto es algo que deberÃƒÂ­a estar en la internet y no lo pude conseguir en torrent asÃƒÂ­ que bajando de distintos lados la arme yo.\n\n\nEspero que este completa, o lo mas completa posible.\n\n\nDisfruten!\n\n\nAcÃƒÂ¡ una imagen de lo que contiene!\n\n//bayimg.com/DAnCbAael","torrent":{"xt":"urn:btih:5d8736e5d2e008b6d63a6a78f2dfb3c18ceb79b8","amp;dn":"Charly+Garcia+Discografia","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5d8736e5d2e008b6d63a6a78f2dfb3c18ceb79b8","infoHashBuffer":{"type":"Buffer","data":[93,135,54,229,210,224,8,182,214,58,106,120,242,223,179,193,140,235,121,184]},"announce":[],"urlList":[]}}
+{
+  "title": "Charly Garcia Discografia",
+  "uid": 8672689,
+  "size": 1840792829,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:5d8736e5d2e008b6d63a6a78f2dfb3c18ceb79b8&amp;dn=Charly+Garcia+Discografia&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 65,
+  "leechers": 16,
+  "uploader": "agustin152",
+  "files": -1,
+  "time": 1373527136,
+  "description": "Bueno esto es algo que deberÃƒÂ­a estar en la internet y no lo pude conseguir en torrent asÃƒÂ­ que bajando de distintos lados la arme yo.\n\n\nEspero que este completa, o lo mas completa posible.\n\n\nDisfruten!\n\n\nAcÃƒÂ¡ una imagen de lo que contiene!\n\n//bayimg.com/DAnCbAael",
+  "parsed": {
+    "xt": "urn:btih:5d8736e5d2e008b6d63a6a78f2dfb3c18ceb79b8",
+    "dn": "Charly Garcia Discografia",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5d8736e5d2e008b6d63a6a78f2dfb3c18ceb79b8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        93,
+        135,
+        54,
+        229,
+        210,
+        224,
+        8,
+        182,
+        214,
+        58,
+        106,
+        120,
+        242,
+        223,
+        179,
+        193,
+        140,
+        235,
+        121,
+        184
+      ]
+    },
+    "name": "Charly Garcia Discografia",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 81,
+  "peers": 40,
+  "last_updated": "2016-12-25T02:21:33.442Z"
+}

@@ -1,1 +1,61 @@
-{"title":"What the Bleep do we Know.AVI","uid":3597243,"size":734107982,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:5d76926752e4a6f2a279e6fcb67223881bd101cc&amp;dn=What+the+Bleep+do+we+Know.AVI&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":2,"uploader":"AdmiralPayne","files":1,"time":1168977924,"description":"What the #$*! Do We (K)now!? (2004)","torrent":{"xt":"urn:btih:5d76926752e4a6f2a279e6fcb67223881bd101cc","amp;dn":"What+the+Bleep+do+we+Know.AVI","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5d76926752e4a6f2a279e6fcb67223881bd101cc","infoHashBuffer":{"type":"Buffer","data":[93,118,146,103,82,228,166,242,162,121,230,252,182,114,35,136,27,209,1,204]},"announce":[],"urlList":[]}}
+{
+  "title": "What the Bleep do we Know.AVI",
+  "uid": 3597243,
+  "size": 734107982,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:5d76926752e4a6f2a279e6fcb67223881bd101cc&amp;dn=What+the+Bleep+do+we+Know.AVI&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 2,
+  "uploader": "AdmiralPayne",
+  "files": 1,
+  "time": 1168977924,
+  "description": "What the #$*! Do We (K)now!? (2004)",
+  "parsed": {
+    "xt": "urn:btih:5d76926752e4a6f2a279e6fcb67223881bd101cc",
+    "dn": "What the Bleep do we Know.AVI",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5d76926752e4a6f2a279e6fcb67223881bd101cc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        93,
+        118,
+        146,
+        103,
+        82,
+        228,
+        166,
+        242,
+        162,
+        121,
+        230,
+        252,
+        182,
+        114,
+        35,
+        136,
+        27,
+        209,
+        1,
+        204
+      ]
+    },
+    "name": "What the Bleep do we Know.AVI",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 76,
+  "last_updated": "2016-12-25T02:21:13.375Z"
+}

@@ -1,1 +1,61 @@
-{"title":"X-Plane 10","uid":6966754,"size":59879073792,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:5dea9621a76afbb7f1d16fe6e02f3e151e5df27f&amp;dn=X-Plane+10&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":103,"leechers":100,"uploader":"moeburn1","files":9,"time":1326950391,"description":"X-Plane 10 8 DVDs &amp; Airport Pack Add-on","torrent":{"xt":"urn:btih:5dea9621a76afbb7f1d16fe6e02f3e151e5df27f","amp;dn":"X-Plane+10","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5dea9621a76afbb7f1d16fe6e02f3e151e5df27f","infoHashBuffer":{"type":"Buffer","data":[93,234,150,33,167,106,251,183,241,209,111,230,224,47,62,21,30,93,242,127]},"announce":[],"urlList":[]}}
+{
+  "title": "X-Plane 10",
+  "uid": 6966754,
+  "size": 59879073792,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:5dea9621a76afbb7f1d16fe6e02f3e151e5df27f&amp;dn=X-Plane+10&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 103,
+  "leechers": 100,
+  "uploader": "moeburn1",
+  "files": 9,
+  "time": 1326950391,
+  "description": "X-Plane 10 8 DVDs &amp; Airport Pack Add-on",
+  "parsed": {
+    "xt": "urn:btih:5dea9621a76afbb7f1d16fe6e02f3e151e5df27f",
+    "dn": "X-Plane 10",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5dea9621a76afbb7f1d16fe6e02f3e151e5df27f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        93,
+        234,
+        150,
+        33,
+        167,
+        106,
+        251,
+        183,
+        241,
+        209,
+        111,
+        230,
+        224,
+        47,
+        62,
+        21,
+        30,
+        93,
+        242,
+        127
+      ]
+    },
+    "name": "X-Plane 10",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 203,
+  "peers": 50,
+  "last_updated": "2016-12-25T02:24:17.909Z"
+}

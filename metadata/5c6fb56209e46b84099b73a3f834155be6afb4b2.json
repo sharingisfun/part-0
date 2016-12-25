@@ -1,1 +1,63 @@
-{"title":"WinRAR 5.40 (x86-x64) Final [ENG]","uid":15963967,"size":15266652,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:5c6fb56209e46b84099b73a3f834155be6afb4b2&amp;dn=WinRAR+5.40+%28x86-x64%29+Final+%5BENG%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":1809,"leechers":245,"uploader":"gDeinad","files":1,"time":1475703818,"description":"\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program","torrent":{"xt":"urn:btih:5c6fb56209e46b84099b73a3f834155be6afb4b2","amp;dn":"WinRAR+5.40+%28x86-x64%29+Final+%5BENG%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5c6fb56209e46b84099b73a3f834155be6afb4b2","infoHashBuffer":{"type":"Buffer","data":[92,111,181,98,9,228,107,132,9,155,115,163,248,52,21,91,230,175,180,178]},"announce":[],"urlList":[]}}
+{
+  "title": "WinRAR 5.40 (x86-x64) Final [ENG]",
+  "uid": 15963967,
+  "size": 15266652,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:5c6fb56209e46b84099b73a3f834155be6afb4b2&amp;dn=WinRAR+5.40+%28x86-x64%29+Final+%5BENG%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 1809,
+  "leechers": 245,
+  "uploader": "gDeinad",
+  "files": 1,
+  "time": 1475703818,
+  "description": "\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program",
+  "parsed": {
+    "xt": "urn:btih:5c6fb56209e46b84099b73a3f834155be6afb4b2",
+    "dn": "WinRAR 5.40 (x86-x64) Final [ENG]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "5c6fb56209e46b84099b73a3f834155be6afb4b2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        92,
+        111,
+        181,
+        98,
+        9,
+        228,
+        107,
+        132,
+        9,
+        155,
+        115,
+        163,
+        248,
+        52,
+        21,
+        91,
+        230,
+        175,
+        180,
+        178
+      ]
+    },
+    "name": "WinRAR 5.40 (x86-x64) Final [ENG]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 2054,
+  "peers": 2,
+  "last_updated": "2016-12-25T02:14:11.867Z"
+}

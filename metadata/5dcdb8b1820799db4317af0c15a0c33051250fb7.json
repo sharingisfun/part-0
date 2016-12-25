@@ -1,1 +1,61 @@
-{"title":"American.Horror.Story.S01E11.HDTV.XviD-ASAP.[VTV].avi","uid":6888916,"size":366985030,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:5dcdb8b1820799db4317af0c15a0c33051250fb7&amp;dn=American.Horror.Story.S01E11.HDTV.XviD-ASAP.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":10,"uploader":"VTV","files":1,"time":1323929686,"description":"American Horror Story 1x11 (HDTV-ASAP)[VTV]","torrent":{"xt":"urn:btih:5dcdb8b1820799db4317af0c15a0c33051250fb7","amp;dn":"American.Horror.Story.S01E11.HDTV.XviD-ASAP.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5dcdb8b1820799db4317af0c15a0c33051250fb7","infoHashBuffer":{"type":"Buffer","data":[93,205,184,177,130,7,153,219,67,23,175,12,21,160,195,48,81,37,15,183]},"announce":[],"urlList":[]}}
+{
+  "title": "American.Horror.Story.S01E11.HDTV.XviD-ASAP.[VTV].avi",
+  "uid": 6888916,
+  "size": 366985030,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:5dcdb8b1820799db4317af0c15a0c33051250fb7&amp;dn=American.Horror.Story.S01E11.HDTV.XviD-ASAP.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 10,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1323929686,
+  "description": "American Horror Story 1x11 (HDTV-ASAP)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:5dcdb8b1820799db4317af0c15a0c33051250fb7",
+    "dn": "American.Horror.Story.S01E11.HDTV.XviD-ASAP.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5dcdb8b1820799db4317af0c15a0c33051250fb7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        93,
+        205,
+        184,
+        177,
+        130,
+        7,
+        153,
+        219,
+        67,
+        23,
+        175,
+        12,
+        21,
+        160,
+        195,
+        48,
+        81,
+        37,
+        15,
+        183
+      ]
+    },
+    "name": "American.Horror.Story.S01E11.HDTV.XviD-ASAP.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 67,
+  "peers": 10,
+  "last_updated": "2016-12-25T02:23:21.761Z"
+}
