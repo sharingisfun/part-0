@@ -1,1 +1,61 @@
-{"title":"Suits S04E10 HDTV x264-KILLERS[ettv]","uid":10828266,"size":281386077,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d70a78d24353295489589f2fbeaff381e7d851cf&amp;dn=Suits+S04E10+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":429,"leechers":9,"uploader":"ettv","files":2,"time":1408593914,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:d70a78d24353295489589f2fbeaff381e7d851cf","amp;dn":"Suits+S04E10+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d70a78d24353295489589f2fbeaff381e7d851cf","infoHashBuffer":{"type":"Buffer","data":[215,10,120,210,67,83,41,84,137,88,159,47,190,175,243,129,231,216,81,207]},"announce":[],"urlList":[]}}
+{
+  "title": "Suits S04E10 HDTV x264-KILLERS[ettv]",
+  "uid": 10828266,
+  "size": 281386077,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d70a78d24353295489589f2fbeaff381e7d851cf&amp;dn=Suits+S04E10+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 429,
+  "leechers": 9,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1408593914,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:d70a78d24353295489589f2fbeaff381e7d851cf",
+    "dn": "Suits S04E10 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d70a78d24353295489589f2fbeaff381e7d851cf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        215,
+        10,
+        120,
+        210,
+        67,
+        83,
+        41,
+        84,
+        137,
+        88,
+        159,
+        47,
+        190,
+        175,
+        243,
+        129,
+        231,
+        216,
+        81,
+        207
+      ]
+    },
+    "name": "Suits S04E10 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 438,
+  "peers": 50,
+  "last_updated": "2016-12-25T15:14:27.140Z"
+}

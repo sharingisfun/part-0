@@ -1,1 +1,61 @@
-{"title":"Between.S01E04.HDTV.x264-KILLERS[ettv]","uid":12010006,"size":270974987,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d70521805d5bbb9e273216145a6cf2bcfde108d9&amp;dn=Between.S01E04.HDTV.x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":1,"uploader":"ettv","files":3,"time":1434090086,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n     &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:d70521805d5bbb9e273216145a6cf2bcfde108d9","amp;dn":"Between.S01E04.HDTV.x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d70521805d5bbb9e273216145a6cf2bcfde108d9","infoHashBuffer":{"type":"Buffer","data":[215,5,33,128,93,91,187,158,39,50,22,20,90,108,242,188,253,225,8,217]},"announce":[],"urlList":[]}}
+{
+  "title": "Between.S01E04.HDTV.x264-KILLERS[ettv]",
+  "uid": 12010006,
+  "size": 270974987,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d70521805d5bbb9e273216145a6cf2bcfde108d9&amp;dn=Between.S01E04.HDTV.x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1434090086,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n     &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:d70521805d5bbb9e273216145a6cf2bcfde108d9",
+    "dn": "Between.S01E04.HDTV.x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d70521805d5bbb9e273216145a6cf2bcfde108d9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        215,
+        5,
+        33,
+        128,
+        93,
+        91,
+        187,
+        158,
+        39,
+        50,
+        22,
+        20,
+        90,
+        108,
+        242,
+        188,
+        253,
+        225,
+        8,
+        217
+      ]
+    },
+    "name": "Between.S01E04.HDTV.x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 100,
+  "last_updated": "2016-12-25T15:14:17.109Z"
+}

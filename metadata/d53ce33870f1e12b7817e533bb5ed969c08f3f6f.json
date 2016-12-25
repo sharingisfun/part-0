@@ -1,1 +1,61 @@
-{"title":"The xx Discography (2009 &amp; 2012) ALAC","uid":9163238,"size":474117819,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:d53ce33870f1e12b7817e533bb5ed969c08f3f6f&amp;dn=The+xx+Discography+%282009+%26amp%3B+2012%29+ALAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":83,"leechers":4,"uploader":"-wxm-","files":-1,"time":1383869619,"description":"The xx Discography (2009 &amp; 2012) ALAC\n\nxx (2009) [Limited Edition]\nCoexist (2012) [Japanese Edition]","torrent":{"xt":"urn:btih:d53ce33870f1e12b7817e533bb5ed969c08f3f6f","amp;dn":"The+xx+Discography+%282009+%26amp%3B+2012%29+ALAC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d53ce33870f1e12b7817e533bb5ed969c08f3f6f","infoHashBuffer":{"type":"Buffer","data":[213,60,227,56,112,241,225,43,120,23,229,51,187,94,217,105,192,143,63,111]},"announce":[],"urlList":[]}}
+{
+  "title": "The xx Discography (2009 &amp; 2012) ALAC",
+  "uid": 9163238,
+  "size": 474117819,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:d53ce33870f1e12b7817e533bb5ed969c08f3f6f&amp;dn=The+xx+Discography+%282009+%26amp%3B+2012%29+ALAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 83,
+  "leechers": 4,
+  "uploader": "-wxm-",
+  "files": -1,
+  "time": 1383869619,
+  "description": "The xx Discography (2009 &amp; 2012) ALAC\n\nxx (2009) [Limited Edition]\nCoexist (2012) [Japanese Edition]",
+  "parsed": {
+    "xt": "urn:btih:d53ce33870f1e12b7817e533bb5ed969c08f3f6f",
+    "dn": "The xx Discography (2009 &amp; 2012) ALAC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d53ce33870f1e12b7817e533bb5ed969c08f3f6f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        213,
+        60,
+        227,
+        56,
+        112,
+        241,
+        225,
+        43,
+        120,
+        23,
+        229,
+        51,
+        187,
+        94,
+        217,
+        105,
+        192,
+        143,
+        63,
+        111
+      ]
+    },
+    "name": "The xx Discography (2009 &amp; 2012) ALAC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 87,
+  "peers": 2,
+  "last_updated": "2016-12-25T15:03:57.240Z"
+}

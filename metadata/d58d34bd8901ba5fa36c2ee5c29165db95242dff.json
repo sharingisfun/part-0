@@ -1,1 +1,61 @@
-{"title":"Glee S05E01 HDTV x264-LOL[ettv]","uid":8967439,"size":387243404,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d58d34bd8901ba5fa36c2ee5c29165db95242dff&amp;dn=Glee+S05E01+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":2,"uploader":"ettv","files":2,"time":1380261491,"description":"x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n","torrent":{"xt":"urn:btih:d58d34bd8901ba5fa36c2ee5c29165db95242dff","amp;dn":"Glee+S05E01+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d58d34bd8901ba5fa36c2ee5c29165db95242dff","infoHashBuffer":{"type":"Buffer","data":[213,141,52,189,137,1,186,95,163,108,46,229,194,145,101,219,149,36,45,255]},"announce":[],"urlList":[]}}
+{
+  "title": "Glee S05E01 HDTV x264-LOL[ettv]",
+  "uid": 8967439,
+  "size": 387243404,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d58d34bd8901ba5fa36c2ee5c29165db95242dff&amp;dn=Glee+S05E01+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1380261491,
+  "description": "x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n",
+  "parsed": {
+    "xt": "urn:btih:d58d34bd8901ba5fa36c2ee5c29165db95242dff",
+    "dn": "Glee S05E01 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d58d34bd8901ba5fa36c2ee5c29165db95242dff",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        213,
+        141,
+        52,
+        189,
+        137,
+        1,
+        186,
+        95,
+        163,
+        108,
+        46,
+        229,
+        194,
+        145,
+        101,
+        219,
+        149,
+        36,
+        45,
+        255
+      ]
+    },
+    "name": "Glee S05E01 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 22,
+  "last_updated": "2016-12-25T15:06:09.620Z"
+}

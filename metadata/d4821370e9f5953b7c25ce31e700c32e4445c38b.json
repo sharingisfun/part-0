@@ -1,1 +1,61 @@
-{"title":"Portlandia Season 1","uid":6492359,"size":1100555811,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d4821370e9f5953b7c25ce31e700c32e4445c38b&amp;dn=Portlandia+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":2,"uploader":"politux","files":-1,"time":1308933139,"description":"Portlandia is a television series that debuted on the Independent Film Channel (IFC) in January 2011. The show, produced by Andrew Singer and Jonathan Krisel, is set and filmed in Portland, Oregon and features Saturday Night Live cast member Fred Armisen as well as Carrie Brownstein, a member of the now-defunct band Sleater-Kinney and current lead guitarist/singer for Wild Flag.\n\nEpisodes: \n\n S01E01 - Farm\n S01E02 - A Song for Portland\n S01E03 - Aimee\n S01E04 - Mayor Is Missing\n S01E05 - Blunderbuss\n S01E06 - Baseball ","torrent":{"xt":"urn:btih:d4821370e9f5953b7c25ce31e700c32e4445c38b","amp;dn":"Portlandia+Season+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d4821370e9f5953b7c25ce31e700c32e4445c38b","infoHashBuffer":{"type":"Buffer","data":[212,130,19,112,233,245,149,59,124,37,206,49,231,0,195,46,68,69,195,139]},"announce":[],"urlList":[]}}
+{
+  "title": "Portlandia Season 1",
+  "uid": 6492359,
+  "size": 1100555811,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d4821370e9f5953b7c25ce31e700c32e4445c38b&amp;dn=Portlandia+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 2,
+  "uploader": "politux",
+  "files": -1,
+  "time": 1308933139,
+  "description": "Portlandia is a television series that debuted on the Independent Film Channel (IFC) in January 2011. The show, produced by Andrew Singer and Jonathan Krisel, is set and filmed in Portland, Oregon and features Saturday Night Live cast member Fred Armisen as well as Carrie Brownstein, a member of the now-defunct band Sleater-Kinney and current lead guitarist/singer for Wild Flag.\n\nEpisodes: \n\n S01E01 - Farm\n S01E02 - A Song for Portland\n S01E03 - Aimee\n S01E04 - Mayor Is Missing\n S01E05 - Blunderbuss\n S01E06 - Baseball ",
+  "parsed": {
+    "xt": "urn:btih:d4821370e9f5953b7c25ce31e700c32e4445c38b",
+    "dn": "Portlandia Season 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d4821370e9f5953b7c25ce31e700c32e4445c38b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        212,
+        130,
+        19,
+        112,
+        233,
+        245,
+        149,
+        59,
+        124,
+        37,
+        206,
+        49,
+        231,
+        0,
+        195,
+        46,
+        68,
+        69,
+        195,
+        139
+      ]
+    },
+    "name": "Portlandia Season 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 30,
+  "last_updated": "2016-12-25T14:59:14.408Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Last.Man.Standing.S04E20.US.HDTV.x264-KILLERS[ettv]","uid":11795116,"size":169247052,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d7300b0e966854a057c3951b2c964d40b333bf07&amp;dn=Last.Man.Standing.S04E20.US.HDTV.x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":9,"uploader":"ettv","files":4,"time":1428114977,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:d7300b0e966854a057c3951b2c964d40b333bf07","amp;dn":"Last.Man.Standing.S04E20.US.HDTV.x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d7300b0e966854a057c3951b2c964d40b333bf07","infoHashBuffer":{"type":"Buffer","data":[215,48,11,14,150,104,84,160,87,195,149,27,44,150,77,64,179,51,191,7]},"announce":[],"urlList":[]}}
+{
+  "title": "Last.Man.Standing.S04E20.US.HDTV.x264-KILLERS[ettv]",
+  "uid": 11795116,
+  "size": 169247052,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d7300b0e966854a057c3951b2c964d40b333bf07&amp;dn=Last.Man.Standing.S04E20.US.HDTV.x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 9,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1428114977,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:d7300b0e966854a057c3951b2c964d40b333bf07",
+    "dn": "Last.Man.Standing.S04E20.US.HDTV.x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d7300b0e966854a057c3951b2c964d40b333bf07",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        215,
+        48,
+        11,
+        14,
+        150,
+        104,
+        84,
+        160,
+        87,
+        195,
+        149,
+        27,
+        44,
+        150,
+        77,
+        64,
+        179,
+        51,
+        191,
+        7
+      ]
+    },
+    "name": "Last.Man.Standing.S04E20.US.HDTV.x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 2,
+  "last_updated": "2016-12-25T15:15:21.350Z"
+}

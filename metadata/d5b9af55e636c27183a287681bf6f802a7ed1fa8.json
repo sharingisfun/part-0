@@ -1,1 +1,61 @@
-{"title":"Tupac - Greatest Hits","uid":3834896,"size":195471973,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d5b9af55e636c27183a287681bf6f802a7ed1fa8&amp;dn=Tupac+-+Greatest+Hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":229,"leechers":14,"uploader":"Neiviesis1919","files":25,"time":1191899791,"description":"    -=Uploaded by neIVIesis=-\n-=Rating and Feedback Encouraged=-","torrent":{"xt":"urn:btih:d5b9af55e636c27183a287681bf6f802a7ed1fa8","amp;dn":"Tupac+-+Greatest+Hits","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d5b9af55e636c27183a287681bf6f802a7ed1fa8","infoHashBuffer":{"type":"Buffer","data":[213,185,175,85,230,54,194,113,131,162,135,104,27,246,248,2,167,237,31,168]},"announce":[],"urlList":[]}}
+{
+  "title": "Tupac - Greatest Hits",
+  "uid": 3834896,
+  "size": 195471973,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d5b9af55e636c27183a287681bf6f802a7ed1fa8&amp;dn=Tupac+-+Greatest+Hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 229,
+  "leechers": 14,
+  "uploader": "Neiviesis1919",
+  "files": 25,
+  "time": 1191899791,
+  "description": "    -=Uploaded by neIVIesis=-\n-=Rating and Feedback Encouraged=-",
+  "parsed": {
+    "xt": "urn:btih:d5b9af55e636c27183a287681bf6f802a7ed1fa8",
+    "dn": "Tupac - Greatest Hits",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d5b9af55e636c27183a287681bf6f802a7ed1fa8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        213,
+        185,
+        175,
+        85,
+        230,
+        54,
+        194,
+        113,
+        131,
+        162,
+        135,
+        104,
+        27,
+        246,
+        248,
+        2,
+        167,
+        237,
+        31,
+        168
+      ]
+    },
+    "name": "Tupac - Greatest Hits",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 243,
+  "peers": 350,
+  "last_updated": "2016-12-25T15:06:55.749Z"
+}

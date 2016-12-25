@@ -1,1 +1,61 @@
-{"title":"Big Data - Dangerous [2013]","uid":10664390,"size":4497156,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d66a25a4887f78d24c6fccd49b076e1542f32c06&amp;dn=Big+Data+-+Dangerous+%5B2013%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":0,"uploader":"YaMoonSun","files":1,"time":1406779336,"description":"Format                                   : MPEG Audio\nFile size                                : 4.29 MiB\nDuration                                 : 4mn 40s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 128 Kbps\nAlbum                                    : Dangerous - Single\nAlbum/Performer                          : Big Data\nTrack name                               : Big Data - &quot;Dangerous&quot;\nTrack name/Position                      : 1\nPerformer                                : Big Data/Joywave\nGenre                                    : Alternitive\nRecorded date                            : 2013\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nMode extension                           : MS Stereo\nDuration                                 : 4mn 41s\nBit rate mode                            : Constant\nBit rate                                 : 128 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 4.28 MiB (100%)","torrent":{"xt":"urn:btih:d66a25a4887f78d24c6fccd49b076e1542f32c06","amp;dn":"Big+Data+-+Dangerous+%5B2013%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d66a25a4887f78d24c6fccd49b076e1542f32c06","infoHashBuffer":{"type":"Buffer","data":[214,106,37,164,136,127,120,210,76,111,204,212,155,7,110,21,66,243,44,6]},"announce":[],"urlList":[]}}
+{
+  "title": "Big Data - Dangerous [2013]",
+  "uid": 10664390,
+  "size": 4497156,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d66a25a4887f78d24c6fccd49b076e1542f32c06&amp;dn=Big+Data+-+Dangerous+%5B2013%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 0,
+  "uploader": "YaMoonSun",
+  "files": 1,
+  "time": 1406779336,
+  "description": "Format                                   : MPEG Audio\nFile size                                : 4.29 MiB\nDuration                                 : 4mn 40s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 128 Kbps\nAlbum                                    : Dangerous - Single\nAlbum/Performer                          : Big Data\nTrack name                               : Big Data - &quot;Dangerous&quot;\nTrack name/Position                      : 1\nPerformer                                : Big Data/Joywave\nGenre                                    : Alternitive\nRecorded date                            : 2013\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nMode extension                           : MS Stereo\nDuration                                 : 4mn 41s\nBit rate mode                            : Constant\nBit rate                                 : 128 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 4.28 MiB (100%)",
+  "parsed": {
+    "xt": "urn:btih:d66a25a4887f78d24c6fccd49b076e1542f32c06",
+    "dn": "Big Data - Dangerous [2013]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d66a25a4887f78d24c6fccd49b076e1542f32c06",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        214,
+        106,
+        37,
+        164,
+        136,
+        127,
+        120,
+        210,
+        76,
+        111,
+        204,
+        212,
+        155,
+        7,
+        110,
+        21,
+        66,
+        243,
+        44,
+        6
+      ]
+    },
+    "name": "Big Data - Dangerous [2013]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 8,
+  "last_updated": "2016-12-25T15:11:02.463Z"
+}

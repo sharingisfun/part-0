@@ -1,1 +1,61 @@
-{"title":"Snoop Dogg - BUSH","uid":11907455,"size":40451131,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d653ea2d02147d50e75998aa7a82fab09451b69e&amp;dn=Snoop+Dogg+-+BUSH&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":15,"uploader":null,"files":10,"time":1431414053,"description":"s","torrent":{"xt":"urn:btih:d653ea2d02147d50e75998aa7a82fab09451b69e","amp;dn":"Snoop+Dogg+-+BUSH","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d653ea2d02147d50e75998aa7a82fab09451b69e","infoHashBuffer":{"type":"Buffer","data":[214,83,234,45,2,20,125,80,231,89,152,170,122,130,250,176,148,81,182,158]},"announce":[],"urlList":[]}}
+{
+  "title": "Snoop Dogg - BUSH",
+  "uid": 11907455,
+  "size": 40451131,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d653ea2d02147d50e75998aa7a82fab09451b69e&amp;dn=Snoop+Dogg+-+BUSH&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 15,
+  "uploader": null,
+  "files": 10,
+  "time": 1431414053,
+  "description": "s",
+  "parsed": {
+    "xt": "urn:btih:d653ea2d02147d50e75998aa7a82fab09451b69e",
+    "dn": "Snoop Dogg - BUSH",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d653ea2d02147d50e75998aa7a82fab09451b69e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        214,
+        83,
+        234,
+        45,
+        2,
+        20,
+        125,
+        80,
+        231,
+        89,
+        152,
+        170,
+        122,
+        130,
+        250,
+        176,
+        148,
+        81,
+        182,
+        158
+      ]
+    },
+    "name": "Snoop Dogg - BUSH",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 0,
+  "last_updated": "2016-12-25T15:10:18.333Z"
+}

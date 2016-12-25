@@ -1,1 +1,61 @@
-{"title":"ROCKSMITH 2014 NO CABLE FIX","uid":9161643,"size":41655,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:d4edd87f097813a620ce82236d2d0234841c45f3&amp;dn=ROCKSMITH+2014+NO+CABLE+FIX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":"LaSilkie","files":-1,"time":1383879557,"description":"This is a no-cable fix for Rocksmith 2014. You can now use a line in rather then an expensive real-tone cable to play Rocksmith 2014.\n\nIt works by changing addresses found by a user on the following thread; &lt;a href=&quot;\nhttp://cs.rin.ru/forum/viewtopic.php?f=10&amp;t=63705&amp;start=1185&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://cs.rin.ru/forum/viewtopic.php?f=10&amp;t=63705&amp;start=1185&lt;/a&gt;\nIt was later automated and will dynamically change the required memory address.\n\nUsage:\n1. Download\n2. Run Rocksmith\n3. Go into the sound panel and disable all microphones but one\n4. Ensure that the input is set to 16bit 48kHz\n5. Play rocksmith.\n-  You'll have to re-run the patch every time you launch Rocksmith\n\n\nExpected output when run first time.\n//bayimg.com/jaCNFAafb\n\nExpexted output when run when crack already used\n//bayimg.com/jaCNgaAfB\n\nHow to disable inputs and set input properties.\n//bayimg.com/jacnlaafb\n\na HUGE shoutout to the boys over at cs.rin.ru\nVisit http://cs.rin.ru/forum/viewtopic.php?f=10&amp;t=63705&amp;start=1185 for any support issues.","torrent":{"xt":"urn:btih:d4edd87f097813a620ce82236d2d0234841c45f3","amp;dn":"ROCKSMITH+2014+NO+CABLE+FIX","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d4edd87f097813a620ce82236d2d0234841c45f3","infoHashBuffer":{"type":"Buffer","data":[212,237,216,127,9,120,19,166,32,206,130,35,109,45,2,52,132,28,69,243]},"announce":[],"urlList":[]}}
+{
+  "title": "ROCKSMITH 2014 NO CABLE FIX",
+  "uid": 9161643,
+  "size": 41655,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:d4edd87f097813a620ce82236d2d0234841c45f3&amp;dn=ROCKSMITH+2014+NO+CABLE+FIX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": "LaSilkie",
+  "files": -1,
+  "time": 1383879557,
+  "description": "This is a no-cable fix for Rocksmith 2014. You can now use a line in rather then an expensive real-tone cable to play Rocksmith 2014.\n\nIt works by changing addresses found by a user on the following thread; &lt;a href=&quot;\nhttp://cs.rin.ru/forum/viewtopic.php?f=10&amp;t=63705&amp;start=1185&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://cs.rin.ru/forum/viewtopic.php?f=10&amp;t=63705&amp;start=1185&lt;/a&gt;\nIt was later automated and will dynamically change the required memory address.\n\nUsage:\n1. Download\n2. Run Rocksmith\n3. Go into the sound panel and disable all microphones but one\n4. Ensure that the input is set to 16bit 48kHz\n5. Play rocksmith.\n-  You'll have to re-run the patch every time you launch Rocksmith\n\n\nExpected output when run first time.\n//bayimg.com/jaCNFAafb\n\nExpexted output when run when crack already used\n//bayimg.com/jaCNgaAfB\n\nHow to disable inputs and set input properties.\n//bayimg.com/jacnlaafb\n\na HUGE shoutout to the boys over at cs.rin.ru\nVisit http://cs.rin.ru/forum/viewtopic.php?f=10&amp;t=63705&amp;start=1185 for any support issues.",
+  "parsed": {
+    "xt": "urn:btih:d4edd87f097813a620ce82236d2d0234841c45f3",
+    "dn": "ROCKSMITH 2014 NO CABLE FIX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d4edd87f097813a620ce82236d2d0234841c45f3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        212,
+        237,
+        216,
+        127,
+        9,
+        120,
+        19,
+        166,
+        32,
+        206,
+        130,
+        35,
+        109,
+        45,
+        2,
+        52,
+        132,
+        28,
+        69,
+        243
+      ]
+    },
+    "name": "ROCKSMITH 2014 NO CABLE FIX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 38,
+  "last_updated": "2016-12-25T15:02:10.935Z"
+}

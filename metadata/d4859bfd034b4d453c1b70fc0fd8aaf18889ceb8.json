@@ -1,1 +1,61 @@
-{"title":"Trackmania nations forever","uid":4138269,"size":528345264,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:d4859bfd034b4d453c1b70fc0fd8aaf18889ceb8&amp;dn=Trackmania+nations+forever&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":3,"uploader":"gkruiger","files":1,"time":1208368986,"description":"Trackmania nations forever","torrent":{"xt":"urn:btih:d4859bfd034b4d453c1b70fc0fd8aaf18889ceb8","amp;dn":"Trackmania+nations+forever","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d4859bfd034b4d453c1b70fc0fd8aaf18889ceb8","infoHashBuffer":{"type":"Buffer","data":[212,133,155,253,3,75,77,69,60,27,112,252,15,216,170,241,136,137,206,184]},"announce":[],"urlList":[]}}
+{
+  "title": "Trackmania nations forever",
+  "uid": 4138269,
+  "size": 528345264,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:d4859bfd034b4d453c1b70fc0fd8aaf18889ceb8&amp;dn=Trackmania+nations+forever&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 3,
+  "uploader": "gkruiger",
+  "files": 1,
+  "time": 1208368986,
+  "description": "Trackmania nations forever",
+  "parsed": {
+    "xt": "urn:btih:d4859bfd034b4d453c1b70fc0fd8aaf18889ceb8",
+    "dn": "Trackmania nations forever",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d4859bfd034b4d453c1b70fc0fd8aaf18889ceb8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        212,
+        133,
+        155,
+        253,
+        3,
+        75,
+        77,
+        69,
+        60,
+        27,
+        112,
+        252,
+        15,
+        216,
+        170,
+        241,
+        136,
+        137,
+        206,
+        184
+      ]
+    },
+    "name": "Trackmania nations forever",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 50,
+  "last_updated": "2016-12-25T14:59:24.433Z"
+}

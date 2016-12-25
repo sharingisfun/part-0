@@ -1,1 +1,61 @@
-{"title":"Jeff Buckley - Grace [mp3 320 kbps][Broken Promises]","uid":4250470,"size":125277925,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d67905473b5ab0b932932c6d317659fe3c7f21ae&amp;dn=Jeff+Buckley+-+Grace+%5Bmp3+320+kbps%5D%5BBroken+Promises%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":94,"leechers":2,"uploader":"Broken_Promises","files":13,"time":1213983826,"description":"Bitrate 320 kbps\n\n\n\nMojo Pin \nGrace \nLast Goodbye \nLiliac Wine \nSo Real \nHallelujah \nLover You Should&amp;#039;ve Come Over\nCorpus Christi Carol \nEternal Life \nDream Brother","torrent":{"xt":"urn:btih:d67905473b5ab0b932932c6d317659fe3c7f21ae","amp;dn":"Jeff+Buckley+-+Grace+%5Bmp3+320+kbps%5D%5BBroken+Promises%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d67905473b5ab0b932932c6d317659fe3c7f21ae","infoHashBuffer":{"type":"Buffer","data":[214,121,5,71,59,90,176,185,50,147,44,109,49,118,89,254,60,127,33,174]},"announce":[],"urlList":[]}}
+{
+  "title": "Jeff Buckley - Grace [mp3 320 kbps][Broken Promises]",
+  "uid": 4250470,
+  "size": 125277925,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d67905473b5ab0b932932c6d317659fe3c7f21ae&amp;dn=Jeff+Buckley+-+Grace+%5Bmp3+320+kbps%5D%5BBroken+Promises%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 94,
+  "leechers": 2,
+  "uploader": "Broken_Promises",
+  "files": 13,
+  "time": 1213983826,
+  "description": "Bitrate 320 kbps\n\n\n\nMojo Pin \nGrace \nLast Goodbye \nLiliac Wine \nSo Real \nHallelujah \nLover You Should&amp;#039;ve Come Over\nCorpus Christi Carol \nEternal Life \nDream Brother",
+  "parsed": {
+    "xt": "urn:btih:d67905473b5ab0b932932c6d317659fe3c7f21ae",
+    "dn": "Jeff Buckley - Grace [mp3 320 kbps][Broken Promises]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d67905473b5ab0b932932c6d317659fe3c7f21ae",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        214,
+        121,
+        5,
+        71,
+        59,
+        90,
+        176,
+        185,
+        50,
+        147,
+        44,
+        109,
+        49,
+        118,
+        89,
+        254,
+        60,
+        127,
+        33,
+        174
+      ]
+    },
+    "name": "Jeff Buckley - Grace [mp3 320 kbps][Broken Promises]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 96,
+  "peers": 36,
+  "last_updated": "2016-12-25T15:11:26.554Z"
+}

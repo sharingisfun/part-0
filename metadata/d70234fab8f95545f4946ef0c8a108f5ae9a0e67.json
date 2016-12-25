@@ -1,1 +1,61 @@
-{"title":"Elliot Smith Discography MP3/AAC","uid":4242746,"size":650093355,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d70234fab8f95545f4946ef0c8a108f5ae9a0e67&amp;dn=Elliot+Smith+Discography+MP3%2FAAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":4,"uploader":"silentsprings","files":134,"time":1213632827,"description":"silentsprings blogspot\n\nsilentsprings blogspot\nsilentsprings blogspot\n\nsilentsprings blogspot\n\nsilentsprings blogspot\n\nsilentsprings blogspot\nsilentsprings blogspot\n\nsilentsprings blogspot\n\nsilentsprings blogspot\n\nsilentsprings blogspot\nsilentsprings blogspot\n\nsilentsprings blogspot\nsilentsprings blogspot\n\nsilentsprings blogspot\nsilentsprings blogspot\n\nsilentsprings blogspot\n","torrent":{"xt":"urn:btih:d70234fab8f95545f4946ef0c8a108f5ae9a0e67","amp;dn":"Elliot+Smith+Discography+MP3%2FAAC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d70234fab8f95545f4946ef0c8a108f5ae9a0e67","infoHashBuffer":{"type":"Buffer","data":[215,2,52,250,184,249,85,69,244,148,110,240,200,161,8,245,174,154,14,103]},"announce":[],"urlList":[]}}
+{
+  "title": "Elliot Smith Discography MP3/AAC",
+  "uid": 4242746,
+  "size": 650093355,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d70234fab8f95545f4946ef0c8a108f5ae9a0e67&amp;dn=Elliot+Smith+Discography+MP3%2FAAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 4,
+  "uploader": "silentsprings",
+  "files": 134,
+  "time": 1213632827,
+  "description": "silentsprings blogspot\n\nsilentsprings blogspot\nsilentsprings blogspot\n\nsilentsprings blogspot\n\nsilentsprings blogspot\n\nsilentsprings blogspot\nsilentsprings blogspot\n\nsilentsprings blogspot\n\nsilentsprings blogspot\n\nsilentsprings blogspot\nsilentsprings blogspot\n\nsilentsprings blogspot\nsilentsprings blogspot\n\nsilentsprings blogspot\nsilentsprings blogspot\n\nsilentsprings blogspot\n",
+  "parsed": {
+    "xt": "urn:btih:d70234fab8f95545f4946ef0c8a108f5ae9a0e67",
+    "dn": "Elliot Smith Discography MP3/AAC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d70234fab8f95545f4946ef0c8a108f5ae9a0e67",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        215,
+        2,
+        52,
+        250,
+        184,
+        249,
+        85,
+        69,
+        244,
+        148,
+        110,
+        240,
+        200,
+        161,
+        8,
+        245,
+        174,
+        154,
+        14,
+        103
+      ]
+    },
+    "name": "Elliot Smith Discography MP3/AAC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 29,
+  "last_updated": "2016-12-25T15:14:13.097Z"
+}

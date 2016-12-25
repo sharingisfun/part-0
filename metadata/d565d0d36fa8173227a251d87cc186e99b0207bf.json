@@ -1,1 +1,61 @@
-{"title":"Tony Hawk Underground 2","uid":3258837,"size":2269331476,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:d565d0d36fa8173227a251d87cc186e99b0207bf&amp;dn=Tony+Hawk+Underground+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":68,"leechers":4,"uploader":"Taanie","files":7,"time":1101311560,"description":"Finfin fungerande..\n2 Skivor ca ÃƒÂ¡ 680 mb","torrent":{"xt":"urn:btih:d565d0d36fa8173227a251d87cc186e99b0207bf","amp;dn":"Tony+Hawk+Underground+2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d565d0d36fa8173227a251d87cc186e99b0207bf","infoHashBuffer":{"type":"Buffer","data":[213,101,208,211,111,168,23,50,39,162,81,216,124,193,134,233,155,2,7,191]},"announce":[],"urlList":[]}}
+{
+  "title": "Tony Hawk Underground 2",
+  "uid": 3258837,
+  "size": 2269331476,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:d565d0d36fa8173227a251d87cc186e99b0207bf&amp;dn=Tony+Hawk+Underground+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 68,
+  "leechers": 4,
+  "uploader": "Taanie",
+  "files": 7,
+  "time": 1101311560,
+  "description": "Finfin fungerande..\n2 Skivor ca ÃƒÂ¡ 680 mb",
+  "parsed": {
+    "xt": "urn:btih:d565d0d36fa8173227a251d87cc186e99b0207bf",
+    "dn": "Tony Hawk Underground 2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d565d0d36fa8173227a251d87cc186e99b0207bf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        213,
+        101,
+        208,
+        211,
+        111,
+        168,
+        23,
+        50,
+        39,
+        162,
+        81,
+        216,
+        124,
+        193,
+        134,
+        233,
+        155,
+        2,
+        7,
+        191
+      ]
+    },
+    "name": "Tony Hawk Underground 2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 72,
+  "peers": 93,
+  "last_updated": "2016-12-25T15:04:59.418Z"
+}

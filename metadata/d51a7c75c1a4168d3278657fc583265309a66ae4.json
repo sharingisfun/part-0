@@ -1,1 +1,63 @@
-{"title":"BAHAR S01 DVD 52 (ep-131-132) GREEK SUBS.avi","uid":15920625,"size":708892896,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d51a7c75c1a4168d3278657fc583265309a66ae4&amp;dn=BAHAR+S01+DVD+52+%28ep-131-132%29+GREEK+SUBS.avi&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":212,"leechers":166,"uploader":"panview","files":1,"time":1475251038,"description":"ep.131-132","torrent":{"xt":"urn:btih:d51a7c75c1a4168d3278657fc583265309a66ae4","amp;dn":"BAHAR+S01+DVD+52+%28ep-131-132%29+GREEK+SUBS.avi","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d51a7c75c1a4168d3278657fc583265309a66ae4","infoHashBuffer":{"type":"Buffer","data":[213,26,124,117,193,164,22,141,50,120,101,127,197,131,38,83,9,166,106,228]},"announce":[],"urlList":[]}}
+{
+  "title": "BAHAR S01 DVD 52 (ep-131-132) GREEK SUBS.avi",
+  "uid": 15920625,
+  "size": 708892896,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d51a7c75c1a4168d3278657fc583265309a66ae4&amp;dn=BAHAR+S01+DVD+52+%28ep-131-132%29+GREEK+SUBS.avi&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 212,
+  "leechers": 166,
+  "uploader": "panview",
+  "files": 1,
+  "time": 1475251038,
+  "description": "ep.131-132",
+  "parsed": {
+    "xt": "urn:btih:d51a7c75c1a4168d3278657fc583265309a66ae4",
+    "dn": "BAHAR S01 DVD 52 (ep-131-132) GREEK SUBS.avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "d51a7c75c1a4168d3278657fc583265309a66ae4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        213,
+        26,
+        124,
+        117,
+        193,
+        164,
+        22,
+        141,
+        50,
+        120,
+        101,
+        127,
+        197,
+        131,
+        38,
+        83,
+        9,
+        166,
+        106,
+        228
+      ]
+    },
+    "name": "BAHAR S01 DVD 52 (ep-131-132) GREEK SUBS.avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 378,
+  "peers": 52,
+  "last_updated": "2016-12-25T15:03:27.162Z"
+}

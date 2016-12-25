@@ -1,1 +1,61 @@
-{"title":"The Carrie Diaries - Season 1","uid":8544511,"size":4015228793,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d563671ffb1598fe182e992df2fb33951c6c8f0f&amp;dn=The+Carrie+Diaries+-+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":9,"uploader":"kodokapi","files":13,"time":1370486900,"description":"The Carrie Diaries - Season 1","torrent":{"xt":"urn:btih:d563671ffb1598fe182e992df2fb33951c6c8f0f","amp;dn":"The+Carrie+Diaries+-+Season+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d563671ffb1598fe182e992df2fb33951c6c8f0f","infoHashBuffer":{"type":"Buffer","data":[213,99,103,31,251,21,152,254,24,46,153,45,242,251,51,149,28,108,143,15]},"announce":[],"urlList":[]}}
+{
+  "title": "The Carrie Diaries - Season 1",
+  "uid": 8544511,
+  "size": 4015228793,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d563671ffb1598fe182e992df2fb33951c6c8f0f&amp;dn=The+Carrie+Diaries+-+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 9,
+  "uploader": "kodokapi",
+  "files": 13,
+  "time": 1370486900,
+  "description": "The Carrie Diaries - Season 1",
+  "parsed": {
+    "xt": "urn:btih:d563671ffb1598fe182e992df2fb33951c6c8f0f",
+    "dn": "The Carrie Diaries - Season 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d563671ffb1598fe182e992df2fb33951c6c8f0f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        213,
+        99,
+        103,
+        31,
+        251,
+        21,
+        152,
+        254,
+        24,
+        46,
+        153,
+        45,
+        242,
+        251,
+        51,
+        149,
+        28,
+        108,
+        143,
+        15
+      ]
+    },
+    "name": "The Carrie Diaries - Season 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 18,
+  "last_updated": "2016-12-25T15:04:55.406Z"
+}

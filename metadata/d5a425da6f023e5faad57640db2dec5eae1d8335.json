@@ -1,1 +1,61 @@
-{"title":"Mr Robot S01E07 HDTV XviD-FUM[ettv]","uid":12201422,"size":366312907,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d5a425da6f023e5faad57640db2dec5eae1d8335&amp;dn=Mr+Robot+S01E07+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":102,"leechers":10,"uploader":"ettv","files":2,"time":1438839723,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:d5a425da6f023e5faad57640db2dec5eae1d8335","amp;dn":"Mr+Robot+S01E07+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d5a425da6f023e5faad57640db2dec5eae1d8335","infoHashBuffer":{"type":"Buffer","data":[213,164,37,218,111,2,62,95,170,213,118,64,219,45,236,94,174,29,131,53]},"announce":[],"urlList":[]}}
+{
+  "title": "Mr Robot S01E07 HDTV XviD-FUM[ettv]",
+  "uid": 12201422,
+  "size": 366312907,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d5a425da6f023e5faad57640db2dec5eae1d8335&amp;dn=Mr+Robot+S01E07+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 102,
+  "leechers": 10,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1438839723,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:d5a425da6f023e5faad57640db2dec5eae1d8335",
+    "dn": "Mr Robot S01E07 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d5a425da6f023e5faad57640db2dec5eae1d8335",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        213,
+        164,
+        37,
+        218,
+        111,
+        2,
+        62,
+        95,
+        170,
+        213,
+        118,
+        64,
+        219,
+        45,
+        236,
+        94,
+        174,
+        29,
+        131,
+        53
+      ]
+    },
+    "name": "Mr Robot S01E07 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 112,
+  "peers": 15,
+  "last_updated": "2016-12-25T15:06:33.692Z"
+}

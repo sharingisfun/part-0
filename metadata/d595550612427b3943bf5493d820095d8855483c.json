@@ -1,1 +1,61 @@
-{"title":"Jason Mraz - I'm Yours","uid":3703478,"size":4125297,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d595550612427b3943bf5493d820095d8855483c&amp;dn=Jason+Mraz+-+I%5C%27m+Yours&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":1,"uploader":"simmen6","files":1,"time":1180791883,"description":"Jason Mraz - I'm Yours \n\n\n\n128 kbit\n\nEdit: This is the first original version of the song.","torrent":{"xt":"urn:btih:d595550612427b3943bf5493d820095d8855483c","amp;dn":"Jason+Mraz+-+I%5C%27m+Yours","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d595550612427b3943bf5493d820095d8855483c","infoHashBuffer":{"type":"Buffer","data":[213,149,85,6,18,66,123,57,67,191,84,147,216,32,9,93,136,85,72,60]},"announce":[],"urlList":[]}}
+{
+  "title": "Jason Mraz - I'm Yours",
+  "uid": 3703478,
+  "size": 4125297,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d595550612427b3943bf5493d820095d8855483c&amp;dn=Jason+Mraz+-+I%5C%27m+Yours&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 1,
+  "uploader": "simmen6",
+  "files": 1,
+  "time": 1180791883,
+  "description": "Jason Mraz - I'm Yours \n\n\n\n128 kbit\n\nEdit: This is the first original version of the song.",
+  "parsed": {
+    "xt": "urn:btih:d595550612427b3943bf5493d820095d8855483c",
+    "dn": "Jason Mraz - I\\'m Yours",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d595550612427b3943bf5493d820095d8855483c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        213,
+        149,
+        85,
+        6,
+        18,
+        66,
+        123,
+        57,
+        67,
+        191,
+        84,
+        147,
+        216,
+        32,
+        9,
+        93,
+        136,
+        85,
+        72,
+        60
+      ]
+    },
+    "name": "Jason Mraz - I\\'m Yours",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 88,
+  "last_updated": "2016-12-25T15:06:17.646Z"
+}

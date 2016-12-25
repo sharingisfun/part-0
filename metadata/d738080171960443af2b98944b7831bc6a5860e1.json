@@ -1,1 +1,63 @@
-{"title":"Acronis True Image 2016 19.0.6571 + BootCD","uid":15914653,"size":20716488,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:d738080171960443af2b98944b7831bc6a5860e1&amp;dn=Acronis+True+Image+2016+19.0.6571+%2B+BootCD&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":69,"leechers":44,"uploader":"gerardpmorris","files":4,"time":1475189261,"description":"very....good","torrent":{"xt":"urn:btih:d738080171960443af2b98944b7831bc6a5860e1","amp;dn":"Acronis+True+Image+2016+19.0.6571+%2B+BootCD","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d738080171960443af2b98944b7831bc6a5860e1","infoHashBuffer":{"type":"Buffer","data":[215,56,8,1,113,150,4,67,175,43,152,148,75,120,49,188,106,88,96,225]},"announce":[],"urlList":[]}}
+{
+  "title": "Acronis True Image 2016 19.0.6571 + BootCD",
+  "uid": 15914653,
+  "size": 20716488,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:d738080171960443af2b98944b7831bc6a5860e1&amp;dn=Acronis+True+Image+2016+19.0.6571+%2B+BootCD&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 69,
+  "leechers": 44,
+  "uploader": "gerardpmorris",
+  "files": 4,
+  "time": 1475189261,
+  "description": "very....good",
+  "parsed": {
+    "xt": "urn:btih:d738080171960443af2b98944b7831bc6a5860e1",
+    "dn": "Acronis True Image 2016 19.0.6571   BootCD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "d738080171960443af2b98944b7831bc6a5860e1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        215,
+        56,
+        8,
+        1,
+        113,
+        150,
+        4,
+        67,
+        175,
+        43,
+        152,
+        148,
+        75,
+        120,
+        49,
+        188,
+        106,
+        88,
+        96,
+        225
+      ]
+    },
+    "name": "Acronis True Image 2016 19.0.6571   BootCD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 113,
+  "peers": 1,
+  "last_updated": "2016-12-25T15:15:37.431Z"
+}

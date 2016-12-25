@@ -1,1 +1,61 @@
-{"title":"Elementary.S03E17.HDTV.x264-LOL[ettv]","uid":11751141,"size":212109724,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d69fda7dff3e382a88863c69e7c55ee99387893c&amp;dn=Elementary.S03E17.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":312,"leechers":69,"uploader":"ettv","files":4,"time":1426219114,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                          &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:d69fda7dff3e382a88863c69e7c55ee99387893c","amp;dn":"Elementary.S03E17.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d69fda7dff3e382a88863c69e7c55ee99387893c","infoHashBuffer":{"type":"Buffer","data":[214,159,218,125,255,62,56,42,136,134,60,105,231,197,94,233,147,135,137,60]},"announce":[],"urlList":[]}}
+{
+  "title": "Elementary.S03E17.HDTV.x264-LOL[ettv]",
+  "uid": 11751141,
+  "size": 212109724,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d69fda7dff3e382a88863c69e7c55ee99387893c&amp;dn=Elementary.S03E17.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 312,
+  "leechers": 69,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1426219114,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                          &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:d69fda7dff3e382a88863c69e7c55ee99387893c",
+    "dn": "Elementary.S03E17.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d69fda7dff3e382a88863c69e7c55ee99387893c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        214,
+        159,
+        218,
+        125,
+        255,
+        62,
+        56,
+        42,
+        136,
+        134,
+        60,
+        105,
+        231,
+        197,
+        94,
+        233,
+        147,
+        135,
+        137,
+        60
+      ]
+    },
+    "name": "Elementary.S03E17.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 381,
+  "peers": 37,
+  "last_updated": "2016-12-25T15:12:08.695Z"
+}
