@@ -1,1 +1,61 @@
-{"title":"Shakira - Waka Waka (FIFA World Cup 2010 Anthem)","uid":5511575,"size":10090624,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:7b3875ab09f5045a991984104fc33fe46fc7e7e3&amp;dn=Shakira+-+Waka+Waka+%28FIFA+World+Cup+2010+Anthem%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":7,"uploader":"YAULAS","files":2,"time":1272072840,"description":"Shakira - Waka Waka (Official FIFA World Cup 2010 Anthem; English &amp; Spanish Versions)\n\nEnglish Version: \nWaka Waka (This Time For Africa)\n256kbps MP3\n\nSpanish Version:\nWaka Waka (Esto Es Africa)\n128kbps MP3","torrent":{"xt":"urn:btih:7b3875ab09f5045a991984104fc33fe46fc7e7e3","amp;dn":"Shakira+-+Waka+Waka+%28FIFA+World+Cup+2010+Anthem%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7b3875ab09f5045a991984104fc33fe46fc7e7e3","infoHashBuffer":{"type":"Buffer","data":[123,56,117,171,9,245,4,90,153,25,132,16,79,195,63,228,111,199,231,227]},"announce":[],"urlList":[]}}
+{
+  "title": "Shakira - Waka Waka (FIFA World Cup 2010 Anthem)",
+  "uid": 5511575,
+  "size": 10090624,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:7b3875ab09f5045a991984104fc33fe46fc7e7e3&amp;dn=Shakira+-+Waka+Waka+%28FIFA+World+Cup+2010+Anthem%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 7,
+  "uploader": "YAULAS",
+  "files": 2,
+  "time": 1272072840,
+  "description": "Shakira - Waka Waka (Official FIFA World Cup 2010 Anthem; English &amp; Spanish Versions)\n\nEnglish Version: \nWaka Waka (This Time For Africa)\n256kbps MP3\n\nSpanish Version:\nWaka Waka (Esto Es Africa)\n128kbps MP3",
+  "parsed": {
+    "xt": "urn:btih:7b3875ab09f5045a991984104fc33fe46fc7e7e3",
+    "dn": "Shakira - Waka Waka (FIFA World Cup 2010 Anthem)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7b3875ab09f5045a991984104fc33fe46fc7e7e3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        123,
+        56,
+        117,
+        171,
+        9,
+        245,
+        4,
+        90,
+        153,
+        25,
+        132,
+        16,
+        79,
+        195,
+        63,
+        228,
+        111,
+        199,
+        231,
+        227
+      ]
+    },
+    "name": "Shakira - Waka Waka (FIFA World Cup 2010 Anthem)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 74,
+  "last_updated": "2016-12-25T05:33:14.579Z"
+}

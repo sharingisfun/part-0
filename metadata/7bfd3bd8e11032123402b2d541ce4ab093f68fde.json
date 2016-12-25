@@ -1,1 +1,61 @@
-{"title":"Banshee S03E01 HDTV.XviD-AFG[Pawulon]","uid":11675186,"size":441337984,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:7bfd3bd8e11032123402b2d541ce4ab093f68fde&amp;dn=Banshee+S03E01+HDTV.XviD-AFG%5BPawulon%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":2,"uploader":"krzysiekvip2","files":5,"time":1422825858,"description":"Duration : 50 Minutes\nRelease Size : 421MB\nXviD Video : 1 029 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 640x360 (1.778)","torrent":{"xt":"urn:btih:7bfd3bd8e11032123402b2d541ce4ab093f68fde","amp;dn":"Banshee+S03E01+HDTV.XviD-AFG%5BPawulon%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7bfd3bd8e11032123402b2d541ce4ab093f68fde","infoHashBuffer":{"type":"Buffer","data":[123,253,59,216,225,16,50,18,52,2,178,213,65,206,74,176,147,246,143,222]},"announce":[],"urlList":[]}}
+{
+  "title": "Banshee S03E01 HDTV.XviD-AFG[Pawulon]",
+  "uid": 11675186,
+  "size": 441337984,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:7bfd3bd8e11032123402b2d541ce4ab093f68fde&amp;dn=Banshee+S03E01+HDTV.XviD-AFG%5BPawulon%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 2,
+  "uploader": "krzysiekvip2",
+  "files": 5,
+  "time": 1422825858,
+  "description": "Duration : 50 Minutes\nRelease Size : 421MB\nXviD Video : 1 029 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 640x360 (1.778)",
+  "parsed": {
+    "xt": "urn:btih:7bfd3bd8e11032123402b2d541ce4ab093f68fde",
+    "dn": "Banshee S03E01 HDTV.XviD-AFG[Pawulon]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7bfd3bd8e11032123402b2d541ce4ab093f68fde",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        123,
+        253,
+        59,
+        216,
+        225,
+        16,
+        50,
+        18,
+        52,
+        2,
+        178,
+        213,
+        65,
+        206,
+        74,
+        176,
+        147,
+        246,
+        143,
+        222
+      ]
+    },
+    "name": "Banshee S03E01 HDTV.XviD-AFG[Pawulon]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 10,
+  "last_updated": "2016-12-25T05:37:55.381Z"
+}

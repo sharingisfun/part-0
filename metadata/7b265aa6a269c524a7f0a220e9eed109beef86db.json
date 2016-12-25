@@ -1,1 +1,61 @@
-{"title":"Trash.2014.720p.BluRay.x264-ROVERS","uid":11710511,"size":5862996737,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:7b265aa6a269c524a7f0a220e9eed109beef86db&amp;dn=Trash.2014.720p.BluRay.x264-ROVERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":3,"uploader":"GoodFilms","files":4,"time":1424320292,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt1921149/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt1921149/&lt;/a&gt;","torrent":{"xt":"urn:btih:7b265aa6a269c524a7f0a220e9eed109beef86db","amp;dn":"Trash.2014.720p.BluRay.x264-ROVERS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7b265aa6a269c524a7f0a220e9eed109beef86db","infoHashBuffer":{"type":"Buffer","data":[123,38,90,166,162,105,197,36,167,240,162,32,233,238,209,9,190,239,134,219]},"announce":[],"urlList":[]}}
+{
+  "title": "Trash.2014.720p.BluRay.x264-ROVERS",
+  "uid": 11710511,
+  "size": 5862996737,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:7b265aa6a269c524a7f0a220e9eed109beef86db&amp;dn=Trash.2014.720p.BluRay.x264-ROVERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 3,
+  "uploader": "GoodFilms",
+  "files": 4,
+  "time": 1424320292,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt1921149/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt1921149/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:7b265aa6a269c524a7f0a220e9eed109beef86db",
+    "dn": "Trash.2014.720p.BluRay.x264-ROVERS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7b265aa6a269c524a7f0a220e9eed109beef86db",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        123,
+        38,
+        90,
+        166,
+        162,
+        105,
+        197,
+        36,
+        167,
+        240,
+        162,
+        32,
+        233,
+        238,
+        209,
+        9,
+        190,
+        239,
+        134,
+        219
+      ]
+    },
+    "name": "Trash.2014.720p.BluRay.x264-ROVERS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 2,
+  "last_updated": "2016-12-25T05:32:38.342Z"
+}

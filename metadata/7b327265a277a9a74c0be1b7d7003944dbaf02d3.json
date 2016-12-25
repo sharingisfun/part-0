@@ -1,1 +1,61 @@
-{"title":"Power 2014 S01E08 HDTV x264-KILLERS[ettv]","uid":10682380,"size":348787481,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:7b327265a277a9a74c0be1b7d7003944dbaf02d3&amp;dn=Power+2014+S01E08+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":223,"leechers":10,"uploader":"ettv","files":2,"time":1407043818,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:7b327265a277a9a74c0be1b7d7003944dbaf02d3","amp;dn":"Power+2014+S01E08+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7b327265a277a9a74c0be1b7d7003944dbaf02d3","infoHashBuffer":{"type":"Buffer","data":[123,50,114,101,162,119,169,167,76,11,225,183,215,0,57,68,219,175,2,211]},"announce":[],"urlList":[]}}
+{
+  "title": "Power 2014 S01E08 HDTV x264-KILLERS[ettv]",
+  "uid": 10682380,
+  "size": 348787481,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:7b327265a277a9a74c0be1b7d7003944dbaf02d3&amp;dn=Power+2014+S01E08+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 223,
+  "leechers": 10,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1407043818,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:7b327265a277a9a74c0be1b7d7003944dbaf02d3",
+    "dn": "Power 2014 S01E08 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7b327265a277a9a74c0be1b7d7003944dbaf02d3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        123,
+        50,
+        114,
+        101,
+        162,
+        119,
+        169,
+        167,
+        76,
+        11,
+        225,
+        183,
+        215,
+        0,
+        57,
+        68,
+        219,
+        175,
+        2,
+        211
+      ]
+    },
+    "name": "Power 2014 S01E08 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 233,
+  "peers": 7,
+  "last_updated": "2016-12-25T05:32:58.401Z"
+}

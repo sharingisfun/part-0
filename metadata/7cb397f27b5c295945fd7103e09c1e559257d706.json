@@ -1,1 +1,61 @@
-{"title":"Metal Slug Series [PC-Game]","uid":4752107,"size":241486168,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:7cb397f27b5c295945fd7103e09c1e559257d706&amp;dn=Metal+Slug+Series+%5BPC-Game%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":116,"leechers":2,"uploader":"A619","files":2,"time":1236248943,"description":"All series of the amazing game : metal slug\n\nA 6 1 9","torrent":{"xt":"urn:btih:7cb397f27b5c295945fd7103e09c1e559257d706","amp;dn":"Metal+Slug+Series+%5BPC-Game%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7cb397f27b5c295945fd7103e09c1e559257d706","infoHashBuffer":{"type":"Buffer","data":[124,179,151,242,123,92,41,89,69,253,113,3,224,156,30,85,146,87,215,6]},"announce":[],"urlList":[]}}
+{
+  "title": "Metal Slug Series [PC-Game]",
+  "uid": 4752107,
+  "size": 241486168,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:7cb397f27b5c295945fd7103e09c1e559257d706&amp;dn=Metal+Slug+Series+%5BPC-Game%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 116,
+  "leechers": 2,
+  "uploader": "A619",
+  "files": 2,
+  "time": 1236248943,
+  "description": "All series of the amazing game : metal slug\n\nA 6 1 9",
+  "parsed": {
+    "xt": "urn:btih:7cb397f27b5c295945fd7103e09c1e559257d706",
+    "dn": "Metal Slug Series [PC-Game]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7cb397f27b5c295945fd7103e09c1e559257d706",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        124,
+        179,
+        151,
+        242,
+        123,
+        92,
+        41,
+        89,
+        69,
+        253,
+        113,
+        3,
+        224,
+        156,
+        30,
+        85,
+        146,
+        87,
+        215,
+        6
+      ]
+    },
+    "name": "Metal Slug Series [PC-Game]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 118,
+  "peers": 109,
+  "last_updated": "2016-12-25T05:42:26.296Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Tinariwen - Emmaar [2014] 320","uid":9502793,"size":119199846,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:7d65fc5d57a5977059bbfc45450b241969f557a2&amp;dn=Tinariwen+-+Emmaar+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":2,"uploader":"Capajebo","files":-1,"time":1390255417,"description":"=================================\n* Tinariwen - Emmaar [2014] 320 *\n.................................\n\nGenre : Blues / World\nYear : 2014\nQuality / Bitrate : MP3 @ 320\nSource : CD\nTotal Size / Time : 113MB / 49:21\n---------------------------------\n\n::: TRACKLIST :::\n1. Toumast Tincha ..........04:21\n2. Chaghaybou ..............04:55\n3. Arhegh Danagh ...........04:04\n4. Timadrit In Sahara ......03:52\n5. Imidiwan Ahi Sigdim .....04:52\n6. Tahalamot ...............05:04\n7. Sendad Eghlalan .........04:56\n8. Imdiwanin ahi Tifhamam ..04:38\n9. Koud Edhaz Emin .........04:34\n10.Emajer ..................03:38\n11.Aghregh Medin ...........04:21\n.................................\n=================================","torrent":{"xt":"urn:btih:7d65fc5d57a5977059bbfc45450b241969f557a2","amp;dn":"Tinariwen+-+Emmaar+%5B2014%5D+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7d65fc5d57a5977059bbfc45450b241969f557a2","infoHashBuffer":{"type":"Buffer","data":[125,101,252,93,87,165,151,112,89,187,252,69,69,11,36,25,105,245,87,162]},"announce":[],"urlList":[]}}
+{
+  "title": "Tinariwen - Emmaar [2014] 320",
+  "uid": 9502793,
+  "size": 119199846,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:7d65fc5d57a5977059bbfc45450b241969f557a2&amp;dn=Tinariwen+-+Emmaar+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 2,
+  "uploader": "Capajebo",
+  "files": -1,
+  "time": 1390255417,
+  "description": "=================================\n* Tinariwen - Emmaar [2014] 320 *\n.................................\n\nGenre : Blues / World\nYear : 2014\nQuality / Bitrate : MP3 @ 320\nSource : CD\nTotal Size / Time : 113MB / 49:21\n---------------------------------\n\n::: TRACKLIST :::\n1. Toumast Tincha ..........04:21\n2. Chaghaybou ..............04:55\n3. Arhegh Danagh ...........04:04\n4. Timadrit In Sahara ......03:52\n5. Imidiwan Ahi Sigdim .....04:52\n6. Tahalamot ...............05:04\n7. Sendad Eghlalan .........04:56\n8. Imdiwanin ahi Tifhamam ..04:38\n9. Koud Edhaz Emin .........04:34\n10.Emajer ..................03:38\n11.Aghregh Medin ...........04:21\n.................................\n=================================",
+  "parsed": {
+    "xt": "urn:btih:7d65fc5d57a5977059bbfc45450b241969f557a2",
+    "dn": "Tinariwen - Emmaar [2014] 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7d65fc5d57a5977059bbfc45450b241969f557a2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        125,
+        101,
+        252,
+        93,
+        87,
+        165,
+        151,
+        112,
+        89,
+        187,
+        252,
+        69,
+        69,
+        11,
+        36,
+        25,
+        105,
+        245,
+        87,
+        162
+      ]
+    },
+    "name": "Tinariwen - Emmaar [2014] 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 13,
+  "last_updated": "2016-12-25T05:46:07.056Z"
+}

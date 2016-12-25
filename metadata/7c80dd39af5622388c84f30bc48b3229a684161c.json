@@ -1,1 +1,61 @@
-{"title":"Around the World in 80 Days (2004) BR rip torrent","uid":7347956,"size":787907734,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:7c80dd39af5622388c84f30bc48b3229a684161c&amp;dn=Around+the+World+in+80+Days+%282004%29+BR+rip+torrent&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":13,"uploader":"smartwist","files":6,"time":1339492709,"description":"nice movie","torrent":{"xt":"urn:btih:7c80dd39af5622388c84f30bc48b3229a684161c","amp;dn":"Around+the+World+in+80+Days+%282004%29+BR+rip+torrent","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7c80dd39af5622388c84f30bc48b3229a684161c","infoHashBuffer":{"type":"Buffer","data":[124,128,221,57,175,86,34,56,140,132,243,11,196,139,50,41,166,132,22,28]},"announce":[],"urlList":[]}}
+{
+  "title": "Around the World in 80 Days (2004) BR rip torrent",
+  "uid": 7347956,
+  "size": 787907734,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:7c80dd39af5622388c84f30bc48b3229a684161c&amp;dn=Around+the+World+in+80+Days+%282004%29+BR+rip+torrent&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 13,
+  "uploader": "smartwist",
+  "files": 6,
+  "time": 1339492709,
+  "description": "nice movie",
+  "parsed": {
+    "xt": "urn:btih:7c80dd39af5622388c84f30bc48b3229a684161c",
+    "dn": "Around the World in 80 Days (2004) BR rip torrent",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7c80dd39af5622388c84f30bc48b3229a684161c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        124,
+        128,
+        221,
+        57,
+        175,
+        86,
+        34,
+        56,
+        140,
+        132,
+        243,
+        11,
+        196,
+        139,
+        50,
+        41,
+        166,
+        132,
+        22,
+        28
+      ]
+    },
+    "name": "Around the World in 80 Days (2004) BR rip torrent",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 50,
+  "last_updated": "2016-12-25T05:41:03.997Z"
+}

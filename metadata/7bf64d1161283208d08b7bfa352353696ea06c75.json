@@ -1,1 +1,61 @@
-{"title":"PMDG 737 NGX 800/900 COMPLETE/COMPLETO","uid":6587204,"size":673097415,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:7bf64d1161283208d08b7bfa352353696ea06c75&amp;dn=PMDG+737+NGX+800%2F900+COMPLETE%2FCOMPLETO&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":2,"uploader":"sosimuladores1","files":1,"time":1312659367,"description":"COMPLETO by Matt","torrent":{"xt":"urn:btih:7bf64d1161283208d08b7bfa352353696ea06c75","amp;dn":"PMDG+737+NGX+800%2F900+COMPLETE%2FCOMPLETO","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7bf64d1161283208d08b7bfa352353696ea06c75","infoHashBuffer":{"type":"Buffer","data":[123,246,77,17,97,40,50,8,208,139,123,250,53,35,83,105,110,160,108,117]},"announce":[],"urlList":[]}}
+{
+  "title": "PMDG 737 NGX 800/900 COMPLETE/COMPLETO",
+  "uid": 6587204,
+  "size": 673097415,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:7bf64d1161283208d08b7bfa352353696ea06c75&amp;dn=PMDG+737+NGX+800%2F900+COMPLETE%2FCOMPLETO&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 2,
+  "uploader": "sosimuladores1",
+  "files": 1,
+  "time": 1312659367,
+  "description": "COMPLETO by Matt",
+  "parsed": {
+    "xt": "urn:btih:7bf64d1161283208d08b7bfa352353696ea06c75",
+    "dn": "PMDG 737 NGX 800/900 COMPLETE/COMPLETO",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7bf64d1161283208d08b7bfa352353696ea06c75",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        123,
+        246,
+        77,
+        17,
+        97,
+        40,
+        50,
+        8,
+        208,
+        139,
+        123,
+        250,
+        53,
+        35,
+        83,
+        105,
+        110,
+        160,
+        108,
+        117
+      ]
+    },
+    "name": "PMDG 737 NGX 800/900 COMPLETE/COMPLETO",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 13,
+  "last_updated": "2016-12-25T05:37:45.353Z"
+}

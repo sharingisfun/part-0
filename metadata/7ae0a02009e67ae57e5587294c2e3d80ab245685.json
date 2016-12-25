@@ -1,1 +1,61 @@
-{"title":"Raspberry Pi Home Automation with Arduino - 2013","uid":8350305,"size":5363386,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:7ae0a02009e67ae57e5587294c2e3d80ab245685&amp;dn=Raspberry+Pi+Home+Automation+with+Arduino+-+2013&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":65,"leechers":0,"uploader":"bpfine","files":-1,"time":1365320893,"description":"\nRaspberry Pi Home Automation with Arduino - 2013\n\nPublication Date: February 5, 2013 | ISBN:  978-1-84969-586-2\n\n176 Pages | PDF | English | 5 MB \n\n\n\nThis essential reference will guide you through a series of exciting projects that will allow you to automate your very own home. With easy-to-follow, step-by-step examples, diagrams, and explanations you will not only find it incredibly productive but also highly engaging and informative.\n\nWhat you will learn from this book:  Install an operating system for your Raspberry Pi.  Set up the Raspberry Pi and Arduino bridge shield.  Learn how to work with electronic components to build small circuits.  Develop applications that interact with your circuits.  Use thermistors and photoresistors to monitor and control your surroundings.  Control your own mains power with a relay shield and even connect a motor to your Raspberry Pi.\n\nEven if you have no prior experience with the Raspberry Pi or home automation you can pick up this book and develop these amazing projects. Full of detailed step-by-step instructions, diagrams, and images this essential guide allows you to revolutionize the way you interact with your home. If you don't know where to start, then this is the perfect book for you.\n","torrent":{"xt":"urn:btih:7ae0a02009e67ae57e5587294c2e3d80ab245685","amp;dn":"Raspberry+Pi+Home+Automation+with+Arduino+-+2013","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7ae0a02009e67ae57e5587294c2e3d80ab245685","infoHashBuffer":{"type":"Buffer","data":[122,224,160,32,9,230,122,229,126,85,135,41,76,46,61,128,171,36,86,133]},"announce":[],"urlList":[]}}
+{
+  "title": "Raspberry Pi Home Automation with Arduino - 2013",
+  "uid": 8350305,
+  "size": 5363386,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:7ae0a02009e67ae57e5587294c2e3d80ab245685&amp;dn=Raspberry+Pi+Home+Automation+with+Arduino+-+2013&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 65,
+  "leechers": 0,
+  "uploader": "bpfine",
+  "files": -1,
+  "time": 1365320893,
+  "description": "\nRaspberry Pi Home Automation with Arduino - 2013\n\nPublication Date: February 5, 2013 | ISBN:  978-1-84969-586-2\n\n176 Pages | PDF | English | 5 MB \n\n\n\nThis essential reference will guide you through a series of exciting projects that will allow you to automate your very own home. With easy-to-follow, step-by-step examples, diagrams, and explanations you will not only find it incredibly productive but also highly engaging and informative.\n\nWhat you will learn from this book:  Install an operating system for your Raspberry Pi.  Set up the Raspberry Pi and Arduino bridge shield.  Learn how to work with electronic components to build small circuits.  Develop applications that interact with your circuits.  Use thermistors and photoresistors to monitor and control your surroundings.  Control your own mains power with a relay shield and even connect a motor to your Raspberry Pi.\n\nEven if you have no prior experience with the Raspberry Pi or home automation you can pick up this book and develop these amazing projects. Full of detailed step-by-step instructions, diagrams, and images this essential guide allows you to revolutionize the way you interact with your home. If you don't know where to start, then this is the perfect book for you.\n",
+  "parsed": {
+    "xt": "urn:btih:7ae0a02009e67ae57e5587294c2e3d80ab245685",
+    "dn": "Raspberry Pi Home Automation with Arduino - 2013",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7ae0a02009e67ae57e5587294c2e3d80ab245685",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        122,
+        224,
+        160,
+        32,
+        9,
+        230,
+        122,
+        229,
+        126,
+        85,
+        135,
+        41,
+        76,
+        46,
+        61,
+        128,
+        171,
+        36,
+        86,
+        133
+      ]
+    },
+    "name": "Raspberry Pi Home Automation with Arduino - 2013",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 78,
+  "last_updated": "2016-12-25T05:30:56.020Z"
+}

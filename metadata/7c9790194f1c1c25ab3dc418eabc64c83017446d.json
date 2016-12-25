@@ -1,1 +1,61 @@
-{"title":"fun. - Some Nights (2012) [320kbps]","uid":7048751,"size":111660149,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:7c9790194f1c1c25ab3dc418eabc64c83017446d&amp;dn=fun.+-+Some+Nights+%282012%29+%5B320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":1,"uploader":"theK3R","files":-1,"time":1329833546,"description":"fun. - Some Nights (2012)\n\n\n[Notes]\n\nBit Rate:    320kbps\nSample Rate: 44.100 kHz\nChannels:    Stereo\nFormat:      MP3\n\n\n[Tracks]\n\n1. Some Nights (Intro)\n2. Some Nights\n3. We Are Young (feat. Janelle MonÃƒÆ’Ã‚Â¡e)\n4. Carry On\n5. It Gets Better\n6. Why Am I the One\n7. All Alone\n8. All Alright\n9. One Foot\n10. Stars\n11. Out on the Town (Bonus Track)","torrent":{"xt":"urn:btih:7c9790194f1c1c25ab3dc418eabc64c83017446d","amp;dn":"fun.+-+Some+Nights+%282012%29+%5B320kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7c9790194f1c1c25ab3dc418eabc64c83017446d","infoHashBuffer":{"type":"Buffer","data":[124,151,144,25,79,28,28,37,171,61,196,24,234,188,100,200,48,23,68,109]},"announce":[],"urlList":[]}}
+{
+  "title": "fun. - Some Nights (2012) [320kbps]",
+  "uid": 7048751,
+  "size": 111660149,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:7c9790194f1c1c25ab3dc418eabc64c83017446d&amp;dn=fun.+-+Some+Nights+%282012%29+%5B320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 1,
+  "uploader": "theK3R",
+  "files": -1,
+  "time": 1329833546,
+  "description": "fun. - Some Nights (2012)\n\n\n[Notes]\n\nBit Rate:    320kbps\nSample Rate: 44.100 kHz\nChannels:    Stereo\nFormat:      MP3\n\n\n[Tracks]\n\n1. Some Nights (Intro)\n2. Some Nights\n3. We Are Young (feat. Janelle MonÃƒÆ’Ã‚Â¡e)\n4. Carry On\n5. It Gets Better\n6. Why Am I the One\n7. All Alone\n8. All Alright\n9. One Foot\n10. Stars\n11. Out on the Town (Bonus Track)",
+  "parsed": {
+    "xt": "urn:btih:7c9790194f1c1c25ab3dc418eabc64c83017446d",
+    "dn": "fun. - Some Nights (2012) [320kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7c9790194f1c1c25ab3dc418eabc64c83017446d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        124,
+        151,
+        144,
+        25,
+        79,
+        28,
+        28,
+        37,
+        171,
+        61,
+        196,
+        24,
+        234,
+        188,
+        100,
+        200,
+        48,
+        23,
+        68,
+        109
+      ]
+    },
+    "name": "fun. - Some Nights (2012) [320kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 13,
+  "last_updated": "2016-12-25T05:41:38.134Z"
+}

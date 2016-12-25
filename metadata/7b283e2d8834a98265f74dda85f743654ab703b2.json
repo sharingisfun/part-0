@@ -1,1 +1,61 @@
-{"title":"Dracula.Untold.2014.iTALiAN.MD.HDRip.x264-DSL","uid":11404875,"size":1389306602,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:7b283e2d8834a98265f74dda85f743654ab703b2&amp;dn=Dracula.Untold.2014.iTALiAN.MD.HDRip.x264-DSL&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":115,"leechers":2,"uploader":"makintos13","files":2,"time":1415465541,"description":" &lt;a href=&quot;http://imgsleek.com/img-545e3c26c0c00.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgsleek.com/img-545e3c26c0c00.html&lt;/a&gt;","torrent":{"xt":"urn:btih:7b283e2d8834a98265f74dda85f743654ab703b2","amp;dn":"Dracula.Untold.2014.iTALiAN.MD.HDRip.x264-DSL","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7b283e2d8834a98265f74dda85f743654ab703b2","infoHashBuffer":{"type":"Buffer","data":[123,40,62,45,136,52,169,130,101,247,77,218,133,247,67,101,74,183,3,178]},"announce":[],"urlList":[]}}
+{
+  "title": "Dracula.Untold.2014.iTALiAN.MD.HDRip.x264-DSL",
+  "uid": 11404875,
+  "size": 1389306602,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:7b283e2d8834a98265f74dda85f743654ab703b2&amp;dn=Dracula.Untold.2014.iTALiAN.MD.HDRip.x264-DSL&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 115,
+  "leechers": 2,
+  "uploader": "makintos13",
+  "files": 2,
+  "time": 1415465541,
+  "description": " &lt;a href=&quot;http://imgsleek.com/img-545e3c26c0c00.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgsleek.com/img-545e3c26c0c00.html&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:7b283e2d8834a98265f74dda85f743654ab703b2",
+    "dn": "Dracula.Untold.2014.iTALiAN.MD.HDRip.x264-DSL",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7b283e2d8834a98265f74dda85f743654ab703b2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        123,
+        40,
+        62,
+        45,
+        136,
+        52,
+        169,
+        130,
+        101,
+        247,
+        77,
+        218,
+        133,
+        247,
+        67,
+        101,
+        74,
+        183,
+        3,
+        178
+      ]
+    },
+    "name": "Dracula.Untold.2014.iTALiAN.MD.HDRip.x264-DSL",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 117,
+  "peers": 12,
+  "last_updated": "2016-12-25T05:32:42.354Z"
+}

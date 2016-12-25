@@ -1,1 +1,61 @@
-{"title":"KISS - The Greatest Hits.2CDs[mp3]","uid":6550047,"size":296053749,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:7cec28441a4fb4b0074ac159f0e049986df895b5&amp;dn=KISS+-+The+Greatest+Hits.2CDs%5Bmp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":92,"leechers":6,"uploader":"Black1000","files":-1,"time":1311045202,"description":"KISS - The Greatest Hits\n\nCD1\n\n01. I Was Made for Lovin You\n02. Strutter\n03. Take Me\n04. Beth\n05. Cmon and Love Me\n06. I Want You\n07. Christine Sixteen\n08. Love Gun\n09. I Stole Your Love\n10. Parasite\n11. Room Service\n12. Calling Dr. Love\n13. Got to Choose\n14. Lick It Up\n15. Rock Bottom\n16. Sure Know Something\n17. Let Me Know\n\nCD2\n\n01. Rock and Roll All Nite\n02. New York Groove\n03. Shout It Out Loud\n04. Flaming Youth\n05. Two Timer\n06. Two Sides of the Coin\n07. Hard Luck Woman\n08. Plaster Caster\n09. Do You Love Me\n10. Hotter than Hell\n11. Deuce\n12. Detroit Rock City\n13. God Gave RocknRoll to You II\n14. I Love It Loud\n15. Firehouse\n16. Cold Gin\n17. Forever\n","torrent":{"xt":"urn:btih:7cec28441a4fb4b0074ac159f0e049986df895b5","amp;dn":"KISS+-+The+Greatest+Hits.2CDs%5Bmp3%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7cec28441a4fb4b0074ac159f0e049986df895b5","infoHashBuffer":{"type":"Buffer","data":[124,236,40,68,26,79,180,176,7,74,193,89,240,224,73,152,109,248,149,181]},"announce":[],"urlList":[]}}
+{
+  "title": "KISS - The Greatest Hits.2CDs[mp3]",
+  "uid": 6550047,
+  "size": 296053749,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:7cec28441a4fb4b0074ac159f0e049986df895b5&amp;dn=KISS+-+The+Greatest+Hits.2CDs%5Bmp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 92,
+  "leechers": 6,
+  "uploader": "Black1000",
+  "files": -1,
+  "time": 1311045202,
+  "description": "KISS - The Greatest Hits\n\nCD1\n\n01. I Was Made for Lovin You\n02. Strutter\n03. Take Me\n04. Beth\n05. Cmon and Love Me\n06. I Want You\n07. Christine Sixteen\n08. Love Gun\n09. I Stole Your Love\n10. Parasite\n11. Room Service\n12. Calling Dr. Love\n13. Got to Choose\n14. Lick It Up\n15. Rock Bottom\n16. Sure Know Something\n17. Let Me Know\n\nCD2\n\n01. Rock and Roll All Nite\n02. New York Groove\n03. Shout It Out Loud\n04. Flaming Youth\n05. Two Timer\n06. Two Sides of the Coin\n07. Hard Luck Woman\n08. Plaster Caster\n09. Do You Love Me\n10. Hotter than Hell\n11. Deuce\n12. Detroit Rock City\n13. God Gave RocknRoll to You II\n14. I Love It Loud\n15. Firehouse\n16. Cold Gin\n17. Forever\n",
+  "parsed": {
+    "xt": "urn:btih:7cec28441a4fb4b0074ac159f0e049986df895b5",
+    "dn": "KISS - The Greatest Hits.2CDs[mp3]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7cec28441a4fb4b0074ac159f0e049986df895b5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        124,
+        236,
+        40,
+        68,
+        26,
+        79,
+        180,
+        176,
+        7,
+        74,
+        193,
+        89,
+        240,
+        224,
+        73,
+        152,
+        109,
+        248,
+        149,
+        181
+      ]
+    },
+    "name": "KISS - The Greatest Hits.2CDs[mp3]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 98,
+  "peers": 48,
+  "last_updated": "2016-12-25T05:43:28.529Z"
+}

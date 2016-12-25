@@ -1,1 +1,61 @@
-{"title":"How.I.Met.Your.Mother.S08E11E12.HDTV.x264-LOL.[VTV].mp4","uid":7934316,"size":275340254,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:7b87501b230bf4fd769947d83bf4d9f902d3e76b&amp;dn=How.I.Met.Your.Mother.S08E11E12.HDTV.x264-LOL.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":4,"uploader":"VTV","files":1,"time":1355801543,"description":"How I Met Your Mother 8x11 (HDTV-x264-LOL)[VTV]","torrent":{"xt":"urn:btih:7b87501b230bf4fd769947d83bf4d9f902d3e76b","amp;dn":"How.I.Met.Your.Mother.S08E11E12.HDTV.x264-LOL.%5BVTV%5D.mp4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7b87501b230bf4fd769947d83bf4d9f902d3e76b","infoHashBuffer":{"type":"Buffer","data":[123,135,80,27,35,11,244,253,118,153,71,216,59,244,217,249,2,211,231,107]},"announce":[],"urlList":[]}}
+{
+  "title": "How.I.Met.Your.Mother.S08E11E12.HDTV.x264-LOL.[VTV].mp4",
+  "uid": 7934316,
+  "size": 275340254,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:7b87501b230bf4fd769947d83bf4d9f902d3e76b&amp;dn=How.I.Met.Your.Mother.S08E11E12.HDTV.x264-LOL.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 4,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1355801543,
+  "description": "How I Met Your Mother 8x11 (HDTV-x264-LOL)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:7b87501b230bf4fd769947d83bf4d9f902d3e76b",
+    "dn": "How.I.Met.Your.Mother.S08E11E12.HDTV.x264-LOL.[VTV].mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7b87501b230bf4fd769947d83bf4d9f902d3e76b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        123,
+        135,
+        80,
+        27,
+        35,
+        11,
+        244,
+        253,
+        118,
+        153,
+        71,
+        216,
+        59,
+        244,
+        217,
+        249,
+        2,
+        211,
+        231,
+        107
+      ]
+    },
+    "name": "How.I.Met.Your.Mother.S08E11E12.HDTV.x264-LOL.[VTV].mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 5,
+  "last_updated": "2016-12-25T05:35:06.894Z"
+}
