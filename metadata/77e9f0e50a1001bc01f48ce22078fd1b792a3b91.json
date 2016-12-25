@@ -1,1 +1,61 @@
-{"title":"The Strain S01E13 WEB-DL x264-FUM[ettv]","uid":11162001,"size":285445646,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:77e9f0e50a1001bc01f48ce22078fd1b792a3b91&amp;dn=The+Strain+S01E13+WEB-DL+x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":121,"leechers":5,"uploader":"ettv","files":2,"time":1412566311,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:77e9f0e50a1001bc01f48ce22078fd1b792a3b91","amp;dn":"The+Strain+S01E13+WEB-DL+x264-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"77e9f0e50a1001bc01f48ce22078fd1b792a3b91","infoHashBuffer":{"type":"Buffer","data":[119,233,240,229,10,16,1,188,1,244,140,226,32,120,253,27,121,42,59,145]},"announce":[],"urlList":[]}}
+{
+  "title": "The Strain S01E13 WEB-DL x264-FUM[ettv]",
+  "uid": 11162001,
+  "size": 285445646,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:77e9f0e50a1001bc01f48ce22078fd1b792a3b91&amp;dn=The+Strain+S01E13+WEB-DL+x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 121,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1412566311,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:77e9f0e50a1001bc01f48ce22078fd1b792a3b91",
+    "dn": "The Strain S01E13 WEB-DL x264-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "77e9f0e50a1001bc01f48ce22078fd1b792a3b91",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        119,
+        233,
+        240,
+        229,
+        10,
+        16,
+        1,
+        188,
+        1,
+        244,
+        140,
+        226,
+        32,
+        120,
+        253,
+        27,
+        121,
+        42,
+        59,
+        145
+      ]
+    },
+    "name": "The Strain S01E13 WEB-DL x264-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 126,
+  "peers": 14,
+  "last_updated": "2016-12-25T05:12:48.305Z"
+}

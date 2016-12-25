@@ -1,1 +1,61 @@
-{"title":"Strike Back - Complete Season 4 720p","uid":9096875,"size":6505740846,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:763c5b00a9a84e8d2c8b7103c30213f9fe60c119&amp;dn=Strike+Back+-+Complete+Season+4+720p&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":77,"leechers":42,"uploader":"ITSAT","files":10,"time":1382662640,"description":"Strike Back - Complete Season 4\n\nQuality: 720p\n\nEnjoy\n","torrent":{"xt":"urn:btih:763c5b00a9a84e8d2c8b7103c30213f9fe60c119","amp;dn":"Strike+Back+-+Complete+Season+4+720p","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"763c5b00a9a84e8d2c8b7103c30213f9fe60c119","infoHashBuffer":{"type":"Buffer","data":[118,60,91,0,169,168,78,141,44,139,113,3,195,2,19,249,254,96,193,25]},"announce":[],"urlList":[]}}
+{
+  "title": "Strike Back - Complete Season 4 720p",
+  "uid": 9096875,
+  "size": 6505740846,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:763c5b00a9a84e8d2c8b7103c30213f9fe60c119&amp;dn=Strike+Back+-+Complete+Season+4+720p&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 77,
+  "leechers": 42,
+  "uploader": "ITSAT",
+  "files": 10,
+  "time": 1382662640,
+  "description": "Strike Back - Complete Season 4\n\nQuality: 720p\n\nEnjoy\n",
+  "parsed": {
+    "xt": "urn:btih:763c5b00a9a84e8d2c8b7103c30213f9fe60c119",
+    "dn": "Strike Back - Complete Season 4 720p",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "763c5b00a9a84e8d2c8b7103c30213f9fe60c119",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        118,
+        60,
+        91,
+        0,
+        169,
+        168,
+        78,
+        141,
+        44,
+        139,
+        113,
+        3,
+        195,
+        2,
+        19,
+        249,
+        254,
+        96,
+        193,
+        25
+      ]
+    },
+    "name": "Strike Back - Complete Season 4 720p",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 119,
+  "peers": 19,
+  "last_updated": "2016-12-25T05:00:58.146Z"
+}

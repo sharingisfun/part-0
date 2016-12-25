@@ -1,1 +1,61 @@
-{"title":"Farscape - Season 1-4 The Peacekeeper Wars Part 1&amp;2","uid":3307768,"size":32237791730,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:7799dcf8d952b15867cf05ac1131147b6fe899cd&amp;dn=Farscape+-+Season+1-4+The+Peacekeeper+Wars+Part+1%262&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":65,"leechers":85,"uploader":"WarBunny","files":94,"time":1111981358,"description":"Best SIFI seris ever u got to hawe it","torrent":{"xt":"urn:btih:7799dcf8d952b15867cf05ac1131147b6fe899cd","amp;dn":"Farscape+-+Season+1-4+The+Peacekeeper+Wars+Part+1%262","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7799dcf8d952b15867cf05ac1131147b6fe899cd","infoHashBuffer":{"type":"Buffer","data":[119,153,220,248,217,82,177,88,103,207,5,172,17,49,20,123,111,232,153,205]},"announce":[],"urlList":[]}}
+{
+  "title": "Farscape - Season 1-4 The Peacekeeper Wars Part 1&amp;2",
+  "uid": 3307768,
+  "size": 32237791730,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:7799dcf8d952b15867cf05ac1131147b6fe899cd&amp;dn=Farscape+-+Season+1-4+The+Peacekeeper+Wars+Part+1%262&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 65,
+  "leechers": 85,
+  "uploader": "WarBunny",
+  "files": 94,
+  "time": 1111981358,
+  "description": "Best SIFI seris ever u got to hawe it",
+  "parsed": {
+    "xt": "urn:btih:7799dcf8d952b15867cf05ac1131147b6fe899cd",
+    "dn": "Farscape - Season 1-4 The Peacekeeper Wars Part 1&2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7799dcf8d952b15867cf05ac1131147b6fe899cd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        119,
+        153,
+        220,
+        248,
+        217,
+        82,
+        177,
+        88,
+        103,
+        207,
+        5,
+        172,
+        17,
+        49,
+        20,
+        123,
+        111,
+        232,
+        153,
+        205
+      ]
+    },
+    "name": "Farscape - Season 1-4 The Peacekeeper Wars Part 1&2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 150,
+  "peers": 14,
+  "last_updated": "2016-12-25T05:10:17.868Z"
+}

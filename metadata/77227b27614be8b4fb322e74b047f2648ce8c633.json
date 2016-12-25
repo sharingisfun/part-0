@@ -1,1 +1,61 @@
-{"title":"Modern Family S06E23 720p HDTV x264 DIMENSION","uid":11918315,"size":581666914,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:77227b27614be8b4fb322e74b047f2648ce8c633&amp;dn=Modern+Family+S06E23+720p+HDTV+x264+DIMENSION&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":98,"leechers":11,"uploader":"OvoJeKraj","files":3,"time":1431581052,"description":"Enjoy and seed. Thanks!","torrent":{"xt":"urn:btih:77227b27614be8b4fb322e74b047f2648ce8c633","amp;dn":"Modern+Family+S06E23+720p+HDTV+x264+DIMENSION","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"77227b27614be8b4fb322e74b047f2648ce8c633","infoHashBuffer":{"type":"Buffer","data":[119,34,123,39,97,75,232,180,251,50,46,116,176,71,242,100,140,232,198,51]},"announce":[],"urlList":[]}}
+{
+  "title": "Modern Family S06E23 720p HDTV x264 DIMENSION",
+  "uid": 11918315,
+  "size": 581666914,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:77227b27614be8b4fb322e74b047f2648ce8c633&amp;dn=Modern+Family+S06E23+720p+HDTV+x264+DIMENSION&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 98,
+  "leechers": 11,
+  "uploader": "OvoJeKraj",
+  "files": 3,
+  "time": 1431581052,
+  "description": "Enjoy and seed. Thanks!",
+  "parsed": {
+    "xt": "urn:btih:77227b27614be8b4fb322e74b047f2648ce8c633",
+    "dn": "Modern Family S06E23 720p HDTV x264 DIMENSION",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "77227b27614be8b4fb322e74b047f2648ce8c633",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        119,
+        34,
+        123,
+        39,
+        97,
+        75,
+        232,
+        180,
+        251,
+        50,
+        46,
+        116,
+        176,
+        71,
+        242,
+        100,
+        140,
+        232,
+        198,
+        51
+      ]
+    },
+    "name": "Modern Family S06E23 720p HDTV x264 DIMENSION",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 109,
+  "peers": 11,
+  "last_updated": "2016-12-25T05:06:49.256Z"
+}

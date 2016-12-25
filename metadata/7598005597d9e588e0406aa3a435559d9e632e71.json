@@ -1,1 +1,61 @@
-{"title":"Insidious Chapter 2 1080p HD","uid":9342077,"size":852079346,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:7598005597d9e588e0406aa3a435559d9e632e71&amp;dn=Insidious+Chapter+2+1080p+HD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":211,"leechers":81,"uploader":"GFGTORRZ","files":-1,"time":1386954938,"description":"Insidious Chapter 2 1080p HD","torrent":{"xt":"urn:btih:7598005597d9e588e0406aa3a435559d9e632e71","amp;dn":"Insidious+Chapter+2+1080p+HD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7598005597d9e588e0406aa3a435559d9e632e71","infoHashBuffer":{"type":"Buffer","data":[117,152,0,85,151,217,229,136,224,64,106,163,164,53,85,157,158,99,46,113]},"announce":[],"urlList":[]}}
+{
+  "title": "Insidious Chapter 2 1080p HD",
+  "uid": 9342077,
+  "size": 852079346,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:7598005597d9e588e0406aa3a435559d9e632e71&amp;dn=Insidious+Chapter+2+1080p+HD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 211,
+  "leechers": 81,
+  "uploader": "GFGTORRZ",
+  "files": -1,
+  "time": 1386954938,
+  "description": "Insidious Chapter 2 1080p HD",
+  "parsed": {
+    "xt": "urn:btih:7598005597d9e588e0406aa3a435559d9e632e71",
+    "dn": "Insidious Chapter 2 1080p HD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7598005597d9e588e0406aa3a435559d9e632e71",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        117,
+        152,
+        0,
+        85,
+        151,
+        217,
+        229,
+        136,
+        224,
+        64,
+        106,
+        163,
+        164,
+        53,
+        85,
+        157,
+        158,
+        99,
+        46,
+        113
+      ]
+    },
+    "name": "Insidious Chapter 2 1080p HD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 292,
+  "peers": 173,
+  "last_updated": "2016-12-25T04:57:19.287Z"
+}

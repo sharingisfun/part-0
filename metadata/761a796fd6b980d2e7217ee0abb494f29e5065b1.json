@@ -1,1 +1,61 @@
-{"title":"Amnesia:The Dark Descent version:1.2.1","uid":7453158,"size":1159317287,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:761a796fd6b980d2e7217ee0abb494f29e5065b1&amp;dn=Amnesia%3AThe+Dark+Descent+version%3A1.2.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":1,"uploader":"AztroDude","files":3,"time":1342583284,"description":"1. Extract it to desktop.\n\n2. Run the software named amnesia_tdd__1.2.1 and let it install.\n\n3. After installation play the game.\n\n4. Seed. (Optional)","torrent":{"xt":"urn:btih:761a796fd6b980d2e7217ee0abb494f29e5065b1","amp;dn":"Amnesia%3AThe+Dark+Descent+version%3A1.2.1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"761a796fd6b980d2e7217ee0abb494f29e5065b1","infoHashBuffer":{"type":"Buffer","data":[118,26,121,111,214,185,128,210,231,33,126,224,171,180,148,242,158,80,101,177]},"announce":[],"urlList":[]}}
+{
+  "title": "Amnesia:The Dark Descent version:1.2.1",
+  "uid": 7453158,
+  "size": 1159317287,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:761a796fd6b980d2e7217ee0abb494f29e5065b1&amp;dn=Amnesia%3AThe+Dark+Descent+version%3A1.2.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 1,
+  "uploader": "AztroDude",
+  "files": 3,
+  "time": 1342583284,
+  "description": "1. Extract it to desktop.\n\n2. Run the software named amnesia_tdd__1.2.1 and let it install.\n\n3. After installation play the game.\n\n4. Seed. (Optional)",
+  "parsed": {
+    "xt": "urn:btih:761a796fd6b980d2e7217ee0abb494f29e5065b1",
+    "dn": "Amnesia:The Dark Descent version:1.2.1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "761a796fd6b980d2e7217ee0abb494f29e5065b1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        118,
+        26,
+        121,
+        111,
+        214,
+        185,
+        128,
+        210,
+        231,
+        33,
+        126,
+        224,
+        171,
+        180,
+        148,
+        242,
+        158,
+        80,
+        101,
+        177
+      ]
+    },
+    "name": "Amnesia:The Dark Descent version:1.2.1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 2,
+  "last_updated": "2016-12-25T05:00:19.974Z"
+}

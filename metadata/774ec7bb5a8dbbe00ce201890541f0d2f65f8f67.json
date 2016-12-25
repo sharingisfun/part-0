@@ -1,1 +1,61 @@
-{"title":"Chet Faker - Built on Glass (MP3-320Kbps) (2014)","uid":9905377,"size":125334720,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:774ec7bb5a8dbbe00ce201890541f0d2f65f8f67&amp;dn=Chet+Faker+-+Built+on+Glass+%28MP3-320Kbps%29+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":1,"uploader":"magode0z","files":14,"time":1396824112,"description":"Chet Faker - Built on Glass (2014)\n\nTracklist:\n\nRelease Your Problems\nTalk Is Cheap\nNo Advice (Airport Version)\nMelt (feat. Kilo Kish)\nGold\nTo Me\n/\nBlush\n1998\nCigarettes &amp; Loneliness\nLesson In Patience\nDead Body","torrent":{"xt":"urn:btih:774ec7bb5a8dbbe00ce201890541f0d2f65f8f67","amp;dn":"Chet+Faker+-+Built+on+Glass+%28MP3-320Kbps%29+%282014%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"774ec7bb5a8dbbe00ce201890541f0d2f65f8f67","infoHashBuffer":{"type":"Buffer","data":[119,78,199,187,90,141,187,224,12,226,1,137,5,65,240,210,246,95,143,103]},"announce":[],"urlList":[]}}
+{
+  "title": "Chet Faker - Built on Glass (MP3-320Kbps) (2014)",
+  "uid": 9905377,
+  "size": 125334720,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:774ec7bb5a8dbbe00ce201890541f0d2f65f8f67&amp;dn=Chet+Faker+-+Built+on+Glass+%28MP3-320Kbps%29+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 1,
+  "uploader": "magode0z",
+  "files": 14,
+  "time": 1396824112,
+  "description": "Chet Faker - Built on Glass (2014)\n\nTracklist:\n\nRelease Your Problems\nTalk Is Cheap\nNo Advice (Airport Version)\nMelt (feat. Kilo Kish)\nGold\nTo Me\n/\nBlush\n1998\nCigarettes &amp; Loneliness\nLesson In Patience\nDead Body",
+  "parsed": {
+    "xt": "urn:btih:774ec7bb5a8dbbe00ce201890541f0d2f65f8f67",
+    "dn": "Chet Faker - Built on Glass (MP3-320Kbps) (2014)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "774ec7bb5a8dbbe00ce201890541f0d2f65f8f67",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        119,
+        78,
+        199,
+        187,
+        90,
+        141,
+        187,
+        224,
+        12,
+        226,
+        1,
+        137,
+        5,
+        65,
+        240,
+        210,
+        246,
+        95,
+        143,
+        103
+      ]
+    },
+    "name": "Chet Faker - Built on Glass (MP3-320Kbps) (2014)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 8,
+  "last_updated": "2016-12-25T05:07:41.413Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Family Guy - Complete Season 11 (480p)","uid":9392753,"size":1350279508,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:77a00eda0e88e2dfe525ac613abea2f5d5e0fa6a&amp;dn=Family+Guy+-+Complete+Season+11+%28480p%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":11,"uploader":"the.HH","files":46,"time":1387916838,"description":"File Size(BR)........: ~22 min(~350 Kbps)\n\nContainer............: Mkv\n\nVideo Codec..........: x264\n\nFrame Rate...........: 23.976 fps\n\nAudio Codec..........: AAC\n\nAudio Bitrate........:128Kbps\n\nChannels.............: 2\n\nResolution...........: 848x480\n\nAspect Ratio.........: 16:9\n\nSubtitles............: English\n\nLanguage.............: English\n\nIMDb................. http://www.imdb.com/title/tt0182576/\n\ni]Enjoy![/i]\n[img]https://cdn.secureboxes.net/banner/sbibt.jpg[/img]\n","torrent":{"xt":"urn:btih:77a00eda0e88e2dfe525ac613abea2f5d5e0fa6a","amp;dn":"Family+Guy+-+Complete+Season+11+%28480p%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"77a00eda0e88e2dfe525ac613abea2f5d5e0fa6a","infoHashBuffer":{"type":"Buffer","data":[119,160,14,218,14,136,226,223,229,37,172,97,58,190,162,245,213,224,250,106]},"announce":[],"urlList":[]}}
+{
+  "title": "Family Guy - Complete Season 11 (480p)",
+  "uid": 9392753,
+  "size": 1350279508,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:77a00eda0e88e2dfe525ac613abea2f5d5e0fa6a&amp;dn=Family+Guy+-+Complete+Season+11+%28480p%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 11,
+  "uploader": "the.HH",
+  "files": 46,
+  "time": 1387916838,
+  "description": "File Size(BR)........: ~22 min(~350 Kbps)\n\nContainer............: Mkv\n\nVideo Codec..........: x264\n\nFrame Rate...........: 23.976 fps\n\nAudio Codec..........: AAC\n\nAudio Bitrate........:128Kbps\n\nChannels.............: 2\n\nResolution...........: 848x480\n\nAspect Ratio.........: 16:9\n\nSubtitles............: English\n\nLanguage.............: English\n\nIMDb................. http://www.imdb.com/title/tt0182576/\n\ni]Enjoy![/i]\n[img]https://cdn.secureboxes.net/banner/sbibt.jpg[/img]\n",
+  "parsed": {
+    "xt": "urn:btih:77a00eda0e88e2dfe525ac613abea2f5d5e0fa6a",
+    "dn": "Family Guy - Complete Season 11 (480p)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "77a00eda0e88e2dfe525ac613abea2f5d5e0fa6a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        119,
+        160,
+        14,
+        218,
+        14,
+        136,
+        226,
+        223,
+        229,
+        37,
+        172,
+        97,
+        58,
+        190,
+        162,
+        245,
+        213,
+        224,
+        250,
+        106
+      ]
+    },
+    "name": "Family Guy - Complete Season 11 (480p)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 15,
+  "last_updated": "2016-12-25T05:10:29.899Z"
+}

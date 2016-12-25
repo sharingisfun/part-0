@@ -1,1 +1,61 @@
-{"title":"The Wolfenstein - The Old Blood(by PJ's Anon)","uid":12068864,"size":34194104905,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:77d7b17cd25d7608a77814887228a6a06bd702f6&amp;dn=The+Wolfenstein+-+The+Old+Blood%28by+PJ%27s+Anon%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":327,"leechers":34,"uploader":"PJs_C4mP3r","files":17,"time":1435463743,"description":"The Wolfenstein - The Old Blood PC Game,Russian,English language","torrent":{"xt":"urn:btih:77d7b17cd25d7608a77814887228a6a06bd702f6","amp;dn":"The+Wolfenstein+-+The+Old+Blood%28by+PJ%27s+Anon%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"77d7b17cd25d7608a77814887228a6a06bd702f6","infoHashBuffer":{"type":"Buffer","data":[119,215,177,124,210,93,118,8,167,120,20,136,114,40,166,160,107,215,2,246]},"announce":[],"urlList":[]}}
+{
+  "title": "The Wolfenstein - The Old Blood(by PJ's Anon)",
+  "uid": 12068864,
+  "size": 34194104905,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:77d7b17cd25d7608a77814887228a6a06bd702f6&amp;dn=The+Wolfenstein+-+The+Old+Blood%28by+PJ%27s+Anon%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 327,
+  "leechers": 34,
+  "uploader": "PJs_C4mP3r",
+  "files": 17,
+  "time": 1435463743,
+  "description": "The Wolfenstein - The Old Blood PC Game,Russian,English language",
+  "parsed": {
+    "xt": "urn:btih:77d7b17cd25d7608a77814887228a6a06bd702f6",
+    "dn": "The Wolfenstein - The Old Blood(by PJ's Anon)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "77d7b17cd25d7608a77814887228a6a06bd702f6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        119,
+        215,
+        177,
+        124,
+        210,
+        93,
+        118,
+        8,
+        167,
+        120,
+        20,
+        136,
+        114,
+        40,
+        166,
+        160,
+        107,
+        215,
+        2,
+        246
+      ]
+    },
+    "name": "The Wolfenstein - The Old Blood(by PJ's Anon)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 361,
+  "peers": 106,
+  "last_updated": "2016-12-25T05:12:10.187Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Counter Strike Source","uid":3827914,"size":992323819,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:77c9130bf9d95c79d171d972cb6068d8536e0d75&amp;dn=Counter+Strike+Source&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":75,"leechers":8,"uploader":"steelman13","files":7,"time":1191385657,"description":"Counter Strike Source full updated. Play online 100%.","torrent":{"xt":"urn:btih:77c9130bf9d95c79d171d972cb6068d8536e0d75","amp;dn":"Counter+Strike+Source","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"77c9130bf9d95c79d171d972cb6068d8536e0d75","infoHashBuffer":{"type":"Buffer","data":[119,201,19,11,249,217,92,121,209,113,217,114,203,96,104,216,83,110,13,117]},"announce":[],"urlList":[]}}
+{
+  "title": "Counter Strike Source",
+  "uid": 3827914,
+  "size": 992323819,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:77c9130bf9d95c79d171d972cb6068d8536e0d75&amp;dn=Counter+Strike+Source&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 75,
+  "leechers": 8,
+  "uploader": "steelman13",
+  "files": 7,
+  "time": 1191385657,
+  "description": "Counter Strike Source full updated. Play online 100%.",
+  "parsed": {
+    "xt": "urn:btih:77c9130bf9d95c79d171d972cb6068d8536e0d75",
+    "dn": "Counter Strike Source",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "77c9130bf9d95c79d171d972cb6068d8536e0d75",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        119,
+        201,
+        19,
+        11,
+        249,
+        217,
+        92,
+        121,
+        209,
+        113,
+        217,
+        114,
+        203,
+        96,
+        104,
+        216,
+        83,
+        110,
+        13,
+        117
+      ]
+    },
+    "name": "Counter Strike Source",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 24,
+  "last_updated": "2016-12-25T05:11:40.099Z"
+}

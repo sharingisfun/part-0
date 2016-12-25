@@ -1,1 +1,61 @@
-{"title":"Wretch 32 - 6 Words - Single [iTunes Plus AAC M4A]","uid":11477184,"size":7593429,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:759b204428ec64d05e6b6322f8c9ead08e4cf4bc&amp;dn=Wretch+32+-+6+Words+-+Single+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":"Music_Blitz","files":-1,"time":1416168884,"description":"Wretch 32 - 6 Words - Single [iTunes Plus AAC M4A]\n\n\nSource: https://itunes.apple.com/gb/album/6-words-single/id918462192\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes\nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Sunday 16th November 2014\n\n\nÃ¢â€žâ€” 2014 Ministry of Sound Recordings Ltd","torrent":{"xt":"urn:btih:759b204428ec64d05e6b6322f8c9ead08e4cf4bc","amp;dn":"Wretch+32+-+6+Words+-+Single+%5BiTunes+Plus+AAC+M4A%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"759b204428ec64d05e6b6322f8c9ead08e4cf4bc","infoHashBuffer":{"type":"Buffer","data":[117,155,32,68,40,236,100,208,94,107,99,34,248,201,234,208,142,76,244,188]},"announce":[],"urlList":[]}}
+{
+  "title": "Wretch 32 - 6 Words - Single [iTunes Plus AAC M4A]",
+  "uid": 11477184,
+  "size": 7593429,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:759b204428ec64d05e6b6322f8c9ead08e4cf4bc&amp;dn=Wretch+32+-+6+Words+-+Single+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": "Music_Blitz",
+  "files": -1,
+  "time": 1416168884,
+  "description": "Wretch 32 - 6 Words - Single [iTunes Plus AAC M4A]\n\n\nSource: https://itunes.apple.com/gb/album/6-words-single/id918462192\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes\nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Sunday 16th November 2014\n\n\nÃ¢â€žâ€” 2014 Ministry of Sound Recordings Ltd",
+  "parsed": {
+    "xt": "urn:btih:759b204428ec64d05e6b6322f8c9ead08e4cf4bc",
+    "dn": "Wretch 32 - 6 Words - Single [iTunes Plus AAC M4A]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "759b204428ec64d05e6b6322f8c9ead08e4cf4bc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        117,
+        155,
+        32,
+        68,
+        40,
+        236,
+        100,
+        208,
+        94,
+        107,
+        99,
+        34,
+        248,
+        201,
+        234,
+        208,
+        142,
+        76,
+        244,
+        188
+      ]
+    },
+    "name": "Wretch 32 - 6 Words - Single [iTunes Plus AAC M4A]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 2,
+  "last_updated": "2016-12-25T04:57:27.317Z"
+}

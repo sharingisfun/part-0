@@ -1,1 +1,61 @@
-{"title":"Chicago PD Season 1 dvdrip","uid":11192209,"size":10380714320,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:759668c4e10c44374d5da12d4850a6e84e1413a1&amp;dn=Chicago+PD+Season+1+dvdrip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":40,"uploader":"jimevjr","files":18,"time":1413014103,"description":"divx dvdrip complete season 1\n\nalso includes 2 bonus eps from chicago fire and eps list","torrent":{"xt":"urn:btih:759668c4e10c44374d5da12d4850a6e84e1413a1","amp;dn":"Chicago+PD+Season+1+dvdrip","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"759668c4e10c44374d5da12d4850a6e84e1413a1","infoHashBuffer":{"type":"Buffer","data":[117,150,104,196,225,12,68,55,77,93,161,45,72,80,166,232,78,20,19,161]},"announce":[],"urlList":[]}}
+{
+  "title": "Chicago PD Season 1 dvdrip",
+  "uid": 11192209,
+  "size": 10380714320,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:759668c4e10c44374d5da12d4850a6e84e1413a1&amp;dn=Chicago+PD+Season+1+dvdrip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 40,
+  "uploader": "jimevjr",
+  "files": 18,
+  "time": 1413014103,
+  "description": "divx dvdrip complete season 1\n\nalso includes 2 bonus eps from chicago fire and eps list",
+  "parsed": {
+    "xt": "urn:btih:759668c4e10c44374d5da12d4850a6e84e1413a1",
+    "dn": "Chicago PD Season 1 dvdrip",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "759668c4e10c44374d5da12d4850a6e84e1413a1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        117,
+        150,
+        104,
+        196,
+        225,
+        12,
+        68,
+        55,
+        77,
+        93,
+        161,
+        45,
+        72,
+        80,
+        166,
+        232,
+        78,
+        20,
+        19,
+        161
+      ]
+    },
+    "name": "Chicago PD Season 1 dvdrip",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 111,
+  "peers": 4,
+  "last_updated": "2016-12-25T04:57:17.280Z"
+}

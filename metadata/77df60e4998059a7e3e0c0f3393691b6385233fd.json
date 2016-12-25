@@ -1,1 +1,61 @@
-{"title":"PES 2014 PS2 PAL","uid":9164652,"size":1488617472,"categoryP":"games","categoryS":"psx","magnet":"?xt=urn:btih:77df60e4998059a7e3e0c0f3393691b6385233fd&amp;dn=PES+2014+PS2+PAL&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":84,"leechers":10,"uploader":"toni_13","files":1,"time":1383948002,"description":"Pro Evolution Soccer 2014 for PS2. \n\nPAL version Spanish and Portugese.","torrent":{"xt":"urn:btih:77df60e4998059a7e3e0c0f3393691b6385233fd","amp;dn":"PES+2014+PS2+PAL","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"77df60e4998059a7e3e0c0f3393691b6385233fd","infoHashBuffer":{"type":"Buffer","data":[119,223,96,228,153,128,89,167,227,224,192,243,57,54,145,182,56,82,51,253]},"announce":[],"urlList":[]}}
+{
+  "title": "PES 2014 PS2 PAL",
+  "uid": 9164652,
+  "size": 1488617472,
+  "categoryP": "games",
+  "categoryS": "psx",
+  "magnet": "?xt=urn:btih:77df60e4998059a7e3e0c0f3393691b6385233fd&amp;dn=PES+2014+PS2+PAL&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 84,
+  "leechers": 10,
+  "uploader": "toni_13",
+  "files": 1,
+  "time": 1383948002,
+  "description": "Pro Evolution Soccer 2014 for PS2. \n\nPAL version Spanish and Portugese.",
+  "parsed": {
+    "xt": "urn:btih:77df60e4998059a7e3e0c0f3393691b6385233fd",
+    "dn": "PES 2014 PS2 PAL",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "77df60e4998059a7e3e0c0f3393691b6385233fd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        119,
+        223,
+        96,
+        228,
+        153,
+        128,
+        89,
+        167,
+        227,
+        224,
+        192,
+        243,
+        57,
+        54,
+        145,
+        182,
+        56,
+        82,
+        51,
+        253
+      ]
+    },
+    "name": "PES 2014 PS2 PAL",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 94,
+  "peers": 4,
+  "last_updated": "2016-12-25T05:12:36.265Z"
+}

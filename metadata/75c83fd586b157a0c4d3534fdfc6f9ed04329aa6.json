@@ -1,1 +1,63 @@
-{"title":"Letterkenny","uid":13544778,"size":2477626920,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:75c83fd586b157a0c4d3534fdfc6f9ed04329aa6&amp;dn=Letterkenny&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":88,"leechers":0,"uploader":"graywolf_26","files":6,"time":1455504270,"description":"Letterkenny from CraveTV.\r\n\r\nEpisodes 1-6 in 720p\r\n\r\nPlease enjoy.\r\n\r\nWarning: Contains very Canadian comedy. So it's probably suitable for all audiences","torrent":{"xt":"urn:btih:75c83fd586b157a0c4d3534fdfc6f9ed04329aa6","amp;dn":"Letterkenny","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"75c83fd586b157a0c4d3534fdfc6f9ed04329aa6","infoHashBuffer":{"type":"Buffer","data":[117,200,63,213,134,177,87,160,196,211,83,79,223,198,249,237,4,50,154,166]},"announce":[],"urlList":[]}}
+{
+  "title": "Letterkenny",
+  "uid": 13544778,
+  "size": 2477626920,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:75c83fd586b157a0c4d3534fdfc6f9ed04329aa6&amp;dn=Letterkenny&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 88,
+  "leechers": 0,
+  "uploader": "graywolf_26",
+  "files": 6,
+  "time": 1455504270,
+  "description": "Letterkenny from CraveTV.\r\n\r\nEpisodes 1-6 in 720p\r\n\r\nPlease enjoy.\r\n\r\nWarning: Contains very Canadian comedy. So it's probably suitable for all audiences",
+  "parsed": {
+    "xt": "urn:btih:75c83fd586b157a0c4d3534fdfc6f9ed04329aa6",
+    "dn": "Letterkenny",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "75c83fd586b157a0c4d3534fdfc6f9ed04329aa6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        117,
+        200,
+        63,
+        213,
+        134,
+        177,
+        87,
+        160,
+        196,
+        211,
+        83,
+        79,
+        223,
+        198,
+        249,
+        237,
+        4,
+        50,
+        154,
+        166
+      ]
+    },
+    "name": "Letterkenny",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 88,
+  "peers": 253,
+  "last_updated": "2016-12-25T04:58:33.589Z"
+}

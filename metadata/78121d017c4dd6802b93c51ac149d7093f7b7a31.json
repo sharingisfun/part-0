@@ -1,1 +1,61 @@
-{"title":"The Vampire Diaries S05E13 HDTV x264-LOL[ettv]","uid":9579572,"size":252408631,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:78121d017c4dd6802b93c51ac149d7093f7b7a31&amp;dn=The+Vampire+Diaries+S05E13+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":3,"uploader":"ettv","files":2,"time":1391742313,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:78121d017c4dd6802b93c51ac149d7093f7b7a31","amp;dn":"The+Vampire+Diaries+S05E13+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"78121d017c4dd6802b93c51ac149d7093f7b7a31","infoHashBuffer":{"type":"Buffer","data":[120,18,29,1,124,77,214,128,43,147,197,26,193,73,215,9,63,123,122,49]},"announce":[],"urlList":[]}}
+{
+  "title": "The Vampire Diaries S05E13 HDTV x264-LOL[ettv]",
+  "uid": 9579572,
+  "size": 252408631,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:78121d017c4dd6802b93c51ac149d7093f7b7a31&amp;dn=The+Vampire+Diaries+S05E13+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1391742313,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:78121d017c4dd6802b93c51ac149d7093f7b7a31",
+    "dn": "The Vampire Diaries S05E13 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "78121d017c4dd6802b93c51ac149d7093f7b7a31",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        120,
+        18,
+        29,
+        1,
+        124,
+        77,
+        214,
+        128,
+        43,
+        147,
+        197,
+        26,
+        193,
+        73,
+        215,
+        9,
+        63,
+        123,
+        122,
+        49
+      ]
+    },
+    "name": "The Vampire Diaries S05E13 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 7,
+  "last_updated": "2016-12-25T05:13:40.469Z"
+}

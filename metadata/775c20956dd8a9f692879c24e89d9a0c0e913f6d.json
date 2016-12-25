@@ -1,1 +1,61 @@
-{"title":"The.Elder.Scrolls.V.Skyrim.Legendary.Edition-WaLMaRT","uid":8552356,"size":14012789968,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:775c20956dd8a9f692879c24e89d9a0c0e913f6d&amp;dn=The.Elder.Scrolls.V.Skyrim.Legendary.Edition-WaLMaRT&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":228,"leechers":48,"uploader":"Drarbg","files":3,"time":1370676663,"description":"The.Elder.Scrolls.V.Skyrim.Legendary.Edition-WaLMaRT\n","torrent":{"xt":"urn:btih:775c20956dd8a9f692879c24e89d9a0c0e913f6d","amp;dn":"The.Elder.Scrolls.V.Skyrim.Legendary.Edition-WaLMaRT","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"775c20956dd8a9f692879c24e89d9a0c0e913f6d","infoHashBuffer":{"type":"Buffer","data":[119,92,32,149,109,216,169,246,146,135,156,36,232,157,154,12,14,145,63,109]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Elder.Scrolls.V.Skyrim.Legendary.Edition-WaLMaRT",
+  "uid": 8552356,
+  "size": 14012789968,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:775c20956dd8a9f692879c24e89d9a0c0e913f6d&amp;dn=The.Elder.Scrolls.V.Skyrim.Legendary.Edition-WaLMaRT&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 228,
+  "leechers": 48,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1370676663,
+  "description": "The.Elder.Scrolls.V.Skyrim.Legendary.Edition-WaLMaRT\n",
+  "parsed": {
+    "xt": "urn:btih:775c20956dd8a9f692879c24e89d9a0c0e913f6d",
+    "dn": "The.Elder.Scrolls.V.Skyrim.Legendary.Edition-WaLMaRT",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "775c20956dd8a9f692879c24e89d9a0c0e913f6d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        119,
+        92,
+        32,
+        149,
+        109,
+        216,
+        169,
+        246,
+        146,
+        135,
+        156,
+        36,
+        232,
+        157,
+        154,
+        12,
+        14,
+        145,
+        63,
+        109
+      ]
+    },
+    "name": "The.Elder.Scrolls.V.Skyrim.Legendary.Edition-WaLMaRT",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 276,
+  "peers": 111,
+  "last_updated": "2016-12-25T05:08:19.527Z"
+}

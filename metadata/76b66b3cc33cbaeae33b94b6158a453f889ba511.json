@@ -1,1 +1,61 @@
-{"title":"Call.Of.Duty.World.At.War-RELOADED.iso","uid":4494623,"size":7472939008,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:76b66b3cc33cbaeae33b94b6158a453f889ba511&amp;dn=Call.Of.Duty.World.At.War-RELOADED.iso&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":22,"uploader":"AiTB","files":1,"time":1226139161,"description":"more info, links, etc.... &lt;a href=&quot;\nhttp://www.btarena.org/games/call-of-duty-world-at-war-reloaded&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.btarena.org/games/call-of-duty-world-at-war-reloaded&lt;/a&gt;","torrent":{"xt":"urn:btih:76b66b3cc33cbaeae33b94b6158a453f889ba511","amp;dn":"Call.Of.Duty.World.At.War-RELOADED.iso","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"76b66b3cc33cbaeae33b94b6158a453f889ba511","infoHashBuffer":{"type":"Buffer","data":[118,182,107,60,195,60,186,234,227,59,148,182,21,138,69,63,136,155,165,17]},"announce":[],"urlList":[]}}
+{
+  "title": "Call.Of.Duty.World.At.War-RELOADED.iso",
+  "uid": 4494623,
+  "size": 7472939008,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:76b66b3cc33cbaeae33b94b6158a453f889ba511&amp;dn=Call.Of.Duty.World.At.War-RELOADED.iso&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 22,
+  "uploader": "AiTB",
+  "files": 1,
+  "time": 1226139161,
+  "description": "more info, links, etc.... &lt;a href=&quot;\nhttp://www.btarena.org/games/call-of-duty-world-at-war-reloaded&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.btarena.org/games/call-of-duty-world-at-war-reloaded&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:76b66b3cc33cbaeae33b94b6158a453f889ba511",
+    "dn": "Call.Of.Duty.World.At.War-RELOADED.iso",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "76b66b3cc33cbaeae33b94b6158a453f889ba511",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        118,
+        182,
+        107,
+        60,
+        195,
+        60,
+        186,
+        234,
+        227,
+        59,
+        148,
+        182,
+        21,
+        138,
+        69,
+        63,
+        136,
+        155,
+        165,
+        17
+      ]
+    },
+    "name": "Call.Of.Duty.World.At.War-RELOADED.iso",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 81,
+  "peers": 262,
+  "last_updated": "2016-12-25T05:04:12.798Z"
+}

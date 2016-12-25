@@ -1,1 +1,61 @@
-{"title":"Best of Biggie Smalls [2001]-J9100","uid":8571964,"size":96942641,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:77050772f5f60dcbaa0b9c8f499227d490673a30&amp;dn=Best+of+Biggie+Smalls+%5B2001%5D-J9100&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":16,"uploader":"jonah9100","files":17,"time":1371175569,"description":"Great Album. &quot;I love Big and Pac. Fuck all The East Coast-West Coast shit. Let's remember that big and pac were friends before all the bullshit.&quot;-Jonah Smith. mp3 format. \n","torrent":{"xt":"urn:btih:77050772f5f60dcbaa0b9c8f499227d490673a30","amp;dn":"Best+of+Biggie+Smalls+%5B2001%5D-J9100","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"77050772f5f60dcbaa0b9c8f499227d490673a30","infoHashBuffer":{"type":"Buffer","data":[119,5,7,114,245,246,13,203,170,11,156,143,73,146,39,212,144,103,58,48]},"announce":[],"urlList":[]}}
+{
+  "title": "Best of Biggie Smalls [2001]-J9100",
+  "uid": 8571964,
+  "size": 96942641,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:77050772f5f60dcbaa0b9c8f499227d490673a30&amp;dn=Best+of+Biggie+Smalls+%5B2001%5D-J9100&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 16,
+  "uploader": "jonah9100",
+  "files": 17,
+  "time": 1371175569,
+  "description": "Great Album. &quot;I love Big and Pac. Fuck all The East Coast-West Coast shit. Let's remember that big and pac were friends before all the bullshit.&quot;-Jonah Smith. mp3 format. \n",
+  "parsed": {
+    "xt": "urn:btih:77050772f5f60dcbaa0b9c8f499227d490673a30",
+    "dn": "Best of Biggie Smalls [2001]-J9100",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "77050772f5f60dcbaa0b9c8f499227d490673a30",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        119,
+        5,
+        7,
+        114,
+        245,
+        246,
+        13,
+        203,
+        170,
+        11,
+        156,
+        143,
+        73,
+        146,
+        39,
+        212,
+        144,
+        103,
+        58,
+        48
+      ]
+    },
+    "name": "Best of Biggie Smalls [2001]-J9100",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 90,
+  "peers": 89,
+  "last_updated": "2016-12-25T05:06:19.168Z"
+}

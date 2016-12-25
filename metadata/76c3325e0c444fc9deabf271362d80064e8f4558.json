@@ -1,1 +1,63 @@
-{"title":"PNL - Le Monde Chico (2015)","uid":12650596,"size":170527598,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:76c3325e0c444fc9deabf271362d80064e8f4558&amp;dn=PNL+-+Le+Monde+Chico+%282015%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":1,"uploader":"annuaireweb","files":17,"time":1446120291,"description":"[01] Le Monde Ou Rien\r\n[02] Sur Paname\r\n[03] Oh Lala\r\n[04] J'vends\r\n[05] Abonne\r\n[06] J'suis Pnl\r\n[07] Mexico\r\n[08] Porte De Mesrine\r\n[09] Dans Ta Rue\r\n[10] Laisse\r\n[11] Loin Des Hommes\r\n[12] Le M\r\n[13] Rebenga\r\n[14] Plus Tony Que Sosa\r\n[15] Que La Mif\r\n[16] Tempete\r\n[17] Dans La Soucoupe","torrent":{"xt":"urn:btih:76c3325e0c444fc9deabf271362d80064e8f4558","amp;dn":"PNL+-+Le+Monde+Chico+%282015%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"76c3325e0c444fc9deabf271362d80064e8f4558","infoHashBuffer":{"type":"Buffer","data":[118,195,50,94,12,68,79,201,222,171,242,113,54,45,128,6,78,143,69,88]},"announce":[],"urlList":[]}}
+{
+  "title": "PNL - Le Monde Chico (2015)",
+  "uid": 12650596,
+  "size": 170527598,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:76c3325e0c444fc9deabf271362d80064e8f4558&amp;dn=PNL+-+Le+Monde+Chico+%282015%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 1,
+  "uploader": "annuaireweb",
+  "files": 17,
+  "time": 1446120291,
+  "description": "[01] Le Monde Ou Rien\r\n[02] Sur Paname\r\n[03] Oh Lala\r\n[04] J'vends\r\n[05] Abonne\r\n[06] J'suis Pnl\r\n[07] Mexico\r\n[08] Porte De Mesrine\r\n[09] Dans Ta Rue\r\n[10] Laisse\r\n[11] Loin Des Hommes\r\n[12] Le M\r\n[13] Rebenga\r\n[14] Plus Tony Que Sosa\r\n[15] Que La Mif\r\n[16] Tempete\r\n[17] Dans La Soucoupe",
+  "parsed": {
+    "xt": "urn:btih:76c3325e0c444fc9deabf271362d80064e8f4558",
+    "dn": "PNL - Le Monde Chico (2015)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "76c3325e0c444fc9deabf271362d80064e8f4558",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        118,
+        195,
+        50,
+        94,
+        12,
+        68,
+        79,
+        201,
+        222,
+        171,
+        242,
+        113,
+        54,
+        45,
+        128,
+        6,
+        78,
+        143,
+        69,
+        88
+      ]
+    },
+    "name": "PNL - Le Monde Chico (2015)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 60,
+  "last_updated": "2016-12-25T05:04:30.847Z"
+}
