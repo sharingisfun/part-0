@@ -1,1 +1,63 @@
-{"title":"Youtubers Life v0.7.14b","uid":15385440,"size":548508826,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:ea411bd3e51153cdcf8ed9e6a4cbe306d6e11bb9&amp;dn=Youtubers+Life+v0.7.14b&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":67,"leechers":1,"uploader":"dauphong","files":1,"time":1469289211,"description":"Youtubers Life is the ultimate life simulation/tycoon videogame in which you can effortfully become the worldâ€™s greatest video blogger in history by editing videos, expanding the amount of fans and turning yourself into a wealthy fellow. Create your character â€”customize it as you wish, there are thousands of hillarous combinationsâ€” and start making your first broadcasts in the cozy room at your parentsâ€™ where you have grown up since you were little. Record gameplay sessions, buy new and classic consoles, keep an eye on daily tasks, and socialize yourself to increase your popularity while you have to deal with fans, friends, family and time management!","torrent":{"xt":"urn:btih:ea411bd3e51153cdcf8ed9e6a4cbe306d6e11bb9","amp;dn":"Youtubers+Life+v0.7.14b","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ea411bd3e51153cdcf8ed9e6a4cbe306d6e11bb9","infoHashBuffer":{"type":"Buffer","data":[234,65,27,211,229,17,83,205,207,142,217,230,164,203,227,6,214,225,27,185]},"announce":[],"urlList":[]}}
+{
+  "title": "Youtubers Life v0.7.14b",
+  "uid": 15385440,
+  "size": 548508826,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:ea411bd3e51153cdcf8ed9e6a4cbe306d6e11bb9&amp;dn=Youtubers+Life+v0.7.14b&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 67,
+  "leechers": 1,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1469289211,
+  "description": "Youtubers Life is the ultimate life simulation/tycoon videogame in which you can effortfully become the worldâ€™s greatest video blogger in history by editing videos, expanding the amount of fans and turning yourself into a wealthy fellow. Create your character â€”customize it as you wish, there are thousands of hillarous combinationsâ€” and start making your first broadcasts in the cozy room at your parentsâ€™ where you have grown up since you were little. Record gameplay sessions, buy new and classic consoles, keep an eye on daily tasks, and socialize yourself to increase your popularity while you have to deal with fans, friends, family and time management!",
+  "parsed": {
+    "xt": "urn:btih:ea411bd3e51153cdcf8ed9e6a4cbe306d6e11bb9",
+    "dn": "Youtubers Life v0.7.14b",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "ea411bd3e51153cdcf8ed9e6a4cbe306d6e11bb9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        234,
+        65,
+        27,
+        211,
+        229,
+        17,
+        83,
+        205,
+        207,
+        142,
+        217,
+        230,
+        164,
+        203,
+        227,
+        6,
+        214,
+        225,
+        27,
+        185
+      ]
+    },
+    "name": "Youtubers Life v0.7.14b",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 300,
+  "last_updated": "2016-12-25T17:06:38.031Z"
+}

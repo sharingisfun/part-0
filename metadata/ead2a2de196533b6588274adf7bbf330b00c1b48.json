@@ -1,1 +1,61 @@
-{"title":"Knights  of  Honor","uid":7908514,"size":660734897,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:ead2a2de196533b6588274adf7bbf330b00c1b48&amp;dn=Knights++of++Honor&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":2,"uploader":"esharoth","files":-1,"time":1355155453,"description":"Title: Knights of Honor\nGenre: RTS / isometric / historical\nReleased: 6th June 2005\nDeveloper: Black Sea Studios\nPublisher: Paradox Interactive\nDescription:\nThe opportunity to rewrite history waits for you in this epic, sprawling struggle for sovereignty, dominance and riches. Choose one of over 100 kingdoms and play through the Early, High, and Late periods of the Middle Ages during one of EuropeÃ¢â‚¬â„¢s most turbulent and fascinating times. Use any number of methods to achieve your goals and impose your will on others, including trade, diplomacy, subterfuge or brute force. \u000bThrough words or steel, lead your nation to victory and make your mark on history. With numerous allies and foes to contend with and an entire continent to conquer, the path to ultimate domination is no simple feat. It takes the wisdom, strength and courage of a leader to weather the trials of history; do you have it in you?\n\nHow to play:\n1) Run setup_knights_of_honor.exe and install the game;\n2) Launch the game using main executable or shortcuts (DRM free).\n\n! Notice\nTo remove the intro logos, extract the NoLogos.zip archive to where you installed the game (overwrite the original file when prompted).\n\n! Notice\nThe game is already updated to the latest version, 1.05.\n\nIf you like the game, BUY it!","torrent":{"xt":"urn:btih:ead2a2de196533b6588274adf7bbf330b00c1b48","amp;dn":"Knights++of++Honor","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ead2a2de196533b6588274adf7bbf330b00c1b48","infoHashBuffer":{"type":"Buffer","data":[234,210,162,222,25,101,51,182,88,130,116,173,247,187,243,48,176,12,27,72]},"announce":[],"urlList":[]}}
+{
+  "title": "Knights  of  Honor",
+  "uid": 7908514,
+  "size": 660734897,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:ead2a2de196533b6588274adf7bbf330b00c1b48&amp;dn=Knights++of++Honor&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 2,
+  "uploader": "esharoth",
+  "files": -1,
+  "time": 1355155453,
+  "description": "Title: Knights of Honor\nGenre: RTS / isometric / historical\nReleased: 6th June 2005\nDeveloper: Black Sea Studios\nPublisher: Paradox Interactive\nDescription:\nThe opportunity to rewrite history waits for you in this epic, sprawling struggle for sovereignty, dominance and riches. Choose one of over 100 kingdoms and play through the Early, High, and Late periods of the Middle Ages during one of EuropeÃ¢â‚¬â„¢s most turbulent and fascinating times. Use any number of methods to achieve your goals and impose your will on others, including trade, diplomacy, subterfuge or brute force. \u000bThrough words or steel, lead your nation to victory and make your mark on history. With numerous allies and foes to contend with and an entire continent to conquer, the path to ultimate domination is no simple feat. It takes the wisdom, strength and courage of a leader to weather the trials of history; do you have it in you?\n\nHow to play:\n1) Run setup_knights_of_honor.exe and install the game;\n2) Launch the game using main executable or shortcuts (DRM free).\n\n! Notice\nTo remove the intro logos, extract the NoLogos.zip archive to where you installed the game (overwrite the original file when prompted).\n\n! Notice\nThe game is already updated to the latest version, 1.05.\n\nIf you like the game, BUY it!",
+  "parsed": {
+    "xt": "urn:btih:ead2a2de196533b6588274adf7bbf330b00c1b48",
+    "dn": "Knights  of  Honor",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ead2a2de196533b6588274adf7bbf330b00c1b48",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        234,
+        210,
+        162,
+        222,
+        25,
+        101,
+        51,
+        182,
+        88,
+        130,
+        116,
+        173,
+        247,
+        187,
+        243,
+        48,
+        176,
+        12,
+        27,
+        72
+      ]
+    },
+    "name": "Knights  of  Honor",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 50,
+  "last_updated": "2016-12-25T17:10:02.644Z"
+}

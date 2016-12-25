@@ -1,1 +1,63 @@
-{"title":"Goliath [+Update 1] (2016) [R.G. Mechanics]","uid":15964406,"size":12153228,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:eb4b88644c1712689ae3518098e893cd634bfd3b&amp;dn=Goliath+%5B%2BUpdate+1%5D+%282016%29+%5BR.G.+Mechanics%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":62,"uploader":"trwetwr","files":5,"time":1475708779,"description":"Good Game","torrent":{"xt":"urn:btih:eb4b88644c1712689ae3518098e893cd634bfd3b","amp;dn":"Goliath+%5B%2BUpdate+1%5D+%282016%29+%5BR.G.+Mechanics%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"eb4b88644c1712689ae3518098e893cd634bfd3b","infoHashBuffer":{"type":"Buffer","data":[235,75,136,100,76,23,18,104,154,227,81,128,152,232,147,205,99,75,253,59]},"announce":[],"urlList":[]}}
+{
+  "title": "Goliath [+Update 1] (2016) [R.G. Mechanics]",
+  "uid": 15964406,
+  "size": 12153228,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:eb4b88644c1712689ae3518098e893cd634bfd3b&amp;dn=Goliath+%5B%2BUpdate+1%5D+%282016%29+%5BR.G.+Mechanics%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 62,
+  "uploader": "trwetwr",
+  "files": 5,
+  "time": 1475708779,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:eb4b88644c1712689ae3518098e893cd634bfd3b",
+    "dn": "Goliath [ Update 1] (2016) [R.G. Mechanics]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "eb4b88644c1712689ae3518098e893cd634bfd3b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        235,
+        75,
+        136,
+        100,
+        76,
+        23,
+        18,
+        104,
+        154,
+        227,
+        81,
+        128,
+        152,
+        232,
+        147,
+        205,
+        99,
+        75,
+        253,
+        59
+      ]
+    },
+    "name": "Goliath [ Update 1] (2016) [R.G. Mechanics]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 149,
+  "peers": 2,
+  "last_updated": "2016-12-25T17:12:35.059Z"
+}

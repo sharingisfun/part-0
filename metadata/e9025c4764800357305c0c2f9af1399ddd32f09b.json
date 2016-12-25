@@ -1,1 +1,61 @@
-{"title":"Maroon 5 Discography","uid":8310011,"size":1388965878,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e9025c4764800357305c0c2f9af1399ddd32f09b&amp;dn=Maroon+5+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":5,"uploader":"Pryte","files":-1,"time":1364459379,"description":"------------Maroon 5 Discography------------\n____________________________________________\n\n-------------Compilation Albums-------------\n____________________________________________\n\n--------[2007] The B-Side Collection--------\n-                                          -\n____________________________________________\n\n--------------Extended Plays----------------\n____________________________________________\n\n----------[2006] AOL Sessions Live----------\n-                                          -\n-----------[2008] Live From SoHo------------\n-                                          -\n-----------[2011] iTunes Session------------\n-                                          -\n____________________________________________\n\n----------------Live Albums-----------------\n____________________________________________\n\n----------[2003] 1.22.03.Acoustic-----------\n-                                          -\n-------[2005] Live - Friday The 13th--------\n-                                          -\n--------[2008] Live From Le Cabaret---------\n-                                          -\n____________________________________________\n\n---------------Remix Albums-----------------\n____________________________________________\n\n-[2008] Call And Response - The Remix Album-\n-                                          -\n____________________________________________\n\n---------------Studio Albums----------------\n____________________________________________\n\n----------[2002] Songs About Jane-----------\n-                                          -\n----[2007] It Won't Be Soon Before Long-----\n-                                          -\n-----------[2010] Hands All Over------------\n-                                          -\n-------------[2012] Overexposed-------------\n-                                          -\n____________________________________________","torrent":{"xt":"urn:btih:e9025c4764800357305c0c2f9af1399ddd32f09b","amp;dn":"Maroon+5+Discography","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e9025c4764800357305c0c2f9af1399ddd32f09b","infoHashBuffer":{"type":"Buffer","data":[233,2,92,71,100,128,3,87,48,92,12,47,154,241,57,157,221,50,240,155]},"announce":[],"urlList":[]}}
+{
+  "title": "Maroon 5 Discography",
+  "uid": 8310011,
+  "size": 1388965878,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e9025c4764800357305c0c2f9af1399ddd32f09b&amp;dn=Maroon+5+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 5,
+  "uploader": "Pryte",
+  "files": -1,
+  "time": 1364459379,
+  "description": "------------Maroon 5 Discography------------\n____________________________________________\n\n-------------Compilation Albums-------------\n____________________________________________\n\n--------[2007] The B-Side Collection--------\n-                                          -\n____________________________________________\n\n--------------Extended Plays----------------\n____________________________________________\n\n----------[2006] AOL Sessions Live----------\n-                                          -\n-----------[2008] Live From SoHo------------\n-                                          -\n-----------[2011] iTunes Session------------\n-                                          -\n____________________________________________\n\n----------------Live Albums-----------------\n____________________________________________\n\n----------[2003] 1.22.03.Acoustic-----------\n-                                          -\n-------[2005] Live - Friday The 13th--------\n-                                          -\n--------[2008] Live From Le Cabaret---------\n-                                          -\n____________________________________________\n\n---------------Remix Albums-----------------\n____________________________________________\n\n-[2008] Call And Response - The Remix Album-\n-                                          -\n____________________________________________\n\n---------------Studio Albums----------------\n____________________________________________\n\n----------[2002] Songs About Jane-----------\n-                                          -\n----[2007] It Won't Be Soon Before Long-----\n-                                          -\n-----------[2010] Hands All Over------------\n-                                          -\n-------------[2012] Overexposed-------------\n-                                          -\n____________________________________________",
+  "parsed": {
+    "xt": "urn:btih:e9025c4764800357305c0c2f9af1399ddd32f09b",
+    "dn": "Maroon 5 Discography",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e9025c4764800357305c0c2f9af1399ddd32f09b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        233,
+        2,
+        92,
+        71,
+        100,
+        128,
+        3,
+        87,
+        48,
+        92,
+        12,
+        47,
+        154,
+        241,
+        57,
+        157,
+        221,
+        50,
+        240,
+        155
+      ]
+    },
+    "name": "Maroon 5 Discography",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 32,
+  "last_updated": "2016-12-25T16:59:50.766Z"
+}

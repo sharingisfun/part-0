@@ -1,1 +1,63 @@
-{"title":"TransOcean 2: Rivals (2016) RePack","uid":15964416,"size":5350448,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:e8cb2e996e838a1be1748a6297767b69c93a4ca7&amp;dn=TransOcean+2%3A+Rivals+%282016%29+RePack&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":93,"leechers":62,"uploader":"trwetwr","files":4,"time":1475708894,"description":"Good Game","torrent":{"xt":"urn:btih:e8cb2e996e838a1be1748a6297767b69c93a4ca7","amp;dn":"TransOcean+2%3A+Rivals+%282016%29+RePack","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e8cb2e996e838a1be1748a6297767b69c93a4ca7","infoHashBuffer":{"type":"Buffer","data":[232,203,46,153,110,131,138,27,225,116,138,98,151,118,123,105,201,58,76,167]},"announce":[],"urlList":[]}}
+{
+  "title": "TransOcean 2: Rivals (2016) RePack",
+  "uid": 15964416,
+  "size": 5350448,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:e8cb2e996e838a1be1748a6297767b69c93a4ca7&amp;dn=TransOcean+2%3A+Rivals+%282016%29+RePack&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 93,
+  "leechers": 62,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475708894,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:e8cb2e996e838a1be1748a6297767b69c93a4ca7",
+    "dn": "TransOcean 2: Rivals (2016) RePack",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e8cb2e996e838a1be1748a6297767b69c93a4ca7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        232,
+        203,
+        46,
+        153,
+        110,
+        131,
+        138,
+        27,
+        225,
+        116,
+        138,
+        98,
+        151,
+        118,
+        123,
+        105,
+        201,
+        58,
+        76,
+        167
+      ]
+    },
+    "name": "TransOcean 2: Rivals (2016) RePack",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 155,
+  "peers": 2,
+  "last_updated": "2016-12-25T16:58:50.552Z"
+}

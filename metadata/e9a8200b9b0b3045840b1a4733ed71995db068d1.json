@@ -1,1 +1,61 @@
-{"title":"Internet Download Manager 6.23 Build 22 Retail Incl Patch-=TEAM ","uid":12479312,"size":6623031,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:e9a8200b9b0b3045840b1a4733ed71995db068d1&amp;dn=Internet+Download+Manager+6.23+Build+22+Retail+Incl+Patch-%3DTEAM+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":105,"leechers":23,"uploader":"OnlyByTheRain","files":2,"time":1443025862,"description":"[img]http://s19.postimg.org/hajstha5d/Team_Os.gif[/img]\n\n[b]Internet Download Manager 6.23 Build 22 Retail[/b]\n\n[img]http://server.myspace-shack.com/d21/fda.png[/img]\n\n[b]Internet Download Manager has a smart download logic accelerator that features intelligent dynamic file segmentation and safe multipart downloading technology to accelerate your downloads. \nUnlike other download accelerators and managers that segment files before downloading starts, Internet Download Manager segments downloaded files dynamically during download process.\n\nWhat's new in version 6.23 Build 22\n\n(Released: Sep 23, 2015)\n\n    Added support for Firefox 42 and SeaMonkey 2.35\n    Fixed bugs [/b]\n\ndownload link","torrent":{"xt":"urn:btih:e9a8200b9b0b3045840b1a4733ed71995db068d1","amp;dn":"Internet+Download+Manager+6.23+Build+22+Retail+Incl+Patch-%3DTEAM+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e9a8200b9b0b3045840b1a4733ed71995db068d1","infoHashBuffer":{"type":"Buffer","data":[233,168,32,11,155,11,48,69,132,11,26,71,51,237,113,153,93,176,104,209]},"announce":[],"urlList":[]}}
+{
+  "title": "Internet Download Manager 6.23 Build 22 Retail Incl Patch-=TEAM ",
+  "uid": 12479312,
+  "size": 6623031,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:e9a8200b9b0b3045840b1a4733ed71995db068d1&amp;dn=Internet+Download+Manager+6.23+Build+22+Retail+Incl+Patch-%3DTEAM+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 105,
+  "leechers": 23,
+  "uploader": "OnlyByTheRain",
+  "files": 2,
+  "time": 1443025862,
+  "description": "[img]http://s19.postimg.org/hajstha5d/Team_Os.gif[/img]\n\n[b]Internet Download Manager 6.23 Build 22 Retail[/b]\n\n[img]http://server.myspace-shack.com/d21/fda.png[/img]\n\n[b]Internet Download Manager has a smart download logic accelerator that features intelligent dynamic file segmentation and safe multipart downloading technology to accelerate your downloads. \nUnlike other download accelerators and managers that segment files before downloading starts, Internet Download Manager segments downloaded files dynamically during download process.\n\nWhat's new in version 6.23 Build 22\n\n(Released: Sep 23, 2015)\n\n    Added support for Firefox 42 and SeaMonkey 2.35\n    Fixed bugs [/b]\n\ndownload link",
+  "parsed": {
+    "xt": "urn:btih:e9a8200b9b0b3045840b1a4733ed71995db068d1",
+    "dn": "Internet Download Manager 6.23 Build 22 Retail Incl Patch-=TEAM ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e9a8200b9b0b3045840b1a4733ed71995db068d1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        233,
+        168,
+        32,
+        11,
+        155,
+        11,
+        48,
+        69,
+        132,
+        11,
+        26,
+        71,
+        51,
+        237,
+        113,
+        153,
+        93,
+        176,
+        104,
+        209
+      ]
+    },
+    "name": "Internet Download Manager 6.23 Build 22 Retail Incl Patch-=TEAM ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 128,
+  "peers": 1,
+  "last_updated": "2016-12-25T17:03:27.481Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Cage the Elephant - Melophobia (2013)","uid":8986104,"size":61264791,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:eac7bebcedca967c85955852f7168e5fc9005d4b&amp;dn=Cage+the+Elephant+-+Melophobia+%282013%29+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":84,"leechers":7,"uploader":"japbuf","files":-1,"time":1380671130,"description":"The new album from Cage the Elephant. If you like this album, then please support the band and shell out a few dollars for it on it's release date. ","torrent":{"xt":"urn:btih:eac7bebcedca967c85955852f7168e5fc9005d4b","amp;dn":"Cage+the+Elephant+-+Melophobia+%282013%29+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"eac7bebcedca967c85955852f7168e5fc9005d4b","infoHashBuffer":{"type":"Buffer","data":[234,199,190,188,237,202,150,124,133,149,88,82,247,22,142,95,201,0,93,75]},"announce":[],"urlList":[]}}
+{
+  "title": "Cage the Elephant - Melophobia (2013)",
+  "uid": 8986104,
+  "size": 61264791,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:eac7bebcedca967c85955852f7168e5fc9005d4b&amp;dn=Cage+the+Elephant+-+Melophobia+%282013%29+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 84,
+  "leechers": 7,
+  "uploader": "japbuf",
+  "files": -1,
+  "time": 1380671130,
+  "description": "The new album from Cage the Elephant. If you like this album, then please support the band and shell out a few dollars for it on it's release date. ",
+  "parsed": {
+    "xt": "urn:btih:eac7bebcedca967c85955852f7168e5fc9005d4b",
+    "dn": "Cage the Elephant - Melophobia (2013) ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "eac7bebcedca967c85955852f7168e5fc9005d4b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        234,
+        199,
+        190,
+        188,
+        237,
+        202,
+        150,
+        124,
+        133,
+        149,
+        88,
+        82,
+        247,
+        22,
+        142,
+        95,
+        201,
+        0,
+        93,
+        75
+      ]
+    },
+    "name": "Cage the Elephant - Melophobia (2013) ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 91,
+  "peers": 17,
+  "last_updated": "2016-12-25T17:09:42.588Z"
+}

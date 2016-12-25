@@ -1,1 +1,61 @@
-{"title":"Rogue Legacy 2.2.1.11 [GOG.com] + EXTRAS (Game Version 1.2.0b)","uid":9570140,"size":226094317,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:e8c093e8155058fee8d3249a47c1adca9c32f2d1&amp;dn=Rogue+Legacy+2.2.1.11+%5BGOG.com%5D+%2B+EXTRAS+%28Game+Version+1.2.0b%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":129,"leechers":5,"uploader":"fudgy","files":-1,"time":1391615922,"description":"Rogue Legacy version 1.2.0b - GOG.com edition\n\n-\n\n&quot;Rogue Legacy is a genealogical rogue-&quot;LITE&quot; where anyone can be a hero. Each time you die, your child will succeed you. Every child is unique. One child might be color blind, or they might have Tourette's. They could even be a dwarf. \n\nThat's OK because no one's perfect, and you don't have to be to win this game. But you do have to be pretty darn good because this game is HARD. Fortunately, every time you die, all of the gold you've collected can be used to upgrade your manor, giving your next child a step up in life and another chance at vanquishing evil.&quot;\n\n-\n\nXNA &amp; .NETfx frameworks included\nExtras (wallpapers, avatars, artworks) included\n\nRogue Legacy 2.2.1.11 [GOG.com] + EXTRAS (Game Version 1.2.0b)","torrent":{"xt":"urn:btih:e8c093e8155058fee8d3249a47c1adca9c32f2d1","amp;dn":"Rogue+Legacy+2.2.1.11+%5BGOG.com%5D+%2B+EXTRAS+%28Game+Version+1.2.0b%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e8c093e8155058fee8d3249a47c1adca9c32f2d1","infoHashBuffer":{"type":"Buffer","data":[232,192,147,232,21,80,88,254,232,211,36,154,71,193,173,202,156,50,242,209]},"announce":[],"urlList":[]}}
+{
+  "title": "Rogue Legacy 2.2.1.11 [GOG.com] + EXTRAS (Game Version 1.2.0b)",
+  "uid": 9570140,
+  "size": 226094317,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:e8c093e8155058fee8d3249a47c1adca9c32f2d1&amp;dn=Rogue+Legacy+2.2.1.11+%5BGOG.com%5D+%2B+EXTRAS+%28Game+Version+1.2.0b%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 129,
+  "leechers": 5,
+  "uploader": "fudgy",
+  "files": -1,
+  "time": 1391615922,
+  "description": "Rogue Legacy version 1.2.0b - GOG.com edition\n\n-\n\n&quot;Rogue Legacy is a genealogical rogue-&quot;LITE&quot; where anyone can be a hero. Each time you die, your child will succeed you. Every child is unique. One child might be color blind, or they might have Tourette's. They could even be a dwarf. \n\nThat's OK because no one's perfect, and you don't have to be to win this game. But you do have to be pretty darn good because this game is HARD. Fortunately, every time you die, all of the gold you've collected can be used to upgrade your manor, giving your next child a step up in life and another chance at vanquishing evil.&quot;\n\n-\n\nXNA &amp; .NETfx frameworks included\nExtras (wallpapers, avatars, artworks) included\n\nRogue Legacy 2.2.1.11 [GOG.com] + EXTRAS (Game Version 1.2.0b)",
+  "parsed": {
+    "xt": "urn:btih:e8c093e8155058fee8d3249a47c1adca9c32f2d1",
+    "dn": "Rogue Legacy 2.2.1.11 [GOG.com]   EXTRAS (Game Version 1.2.0b)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e8c093e8155058fee8d3249a47c1adca9c32f2d1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        232,
+        192,
+        147,
+        232,
+        21,
+        80,
+        88,
+        254,
+        232,
+        211,
+        36,
+        154,
+        71,
+        193,
+        173,
+        202,
+        156,
+        50,
+        242,
+        209
+      ]
+    },
+    "name": "Rogue Legacy 2.2.1.11 [GOG.com]   EXTRAS (Game Version 1.2.0b)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 134,
+  "peers": 265,
+  "last_updated": "2016-12-25T16:58:38.511Z"
+}

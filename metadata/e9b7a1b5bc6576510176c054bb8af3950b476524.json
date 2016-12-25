@@ -1,1 +1,61 @@
-{"title":"Annie Lennox - Nostalgia {MP3-2014}","uid":11255582,"size":103331542,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e9b7a1b5bc6576510176c054bb8af3950b476524&amp;dn=Annie+Lennox+-+Nostalgia+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":80,"leechers":3,"uploader":"simpsonrony","files":-1,"time":1413851994,"description":"Source: https://itunes.apple.com/us/album/nostalgia/id917462662\n\nArtist: Annie Lennox\n\nAlbum: Nostalgia\n\nGenre: Jazz\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\n\n\nTracklist:\n**********\n\n01 Memphis In June\n02 Georgia On My Mind\n03 I Put a Spell On You\n04 Summertime\n05 I Cover the Waterfront\n06 Strange Fruit\n07 God Bless the Child\n08 You Belong To Me\n09 September In the Rain\n10 I Can Dream, CanÃ¢â‚¬â„¢t I?\n11 The Nearness of You\n12 Mood Indigo","torrent":{"xt":"urn:btih:e9b7a1b5bc6576510176c054bb8af3950b476524","amp;dn":"Annie+Lennox+-+Nostalgia+%7BMP3-2014%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e9b7a1b5bc6576510176c054bb8af3950b476524","infoHashBuffer":{"type":"Buffer","data":[233,183,161,181,188,101,118,81,1,118,192,84,187,138,243,149,11,71,101,36]},"announce":[],"urlList":[]}}
+{
+  "title": "Annie Lennox - Nostalgia {MP3-2014}",
+  "uid": 11255582,
+  "size": 103331542,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e9b7a1b5bc6576510176c054bb8af3950b476524&amp;dn=Annie+Lennox+-+Nostalgia+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 80,
+  "leechers": 3,
+  "uploader": "simpsonrony",
+  "files": -1,
+  "time": 1413851994,
+  "description": "Source: https://itunes.apple.com/us/album/nostalgia/id917462662\n\nArtist: Annie Lennox\n\nAlbum: Nostalgia\n\nGenre: Jazz\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\n\n\nTracklist:\n**********\n\n01 Memphis In June\n02 Georgia On My Mind\n03 I Put a Spell On You\n04 Summertime\n05 I Cover the Waterfront\n06 Strange Fruit\n07 God Bless the Child\n08 You Belong To Me\n09 September In the Rain\n10 I Can Dream, CanÃ¢â‚¬â„¢t I?\n11 The Nearness of You\n12 Mood Indigo",
+  "parsed": {
+    "xt": "urn:btih:e9b7a1b5bc6576510176c054bb8af3950b476524",
+    "dn": "Annie Lennox - Nostalgia {MP3-2014}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e9b7a1b5bc6576510176c054bb8af3950b476524",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        233,
+        183,
+        161,
+        181,
+        188,
+        101,
+        118,
+        81,
+        1,
+        118,
+        192,
+        84,
+        187,
+        138,
+        243,
+        149,
+        11,
+        71,
+        101,
+        36
+      ]
+    },
+    "name": "Annie Lennox - Nostalgia {MP3-2014}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 25,
+  "last_updated": "2016-12-25T17:03:45.538Z"
+}

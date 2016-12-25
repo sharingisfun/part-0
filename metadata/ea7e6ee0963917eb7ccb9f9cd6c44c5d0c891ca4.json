@@ -1,1 +1,61 @@
-{"title":"Dominion S02E09 HDTV XviD-FUM[ettv]","uid":12345277,"size":362901309,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ea7e6ee0963917eb7ccb9f9cd6c44c5d0c891ca4&amp;dn=Dominion+S02E09+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":4,"uploader":"ettv","files":2,"time":1441345477,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:ea7e6ee0963917eb7ccb9f9cd6c44c5d0c891ca4","amp;dn":"Dominion+S02E09+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ea7e6ee0963917eb7ccb9f9cd6c44c5d0c891ca4","infoHashBuffer":{"type":"Buffer","data":[234,126,110,224,150,57,23,235,124,203,159,156,214,196,76,93,12,137,28,164]},"announce":[],"urlList":[]}}
+{
+  "title": "Dominion S02E09 HDTV XviD-FUM[ettv]",
+  "uid": 12345277,
+  "size": 362901309,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ea7e6ee0963917eb7ccb9f9cd6c44c5d0c891ca4&amp;dn=Dominion+S02E09+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1441345477,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:ea7e6ee0963917eb7ccb9f9cd6c44c5d0c891ca4",
+    "dn": "Dominion S02E09 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ea7e6ee0963917eb7ccb9f9cd6c44c5d0c891ca4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        234,
+        126,
+        110,
+        224,
+        150,
+        57,
+        23,
+        235,
+        124,
+        203,
+        159,
+        156,
+        214,
+        196,
+        76,
+        93,
+        12,
+        137,
+        28,
+        164
+      ]
+    },
+    "name": "Dominion S02E09 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 2,
+  "last_updated": "2016-12-25T17:08:04.304Z"
+}

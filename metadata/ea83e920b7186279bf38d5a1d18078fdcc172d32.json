@@ -1,1 +1,61 @@
-{"title":"Reign S02E04 HDTV x264-2HD[ettv]","uid":11268577,"size":284551692,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ea83e920b7186279bf38d5a1d18078fdcc172d32&amp;dn=Reign+S02E04+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":2,"uploader":"ettv","files":2,"time":1414056799,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:ea83e920b7186279bf38d5a1d18078fdcc172d32","amp;dn":"Reign+S02E04+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ea83e920b7186279bf38d5a1d18078fdcc172d32","infoHashBuffer":{"type":"Buffer","data":[234,131,233,32,183,24,98,121,191,56,213,161,209,128,120,253,204,23,45,50]},"announce":[],"urlList":[]}}
+{
+  "title": "Reign S02E04 HDTV x264-2HD[ettv]",
+  "uid": 11268577,
+  "size": 284551692,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ea83e920b7186279bf38d5a1d18078fdcc172d32&amp;dn=Reign+S02E04+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1414056799,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:ea83e920b7186279bf38d5a1d18078fdcc172d32",
+    "dn": "Reign S02E04 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ea83e920b7186279bf38d5a1d18078fdcc172d32",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        234,
+        131,
+        233,
+        32,
+        183,
+        24,
+        98,
+        121,
+        191,
+        56,
+        213,
+        161,
+        209,
+        128,
+        120,
+        253,
+        204,
+        23,
+        45,
+        50
+      ]
+    },
+    "name": "Reign S02E04 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 23,
+  "last_updated": "2016-12-25T17:08:12.331Z"
+}

@@ -1,1 +1,61 @@
-{"title":"[PC Game] DOOM 3 (Extract and Play)","uid":4491680,"size":1606324508,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:e8e9b1c7351f92c0eae5d1268e9b733f43c43ab1&amp;dn=%5BPC+Game%5D+DOOM+3+%28Extract+and+Play%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":133,"leechers":15,"uploader":"bico8800","files":2,"time":1226007684,"description":"                        ","torrent":{"xt":"urn:btih:e8e9b1c7351f92c0eae5d1268e9b733f43c43ab1","amp;dn":"%5BPC+Game%5D+DOOM+3+%28Extract+and+Play%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e8e9b1c7351f92c0eae5d1268e9b733f43c43ab1","infoHashBuffer":{"type":"Buffer","data":[232,233,177,199,53,31,146,192,234,229,209,38,142,155,115,63,67,196,58,177]},"announce":[],"urlList":[]}}
+{
+  "title": "[PC Game] DOOM 3 (Extract and Play)",
+  "uid": 4491680,
+  "size": 1606324508,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:e8e9b1c7351f92c0eae5d1268e9b733f43c43ab1&amp;dn=%5BPC+Game%5D+DOOM+3+%28Extract+and+Play%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 133,
+  "leechers": 15,
+  "uploader": "bico8800",
+  "files": 2,
+  "time": 1226007684,
+  "description": "                        ",
+  "parsed": {
+    "xt": "urn:btih:e8e9b1c7351f92c0eae5d1268e9b733f43c43ab1",
+    "dn": "[PC Game] DOOM 3 (Extract and Play)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e8e9b1c7351f92c0eae5d1268e9b733f43c43ab1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        232,
+        233,
+        177,
+        199,
+        53,
+        31,
+        146,
+        192,
+        234,
+        229,
+        209,
+        38,
+        142,
+        155,
+        115,
+        63,
+        67,
+        196,
+        58,
+        177
+      ]
+    },
+    "name": "[PC Game] DOOM 3 (Extract and Play)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 148,
+  "peers": 7,
+  "last_updated": "2016-12-25T16:59:24.672Z"
+}

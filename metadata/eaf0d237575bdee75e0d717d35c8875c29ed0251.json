@@ -1,1 +1,61 @@
-{"title":"Las cronicas de Narnia: La travesia del viajero del alba","uid":8569949,"size":1540327424,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:eaf0d237575bdee75e0d717d35c8875c29ed0251&amp;dn=Las+cronicas+de+Narnia%3A+La+travesia+del+viajero+del+alba+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":67,"leechers":2,"uploader":"Miguel223","files":1,"time":1371082547,"description":"Las cronicas de Narnia: La travesia del viajero del alba \n\nwww.peliculasytorrent.com","torrent":{"xt":"urn:btih:eaf0d237575bdee75e0d717d35c8875c29ed0251","amp;dn":"Las+cronicas+de+Narnia%3A+La+travesia+del+viajero+del+alba+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"eaf0d237575bdee75e0d717d35c8875c29ed0251","infoHashBuffer":{"type":"Buffer","data":[234,240,210,55,87,91,222,231,94,13,113,125,53,200,135,92,41,237,2,81]},"announce":[],"urlList":[]}}
+{
+  "title": "Las cronicas de Narnia: La travesia del viajero del alba",
+  "uid": 8569949,
+  "size": 1540327424,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:eaf0d237575bdee75e0d717d35c8875c29ed0251&amp;dn=Las+cronicas+de+Narnia%3A+La+travesia+del+viajero+del+alba+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 67,
+  "leechers": 2,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1371082547,
+  "description": "Las cronicas de Narnia: La travesia del viajero del alba \n\nwww.peliculasytorrent.com",
+  "parsed": {
+    "xt": "urn:btih:eaf0d237575bdee75e0d717d35c8875c29ed0251",
+    "dn": "Las cronicas de Narnia: La travesia del viajero del alba ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "eaf0d237575bdee75e0d717d35c8875c29ed0251",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        234,
+        240,
+        210,
+        55,
+        87,
+        91,
+        222,
+        231,
+        94,
+        13,
+        113,
+        125,
+        53,
+        200,
+        135,
+        92,
+        41,
+        237,
+        2,
+        81
+      ]
+    },
+    "name": "Las cronicas de Narnia: La travesia del viajero del alba ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 124,
+  "last_updated": "2016-12-25T17:10:32.728Z"
+}

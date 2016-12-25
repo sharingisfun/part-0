@@ -1,1 +1,61 @@
-{"title":"Periphery Juggernaut Alpha and Omega [2015] 320","uid":11674726,"size":201246995,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ea17ed82efa92daf2df9f150aaade941acde0853&amp;dn=Periphery+Juggernaut+Alpha+and+Omega+%5B2015%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":89,"leechers":14,"uploader":"Capajebo","files":20,"time":1422809451,"description":"      ---------------------------------------------\nPeriphery Juggernaut: Alpha &amp; Juggernaut: Omega [2015] 320\n      ============================================= &lt;a href=&quot;\nhttp://imgur.com/oWftwRp&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgur.com/oWftwRp&lt;/a&gt; ::: TPB Ã¢â„¢Â  1914 Ã¢â„¢Â  :::\n      =============================================","torrent":{"xt":"urn:btih:ea17ed82efa92daf2df9f150aaade941acde0853","amp;dn":"Periphery+Juggernaut+Alpha+and+Omega+%5B2015%5D+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ea17ed82efa92daf2df9f150aaade941acde0853","infoHashBuffer":{"type":"Buffer","data":[234,23,237,130,239,169,45,175,45,249,241,80,170,173,233,65,172,222,8,83]},"announce":[],"urlList":[]}}
+{
+  "title": "Periphery Juggernaut Alpha and Omega [2015] 320",
+  "uid": 11674726,
+  "size": 201246995,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ea17ed82efa92daf2df9f150aaade941acde0853&amp;dn=Periphery+Juggernaut+Alpha+and+Omega+%5B2015%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 89,
+  "leechers": 14,
+  "uploader": "Capajebo",
+  "files": 20,
+  "time": 1422809451,
+  "description": "      ---------------------------------------------\nPeriphery Juggernaut: Alpha &amp; Juggernaut: Omega [2015] 320\n      ============================================= &lt;a href=&quot;\nhttp://imgur.com/oWftwRp&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgur.com/oWftwRp&lt;/a&gt; ::: TPB Ã¢â„¢Â  1914 Ã¢â„¢Â  :::\n      =============================================",
+  "parsed": {
+    "xt": "urn:btih:ea17ed82efa92daf2df9f150aaade941acde0853",
+    "dn": "Periphery Juggernaut Alpha and Omega [2015] 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ea17ed82efa92daf2df9f150aaade941acde0853",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        234,
+        23,
+        237,
+        130,
+        239,
+        169,
+        45,
+        175,
+        45,
+        249,
+        241,
+        80,
+        170,
+        173,
+        233,
+        65,
+        172,
+        222,
+        8,
+        83
+      ]
+    },
+    "name": "Periphery Juggernaut Alpha and Omega [2015] 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 103,
+  "peers": 25,
+  "last_updated": "2016-12-25T17:05:45.881Z"
+}

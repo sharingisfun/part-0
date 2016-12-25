@@ -1,1 +1,61 @@
-{"title":"Darth Vader 004 (2015) (2 covers) (digital) (Minutemen-Midas)","uid":11804572,"size":35139056,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:ea9b7cfe6e5f24f6d0bcef6b9a0aa1d77b6a0413&amp;dn=Darth+Vader+004+%282015%29+%282+covers%29+%28digital%29+%28Minutemen-Midas%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":77,"leechers":1,"uploader":"jedi.jesse","files":1,"time":1428524678,"description":"Revenge of the Battle Droids??? Vader returns to Geonosis to build his army! The Dark Lord's ascension continues!","torrent":{"xt":"urn:btih:ea9b7cfe6e5f24f6d0bcef6b9a0aa1d77b6a0413","amp;dn":"Darth+Vader+004+%282015%29+%282+covers%29+%28digital%29+%28Minutemen-Midas%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ea9b7cfe6e5f24f6d0bcef6b9a0aa1d77b6a0413","infoHashBuffer":{"type":"Buffer","data":[234,155,124,254,110,95,36,246,208,188,239,107,154,10,161,215,123,106,4,19]},"announce":[],"urlList":[]}}
+{
+  "title": "Darth Vader 004 (2015) (2 covers) (digital) (Minutemen-Midas)",
+  "uid": 11804572,
+  "size": 35139056,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:ea9b7cfe6e5f24f6d0bcef6b9a0aa1d77b6a0413&amp;dn=Darth+Vader+004+%282015%29+%282+covers%29+%28digital%29+%28Minutemen-Midas%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 77,
+  "leechers": 1,
+  "uploader": "jedi.jesse",
+  "files": 1,
+  "time": 1428524678,
+  "description": "Revenge of the Battle Droids??? Vader returns to Geonosis to build his army! The Dark Lord's ascension continues!",
+  "parsed": {
+    "xt": "urn:btih:ea9b7cfe6e5f24f6d0bcef6b9a0aa1d77b6a0413",
+    "dn": "Darth Vader 004 (2015) (2 covers) (digital) (Minutemen-Midas)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ea9b7cfe6e5f24f6d0bcef6b9a0aa1d77b6a0413",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        234,
+        155,
+        124,
+        254,
+        110,
+        95,
+        36,
+        246,
+        208,
+        188,
+        239,
+        107,
+        154,
+        10,
+        161,
+        215,
+        123,
+        106,
+        4,
+        19
+      ]
+    },
+    "name": "Darth Vader 004 (2015) (2 covers) (digital) (Minutemen-Midas)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 78,
+  "peers": 9,
+  "last_updated": "2016-12-25T17:08:38.407Z"
+}

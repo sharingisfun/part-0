@@ -1,1 +1,61 @@
-{"title":"Sixto Rodriguez - 2 studio and 1 live album","uid":4092818,"size":137451635,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e96fbaa6a468021da4cbb5ebdd3c90bdf11d8691&amp;dn=Sixto+Rodriguez+-+2+studio+and+1+live+album&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":1,"uploader":"sadams1","files":44,"time":1206145861,"description":"Three albums\n&quot;Cold Fact&quot;, &quot;After The Fact&quot; and &quot;Live Fact&quot;","torrent":{"xt":"urn:btih:e96fbaa6a468021da4cbb5ebdd3c90bdf11d8691","amp;dn":"Sixto+Rodriguez+-+2+studio+and+1+live+album","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e96fbaa6a468021da4cbb5ebdd3c90bdf11d8691","infoHashBuffer":{"type":"Buffer","data":[233,111,186,166,164,104,2,29,164,203,181,235,221,60,144,189,241,29,134,145]},"announce":[],"urlList":[]}}
+{
+  "title": "Sixto Rodriguez - 2 studio and 1 live album",
+  "uid": 4092818,
+  "size": 137451635,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e96fbaa6a468021da4cbb5ebdd3c90bdf11d8691&amp;dn=Sixto+Rodriguez+-+2+studio+and+1+live+album&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 1,
+  "uploader": "sadams1",
+  "files": 44,
+  "time": 1206145861,
+  "description": "Three albums\n&quot;Cold Fact&quot;, &quot;After The Fact&quot; and &quot;Live Fact&quot;",
+  "parsed": {
+    "xt": "urn:btih:e96fbaa6a468021da4cbb5ebdd3c90bdf11d8691",
+    "dn": "Sixto Rodriguez - 2 studio and 1 live album",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e96fbaa6a468021da4cbb5ebdd3c90bdf11d8691",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        233,
+        111,
+        186,
+        166,
+        164,
+        104,
+        2,
+        29,
+        164,
+        203,
+        181,
+        235,
+        221,
+        60,
+        144,
+        189,
+        241,
+        29,
+        134,
+        145
+      ]
+    },
+    "name": "Sixto Rodriguez - 2 studio and 1 live album",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 25,
+  "last_updated": "2016-12-25T17:02:19.275Z"
+}

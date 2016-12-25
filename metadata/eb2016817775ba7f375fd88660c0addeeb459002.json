@@ -1,1 +1,61 @@
-{"title":"Rihanna - Umbrella.mp3","uid":3959565,"size":4029037,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:eb2016817775ba7f375fd88660c0addeeb459002&amp;dn=Rihanna+-+Umbrella.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":0,"uploader":"icsmen","files":1,"time":1199371194,"description":"Rihanna - Umbrella.mp3","torrent":{"xt":"urn:btih:eb2016817775ba7f375fd88660c0addeeb459002","amp;dn":"Rihanna+-+Umbrella.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"eb2016817775ba7f375fd88660c0addeeb459002","infoHashBuffer":{"type":"Buffer","data":[235,32,22,129,119,117,186,127,55,95,216,134,96,192,173,222,235,69,144,2]},"announce":[],"urlList":[]}}
+{
+  "title": "Rihanna - Umbrella.mp3",
+  "uid": 3959565,
+  "size": 4029037,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:eb2016817775ba7f375fd88660c0addeeb459002&amp;dn=Rihanna+-+Umbrella.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 0,
+  "uploader": "icsmen",
+  "files": 1,
+  "time": 1199371194,
+  "description": "Rihanna - Umbrella.mp3",
+  "parsed": {
+    "xt": "urn:btih:eb2016817775ba7f375fd88660c0addeeb459002",
+    "dn": "Rihanna - Umbrella.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "eb2016817775ba7f375fd88660c0addeeb459002",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        235,
+        32,
+        22,
+        129,
+        119,
+        117,
+        186,
+        127,
+        55,
+        95,
+        216,
+        134,
+        96,
+        192,
+        173,
+        222,
+        235,
+        69,
+        144,
+        2
+      ]
+    },
+    "name": "Rihanna - Umbrella.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 36,
+  "peers": 70,
+  "last_updated": "2016-12-25T17:11:34.901Z"
+}

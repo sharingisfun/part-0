@@ -1,1 +1,61 @@
-{"title":"OS X Yosemite 10.10.3 bootable USB (DMG File) (14D131)","uid":11810922,"size":6175015038,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:ea5c200884281bdfb82c230eb902c640d1e70d8d&amp;dn=OS+X+Yosemite+10.10.3+bootable+USB+%28DMG+File%29+%2814D131%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":22,"uploader":"BongoNL","files":1,"time":1428781070,"description":"OS X Yosemite 10.10.3 bootable USB (DMG File) (14D131)\n\nUse the &quot;Restore&quot; option in Disk Utility to write it down on a USB-stick.\n\nEnjoy!\n----------------------------\nHow to do info..\n\nFormat Your USB Flash Drive..\n1. Insert the USB flash drive into your MacÃ¢â‚¬â„¢s USB port.\n2. Launch Disk Utility, located at /Applications/Utilities/.\n3. In the list of drives attached to your Mac, select the USB flash drive device. In my case, itÃ¢â‚¬â„¢s called 14.9 GB SanDisk Cruzer Media.\n4. Click the Ã¢â‚¬ËœPartitionÃ¢â‚¬â„¢ tab.\n5. Select Ã¢â‚¬Ëœ1 PartitionÃ¢â‚¬â„¢ from the Volume Scheme dropdown menu.\n6. Enter a descriptive name for your flash drive; I chose &quot;USB Install Drive&quot;\n7. Select Mac OS X Extended (Journaled) from the Format dropdown menu.\n8. Click the Ã¢â‚¬ËœOptionsÃ¢â‚¬â„¢ button.\n9. Select Ã¢â‚¬ËœGUID Partition TableÃ¢â‚¬â„¢ from the list of available partition schemes.\n10. Click Ã¢â‚¬ËœOK.\n\n\nNow the USB flash drive is prepared you can Restore &quot;Yosemite 10.10.3.dmg&quot; to your flash drive.\n\n1. Click on &quot;Restore&quot; in the Disk Utility window.\n2. Drag &quot;OS X Base System.dmg&quot; to &quot;Source&quot;\n3. Drag the usb flash drive (in my case &quot;USB Install Drive&quot;) to &quot;Destination&quot;\n4. Click &quot;Restore&quot; en enter your system password.5.\n\nDone","torrent":{"xt":"urn:btih:ea5c200884281bdfb82c230eb902c640d1e70d8d","amp;dn":"OS+X+Yosemite+10.10.3+bootable+USB+%28DMG+File%29+%2814D131%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ea5c200884281bdfb82c230eb902c640d1e70d8d","infoHashBuffer":{"type":"Buffer","data":[234,92,32,8,132,40,27,223,184,44,35,14,185,2,198,64,209,231,13,141]},"announce":[],"urlList":[]}}
+{
+  "title": "OS X Yosemite 10.10.3 bootable USB (DMG File) (14D131)",
+  "uid": 11810922,
+  "size": 6175015038,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:ea5c200884281bdfb82c230eb902c640d1e70d8d&amp;dn=OS+X+Yosemite+10.10.3+bootable+USB+%28DMG+File%29+%2814D131%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 22,
+  "uploader": "BongoNL",
+  "files": 1,
+  "time": 1428781070,
+  "description": "OS X Yosemite 10.10.3 bootable USB (DMG File) (14D131)\n\nUse the &quot;Restore&quot; option in Disk Utility to write it down on a USB-stick.\n\nEnjoy!\n----------------------------\nHow to do info..\n\nFormat Your USB Flash Drive..\n1. Insert the USB flash drive into your MacÃ¢â‚¬â„¢s USB port.\n2. Launch Disk Utility, located at /Applications/Utilities/.\n3. In the list of drives attached to your Mac, select the USB flash drive device. In my case, itÃ¢â‚¬â„¢s called 14.9 GB SanDisk Cruzer Media.\n4. Click the Ã¢â‚¬ËœPartitionÃ¢â‚¬â„¢ tab.\n5. Select Ã¢â‚¬Ëœ1 PartitionÃ¢â‚¬â„¢ from the Volume Scheme dropdown menu.\n6. Enter a descriptive name for your flash drive; I chose &quot;USB Install Drive&quot;\n7. Select Mac OS X Extended (Journaled) from the Format dropdown menu.\n8. Click the Ã¢â‚¬ËœOptionsÃ¢â‚¬â„¢ button.\n9. Select Ã¢â‚¬ËœGUID Partition TableÃ¢â‚¬â„¢ from the list of available partition schemes.\n10. Click Ã¢â‚¬ËœOK.\n\n\nNow the USB flash drive is prepared you can Restore &quot;Yosemite 10.10.3.dmg&quot; to your flash drive.\n\n1. Click on &quot;Restore&quot; in the Disk Utility window.\n2. Drag &quot;OS X Base System.dmg&quot; to &quot;Source&quot;\n3. Drag the usb flash drive (in my case &quot;USB Install Drive&quot;) to &quot;Destination&quot;\n4. Click &quot;Restore&quot; en enter your system password.5.\n\nDone",
+  "parsed": {
+    "xt": "urn:btih:ea5c200884281bdfb82c230eb902c640d1e70d8d",
+    "dn": "OS X Yosemite 10.10.3 bootable USB (DMG File) (14D131)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ea5c200884281bdfb82c230eb902c640d1e70d8d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        234,
+        92,
+        32,
+        8,
+        132,
+        40,
+        27,
+        223,
+        184,
+        44,
+        35,
+        14,
+        185,
+        2,
+        198,
+        64,
+        209,
+        231,
+        13,
+        141
+      ]
+    },
+    "name": "OS X Yosemite 10.10.3 bootable USB (DMG File) (14D131)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 81,
+  "peers": 122,
+  "last_updated": "2016-12-25T17:07:16.146Z"
+}

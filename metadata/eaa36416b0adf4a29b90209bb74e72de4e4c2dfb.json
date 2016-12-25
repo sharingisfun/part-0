@@ -1,1 +1,61 @@
-{"title":"Chappie.2015.SWESUB.1080p.BRRiP.x264.SW3SU8.mp4","uid":12031948,"size":1934167998,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:eaa36416b0adf4a29b90209bb74e72de4e4c2dfb&amp;dn=Chappie.2015.SWESUB.1080p.BRRiP.x264.SW3SU8.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":2,"uploader":"SW3SU8","files":1,"time":1434635322,"description":"Barn som som kommer till vÃƒÂ¥r vÃƒÂ¤rld pÃƒÂ¥verkas av sin omgivning. Det ÃƒÂ¤r likadant fÃƒÂ¶r Chappie. Det som skiljer Chappie frÃƒÂ¥n andra barn ÃƒÂ¤r att han ÃƒÂ¤r en robot. En robot som likvÃƒÂ¤l kan tÃƒÂ¤nka och kÃƒÂ¤nna som andra, och som kommer att ÃƒÂ¤ndra mÃƒÂ¤nniskors syn pÃƒÂ¥ robotar fÃƒÂ¶r all framtid","torrent":{"xt":"urn:btih:eaa36416b0adf4a29b90209bb74e72de4e4c2dfb","amp;dn":"Chappie.2015.SWESUB.1080p.BRRiP.x264.SW3SU8.mp4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"eaa36416b0adf4a29b90209bb74e72de4e4c2dfb","infoHashBuffer":{"type":"Buffer","data":[234,163,100,22,176,173,244,162,155,144,32,155,183,78,114,222,78,76,45,251]},"announce":[],"urlList":[]}}
+{
+  "title": "Chappie.2015.SWESUB.1080p.BRRiP.x264.SW3SU8.mp4",
+  "uid": 12031948,
+  "size": 1934167998,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:eaa36416b0adf4a29b90209bb74e72de4e4c2dfb&amp;dn=Chappie.2015.SWESUB.1080p.BRRiP.x264.SW3SU8.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 2,
+  "uploader": "SW3SU8",
+  "files": 1,
+  "time": 1434635322,
+  "description": "Barn som som kommer till vÃƒÂ¥r vÃƒÂ¤rld pÃƒÂ¥verkas av sin omgivning. Det ÃƒÂ¤r likadant fÃƒÂ¶r Chappie. Det som skiljer Chappie frÃƒÂ¥n andra barn ÃƒÂ¤r att han ÃƒÂ¤r en robot. En robot som likvÃƒÂ¤l kan tÃƒÂ¤nka och kÃƒÂ¤nna som andra, och som kommer att ÃƒÂ¤ndra mÃƒÂ¤nniskors syn pÃƒÂ¥ robotar fÃƒÂ¶r all framtid",
+  "parsed": {
+    "xt": "urn:btih:eaa36416b0adf4a29b90209bb74e72de4e4c2dfb",
+    "dn": "Chappie.2015.SWESUB.1080p.BRRiP.x264.SW3SU8.mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "eaa36416b0adf4a29b90209bb74e72de4e4c2dfb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        234,
+        163,
+        100,
+        22,
+        176,
+        173,
+        244,
+        162,
+        155,
+        144,
+        32,
+        155,
+        183,
+        78,
+        114,
+        222,
+        78,
+        76,
+        45,
+        251
+      ]
+    },
+    "name": "Chappie.2015.SWESUB.1080p.BRRiP.x264.SW3SU8.mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 26,
+  "last_updated": "2016-12-25T17:09:06.485Z"
+}

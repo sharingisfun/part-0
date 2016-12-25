@@ -1,1 +1,61 @@
-{"title":"Martin Garrix - Animals [iPuMa]","uid":8972641,"size":4889365,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e8f886d2c4d589625b9aff66357eae080105c0a9&amp;dn=Martin+Garrix+-+Animals+%5BiPuMa%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":1,"uploader":"iPuMa","files":1,"time":1380362793,"description":"-------------------------------------------------------------------------------------\n\nFormat : MP3\n\n\nJUST HAVE FUN -- iPuMa","torrent":{"xt":"urn:btih:e8f886d2c4d589625b9aff66357eae080105c0a9","amp;dn":"Martin+Garrix+-+Animals+%5BiPuMa%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e8f886d2c4d589625b9aff66357eae080105c0a9","infoHashBuffer":{"type":"Buffer","data":[232,248,134,210,196,213,137,98,91,154,255,102,53,126,174,8,1,5,192,169]},"announce":[],"urlList":[]}}
+{
+  "title": "Martin Garrix - Animals [iPuMa]",
+  "uid": 8972641,
+  "size": 4889365,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e8f886d2c4d589625b9aff66357eae080105c0a9&amp;dn=Martin+Garrix+-+Animals+%5BiPuMa%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 1,
+  "uploader": "iPuMa",
+  "files": 1,
+  "time": 1380362793,
+  "description": "-------------------------------------------------------------------------------------\n\nFormat : MP3\n\n\nJUST HAVE FUN -- iPuMa",
+  "parsed": {
+    "xt": "urn:btih:e8f886d2c4d589625b9aff66357eae080105c0a9",
+    "dn": "Martin Garrix - Animals [iPuMa]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e8f886d2c4d589625b9aff66357eae080105c0a9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        232,
+        248,
+        134,
+        210,
+        196,
+        213,
+        137,
+        98,
+        91,
+        154,
+        255,
+        102,
+        53,
+        126,
+        174,
+        8,
+        1,
+        5,
+        192,
+        169
+      ]
+    },
+    "name": "Martin Garrix - Animals [iPuMa]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 25,
+  "last_updated": "2016-12-25T16:59:40.730Z"
+}
