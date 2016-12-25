@@ -1,1 +1,61 @@
-{"title":"Calvin Harris &amp;bull; Motion [2014] 320","uid":11310616,"size":133978247,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4a03fc64327f92b508833cd05f816cb3c37221f9&amp;dn=Calvin+Harris+%26bull%3B+Motion+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":92,"leechers":14,"uploader":"Capajebo","files":-1,"time":1414509799,"description":"Calvin Harris Ã¢â‚¬Â¢ Motion [2014] 320","torrent":{"xt":"urn:btih:4a03fc64327f92b508833cd05f816cb3c37221f9","amp;dn":"Calvin+Harris+%26bull%3B+Motion+%5B2014%5D+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4a03fc64327f92b508833cd05f816cb3c37221f9","infoHashBuffer":{"type":"Buffer","data":[74,3,252,100,50,127,146,181,8,131,60,208,95,129,108,179,195,114,33,249]},"announce":[],"urlList":[]}}
+{
+  "title": "Calvin Harris &amp;bull; Motion [2014] 320",
+  "uid": 11310616,
+  "size": 133978247,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4a03fc64327f92b508833cd05f816cb3c37221f9&amp;dn=Calvin+Harris+%26bull%3B+Motion+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 92,
+  "leechers": 14,
+  "uploader": "Capajebo",
+  "files": -1,
+  "time": 1414509799,
+  "description": "Calvin Harris Ã¢â‚¬Â¢ Motion [2014] 320",
+  "parsed": {
+    "xt": "urn:btih:4a03fc64327f92b508833cd05f816cb3c37221f9",
+    "dn": "Calvin Harris &bull; Motion [2014] 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4a03fc64327f92b508833cd05f816cb3c37221f9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        74,
+        3,
+        252,
+        100,
+        50,
+        127,
+        146,
+        181,
+        8,
+        131,
+        60,
+        208,
+        95,
+        129,
+        108,
+        179,
+        195,
+        114,
+        33,
+        249
+      ]
+    },
+    "name": "Calvin Harris &bull; Motion [2014] 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 106,
+  "peers": 26,
+  "last_updated": "2016-12-25T00:13:59.540Z"
+}

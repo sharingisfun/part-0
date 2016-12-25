@@ -1,1 +1,61 @@
-{"title":"Omi-Cheerleader.mp3","uid":12176657,"size":2893594,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4ab3b87ddf7e002fac9d84574c081992e622837c&amp;dn=Omi-Cheerleader.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":3,"uploader":"mark4705","files":1,"time":1438326070,"description":"Omi-Cheerleader","torrent":{"xt":"urn:btih:4ab3b87ddf7e002fac9d84574c081992e622837c","amp;dn":"Omi-Cheerleader.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4ab3b87ddf7e002fac9d84574c081992e622837c","infoHashBuffer":{"type":"Buffer","data":[74,179,184,125,223,126,0,47,172,157,132,87,76,8,25,146,230,34,131,124]},"announce":[],"urlList":[]}}
+{
+  "title": "Omi-Cheerleader.mp3",
+  "uid": 12176657,
+  "size": 2893594,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4ab3b87ddf7e002fac9d84574c081992e622837c&amp;dn=Omi-Cheerleader.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 3,
+  "uploader": "mark4705",
+  "files": 1,
+  "time": 1438326070,
+  "description": "Omi-Cheerleader",
+  "parsed": {
+    "xt": "urn:btih:4ab3b87ddf7e002fac9d84574c081992e622837c",
+    "dn": "Omi-Cheerleader.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4ab3b87ddf7e002fac9d84574c081992e622837c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        74,
+        179,
+        184,
+        125,
+        223,
+        126,
+        0,
+        47,
+        172,
+        157,
+        132,
+        87,
+        76,
+        8,
+        25,
+        146,
+        230,
+        34,
+        131,
+        124
+      ]
+    },
+    "name": "Omi-Cheerleader.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 67,
+  "peers": 137,
+  "last_updated": "2016-12-25T00:18:26.405Z"
+}

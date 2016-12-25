@@ -1,1 +1,63 @@
-{"title":"Adele-Hello.mp3","uid":12630293,"size":4722816,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4be217e25f5b2e8a4eec3aefddfbc46c065091d4&amp;dn=Adele-Hello.mp3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":1,"uploader":"mark4705","files":1,"time":1445829308,"description":"Adele-Hello","torrent":{"xt":"urn:btih:4be217e25f5b2e8a4eec3aefddfbc46c065091d4","amp;dn":"Adele-Hello.mp3","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4be217e25f5b2e8a4eec3aefddfbc46c065091d4","infoHashBuffer":{"type":"Buffer","data":[75,226,23,226,95,91,46,138,78,236,58,239,221,251,196,108,6,80,145,212]},"announce":[],"urlList":[]}}
+{
+  "title": "Adele-Hello.mp3",
+  "uid": 12630293,
+  "size": 4722816,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4be217e25f5b2e8a4eec3aefddfbc46c065091d4&amp;dn=Adele-Hello.mp3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 1,
+  "uploader": "mark4705",
+  "files": 1,
+  "time": 1445829308,
+  "description": "Adele-Hello",
+  "parsed": {
+    "xt": "urn:btih:4be217e25f5b2e8a4eec3aefddfbc46c065091d4",
+    "dn": "Adele-Hello.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "4be217e25f5b2e8a4eec3aefddfbc46c065091d4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        75,
+        226,
+        23,
+        226,
+        95,
+        91,
+        46,
+        138,
+        78,
+        236,
+        58,
+        239,
+        221,
+        251,
+        196,
+        108,
+        6,
+        80,
+        145,
+        212
+      ]
+    },
+    "name": "Adele-Hello.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 307,
+  "last_updated": "2016-12-25T00:25:39.614Z"
+}

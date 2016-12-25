@@ -1,1 +1,61 @@
-{"title":"The Chemical Brothers Discography (1995-2012) iTunes AAC 256","uid":9990863,"size":2140055263,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:4c0db2698c826f8a2d31b4f99693040d52b0252b&amp;dn=The+Chemical+Brothers+Discography+%281995-2012%29+iTunes+AAC+256&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":83,"leechers":26,"uploader":"-wxm-","files":-1,"time":1397847548,"description":"The Chemical Brothers Discography (1995-2012) iTunes AAC 256\n\nPurchased AAC files","torrent":{"xt":"urn:btih:4c0db2698c826f8a2d31b4f99693040d52b0252b","amp;dn":"The+Chemical+Brothers+Discography+%281995-2012%29+iTunes+AAC+256","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4c0db2698c826f8a2d31b4f99693040d52b0252b","infoHashBuffer":{"type":"Buffer","data":[76,13,178,105,140,130,111,138,45,49,180,249,150,147,4,13,82,176,37,43]},"announce":[],"urlList":[]}}
+{
+  "title": "The Chemical Brothers Discography (1995-2012) iTunes AAC 256",
+  "uid": 9990863,
+  "size": 2140055263,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:4c0db2698c826f8a2d31b4f99693040d52b0252b&amp;dn=The+Chemical+Brothers+Discography+%281995-2012%29+iTunes+AAC+256&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 83,
+  "leechers": 26,
+  "uploader": "-wxm-",
+  "files": -1,
+  "time": 1397847548,
+  "description": "The Chemical Brothers Discography (1995-2012) iTunes AAC 256\n\nPurchased AAC files",
+  "parsed": {
+    "xt": "urn:btih:4c0db2698c826f8a2d31b4f99693040d52b0252b",
+    "dn": "The Chemical Brothers Discography (1995-2012) iTunes AAC 256",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4c0db2698c826f8a2d31b4f99693040d52b0252b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        76,
+        13,
+        178,
+        105,
+        140,
+        130,
+        111,
+        138,
+        45,
+        49,
+        180,
+        249,
+        150,
+        147,
+        4,
+        13,
+        82,
+        176,
+        37,
+        43
+      ]
+    },
+    "name": "The Chemical Brothers Discography (1995-2012) iTunes AAC 256",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 109,
+  "peers": 18,
+  "last_updated": "2016-12-25T00:26:33.757Z"
+}

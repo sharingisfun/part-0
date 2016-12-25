@@ -1,1 +1,61 @@
-{"title":"God of War for PS2","uid":3758627,"size":4205381632,"categoryP":"games","categoryS":"psx","magnet":"?xt=urn:btih:4ad56fedc05df457df62222b92b21181d87d88c9&amp;dn=God+of+War+for+PS2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":12,"uploader":"theevilbeast","files":1,"time":1185894475,"description":"Download burn it with alchohol 120% and enjoy!","torrent":{"xt":"urn:btih:4ad56fedc05df457df62222b92b21181d87d88c9","amp;dn":"God+of+War+for+PS2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4ad56fedc05df457df62222b92b21181d87d88c9","infoHashBuffer":{"type":"Buffer","data":[74,213,111,237,192,93,244,87,223,98,34,43,146,178,17,129,216,125,136,201]},"announce":[],"urlList":[]}}
+{
+  "title": "God of War for PS2",
+  "uid": 3758627,
+  "size": 4205381632,
+  "categoryP": "games",
+  "categoryS": "psx",
+  "magnet": "?xt=urn:btih:4ad56fedc05df457df62222b92b21181d87d88c9&amp;dn=God+of+War+for+PS2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 12,
+  "uploader": "theevilbeast",
+  "files": 1,
+  "time": 1185894475,
+  "description": "Download burn it with alchohol 120% and enjoy!",
+  "parsed": {
+    "xt": "urn:btih:4ad56fedc05df457df62222b92b21181d87d88c9",
+    "dn": "God of War for PS2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4ad56fedc05df457df62222b92b21181d87d88c9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        74,
+        213,
+        111,
+        237,
+        192,
+        93,
+        244,
+        87,
+        223,
+        98,
+        34,
+        43,
+        146,
+        178,
+        17,
+        129,
+        216,
+        125,
+        136,
+        201
+      ]
+    },
+    "name": "God of War for PS2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 50,
+  "last_updated": "2016-12-25T00:19:34.606Z"
+}

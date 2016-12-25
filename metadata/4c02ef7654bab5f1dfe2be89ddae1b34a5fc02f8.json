@@ -1,1 +1,61 @@
-{"title":"Revenge.S02E04.HDTV.x264-LOL.[VTV].mp4","uid":7750203,"size":230292416,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:4c02ef7654bab5f1dfe2be89ddae1b34a5fc02f8&amp;dn=Revenge.S02E04.HDTV.x264-LOL.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":3,"uploader":"VTV","files":1,"time":1350879613,"description":"Revenge 2x04 (HDTV-x264-LOL)[VTV]","torrent":{"xt":"urn:btih:4c02ef7654bab5f1dfe2be89ddae1b34a5fc02f8","amp;dn":"Revenge.S02E04.HDTV.x264-LOL.%5BVTV%5D.mp4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4c02ef7654bab5f1dfe2be89ddae1b34a5fc02f8","infoHashBuffer":{"type":"Buffer","data":[76,2,239,118,84,186,181,241,223,226,190,137,221,174,27,52,165,252,2,248]},"announce":[],"urlList":[]}}
+{
+  "title": "Revenge.S02E04.HDTV.x264-LOL.[VTV].mp4",
+  "uid": 7750203,
+  "size": 230292416,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:4c02ef7654bab5f1dfe2be89ddae1b34a5fc02f8&amp;dn=Revenge.S02E04.HDTV.x264-LOL.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 3,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1350879613,
+  "description": "Revenge 2x04 (HDTV-x264-LOL)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:4c02ef7654bab5f1dfe2be89ddae1b34a5fc02f8",
+    "dn": "Revenge.S02E04.HDTV.x264-LOL.[VTV].mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4c02ef7654bab5f1dfe2be89ddae1b34a5fc02f8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        76,
+        2,
+        239,
+        118,
+        84,
+        186,
+        181,
+        241,
+        223,
+        226,
+        190,
+        137,
+        221,
+        174,
+        27,
+        52,
+        165,
+        252,
+        2,
+        248
+      ]
+    },
+    "name": "Revenge.S02E04.HDTV.x264-LOL.[VTV].mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 6,
+  "last_updated": "2016-12-25T00:26:21.720Z"
+}

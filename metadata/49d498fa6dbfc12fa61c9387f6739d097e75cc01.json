@@ -1,1 +1,61 @@
-{"title":"LMFAO - Sexy and I Know It ","uid":6680578,"size":8035709,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:49d498fa6dbfc12fa61c9387f6739d097e75cc01&amp;dn=LMFAO+-+Sexy+and+I+Know+It+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":0,"uploader":"haznii","files":-1,"time":1316178778,"description":"320 kbps\n\nitunes ready\n\ntwitter: @hazni  \n\nseed please :)\n\n\n","torrent":{"xt":"urn:btih:49d498fa6dbfc12fa61c9387f6739d097e75cc01","amp;dn":"LMFAO+-+Sexy+and+I+Know+It+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"49d498fa6dbfc12fa61c9387f6739d097e75cc01","infoHashBuffer":{"type":"Buffer","data":[73,212,152,250,109,191,193,47,166,28,147,135,246,115,157,9,126,117,204,1]},"announce":[],"urlList":[]}}
+{
+  "title": "LMFAO - Sexy and I Know It ",
+  "uid": 6680578,
+  "size": 8035709,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:49d498fa6dbfc12fa61c9387f6739d097e75cc01&amp;dn=LMFAO+-+Sexy+and+I+Know+It+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 0,
+  "uploader": "haznii",
+  "files": -1,
+  "time": 1316178778,
+  "description": "320 kbps\n\nitunes ready\n\ntwitter: @hazni  \n\nseed please :)\n\n\n",
+  "parsed": {
+    "xt": "urn:btih:49d498fa6dbfc12fa61c9387f6739d097e75cc01",
+    "dn": "LMFAO - Sexy and I Know It ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "49d498fa6dbfc12fa61c9387f6739d097e75cc01",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        73,
+        212,
+        152,
+        250,
+        109,
+        191,
+        193,
+        47,
+        166,
+        28,
+        147,
+        135,
+        246,
+        115,
+        157,
+        9,
+        126,
+        117,
+        204,
+        1
+      ]
+    },
+    "name": "LMFAO - Sexy and I Know It ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 50,
+  "last_updated": "2016-12-25T00:12:57.313Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Kanye West - The College Dropout","uid":11774495,"size":181975980,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4b7d72fac2a9358d8768da6ee2c2fd1e0f0a916b&amp;dn=Kanye+West+-+The+College+Dropout&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":103,"leechers":25,"uploader":null,"files":21,"time":1427219825,"description":"320","torrent":{"xt":"urn:btih:4b7d72fac2a9358d8768da6ee2c2fd1e0f0a916b","amp;dn":"Kanye+West+-+The+College+Dropout","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4b7d72fac2a9358d8768da6ee2c2fd1e0f0a916b","infoHashBuffer":{"type":"Buffer","data":[75,125,114,250,194,169,53,141,135,104,218,110,226,194,253,30,15,10,145,107]},"announce":[],"urlList":[]}}
+{
+  "title": "Kanye West - The College Dropout",
+  "uid": 11774495,
+  "size": 181975980,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4b7d72fac2a9358d8768da6ee2c2fd1e0f0a916b&amp;dn=Kanye+West+-+The+College+Dropout&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 103,
+  "leechers": 25,
+  "uploader": null,
+  "files": 21,
+  "time": 1427219825,
+  "description": "320",
+  "parsed": {
+    "xt": "urn:btih:4b7d72fac2a9358d8768da6ee2c2fd1e0f0a916b",
+    "dn": "Kanye West - The College Dropout",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4b7d72fac2a9358d8768da6ee2c2fd1e0f0a916b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        75,
+        125,
+        114,
+        250,
+        194,
+        169,
+        53,
+        141,
+        135,
+        104,
+        218,
+        110,
+        226,
+        194,
+        253,
+        30,
+        15,
+        10,
+        145,
+        107
+      ]
+    },
+    "name": "Kanye West - The College Dropout",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 128,
+  "peers": 50,
+  "last_updated": "2016-12-25T00:23:17.227Z"
+}

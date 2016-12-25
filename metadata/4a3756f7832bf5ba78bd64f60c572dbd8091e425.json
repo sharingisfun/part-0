@@ -1,1 +1,61 @@
-{"title":"TI - Trap Muzik","uid":3834882,"size":65461477,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4a3756f7832bf5ba78bd64f60c572dbd8091e425&amp;dn=TI+-+Trap+Muzik&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":1,"uploader":"Neiviesis1919","files":16,"time":1191898663,"description":"    -=Uploaded by neIVIesis=-\n-=Rating and Feedback Encouraged=-","torrent":{"xt":"urn:btih:4a3756f7832bf5ba78bd64f60c572dbd8091e425","amp;dn":"TI+-+Trap+Muzik","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4a3756f7832bf5ba78bd64f60c572dbd8091e425","infoHashBuffer":{"type":"Buffer","data":[74,55,86,247,131,43,245,186,120,189,100,246,12,87,45,189,128,145,228,37]},"announce":[],"urlList":[]}}
+{
+  "title": "TI - Trap Muzik",
+  "uid": 3834882,
+  "size": 65461477,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4a3756f7832bf5ba78bd64f60c572dbd8091e425&amp;dn=TI+-+Trap+Muzik&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 1,
+  "uploader": "Neiviesis1919",
+  "files": 16,
+  "time": 1191898663,
+  "description": "    -=Uploaded by neIVIesis=-\n-=Rating and Feedback Encouraged=-",
+  "parsed": {
+    "xt": "urn:btih:4a3756f7832bf5ba78bd64f60c572dbd8091e425",
+    "dn": "TI - Trap Muzik",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4a3756f7832bf5ba78bd64f60c572dbd8091e425",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        74,
+        55,
+        86,
+        247,
+        131,
+        43,
+        245,
+        186,
+        120,
+        189,
+        100,
+        246,
+        12,
+        87,
+        45,
+        189,
+        128,
+        145,
+        228,
+        37
+      ]
+    },
+    "name": "TI - Trap Muzik",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 29,
+  "last_updated": "2016-12-25T00:15:23.820Z"
+}

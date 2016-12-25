@@ -1,1 +1,61 @@
-{"title":"Native Instruments Reaktor v.5.9 Standalone, VST-R2R","uid":11692334,"size":2088068867,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:4c3b3f66e79398765d7f47ce1219950313941a60&amp;dn=Native+Instruments+Reaktor+v.5.9+Standalone%2C+VST-R2R&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":5,"uploader":"wolkoo","files":3,"time":1423589935,"description":"Update for Native Instruments Reaktor to version 5.9 by Team R2R (needed for Polyplex and latest Reaktor Plugins)\n\nSorry for not having a fancy Description ;D","torrent":{"xt":"urn:btih:4c3b3f66e79398765d7f47ce1219950313941a60","amp;dn":"Native+Instruments+Reaktor+v.5.9+Standalone%2C+VST-R2R","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4c3b3f66e79398765d7f47ce1219950313941a60","infoHashBuffer":{"type":"Buffer","data":[76,59,63,102,231,147,152,118,93,127,71,206,18,25,149,3,19,148,26,96]},"announce":[],"urlList":[]}}
+{
+  "title": "Native Instruments Reaktor v.5.9 Standalone, VST-R2R",
+  "uid": 11692334,
+  "size": 2088068867,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:4c3b3f66e79398765d7f47ce1219950313941a60&amp;dn=Native+Instruments+Reaktor+v.5.9+Standalone%2C+VST-R2R&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 5,
+  "uploader": "wolkoo",
+  "files": 3,
+  "time": 1423589935,
+  "description": "Update for Native Instruments Reaktor to version 5.9 by Team R2R (needed for Polyplex and latest Reaktor Plugins)\n\nSorry for not having a fancy Description ;D",
+  "parsed": {
+    "xt": "urn:btih:4c3b3f66e79398765d7f47ce1219950313941a60",
+    "dn": "Native Instruments Reaktor v.5.9 Standalone, VST-R2R",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4c3b3f66e79398765d7f47ce1219950313941a60",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        76,
+        59,
+        63,
+        102,
+        231,
+        147,
+        152,
+        118,
+        93,
+        127,
+        71,
+        206,
+        18,
+        25,
+        149,
+        3,
+        19,
+        148,
+        26,
+        96
+      ]
+    },
+    "name": "Native Instruments Reaktor v.5.9 Standalone, VST-R2R",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 12,
+  "last_updated": "2016-12-25T00:27:45.997Z"
+}

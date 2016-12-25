@@ -1,1 +1,61 @@
-{"title":"Effective Modern C++ - Scott Meyers - 2014","uid":11474928,"size":4706570,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:4baa1331bcaeacfd2911f862372ae3895f77462b&amp;dn=Effective+Modern+C%2B%2B+-+Scott+Meyers+-+2014&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":0,"uploader":"diypromo","files":-1,"time":1416137183,"description":"Effective Modern C++\n=====================\n\nAuthor: Scott Meyers\nPages: 320\nEdition: 1\nPublisher: O'Reilly Media\nYear: 2014\nISBN-10: 1491903996\nISBN-13: 9781491903995\n\nDescription\n============\n\n\tComing to grips with C++11 and C++14 is more than a matter of familiarizing yourself with the features they introduce (e.g., auto type declarations, move semantics, lambda expressions, and concurrency support). The challenge is learning to use those features effectivelyÃ¢â‚¬â€so that your software is correct, efficient, maintainable, and portable. ThatÃ¢â‚¬â„¢s where this practical book comes in. It describes how to write truly great software using C++11 and C++14Ã¢â‚¬â€i.e. using modern C++.\n\nTopics include:\n\n * The pros and cons of braced initialization, noexcept specifications, perfect \n   forwarding, and smart pointer make functions\n * The relationships among std::move, std::forward, rvalue references, and \n   universal references\n * Techniques for writing clear, correct, effective lambda expressions\n * How std::atomic differs from volatile, how each should be used, and how they \n   relate to C++'s concurrency API\n * How best practices in &quot;old&quot; C++ programming (i.e., C++98) require revision for \n   software development in modern C++\n\n\tEffective Modern C++ follows the proven guideline-based, example-driven format of Scott Meyers' earlier books, but covers entirely new material","torrent":{"xt":"urn:btih:4baa1331bcaeacfd2911f862372ae3895f77462b","amp;dn":"Effective+Modern+C%2B%2B+-+Scott+Meyers+-+2014","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4baa1331bcaeacfd2911f862372ae3895f77462b","infoHashBuffer":{"type":"Buffer","data":[75,170,19,49,188,174,172,253,41,17,248,98,55,42,227,137,95,119,70,43]},"announce":[],"urlList":[]}}
+{
+  "title": "Effective Modern C++ - Scott Meyers - 2014",
+  "uid": 11474928,
+  "size": 4706570,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:4baa1331bcaeacfd2911f862372ae3895f77462b&amp;dn=Effective+Modern+C%2B%2B+-+Scott+Meyers+-+2014&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 0,
+  "uploader": "diypromo",
+  "files": -1,
+  "time": 1416137183,
+  "description": "Effective Modern C++\n=====================\n\nAuthor: Scott Meyers\nPages: 320\nEdition: 1\nPublisher: O'Reilly Media\nYear: 2014\nISBN-10: 1491903996\nISBN-13: 9781491903995\n\nDescription\n============\n\n\tComing to grips with C++11 and C++14 is more than a matter of familiarizing yourself with the features they introduce (e.g., auto type declarations, move semantics, lambda expressions, and concurrency support). The challenge is learning to use those features effectivelyÃ¢â‚¬â€so that your software is correct, efficient, maintainable, and portable. ThatÃ¢â‚¬â„¢s where this practical book comes in. It describes how to write truly great software using C++11 and C++14Ã¢â‚¬â€i.e. using modern C++.\n\nTopics include:\n\n * The pros and cons of braced initialization, noexcept specifications, perfect \n   forwarding, and smart pointer make functions\n * The relationships among std::move, std::forward, rvalue references, and \n   universal references\n * Techniques for writing clear, correct, effective lambda expressions\n * How std::atomic differs from volatile, how each should be used, and how they \n   relate to C++'s concurrency API\n * How best practices in &quot;old&quot; C++ programming (i.e., C++98) require revision for \n   software development in modern C++\n\n\tEffective Modern C++ follows the proven guideline-based, example-driven format of Scott Meyers' earlier books, but covers entirely new material",
+  "parsed": {
+    "xt": "urn:btih:4baa1331bcaeacfd2911f862372ae3895f77462b",
+    "dn": "Effective Modern C   - Scott Meyers - 2014",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4baa1331bcaeacfd2911f862372ae3895f77462b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        75,
+        170,
+        19,
+        49,
+        188,
+        174,
+        172,
+        253,
+        41,
+        17,
+        248,
+        98,
+        55,
+        42,
+        227,
+        137,
+        95,
+        119,
+        70,
+        43
+      ]
+    },
+    "name": "Effective Modern C   - Scott Meyers - 2014",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 24,
+  "last_updated": "2016-12-25T00:24:21.411Z"
+}

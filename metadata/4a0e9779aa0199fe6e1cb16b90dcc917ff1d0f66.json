@@ -1,1 +1,61 @@
-{"title":"Supreme.Commander.Forged.Alliance-RELOADED","uid":4130585,"size":5545037994,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:4a0e9779aa0199fe6e1cb16b90dcc917ff1d0f66&amp;dn=Supreme.Commander.Forged.Alliance-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":11,"uploader":"tiggr","files":2,"time":1208017355,"description":"Supreme commander forged alliance.","torrent":{"xt":"urn:btih:4a0e9779aa0199fe6e1cb16b90dcc917ff1d0f66","amp;dn":"Supreme.Commander.Forged.Alliance-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4a0e9779aa0199fe6e1cb16b90dcc917ff1d0f66","infoHashBuffer":{"type":"Buffer","data":[74,14,151,121,170,1,153,254,110,28,177,107,144,220,201,23,255,29,15,102]},"announce":[],"urlList":[]}}
+{
+  "title": "Supreme.Commander.Forged.Alliance-RELOADED",
+  "uid": 4130585,
+  "size": 5545037994,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:4a0e9779aa0199fe6e1cb16b90dcc917ff1d0f66&amp;dn=Supreme.Commander.Forged.Alliance-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 11,
+  "uploader": "tiggr",
+  "files": 2,
+  "time": 1208017355,
+  "description": "Supreme commander forged alliance.",
+  "parsed": {
+    "xt": "urn:btih:4a0e9779aa0199fe6e1cb16b90dcc917ff1d0f66",
+    "dn": "Supreme.Commander.Forged.Alliance-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4a0e9779aa0199fe6e1cb16b90dcc917ff1d0f66",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        74,
+        14,
+        151,
+        121,
+        170,
+        1,
+        153,
+        254,
+        110,
+        28,
+        177,
+        107,
+        144,
+        220,
+        201,
+        23,
+        255,
+        29,
+        15,
+        102
+      ]
+    },
+    "name": "Supreme.Commander.Forged.Alliance-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 74,
+  "peers": 47,
+  "last_updated": "2016-12-25T00:14:11.579Z"
+}

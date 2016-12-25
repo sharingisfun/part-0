@@ -1,1 +1,61 @@
-{"title":"Taken 3 2014 1080p HDRip x264 AAC-JYK","uid":11672634,"size":5572070907,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:4aca63889990e3ae5b66e8c9b9e0000cd18e5afa&amp;dn=Taken+3+2014+1080p+HDRip+x264+AAC-JYK&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":866,"leechers":159,"uploader":"Mbb15","files":5,"time":1422736036,"description":"Ex-government operative Bryan Mills is accused of a ruthless murder he never committed or witnessed. As he is tracked and pursued, Mills brings out his particular set of skills to find the true killer and clear his name","torrent":{"xt":"urn:btih:4aca63889990e3ae5b66e8c9b9e0000cd18e5afa","amp;dn":"Taken+3+2014+1080p+HDRip+x264+AAC-JYK","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4aca63889990e3ae5b66e8c9b9e0000cd18e5afa","infoHashBuffer":{"type":"Buffer","data":[74,202,99,136,153,144,227,174,91,102,232,201,185,224,0,12,209,142,90,250]},"announce":[],"urlList":[]}}
+{
+  "title": "Taken 3 2014 1080p HDRip x264 AAC-JYK",
+  "uid": 11672634,
+  "size": 5572070907,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:4aca63889990e3ae5b66e8c9b9e0000cd18e5afa&amp;dn=Taken+3+2014+1080p+HDRip+x264+AAC-JYK&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 866,
+  "leechers": 159,
+  "uploader": "Mbb15",
+  "files": 5,
+  "time": 1422736036,
+  "description": "Ex-government operative Bryan Mills is accused of a ruthless murder he never committed or witnessed. As he is tracked and pursued, Mills brings out his particular set of skills to find the true killer and clear his name",
+  "parsed": {
+    "xt": "urn:btih:4aca63889990e3ae5b66e8c9b9e0000cd18e5afa",
+    "dn": "Taken 3 2014 1080p HDRip x264 AAC-JYK",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4aca63889990e3ae5b66e8c9b9e0000cd18e5afa",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        74,
+        202,
+        99,
+        136,
+        153,
+        144,
+        227,
+        174,
+        91,
+        102,
+        232,
+        201,
+        185,
+        224,
+        0,
+        12,
+        209,
+        142,
+        90,
+        250
+      ]
+    },
+    "name": "Taken 3 2014 1080p HDRip x264 AAC-JYK",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 1025,
+  "peers": 125,
+  "last_updated": "2016-12-25T00:19:12.549Z"
+}

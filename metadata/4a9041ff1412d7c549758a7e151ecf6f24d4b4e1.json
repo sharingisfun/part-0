@@ -1,1 +1,61 @@
-{"title":"Star Wars Soundtrack","uid":4123116,"size":637264738,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4a9041ff1412d7c549758a7e151ecf6f24d4b4e1&amp;dn=Star+Wars+Soundtrack&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":6,"uploader":"dbtmro","files":101,"time":1207662818,"description":"Star Wars Soundtrack","torrent":{"xt":"urn:btih:4a9041ff1412d7c549758a7e151ecf6f24d4b4e1","amp;dn":"Star+Wars+Soundtrack","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4a9041ff1412d7c549758a7e151ecf6f24d4b4e1","infoHashBuffer":{"type":"Buffer","data":[74,144,65,255,20,18,215,197,73,117,138,126,21,30,207,111,36,212,180,225]},"announce":[],"urlList":[]}}
+{
+  "title": "Star Wars Soundtrack",
+  "uid": 4123116,
+  "size": 637264738,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4a9041ff1412d7c549758a7e151ecf6f24d4b4e1&amp;dn=Star+Wars+Soundtrack&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 6,
+  "uploader": "dbtmro",
+  "files": 101,
+  "time": 1207662818,
+  "description": "Star Wars Soundtrack",
+  "parsed": {
+    "xt": "urn:btih:4a9041ff1412d7c549758a7e151ecf6f24d4b4e1",
+    "dn": "Star Wars Soundtrack",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4a9041ff1412d7c549758a7e151ecf6f24d4b4e1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        74,
+        144,
+        65,
+        255,
+        20,
+        18,
+        215,
+        197,
+        73,
+        117,
+        138,
+        126,
+        21,
+        30,
+        207,
+        111,
+        36,
+        212,
+        180,
+        225
+      ]
+    },
+    "name": "Star Wars Soundtrack",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 47,
+  "last_updated": "2016-12-25T00:17:34.259Z"
+}

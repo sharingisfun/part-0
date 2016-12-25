@@ -1,1 +1,61 @@
-{"title":"DIIV - Oshin","uid":7393472,"size":77955197,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4a8383d01083966270e1949c5607797d0ca8ce32&amp;dn=DIIV+-+Oshin&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":1,"uploader":"LosslessDude","files":-1,"time":1340845778,"description":"01. (Druun)\n02. Past Lives\n03. Human\n04. Air Conditioning\n05. Ã¢â€“ÂºHow Long Have You Known?\n06. Wait\n07. Earthboy\n08. (Druun Pt. II)\n09. Follow\n10. Ã¢â€“ÂºSometime\n11. Oshin (Subsume)\n12. Doused\n13. Home","torrent":{"xt":"urn:btih:4a8383d01083966270e1949c5607797d0ca8ce32","amp;dn":"DIIV+-+Oshin","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4a8383d01083966270e1949c5607797d0ca8ce32","infoHashBuffer":{"type":"Buffer","data":[74,131,131,208,16,131,150,98,112,225,148,156,86,7,121,125,12,168,206,50]},"announce":[],"urlList":[]}}
+{
+  "title": "DIIV - Oshin",
+  "uid": 7393472,
+  "size": 77955197,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4a8383d01083966270e1949c5607797d0ca8ce32&amp;dn=DIIV+-+Oshin&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 1,
+  "uploader": "LosslessDude",
+  "files": -1,
+  "time": 1340845778,
+  "description": "01. (Druun)\n02. Past Lives\n03. Human\n04. Air Conditioning\n05. Ã¢â€“ÂºHow Long Have You Known?\n06. Wait\n07. Earthboy\n08. (Druun Pt. II)\n09. Follow\n10. Ã¢â€“ÂºSometime\n11. Oshin (Subsume)\n12. Doused\n13. Home",
+  "parsed": {
+    "xt": "urn:btih:4a8383d01083966270e1949c5607797d0ca8ce32",
+    "dn": "DIIV - Oshin",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4a8383d01083966270e1949c5607797d0ca8ce32",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        74,
+        131,
+        131,
+        208,
+        16,
+        131,
+        150,
+        98,
+        112,
+        225,
+        148,
+        156,
+        86,
+        7,
+        121,
+        125,
+        12,
+        168,
+        206,
+        50
+      ]
+    },
+    "name": "DIIV - Oshin",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 21,
+  "last_updated": "2016-12-25T00:17:08.173Z"
+}

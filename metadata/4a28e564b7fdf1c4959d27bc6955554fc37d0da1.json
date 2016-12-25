@@ -1,1 +1,61 @@
-{"title":"OS X Yosemite 10.10 VMware Image","uid":11291334,"size":5853264231,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:4a28e564b7fdf1c4959d27bc6955554fc37d0da1&amp;dn=OS+X+Yosemite+10.10+VMware+Image&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":105,"leechers":26,"uploader":"xBytez","files":-1,"time":1414331727,"description":"=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n      ____        _           \n     |  _       | |          \n__  _| |_) |_   _| |_ ___ ____\n / /  _ &lt;| | | | __/ _ _  /\n &gt;  &lt;| |_) | |_| | ||  __// / \n/_/_____/ __, |_____/___|\n             __/ |            \n            |___/             \n=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n\n\nThis is a VMware Image with a fresh installation of OS X 10.10 downloaded from the Mac App Store. The OS X guest unlocker, hardware virtualization bypasser &amp; the VMware tools are included in this torrent.\n\nEverything included in this torrent is functioning for me, if you have any problems using this image, please let me know in the comments.\n\n\n=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n      ____        _           \n     |  _       | |          \n__  _| |_) |_   _| |_ ___ ____\n / /  _ &lt;| | | | __/ _ _  /\n &gt;  &lt;| |_) | |_| | ||  __// / \n/_/_____/ __, |_____/___|\n             __/ |            \n            |___/             \n=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=","torrent":{"xt":"urn:btih:4a28e564b7fdf1c4959d27bc6955554fc37d0da1","amp;dn":"OS+X+Yosemite+10.10+VMware+Image","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4a28e564b7fdf1c4959d27bc6955554fc37d0da1","infoHashBuffer":{"type":"Buffer","data":[74,40,229,100,183,253,241,196,149,157,39,188,105,85,85,79,195,125,13,161]},"announce":[],"urlList":[]}}
+{
+  "title": "OS X Yosemite 10.10 VMware Image",
+  "uid": 11291334,
+  "size": 5853264231,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:4a28e564b7fdf1c4959d27bc6955554fc37d0da1&amp;dn=OS+X+Yosemite+10.10+VMware+Image&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 105,
+  "leechers": 26,
+  "uploader": "xBytez",
+  "files": -1,
+  "time": 1414331727,
+  "description": "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n      ____        _           \n     |  _       | |          \n__  _| |_) |_   _| |_ ___ ____\n / /  _ &lt;| | | | __/ _ _  /\n &gt;  &lt;| |_) | |_| | ||  __// / \n/_/_____/ __, |_____/___|\n             __/ |            \n            |___/             \n=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n\n\nThis is a VMware Image with a fresh installation of OS X 10.10 downloaded from the Mac App Store. The OS X guest unlocker, hardware virtualization bypasser &amp; the VMware tools are included in this torrent.\n\nEverything included in this torrent is functioning for me, if you have any problems using this image, please let me know in the comments.\n\n\n=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n      ____        _           \n     |  _       | |          \n__  _| |_) |_   _| |_ ___ ____\n / /  _ &lt;| | | | __/ _ _  /\n &gt;  &lt;| |_) | |_| | ||  __// / \n/_/_____/ __, |_____/___|\n             __/ |            \n            |___/             \n=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=",
+  "parsed": {
+    "xt": "urn:btih:4a28e564b7fdf1c4959d27bc6955554fc37d0da1",
+    "dn": "OS X Yosemite 10.10 VMware Image",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4a28e564b7fdf1c4959d27bc6955554fc37d0da1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        74,
+        40,
+        229,
+        100,
+        183,
+        253,
+        241,
+        196,
+        149,
+        157,
+        39,
+        188,
+        105,
+        85,
+        85,
+        79,
+        195,
+        125,
+        13,
+        161
+      ]
+    },
+    "name": "OS X Yosemite 10.10 VMware Image",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 131,
+  "peers": 70,
+  "last_updated": "2016-12-25T00:14:57.740Z"
+}

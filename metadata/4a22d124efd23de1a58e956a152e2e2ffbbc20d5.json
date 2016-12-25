@@ -1,1 +1,61 @@
-{"title":"Fallout 2 (GOG.com)","uid":5955374,"size":809846894,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:4a22d124efd23de1a58e956a152e2e2ffbbc20d5&amp;dn=Fallout+2+%28GOG.com%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":6,"uploader":"cad464","files":55,"time":1289689626,"description":"This is my second torrent upload so let me know if I made any mistakes when uploading\n\n-Install Instructions-\n1.run setup.exe\n2.follow prompts\n3.seed and enjoy!\n\n\n-Comes with avatars and fallout bible-\n\n\nDRM Free. found on GOG.com\n","torrent":{"xt":"urn:btih:4a22d124efd23de1a58e956a152e2e2ffbbc20d5","amp;dn":"Fallout+2+%28GOG.com%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4a22d124efd23de1a58e956a152e2e2ffbbc20d5","infoHashBuffer":{"type":"Buffer","data":[74,34,209,36,239,210,61,225,165,142,149,106,21,46,46,47,251,188,32,213]},"announce":[],"urlList":[]}}
+{
+  "title": "Fallout 2 (GOG.com)",
+  "uid": 5955374,
+  "size": 809846894,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:4a22d124efd23de1a58e956a152e2e2ffbbc20d5&amp;dn=Fallout+2+%28GOG.com%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 6,
+  "uploader": "cad464",
+  "files": 55,
+  "time": 1289689626,
+  "description": "This is my second torrent upload so let me know if I made any mistakes when uploading\n\n-Install Instructions-\n1.run setup.exe\n2.follow prompts\n3.seed and enjoy!\n\n\n-Comes with avatars and fallout bible-\n\n\nDRM Free. found on GOG.com\n",
+  "parsed": {
+    "xt": "urn:btih:4a22d124efd23de1a58e956a152e2e2ffbbc20d5",
+    "dn": "Fallout 2 (GOG.com)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4a22d124efd23de1a58e956a152e2e2ffbbc20d5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        74,
+        34,
+        209,
+        36,
+        239,
+        210,
+        61,
+        225,
+        165,
+        142,
+        149,
+        106,
+        21,
+        46,
+        46,
+        47,
+        251,
+        188,
+        32,
+        213
+      ]
+    },
+    "name": "Fallout 2 (GOG.com)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 84,
+  "peers": 17,
+  "last_updated": "2016-12-25T00:14:33.651Z"
+}
