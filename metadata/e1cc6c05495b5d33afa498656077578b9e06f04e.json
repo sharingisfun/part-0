@@ -1,1 +1,61 @@
-{"title":"The Walking Dead Season 5 S05E01 Sanctuary 720p web dl x264","uid":11234435,"size":292448426,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:e1cc6c05495b5d33afa498656077578b9e06f04e&amp;dn=The+Walking+Dead+Season+5+S05E01+Sanctuary+720p+web+dl+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":96,"leechers":2,"uploader":"Jodo1210","files":1,"time":1413583411,"description":"Encoded by -Mrlss","torrent":{"xt":"urn:btih:e1cc6c05495b5d33afa498656077578b9e06f04e","amp;dn":"The+Walking+Dead+Season+5+S05E01+Sanctuary+720p+web+dl+x264","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e1cc6c05495b5d33afa498656077578b9e06f04e","infoHashBuffer":{"type":"Buffer","data":[225,204,108,5,73,91,93,51,175,164,152,101,96,119,87,139,158,6,240,78]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead Season 5 S05E01 Sanctuary 720p web dl x264",
+  "uid": 11234435,
+  "size": 292448426,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:e1cc6c05495b5d33afa498656077578b9e06f04e&amp;dn=The+Walking+Dead+Season+5+S05E01+Sanctuary+720p+web+dl+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 96,
+  "leechers": 2,
+  "uploader": "Jodo1210",
+  "files": 1,
+  "time": 1413583411,
+  "description": "Encoded by -Mrlss",
+  "parsed": {
+    "xt": "urn:btih:e1cc6c05495b5d33afa498656077578b9e06f04e",
+    "dn": "The Walking Dead Season 5 S05E01 Sanctuary 720p web dl x264",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e1cc6c05495b5d33afa498656077578b9e06f04e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        225,
+        204,
+        108,
+        5,
+        73,
+        91,
+        93,
+        51,
+        175,
+        164,
+        152,
+        101,
+        96,
+        119,
+        87,
+        139,
+        158,
+        6,
+        240,
+        78
+      ]
+    },
+    "name": "The Walking Dead Season 5 S05E01 Sanctuary 720p web dl x264",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 98,
+  "peers": 57,
+  "last_updated": "2016-12-25T16:16:56.305Z"
+}

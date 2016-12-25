@@ -1,1 +1,63 @@
-{"title":"The.Night.Manager.S01E04.HDTV.x264-TLA[ettv]","uid":13849290,"size":360429951,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e0e67dc56737e8a9b3454a14ae8f69709bba84bd&amp;dn=The.Night.Manager.S01E04.HDTV.x264-TLA%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":140,"leechers":8,"uploader":"ettv","files":2,"time":1457956434,"description":"ettv - ExtraTorrent TV Shows\r\n\r\n\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n \nhttp://extratorrent.cc/\r\n\r\n\r\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:e0e67dc56737e8a9b3454a14ae8f69709bba84bd","amp;dn":"The.Night.Manager.S01E04.HDTV.x264-TLA%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e0e67dc56737e8a9b3454a14ae8f69709bba84bd","infoHashBuffer":{"type":"Buffer","data":[224,230,125,197,103,55,232,169,179,69,74,20,174,143,105,112,155,186,132,189]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Night.Manager.S01E04.HDTV.x264-TLA[ettv]",
+  "uid": 13849290,
+  "size": 360429951,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e0e67dc56737e8a9b3454a14ae8f69709bba84bd&amp;dn=The.Night.Manager.S01E04.HDTV.x264-TLA%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 140,
+  "leechers": 8,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1457956434,
+  "description": "ettv - ExtraTorrent TV Shows\r\n\r\n\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n \nhttp://extratorrent.cc/\r\n\r\n\r\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:e0e67dc56737e8a9b3454a14ae8f69709bba84bd",
+    "dn": "The.Night.Manager.S01E04.HDTV.x264-TLA[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e0e67dc56737e8a9b3454a14ae8f69709bba84bd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        224,
+        230,
+        125,
+        197,
+        103,
+        55,
+        232,
+        169,
+        179,
+        69,
+        74,
+        20,
+        174,
+        143,
+        105,
+        112,
+        155,
+        186,
+        132,
+        189
+      ]
+    },
+    "name": "The.Night.Manager.S01E04.HDTV.x264-TLA[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 148,
+  "peers": 100,
+  "last_updated": "2016-12-25T16:10:55.007Z"
+}

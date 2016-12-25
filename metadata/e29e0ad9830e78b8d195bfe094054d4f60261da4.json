@@ -1,1 +1,61 @@
-{"title":"Miguel - Adorn [iTunes] (2013-Single) {{SRG}}","uid":7993548,"size":7876015,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e29e0ad9830e78b8d195bfe094054d4f60261da4&amp;dn=Miguel+-+Adorn+%5BiTunes%5D+%282013-Single%29+%7B%7BSRG%7D%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":0,"uploader":"stumpie1971","files":-1,"time":1357548905,"description":"Quality 320kbps [iTunes]\n\n\nArtist: Miguel\n\n\nTrack: Adorn\n\n\nRelease Date: 2013\n\n\nGenre: R&amp;B/Soul\n\n\n\n\n{{SRG}}","torrent":{"xt":"urn:btih:e29e0ad9830e78b8d195bfe094054d4f60261da4","amp;dn":"Miguel+-+Adorn+%5BiTunes%5D+%282013-Single%29+%7B%7BSRG%7D%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e29e0ad9830e78b8d195bfe094054d4f60261da4","infoHashBuffer":{"type":"Buffer","data":[226,158,10,217,131,14,120,184,209,149,191,224,148,5,77,79,96,38,29,164]},"announce":[],"urlList":[]}}
+{
+  "title": "Miguel - Adorn [iTunes] (2013-Single) {{SRG}}",
+  "uid": 7993548,
+  "size": 7876015,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e29e0ad9830e78b8d195bfe094054d4f60261da4&amp;dn=Miguel+-+Adorn+%5BiTunes%5D+%282013-Single%29+%7B%7BSRG%7D%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 0,
+  "uploader": "stumpie1971",
+  "files": -1,
+  "time": 1357548905,
+  "description": "Quality 320kbps [iTunes]\n\n\nArtist: Miguel\n\n\nTrack: Adorn\n\n\nRelease Date: 2013\n\n\nGenre: R&amp;B/Soul\n\n\n\n\n{{SRG}}",
+  "parsed": {
+    "xt": "urn:btih:e29e0ad9830e78b8d195bfe094054d4f60261da4",
+    "dn": "Miguel - Adorn [iTunes] (2013-Single) {{SRG}}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e29e0ad9830e78b8d195bfe094054d4f60261da4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        226,
+        158,
+        10,
+        217,
+        131,
+        14,
+        120,
+        184,
+        209,
+        149,
+        191,
+        224,
+        148,
+        5,
+        77,
+        79,
+        96,
+        38,
+        29,
+        164
+      ]
+    },
+    "name": "Miguel - Adorn [iTunes] (2013-Single) {{SRG}}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 7,
+  "last_updated": "2016-12-25T16:22:27.505Z"
+}

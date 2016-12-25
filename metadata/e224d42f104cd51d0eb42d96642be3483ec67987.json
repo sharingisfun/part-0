@@ -1,1 +1,61 @@
-{"title":"GTA Vice City Stories(PSP)(US)","uid":6224295,"size":939415692,"categoryP":"games","categoryS":"handheld","magnet":"?xt=urn:btih:e224d42f104cd51d0eb42d96642be3483ec67987&amp;dn=GTA+Vice+City+Stories%28PSP%29%28US%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":67,"leechers":5,"uploader":"tal.merc","files":1,"time":1299458715,"description":"OK, this is my first torrent, so cut me f**kin slack. Anyway, i figured i should start contributing to the torrent community. \n\n\n\nREAD THIS FIRST\n\n\nGrand Theft Auto Vice City Stories for PSP.\nYOU NEED CFW(CUSTOM FIRMWARE)!!!!!\nI have 6.35 PRO-A4, works on that and i've tried it on my friends 5.50 GEN-D3 and it works great on that. \nHowever if you encounter a problem, leave a comment and the name of the CFW your using and i'll see what I can do.\nIf you leave a comment saying you don't have CFW, well google it or something.\n   ","torrent":{"xt":"urn:btih:e224d42f104cd51d0eb42d96642be3483ec67987","amp;dn":"GTA+Vice+City+Stories%28PSP%29%28US%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e224d42f104cd51d0eb42d96642be3483ec67987","infoHashBuffer":{"type":"Buffer","data":[226,36,212,47,16,76,213,29,14,180,45,150,100,43,227,72,62,198,121,135]},"announce":[],"urlList":[]}}
+{
+  "title": "GTA Vice City Stories(PSP)(US)",
+  "uid": 6224295,
+  "size": 939415692,
+  "categoryP": "games",
+  "categoryS": "handheld",
+  "magnet": "?xt=urn:btih:e224d42f104cd51d0eb42d96642be3483ec67987&amp;dn=GTA+Vice+City+Stories%28PSP%29%28US%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 67,
+  "leechers": 5,
+  "uploader": "tal.merc",
+  "files": 1,
+  "time": 1299458715,
+  "description": "OK, this is my first torrent, so cut me f**kin slack. Anyway, i figured i should start contributing to the torrent community. \n\n\n\nREAD THIS FIRST\n\n\nGrand Theft Auto Vice City Stories for PSP.\nYOU NEED CFW(CUSTOM FIRMWARE)!!!!!\nI have 6.35 PRO-A4, works on that and i've tried it on my friends 5.50 GEN-D3 and it works great on that. \nHowever if you encounter a problem, leave a comment and the name of the CFW your using and i'll see what I can do.\nIf you leave a comment saying you don't have CFW, well google it or something.\n   ",
+  "parsed": {
+    "xt": "urn:btih:e224d42f104cd51d0eb42d96642be3483ec67987",
+    "dn": "GTA Vice City Stories(PSP)(US)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e224d42f104cd51d0eb42d96642be3483ec67987",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        226,
+        36,
+        212,
+        47,
+        16,
+        76,
+        213,
+        29,
+        14,
+        180,
+        45,
+        150,
+        100,
+        43,
+        227,
+        72,
+        62,
+        198,
+        121,
+        135
+      ]
+    },
+    "name": "GTA Vice City Stories(PSP)(US)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 72,
+  "peers": 38,
+  "last_updated": "2016-12-25T16:19:10.810Z"
+}

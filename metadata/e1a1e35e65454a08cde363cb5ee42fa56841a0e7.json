@@ -1,1 +1,63 @@
-{"title":"Dropbox Database (Leaked in 2012)","uid":15963824,"size":2944632728,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:e1a1e35e65454a08cde363cb5ee42fa56841a0e7&amp;dn=Dropbox+Database+%28Leaked+in+2012%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":218,"leechers":50,"uploader":"zac0403","files":1,"time":1475702272,"description":"~Dropbox database, originally leaked in 2012~","torrent":{"xt":"urn:btih:e1a1e35e65454a08cde363cb5ee42fa56841a0e7","amp;dn":"Dropbox+Database+%28Leaked+in+2012%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e1a1e35e65454a08cde363cb5ee42fa56841a0e7","infoHashBuffer":{"type":"Buffer","data":[225,161,227,94,101,69,74,8,205,227,99,203,94,228,47,165,104,65,160,231]},"announce":[],"urlList":[]}}
+{
+  "title": "Dropbox Database (Leaked in 2012)",
+  "uid": 15963824,
+  "size": 2944632728,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:e1a1e35e65454a08cde363cb5ee42fa56841a0e7&amp;dn=Dropbox+Database+%28Leaked+in+2012%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 218,
+  "leechers": 50,
+  "uploader": "zac0403",
+  "files": 1,
+  "time": 1475702272,
+  "description": "~Dropbox database, originally leaked in 2012~",
+  "parsed": {
+    "xt": "urn:btih:e1a1e35e65454a08cde363cb5ee42fa56841a0e7",
+    "dn": "Dropbox Database (Leaked in 2012)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e1a1e35e65454a08cde363cb5ee42fa56841a0e7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        225,
+        161,
+        227,
+        94,
+        101,
+        69,
+        74,
+        8,
+        205,
+        227,
+        99,
+        203,
+        94,
+        228,
+        47,
+        165,
+        104,
+        65,
+        160,
+        231
+      ]
+    },
+    "name": "Dropbox Database (Leaked in 2012)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 268,
+  "peers": 100,
+  "last_updated": "2016-12-25T16:15:48.052Z"
+}

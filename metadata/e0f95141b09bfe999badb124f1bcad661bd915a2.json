@@ -1,1 +1,61 @@
-{"title":"DAEMON Tools Lite v4.35.5","uid":6650401,"size":9167973,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:e0f95141b09bfe999badb124f1bcad661bd915a2&amp;dn=DAEMON+Tools+Lite+v4.35.5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":0,"uploader":"Sunproject4ever","files":3,"time":1315127021,"description":"Daemontools lite","torrent":{"xt":"urn:btih:e0f95141b09bfe999badb124f1bcad661bd915a2","amp;dn":"DAEMON+Tools+Lite+v4.35.5","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e0f95141b09bfe999badb124f1bcad661bd915a2","infoHashBuffer":{"type":"Buffer","data":[224,249,81,65,176,155,254,153,155,173,177,36,241,188,173,102,27,217,21,162]},"announce":[],"urlList":[]}}
+{
+  "title": "DAEMON Tools Lite v4.35.5",
+  "uid": 6650401,
+  "size": 9167973,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:e0f95141b09bfe999badb124f1bcad661bd915a2&amp;dn=DAEMON+Tools+Lite+v4.35.5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 0,
+  "uploader": "Sunproject4ever",
+  "files": 3,
+  "time": 1315127021,
+  "description": "Daemontools lite",
+  "parsed": {
+    "xt": "urn:btih:e0f95141b09bfe999badb124f1bcad661bd915a2",
+    "dn": "DAEMON Tools Lite v4.35.5",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e0f95141b09bfe999badb124f1bcad661bd915a2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        224,
+        249,
+        81,
+        65,
+        176,
+        155,
+        254,
+        153,
+        155,
+        173,
+        177,
+        36,
+        241,
+        188,
+        173,
+        102,
+        27,
+        217,
+        21,
+        162
+      ]
+    },
+    "name": "DAEMON Tools Lite v4.35.5",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 50,
+  "last_updated": "2016-12-25T16:11:31.108Z"
+}

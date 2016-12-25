@@ -1,1 +1,61 @@
-{"title":"Extant S02E12E13 HDTV XviD-FUM[ettv]","uid":12388828,"size":718868445,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e0a5eacfba10af39d7a2c7c47bd788f7b760f109&amp;dn=Extant+S02E12E13+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":3,"uploader":"ettv","files":2,"time":1441860451,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:e0a5eacfba10af39d7a2c7c47bd788f7b760f109","amp;dn":"Extant+S02E12E13+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e0a5eacfba10af39d7a2c7c47bd788f7b760f109","infoHashBuffer":{"type":"Buffer","data":[224,165,234,207,186,16,175,57,215,162,199,196,123,215,136,247,183,96,241,9]},"announce":[],"urlList":[]}}
+{
+  "title": "Extant S02E12E13 HDTV XviD-FUM[ettv]",
+  "uid": 12388828,
+  "size": 718868445,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e0a5eacfba10af39d7a2c7c47bd788f7b760f109&amp;dn=Extant+S02E12E13+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1441860451,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:e0a5eacfba10af39d7a2c7c47bd788f7b760f109",
+    "dn": "Extant S02E12E13 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e0a5eacfba10af39d7a2c7c47bd788f7b760f109",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        224,
+        165,
+        234,
+        207,
+        186,
+        16,
+        175,
+        57,
+        215,
+        162,
+        199,
+        196,
+        123,
+        215,
+        136,
+        247,
+        183,
+        96,
+        241,
+        9
+      ]
+    },
+    "name": "Extant S02E12E13 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 5,
+  "last_updated": "2016-12-25T16:09:08.688Z"
+}

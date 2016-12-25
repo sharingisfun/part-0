@@ -1,1 +1,63 @@
-{"title":"TeamViewer Premium v10.0.39052","uid":15963947,"size":230303565,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:e0b37ff4acd48fd1e0ffdfb5601d477be830648e&amp;dn=TeamViewer+Premium+v10.0.39052&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":180,"leechers":30,"uploader":"faropbtf","files":64,"time":1475703782,"description":"TeamViewer 10 is a simple and fast solution for remote control, desktop sharing and file transfer that works behind any firewall and NAT proxy. To connect to another computer just run TeamViewer on both machines without the need of an installation procedure. With the first start automatic partner IDs are generated on both computers. Enter your partnerÃ¢â‚¬â„¢s ID into TeamViewer and the connection is established immediately. With many thousand users worldwide TeamViewer is a standard tool to give support and assistance to people in remote locations. The software can also be used for presentations, where you can show your own desktop to a partner. This application also is VNC compatible and offers secure, encrypted data transfer with maximum security","torrent":{"xt":"urn:btih:e0b37ff4acd48fd1e0ffdfb5601d477be830648e","amp;dn":"TeamViewer+Premium+v10.0.39052","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e0b37ff4acd48fd1e0ffdfb5601d477be830648e","infoHashBuffer":{"type":"Buffer","data":[224,179,127,244,172,212,143,209,224,255,223,181,96,29,71,123,232,48,100,142]},"announce":[],"urlList":[]}}
+{
+  "title": "TeamViewer Premium v10.0.39052",
+  "uid": 15963947,
+  "size": 230303565,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:e0b37ff4acd48fd1e0ffdfb5601d477be830648e&amp;dn=TeamViewer+Premium+v10.0.39052&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 180,
+  "leechers": 30,
+  "uploader": "faropbtf",
+  "files": 64,
+  "time": 1475703782,
+  "description": "TeamViewer 10 is a simple and fast solution for remote control, desktop sharing and file transfer that works behind any firewall and NAT proxy. To connect to another computer just run TeamViewer on both machines without the need of an installation procedure. With the first start automatic partner IDs are generated on both computers. Enter your partnerÃ¢â‚¬â„¢s ID into TeamViewer and the connection is established immediately. With many thousand users worldwide TeamViewer is a standard tool to give support and assistance to people in remote locations. The software can also be used for presentations, where you can show your own desktop to a partner. This application also is VNC compatible and offers secure, encrypted data transfer with maximum security",
+  "parsed": {
+    "xt": "urn:btih:e0b37ff4acd48fd1e0ffdfb5601d477be830648e",
+    "dn": "TeamViewer Premium v10.0.39052",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e0b37ff4acd48fd1e0ffdfb5601d477be830648e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        224,
+        179,
+        127,
+        244,
+        172,
+        212,
+        143,
+        209,
+        224,
+        255,
+        223,
+        181,
+        96,
+        29,
+        71,
+        123,
+        232,
+        48,
+        100,
+        142
+      ]
+    },
+    "name": "TeamViewer Premium v10.0.39052",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 210,
+  "peers": 78,
+  "last_updated": "2016-12-25T16:09:18.718Z"
+}

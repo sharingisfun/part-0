@@ -1,1 +1,61 @@
-{"title":"Buena Vista Social Club Lost And Found [2015] FLAC","uid":11770606,"size":310273681,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:e04d75cb14b365929b43b0d0f0cc42b98b3858e9&amp;dn=Buena+Vista+Social+Club+Lost+And+Found+%5B2015%5D+FLAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":1,"uploader":"Capajebo","files":7,"time":1427060663,"description":" &lt;a href=&quot;http://imgur.com/YIcusrD&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/YIcusrD&lt;/a&gt; ::: Buena Vista Social Club Lost And Found [2015] FLAC","torrent":{"xt":"urn:btih:e04d75cb14b365929b43b0d0f0cc42b98b3858e9","amp;dn":"Buena+Vista+Social+Club+Lost+And+Found+%5B2015%5D+FLAC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e04d75cb14b365929b43b0d0f0cc42b98b3858e9","infoHashBuffer":{"type":"Buffer","data":[224,77,117,203,20,179,101,146,155,67,176,208,240,204,66,185,139,56,88,233]},"announce":[],"urlList":[]}}
+{
+  "title": "Buena Vista Social Club Lost And Found [2015] FLAC",
+  "uid": 11770606,
+  "size": 310273681,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:e04d75cb14b365929b43b0d0f0cc42b98b3858e9&amp;dn=Buena+Vista+Social+Club+Lost+And+Found+%5B2015%5D+FLAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 1,
+  "uploader": "Capajebo",
+  "files": 7,
+  "time": 1427060663,
+  "description": " &lt;a href=&quot;http://imgur.com/YIcusrD&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/YIcusrD&lt;/a&gt; ::: Buena Vista Social Club Lost And Found [2015] FLAC",
+  "parsed": {
+    "xt": "urn:btih:e04d75cb14b365929b43b0d0f0cc42b98b3858e9",
+    "dn": "Buena Vista Social Club Lost And Found [2015] FLAC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e04d75cb14b365929b43b0d0f0cc42b98b3858e9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        224,
+        77,
+        117,
+        203,
+        20,
+        179,
+        101,
+        146,
+        155,
+        67,
+        176,
+        208,
+        240,
+        204,
+        66,
+        185,
+        139,
+        56,
+        88,
+        233
+      ]
+    },
+    "name": "Buena Vista Social Club Lost And Found [2015] FLAC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 78,
+  "last_updated": "2016-12-25T16:07:16.367Z"
+}

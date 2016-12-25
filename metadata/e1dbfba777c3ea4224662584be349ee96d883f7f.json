@@ -1,1 +1,61 @@
-{"title":"Zoo tycoon 1 full","uid":3817001,"size":1126701056,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:e1dbfba777c3ea4224662584be349ee96d883f7f&amp;dn=Zoo+tycoon+1+full&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":1,"uploader":"Gelu2","files":2,"time":1190588922,"description":"Have fun :D","torrent":{"xt":"urn:btih:e1dbfba777c3ea4224662584be349ee96d883f7f","amp;dn":"Zoo+tycoon+1+full","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e1dbfba777c3ea4224662584be349ee96d883f7f","infoHashBuffer":{"type":"Buffer","data":[225,219,251,167,119,195,234,66,36,102,37,132,190,52,158,233,109,136,63,127]},"announce":[],"urlList":[]}}
+{
+  "title": "Zoo tycoon 1 full",
+  "uid": 3817001,
+  "size": 1126701056,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:e1dbfba777c3ea4224662584be349ee96d883f7f&amp;dn=Zoo+tycoon+1+full&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 1,
+  "uploader": "Gelu2",
+  "files": 2,
+  "time": 1190588922,
+  "description": "Have fun :D",
+  "parsed": {
+    "xt": "urn:btih:e1dbfba777c3ea4224662584be349ee96d883f7f",
+    "dn": "Zoo tycoon 1 full",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e1dbfba777c3ea4224662584be349ee96d883f7f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        225,
+        219,
+        251,
+        167,
+        119,
+        195,
+        234,
+        66,
+        36,
+        102,
+        37,
+        132,
+        190,
+        52,
+        158,
+        233,
+        109,
+        136,
+        63,
+        127
+      ]
+    },
+    "name": "Zoo tycoon 1 full",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 96,
+  "last_updated": "2016-12-25T16:17:18.396Z"
+}

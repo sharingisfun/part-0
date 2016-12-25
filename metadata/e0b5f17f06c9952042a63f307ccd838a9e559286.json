@@ -1,1 +1,61 @@
-{"title":"Arrow S03E11 HDTV x264-LOL[ettv]","uid":11672556,"size":282123502,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e0b5f17f06c9952042a63f307ccd838a9e559286&amp;dn=Arrow+S03E11+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":673,"leechers":29,"uploader":"Mbb15","files":3,"time":1422735217,"description":"Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow","torrent":{"xt":"urn:btih:e0b5f17f06c9952042a63f307ccd838a9e559286","amp;dn":"Arrow+S03E11+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e0b5f17f06c9952042a63f307ccd838a9e559286","infoHashBuffer":{"type":"Buffer","data":[224,181,241,127,6,201,149,32,66,166,63,48,124,205,131,138,158,85,146,134]},"announce":[],"urlList":[]}}
+{
+  "title": "Arrow S03E11 HDTV x264-LOL[ettv]",
+  "uid": 11672556,
+  "size": 282123502,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e0b5f17f06c9952042a63f307ccd838a9e559286&amp;dn=Arrow+S03E11+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 673,
+  "leechers": 29,
+  "uploader": "Mbb15",
+  "files": 3,
+  "time": 1422735217,
+  "description": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow",
+  "parsed": {
+    "xt": "urn:btih:e0b5f17f06c9952042a63f307ccd838a9e559286",
+    "dn": "Arrow S03E11 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e0b5f17f06c9952042a63f307ccd838a9e559286",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        224,
+        181,
+        241,
+        127,
+        6,
+        201,
+        149,
+        32,
+        66,
+        166,
+        63,
+        48,
+        124,
+        205,
+        131,
+        138,
+        158,
+        85,
+        146,
+        134
+      ]
+    },
+    "name": "Arrow S03E11 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 702,
+  "peers": 119,
+  "last_updated": "2016-12-25T16:09:26.741Z"
+}

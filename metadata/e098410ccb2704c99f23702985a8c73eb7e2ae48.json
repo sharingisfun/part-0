@@ -1,1 +1,61 @@
-{"title":"Tomb Raider Anniversary","uid":5637444,"size":2790627846,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:e098410ccb2704c99f23702985a8c73eb7e2ae48&amp;dn=Tomb+Raider+Anniversary&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":5,"uploader":"GWpirateGW","files":2,"time":1276946142,"description":"**************************************************************************************************************************************************************************\nTOMB RAIDER ANNIVERSARY \n\n\nTomb Raider Anniversary\n\nAfter testing for several hours, all seems fine\n\n1. mount iso with Magic Disk(burn iso if you wsh).\n2. Install the game.\n3. Copy the 2 items from the Hatred folder &amp; paste + replace. Location to paste here: C:Program FilesTomb Raider - Anniversary\n\ntested on Windows XP Professional with SP3\n\nUse the TRA.exe to play the game.\n\nIf you get a wrong cd error, repeat step 3. be sure you copy + paste + replace.\n\nQuestions? GhostWarriorTheGeek on you||tube. Drop me a PM\n\nGWPirateGW","torrent":{"xt":"urn:btih:e098410ccb2704c99f23702985a8c73eb7e2ae48","amp;dn":"Tomb+Raider+Anniversary","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e098410ccb2704c99f23702985a8c73eb7e2ae48","infoHashBuffer":{"type":"Buffer","data":[224,152,65,12,203,39,4,201,159,35,112,41,133,168,199,62,183,226,174,72]},"announce":[],"urlList":[]}}
+{
+  "title": "Tomb Raider Anniversary",
+  "uid": 5637444,
+  "size": 2790627846,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:e098410ccb2704c99f23702985a8c73eb7e2ae48&amp;dn=Tomb+Raider+Anniversary&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 5,
+  "uploader": "GWpirateGW",
+  "files": 2,
+  "time": 1276946142,
+  "description": "**************************************************************************************************************************************************************************\nTOMB RAIDER ANNIVERSARY \n\n\nTomb Raider Anniversary\n\nAfter testing for several hours, all seems fine\n\n1. mount iso with Magic Disk(burn iso if you wsh).\n2. Install the game.\n3. Copy the 2 items from the Hatred folder &amp; paste + replace. Location to paste here: C:Program FilesTomb Raider - Anniversary\n\ntested on Windows XP Professional with SP3\n\nUse the TRA.exe to play the game.\n\nIf you get a wrong cd error, repeat step 3. be sure you copy + paste + replace.\n\nQuestions? GhostWarriorTheGeek on you||tube. Drop me a PM\n\nGWPirateGW",
+  "parsed": {
+    "xt": "urn:btih:e098410ccb2704c99f23702985a8c73eb7e2ae48",
+    "dn": "Tomb Raider Anniversary",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e098410ccb2704c99f23702985a8c73eb7e2ae48",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        224,
+        152,
+        65,
+        12,
+        203,
+        39,
+        4,
+        201,
+        159,
+        35,
+        112,
+        41,
+        133,
+        168,
+        199,
+        62,
+        183,
+        226,
+        174,
+        72
+      ]
+    },
+    "name": "Tomb Raider Anniversary",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 104,
+  "last_updated": "2016-12-25T16:08:44.622Z"
+}

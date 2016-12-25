@@ -1,1 +1,61 @@
-{"title":"The Knick S01E02 HDTV x264-KILLERS[ettv]","uid":10781246,"size":271367550,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e247bac8c0b241a8203e536941996952a13392d3&amp;dn=The+Knick+S01E02+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":121,"leechers":3,"uploader":"ettv","files":2,"time":1408164860,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:e247bac8c0b241a8203e536941996952a13392d3","amp;dn":"The+Knick+S01E02+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e247bac8c0b241a8203e536941996952a13392d3","infoHashBuffer":{"type":"Buffer","data":[226,71,186,200,192,178,65,168,32,62,83,105,65,153,105,82,161,51,146,211]},"announce":[],"urlList":[]}}
+{
+  "title": "The Knick S01E02 HDTV x264-KILLERS[ettv]",
+  "uid": 10781246,
+  "size": 271367550,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e247bac8c0b241a8203e536941996952a13392d3&amp;dn=The+Knick+S01E02+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 121,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1408164860,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:e247bac8c0b241a8203e536941996952a13392d3",
+    "dn": "The Knick S01E02 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e247bac8c0b241a8203e536941996952a13392d3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        226,
+        71,
+        186,
+        200,
+        192,
+        178,
+        65,
+        168,
+        32,
+        62,
+        83,
+        105,
+        65,
+        153,
+        105,
+        82,
+        161,
+        51,
+        146,
+        211
+      ]
+    },
+    "name": "The Knick S01E02 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 124,
+  "peers": 4,
+  "last_updated": "2016-12-25T16:20:07.012Z"
+}

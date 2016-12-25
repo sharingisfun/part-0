@@ -1,1 +1,61 @@
-{"title":"Wolfram Research Mathematica 9.0.1","uid":8098996,"size":1396816483,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:e0cc11f83ad4d67abf7c62a781a4c1c19c006a8a&amp;dn=Wolfram+Research+Mathematica+9.0.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":1,"uploader":"karl_karlsson","files":2,"time":1359918918,"description":"Wolfram Research Mathematica 9.0.1\n==================================\n\nWhat is ncluded\n\n1) Mathematica_9.0.1_WIN.exe,\n\n2) Wolfram.Research.Mathematica.v9.0.0.0.Keymaker-AGAiN.7z\n\n   - Original AGAiN keymaker for v.9.0.0 - does not work on XP,\n\n   - Modified keymaker that works on XP,\n\n   - All Required Dll files from &quot;Visual C++ 2012 Redistributable&quot;.\n\n\n\nOriginal AGAiN keymaker does work only on Vista, 7 and 8.\nWithout the Dll files included, you need to install &quot;Visual C++ 2012 Redistributable&quot; on every computer you run the keymaker.","torrent":{"xt":"urn:btih:e0cc11f83ad4d67abf7c62a781a4c1c19c006a8a","amp;dn":"Wolfram+Research+Mathematica+9.0.1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e0cc11f83ad4d67abf7c62a781a4c1c19c006a8a","infoHashBuffer":{"type":"Buffer","data":[224,204,17,248,58,212,214,122,191,124,98,167,129,164,193,193,156,0,106,138]},"announce":[],"urlList":[]}}
+{
+  "title": "Wolfram Research Mathematica 9.0.1",
+  "uid": 8098996,
+  "size": 1396816483,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:e0cc11f83ad4d67abf7c62a781a4c1c19c006a8a&amp;dn=Wolfram+Research+Mathematica+9.0.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 1,
+  "uploader": "karl_karlsson",
+  "files": 2,
+  "time": 1359918918,
+  "description": "Wolfram Research Mathematica 9.0.1\n==================================\n\nWhat is ncluded\n\n1) Mathematica_9.0.1_WIN.exe,\n\n2) Wolfram.Research.Mathematica.v9.0.0.0.Keymaker-AGAiN.7z\n\n   - Original AGAiN keymaker for v.9.0.0 - does not work on XP,\n\n   - Modified keymaker that works on XP,\n\n   - All Required Dll files from &quot;Visual C++ 2012 Redistributable&quot;.\n\n\n\nOriginal AGAiN keymaker does work only on Vista, 7 and 8.\nWithout the Dll files included, you need to install &quot;Visual C++ 2012 Redistributable&quot; on every computer you run the keymaker.",
+  "parsed": {
+    "xt": "urn:btih:e0cc11f83ad4d67abf7c62a781a4c1c19c006a8a",
+    "dn": "Wolfram Research Mathematica 9.0.1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e0cc11f83ad4d67abf7c62a781a4c1c19c006a8a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        224,
+        204,
+        17,
+        248,
+        58,
+        212,
+        214,
+        122,
+        191,
+        124,
+        98,
+        167,
+        129,
+        164,
+        193,
+        193,
+        156,
+        0,
+        106,
+        138
+      ]
+    },
+    "name": "Wolfram Research Mathematica 9.0.1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 3,
+  "last_updated": "2016-12-25T16:10:04.845Z"
+}

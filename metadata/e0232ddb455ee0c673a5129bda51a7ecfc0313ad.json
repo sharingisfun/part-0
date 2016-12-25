@@ -1,1 +1,61 @@
-{"title":"Shakey Graves - Roll the Bones (320 Kbps)","uid":7946331,"size":84363579,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e0232ddb455ee0c673a5129bda51a7ecfc0313ad&amp;dn=Shakey+Graves+-+Roll+the+Bones+%28320+Kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":0,"uploader":"w.izzy","files":10,"time":1356138468,"description":"Buy this album. It a &quot;pay what you want&quot; setup.\n &lt;a href=&quot;\nhttp://shakeygraves.com/album/roll-the-bones&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://shakeygraves.com/album/roll-the-bones&lt;/a&gt;","torrent":{"xt":"urn:btih:e0232ddb455ee0c673a5129bda51a7ecfc0313ad","amp;dn":"Shakey+Graves+-+Roll+the+Bones+%28320+Kbps%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e0232ddb455ee0c673a5129bda51a7ecfc0313ad","infoHashBuffer":{"type":"Buffer","data":[224,35,45,219,69,94,224,198,115,165,18,155,218,81,167,236,252,3,19,173]},"announce":[],"urlList":[]}}
+{
+  "title": "Shakey Graves - Roll the Bones (320 Kbps)",
+  "uid": 7946331,
+  "size": 84363579,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e0232ddb455ee0c673a5129bda51a7ecfc0313ad&amp;dn=Shakey+Graves+-+Roll+the+Bones+%28320+Kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 0,
+  "uploader": "w.izzy",
+  "files": 10,
+  "time": 1356138468,
+  "description": "Buy this album. It a &quot;pay what you want&quot; setup.\n &lt;a href=&quot;\nhttp://shakeygraves.com/album/roll-the-bones&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://shakeygraves.com/album/roll-the-bones&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:e0232ddb455ee0c673a5129bda51a7ecfc0313ad",
+    "dn": "Shakey Graves - Roll the Bones (320 Kbps)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e0232ddb455ee0c673a5129bda51a7ecfc0313ad",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        224,
+        35,
+        45,
+        219,
+        69,
+        94,
+        224,
+        198,
+        115,
+        165,
+        18,
+        155,
+        218,
+        81,
+        167,
+        236,
+        252,
+        3,
+        19,
+        173
+      ]
+    },
+    "name": "Shakey Graves - Roll the Bones (320 Kbps)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 20,
+  "last_updated": "2016-12-25T16:06:50.292Z"
+}

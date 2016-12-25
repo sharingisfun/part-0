@@ -1,1 +1,61 @@
-{"title":"BB King &amp; Eric Clapton - Riding With The King (2000)","uid":5475163,"size":159787804,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e151c4b0db7dd5211e2d5a40c98a23b23a6ba12f&amp;dn=BB+King+%26+Eric+Clapton+-+Riding+With+The+King+%282000%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":86,"leechers":7,"uploader":"nightissuchproximity","files":-1,"time":1270102592,"description":"Tracklisting:\n\n1. Riding With The King\n2. Ten Long Year\n3. Key To The Highway\n4. Marry You\n5. Three O'Clock Blues\n6. Help The Poor\n7. I Wanna Be\n8. Worried Life Blues\n9. Days Of Old\n10. When My Heart Beats Like A Hammer\n11. Hold On I'm Coming\n12. Come Rain Or Come Shine\n\nmp3   320kbps\n\n\nwith all covers\n\n","torrent":{"xt":"urn:btih:e151c4b0db7dd5211e2d5a40c98a23b23a6ba12f","amp;dn":"BB+King+%26+Eric+Clapton+-+Riding+With+The+King+%282000%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e151c4b0db7dd5211e2d5a40c98a23b23a6ba12f","infoHashBuffer":{"type":"Buffer","data":[225,81,196,176,219,125,213,33,30,45,90,64,201,138,35,178,58,107,161,47]},"announce":[],"urlList":[]}}
+{
+  "title": "BB King &amp; Eric Clapton - Riding With The King (2000)",
+  "uid": 5475163,
+  "size": 159787804,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e151c4b0db7dd5211e2d5a40c98a23b23a6ba12f&amp;dn=BB+King+%26+Eric+Clapton+-+Riding+With+The+King+%282000%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 86,
+  "leechers": 7,
+  "uploader": "nightissuchproximity",
+  "files": -1,
+  "time": 1270102592,
+  "description": "Tracklisting:\n\n1. Riding With The King\n2. Ten Long Year\n3. Key To The Highway\n4. Marry You\n5. Three O'Clock Blues\n6. Help The Poor\n7. I Wanna Be\n8. Worried Life Blues\n9. Days Of Old\n10. When My Heart Beats Like A Hammer\n11. Hold On I'm Coming\n12. Come Rain Or Come Shine\n\nmp3   320kbps\n\n\nwith all covers\n\n",
+  "parsed": {
+    "xt": "urn:btih:e151c4b0db7dd5211e2d5a40c98a23b23a6ba12f",
+    "dn": "BB King & Eric Clapton - Riding With The King (2000)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e151c4b0db7dd5211e2d5a40c98a23b23a6ba12f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        225,
+        81,
+        196,
+        176,
+        219,
+        125,
+        213,
+        33,
+        30,
+        45,
+        90,
+        64,
+        201,
+        138,
+        35,
+        178,
+        58,
+        107,
+        161,
+        47
+      ]
+    },
+    "name": "BB King & Eric Clapton - Riding With The King (2000)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 93,
+  "peers": 16,
+  "last_updated": "2016-12-25T16:13:29.515Z"
+}

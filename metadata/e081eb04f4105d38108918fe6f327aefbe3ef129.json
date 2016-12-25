@@ -1,1 +1,61 @@
-{"title":"AFTER EARTH dvdrip","uid":11927115,"size":1260433855,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:e081eb04f4105d38108918fe6f327aefbe3ef129&amp;dn=AFTER+EARTH+dvdrip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":6,"uploader":"jimevjr","files":1,"time":1431724998,"description":"divx dvdrip","torrent":{"xt":"urn:btih:e081eb04f4105d38108918fe6f327aefbe3ef129","amp;dn":"AFTER+EARTH+dvdrip","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e081eb04f4105d38108918fe6f327aefbe3ef129","infoHashBuffer":{"type":"Buffer","data":[224,129,235,4,244,16,93,56,16,137,24,254,111,50,122,239,190,62,241,41]},"announce":[],"urlList":[]}}
+{
+  "title": "AFTER EARTH dvdrip",
+  "uid": 11927115,
+  "size": 1260433855,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:e081eb04f4105d38108918fe6f327aefbe3ef129&amp;dn=AFTER+EARTH+dvdrip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 6,
+  "uploader": "jimevjr",
+  "files": 1,
+  "time": 1431724998,
+  "description": "divx dvdrip",
+  "parsed": {
+    "xt": "urn:btih:e081eb04f4105d38108918fe6f327aefbe3ef129",
+    "dn": "AFTER EARTH dvdrip",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e081eb04f4105d38108918fe6f327aefbe3ef129",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        224,
+        129,
+        235,
+        4,
+        244,
+        16,
+        93,
+        56,
+        16,
+        137,
+        24,
+        254,
+        111,
+        50,
+        122,
+        239,
+        190,
+        62,
+        241,
+        41
+      ]
+    },
+    "name": "AFTER EARTH dvdrip",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 20,
+  "last_updated": "2016-12-25T16:08:14.536Z"
+}

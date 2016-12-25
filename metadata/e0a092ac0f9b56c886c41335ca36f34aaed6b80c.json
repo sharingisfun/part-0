@@ -1,1 +1,61 @@
-{"title":"WikiLeaks insurance 20130815 - A","uid":8823724,"size":3565158464,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:e0a092ac0f9b56c886c41335ca36f34aaed6b80c&amp;dn=WikiLeaks+insurance+20130815+-+A&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":1,"uploader":"DeeLee","files":1,"time":1376772804,"description":"From:\n\nWikileaks - 2,284,356 like this\n13 hours ago. \n\nPlease mirror: WikiLeaks insurance 20130815\n\nA: 3.6Gb http://wlstorage.net/torrent/wlinsurance-20130815-A.aes256.torrent\nB: 49Gb http://wlstorage.net/torrent/wlinsurance-20130815-B.aes256.torrent\nC: 349GB http://wlstorage.net/torrent/wlinsurance-20130815-C.aes256.torrent\n","torrent":{"xt":"urn:btih:e0a092ac0f9b56c886c41335ca36f34aaed6b80c","amp;dn":"WikiLeaks+insurance+20130815+-+A","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e0a092ac0f9b56c886c41335ca36f34aaed6b80c","infoHashBuffer":{"type":"Buffer","data":[224,160,146,172,15,155,86,200,134,196,19,53,202,54,243,74,174,214,184,12]},"announce":[],"urlList":[]}}
+{
+  "title": "WikiLeaks insurance 20130815 - A",
+  "uid": 8823724,
+  "size": 3565158464,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:e0a092ac0f9b56c886c41335ca36f34aaed6b80c&amp;dn=WikiLeaks+insurance+20130815+-+A&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 1,
+  "uploader": "DeeLee",
+  "files": 1,
+  "time": 1376772804,
+  "description": "From:\n\nWikileaks - 2,284,356 like this\n13 hours ago. \n\nPlease mirror: WikiLeaks insurance 20130815\n\nA: 3.6Gb http://wlstorage.net/torrent/wlinsurance-20130815-A.aes256.torrent\nB: 49Gb http://wlstorage.net/torrent/wlinsurance-20130815-B.aes256.torrent\nC: 349GB http://wlstorage.net/torrent/wlinsurance-20130815-C.aes256.torrent\n",
+  "parsed": {
+    "xt": "urn:btih:e0a092ac0f9b56c886c41335ca36f34aaed6b80c",
+    "dn": "WikiLeaks insurance 20130815 - A",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e0a092ac0f9b56c886c41335ca36f34aaed6b80c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        224,
+        160,
+        146,
+        172,
+        15,
+        155,
+        86,
+        200,
+        134,
+        196,
+        19,
+        53,
+        202,
+        54,
+        243,
+        74,
+        174,
+        214,
+        184,
+        12
+      ]
+    },
+    "name": "WikiLeaks insurance 20130815 - A",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 67,
+  "last_updated": "2016-12-25T16:09:00.666Z"
+}

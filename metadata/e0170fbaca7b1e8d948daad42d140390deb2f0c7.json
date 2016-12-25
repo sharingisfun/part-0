@@ -1,1 +1,61 @@
-{"title":"Mew &amp;ndash; + &amp;ndash; (2015)","uid":11832354,"size":140549235,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e0170fbaca7b1e8d948daad42d140390deb2f0c7&amp;dn=Mew+%26ndash%3B+%2B+%26ndash%3B+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":1,"uploader":"santicaz","files":10,"time":1429635899,"description":"Artist: Mew\nTitle: + Ã¢â‚¬â€œ\nYear: 2015\nGenre: Art Rock / Dream Pop / Indie Rock\nOrigin: Denmark\nSize/Quality: 134 mb | Mp3, CBR 320 kbps (Cd-Rip)\n\n\nTracklist:\n01. Satellites\n02. Witness\n03. The Night Believer\n04. Making Friends\n05. Clinging To A Bad Dream\n06. My Complications\n07. Water Slides\n08. Interview The Girls\n09. Rows\n10. Cross The River On Your Own","torrent":{"xt":"urn:btih:e0170fbaca7b1e8d948daad42d140390deb2f0c7","amp;dn":"Mew+%26ndash%3B+%2B+%26ndash%3B+%282015%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e0170fbaca7b1e8d948daad42d140390deb2f0c7","infoHashBuffer":{"type":"Buffer","data":[224,23,15,186,202,123,30,141,148,141,170,212,45,20,3,144,222,178,240,199]},"announce":[],"urlList":[]}}
+{
+  "title": "Mew &amp;ndash; + &amp;ndash; (2015)",
+  "uid": 11832354,
+  "size": 140549235,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e0170fbaca7b1e8d948daad42d140390deb2f0c7&amp;dn=Mew+%26ndash%3B+%2B+%26ndash%3B+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 1,
+  "uploader": "santicaz",
+  "files": 10,
+  "time": 1429635899,
+  "description": "Artist: Mew\nTitle: + Ã¢â‚¬â€œ\nYear: 2015\nGenre: Art Rock / Dream Pop / Indie Rock\nOrigin: Denmark\nSize/Quality: 134 mb | Mp3, CBR 320 kbps (Cd-Rip)\n\n\nTracklist:\n01. Satellites\n02. Witness\n03. The Night Believer\n04. Making Friends\n05. Clinging To A Bad Dream\n06. My Complications\n07. Water Slides\n08. Interview The Girls\n09. Rows\n10. Cross The River On Your Own",
+  "parsed": {
+    "xt": "urn:btih:e0170fbaca7b1e8d948daad42d140390deb2f0c7",
+    "dn": "Mew &ndash;   &ndash; (2015)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e0170fbaca7b1e8d948daad42d140390deb2f0c7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        224,
+        23,
+        15,
+        186,
+        202,
+        123,
+        30,
+        141,
+        148,
+        141,
+        170,
+        212,
+        45,
+        20,
+        3,
+        144,
+        222,
+        178,
+        240,
+        199
+      ]
+    },
+    "name": "Mew &ndash;   &ndash; (2015)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 21,
+  "last_updated": "2016-12-25T16:06:26.219Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Snappy Driver Installer R477","uid":15546570,"size":13692657548,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:e2a38ab2b02805181d63d4ca7f631fa3102b052c&amp;dn=Snappy+Driver+Installer+R477&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":3,"uploader":"MotasemBT","files":262,"time":1470977475,"description":"If you lost your discs with drivers, unable to find drivers on manufacturer's website or Windows Update cannot configure your hardware, you can use this tool to find and install all missing drivers.\r\n\r\nIf you're a PC technician, you can keep the tool on your USB flash drive or external hard drive and use it wherever you go, even in environments with no Internet access. You can also use it after performing a clean installation of Windows","torrent":{"xt":"urn:btih:e2a38ab2b02805181d63d4ca7f631fa3102b052c","amp;dn":"Snappy+Driver+Installer+R477","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e2a38ab2b02805181d63d4ca7f631fa3102b052c","infoHashBuffer":{"type":"Buffer","data":[226,163,138,178,176,40,5,24,29,99,212,202,127,99,31,163,16,43,5,44]},"announce":[],"urlList":[]}}
+{
+  "title": "Snappy Driver Installer R477",
+  "uid": 15546570,
+  "size": 13692657548,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:e2a38ab2b02805181d63d4ca7f631fa3102b052c&amp;dn=Snappy+Driver+Installer+R477&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 3,
+  "uploader": "MotasemBT",
+  "files": 262,
+  "time": 1470977475,
+  "description": "If you lost your discs with drivers, unable to find drivers on manufacturer's website or Windows Update cannot configure your hardware, you can use this tool to find and install all missing drivers.\r\n\r\nIf you're a PC technician, you can keep the tool on your USB flash drive or external hard drive and use it wherever you go, even in environments with no Internet access. You can also use it after performing a clean installation of Windows",
+  "parsed": {
+    "xt": "urn:btih:e2a38ab2b02805181d63d4ca7f631fa3102b052c",
+    "dn": "Snappy Driver Installer R477",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e2a38ab2b02805181d63d4ca7f631fa3102b052c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        226,
+        163,
+        138,
+        178,
+        176,
+        40,
+        5,
+        24,
+        29,
+        99,
+        212,
+        202,
+        127,
+        99,
+        31,
+        163,
+        16,
+        43,
+        5,
+        44
+      ]
+    },
+    "name": "Snappy Driver Installer R477",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 174,
+  "last_updated": "2016-12-25T16:22:37.553Z"
+}

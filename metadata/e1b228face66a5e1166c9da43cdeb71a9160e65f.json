@@ -1,1 +1,61 @@
-{"title":"M83 - Hurry Up, We're Dreaming [320KBPS]","uid":6742739,"size":181310760,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e1b228face66a5e1166c9da43cdeb71a9160e65f&amp;dn=M83+-+Hurry+Up%2C+We%5C%27re+Dreaming+%5B320KBPS%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":103,"leechers":4,"uploader":"LosslessDude","files":-1,"time":1318576284,"description":"M83 - Hurry Up, We're Dreaming","torrent":{"xt":"urn:btih:e1b228face66a5e1166c9da43cdeb71a9160e65f","amp;dn":"M83+-+Hurry+Up%2C+We%5C%27re+Dreaming+%5B320KBPS%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e1b228face66a5e1166c9da43cdeb71a9160e65f","infoHashBuffer":{"type":"Buffer","data":[225,178,40,250,206,102,165,225,22,108,157,164,60,222,183,26,145,96,230,95]},"announce":[],"urlList":[]}}
+{
+  "title": "M83 - Hurry Up, We're Dreaming [320KBPS]",
+  "uid": 6742739,
+  "size": 181310760,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e1b228face66a5e1166c9da43cdeb71a9160e65f&amp;dn=M83+-+Hurry+Up%2C+We%5C%27re+Dreaming+%5B320KBPS%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 103,
+  "leechers": 4,
+  "uploader": "LosslessDude",
+  "files": -1,
+  "time": 1318576284,
+  "description": "M83 - Hurry Up, We're Dreaming",
+  "parsed": {
+    "xt": "urn:btih:e1b228face66a5e1166c9da43cdeb71a9160e65f",
+    "dn": "M83 - Hurry Up, We\\'re Dreaming [320KBPS]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e1b228face66a5e1166c9da43cdeb71a9160e65f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        225,
+        178,
+        40,
+        250,
+        206,
+        102,
+        165,
+        225,
+        22,
+        108,
+        157,
+        164,
+        60,
+        222,
+        183,
+        26,
+        145,
+        96,
+        230,
+        95
+      ]
+    },
+    "name": "M83 - Hurry Up, We\\'re Dreaming [320KBPS]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 107,
+  "peers": 50,
+  "last_updated": "2016-12-25T16:16:10.139Z"
+}

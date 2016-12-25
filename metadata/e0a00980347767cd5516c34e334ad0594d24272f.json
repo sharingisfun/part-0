@@ -1,1 +1,61 @@
-{"title":"South Park Season 1 2 3 4 5 6 7 8 9 10 11 12 13 14 HDTV","uid":6088563,"size":35201738864,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e0a00980347767cd5516c34e334ad0594d24272f&amp;dn=South+Park+Season+1+2+3+4+5+6+7+8+9+10+11+12+13+14+HDTV&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":157,"leechers":229,"uploader":"JibbsIsMe","files":208,"time":1294443992,"description":"South park seasons 1-14\n\nhigh quality for all episodes\n\nsorted into folders very nicely: no XviD and stuff like that!\n\nno commercials\n\nI will ALWAYS be seeding\n\n\n\nreally funny show!\n\niMDB link: http://www.imdb.com/title/tt0121955/\n\n\n\nHave fun!","torrent":{"xt":"urn:btih:e0a00980347767cd5516c34e334ad0594d24272f","amp;dn":"South+Park+Season+1+2+3+4+5+6+7+8+9+10+11+12+13+14+HDTV","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e0a00980347767cd5516c34e334ad0594d24272f","infoHashBuffer":{"type":"Buffer","data":[224,160,9,128,52,119,103,205,85,22,195,78,51,74,208,89,77,36,39,47]},"announce":[],"urlList":[]}}
+{
+  "title": "South Park Season 1 2 3 4 5 6 7 8 9 10 11 12 13 14 HDTV",
+  "uid": 6088563,
+  "size": 35201738864,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e0a00980347767cd5516c34e334ad0594d24272f&amp;dn=South+Park+Season+1+2+3+4+5+6+7+8+9+10+11+12+13+14+HDTV&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 157,
+  "leechers": 229,
+  "uploader": "JibbsIsMe",
+  "files": 208,
+  "time": 1294443992,
+  "description": "South park seasons 1-14\n\nhigh quality for all episodes\n\nsorted into folders very nicely: no XviD and stuff like that!\n\nno commercials\n\nI will ALWAYS be seeding\n\n\n\nreally funny show!\n\niMDB link: http://www.imdb.com/title/tt0121955/\n\n\n\nHave fun!",
+  "parsed": {
+    "xt": "urn:btih:e0a00980347767cd5516c34e334ad0594d24272f",
+    "dn": "South Park Season 1 2 3 4 5 6 7 8 9 10 11 12 13 14 HDTV",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e0a00980347767cd5516c34e334ad0594d24272f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        224,
+        160,
+        9,
+        128,
+        52,
+        119,
+        103,
+        205,
+        85,
+        22,
+        195,
+        78,
+        51,
+        74,
+        208,
+        89,
+        77,
+        36,
+        39,
+        47
+      ]
+    },
+    "name": "South Park Season 1 2 3 4 5 6 7 8 9 10 11 12 13 14 HDTV",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 386,
+  "peers": 50,
+  "last_updated": "2016-12-25T16:08:58.661Z"
+}
