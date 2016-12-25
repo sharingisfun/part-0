@@ -1,1 +1,61 @@
-{"title":"VA Guitar Idols [2008] FLAC 2CD","uid":11831744,"size":1099659153,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:93c5def44789bcdad8f6bb2744b6ef5e3cd3fcdf&amp;dn=VA+Guitar+Idols+%5B2008%5D+FLAC+2CD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":2,"uploader":"Capajebo","files":40,"time":1429621999,"description":" &lt;a href=&quot;http://imgur.com/wT5w1Px&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/wT5w1Px&lt;/a&gt; .:::. VA Guitar Idols CD [2008] FLAC 2CD ::: 1389","torrent":{"xt":"urn:btih:93c5def44789bcdad8f6bb2744b6ef5e3cd3fcdf","amp;dn":"VA+Guitar+Idols+%5B2008%5D+FLAC+2CD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"93c5def44789bcdad8f6bb2744b6ef5e3cd3fcdf","infoHashBuffer":{"type":"Buffer","data":[147,197,222,244,71,137,188,218,216,246,187,39,68,182,239,94,60,211,252,223]},"announce":[],"urlList":[]}}
+{
+  "title": "VA Guitar Idols [2008] FLAC 2CD",
+  "uid": 11831744,
+  "size": 1099659153,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:93c5def44789bcdad8f6bb2744b6ef5e3cd3fcdf&amp;dn=VA+Guitar+Idols+%5B2008%5D+FLAC+2CD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 2,
+  "uploader": "Capajebo",
+  "files": 40,
+  "time": 1429621999,
+  "description": " &lt;a href=&quot;http://imgur.com/wT5w1Px&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/wT5w1Px&lt;/a&gt; .:::. VA Guitar Idols CD [2008] FLAC 2CD ::: 1389",
+  "parsed": {
+    "xt": "urn:btih:93c5def44789bcdad8f6bb2744b6ef5e3cd3fcdf",
+    "dn": "VA Guitar Idols [2008] FLAC 2CD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "93c5def44789bcdad8f6bb2744b6ef5e3cd3fcdf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        147,
+        197,
+        222,
+        244,
+        71,
+        137,
+        188,
+        218,
+        216,
+        246,
+        187,
+        39,
+        68,
+        182,
+        239,
+        94,
+        60,
+        211,
+        252,
+        223
+      ]
+    },
+    "name": "VA Guitar Idols [2008] FLAC 2CD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 14,
+  "last_updated": "2016-12-25T08:09:08.475Z"
+}

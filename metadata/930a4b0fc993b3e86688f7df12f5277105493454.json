@@ -1,1 +1,61 @@
-{"title":"The.Returned.US.S01E08.HDTV.x264-ASAP[ettv]","uid":11857397,"size":302377829,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:930a4b0fc993b3e86688f7df12f5277105493454&amp;dn=The.Returned.US.S01E08.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":141,"leechers":4,"uploader":"ettv","files":3,"time":1430197421,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:930a4b0fc993b3e86688f7df12f5277105493454","amp;dn":"The.Returned.US.S01E08.HDTV.x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"930a4b0fc993b3e86688f7df12f5277105493454","infoHashBuffer":{"type":"Buffer","data":[147,10,75,15,201,147,179,232,102,136,247,223,18,245,39,113,5,73,52,84]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Returned.US.S01E08.HDTV.x264-ASAP[ettv]",
+  "uid": 11857397,
+  "size": 302377829,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:930a4b0fc993b3e86688f7df12f5277105493454&amp;dn=The.Returned.US.S01E08.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 141,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1430197421,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:930a4b0fc993b3e86688f7df12f5277105493454",
+    "dn": "The.Returned.US.S01E08.HDTV.x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "930a4b0fc993b3e86688f7df12f5277105493454",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        147,
+        10,
+        75,
+        15,
+        201,
+        147,
+        179,
+        232,
+        102,
+        136,
+        247,
+        223,
+        18,
+        245,
+        39,
+        113,
+        5,
+        73,
+        52,
+        84
+      ]
+    },
+    "name": "The.Returned.US.S01E08.HDTV.x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 145,
+  "peers": 5,
+  "last_updated": "2016-12-25T08:04:19.403Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Thea: The Awakening [v1.16.1623.0] (2016)","uid":15964370,"size":13138765,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:948c87a1b0c55060c5507cf8dda12f9185b96d46&amp;dn=Thea%3A+The+Awakening+%5Bv1.16.1623.0%5D+%282016%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":59,"uploader":"trwetwr","files":2,"time":1475708337,"description":"Good Game","torrent":{"xt":"urn:btih:948c87a1b0c55060c5507cf8dda12f9185b96d46","amp;dn":"Thea%3A+The+Awakening+%5Bv1.16.1623.0%5D+%282016%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"948c87a1b0c55060c5507cf8dda12f9185b96d46","infoHashBuffer":{"type":"Buffer","data":[148,140,135,161,176,197,80,96,197,80,124,248,221,161,47,145,133,185,109,70]},"announce":[],"urlList":[]}}
+{
+  "title": "Thea: The Awakening [v1.16.1623.0] (2016)",
+  "uid": 15964370,
+  "size": 13138765,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:948c87a1b0c55060c5507cf8dda12f9185b96d46&amp;dn=Thea%3A+The+Awakening+%5Bv1.16.1623.0%5D+%282016%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 59,
+  "uploader": "trwetwr",
+  "files": 2,
+  "time": 1475708337,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:948c87a1b0c55060c5507cf8dda12f9185b96d46",
+    "dn": "Thea: The Awakening [v1.16.1623.0] (2016)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "948c87a1b0c55060c5507cf8dda12f9185b96d46",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        148,
+        140,
+        135,
+        161,
+        176,
+        197,
+        80,
+        96,
+        197,
+        80,
+        124,
+        248,
+        221,
+        161,
+        47,
+        145,
+        133,
+        185,
+        109,
+        70
+      ]
+    },
+    "name": "Thea: The Awakening [v1.16.1623.0] (2016)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 146,
+  "peers": 2,
+  "last_updated": "2016-12-25T08:13:49.514Z"
+}

@@ -1,1 +1,61 @@
-{"title":"One Direction - You And I (Single 2014)","uid":9995497,"size":9473495,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:93502ba32d94cfcb76d88e98838f91a768608495&amp;dn=One+Direction+-+You+And+I+%28Single+2014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":1,"uploader":"madeinindia","files":1,"time":1397913311,"description":"One Direction - You And I (Single 2014)\n\nnew single from the album Midnight Memories\n\nFormat mp3 320kbps (album art included)\n\n\nP.S. dont forget to seed","torrent":{"xt":"urn:btih:93502ba32d94cfcb76d88e98838f91a768608495","amp;dn":"One+Direction+-+You+And+I+%28Single+2014%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"93502ba32d94cfcb76d88e98838f91a768608495","infoHashBuffer":{"type":"Buffer","data":[147,80,43,163,45,148,207,203,118,216,142,152,131,143,145,167,104,96,132,149]},"announce":[],"urlList":[]}}
+{
+  "title": "One Direction - You And I (Single 2014)",
+  "uid": 9995497,
+  "size": 9473495,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:93502ba32d94cfcb76d88e98838f91a768608495&amp;dn=One+Direction+-+You+And+I+%28Single+2014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 1,
+  "uploader": "madeinindia",
+  "files": 1,
+  "time": 1397913311,
+  "description": "One Direction - You And I (Single 2014)\n\nnew single from the album Midnight Memories\n\nFormat mp3 320kbps (album art included)\n\n\nP.S. dont forget to seed",
+  "parsed": {
+    "xt": "urn:btih:93502ba32d94cfcb76d88e98838f91a768608495",
+    "dn": "One Direction - You And I (Single 2014)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "93502ba32d94cfcb76d88e98838f91a768608495",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        147,
+        80,
+        43,
+        163,
+        45,
+        148,
+        207,
+        203,
+        118,
+        216,
+        142,
+        152,
+        131,
+        143,
+        145,
+        167,
+        104,
+        96,
+        132,
+        149
+      ]
+    },
+    "name": "One Direction - You And I (Single 2014)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 63,
+  "last_updated": "2016-12-25T08:05:57.768Z"
+}

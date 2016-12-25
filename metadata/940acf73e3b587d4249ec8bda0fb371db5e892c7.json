@@ -1,1 +1,61 @@
-{"title":"Lupe Fiasco - Food and Liquor","uid":3911257,"size":102737321,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:940acf73e3b587d4249ec8bda0fb371db5e892c7&amp;dn=Lupe+Fiasco+-+Food+and+Liquor&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":2,"uploader":"QuestUno","files":1,"time":1196173820,"description":"01 - Intro\n02 - Real F. Sarah Green\n03 - Just Might Be OK F. Gemini\n04 - Kick, Push\n05 - I Gotcha\n06 - The Instrumental F. Jonah Matranga\n07 - He Say She Say F. Gemini &amp; Sarah Green\n08 - Sunshine\n09 - Daydreamin\\&amp;#039; F. Jill Scott\n10 - Cool\n11 - Hurt Me Soul\n12 - Pressure F. Jay-Z\n13 - American Terrorist F. Matthew Santos\n14 - The Emperor\\&amp;#039;s Soundtrack\n15 - Kick, Push II\n16 - Outro\t","torrent":{"xt":"urn:btih:940acf73e3b587d4249ec8bda0fb371db5e892c7","amp;dn":"Lupe+Fiasco+-+Food+and+Liquor","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"940acf73e3b587d4249ec8bda0fb371db5e892c7","infoHashBuffer":{"type":"Buffer","data":[148,10,207,115,227,181,135,212,36,158,200,189,160,251,55,29,181,232,146,199]},"announce":[],"urlList":[]}}
+{
+  "title": "Lupe Fiasco - Food and Liquor",
+  "uid": 3911257,
+  "size": 102737321,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:940acf73e3b587d4249ec8bda0fb371db5e892c7&amp;dn=Lupe+Fiasco+-+Food+and+Liquor&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 2,
+  "uploader": "QuestUno",
+  "files": 1,
+  "time": 1196173820,
+  "description": "01 - Intro\n02 - Real F. Sarah Green\n03 - Just Might Be OK F. Gemini\n04 - Kick, Push\n05 - I Gotcha\n06 - The Instrumental F. Jonah Matranga\n07 - He Say She Say F. Gemini &amp; Sarah Green\n08 - Sunshine\n09 - Daydreamin\\&amp;#039; F. Jill Scott\n10 - Cool\n11 - Hurt Me Soul\n12 - Pressure F. Jay-Z\n13 - American Terrorist F. Matthew Santos\n14 - The Emperor\\&amp;#039;s Soundtrack\n15 - Kick, Push II\n16 - Outro\t",
+  "parsed": {
+    "xt": "urn:btih:940acf73e3b587d4249ec8bda0fb371db5e892c7",
+    "dn": "Lupe Fiasco - Food and Liquor",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "940acf73e3b587d4249ec8bda0fb371db5e892c7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        148,
+        10,
+        207,
+        115,
+        227,
+        181,
+        135,
+        212,
+        36,
+        158,
+        200,
+        189,
+        160,
+        251,
+        55,
+        29,
+        181,
+        232,
+        146,
+        199
+      ]
+    },
+    "name": "Lupe Fiasco - Food and Liquor",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 48,
+  "last_updated": "2016-12-25T08:10:44.878Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Plug &amp; Play","uid":11765253,"size":22204527,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:94f3f10663362051f496f800625720f518a6e45a&amp;dn=Plug+%26amp%3B+Play&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":0,"uploader":"dauphong","files":1,"time":1426714970,"description":"\nAbout This Game\nExplore the universe of Plug &amp; Play, an interactive animation drawn by Michael Frei and coded by Mario von Rickenbach. An unashamedly surreal play with plugs.\n\nPlay time between 10 Ã¢â‚¬â€œ 15 minutes.\n\n\nSystem Requirements\n\n    Minimum:\n        OS: Windows XP, Vista, 7, 8\n        Memory: 1 GB RAM\n        Graphics: 512 MB Graphics Card\n        Hard Drive: 500 MB available space","torrent":{"xt":"urn:btih:94f3f10663362051f496f800625720f518a6e45a","amp;dn":"Plug+%26amp%3B+Play","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"94f3f10663362051f496f800625720f518a6e45a","infoHashBuffer":{"type":"Buffer","data":[148,243,241,6,99,54,32,81,244,150,248,0,98,87,32,245,24,166,228,90]},"announce":[],"urlList":[]}}
+{
+  "title": "Plug &amp; Play",
+  "uid": 11765253,
+  "size": 22204527,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:94f3f10663362051f496f800625720f518a6e45a&amp;dn=Plug+%26amp%3B+Play&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 0,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1426714970,
+  "description": "\nAbout This Game\nExplore the universe of Plug &amp; Play, an interactive animation drawn by Michael Frei and coded by Mario von Rickenbach. An unashamedly surreal play with plugs.\n\nPlay time between 10 Ã¢â‚¬â€œ 15 minutes.\n\n\nSystem Requirements\n\n    Minimum:\n        OS: Windows XP, Vista, 7, 8\n        Memory: 1 GB RAM\n        Graphics: 512 MB Graphics Card\n        Hard Drive: 500 MB available space",
+  "parsed": {
+    "xt": "urn:btih:94f3f10663362051f496f800625720f518a6e45a",
+    "dn": "Plug &amp; Play",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "94f3f10663362051f496f800625720f518a6e45a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        148,
+        243,
+        241,
+        6,
+        99,
+        54,
+        32,
+        81,
+        244,
+        150,
+        248,
+        0,
+        98,
+        87,
+        32,
+        245,
+        24,
+        166,
+        228,
+        90
+      ]
+    },
+    "name": "Plug &amp; Play",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 2,
+  "last_updated": "2016-12-25T08:16:31.964Z"
+}

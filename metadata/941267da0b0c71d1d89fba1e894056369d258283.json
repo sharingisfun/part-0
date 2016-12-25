@@ -1,1 +1,61 @@
-{"title":"Laura Marling - Short Movie (2015) (320kbps)","uid":11761547,"size":121397389,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:941267da0b0c71d1d89fba1e894056369d258283&amp;dn=Laura+Marling+-+Short+Movie+%282015%29+%28320kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":1,"uploader":"rajabmm","files":14,"time":1426605301,"description":"Laura Marling - Short Movie (2015) (320kbps)","torrent":{"xt":"urn:btih:941267da0b0c71d1d89fba1e894056369d258283","amp;dn":"Laura+Marling+-+Short+Movie+%282015%29+%28320kbps%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"941267da0b0c71d1d89fba1e894056369d258283","infoHashBuffer":{"type":"Buffer","data":[148,18,103,218,11,12,113,209,216,159,186,30,137,64,86,54,157,37,130,131]},"announce":[],"urlList":[]}}
+{
+  "title": "Laura Marling - Short Movie (2015) (320kbps)",
+  "uid": 11761547,
+  "size": 121397389,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:941267da0b0c71d1d89fba1e894056369d258283&amp;dn=Laura+Marling+-+Short+Movie+%282015%29+%28320kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 1,
+  "uploader": "rajabmm",
+  "files": 14,
+  "time": 1426605301,
+  "description": "Laura Marling - Short Movie (2015) (320kbps)",
+  "parsed": {
+    "xt": "urn:btih:941267da0b0c71d1d89fba1e894056369d258283",
+    "dn": "Laura Marling - Short Movie (2015) (320kbps)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "941267da0b0c71d1d89fba1e894056369d258283",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        148,
+        18,
+        103,
+        218,
+        11,
+        12,
+        113,
+        209,
+        216,
+        159,
+        186,
+        30,
+        137,
+        64,
+        86,
+        54,
+        157,
+        37,
+        130,
+        131
+      ]
+    },
+    "name": "Laura Marling - Short Movie (2015) (320kbps)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 39,
+  "last_updated": "2016-12-25T08:10:52.904Z"
+}

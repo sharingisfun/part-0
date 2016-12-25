@@ -1,1 +1,61 @@
-{"title":"Adobe Flash Player 11.5.502.110 (32/64 bit)","uid":7809897,"size":32096290,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:94f68688308a61f173dc049f201219703f79b093&amp;dn=Adobe+Flash+Player+11.5.502.110+%2832%2F64+bit%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":81,"leechers":3,"uploader":"Maherz","files":-1,"time":1352497832,"description":"Adobe Flash Player 11.5.502.110\n\nAdobe Flash Player is the standard for delivering high-impact, rich Web content. Designs, animation, and application user interfaces are deployed immediately across all browsers and platforms, attracting and engaging users with a rich Web experience.\n\nVersion: 11.5.502.110\nReslease Date: 6-11-2012\n\nBoth versions included:\n1) Flash Player 11.5.502.110 for Internet Explorer.\n2) Flash Player 11.5.502.110 for Other Browsers.\n\nThe installer includes both 32-bit and 64-bit versions.\n\nEnjoy..","torrent":{"xt":"urn:btih:94f68688308a61f173dc049f201219703f79b093","amp;dn":"Adobe+Flash+Player+11.5.502.110+%2832%2F64+bit%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"94f68688308a61f173dc049f201219703f79b093","infoHashBuffer":{"type":"Buffer","data":[148,246,134,136,48,138,97,241,115,220,4,159,32,18,25,112,63,121,176,147]},"announce":[],"urlList":[]}}
+{
+  "title": "Adobe Flash Player 11.5.502.110 (32/64 bit)",
+  "uid": 7809897,
+  "size": 32096290,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:94f68688308a61f173dc049f201219703f79b093&amp;dn=Adobe+Flash+Player+11.5.502.110+%2832%2F64+bit%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 81,
+  "leechers": 3,
+  "uploader": "Maherz",
+  "files": -1,
+  "time": 1352497832,
+  "description": "Adobe Flash Player 11.5.502.110\n\nAdobe Flash Player is the standard for delivering high-impact, rich Web content. Designs, animation, and application user interfaces are deployed immediately across all browsers and platforms, attracting and engaging users with a rich Web experience.\n\nVersion: 11.5.502.110\nReslease Date: 6-11-2012\n\nBoth versions included:\n1) Flash Player 11.5.502.110 for Internet Explorer.\n2) Flash Player 11.5.502.110 for Other Browsers.\n\nThe installer includes both 32-bit and 64-bit versions.\n\nEnjoy..",
+  "parsed": {
+    "xt": "urn:btih:94f68688308a61f173dc049f201219703f79b093",
+    "dn": "Adobe Flash Player 11.5.502.110 (32/64 bit)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "94f68688308a61f173dc049f201219703f79b093",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        148,
+        246,
+        134,
+        136,
+        48,
+        138,
+        97,
+        241,
+        115,
+        220,
+        4,
+        159,
+        32,
+        18,
+        25,
+        112,
+        63,
+        121,
+        176,
+        147
+      ]
+    },
+    "name": "Adobe Flash Player 11.5.502.110 (32/64 bit)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 84,
+  "peers": 152,
+  "last_updated": "2016-12-25T08:16:37.981Z"
+}

@@ -1,1 +1,61 @@
-{"title":"One Republic - Dreaming Out Loud (2008)","uid":4641827,"size":87265244,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:93cce2c0d25df01c31b33bcbb985cdf41ac10682&amp;dn=One+Republic+-+Dreaming+Out+Loud+%282008%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":5,"uploader":"vorlonken","files":15,"time":1231744439,"description":"Album Dreaming Out Loud from One Republic","torrent":{"xt":"urn:btih:93cce2c0d25df01c31b33bcbb985cdf41ac10682","amp;dn":"One+Republic+-+Dreaming+Out+Loud+%282008%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"93cce2c0d25df01c31b33bcbb985cdf41ac10682","infoHashBuffer":{"type":"Buffer","data":[147,204,226,192,210,93,240,28,49,179,59,203,185,133,205,244,26,193,6,130]},"announce":[],"urlList":[]}}
+{
+  "title": "One Republic - Dreaming Out Loud (2008)",
+  "uid": 4641827,
+  "size": 87265244,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:93cce2c0d25df01c31b33bcbb985cdf41ac10682&amp;dn=One+Republic+-+Dreaming+Out+Loud+%282008%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 5,
+  "uploader": "vorlonken",
+  "files": 15,
+  "time": 1231744439,
+  "description": "Album Dreaming Out Loud from One Republic",
+  "parsed": {
+    "xt": "urn:btih:93cce2c0d25df01c31b33bcbb985cdf41ac10682",
+    "dn": "One Republic - Dreaming Out Loud (2008)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "93cce2c0d25df01c31b33bcbb985cdf41ac10682",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        147,
+        204,
+        226,
+        192,
+        210,
+        93,
+        240,
+        28,
+        49,
+        179,
+        59,
+        203,
+        185,
+        133,
+        205,
+        244,
+        26,
+        193,
+        6,
+        130
+      ]
+    },
+    "name": "One Republic - Dreaming Out Loud (2008)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 12,
+  "last_updated": "2016-12-25T08:09:24.532Z"
+}

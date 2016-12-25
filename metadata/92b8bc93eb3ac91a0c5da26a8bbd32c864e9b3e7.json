@@ -1,1 +1,63 @@
-{"title":"mernis.tar.gz","uid":14581744,"size":1555520122,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:92b8bc93eb3ac91a0c5da26a8bbd32c864e9b3e7&amp;dn=mernis.tar.gz&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":125,"leechers":2,"uploader":null,"files":1,"time":1462880053,"description":"SQL dump of Turkish citizens from Mernis","torrent":{"xt":"urn:btih:92b8bc93eb3ac91a0c5da26a8bbd32c864e9b3e7","amp;dn":"mernis.tar.gz","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"92b8bc93eb3ac91a0c5da26a8bbd32c864e9b3e7","infoHashBuffer":{"type":"Buffer","data":[146,184,188,147,235,58,201,26,12,93,162,106,139,189,50,200,100,233,179,231]},"announce":[],"urlList":[]}}
+{
+  "title": "mernis.tar.gz",
+  "uid": 14581744,
+  "size": 1555520122,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:92b8bc93eb3ac91a0c5da26a8bbd32c864e9b3e7&amp;dn=mernis.tar.gz&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 125,
+  "leechers": 2,
+  "uploader": null,
+  "files": 1,
+  "time": 1462880053,
+  "description": "SQL dump of Turkish citizens from Mernis",
+  "parsed": {
+    "xt": "urn:btih:92b8bc93eb3ac91a0c5da26a8bbd32c864e9b3e7",
+    "dn": "mernis.tar.gz",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "92b8bc93eb3ac91a0c5da26a8bbd32c864e9b3e7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        146,
+        184,
+        188,
+        147,
+        235,
+        58,
+        201,
+        26,
+        12,
+        93,
+        162,
+        106,
+        139,
+        189,
+        50,
+        200,
+        100,
+        233,
+        179,
+        231
+      ]
+    },
+    "name": "mernis.tar.gz",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 127,
+  "peers": 275,
+  "last_updated": "2016-12-25T08:02:19.009Z"
+}

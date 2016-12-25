@@ -1,1 +1,61 @@
-{"title":"Radiohead Discography @ 320Kbps","uid":3975717,"size":885783053,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:93e91e2d3d41cc3f44338a7564a09b031b5b1a50&amp;dn=Radiohead+Discography+%40+320Kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":184,"leechers":31,"uploader":"BESTinTEXAS","files":98,"time":1200259859,"description":"Radiohead Discography @ 320Kbps\n\nAlbums:\n(1993) Pablo Honey (105MB)\n(1995) The Bends (111MB)\n(1997) OK Computer (122MB)\n(2000) Kid A (114MB)\n(2001) Amnesiac (100MB)\n(2003) Hail to the Thief (129MB)\n(2007) In Rainbows (159MB total, CD1 97.7MB, CD2 61.6MB)","torrent":{"xt":"urn:btih:93e91e2d3d41cc3f44338a7564a09b031b5b1a50","amp;dn":"Radiohead+Discography+%40+320Kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"93e91e2d3d41cc3f44338a7564a09b031b5b1a50","infoHashBuffer":{"type":"Buffer","data":[147,233,30,45,61,65,204,63,68,51,138,117,100,160,155,3,27,91,26,80]},"announce":[],"urlList":[]}}
+{
+  "title": "Radiohead Discography @ 320Kbps",
+  "uid": 3975717,
+  "size": 885783053,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:93e91e2d3d41cc3f44338a7564a09b031b5b1a50&amp;dn=Radiohead+Discography+%40+320Kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 184,
+  "leechers": 31,
+  "uploader": "BESTinTEXAS",
+  "files": 98,
+  "time": 1200259859,
+  "description": "Radiohead Discography @ 320Kbps\n\nAlbums:\n(1993) Pablo Honey (105MB)\n(1995) The Bends (111MB)\n(1997) OK Computer (122MB)\n(2000) Kid A (114MB)\n(2001) Amnesiac (100MB)\n(2003) Hail to the Thief (129MB)\n(2007) In Rainbows (159MB total, CD1 97.7MB, CD2 61.6MB)",
+  "parsed": {
+    "xt": "urn:btih:93e91e2d3d41cc3f44338a7564a09b031b5b1a50",
+    "dn": "Radiohead Discography @ 320Kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "93e91e2d3d41cc3f44338a7564a09b031b5b1a50",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        147,
+        233,
+        30,
+        45,
+        61,
+        65,
+        204,
+        63,
+        68,
+        51,
+        138,
+        117,
+        100,
+        160,
+        155,
+        3,
+        27,
+        91,
+        26,
+        80
+      ]
+    },
+    "name": "Radiohead Discography @ 320Kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 215,
+  "peers": 61,
+  "last_updated": "2016-12-25T08:09:58.651Z"
+}

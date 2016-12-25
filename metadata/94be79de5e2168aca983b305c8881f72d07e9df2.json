@@ -1,1 +1,63 @@
-{"title":"DAEMON Tools Lite 11.2.0.75 Multilingual","uid":15914582,"size":18557682,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:94be79de5e2168aca983b305c8881f72d07e9df2&amp;dn=DAEMON+Tools+Lite+11.2.0.75+Multilingual&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":33,"uploader":"gerardpmorris","files":3,"time":1475188018,"description":"very....good","torrent":{"xt":"urn:btih:94be79de5e2168aca983b305c8881f72d07e9df2","amp;dn":"DAEMON+Tools+Lite+11.2.0.75+Multilingual","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"94be79de5e2168aca983b305c8881f72d07e9df2","infoHashBuffer":{"type":"Buffer","data":[148,190,121,222,94,33,104,172,169,131,179,5,200,136,31,114,208,126,157,242]},"announce":[],"urlList":[]}}
+{
+  "title": "DAEMON Tools Lite 11.2.0.75 Multilingual",
+  "uid": 15914582,
+  "size": 18557682,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:94be79de5e2168aca983b305c8881f72d07e9df2&amp;dn=DAEMON+Tools+Lite+11.2.0.75+Multilingual&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 33,
+  "uploader": "gerardpmorris",
+  "files": 3,
+  "time": 1475188018,
+  "description": "very....good",
+  "parsed": {
+    "xt": "urn:btih:94be79de5e2168aca983b305c8881f72d07e9df2",
+    "dn": "DAEMON Tools Lite 11.2.0.75 Multilingual",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "94be79de5e2168aca983b305c8881f72d07e9df2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        148,
+        190,
+        121,
+        222,
+        94,
+        33,
+        104,
+        172,
+        169,
+        131,
+        179,
+        5,
+        200,
+        136,
+        31,
+        114,
+        208,
+        126,
+        157,
+        242
+      ]
+    },
+    "name": "DAEMON Tools Lite 11.2.0.75 Multilingual",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 86,
+  "peers": 1,
+  "last_updated": "2016-12-25T08:15:21.758Z"
+}

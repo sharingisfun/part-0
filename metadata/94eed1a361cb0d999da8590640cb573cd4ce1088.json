@@ -1,1 +1,61 @@
-{"title":"Foo Fighters Songs From The Laundry Room [2015] RSD","uid":11835261,"size":92039039,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:94eed1a361cb0d999da8590640cb573cd4ce1088&amp;dn=Foo+Fighters+Songs+From+The+Laundry+Room+%5B2015%5D+RSD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":4,"uploader":"Capajebo","files":8,"time":1429709790,"description":" &lt;a href=&quot;http://imgur.com/hBeVfhN&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/hBeVfhN&lt;/a&gt; FF - Songs From The Laundry Room [2015] RSD FLAC.:.1389","torrent":{"xt":"urn:btih:94eed1a361cb0d999da8590640cb573cd4ce1088","amp;dn":"Foo+Fighters+Songs+From+The+Laundry+Room+%5B2015%5D+RSD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"94eed1a361cb0d999da8590640cb573cd4ce1088","infoHashBuffer":{"type":"Buffer","data":[148,238,209,163,97,203,13,153,157,168,89,6,64,203,87,60,212,206,16,136]},"announce":[],"urlList":[]}}
+{
+  "title": "Foo Fighters Songs From The Laundry Room [2015] RSD",
+  "uid": 11835261,
+  "size": 92039039,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:94eed1a361cb0d999da8590640cb573cd4ce1088&amp;dn=Foo+Fighters+Songs+From+The+Laundry+Room+%5B2015%5D+RSD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 4,
+  "uploader": "Capajebo",
+  "files": 8,
+  "time": 1429709790,
+  "description": " &lt;a href=&quot;http://imgur.com/hBeVfhN&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/hBeVfhN&lt;/a&gt; FF - Songs From The Laundry Room [2015] RSD FLAC.:.1389",
+  "parsed": {
+    "xt": "urn:btih:94eed1a361cb0d999da8590640cb573cd4ce1088",
+    "dn": "Foo Fighters Songs From The Laundry Room [2015] RSD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "94eed1a361cb0d999da8590640cb573cd4ce1088",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        148,
+        238,
+        209,
+        163,
+        97,
+        203,
+        13,
+        153,
+        157,
+        168,
+        89,
+        6,
+        64,
+        203,
+        87,
+        60,
+        212,
+        206,
+        16,
+        136
+      ]
+    },
+    "name": "Foo Fighters Songs From The Laundry Room [2015] RSD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 16,
+  "last_updated": "2016-12-25T08:16:21.935Z"
+}

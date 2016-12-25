@@ -1,1 +1,61 @@
-{"title":"Poker books (over 250)","uid":8152586,"size":2218713757,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:9372d71aff1c493b4ccf4fcae79990c371a462d1&amp;dn=Poker+books+%28over+250%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":18,"uploader":"pir8guy","files":268,"time":1361086146,"description":"Over 250 poker books and articles. \n\n Sng\n Cash\n Tournament\n Live play \n Heads Up","torrent":{"xt":"urn:btih:9372d71aff1c493b4ccf4fcae79990c371a462d1","amp;dn":"Poker+books+%28over+250%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9372d71aff1c493b4ccf4fcae79990c371a462d1","infoHashBuffer":{"type":"Buffer","data":[147,114,215,26,255,28,73,59,76,207,79,202,231,153,144,195,113,164,98,209]},"announce":[],"urlList":[]}}
+{
+  "title": "Poker books (over 250)",
+  "uid": 8152586,
+  "size": 2218713757,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:9372d71aff1c493b4ccf4fcae79990c371a462d1&amp;dn=Poker+books+%28over+250%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 18,
+  "uploader": "pir8guy",
+  "files": 268,
+  "time": 1361086146,
+  "description": "Over 250 poker books and articles. \n\n Sng\n Cash\n Tournament\n Live play \n Heads Up",
+  "parsed": {
+    "xt": "urn:btih:9372d71aff1c493b4ccf4fcae79990c371a462d1",
+    "dn": "Poker books (over 250)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9372d71aff1c493b4ccf4fcae79990c371a462d1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        147,
+        114,
+        215,
+        26,
+        255,
+        28,
+        73,
+        59,
+        76,
+        207,
+        79,
+        202,
+        231,
+        153,
+        144,
+        195,
+        113,
+        164,
+        98,
+        209
+      ]
+    },
+    "name": "Poker books (over 250)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 67,
+  "peers": 11,
+  "last_updated": "2016-12-25T08:06:55.995Z"
+}

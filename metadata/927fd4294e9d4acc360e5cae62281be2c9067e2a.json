@@ -1,1 +1,63 @@
-{"title":"Howard Stern Show SEP 19 2016 Mon","uid":15867774,"size":274173062,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:927fd4294e9d4acc360e5cae62281be2c9067e2a&amp;dn=Howard+Stern+Show+SEP+19+2016+Mon&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":119,"leechers":13,"uploader":"mc_gregor","files":3,"time":1474391040,"description":"HOWARD STERN SHOW (+ The Wrap-Up Show)\r\n2016-09-19 - LIVE\r\n\r\nEmmy Talk And Kimmel's &quot;Hit 'Em With The Hein.&quot; 09/19/16. 7:00am\r\nIs Jackie The Joke Man A Friend? 09/19/16. 7:45am\r\n&quot;Stars Of Satellite Radio&quot; Show Clips. 09/19/16. 8:00am\r\nNorm Macdonald Visits. 09/19/16. 8:45am\r\nRobin's News. 09/19/16. 10:50am","torrent":{"xt":"urn:btih:927fd4294e9d4acc360e5cae62281be2c9067e2a","amp;dn":"Howard+Stern+Show+SEP+19+2016+Mon","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"927fd4294e9d4acc360e5cae62281be2c9067e2a","infoHashBuffer":{"type":"Buffer","data":[146,127,212,41,78,157,74,204,54,14,92,174,98,40,27,226,201,6,126,42]},"announce":[],"urlList":[]}}
+{
+  "title": "Howard Stern Show SEP 19 2016 Mon",
+  "uid": 15867774,
+  "size": 274173062,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:927fd4294e9d4acc360e5cae62281be2c9067e2a&amp;dn=Howard+Stern+Show+SEP+19+2016+Mon&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 119,
+  "leechers": 13,
+  "uploader": "mc_gregor",
+  "files": 3,
+  "time": 1474391040,
+  "description": "HOWARD STERN SHOW (+ The Wrap-Up Show)\r\n2016-09-19 - LIVE\r\n\r\nEmmy Talk And Kimmel's &quot;Hit 'Em With The Hein.&quot; 09/19/16. 7:00am\r\nIs Jackie The Joke Man A Friend? 09/19/16. 7:45am\r\n&quot;Stars Of Satellite Radio&quot; Show Clips. 09/19/16. 8:00am\r\nNorm Macdonald Visits. 09/19/16. 8:45am\r\nRobin's News. 09/19/16. 10:50am",
+  "parsed": {
+    "xt": "urn:btih:927fd4294e9d4acc360e5cae62281be2c9067e2a",
+    "dn": "Howard Stern Show SEP 19 2016 Mon",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "927fd4294e9d4acc360e5cae62281be2c9067e2a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        146,
+        127,
+        212,
+        41,
+        78,
+        157,
+        74,
+        204,
+        54,
+        14,
+        92,
+        174,
+        98,
+        40,
+        27,
+        226,
+        201,
+        6,
+        126,
+        42
+      ]
+    },
+    "name": "Howard Stern Show SEP 19 2016 Mon",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 132,
+  "peers": 41,
+  "last_updated": "2016-12-25T08:01:00.771Z"
+}

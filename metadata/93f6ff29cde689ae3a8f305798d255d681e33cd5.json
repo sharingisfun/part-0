@@ -1,1 +1,61 @@
-{"title":"Parks and Recreation S02E01 HDTV XviD-2HD [eztv]","uid":5092362,"size":182541070,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:93f6ff29cde689ae3a8f305798d255d681e33cd5&amp;dn=Parks+and+Recreation+S02E01+HDTV+XviD-2HD+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":1,"uploader":"eztv","files":1,"time":1253246498,"description":"#EZTV @ EFNet -&gt; http://eztv.it/\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW","torrent":{"xt":"urn:btih:93f6ff29cde689ae3a8f305798d255d681e33cd5","amp;dn":"Parks+and+Recreation+S02E01+HDTV+XviD-2HD+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"93f6ff29cde689ae3a8f305798d255d681e33cd5","infoHashBuffer":{"type":"Buffer","data":[147,246,255,41,205,230,137,174,58,143,48,87,152,210,85,214,129,227,60,213]},"announce":[],"urlList":[]}}
+{
+  "title": "Parks and Recreation S02E01 HDTV XviD-2HD [eztv]",
+  "uid": 5092362,
+  "size": 182541070,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:93f6ff29cde689ae3a8f305798d255d681e33cd5&amp;dn=Parks+and+Recreation+S02E01+HDTV+XviD-2HD+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 1,
+  "uploader": "eztv",
+  "files": 1,
+  "time": 1253246498,
+  "description": "#EZTV @ EFNet -&gt; http://eztv.it/\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW",
+  "parsed": {
+    "xt": "urn:btih:93f6ff29cde689ae3a8f305798d255d681e33cd5",
+    "dn": "Parks and Recreation S02E01 HDTV XviD-2HD [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "93f6ff29cde689ae3a8f305798d255d681e33cd5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        147,
+        246,
+        255,
+        41,
+        205,
+        230,
+        137,
+        174,
+        58,
+        143,
+        48,
+        87,
+        152,
+        210,
+        85,
+        214,
+        129,
+        227,
+        60,
+        213
+      ]
+    },
+    "name": "Parks and Recreation S02E01 HDTV XviD-2HD [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 13,
+  "last_updated": "2016-12-25T08:10:20.813Z"
+}

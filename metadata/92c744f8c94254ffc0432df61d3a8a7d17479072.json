@@ -1,1 +1,61 @@
-{"title":"Fatboy Slim - The Greatest Hits &amp; Remixed / 3CD","uid":11674975,"size":460959913,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:92c744f8c94254ffc0432df61d3a8a7d17479072&amp;dn=Fatboy+Slim+-+The+Greatest+Hits+%26amp%3B+Remixed+%2F+3CD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":5,"uploader":"Drebben","files":46,"time":1422818142,"description":"Fatboy Slim\n\nCD 1: The Greatest Hits: Why Try Harder (2006)\n\nCD 2 &amp; CD 3: The Greatest Hits: Remixed (2007)\n\n3 CDs / 2006, 2007 / 320Kbps\n\n:)","torrent":{"xt":"urn:btih:92c744f8c94254ffc0432df61d3a8a7d17479072","amp;dn":"Fatboy+Slim+-+The+Greatest+Hits+%26amp%3B+Remixed+%2F+3CD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"92c744f8c94254ffc0432df61d3a8a7d17479072","infoHashBuffer":{"type":"Buffer","data":[146,199,68,248,201,66,84,255,192,67,45,246,29,58,138,125,23,71,144,114]},"announce":[],"urlList":[]}}
+{
+  "title": "Fatboy Slim - The Greatest Hits &amp; Remixed / 3CD",
+  "uid": 11674975,
+  "size": 460959913,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:92c744f8c94254ffc0432df61d3a8a7d17479072&amp;dn=Fatboy+Slim+-+The+Greatest+Hits+%26amp%3B+Remixed+%2F+3CD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 5,
+  "uploader": "Drebben",
+  "files": 46,
+  "time": 1422818142,
+  "description": "Fatboy Slim\n\nCD 1: The Greatest Hits: Why Try Harder (2006)\n\nCD 2 &amp; CD 3: The Greatest Hits: Remixed (2007)\n\n3 CDs / 2006, 2007 / 320Kbps\n\n:)",
+  "parsed": {
+    "xt": "urn:btih:92c744f8c94254ffc0432df61d3a8a7d17479072",
+    "dn": "Fatboy Slim - The Greatest Hits &amp; Remixed / 3CD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "92c744f8c94254ffc0432df61d3a8a7d17479072",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        146,
+        199,
+        68,
+        248,
+        201,
+        66,
+        84,
+        255,
+        192,
+        67,
+        45,
+        246,
+        29,
+        58,
+        138,
+        125,
+        23,
+        71,
+        144,
+        114
+      ]
+    },
+    "name": "Fatboy Slim - The Greatest Hits &amp; Remixed / 3CD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 18,
+  "last_updated": "2016-12-25T08:02:45.097Z"
+}

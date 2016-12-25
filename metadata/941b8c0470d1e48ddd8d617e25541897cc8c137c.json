@@ -1,1 +1,61 @@
-{"title":"Cheech And Chong Up In Smoke","uid":5003987,"size":891316224,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:941b8c0470d1e48ddd8d617e25541897cc8c137c&amp;dn=Cheech+And+Chong+Up+In+Smoke&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":89,"leechers":3,"uploader":"LilHess","files":1,"time":1247649702,"description":"Cheech Chong","torrent":{"xt":"urn:btih:941b8c0470d1e48ddd8d617e25541897cc8c137c","amp;dn":"Cheech+And+Chong+Up+In+Smoke","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"941b8c0470d1e48ddd8d617e25541897cc8c137c","infoHashBuffer":{"type":"Buffer","data":[148,27,140,4,112,209,228,141,221,141,97,126,37,84,24,151,204,140,19,124]},"announce":[],"urlList":[]}}
+{
+  "title": "Cheech And Chong Up In Smoke",
+  "uid": 5003987,
+  "size": 891316224,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:941b8c0470d1e48ddd8d617e25541897cc8c137c&amp;dn=Cheech+And+Chong+Up+In+Smoke&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 89,
+  "leechers": 3,
+  "uploader": "LilHess",
+  "files": 1,
+  "time": 1247649702,
+  "description": "Cheech Chong",
+  "parsed": {
+    "xt": "urn:btih:941b8c0470d1e48ddd8d617e25541897cc8c137c",
+    "dn": "Cheech And Chong Up In Smoke",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "941b8c0470d1e48ddd8d617e25541897cc8c137c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        148,
+        27,
+        140,
+        4,
+        112,
+        209,
+        228,
+        141,
+        221,
+        141,
+        97,
+        126,
+        37,
+        84,
+        24,
+        151,
+        204,
+        140,
+        19,
+        124
+      ]
+    },
+    "name": "Cheech And Chong Up In Smoke",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 92,
+  "peers": 0,
+  "last_updated": "2016-12-25T08:11:14.975Z"
+}

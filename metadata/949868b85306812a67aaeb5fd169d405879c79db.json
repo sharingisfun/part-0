@@ -1,1 +1,61 @@
-{"title":"The Tao of Badass NO PASSWORD","uid":7443418,"size":9362634,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:949868b85306812a67aaeb5fd169d405879c79db&amp;dn=The+Tao+of+Badass+NO+PASSWORD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":104,"leechers":1,"uploader":"nicho1385","files":1,"time":1342289518,"description":"This is the main e-book 'The Tao of Badass' password free pdf","torrent":{"xt":"urn:btih:949868b85306812a67aaeb5fd169d405879c79db","amp;dn":"The+Tao+of+Badass+NO+PASSWORD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"949868b85306812a67aaeb5fd169d405879c79db","infoHashBuffer":{"type":"Buffer","data":[148,152,104,184,83,6,129,42,103,170,235,95,209,105,212,5,135,156,121,219]},"announce":[],"urlList":[]}}
+{
+  "title": "The Tao of Badass NO PASSWORD",
+  "uid": 7443418,
+  "size": 9362634,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:949868b85306812a67aaeb5fd169d405879c79db&amp;dn=The+Tao+of+Badass+NO+PASSWORD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 104,
+  "leechers": 1,
+  "uploader": "nicho1385",
+  "files": 1,
+  "time": 1342289518,
+  "description": "This is the main e-book 'The Tao of Badass' password free pdf",
+  "parsed": {
+    "xt": "urn:btih:949868b85306812a67aaeb5fd169d405879c79db",
+    "dn": "The Tao of Badass NO PASSWORD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "949868b85306812a67aaeb5fd169d405879c79db",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        148,
+        152,
+        104,
+        184,
+        83,
+        6,
+        129,
+        42,
+        103,
+        170,
+        235,
+        95,
+        209,
+        105,
+        212,
+        5,
+        135,
+        156,
+        121,
+        219
+      ]
+    },
+    "name": "The Tao of Badass NO PASSWORD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 105,
+  "peers": 36,
+  "last_updated": "2016-12-25T08:14:15.581Z"
+}

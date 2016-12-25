@@ -1,1 +1,61 @@
-{"title":"AC-DC - Live Thunderstruck 2015 ak","uid":12165054,"size":248300585,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:93b86c3227c3080296c8cc903b53503d5fd47abb&amp;dn=AC-DC+-+Live+Thunderstruck+2015+ak&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":126,"leechers":8,"uploader":"analogkid6103","files":19,"time":1438008410,"description":"\n\tAC-DC\n2015 \tLive Thunderstruck\nMetal Heavy metal BWHM Lionheart\n\nCD Album\nCollection Edition\n\n    Thunderstruck\n    Back In Black\n    Black Ice\n    You Shook Me All Night Long\n    T.N.T\n    Highway To Hell\n    Dog Eat Dog\n    Dirty Deeds Done Dirt Cheap\n    Hell Ain't a Bad Place to Be\n    Whole Lotta Rosie\n    Let There Be Rock\n    Moneytalks\n    Heatseeker\n    Rock N Roll Train\n    Rock or Bust\n    Shoot to Thrill\n    The Jack\n    Hells Bells","torrent":{"xt":"urn:btih:93b86c3227c3080296c8cc903b53503d5fd47abb","amp;dn":"AC-DC+-+Live+Thunderstruck+2015+ak","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"93b86c3227c3080296c8cc903b53503d5fd47abb","infoHashBuffer":{"type":"Buffer","data":[147,184,108,50,39,195,8,2,150,200,204,144,59,83,80,61,95,212,122,187]},"announce":[],"urlList":[]}}
+{
+  "title": "AC-DC - Live Thunderstruck 2015 ak",
+  "uid": 12165054,
+  "size": 248300585,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:93b86c3227c3080296c8cc903b53503d5fd47abb&amp;dn=AC-DC+-+Live+Thunderstruck+2015+ak&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 126,
+  "leechers": 8,
+  "uploader": "analogkid6103",
+  "files": 19,
+  "time": 1438008410,
+  "description": "\n\tAC-DC\n2015 \tLive Thunderstruck\nMetal Heavy metal BWHM Lionheart\n\nCD Album\nCollection Edition\n\n    Thunderstruck\n    Back In Black\n    Black Ice\n    You Shook Me All Night Long\n    T.N.T\n    Highway To Hell\n    Dog Eat Dog\n    Dirty Deeds Done Dirt Cheap\n    Hell Ain't a Bad Place to Be\n    Whole Lotta Rosie\n    Let There Be Rock\n    Moneytalks\n    Heatseeker\n    Rock N Roll Train\n    Rock or Bust\n    Shoot to Thrill\n    The Jack\n    Hells Bells",
+  "parsed": {
+    "xt": "urn:btih:93b86c3227c3080296c8cc903b53503d5fd47abb",
+    "dn": "AC-DC - Live Thunderstruck 2015 ak",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "93b86c3227c3080296c8cc903b53503d5fd47abb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        147,
+        184,
+        108,
+        50,
+        39,
+        195,
+        8,
+        2,
+        150,
+        200,
+        204,
+        144,
+        59,
+        83,
+        80,
+        61,
+        95,
+        212,
+        122,
+        187
+      ]
+    },
+    "name": "AC-DC - Live Thunderstruck 2015 ak",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 134,
+  "peers": 0,
+  "last_updated": "2016-12-25T08:08:34.358Z"
+}

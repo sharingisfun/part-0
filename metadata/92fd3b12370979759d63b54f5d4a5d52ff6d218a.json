@@ -1,1 +1,61 @@
-{"title":"Forever.US.S01E14.HDTV.x264-LOL[ettv]","uid":11677500,"size":226104314,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:92fd3b12370979759d63b54f5d4a5d52ff6d218a&amp;dn=Forever.US.S01E14.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":159,"leechers":5,"uploader":"ettv","files":3,"time":1422936066,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:92fd3b12370979759d63b54f5d4a5d52ff6d218a","amp;dn":"Forever.US.S01E14.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"92fd3b12370979759d63b54f5d4a5d52ff6d218a","infoHashBuffer":{"type":"Buffer","data":[146,253,59,18,55,9,121,117,157,99,181,79,93,74,93,82,255,109,33,138]},"announce":[],"urlList":[]}}
+{
+  "title": "Forever.US.S01E14.HDTV.x264-LOL[ettv]",
+  "uid": 11677500,
+  "size": 226104314,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:92fd3b12370979759d63b54f5d4a5d52ff6d218a&amp;dn=Forever.US.S01E14.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 159,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1422936066,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:92fd3b12370979759d63b54f5d4a5d52ff6d218a",
+    "dn": "Forever.US.S01E14.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "92fd3b12370979759d63b54f5d4a5d52ff6d218a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        146,
+        253,
+        59,
+        18,
+        55,
+        9,
+        121,
+        117,
+        157,
+        99,
+        181,
+        79,
+        93,
+        74,
+        93,
+        82,
+        255,
+        109,
+        33,
+        138
+      ]
+    },
+    "name": "Forever.US.S01E14.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 164,
+  "peers": 2,
+  "last_updated": "2016-12-25T08:03:59.332Z"
+}

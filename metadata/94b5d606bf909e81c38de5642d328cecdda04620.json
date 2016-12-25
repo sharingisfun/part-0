@@ -1,1 +1,63 @@
-{"title":"Earthlock.Festival.of.Magic-CODEX","uid":15964290,"size":12822385,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:94b5d606bf909e81c38de5642d328cecdda04620&amp;dn=Earthlock.Festival.of.Magic-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":114,"leechers":78,"uploader":"trwetwr","files":4,"time":1475707337,"description":"Good Game","torrent":{"xt":"urn:btih:94b5d606bf909e81c38de5642d328cecdda04620","amp;dn":"Earthlock.Festival.of.Magic-CODEX","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"94b5d606bf909e81c38de5642d328cecdda04620","infoHashBuffer":{"type":"Buffer","data":[148,181,214,6,191,144,158,129,195,141,229,100,45,50,140,236,221,160,70,32]},"announce":[],"urlList":[]}}
+{
+  "title": "Earthlock.Festival.of.Magic-CODEX",
+  "uid": 15964290,
+  "size": 12822385,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:94b5d606bf909e81c38de5642d328cecdda04620&amp;dn=Earthlock.Festival.of.Magic-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 114,
+  "leechers": 78,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475707337,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:94b5d606bf909e81c38de5642d328cecdda04620",
+    "dn": "Earthlock.Festival.of.Magic-CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "94b5d606bf909e81c38de5642d328cecdda04620",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        148,
+        181,
+        214,
+        6,
+        191,
+        144,
+        158,
+        129,
+        195,
+        141,
+        229,
+        100,
+        45,
+        50,
+        140,
+        236,
+        221,
+        160,
+        70,
+        32
+      ]
+    },
+    "name": "Earthlock.Festival.of.Magic-CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 192,
+  "peers": 2,
+  "last_updated": "2016-12-25T08:15:01.704Z"
+}
