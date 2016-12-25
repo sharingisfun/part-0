@@ -1,1 +1,61 @@
-{"title":"Teen Wolf S04E03 HDTV x264-ASAP[ettv]","uid":10507405,"size":301303053,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f02c23e7a26cdaacb39bc4d58403386724cdde5d&amp;dn=Teen+Wolf+S04E03+HDTV+x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":5,"uploader":"ettv","files":2,"time":1404795717,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:f02c23e7a26cdaacb39bc4d58403386724cdde5d","amp;dn":"Teen+Wolf+S04E03+HDTV+x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f02c23e7a26cdaacb39bc4d58403386724cdde5d","infoHashBuffer":{"type":"Buffer","data":[240,44,35,231,162,108,218,172,179,155,196,213,132,3,56,103,36,205,222,93]},"announce":[],"urlList":[]}}
+{
+  "title": "Teen Wolf S04E03 HDTV x264-ASAP[ettv]",
+  "uid": 10507405,
+  "size": 301303053,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f02c23e7a26cdaacb39bc4d58403386724cdde5d&amp;dn=Teen+Wolf+S04E03+HDTV+x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1404795717,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:f02c23e7a26cdaacb39bc4d58403386724cdde5d",
+    "dn": "Teen Wolf S04E03 HDTV x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f02c23e7a26cdaacb39bc4d58403386724cdde5d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        240,
+        44,
+        35,
+        231,
+        162,
+        108,
+        218,
+        172,
+        179,
+        155,
+        196,
+        213,
+        132,
+        3,
+        56,
+        103,
+        36,
+        205,
+        222,
+        93
+      ]
+    },
+    "name": "Teen Wolf S04E03 HDTV x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 6,
+  "last_updated": "2016-12-25T17:43:09.162Z"
+}

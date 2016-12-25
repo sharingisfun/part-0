@@ -1,1 +1,63 @@
-{"title":"Howard Stern Show OCT 3 2016 Mon","uid":15954266,"size":250734518,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:ef300cc8c63629470f7fed89853c86f299cc37df&amp;dn=Howard+Stern+Show+OCT+3+2016+Mon&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":114,"leechers":21,"uploader":"mc_gregor","files":3,"time":1475603260,"description":"2016-10-03 THE HOWARD STERN SHOW (+ Wrap-Up Show)\r\nLIVE\r\n\r\nSuave Ronnie, Revolver Special And More. 10/03/16. 7:00am\r\nHoward's Many Hairdos. 10/03/16. 7:10am\r\nRobin Lord Taylor Visits. 10/03/16. 7:30am\r\nThe Beetlejuice Song Game. 10/03/16. 8:15am\r\nKim Kardashian Robbery Discussions. 10/03/16. 8:35am\r\nPhone Calls, Beetlejuice And More. 10/03/16. 8:55am\r\nRelationship Advice For Mistress. 10/03/16. 9:45am\r\nFake Jesse Ventura Sits In. 10/03/16. 9:55am\r\nRobin's News. 10/03/16. 10:00am","torrent":{"xt":"urn:btih:ef300cc8c63629470f7fed89853c86f299cc37df","amp;dn":"Howard+Stern+Show+OCT+3+2016+Mon","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ef300cc8c63629470f7fed89853c86f299cc37df","infoHashBuffer":{"type":"Buffer","data":[239,48,12,200,198,54,41,71,15,127,237,137,133,60,134,242,153,204,55,223]},"announce":[],"urlList":[]}}
+{
+  "title": "Howard Stern Show OCT 3 2016 Mon",
+  "uid": 15954266,
+  "size": 250734518,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:ef300cc8c63629470f7fed89853c86f299cc37df&amp;dn=Howard+Stern+Show+OCT+3+2016+Mon&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 114,
+  "leechers": 21,
+  "uploader": "mc_gregor",
+  "files": 3,
+  "time": 1475603260,
+  "description": "2016-10-03 THE HOWARD STERN SHOW (+ Wrap-Up Show)\r\nLIVE\r\n\r\nSuave Ronnie, Revolver Special And More. 10/03/16. 7:00am\r\nHoward's Many Hairdos. 10/03/16. 7:10am\r\nRobin Lord Taylor Visits. 10/03/16. 7:30am\r\nThe Beetlejuice Song Game. 10/03/16. 8:15am\r\nKim Kardashian Robbery Discussions. 10/03/16. 8:35am\r\nPhone Calls, Beetlejuice And More. 10/03/16. 8:55am\r\nRelationship Advice For Mistress. 10/03/16. 9:45am\r\nFake Jesse Ventura Sits In. 10/03/16. 9:55am\r\nRobin's News. 10/03/16. 10:00am",
+  "parsed": {
+    "xt": "urn:btih:ef300cc8c63629470f7fed89853c86f299cc37df",
+    "dn": "Howard Stern Show OCT 3 2016 Mon",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "ef300cc8c63629470f7fed89853c86f299cc37df",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        239,
+        48,
+        12,
+        200,
+        198,
+        54,
+        41,
+        71,
+        15,
+        127,
+        237,
+        137,
+        133,
+        60,
+        134,
+        242,
+        153,
+        204,
+        55,
+        223
+      ]
+    },
+    "name": "Howard Stern Show OCT 3 2016 Mon",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 135,
+  "peers": 47,
+  "last_updated": "2016-12-25T17:37:06.054Z"
+}

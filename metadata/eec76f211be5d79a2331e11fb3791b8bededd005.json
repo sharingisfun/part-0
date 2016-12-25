@@ -1,1 +1,61 @@
-{"title":"Thomson Reuters EndNote X7 for Mac","uid":9126454,"size":83809892,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:eec76f211be5d79a2331e11fb3791b8bededd005&amp;dn=Thomson+Reuters+EndNote+X7+for+Mac&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":0,"uploader":"anuvab85","files":2,"time":1383237630,"description":"EndNote is a commercial reference management software package, used to manage bibliographies and references when writing essays and articles. It is produced by Thomson Reuters","torrent":{"xt":"urn:btih:eec76f211be5d79a2331e11fb3791b8bededd005","amp;dn":"Thomson+Reuters+EndNote+X7+for+Mac","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"eec76f211be5d79a2331e11fb3791b8bededd005","infoHashBuffer":{"type":"Buffer","data":[238,199,111,33,27,229,215,154,35,49,225,31,179,121,27,139,237,237,208,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Thomson Reuters EndNote X7 for Mac",
+  "uid": 9126454,
+  "size": 83809892,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:eec76f211be5d79a2331e11fb3791b8bededd005&amp;dn=Thomson+Reuters+EndNote+X7+for+Mac&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 0,
+  "uploader": "anuvab85",
+  "files": 2,
+  "time": 1383237630,
+  "description": "EndNote is a commercial reference management software package, used to manage bibliographies and references when writing essays and articles. It is produced by Thomson Reuters",
+  "parsed": {
+    "xt": "urn:btih:eec76f211be5d79a2331e11fb3791b8bededd005",
+    "dn": "Thomson Reuters EndNote X7 for Mac",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "eec76f211be5d79a2331e11fb3791b8bededd005",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        238,
+        199,
+        111,
+        33,
+        27,
+        229,
+        215,
+        154,
+        35,
+        49,
+        225,
+        31,
+        179,
+        121,
+        27,
+        139,
+        237,
+        237,
+        208,
+        5
+      ]
+    },
+    "name": "Thomson Reuters EndNote X7 for Mac",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 53,
+  "last_updated": "2016-12-25T17:33:57.367Z"
+}

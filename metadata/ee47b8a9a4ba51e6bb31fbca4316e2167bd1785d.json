@@ -1,1 +1,61 @@
-{"title":"Ariana Grande - Break Free","uid":10743212,"size":5140882,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ee47b8a9a4ba51e6bb31fbca4316e2167bd1785d&amp;dn=Ariana+Grande+-+Break+Free&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":68,"leechers":0,"uploader":"DaRistas","files":-1,"time":1407784932,"description":"Ariana Grande - Break Free\n\nquality:..........192kbps [HQ]\ndate released:....3 July 2014\nlength:...........3:35\nLabel:............Republic\nWriter(s):........Anton Zaslavski, Max Martin, Savan Kotecha\n\nEnjoy!\t\t","torrent":{"xt":"urn:btih:ee47b8a9a4ba51e6bb31fbca4316e2167bd1785d","amp;dn":"Ariana+Grande+-+Break+Free","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ee47b8a9a4ba51e6bb31fbca4316e2167bd1785d","infoHashBuffer":{"type":"Buffer","data":[238,71,184,169,164,186,81,230,187,49,251,202,67,22,226,22,123,209,120,93]},"announce":[],"urlList":[]}}
+{
+  "title": "Ariana Grande - Break Free",
+  "uid": 10743212,
+  "size": 5140882,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ee47b8a9a4ba51e6bb31fbca4316e2167bd1785d&amp;dn=Ariana+Grande+-+Break+Free&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 68,
+  "leechers": 0,
+  "uploader": "DaRistas",
+  "files": -1,
+  "time": 1407784932,
+  "description": "Ariana Grande - Break Free\n\nquality:..........192kbps [HQ]\ndate released:....3 July 2014\nlength:...........3:35\nLabel:............Republic\nWriter(s):........Anton Zaslavski, Max Martin, Savan Kotecha\n\nEnjoy!\t\t",
+  "parsed": {
+    "xt": "urn:btih:ee47b8a9a4ba51e6bb31fbca4316e2167bd1785d",
+    "dn": "Ariana Grande - Break Free",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ee47b8a9a4ba51e6bb31fbca4316e2167bd1785d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        238,
+        71,
+        184,
+        169,
+        164,
+        186,
+        81,
+        230,
+        187,
+        49,
+        251,
+        202,
+        67,
+        22,
+        226,
+        22,
+        123,
+        209,
+        120,
+        93
+      ]
+    },
+    "name": "Ariana Grande - Break Free",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 16,
+  "last_updated": "2016-12-25T17:31:04.702Z"
+}

@@ -1,1 +1,61 @@
-{"title":"PIMP by RSD Julien","uid":9625937,"size":10593383339,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:f06b69fc2227865a6abfaff557591650216373eb&amp;dn=PIMP+by+RSD+Julien&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":7,"uploader":"coinye","files":23,"time":1392592145,"description":"New Product from RSD Instructor Julien\n\n22 Videos\n\nFor advertising purposes only! Buy if you like !!!","torrent":{"xt":"urn:btih:f06b69fc2227865a6abfaff557591650216373eb","amp;dn":"PIMP+by+RSD+Julien","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f06b69fc2227865a6abfaff557591650216373eb","infoHashBuffer":{"type":"Buffer","data":[240,107,105,252,34,39,134,90,106,191,175,245,87,89,22,80,33,99,115,235]},"announce":[],"urlList":[]}}
+{
+  "title": "PIMP by RSD Julien",
+  "uid": 9625937,
+  "size": 10593383339,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:f06b69fc2227865a6abfaff557591650216373eb&amp;dn=PIMP+by+RSD+Julien&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 7,
+  "uploader": "coinye",
+  "files": 23,
+  "time": 1392592145,
+  "description": "New Product from RSD Instructor Julien\n\n22 Videos\n\nFor advertising purposes only! Buy if you like !!!",
+  "parsed": {
+    "xt": "urn:btih:f06b69fc2227865a6abfaff557591650216373eb",
+    "dn": "PIMP by RSD Julien",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f06b69fc2227865a6abfaff557591650216373eb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        240,
+        107,
+        105,
+        252,
+        34,
+        39,
+        134,
+        90,
+        106,
+        191,
+        175,
+        245,
+        87,
+        89,
+        22,
+        80,
+        33,
+        99,
+        115,
+        235
+      ]
+    },
+    "name": "PIMP by RSD Julien",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 39,
+  "last_updated": "2016-12-25T17:44:47.443Z"
+}

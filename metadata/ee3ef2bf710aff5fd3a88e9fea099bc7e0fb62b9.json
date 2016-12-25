@@ -1,1 +1,61 @@
-{"title":"Black.Sails.S02E06.HDTV.x264-ASAP[ettv]","uid":11728456,"size":471656686,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ee3ef2bf710aff5fd3a88e9fea099bc7e0fb62b9&amp;dn=Black.Sails.S02E06.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":125,"leechers":37,"uploader":"ettv","files":4,"time":1425182449,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                      &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:ee3ef2bf710aff5fd3a88e9fea099bc7e0fb62b9","amp;dn":"Black.Sails.S02E06.HDTV.x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ee3ef2bf710aff5fd3a88e9fea099bc7e0fb62b9","infoHashBuffer":{"type":"Buffer","data":[238,62,242,191,113,10,255,95,211,168,142,159,234,9,155,199,224,251,98,185]},"announce":[],"urlList":[]}}
+{
+  "title": "Black.Sails.S02E06.HDTV.x264-ASAP[ettv]",
+  "uid": 11728456,
+  "size": 471656686,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ee3ef2bf710aff5fd3a88e9fea099bc7e0fb62b9&amp;dn=Black.Sails.S02E06.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 125,
+  "leechers": 37,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1425182449,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                      &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:ee3ef2bf710aff5fd3a88e9fea099bc7e0fb62b9",
+    "dn": "Black.Sails.S02E06.HDTV.x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ee3ef2bf710aff5fd3a88e9fea099bc7e0fb62b9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        238,
+        62,
+        242,
+        191,
+        113,
+        10,
+        255,
+        95,
+        211,
+        168,
+        142,
+        159,
+        234,
+        9,
+        155,
+        199,
+        224,
+        251,
+        98,
+        185
+      ]
+    },
+    "name": "Black.Sails.S02E06.HDTV.x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 162,
+  "peers": 9,
+  "last_updated": "2016-12-25T17:30:48.642Z"
+}

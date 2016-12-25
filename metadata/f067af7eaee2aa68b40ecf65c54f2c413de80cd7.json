@@ -1,1 +1,61 @@
-{"title":"Papers Please GOG","uid":8793031,"size":30683424,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:f067af7eaee2aa68b40ecf65c54f2c413de80cd7&amp;dn=Papers+Please+GOG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":144,"leechers":0,"uploader":"AN0NYMOUS142857","files":1,"time":1376000441,"description":"Congratulations.\nThe October labor lottery is complete. Your name was pulled.\nFor immediate placement, report to the The Ministry of Admission at Grestin Border Checkpoint.\nAn apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.\nGlory to Arstotzka\n\n\nThe communist state of Arstotzka has just ended a 6-year war with neighboring Kolechia and reclaimed its rightful half of the border town, Grestin. Your job as immigration inspector is to control the flow of people entering the Arstotzkan side of Grestin from Kolechia. Among the throngs of immigrants and visitors looking for work are hidden smugglers, spies, and terrorists. Using only the documents provided by travelers and the Ministry of Admission's primitive inspect, search, and fingerprint systems you must decide who can enter Arstotzka and who will be turned away or arrested.\n\nInstructions:\n\n1. Install\n2. Play\n\nAll extras are included and you can find them in the Assets folder after installing the game.\n","torrent":{"xt":"urn:btih:f067af7eaee2aa68b40ecf65c54f2c413de80cd7","amp;dn":"Papers+Please+GOG","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f067af7eaee2aa68b40ecf65c54f2c413de80cd7","infoHashBuffer":{"type":"Buffer","data":[240,103,175,126,174,226,170,104,180,14,207,101,197,79,44,65,61,232,12,215]},"announce":[],"urlList":[]}}
+{
+  "title": "Papers Please GOG",
+  "uid": 8793031,
+  "size": 30683424,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:f067af7eaee2aa68b40ecf65c54f2c413de80cd7&amp;dn=Papers+Please+GOG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 144,
+  "leechers": 0,
+  "uploader": "AN0NYMOUS142857",
+  "files": 1,
+  "time": 1376000441,
+  "description": "Congratulations.\nThe October labor lottery is complete. Your name was pulled.\nFor immediate placement, report to the The Ministry of Admission at Grestin Border Checkpoint.\nAn apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.\nGlory to Arstotzka\n\n\nThe communist state of Arstotzka has just ended a 6-year war with neighboring Kolechia and reclaimed its rightful half of the border town, Grestin. Your job as immigration inspector is to control the flow of people entering the Arstotzkan side of Grestin from Kolechia. Among the throngs of immigrants and visitors looking for work are hidden smugglers, spies, and terrorists. Using only the documents provided by travelers and the Ministry of Admission's primitive inspect, search, and fingerprint systems you must decide who can enter Arstotzka and who will be turned away or arrested.\n\nInstructions:\n\n1. Install\n2. Play\n\nAll extras are included and you can find them in the Assets folder after installing the game.\n",
+  "parsed": {
+    "xt": "urn:btih:f067af7eaee2aa68b40ecf65c54f2c413de80cd7",
+    "dn": "Papers Please GOG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f067af7eaee2aa68b40ecf65c54f2c413de80cd7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        240,
+        103,
+        175,
+        126,
+        174,
+        226,
+        170,
+        104,
+        180,
+        14,
+        207,
+        101,
+        197,
+        79,
+        44,
+        65,
+        61,
+        232,
+        12,
+        215
+      ]
+    },
+    "name": "Papers Please GOG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 144,
+  "peers": 253,
+  "last_updated": "2016-12-25T17:44:29.389Z"
+}

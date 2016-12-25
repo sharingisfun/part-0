@@ -1,1 +1,61 @@
-{"title":"Guitar Hero World Tour","uid":6950915,"size":6607585280,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:ee4dc15e2653404499a047e345d3a98ddfd95c10&amp;dn=Guitar+Hero+World+Tour&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":77,"leechers":13,"uploader":"gtamod2","files":1,"time":1326397240,"description":"Guitar Hero World Tour un buen juego ","torrent":{"xt":"urn:btih:ee4dc15e2653404499a047e345d3a98ddfd95c10","amp;dn":"Guitar+Hero+World+Tour","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ee4dc15e2653404499a047e345d3a98ddfd95c10","infoHashBuffer":{"type":"Buffer","data":[238,77,193,94,38,83,64,68,153,160,71,227,69,211,169,141,223,217,92,16]},"announce":[],"urlList":[]}}
+{
+  "title": "Guitar Hero World Tour",
+  "uid": 6950915,
+  "size": 6607585280,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:ee4dc15e2653404499a047e345d3a98ddfd95c10&amp;dn=Guitar+Hero+World+Tour&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 77,
+  "leechers": 13,
+  "uploader": "gtamod2",
+  "files": 1,
+  "time": 1326397240,
+  "description": "Guitar Hero World Tour un buen juego ",
+  "parsed": {
+    "xt": "urn:btih:ee4dc15e2653404499a047e345d3a98ddfd95c10",
+    "dn": "Guitar Hero World Tour",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ee4dc15e2653404499a047e345d3a98ddfd95c10",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        238,
+        77,
+        193,
+        94,
+        38,
+        83,
+        64,
+        68,
+        153,
+        160,
+        71,
+        227,
+        69,
+        211,
+        169,
+        141,
+        223,
+        217,
+        92,
+        16
+      ]
+    },
+    "name": "Guitar Hero World Tour",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 90,
+  "peers": 89,
+  "last_updated": "2016-12-25T17:31:16.749Z"
+}

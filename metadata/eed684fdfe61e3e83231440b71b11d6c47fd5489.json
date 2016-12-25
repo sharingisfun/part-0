@@ -1,1 +1,61 @@
-{"title":"ODESZA - In Return [2014] [MP3 320kbps]","uid":10960823,"size":121748756,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:eed684fdfe61e3e83231440b71b11d6c47fd5489&amp;dn=ODESZA+-+In+Return+%5B2014%5D+%5BMP3+320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":176,"leechers":6,"uploader":"Phuk0ff","files":14,"time":1409716063,"description":"Artist: ODESZA\nAlbum: In Return\nYear: 2014\nFormat: MP3 320kbps\n\nTracks:\n01. Always This Late\n02. Say My Name (feat. Zyra)\n03. Bloom\n04. All We Need (feat. Shy Girls)\n05. Sundara\n06. White Lies (feat. Jenni Potts)\n07. Kusanagi\n08. Echoes (feat. Py)\n09. It's Only (feat. Zyra)\n10. Koto\n11. Memories That You Call(feat. Monsoonsiren)\n12. Sun Models (feat. Madelyn Grant)\n13. For Us (feat. Briana Marela)","torrent":{"xt":"urn:btih:eed684fdfe61e3e83231440b71b11d6c47fd5489","amp;dn":"ODESZA+-+In+Return+%5B2014%5D+%5BMP3+320kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"eed684fdfe61e3e83231440b71b11d6c47fd5489","infoHashBuffer":{"type":"Buffer","data":[238,214,132,253,254,97,227,232,50,49,68,11,113,177,29,108,71,253,84,137]},"announce":[],"urlList":[]}}
+{
+  "title": "ODESZA - In Return [2014] [MP3 320kbps]",
+  "uid": 10960823,
+  "size": 121748756,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:eed684fdfe61e3e83231440b71b11d6c47fd5489&amp;dn=ODESZA+-+In+Return+%5B2014%5D+%5BMP3+320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 176,
+  "leechers": 6,
+  "uploader": "Phuk0ff",
+  "files": 14,
+  "time": 1409716063,
+  "description": "Artist: ODESZA\nAlbum: In Return\nYear: 2014\nFormat: MP3 320kbps\n\nTracks:\n01. Always This Late\n02. Say My Name (feat. Zyra)\n03. Bloom\n04. All We Need (feat. Shy Girls)\n05. Sundara\n06. White Lies (feat. Jenni Potts)\n07. Kusanagi\n08. Echoes (feat. Py)\n09. It's Only (feat. Zyra)\n10. Koto\n11. Memories That You Call(feat. Monsoonsiren)\n12. Sun Models (feat. Madelyn Grant)\n13. For Us (feat. Briana Marela)",
+  "parsed": {
+    "xt": "urn:btih:eed684fdfe61e3e83231440b71b11d6c47fd5489",
+    "dn": "ODESZA - In Return [2014] [MP3 320kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "eed684fdfe61e3e83231440b71b11d6c47fd5489",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        238,
+        214,
+        132,
+        253,
+        254,
+        97,
+        227,
+        232,
+        50,
+        49,
+        68,
+        11,
+        113,
+        177,
+        29,
+        108,
+        71,
+        253,
+        84,
+        137
+      ]
+    },
+    "name": "ODESZA - In Return [2014] [MP3 320kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 182,
+  "peers": 50,
+  "last_updated": "2016-12-25T17:34:17.442Z"
+}

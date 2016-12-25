@@ -1,1 +1,61 @@
-{"title":"PrettyLights-BT","uid":6863761,"size":383133030,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:ee3eb1acec1dc7adc73eda16d05a495bea1dd4be&amp;dn=PrettyLights-BT&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":201,"leechers":0,"uploader":"FRITZBox","files":-1,"time":1323014543,"description":"Pretty Lights download package. This includes:\n\n- I Know The Truth\n- Glowing in the Darkest Night\n- Spilling Over Every Side\n- Making up a Changing Mind\n- Bonnaroo video\n\nPlease enjoy the free Pretty Lights Music.\n\nYou can download all Pretty Lights Music for free here:  &lt;a href=&quot;\nhttp:","torrent":{"xt":"urn:btih:ee3eb1acec1dc7adc73eda16d05a495bea1dd4be","amp;dn":"PrettyLights-BT","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ee3eb1acec1dc7adc73eda16d05a495bea1dd4be","infoHashBuffer":{"type":"Buffer","data":[238,62,177,172,236,29,199,173,199,62,218,22,208,90,73,91,234,29,212,190]},"announce":[],"urlList":[]}}
+{
+  "title": "PrettyLights-BT",
+  "uid": 6863761,
+  "size": 383133030,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:ee3eb1acec1dc7adc73eda16d05a495bea1dd4be&amp;dn=PrettyLights-BT&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 201,
+  "leechers": 0,
+  "uploader": "FRITZBox",
+  "files": -1,
+  "time": 1323014543,
+  "description": "Pretty Lights download package. This includes:\n\n- I Know The Truth\n- Glowing in the Darkest Night\n- Spilling Over Every Side\n- Making up a Changing Mind\n- Bonnaroo video\n\nPlease enjoy the free Pretty Lights Music.\n\nYou can download all Pretty Lights Music for free here:  &lt;a href=&quot;\nhttp:",
+  "parsed": {
+    "xt": "urn:btih:ee3eb1acec1dc7adc73eda16d05a495bea1dd4be",
+    "dn": "PrettyLights-BT",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ee3eb1acec1dc7adc73eda16d05a495bea1dd4be",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        238,
+        62,
+        177,
+        172,
+        236,
+        29,
+        199,
+        173,
+        199,
+        62,
+        218,
+        22,
+        208,
+        90,
+        73,
+        91,
+        234,
+        29,
+        212,
+        190
+      ]
+    },
+    "name": "PrettyLights-BT",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 201,
+  "peers": 99,
+  "last_updated": "2016-12-25T17:30:46.637Z"
+}

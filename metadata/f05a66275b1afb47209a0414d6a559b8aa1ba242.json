@@ -1,1 +1,61 @@
-{"title":"Bruno Mars - Locked Out Of Heaven.mp3","uid":7865810,"size":9444365,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:f05a66275b1afb47209a0414d6a559b8aa1ba242&amp;dn=Bruno+Mars+-+Locked+Out+Of+Heaven.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":0,"uploader":"GM_CSH","files":-1,"time":1354058298,"description":"Bruno Mars - Locked out of Heaven\n\nFile Format - MP3 320kbps\n\nGenre - Pop\n\nYear - 2012\n\nPlease enjoy Bruno Mars latest release\n\nEncoded by a GrandMaster\n\nSharing is Caring\n\nppp:)\n\nEnjoy!","torrent":{"xt":"urn:btih:f05a66275b1afb47209a0414d6a559b8aa1ba242","amp;dn":"Bruno+Mars+-+Locked+Out+Of+Heaven.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f05a66275b1afb47209a0414d6a559b8aa1ba242","infoHashBuffer":{"type":"Buffer","data":[240,90,102,39,91,26,251,71,32,154,4,20,214,165,89,184,170,27,162,66]},"announce":[],"urlList":[]}}
+{
+  "title": "Bruno Mars - Locked Out Of Heaven.mp3",
+  "uid": 7865810,
+  "size": 9444365,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:f05a66275b1afb47209a0414d6a559b8aa1ba242&amp;dn=Bruno+Mars+-+Locked+Out+Of+Heaven.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 0,
+  "uploader": "GM_CSH",
+  "files": -1,
+  "time": 1354058298,
+  "description": "Bruno Mars - Locked out of Heaven\n\nFile Format - MP3 320kbps\n\nGenre - Pop\n\nYear - 2012\n\nPlease enjoy Bruno Mars latest release\n\nEncoded by a GrandMaster\n\nSharing is Caring\n\nppp:)\n\nEnjoy!",
+  "parsed": {
+    "xt": "urn:btih:f05a66275b1afb47209a0414d6a559b8aa1ba242",
+    "dn": "Bruno Mars - Locked Out Of Heaven.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f05a66275b1afb47209a0414d6a559b8aa1ba242",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        240,
+        90,
+        102,
+        39,
+        91,
+        26,
+        251,
+        71,
+        32,
+        154,
+        4,
+        20,
+        214,
+        165,
+        89,
+        184,
+        170,
+        27,
+        162,
+        66
+      ]
+    },
+    "name": "Bruno Mars - Locked Out Of Heaven.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 18,
+  "last_updated": "2016-12-25T17:44:09.335Z"
+}

@@ -1,1 +1,61 @@
-{"title":"One Tree Hill Season 6 Complete HDTV","uid":5021591,"size":8804859310,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ef5a1127c76fc411fc817c8eccba9902ff948378&amp;dn=One+Tree+Hill+Season+6+Complete+HDTV&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":27,"uploader":"bleebeezy","files":24,"time":1248483285,"description":"All 24 episodes of one tree hill season 6 collected from HDTV uploads. I've watched them all myself and they all work. Enjoy! =)","torrent":{"xt":"urn:btih:ef5a1127c76fc411fc817c8eccba9902ff948378","amp;dn":"One+Tree+Hill+Season+6+Complete+HDTV","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ef5a1127c76fc411fc817c8eccba9902ff948378","infoHashBuffer":{"type":"Buffer","data":[239,90,17,39,199,111,196,17,252,129,124,142,204,186,153,2,255,148,131,120]},"announce":[],"urlList":[]}}
+{
+  "title": "One Tree Hill Season 6 Complete HDTV",
+  "uid": 5021591,
+  "size": 8804859310,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ef5a1127c76fc411fc817c8eccba9902ff948378&amp;dn=One+Tree+Hill+Season+6+Complete+HDTV&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 27,
+  "uploader": "bleebeezy",
+  "files": 24,
+  "time": 1248483285,
+  "description": "All 24 episodes of one tree hill season 6 collected from HDTV uploads. I've watched them all myself and they all work. Enjoy! =)",
+  "parsed": {
+    "xt": "urn:btih:ef5a1127c76fc411fc817c8eccba9902ff948378",
+    "dn": "One Tree Hill Season 6 Complete HDTV",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ef5a1127c76fc411fc817c8eccba9902ff948378",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        239,
+        90,
+        17,
+        39,
+        199,
+        111,
+        196,
+        17,
+        252,
+        129,
+        124,
+        142,
+        204,
+        186,
+        153,
+        2,
+        255,
+        148,
+        131,
+        120
+      ]
+    },
+    "name": "One Tree Hill Season 6 Complete HDTV",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 20,
+  "last_updated": "2016-12-25T17:37:58.244Z"
+}

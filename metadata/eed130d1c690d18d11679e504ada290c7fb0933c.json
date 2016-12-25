@@ -1,1 +1,61 @@
-{"title":"Resurrection US S01E01 HDTV x264-LOL[ettv]","uid":9734067,"size":299937287,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:eed130d1c690d18d11679e504ada290c7fb0933c&amp;dn=Resurrection+US+S01E01+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":0,"uploader":"ettv","files":2,"time":1394420633,"description":"Resurrection US S01E01 HDTV x264-LOL ","torrent":{"xt":"urn:btih:eed130d1c690d18d11679e504ada290c7fb0933c","amp;dn":"Resurrection+US+S01E01+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"eed130d1c690d18d11679e504ada290c7fb0933c","infoHashBuffer":{"type":"Buffer","data":[238,209,48,209,198,144,209,141,17,103,158,80,74,218,41,12,127,176,147,60]},"announce":[],"urlList":[]}}
+{
+  "title": "Resurrection US S01E01 HDTV x264-LOL[ettv]",
+  "uid": 9734067,
+  "size": 299937287,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:eed130d1c690d18d11679e504ada290c7fb0933c&amp;dn=Resurrection+US+S01E01+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 0,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1394420633,
+  "description": "Resurrection US S01E01 HDTV x264-LOL ",
+  "parsed": {
+    "xt": "urn:btih:eed130d1c690d18d11679e504ada290c7fb0933c",
+    "dn": "Resurrection US S01E01 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "eed130d1c690d18d11679e504ada290c7fb0933c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        238,
+        209,
+        48,
+        209,
+        198,
+        144,
+        209,
+        141,
+        17,
+        103,
+        158,
+        80,
+        74,
+        218,
+        41,
+        12,
+        127,
+        176,
+        147,
+        60
+      ]
+    },
+    "name": "Resurrection US S01E01 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 8,
+  "last_updated": "2016-12-25T17:34:09.413Z"
+}

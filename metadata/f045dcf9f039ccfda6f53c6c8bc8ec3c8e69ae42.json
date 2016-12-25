@@ -1,1 +1,61 @@
-{"title":"VLC Media Player 2.2.0 x86x64 Final-=TEAM OS=-{HKRG}","uid":11726968,"size":58312145,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:f045dcf9f039ccfda6f53c6c8bc8ec3c8e69ae42&amp;dn=VLC+Media+Player+2.2.0+x86x64+Final-%3DTEAM+OS%3D-%7BHKRG%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":2,"uploader":"OnlyByTheRain","files":3,"time":1425107861,"description":"VLC Media Player 2.2.0 x86x64 Final\n\nThe VideoLAN project targets multimedia streaming of MPEG-1, MPEG-2, MPEG-4 and DivX files, DVDs, digital satellite channels,\ndigital terrestial television channels and live videos on a high-bandwidth IPv4 or IPv6 network in unicast or multicast under many OSes.\nVideoLAN also features a cross-platform multimedia player, VLC, which can be used to read the stream from the network or display video read locally on the computer under all GNU/Linux flavours,\nall BSD flavours, Windows, Mac OS X, BeOS, Solaris, QNX, Familiar Linux. VideoLAN is free software, and is released under the GNU General Public License.\nIt started as a student project at the French Ãƒâ€°cole Centrale Paris but is now a worldwide project with developers from 20 countries","torrent":{"xt":"urn:btih:f045dcf9f039ccfda6f53c6c8bc8ec3c8e69ae42","amp;dn":"VLC+Media+Player+2.2.0+x86x64+Final-%3DTEAM+OS%3D-%7BHKRG%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f045dcf9f039ccfda6f53c6c8bc8ec3c8e69ae42","infoHashBuffer":{"type":"Buffer","data":[240,69,220,249,240,57,204,253,166,245,60,108,139,200,236,60,142,105,174,66]},"announce":[],"urlList":[]}}
+{
+  "title": "VLC Media Player 2.2.0 x86x64 Final-=TEAM OS=-{HKRG}",
+  "uid": 11726968,
+  "size": 58312145,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:f045dcf9f039ccfda6f53c6c8bc8ec3c8e69ae42&amp;dn=VLC+Media+Player+2.2.0+x86x64+Final-%3DTEAM+OS%3D-%7BHKRG%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 2,
+  "uploader": "OnlyByTheRain",
+  "files": 3,
+  "time": 1425107861,
+  "description": "VLC Media Player 2.2.0 x86x64 Final\n\nThe VideoLAN project targets multimedia streaming of MPEG-1, MPEG-2, MPEG-4 and DivX files, DVDs, digital satellite channels,\ndigital terrestial television channels and live videos on a high-bandwidth IPv4 or IPv6 network in unicast or multicast under many OSes.\nVideoLAN also features a cross-platform multimedia player, VLC, which can be used to read the stream from the network or display video read locally on the computer under all GNU/Linux flavours,\nall BSD flavours, Windows, Mac OS X, BeOS, Solaris, QNX, Familiar Linux. VideoLAN is free software, and is released under the GNU General Public License.\nIt started as a student project at the French Ãƒâ€°cole Centrale Paris but is now a worldwide project with developers from 20 countries",
+  "parsed": {
+    "xt": "urn:btih:f045dcf9f039ccfda6f53c6c8bc8ec3c8e69ae42",
+    "dn": "VLC Media Player 2.2.0 x86x64 Final-=TEAM OS=-{HKRG}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f045dcf9f039ccfda6f53c6c8bc8ec3c8e69ae42",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        240,
+        69,
+        220,
+        249,
+        240,
+        57,
+        204,
+        253,
+        166,
+        245,
+        60,
+        108,
+        139,
+        200,
+        236,
+        60,
+        142,
+        105,
+        174,
+        66
+      ]
+    },
+    "name": "VLC Media Player 2.2.0 x86x64 Final-=TEAM OS=-{HKRG}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 7,
+  "last_updated": "2016-12-25T17:43:43.264Z"
+}

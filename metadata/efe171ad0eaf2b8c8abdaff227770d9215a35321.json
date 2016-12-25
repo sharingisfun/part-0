@@ -1,1 +1,63 @@
-{"title":"Doom - Brutal Doom [v.20b] (2016) RePack","uid":15964400,"size":12531292,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:efe171ad0eaf2b8c8abdaff227770d9215a35321&amp;dn=Doom+-+Brutal+Doom+%5Bv.20b%5D+%282016%29+RePack&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":67,"leechers":47,"uploader":"trwetwr","files":2,"time":1475708724,"description":"Good Game","torrent":{"xt":"urn:btih:efe171ad0eaf2b8c8abdaff227770d9215a35321","amp;dn":"Doom+-+Brutal+Doom+%5Bv.20b%5D+%282016%29+RePack","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"efe171ad0eaf2b8c8abdaff227770d9215a35321","infoHashBuffer":{"type":"Buffer","data":[239,225,113,173,14,175,43,140,138,189,175,242,39,119,13,146,21,163,83,33]},"announce":[],"urlList":[]}}
+{
+  "title": "Doom - Brutal Doom [v.20b] (2016) RePack",
+  "uid": 15964400,
+  "size": 12531292,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:efe171ad0eaf2b8c8abdaff227770d9215a35321&amp;dn=Doom+-+Brutal+Doom+%5Bv.20b%5D+%282016%29+RePack&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 67,
+  "leechers": 47,
+  "uploader": "trwetwr",
+  "files": 2,
+  "time": 1475708724,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:efe171ad0eaf2b8c8abdaff227770d9215a35321",
+    "dn": "Doom - Brutal Doom [v.20b] (2016) RePack",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "efe171ad0eaf2b8c8abdaff227770d9215a35321",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        239,
+        225,
+        113,
+        173,
+        14,
+        175,
+        43,
+        140,
+        138,
+        189,
+        175,
+        242,
+        39,
+        119,
+        13,
+        146,
+        21,
+        163,
+        83,
+        33
+      ]
+    },
+    "name": "Doom - Brutal Doom [v.20b] (2016) RePack",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 114,
+  "peers": 2,
+  "last_updated": "2016-12-25T17:41:22.848Z"
+}

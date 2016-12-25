@@ -1,1 +1,61 @@
-{"title":"Foo Fighters Sonic Highways S01E07 HDTV XviD-FUM[ettv]","uid":11593840,"size":471781459,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ef46aad11e325bdc41ef7b0230e0f43642f5a9c7&amp;dn=Foo+Fighters+Sonic+Highways+S01E07+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":1,"uploader":"ettv","files":2,"time":1417256616,"description":"FUM\nXviD Video : 1 124 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 624x350","torrent":{"xt":"urn:btih:ef46aad11e325bdc41ef7b0230e0f43642f5a9c7","amp;dn":"Foo+Fighters+Sonic+Highways+S01E07+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ef46aad11e325bdc41ef7b0230e0f43642f5a9c7","infoHashBuffer":{"type":"Buffer","data":[239,70,170,209,30,50,91,220,65,239,123,2,48,224,244,54,66,245,169,199]},"announce":[],"urlList":[]}}
+{
+  "title": "Foo Fighters Sonic Highways S01E07 HDTV XviD-FUM[ettv]",
+  "uid": 11593840,
+  "size": 471781459,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ef46aad11e325bdc41ef7b0230e0f43642f5a9c7&amp;dn=Foo+Fighters+Sonic+Highways+S01E07+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1417256616,
+  "description": "FUM\nXviD Video : 1 124 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 624x350",
+  "parsed": {
+    "xt": "urn:btih:ef46aad11e325bdc41ef7b0230e0f43642f5a9c7",
+    "dn": "Foo Fighters Sonic Highways S01E07 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ef46aad11e325bdc41ef7b0230e0f43642f5a9c7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        239,
+        70,
+        170,
+        209,
+        30,
+        50,
+        91,
+        220,
+        65,
+        239,
+        123,
+        2,
+        48,
+        224,
+        244,
+        54,
+        66,
+        245,
+        169,
+        199
+      ]
+    },
+    "name": "Foo Fighters Sonic Highways S01E07 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 6,
+  "last_updated": "2016-12-25T17:37:26.147Z"
+}
