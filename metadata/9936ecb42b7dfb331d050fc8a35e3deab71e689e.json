@@ -1,1 +1,63 @@
-{"title":"Halo 2 PC MP+SP","uid":15964350,"size":15085335,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:9936ecb42b7dfb331d050fc8a35e3deab71e689e&amp;dn=Halo+2+PC+MP%2BSP&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":126,"leechers":81,"uploader":"trwetwr","files":3,"time":1475707851,"description":"Good Game","torrent":{"xt":"urn:btih:9936ecb42b7dfb331d050fc8a35e3deab71e689e","amp;dn":"Halo+2+PC+MP%2BSP","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9936ecb42b7dfb331d050fc8a35e3deab71e689e","infoHashBuffer":{"type":"Buffer","data":[153,54,236,180,43,125,251,51,29,5,15,200,163,94,61,234,183,30,104,158]},"announce":[],"urlList":[]}}
+{
+  "title": "Halo 2 PC MP+SP",
+  "uid": 15964350,
+  "size": 15085335,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:9936ecb42b7dfb331d050fc8a35e3deab71e689e&amp;dn=Halo+2+PC+MP%2BSP&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 126,
+  "leechers": 81,
+  "uploader": "trwetwr",
+  "files": 3,
+  "time": 1475707851,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:9936ecb42b7dfb331d050fc8a35e3deab71e689e",
+    "dn": "Halo 2 PC MP SP",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "9936ecb42b7dfb331d050fc8a35e3deab71e689e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        153,
+        54,
+        236,
+        180,
+        43,
+        125,
+        251,
+        51,
+        29,
+        5,
+        15,
+        200,
+        163,
+        94,
+        61,
+        234,
+        183,
+        30,
+        104,
+        158
+      ]
+    },
+    "name": "Halo 2 PC MP SP",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 207,
+  "peers": 2,
+  "last_updated": "2016-12-25T08:44:21.261Z"
+}

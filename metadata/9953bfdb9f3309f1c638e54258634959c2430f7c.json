@@ -1,1 +1,61 @@
-{"title":"The Knife - Deep Cuts","uid":4398627,"size":76715043,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9953bfdb9f3309f1c638e54258634959c2430f7c&amp;dn=The+Knife+-+Deep+Cuts&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":0,"uploader":"norinski","files":13,"time":1221566320,"description":"The Knife - Deep Cuts\n\n01 Heartbeats\n02 Girls&amp;#039; Night Out\n03 Pass This On\n04 One For You\n05 Listen Now\n06 She&amp;#039;s Having A Baby\n07 You Take My Breath Away\n08 Rock Classics\n09 Is It Medicine\n10 You Make Me Like Charity\n11 Got 2 Let U\n12 Behind The Bushes\n13 Hangin&amp;#039; Out\n\n&gt;&gt; .mp3\n","torrent":{"xt":"urn:btih:9953bfdb9f3309f1c638e54258634959c2430f7c","amp;dn":"The+Knife+-+Deep+Cuts","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9953bfdb9f3309f1c638e54258634959c2430f7c","infoHashBuffer":{"type":"Buffer","data":[153,83,191,219,159,51,9,241,198,56,229,66,88,99,73,89,194,67,15,124]},"announce":[],"urlList":[]}}
+{
+  "title": "The Knife - Deep Cuts",
+  "uid": 4398627,
+  "size": 76715043,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9953bfdb9f3309f1c638e54258634959c2430f7c&amp;dn=The+Knife+-+Deep+Cuts&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 0,
+  "uploader": "norinski",
+  "files": 13,
+  "time": 1221566320,
+  "description": "The Knife - Deep Cuts\n\n01 Heartbeats\n02 Girls&amp;#039; Night Out\n03 Pass This On\n04 One For You\n05 Listen Now\n06 She&amp;#039;s Having A Baby\n07 You Take My Breath Away\n08 Rock Classics\n09 Is It Medicine\n10 You Make Me Like Charity\n11 Got 2 Let U\n12 Behind The Bushes\n13 Hangin&amp;#039; Out\n\n&gt;&gt; .mp3\n",
+  "parsed": {
+    "xt": "urn:btih:9953bfdb9f3309f1c638e54258634959c2430f7c",
+    "dn": "The Knife - Deep Cuts",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9953bfdb9f3309f1c638e54258634959c2430f7c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        153,
+        83,
+        191,
+        219,
+        159,
+        51,
+        9,
+        241,
+        198,
+        56,
+        229,
+        66,
+        88,
+        99,
+        73,
+        89,
+        194,
+        67,
+        15,
+        124
+      ]
+    },
+    "name": "The Knife - Deep Cuts",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 36,
+  "peers": 8,
+  "last_updated": "2016-12-25T08:44:41.323Z"
+}

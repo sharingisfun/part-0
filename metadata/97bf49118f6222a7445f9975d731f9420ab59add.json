@@ -1,1 +1,61 @@
-{"title":"Scorpions  Forever [DE @ 320] 2015","uid":11747589,"size":158000374,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:97bf49118f6222a7445f9975d731f9420ab59add&amp;dn=Scorpions++Forever+%5BDE+%40+320%5D+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":160,"leechers":1,"uploader":"Capajebo","files":18,"time":1426090250,"description":" ------------------------------------------------\n*** * Scorpions Return To Forever [DE @ 320] 2015 * ***\n ================================================ &lt;a href=&quot;\nhttp://imgur.com/o0vc8if&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgur.com/o0vc8if&lt;/a&gt; ::: TPB Ã¢â„¢Â  1914 Ã¢â„¢Â  CAPAJEBO :::\n ================================================","torrent":{"xt":"urn:btih:97bf49118f6222a7445f9975d731f9420ab59add","amp;dn":"Scorpions++Forever+%5BDE+%40+320%5D+2015","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"97bf49118f6222a7445f9975d731f9420ab59add","infoHashBuffer":{"type":"Buffer","data":[151,191,73,17,143,98,34,167,68,95,153,117,215,49,249,66,10,181,154,221]},"announce":[],"urlList":[]}}
+{
+  "title": "Scorpions  Forever [DE @ 320] 2015",
+  "uid": 11747589,
+  "size": 158000374,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:97bf49118f6222a7445f9975d731f9420ab59add&amp;dn=Scorpions++Forever+%5BDE+%40+320%5D+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 160,
+  "leechers": 1,
+  "uploader": "Capajebo",
+  "files": 18,
+  "time": 1426090250,
+  "description": " ------------------------------------------------\n*** * Scorpions Return To Forever [DE @ 320] 2015 * ***\n ================================================ &lt;a href=&quot;\nhttp://imgur.com/o0vc8if&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgur.com/o0vc8if&lt;/a&gt; ::: TPB Ã¢â„¢Â  1914 Ã¢â„¢Â  CAPAJEBO :::\n ================================================",
+  "parsed": {
+    "xt": "urn:btih:97bf49118f6222a7445f9975d731f9420ab59add",
+    "dn": "Scorpions  Forever [DE @ 320] 2015",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "97bf49118f6222a7445f9975d731f9420ab59add",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        151,
+        191,
+        73,
+        17,
+        143,
+        98,
+        34,
+        167,
+        68,
+        95,
+        153,
+        117,
+        215,
+        49,
+        249,
+        66,
+        10,
+        181,
+        154,
+        221
+      ]
+    },
+    "name": "Scorpions  Forever [DE @ 320] 2015",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 161,
+  "peers": 92,
+  "last_updated": "2016-12-25T08:35:29.583Z"
+}

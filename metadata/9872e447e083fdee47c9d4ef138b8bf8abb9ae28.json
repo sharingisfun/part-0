@@ -1,1 +1,61 @@
-{"title":"The Flash 2014 Season 1 S01E11 720p web-dl x264","uid":11672946,"size":289422884,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:9872e447e083fdee47c9d4ef138b8bf8abb9ae28&amp;dn=The+Flash+2014+Season+1+S01E11+720p+web-dl+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":147,"leechers":4,"uploader":"Jodo1210","files":1,"time":1422738720,"description":"General\nFormat : Matroska\nFile size : 276 MiB\nDuration : 42mn 33s\nOverall bit rate : 907 Kbps\n\nVideo\nFormat : AVC\nFormat/Info : Advanced Video Codec\nWidth : 1 280 pixels\nHeight : 718 pixels\nDisplay aspect ratio : 16:9\nFrame rate mode : Constant\nFrame rate : 23.976 fps\nWriting library : x264\n\nAudio\nFormat : AAC\nFormat/Info : Advanced Audio Codec\nChannel(s) : 2 channels\nChannel positions : Front: L R\nSampling rate : 48.0 KHz / 24.0 KHz\nCompression mode : Lossy\n\nText\nFormat : UTF-8\nCodec ID : S_TEXT/UTF8\nCodec ID/Info : UTF-8 Plain Text\nLanguage : English\nDefault : No\nForced : No","torrent":{"xt":"urn:btih:9872e447e083fdee47c9d4ef138b8bf8abb9ae28","amp;dn":"The+Flash+2014+Season+1+S01E11+720p+web-dl+x264","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9872e447e083fdee47c9d4ef138b8bf8abb9ae28","infoHashBuffer":{"type":"Buffer","data":[152,114,228,71,224,131,253,238,71,201,212,239,19,139,139,248,171,185,174,40]},"announce":[],"urlList":[]}}
+{
+  "title": "The Flash 2014 Season 1 S01E11 720p web-dl x264",
+  "uid": 11672946,
+  "size": 289422884,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:9872e447e083fdee47c9d4ef138b8bf8abb9ae28&amp;dn=The+Flash+2014+Season+1+S01E11+720p+web-dl+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 147,
+  "leechers": 4,
+  "uploader": "Jodo1210",
+  "files": 1,
+  "time": 1422738720,
+  "description": "General\nFormat : Matroska\nFile size : 276 MiB\nDuration : 42mn 33s\nOverall bit rate : 907 Kbps\n\nVideo\nFormat : AVC\nFormat/Info : Advanced Video Codec\nWidth : 1 280 pixels\nHeight : 718 pixels\nDisplay aspect ratio : 16:9\nFrame rate mode : Constant\nFrame rate : 23.976 fps\nWriting library : x264\n\nAudio\nFormat : AAC\nFormat/Info : Advanced Audio Codec\nChannel(s) : 2 channels\nChannel positions : Front: L R\nSampling rate : 48.0 KHz / 24.0 KHz\nCompression mode : Lossy\n\nText\nFormat : UTF-8\nCodec ID : S_TEXT/UTF8\nCodec ID/Info : UTF-8 Plain Text\nLanguage : English\nDefault : No\nForced : No",
+  "parsed": {
+    "xt": "urn:btih:9872e447e083fdee47c9d4ef138b8bf8abb9ae28",
+    "dn": "The Flash 2014 Season 1 S01E11 720p web-dl x264",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9872e447e083fdee47c9d4ef138b8bf8abb9ae28",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        152,
+        114,
+        228,
+        71,
+        224,
+        131,
+        253,
+        238,
+        71,
+        201,
+        212,
+        239,
+        19,
+        139,
+        139,
+        248,
+        171,
+        185,
+        174,
+        40
+      ]
+    },
+    "name": "The Flash 2014 Season 1 S01E11 720p web-dl x264",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 151,
+  "peers": 19,
+  "last_updated": "2016-12-25T08:39:28.389Z"
+}

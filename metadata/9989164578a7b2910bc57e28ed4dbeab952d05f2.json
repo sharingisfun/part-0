@@ -1,1 +1,61 @@
-{"title":"Penguins.of.Madagascar.2014.1080p.BluRay.x264-DOGE","uid":11726845,"size":4766800956,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:9989164578a7b2910bc57e28ed4dbeab952d05f2&amp;dn=Penguins.of.Madagascar.2014.1080p.BluRay.x264-DOGE&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":9,"uploader":"CrAGRG","files":6,"time":1425100961,"description":"Penguins.of.Madagascar.2014.1080p.BluRay.x264-DOGE\n\nMovie InFO:\n &lt;a href=&quot;\nhttp://www.moviemart.org/2015/02/penguins-of-madagascar-2014.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.moviemart.org/2015/02/penguins-of-madagascar-2014.html&lt;/a&gt;\n\nScreenS:\n &lt;a href=&quot;\nhttp://i.imgur.com/rANcCWP.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/rANcCWP.jpg&lt;/a&gt;","torrent":{"xt":"urn:btih:9989164578a7b2910bc57e28ed4dbeab952d05f2","amp;dn":"Penguins.of.Madagascar.2014.1080p.BluRay.x264-DOGE","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9989164578a7b2910bc57e28ed4dbeab952d05f2","infoHashBuffer":{"type":"Buffer","data":[153,137,22,69,120,167,178,145,11,197,126,40,237,77,190,171,149,45,5,242]},"announce":[],"urlList":[]}}
+{
+  "title": "Penguins.of.Madagascar.2014.1080p.BluRay.x264-DOGE",
+  "uid": 11726845,
+  "size": 4766800956,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:9989164578a7b2910bc57e28ed4dbeab952d05f2&amp;dn=Penguins.of.Madagascar.2014.1080p.BluRay.x264-DOGE&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 9,
+  "uploader": "CrAGRG",
+  "files": 6,
+  "time": 1425100961,
+  "description": "Penguins.of.Madagascar.2014.1080p.BluRay.x264-DOGE\n\nMovie InFO:\n &lt;a href=&quot;\nhttp://www.moviemart.org/2015/02/penguins-of-madagascar-2014.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.moviemart.org/2015/02/penguins-of-madagascar-2014.html&lt;/a&gt;\n\nScreenS:\n &lt;a href=&quot;\nhttp://i.imgur.com/rANcCWP.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/rANcCWP.jpg&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:9989164578a7b2910bc57e28ed4dbeab952d05f2",
+    "dn": "Penguins.of.Madagascar.2014.1080p.BluRay.x264-DOGE",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9989164578a7b2910bc57e28ed4dbeab952d05f2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        153,
+        137,
+        22,
+        69,
+        120,
+        167,
+        178,
+        145,
+        11,
+        197,
+        126,
+        40,
+        237,
+        77,
+        190,
+        171,
+        149,
+        45,
+        5,
+        242
+      ]
+    },
+    "name": "Penguins.of.Madagascar.2014.1080p.BluRay.x264-DOGE",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 2,
+  "last_updated": "2016-12-25T08:45:57.532Z"
+}

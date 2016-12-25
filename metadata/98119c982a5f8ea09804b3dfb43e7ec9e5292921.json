@@ -1,1 +1,61 @@
-{"title":"Lynda.com - Java Essential Training (2011)","uid":6925406,"size":630182009,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:98119c982a5f8ea09804b3dfb43e7ec9e5292921&amp;dn=Lynda.com+-+Java+Essential+Training+%282011%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":3,"uploader":"sophiscorp","files":70,"time":1325466058,"description":"Lynda.com Java Essential Training\n==================================\n\nGood luck and have fun!  I was so annoyed that I couldn\\\\\\'t find a GOOD program for java.  This is awesome.  If you have the money, get an account with Lynda.com to support them.\n\n","torrent":{"xt":"urn:btih:98119c982a5f8ea09804b3dfb43e7ec9e5292921","amp;dn":"Lynda.com+-+Java+Essential+Training+%282011%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"98119c982a5f8ea09804b3dfb43e7ec9e5292921","infoHashBuffer":{"type":"Buffer","data":[152,17,156,152,42,95,142,160,152,4,179,223,180,62,126,201,229,41,41,33]},"announce":[],"urlList":[]}}
+{
+  "title": "Lynda.com - Java Essential Training (2011)",
+  "uid": 6925406,
+  "size": 630182009,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:98119c982a5f8ea09804b3dfb43e7ec9e5292921&amp;dn=Lynda.com+-+Java+Essential+Training+%282011%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 3,
+  "uploader": "sophiscorp",
+  "files": 70,
+  "time": 1325466058,
+  "description": "Lynda.com Java Essential Training\n==================================\n\nGood luck and have fun!  I was so annoyed that I couldn\\\\\\'t find a GOOD program for java.  This is awesome.  If you have the money, get an account with Lynda.com to support them.\n\n",
+  "parsed": {
+    "xt": "urn:btih:98119c982a5f8ea09804b3dfb43e7ec9e5292921",
+    "dn": "Lynda.com - Java Essential Training (2011)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "98119c982a5f8ea09804b3dfb43e7ec9e5292921",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        152,
+        17,
+        156,
+        152,
+        42,
+        95,
+        142,
+        160,
+        152,
+        4,
+        179,
+        223,
+        180,
+        62,
+        126,
+        201,
+        229,
+        41,
+        41,
+        33
+      ]
+    },
+    "name": "Lynda.com - Java Essential Training (2011)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 27,
+  "last_updated": "2016-12-25T08:37:36.020Z"
+}

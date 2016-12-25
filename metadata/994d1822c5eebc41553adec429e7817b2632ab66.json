@@ -1,1 +1,61 @@
-{"title":"deamon tools","uid":5400257,"size":9161776,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:994d1822c5eebc41553adec429e7817b2632ab66&amp;dn=deamon+tools&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":226,"leechers":2,"uploader":"jazz2007","files":1,"time":1267391612,"description":"it realy works","torrent":{"xt":"urn:btih:994d1822c5eebc41553adec429e7817b2632ab66","amp;dn":"deamon+tools","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"994d1822c5eebc41553adec429e7817b2632ab66","infoHashBuffer":{"type":"Buffer","data":[153,77,24,34,197,238,188,65,85,58,222,196,41,231,129,123,38,50,171,102]},"announce":[],"urlList":[]}}
+{
+  "title": "deamon tools",
+  "uid": 5400257,
+  "size": 9161776,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:994d1822c5eebc41553adec429e7817b2632ab66&amp;dn=deamon+tools&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 226,
+  "leechers": 2,
+  "uploader": "jazz2007",
+  "files": 1,
+  "time": 1267391612,
+  "description": "it realy works",
+  "parsed": {
+    "xt": "urn:btih:994d1822c5eebc41553adec429e7817b2632ab66",
+    "dn": "deamon tools",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "994d1822c5eebc41553adec429e7817b2632ab66",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        153,
+        77,
+        24,
+        34,
+        197,
+        238,
+        188,
+        65,
+        85,
+        58,
+        222,
+        196,
+        41,
+        231,
+        129,
+        123,
+        38,
+        50,
+        171,
+        102
+      ]
+    },
+    "name": "deamon tools",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 228,
+  "peers": 101,
+  "last_updated": "2016-12-25T08:44:37.312Z"
+}

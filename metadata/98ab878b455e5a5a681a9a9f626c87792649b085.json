@@ -1,1 +1,61 @@
-{"title":"ABGX 1.0.6","uid":6929135,"size":9053331,"categoryP":"games","categoryS":"xbox360","magnet":"?xt=urn:btih:98ab878b455e5a5a681a9a9f626c87792649b085&amp;dn=ABGX+1.0.6&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":0,"uploader":"BozzaBow","files":1,"time":1325597462,"description":"Please Seed and All thanks to C4eva - http://c4evaspeaks.com/ :) - Bozza \n\nChanges affecting all platforms:\n\n- XGD3 support.\n- Replaced AP25 replay sector support with support for topology data (for consoles which do AP25 checks -- make sure you have LT+ v3.0 or later).\n- Added &quot;Min Kernel Required&quot; (to boot the game) when checking an XEX.\n- Added improvements to AutoUpload (used by uploaders) including extended C/R for SS (using the original disc) to make sure files uploaded to the database have very accurate angle measurements.\n- Added optional command line argument &quot;--speed&quot; for setting drive speed when checking a burned DVD. Example: &quot;--speed 12&quot; will attempt to set the drive speed to 12x. You can try to set any speed you like, but setting a speed higher than what your media supports may cause read errors if the drive's firmware doesn't govern it. &quot;--speed 0&quot; will set the drive's default speed.\n- Added optional command line argument &quot;--showsstable&quot; for when you want to see the SS C/R data but you still prefer medium or low verbosity. The SS C/R table has also been updated with &quot;Mod?&quot; being split into &quot;Tol&quot; (response tolerance) for the CCRT entry and &quot;Mod&quot; (response modifier) for the drive entry, also &quot;Pad?&quot; has been renamed to &quot;Typ&quot; (type). Thanks Redline99!\n- Added vendor specific additional info and bus type when displaying optical drive names (bus type displayed on Windows only).\n- Updated the list of optical drive sense code errors.\n- Updated the game ratings definitions.\n- Fixed a bug which negated the ability to recover from a write error when rebuilding an ISO using the low disk space method. It's unlikely that a write error would be recovered on subsequent retries, but at least now it will write the data in the correct place if it does recover.\n- Fixed a bug which caused &quot;Unknown Media: 0x00000000&quot; to be displayed if the &quot;Secure Virtual Optical Device&quot; media flag was set and the &quot;XGD2 Media Only&quot; image flag was not set (The &quot;XGD2 Media Only&quot; flag has also been renamed to &quot;Original Media Only&quot; in abgx360 since they are using the same flag for XGD3).\n- The archaic caution message about angle 359 was removed, but you are still able to &quot;fix&quot; it if you still have iXtreme &lt; v1.4 (really old and not suitable for XBL anyway).\n- Ability to &quot;extract entire video partition (253 MB)&quot; was removed; this doesn't make sense for XGD3 and isn't even very useful for XGD2 since it was just including a bunch of padding data that isn't even part of the real video partition... it was only needed for very old methods of concatenating with stealth files and a game partition to make a working backup.\n\nNote: The way video is checked/fixed is now a little different for both XGD2 and XGD3. The previous way was to check/fix both L0 video and L1 video off of L0, and then to check/fix &quot;SplitVid&quot; (L1 video on L1) afterwards by comparing it to L1 video on L0. Since XGD3 has no room for L1 video on L0, and to keep things consistent, video will now always be checked/fixed according to L0 on L0 and L1 on L1, and the &quot;SplitVid&quot; check is now gone (nominally). The only effective difference is that L1 video on L0 is no longer checked, but this is not a problem... it's not even supposed to be there and it's not visible to the host console when using a &quot;safe&quot; custom firmware. You can rest assured that only old and unsafe custom firmwares will read L1 video from L0; newer ones will read it properly from L1 (this is necessary in order to replicate the read/seek performance of an original disc).\n\nThere is also a big annoying yellow message if you have &quot;Check/Fix Video padding&quot; enabled and you check an XGD2 game with L1 video on L0 (or any data in that area). To make the message go away you will need to either add command line option &quot;--pL0&quot; to confirm that you want to blank it out (XGD2 ISOs without L1 video on L0 will appear to have bad video data when checked with older versions of abgx360), or you can simply disable &quot;Check/Fix Video padding&quot;, as it still makes no difference in terms of stealth... this option only exists as a way to make sure ISOs are &quot;clean&quot;, with no extra data in areas that aren't CRC checked. Note that this version of abgx360 doesn't care about L1 video on L0... it will pad L0 video with zeroes whenever video is autofixed or manually patched.\n\nSorry if the command line options are annoying (you can add them under the &quot;Misc&quot; tab of the GUI), but you can be sure that an improved v1.1.0 GUI is in the works...\n\nNote: The GUI has not been changed and will still display version 1.0.2, don't worry about it as long as the CLI app displays v1.0.6\n","torrent":{"xt":"urn:btih:98ab878b455e5a5a681a9a9f626c87792649b085","amp;dn":"ABGX+1.0.6","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"98ab878b455e5a5a681a9a9f626c87792649b085","infoHashBuffer":{"type":"Buffer","data":[152,171,135,139,69,94,90,90,104,26,154,159,98,108,135,121,38,73,176,133]},"announce":[],"urlList":[]}}
+{
+  "title": "ABGX 1.0.6",
+  "uid": 6929135,
+  "size": 9053331,
+  "categoryP": "games",
+  "categoryS": "xbox360",
+  "magnet": "?xt=urn:btih:98ab878b455e5a5a681a9a9f626c87792649b085&amp;dn=ABGX+1.0.6&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 0,
+  "uploader": "BozzaBow",
+  "files": 1,
+  "time": 1325597462,
+  "description": "Please Seed and All thanks to C4eva - http://c4evaspeaks.com/ :) - Bozza \n\nChanges affecting all platforms:\n\n- XGD3 support.\n- Replaced AP25 replay sector support with support for topology data (for consoles which do AP25 checks -- make sure you have LT+ v3.0 or later).\n- Added &quot;Min Kernel Required&quot; (to boot the game) when checking an XEX.\n- Added improvements to AutoUpload (used by uploaders) including extended C/R for SS (using the original disc) to make sure files uploaded to the database have very accurate angle measurements.\n- Added optional command line argument &quot;--speed&quot; for setting drive speed when checking a burned DVD. Example: &quot;--speed 12&quot; will attempt to set the drive speed to 12x. You can try to set any speed you like, but setting a speed higher than what your media supports may cause read errors if the drive's firmware doesn't govern it. &quot;--speed 0&quot; will set the drive's default speed.\n- Added optional command line argument &quot;--showsstable&quot; for when you want to see the SS C/R data but you still prefer medium or low verbosity. The SS C/R table has also been updated with &quot;Mod?&quot; being split into &quot;Tol&quot; (response tolerance) for the CCRT entry and &quot;Mod&quot; (response modifier) for the drive entry, also &quot;Pad?&quot; has been renamed to &quot;Typ&quot; (type). Thanks Redline99!\n- Added vendor specific additional info and bus type when displaying optical drive names (bus type displayed on Windows only).\n- Updated the list of optical drive sense code errors.\n- Updated the game ratings definitions.\n- Fixed a bug which negated the ability to recover from a write error when rebuilding an ISO using the low disk space method. It's unlikely that a write error would be recovered on subsequent retries, but at least now it will write the data in the correct place if it does recover.\n- Fixed a bug which caused &quot;Unknown Media: 0x00000000&quot; to be displayed if the &quot;Secure Virtual Optical Device&quot; media flag was set and the &quot;XGD2 Media Only&quot; image flag was not set (The &quot;XGD2 Media Only&quot; flag has also been renamed to &quot;Original Media Only&quot; in abgx360 since they are using the same flag for XGD3).\n- The archaic caution message about angle 359 was removed, but you are still able to &quot;fix&quot; it if you still have iXtreme &lt; v1.4 (really old and not suitable for XBL anyway).\n- Ability to &quot;extract entire video partition (253 MB)&quot; was removed; this doesn't make sense for XGD3 and isn't even very useful for XGD2 since it was just including a bunch of padding data that isn't even part of the real video partition... it was only needed for very old methods of concatenating with stealth files and a game partition to make a working backup.\n\nNote: The way video is checked/fixed is now a little different for both XGD2 and XGD3. The previous way was to check/fix both L0 video and L1 video off of L0, and then to check/fix &quot;SplitVid&quot; (L1 video on L1) afterwards by comparing it to L1 video on L0. Since XGD3 has no room for L1 video on L0, and to keep things consistent, video will now always be checked/fixed according to L0 on L0 and L1 on L1, and the &quot;SplitVid&quot; check is now gone (nominally). The only effective difference is that L1 video on L0 is no longer checked, but this is not a problem... it's not even supposed to be there and it's not visible to the host console when using a &quot;safe&quot; custom firmware. You can rest assured that only old and unsafe custom firmwares will read L1 video from L0; newer ones will read it properly from L1 (this is necessary in order to replicate the read/seek performance of an original disc).\n\nThere is also a big annoying yellow message if you have &quot;Check/Fix Video padding&quot; enabled and you check an XGD2 game with L1 video on L0 (or any data in that area). To make the message go away you will need to either add command line option &quot;--pL0&quot; to confirm that you want to blank it out (XGD2 ISOs without L1 video on L0 will appear to have bad video data when checked with older versions of abgx360), or you can simply disable &quot;Check/Fix Video padding&quot;, as it still makes no difference in terms of stealth... this option only exists as a way to make sure ISOs are &quot;clean&quot;, with no extra data in areas that aren't CRC checked. Note that this version of abgx360 doesn't care about L1 video on L0... it will pad L0 video with zeroes whenever video is autofixed or manually patched.\n\nSorry if the command line options are annoying (you can add them under the &quot;Misc&quot; tab of the GUI), but you can be sure that an improved v1.1.0 GUI is in the works...\n\nNote: The GUI has not been changed and will still display version 1.0.2, don't worry about it as long as the CLI app displays v1.0.6\n",
+  "parsed": {
+    "xt": "urn:btih:98ab878b455e5a5a681a9a9f626c87792649b085",
+    "dn": "ABGX 1.0.6",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "98ab878b455e5a5a681a9a9f626c87792649b085",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        152,
+        171,
+        135,
+        139,
+        69,
+        94,
+        90,
+        90,
+        104,
+        26,
+        154,
+        159,
+        98,
+        108,
+        135,
+        121,
+        38,
+        73,
+        176,
+        133
+      ]
+    },
+    "name": "ABGX 1.0.6",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 4,
+  "last_updated": "2016-12-25T08:40:44.637Z"
+}

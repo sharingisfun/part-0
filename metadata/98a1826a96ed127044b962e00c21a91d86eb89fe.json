@@ -1,1 +1,61 @@
-{"title":"Minecraft 1.7.5 TeamExtreme for Mac","uid":9907443,"size":715232360,"categoryP":"games","categoryS":"mac","magnet":"?xt=urn:btih:98a1826a96ed127044b962e00c21a91d86eb89fe&amp;dn=Minecraft+1.7.5+TeamExtreme+for+Mac&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":2,"uploader":"sithblade123","files":1,"time":1396835803,"description":"Minecraft 1.7.5 by TeamExtreme ported to Mac. Tested and working on OS X Mavericks (10.9.2). If you do not have a two-button mouse, use Command-Click for right clicking. There is a slight delay while opening the application, please only double-click once to avoid opening multiple instances of Minecraft.","torrent":{"xt":"urn:btih:98a1826a96ed127044b962e00c21a91d86eb89fe","amp;dn":"Minecraft+1.7.5+TeamExtreme+for+Mac","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"98a1826a96ed127044b962e00c21a91d86eb89fe","infoHashBuffer":{"type":"Buffer","data":[152,161,130,106,150,237,18,112,68,185,98,224,12,33,169,29,134,235,137,254]},"announce":[],"urlList":[]}}
+{
+  "title": "Minecraft 1.7.5 TeamExtreme for Mac",
+  "uid": 9907443,
+  "size": 715232360,
+  "categoryP": "games",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:98a1826a96ed127044b962e00c21a91d86eb89fe&amp;dn=Minecraft+1.7.5+TeamExtreme+for+Mac&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 2,
+  "uploader": "sithblade123",
+  "files": 1,
+  "time": 1396835803,
+  "description": "Minecraft 1.7.5 by TeamExtreme ported to Mac. Tested and working on OS X Mavericks (10.9.2). If you do not have a two-button mouse, use Command-Click for right clicking. There is a slight delay while opening the application, please only double-click once to avoid opening multiple instances of Minecraft.",
+  "parsed": {
+    "xt": "urn:btih:98a1826a96ed127044b962e00c21a91d86eb89fe",
+    "dn": "Minecraft 1.7.5 TeamExtreme for Mac",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "98a1826a96ed127044b962e00c21a91d86eb89fe",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        152,
+        161,
+        130,
+        106,
+        150,
+        237,
+        18,
+        112,
+        68,
+        185,
+        98,
+        224,
+        12,
+        33,
+        169,
+        29,
+        134,
+        235,
+        137,
+        254
+      ]
+    },
+    "name": "Minecraft 1.7.5 TeamExtreme for Mac",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 23,
+  "last_updated": "2016-12-25T08:40:30.594Z"
+}

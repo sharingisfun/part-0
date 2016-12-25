@@ -1,1 +1,61 @@
-{"title":"Five Nights at Freddy's 3","uid":11731892,"size":120577828,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:988c4a4aee3258b5ca357481d05f2429110c5e75&amp;dn=Five+Nights+at+Freddy%27s+3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":115,"leechers":2,"uploader":"dauphong","files":5,"time":1425413388,"description":"\nAbout This Game\nThirty years after Freddy Fazbear's Pizza closed it's doors, the events that took place there have become nothing more than a rumor and a childhood memory, but the owners of &quot;Fazbear's Fright: The Horror Attraction&quot; are determined to revive the legend and make the experience as authentic as possible for patrons, going to great lengths to find anything that might have survived decades of neglect and ruin.\n\nAt first there were only empty shells, a hand, a hook, an old paper-plate doll, but then a remarkable discovery was made...\n\nThe attraction now has one animatronic.\nSystem Requirements\n\n    Minimum:\n        OS: XP,Vista,Windows 7, Windows 8\n        Processor: 2 GHz Intel Pentium 4 or AMD Athlon or equivalent\n        Memory: 1 GB RAM\n        Graphics: 1 GB\n        DirectX: Version 9.0\n        Hard Drive: 250 MB available space","torrent":{"xt":"urn:btih:988c4a4aee3258b5ca357481d05f2429110c5e75","amp;dn":"Five+Nights+at+Freddy%27s+3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"988c4a4aee3258b5ca357481d05f2429110c5e75","infoHashBuffer":{"type":"Buffer","data":[152,140,74,74,238,50,88,181,202,53,116,129,208,95,36,41,17,12,94,117]},"announce":[],"urlList":[]}}
+{
+  "title": "Five Nights at Freddy's 3",
+  "uid": 11731892,
+  "size": 120577828,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:988c4a4aee3258b5ca357481d05f2429110c5e75&amp;dn=Five+Nights+at+Freddy%27s+3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 115,
+  "leechers": 2,
+  "uploader": "dauphong",
+  "files": 5,
+  "time": 1425413388,
+  "description": "\nAbout This Game\nThirty years after Freddy Fazbear's Pizza closed it's doors, the events that took place there have become nothing more than a rumor and a childhood memory, but the owners of &quot;Fazbear's Fright: The Horror Attraction&quot; are determined to revive the legend and make the experience as authentic as possible for patrons, going to great lengths to find anything that might have survived decades of neglect and ruin.\n\nAt first there were only empty shells, a hand, a hook, an old paper-plate doll, but then a remarkable discovery was made...\n\nThe attraction now has one animatronic.\nSystem Requirements\n\n    Minimum:\n        OS: XP,Vista,Windows 7, Windows 8\n        Processor: 2 GHz Intel Pentium 4 or AMD Athlon or equivalent\n        Memory: 1 GB RAM\n        Graphics: 1 GB\n        DirectX: Version 9.0\n        Hard Drive: 250 MB available space",
+  "parsed": {
+    "xt": "urn:btih:988c4a4aee3258b5ca357481d05f2429110c5e75",
+    "dn": "Five Nights at Freddy's 3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "988c4a4aee3258b5ca357481d05f2429110c5e75",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        152,
+        140,
+        74,
+        74,
+        238,
+        50,
+        88,
+        181,
+        202,
+        53,
+        116,
+        129,
+        208,
+        95,
+        36,
+        41,
+        17,
+        12,
+        94,
+        117
+      ]
+    },
+    "name": "Five Nights at Freddy's 3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 117,
+  "peers": 18,
+  "last_updated": "2016-12-25T08:40:08.528Z"
+}

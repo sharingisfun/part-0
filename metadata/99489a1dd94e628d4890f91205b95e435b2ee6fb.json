@@ -1,1 +1,61 @@
-{"title":"The Districts - A Flourish and a Spoil (2015)","uid":11683600,"size":108572195,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:99489a1dd94e628d4890f91205b95e435b2ee6fb&amp;dn=The+Districts+-+A+Flourish+and+a+Spoil+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":5,"uploader":"santicaz","files":11,"time":1423213106,"description":"Artist: The Districts\nTitle: A Flourish and a Spoil\nYear: 2015\nGenre: Indie Rock\nOrigin: UK\nSize/Quality: 103 mb | Mp3, CBR 320 kbps\n\nTracklist:\n1. 4th and Roebling\n2. Peaches\n3. Chlorine\n4. Hounds\n5. Sing The Song\n6. Suburban Smell\n7. Bold\n8. Heavy Begs\n0. Young Blood\n10. 6AM","torrent":{"xt":"urn:btih:99489a1dd94e628d4890f91205b95e435b2ee6fb","amp;dn":"The+Districts+-+A+Flourish+and+a+Spoil+%282015%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"99489a1dd94e628d4890f91205b95e435b2ee6fb","infoHashBuffer":{"type":"Buffer","data":[153,72,154,29,217,78,98,141,72,144,249,18,5,185,94,67,91,46,230,251]},"announce":[],"urlList":[]}}
+{
+  "title": "The Districts - A Flourish and a Spoil (2015)",
+  "uid": 11683600,
+  "size": 108572195,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:99489a1dd94e628d4890f91205b95e435b2ee6fb&amp;dn=The+Districts+-+A+Flourish+and+a+Spoil+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 5,
+  "uploader": "santicaz",
+  "files": 11,
+  "time": 1423213106,
+  "description": "Artist: The Districts\nTitle: A Flourish and a Spoil\nYear: 2015\nGenre: Indie Rock\nOrigin: UK\nSize/Quality: 103 mb | Mp3, CBR 320 kbps\n\nTracklist:\n1. 4th and Roebling\n2. Peaches\n3. Chlorine\n4. Hounds\n5. Sing The Song\n6. Suburban Smell\n7. Bold\n8. Heavy Begs\n0. Young Blood\n10. 6AM",
+  "parsed": {
+    "xt": "urn:btih:99489a1dd94e628d4890f91205b95e435b2ee6fb",
+    "dn": "The Districts - A Flourish and a Spoil (2015)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "99489a1dd94e628d4890f91205b95e435b2ee6fb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        153,
+        72,
+        154,
+        29,
+        217,
+        78,
+        98,
+        141,
+        72,
+        144,
+        249,
+        18,
+        5,
+        185,
+        94,
+        67,
+        91,
+        46,
+        230,
+        251
+      ]
+    },
+    "name": "The Districts - A Flourish and a Spoil (2015)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 7,
+  "last_updated": "2016-12-25T08:44:33.304Z"
+}

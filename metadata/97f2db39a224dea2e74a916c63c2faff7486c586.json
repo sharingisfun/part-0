@@ -1,1 +1,61 @@
-{"title":"Graceland Season 1-2 HDTV.XviD[Pawulon]","uid":11021398,"size":9261689789,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:97f2db39a224dea2e74a916c63c2faff7486c586&amp;dn=Graceland+Season+1-2+HDTV.XviD%5BPawulon%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":72,"uploader":"krzysiekvip2","files":55,"time":1410585052,"description":"* Full 2 Seasons\n\n* Language: English\n\n* Polish subtitles inside torrent","torrent":{"xt":"urn:btih:97f2db39a224dea2e74a916c63c2faff7486c586","amp;dn":"Graceland+Season+1-2+HDTV.XviD%5BPawulon%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"97f2db39a224dea2e74a916c63c2faff7486c586","infoHashBuffer":{"type":"Buffer","data":[151,242,219,57,162,36,222,162,231,74,145,108,99,194,250,255,116,134,197,134]},"announce":[],"urlList":[]}}
+{
+  "title": "Graceland Season 1-2 HDTV.XviD[Pawulon]",
+  "uid": 11021398,
+  "size": 9261689789,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:97f2db39a224dea2e74a916c63c2faff7486c586&amp;dn=Graceland+Season+1-2+HDTV.XviD%5BPawulon%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 72,
+  "uploader": "krzysiekvip2",
+  "files": 55,
+  "time": 1410585052,
+  "description": "* Full 2 Seasons\n\n* Language: English\n\n* Polish subtitles inside torrent",
+  "parsed": {
+    "xt": "urn:btih:97f2db39a224dea2e74a916c63c2faff7486c586",
+    "dn": "Graceland Season 1-2 HDTV.XviD[Pawulon]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "97f2db39a224dea2e74a916c63c2faff7486c586",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        151,
+        242,
+        219,
+        57,
+        162,
+        36,
+        222,
+        162,
+        231,
+        74,
+        145,
+        108,
+        99,
+        194,
+        250,
+        255,
+        116,
+        134,
+        197,
+        134
+      ]
+    },
+    "name": "Graceland Season 1-2 HDTV.XviD[Pawulon]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 111,
+  "peers": 1,
+  "last_updated": "2016-12-25T08:36:53.894Z"
+}

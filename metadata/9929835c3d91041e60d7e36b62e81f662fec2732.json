@@ -1,1 +1,61 @@
-{"title":"Yelawolf - Trunk Muzik Returns [2013-Mixtape] NoD3 CBR 320Kbps N","uid":8259462,"size":109573916,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:9929835c3d91041e60d7e36b62e81f662fec2732&amp;dn=Yelawolf+-+Trunk+Muzik+Returns+%5B2013-Mixtape%5D+NoD3+CBR+320Kbps+N&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":93,"leechers":183,"uploader":"nimitmak","files":16,"time":1363347076,"description":"::General::\nComplete name: Yelawolf - Trunk Muzik Returns [2013-Mixtape] NoDJ Mp3 CBR 320Kbps NimitMak SilverRG\nFormat: MPEG Audio\nOverall bit rate mode : Constant\nOverall bit rate: 320 Kbps\nAlbum: Trunk Muzik Returns\nAlbum/Performer: Yelawolf\nPerformer: Yelawolf\nComposer: NoDJ\nGenre : Hip-Hop/Rap\nRecorded date : 2013\nCover: Yes\nCover type: over (front)\nCover MIME: image/jpeg\nEncoder: NimitMak\nSource: LiveMixtapes/WEB\n\n::Audio::\nID: 2\nFormat: MPEG Audio\nFormat version: Version 1\nFormat profile: Layer 3\nBit rate mode: Constant\nBit rate : 320 Kbps\nChannel(s): 2 channels\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nLanguage: English\n\n::Tracklist::\n\n01. Firestarter\n02. Way Out\n03. F.A.S.T Ride\n04. Box Chevy Part 4\n05. Hustle (Feat. Paul Wall)\n06. Catfish Billy\n07. Gangster (Feat. ASAP Rocky &amp; Big Henry)\n08. Rhyme Room (Feat. Raekwon &amp; Killer Mike)\n09. Fame\n10. Tennessee Love","torrent":{"xt":"urn:btih:9929835c3d91041e60d7e36b62e81f662fec2732","amp;dn":"Yelawolf+-+Trunk+Muzik+Returns+%5B2013-Mixtape%5D+NoD3+CBR+320Kbps+N","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9929835c3d91041e60d7e36b62e81f662fec2732","infoHashBuffer":{"type":"Buffer","data":[153,41,131,92,61,145,4,30,96,215,227,107,98,232,31,102,47,236,39,50]},"announce":[],"urlList":[]}}
+{
+  "title": "Yelawolf - Trunk Muzik Returns [2013-Mixtape] NoD3 CBR 320Kbps N",
+  "uid": 8259462,
+  "size": 109573916,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:9929835c3d91041e60d7e36b62e81f662fec2732&amp;dn=Yelawolf+-+Trunk+Muzik+Returns+%5B2013-Mixtape%5D+NoD3+CBR+320Kbps+N&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 93,
+  "leechers": 183,
+  "uploader": "nimitmak",
+  "files": 16,
+  "time": 1363347076,
+  "description": "::General::\nComplete name: Yelawolf - Trunk Muzik Returns [2013-Mixtape] NoDJ Mp3 CBR 320Kbps NimitMak SilverRG\nFormat: MPEG Audio\nOverall bit rate mode : Constant\nOverall bit rate: 320 Kbps\nAlbum: Trunk Muzik Returns\nAlbum/Performer: Yelawolf\nPerformer: Yelawolf\nComposer: NoDJ\nGenre : Hip-Hop/Rap\nRecorded date : 2013\nCover: Yes\nCover type: over (front)\nCover MIME: image/jpeg\nEncoder: NimitMak\nSource: LiveMixtapes/WEB\n\n::Audio::\nID: 2\nFormat: MPEG Audio\nFormat version: Version 1\nFormat profile: Layer 3\nBit rate mode: Constant\nBit rate : 320 Kbps\nChannel(s): 2 channels\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nLanguage: English\n\n::Tracklist::\n\n01. Firestarter\n02. Way Out\n03. F.A.S.T Ride\n04. Box Chevy Part 4\n05. Hustle (Feat. Paul Wall)\n06. Catfish Billy\n07. Gangster (Feat. ASAP Rocky &amp; Big Henry)\n08. Rhyme Room (Feat. Raekwon &amp; Killer Mike)\n09. Fame\n10. Tennessee Love",
+  "parsed": {
+    "xt": "urn:btih:9929835c3d91041e60d7e36b62e81f662fec2732",
+    "dn": "Yelawolf - Trunk Muzik Returns [2013-Mixtape] NoD3 CBR 320Kbps N",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9929835c3d91041e60d7e36b62e81f662fec2732",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        153,
+        41,
+        131,
+        92,
+        61,
+        145,
+        4,
+        30,
+        96,
+        215,
+        227,
+        107,
+        98,
+        232,
+        31,
+        102,
+        47,
+        236,
+        39,
+        50
+      ]
+    },
+    "name": "Yelawolf - Trunk Muzik Returns [2013-Mixtape] NoD3 CBR 320Kbps N",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 276,
+  "peers": 98,
+  "last_updated": "2016-12-25T08:44:11.233Z"
+}

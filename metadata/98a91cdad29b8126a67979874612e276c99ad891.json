@@ -1,1 +1,61 @@
-{"title":"Les Mills Combat - Ultimate Warrior","uid":7988399,"size":5165849119,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:98a91cdad29b8126a67979874612e276c99ad891&amp;dn=Les+Mills+Combat+-+Ultimate+Warrior&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":5,"uploader":"gamedoc14","files":82,"time":1357341928,"description":"Les Mills Combat DVD + Documentation","torrent":{"xt":"urn:btih:98a91cdad29b8126a67979874612e276c99ad891","amp;dn":"Les+Mills+Combat+-+Ultimate+Warrior","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"98a91cdad29b8126a67979874612e276c99ad891","infoHashBuffer":{"type":"Buffer","data":[152,169,28,218,210,155,129,38,166,121,121,135,70,18,226,118,201,154,216,145]},"announce":[],"urlList":[]}}
+{
+  "title": "Les Mills Combat - Ultimate Warrior",
+  "uid": 7988399,
+  "size": 5165849119,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:98a91cdad29b8126a67979874612e276c99ad891&amp;dn=Les+Mills+Combat+-+Ultimate+Warrior&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 5,
+  "uploader": "gamedoc14",
+  "files": 82,
+  "time": 1357341928,
+  "description": "Les Mills Combat DVD + Documentation",
+  "parsed": {
+    "xt": "urn:btih:98a91cdad29b8126a67979874612e276c99ad891",
+    "dn": "Les Mills Combat - Ultimate Warrior",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "98a91cdad29b8126a67979874612e276c99ad891",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        152,
+        169,
+        28,
+        218,
+        210,
+        155,
+        129,
+        38,
+        166,
+        121,
+        121,
+        135,
+        70,
+        18,
+        226,
+        118,
+        201,
+        154,
+        216,
+        145
+      ]
+    },
+    "name": "Les Mills Combat - Ultimate Warrior",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 37,
+  "last_updated": "2016-12-25T08:40:42.632Z"
+}

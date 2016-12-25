@@ -1,1 +1,63 @@
-{"title":"Hotspot Shield VPN Elite 7.22.2 Multilingual + Patch","uid":15914619,"size":28493001,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:98ef2d892757c9f70b7306920e5ed3f8b4d11a45&amp;dn=Hotspot+Shield+VPN+Elite+7.22.2+Multilingual+%2B+Patch&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":32,"uploader":"gerardpmorris","files":6,"time":1475188431,"description":"very....good","torrent":{"xt":"urn:btih:98ef2d892757c9f70b7306920e5ed3f8b4d11a45","amp;dn":"Hotspot+Shield+VPN+Elite+7.22.2+Multilingual+%2B+Patch","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"98ef2d892757c9f70b7306920e5ed3f8b4d11a45","infoHashBuffer":{"type":"Buffer","data":[152,239,45,137,39,87,201,247,11,115,6,146,14,94,211,248,180,209,26,69]},"announce":[],"urlList":[]}}
+{
+  "title": "Hotspot Shield VPN Elite 7.22.2 Multilingual + Patch",
+  "uid": 15914619,
+  "size": 28493001,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:98ef2d892757c9f70b7306920e5ed3f8b4d11a45&amp;dn=Hotspot+Shield+VPN+Elite+7.22.2+Multilingual+%2B+Patch&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 32,
+  "uploader": "gerardpmorris",
+  "files": 6,
+  "time": 1475188431,
+  "description": "very....good",
+  "parsed": {
+    "xt": "urn:btih:98ef2d892757c9f70b7306920e5ed3f8b4d11a45",
+    "dn": "Hotspot Shield VPN Elite 7.22.2 Multilingual   Patch",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "98ef2d892757c9f70b7306920e5ed3f8b4d11a45",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        152,
+        239,
+        45,
+        137,
+        39,
+        87,
+        201,
+        247,
+        11,
+        115,
+        6,
+        146,
+        14,
+        94,
+        211,
+        248,
+        180,
+        209,
+        26,
+        69
+      ]
+    },
+    "name": "Hotspot Shield VPN Elite 7.22.2 Multilingual   Patch",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 85,
+  "peers": 7,
+  "last_updated": "2016-12-25T08:42:49.003Z"
+}
