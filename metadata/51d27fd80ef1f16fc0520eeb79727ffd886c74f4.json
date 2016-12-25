@@ -1,1 +1,61 @@
-{"title":"Hillsong Worship - No Other Name (2014)","uid":10444754,"size":158439347,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:51d27fd80ef1f16fc0520eeb79727ffd886c74f4&amp;dn=Hillsong+Worship+-+No+Other+Name+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":8,"uploader":"Pharaonix","files":11,"time":1403935831,"description":"Genre : Wrship, Christian \nCountry : Australia \nYear : 2014 \nAudio codec : MP3 \nBitrate : 320 kbps \nDuration : 65:30 \nTracklist :\n\n1. Hillsong - This I Believe (The Creed) [06:41]\n2. Hillsong - Heaven and Earth [05:02]\n3. Hillsong - Broken Vessels (Amazing Grace) [09:28]\n4. Hillsong - No Other Name [07:20]\n5. Hillsong - Depths [06:17]\n6. Hillsong - Calvary [04:13]\n7. Hillsong - Thank You Jesus [05:50]\n8. Hillsong - All Things New [04:11]\n9. Hillsong - My Story [04:59]\n10. Hillsong - Our Father [04:42]\n11. Hillsong - Mountain [06:47]","torrent":{"xt":"urn:btih:51d27fd80ef1f16fc0520eeb79727ffd886c74f4","amp;dn":"Hillsong+Worship+-+No+Other+Name+%282014%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"51d27fd80ef1f16fc0520eeb79727ffd886c74f4","infoHashBuffer":{"type":"Buffer","data":[81,210,127,216,14,241,241,111,192,82,14,235,121,114,127,253,136,108,116,244]},"announce":[],"urlList":[]}}
+{
+  "title": "Hillsong Worship - No Other Name (2014)",
+  "uid": 10444754,
+  "size": 158439347,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:51d27fd80ef1f16fc0520eeb79727ffd886c74f4&amp;dn=Hillsong+Worship+-+No+Other+Name+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 8,
+  "uploader": "Pharaonix",
+  "files": 11,
+  "time": 1403935831,
+  "description": "Genre : Wrship, Christian \nCountry : Australia \nYear : 2014 \nAudio codec : MP3 \nBitrate : 320 kbps \nDuration : 65:30 \nTracklist :\n\n1. Hillsong - This I Believe (The Creed) [06:41]\n2. Hillsong - Heaven and Earth [05:02]\n3. Hillsong - Broken Vessels (Amazing Grace) [09:28]\n4. Hillsong - No Other Name [07:20]\n5. Hillsong - Depths [06:17]\n6. Hillsong - Calvary [04:13]\n7. Hillsong - Thank You Jesus [05:50]\n8. Hillsong - All Things New [04:11]\n9. Hillsong - My Story [04:59]\n10. Hillsong - Our Father [04:42]\n11. Hillsong - Mountain [06:47]",
+  "parsed": {
+    "xt": "urn:btih:51d27fd80ef1f16fc0520eeb79727ffd886c74f4",
+    "dn": "Hillsong Worship - No Other Name (2014)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "51d27fd80ef1f16fc0520eeb79727ffd886c74f4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        81,
+        210,
+        127,
+        216,
+        14,
+        241,
+        241,
+        111,
+        192,
+        82,
+        14,
+        235,
+        121,
+        114,
+        127,
+        253,
+        136,
+        108,
+        116,
+        244
+      ]
+    },
+    "name": "Hillsong Worship - No Other Name (2014)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 82,
+  "peers": 31,
+  "last_updated": "2016-12-25T01:04:10.894Z"
+}

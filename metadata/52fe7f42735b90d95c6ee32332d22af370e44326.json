@@ -1,1 +1,61 @@
-{"title":"VMware ESXi and vSphere 5.1 Admininstration Training","uid":8958538,"size":1100188316,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:52fe7f42735b90d95c6ee32332d22af370e44326&amp;dn=VMware+ESXi+and+vSphere+5.1+Admininstration+Training&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":5,"uploader":"angelos2225","files":-1,"time":1380053469,"description":"VMware ESXi &amp; vSphere 5.1 Admininstration Training\n\nIn this VMWare Esxi &amp; vSphere training course, Glen Martin gives you an overview of installing and configuring a vSphere 5.1 environment. You will quickly become familiar with the core features of vSphere, and how to install and configure them. This tutorial is designed for the absolute beginner, and you do not need any prior vSphere experience to get the most from the lessons.\n\nYou start the training with lessons on installing and configuring vSphere. You will cover topics such as installing VMware ESXi, working with the vSphere Client, and managing Hosts using the vSphere Client. Glen covers how to configure Networking and Storage, and to create and configure Virtual Machines. You will learn about installing and using vCenter, and the vSphere Client. Glen shows you how to work with a Distributed Resource Scheduler (DRS), configuring for High Availability (HA) and vSphere Data Protection (VDP).\n\nOnce you have completed this VMware ESXi and vSphere 5.1 Administration video tutorial, you will be familiar and comfortable with the process of installing and configuring ESXi and vSphere for a development and testing lab.","torrent":{"xt":"urn:btih:52fe7f42735b90d95c6ee32332d22af370e44326","amp;dn":"VMware+ESXi+and+vSphere+5.1+Admininstration+Training","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"52fe7f42735b90d95c6ee32332d22af370e44326","infoHashBuffer":{"type":"Buffer","data":[82,254,127,66,115,91,144,217,92,110,227,35,50,210,42,243,112,228,67,38]},"announce":[],"urlList":[]}}
+{
+  "title": "VMware ESXi and vSphere 5.1 Admininstration Training",
+  "uid": 8958538,
+  "size": 1100188316,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:52fe7f42735b90d95c6ee32332d22af370e44326&amp;dn=VMware+ESXi+and+vSphere+5.1+Admininstration+Training&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 5,
+  "uploader": "angelos2225",
+  "files": -1,
+  "time": 1380053469,
+  "description": "VMware ESXi &amp; vSphere 5.1 Admininstration Training\n\nIn this VMWare Esxi &amp; vSphere training course, Glen Martin gives you an overview of installing and configuring a vSphere 5.1 environment. You will quickly become familiar with the core features of vSphere, and how to install and configure them. This tutorial is designed for the absolute beginner, and you do not need any prior vSphere experience to get the most from the lessons.\n\nYou start the training with lessons on installing and configuring vSphere. You will cover topics such as installing VMware ESXi, working with the vSphere Client, and managing Hosts using the vSphere Client. Glen covers how to configure Networking and Storage, and to create and configure Virtual Machines. You will learn about installing and using vCenter, and the vSphere Client. Glen shows you how to work with a Distributed Resource Scheduler (DRS), configuring for High Availability (HA) and vSphere Data Protection (VDP).\n\nOnce you have completed this VMware ESXi and vSphere 5.1 Administration video tutorial, you will be familiar and comfortable with the process of installing and configuring ESXi and vSphere for a development and testing lab.",
+  "parsed": {
+    "xt": "urn:btih:52fe7f42735b90d95c6ee32332d22af370e44326",
+    "dn": "VMware ESXi and vSphere 5.1 Admininstration Training",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "52fe7f42735b90d95c6ee32332d22af370e44326",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        82,
+        254,
+        127,
+        66,
+        115,
+        91,
+        144,
+        217,
+        92,
+        110,
+        227,
+        35,
+        50,
+        210,
+        42,
+        243,
+        112,
+        228,
+        67,
+        38
+      ]
+    },
+    "name": "VMware ESXi and vSphere 5.1 Admininstration Training",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 63,
+  "peers": 44,
+  "last_updated": "2016-12-25T01:12:02.339Z"
+}

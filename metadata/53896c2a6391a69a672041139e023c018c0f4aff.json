@@ -1,1 +1,61 @@
-{"title":"Arrow.S03E19.HDTV.x264-LOL[ettv]","uid":11817918,"size":243947313,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:53896c2a6391a69a672041139e023c018c0f4aff&amp;dn=Arrow.S03E19.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":1476,"leechers":55,"uploader":"ettv","files":3,"time":1429153137,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:53896c2a6391a69a672041139e023c018c0f4aff","amp;dn":"Arrow.S03E19.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"53896c2a6391a69a672041139e023c018c0f4aff","infoHashBuffer":{"type":"Buffer","data":[83,137,108,42,99,145,166,154,103,32,65,19,158,2,60,1,140,15,74,255]},"announce":[],"urlList":[]}}
+{
+  "title": "Arrow.S03E19.HDTV.x264-LOL[ettv]",
+  "uid": 11817918,
+  "size": 243947313,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:53896c2a6391a69a672041139e023c018c0f4aff&amp;dn=Arrow.S03E19.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 1476,
+  "leechers": 55,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1429153137,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:53896c2a6391a69a672041139e023c018c0f4aff",
+    "dn": "Arrow.S03E19.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "53896c2a6391a69a672041139e023c018c0f4aff",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        83,
+        137,
+        108,
+        42,
+        99,
+        145,
+        166,
+        154,
+        103,
+        32,
+        65,
+        19,
+        158,
+        2,
+        60,
+        1,
+        140,
+        15,
+        74,
+        255
+      ]
+    },
+    "name": "Arrow.S03E19.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 1531,
+  "peers": 169,
+  "last_updated": "2016-12-25T01:14:56.893Z"
+}

@@ -1,1 +1,61 @@
-{"title":"City Car Driving 1.2.5 Mega Car Pack (255 Autos)","uid":8820447,"size":4025462920,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:53e156284c242d050e2d1c4f9b71c65533f403ea&amp;dn=City+Car+Driving+1.2.5+Mega+Car+Pack+%28255+Autos%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":8,"uploader":"pudel103","files":1,"time":1376690745,"description":"Das sind noch 255 Autos fÃƒÂ¼r City Car Driving 1.2.5 (Simulator)\nZum einbinden","torrent":{"xt":"urn:btih:53e156284c242d050e2d1c4f9b71c65533f403ea","amp;dn":"City+Car+Driving+1.2.5+Mega+Car+Pack+%28255+Autos%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"53e156284c242d050e2d1c4f9b71c65533f403ea","infoHashBuffer":{"type":"Buffer","data":[83,225,86,40,76,36,45,5,14,45,28,79,155,113,198,85,51,244,3,234]},"announce":[],"urlList":[]}}
+{
+  "title": "City Car Driving 1.2.5 Mega Car Pack (255 Autos)",
+  "uid": 8820447,
+  "size": 4025462920,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:53e156284c242d050e2d1c4f9b71c65533f403ea&amp;dn=City+Car+Driving+1.2.5+Mega+Car+Pack+%28255+Autos%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 8,
+  "uploader": "pudel103",
+  "files": 1,
+  "time": 1376690745,
+  "description": "Das sind noch 255 Autos fÃƒÂ¼r City Car Driving 1.2.5 (Simulator)\nZum einbinden",
+  "parsed": {
+    "xt": "urn:btih:53e156284c242d050e2d1c4f9b71c65533f403ea",
+    "dn": "City Car Driving 1.2.5 Mega Car Pack (255 Autos)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "53e156284c242d050e2d1c4f9b71c65533f403ea",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        83,
+        225,
+        86,
+        40,
+        76,
+        36,
+        45,
+        5,
+        14,
+        45,
+        28,
+        79,
+        155,
+        113,
+        198,
+        85,
+        51,
+        244,
+        3,
+        234
+      ]
+    },
+    "name": "City Car Driving 1.2.5 Mega Car Pack (255 Autos)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 23,
+  "last_updated": "2016-12-25T01:16:49.215Z"
+}

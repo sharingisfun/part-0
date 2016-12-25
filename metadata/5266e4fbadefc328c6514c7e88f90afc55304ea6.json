@@ -1,1 +1,61 @@
-{"title":"Los vengadores","uid":8590665,"size":1842024448,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:5266e4fbadefc328c6514c7e88f90afc55304ea6&amp;dn=Los+vengadores+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":288,"leechers":6,"uploader":"Miguel223","files":1,"time":1371635181,"description":"Los vengadores \n\nwww.peliculasytorrent.com","torrent":{"xt":"urn:btih:5266e4fbadefc328c6514c7e88f90afc55304ea6","amp;dn":"Los+vengadores+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5266e4fbadefc328c6514c7e88f90afc55304ea6","infoHashBuffer":{"type":"Buffer","data":[82,102,228,251,173,239,195,40,198,81,76,126,136,249,10,252,85,48,78,166]},"announce":[],"urlList":[]}}
+{
+  "title": "Los vengadores",
+  "uid": 8590665,
+  "size": 1842024448,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:5266e4fbadefc328c6514c7e88f90afc55304ea6&amp;dn=Los+vengadores+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 288,
+  "leechers": 6,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1371635181,
+  "description": "Los vengadores \n\nwww.peliculasytorrent.com",
+  "parsed": {
+    "xt": "urn:btih:5266e4fbadefc328c6514c7e88f90afc55304ea6",
+    "dn": "Los vengadores ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5266e4fbadefc328c6514c7e88f90afc55304ea6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        82,
+        102,
+        228,
+        251,
+        173,
+        239,
+        195,
+        40,
+        198,
+        81,
+        76,
+        126,
+        136,
+        249,
+        10,
+        252,
+        85,
+        48,
+        78,
+        166
+      ]
+    },
+    "name": "Los vengadores ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 294,
+  "peers": 108,
+  "last_updated": "2016-12-25T01:07:59.612Z"
+}

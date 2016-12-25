@@ -1,1 +1,61 @@
-{"title":"Office 2007 PT/BR + Serial","uid":9507504,"size":536421731,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:52de52e9f37a686f430b029adf41792006593f41&amp;dn=Office+2007+PT%2FBR+%2B+Serial&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":1,"uploader":null,"files":1,"time":1390342568,"description":"gfdgfd","torrent":{"xt":"urn:btih:52de52e9f37a686f430b029adf41792006593f41","amp;dn":"Office+2007+PT%2FBR+%2B+Serial","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"52de52e9f37a686f430b029adf41792006593f41","infoHashBuffer":{"type":"Buffer","data":[82,222,82,233,243,122,104,111,67,11,2,154,223,65,121,32,6,89,63,65]},"announce":[],"urlList":[]}}
+{
+  "title": "Office 2007 PT/BR + Serial",
+  "uid": 9507504,
+  "size": 536421731,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:52de52e9f37a686f430b029adf41792006593f41&amp;dn=Office+2007+PT%2FBR+%2B+Serial&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 1,
+  "uploader": null,
+  "files": 1,
+  "time": 1390342568,
+  "description": "gfdgfd",
+  "parsed": {
+    "xt": "urn:btih:52de52e9f37a686f430b029adf41792006593f41",
+    "dn": "Office 2007 PT/BR   Serial",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "52de52e9f37a686f430b029adf41792006593f41",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        82,
+        222,
+        82,
+        233,
+        243,
+        122,
+        104,
+        111,
+        67,
+        11,
+        2,
+        154,
+        223,
+        65,
+        121,
+        32,
+        6,
+        89,
+        63,
+        65
+      ]
+    },
+    "name": "Office 2007 PT/BR   Serial",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 20,
+  "last_updated": "2016-12-25T01:11:12.182Z"
+}

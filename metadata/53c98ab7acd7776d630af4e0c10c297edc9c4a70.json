@@ -1,1 +1,61 @@
-{"title":"Mac OS X Snow Leopard","uid":5924659,"size":6586892984,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:53c98ab7acd7776d630af4e0c10c297edc9c4a70&amp;dn=Mac+OS+X+Snow+Leopard&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":2,"uploader":"ddskill11","files":1,"time":1288564916,"description":"This is the retail Mac OS X Snow Leopard 10.6 converted to a .dmg so that you can install snow leopard from a usb stick. This release is in English.","torrent":{"xt":"urn:btih:53c98ab7acd7776d630af4e0c10c297edc9c4a70","amp;dn":"Mac+OS+X+Snow+Leopard","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"53c98ab7acd7776d630af4e0c10c297edc9c4a70","infoHashBuffer":{"type":"Buffer","data":[83,201,138,183,172,215,119,109,99,10,244,224,193,12,41,126,220,156,74,112]},"announce":[],"urlList":[]}}
+{
+  "title": "Mac OS X Snow Leopard",
+  "uid": 5924659,
+  "size": 6586892984,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:53c98ab7acd7776d630af4e0c10c297edc9c4a70&amp;dn=Mac+OS+X+Snow+Leopard&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 2,
+  "uploader": "ddskill11",
+  "files": 1,
+  "time": 1288564916,
+  "description": "This is the retail Mac OS X Snow Leopard 10.6 converted to a .dmg so that you can install snow leopard from a usb stick. This release is in English.",
+  "parsed": {
+    "xt": "urn:btih:53c98ab7acd7776d630af4e0c10c297edc9c4a70",
+    "dn": "Mac OS X Snow Leopard",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "53c98ab7acd7776d630af4e0c10c297edc9c4a70",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        83,
+        201,
+        138,
+        183,
+        172,
+        215,
+        119,
+        109,
+        99,
+        10,
+        244,
+        224,
+        193,
+        12,
+        41,
+        126,
+        220,
+        156,
+        74,
+        112
+      ]
+    },
+    "name": "Mac OS X Snow Leopard",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 21,
+  "last_updated": "2016-12-25T01:16:31.156Z"
+}

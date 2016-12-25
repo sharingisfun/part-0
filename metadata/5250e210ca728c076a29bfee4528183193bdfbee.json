@@ -1,1 +1,61 @@
-{"title":"Suits.S01E05.HDTV.XviD-ASAP.[VTV].avi","uid":6556404,"size":366943250,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:5250e210ca728c076a29bfee4528183193bdfbee&amp;dn=Suits.S01E05.HDTV.XviD-ASAP.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":118,"leechers":34,"uploader":"VTV","files":1,"time":1311312889,"description":"Suits 1x05 (HDTV-ASAP)[VTV]","torrent":{"xt":"urn:btih:5250e210ca728c076a29bfee4528183193bdfbee","amp;dn":"Suits.S01E05.HDTV.XviD-ASAP.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5250e210ca728c076a29bfee4528183193bdfbee","infoHashBuffer":{"type":"Buffer","data":[82,80,226,16,202,114,140,7,106,41,191,238,69,40,24,49,147,189,251,238]},"announce":[],"urlList":[]}}
+{
+  "title": "Suits.S01E05.HDTV.XviD-ASAP.[VTV].avi",
+  "uid": 6556404,
+  "size": 366943250,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:5250e210ca728c076a29bfee4528183193bdfbee&amp;dn=Suits.S01E05.HDTV.XviD-ASAP.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 118,
+  "leechers": 34,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1311312889,
+  "description": "Suits 1x05 (HDTV-ASAP)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:5250e210ca728c076a29bfee4528183193bdfbee",
+    "dn": "Suits.S01E05.HDTV.XviD-ASAP.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5250e210ca728c076a29bfee4528183193bdfbee",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        82,
+        80,
+        226,
+        16,
+        202,
+        114,
+        140,
+        7,
+        106,
+        41,
+        191,
+        238,
+        69,
+        40,
+        24,
+        49,
+        147,
+        189,
+        251,
+        238
+      ]
+    },
+    "name": "Suits.S01E05.HDTV.XviD-ASAP.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 152,
+  "peers": 79,
+  "last_updated": "2016-12-25T01:07:27.511Z"
+}

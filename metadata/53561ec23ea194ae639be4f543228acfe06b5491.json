@@ -1,1 +1,61 @@
-{"title":"Meghan Trainor - All About That Bass.mp3","uid":10896594,"size":5519681,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:53561ec23ea194ae639be4f543228acfe06b5491&amp;dn=Meghan+Trainor+-+All+About+That+Bass.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":0,"uploader":"speedwagon69","files":1,"time":1409159477,"description":"All About That Bass","torrent":{"xt":"urn:btih:53561ec23ea194ae639be4f543228acfe06b5491","amp;dn":"Meghan+Trainor+-+All+About+That+Bass.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"53561ec23ea194ae639be4f543228acfe06b5491","infoHashBuffer":{"type":"Buffer","data":[83,86,30,194,62,161,148,174,99,155,228,245,67,34,138,207,224,107,84,145]},"announce":[],"urlList":[]}}
+{
+  "title": "Meghan Trainor - All About That Bass.mp3",
+  "uid": 10896594,
+  "size": 5519681,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:53561ec23ea194ae639be4f543228acfe06b5491&amp;dn=Meghan+Trainor+-+All+About+That+Bass.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 0,
+  "uploader": "speedwagon69",
+  "files": 1,
+  "time": 1409159477,
+  "description": "All About That Bass",
+  "parsed": {
+    "xt": "urn:btih:53561ec23ea194ae639be4f543228acfe06b5491",
+    "dn": "Meghan Trainor - All About That Bass.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "53561ec23ea194ae639be4f543228acfe06b5491",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        83,
+        86,
+        30,
+        194,
+        62,
+        161,
+        148,
+        174,
+        99,
+        155,
+        228,
+        245,
+        67,
+        34,
+        138,
+        207,
+        224,
+        107,
+        84,
+        145
+      ]
+    },
+    "name": "Meghan Trainor - All About That Bass.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 2,
+  "last_updated": "2016-12-25T01:13:58.730Z"
+}

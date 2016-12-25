@@ -1,1 +1,61 @@
-{"title":"[House] Milky Chance - Stolen Dance (DJ Shishkin Remix)","uid":9838548,"size":12626227,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:5286d6b939df5508c0abd63a9c459dda95018c60&amp;dn=%5BHouse%5D+Milky+Chance+-+Stolen+Dance+%28DJ+Shishkin+Remix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":99,"leechers":7,"uploader":"promoparty","files":-1,"time":1395950458,"description":"Milky Chance - Stolen Dance (DJ Shishkin Remix)","torrent":{"xt":"urn:btih:5286d6b939df5508c0abd63a9c459dda95018c60","amp;dn":"%5BHouse%5D+Milky+Chance+-+Stolen+Dance+%28DJ+Shishkin+Remix%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5286d6b939df5508c0abd63a9c459dda95018c60","infoHashBuffer":{"type":"Buffer","data":[82,134,214,185,57,223,85,8,192,171,214,58,156,69,157,218,149,1,140,96]},"announce":[],"urlList":[]}}
+{
+  "title": "[House] Milky Chance - Stolen Dance (DJ Shishkin Remix)",
+  "uid": 9838548,
+  "size": 12626227,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:5286d6b939df5508c0abd63a9c459dda95018c60&amp;dn=%5BHouse%5D+Milky+Chance+-+Stolen+Dance+%28DJ+Shishkin+Remix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 99,
+  "leechers": 7,
+  "uploader": "promoparty",
+  "files": -1,
+  "time": 1395950458,
+  "description": "Milky Chance - Stolen Dance (DJ Shishkin Remix)",
+  "parsed": {
+    "xt": "urn:btih:5286d6b939df5508c0abd63a9c459dda95018c60",
+    "dn": "[House] Milky Chance - Stolen Dance (DJ Shishkin Remix)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5286d6b939df5508c0abd63a9c459dda95018c60",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        82,
+        134,
+        214,
+        185,
+        57,
+        223,
+        85,
+        8,
+        192,
+        171,
+        214,
+        58,
+        156,
+        69,
+        157,
+        218,
+        149,
+        1,
+        140,
+        96
+      ]
+    },
+    "name": "[House] Milky Chance - Stolen Dance (DJ Shishkin Remix)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 106,
+  "peers": 13,
+  "last_updated": "2016-12-25T01:08:59.807Z"
+}

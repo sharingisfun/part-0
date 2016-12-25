@@ -1,1 +1,61 @@
-{"title":"Reflector - 1.6.2 [include -Patch]","uid":9570634,"size":9440954,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:52812c883c4bf4ab3bccf562c0d0a1d240f1659b&amp;dn=Reflector+-+1.6.2+%5Binclude+-Patch%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":0,"uploader":"GoogleWolf","files":-1,"time":1391626911,"description":"App Name    : Reflector\nVersion     : 1.6.2\nLast update : November 15, 2013\n\n[include -Patch]\n\n\nReflector is an AirPlay receiver that allows you to wirelessly display your iPad or iPhone on your computer. Mirror your device on a big screen without wires or complicated setups. Play games, watch movies, demo apps or present on the big screen from your iPhone or iPad. With Reflector, everything you do on your mobile device is wirelessly streamed to your computer in real time!\n\n\n\nMore info :  &lt;a href=&quot;\nhttp://www.airsquirrels.com/reflector/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.airsquirrels.com/reflector/&lt;/a&gt;\n\n###################################################################\n###################################################################\n\n\nPlease Rich People Support Developers By Buying Their Apps.\nPoor People Enjoy The Free Apps\n \n###################################################################\n###################################################################\n\n\n","torrent":{"xt":"urn:btih:52812c883c4bf4ab3bccf562c0d0a1d240f1659b","amp;dn":"Reflector+-+1.6.2+%5Binclude+-Patch%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"52812c883c4bf4ab3bccf562c0d0a1d240f1659b","infoHashBuffer":{"type":"Buffer","data":[82,129,44,136,60,75,244,171,59,204,245,98,192,208,161,210,64,241,101,155]},"announce":[],"urlList":[]}}
+{
+  "title": "Reflector - 1.6.2 [include -Patch]",
+  "uid": 9570634,
+  "size": 9440954,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:52812c883c4bf4ab3bccf562c0d0a1d240f1659b&amp;dn=Reflector+-+1.6.2+%5Binclude+-Patch%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 0,
+  "uploader": "GoogleWolf",
+  "files": -1,
+  "time": 1391626911,
+  "description": "App Name    : Reflector\nVersion     : 1.6.2\nLast update : November 15, 2013\n\n[include -Patch]\n\n\nReflector is an AirPlay receiver that allows you to wirelessly display your iPad or iPhone on your computer. Mirror your device on a big screen without wires or complicated setups. Play games, watch movies, demo apps or present on the big screen from your iPhone or iPad. With Reflector, everything you do on your mobile device is wirelessly streamed to your computer in real time!\n\n\n\nMore info :  &lt;a href=&quot;\nhttp://www.airsquirrels.com/reflector/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.airsquirrels.com/reflector/&lt;/a&gt;\n\n###################################################################\n###################################################################\n\n\nPlease Rich People Support Developers By Buying Their Apps.\nPoor People Enjoy The Free Apps\n \n###################################################################\n###################################################################\n\n\n",
+  "parsed": {
+    "xt": "urn:btih:52812c883c4bf4ab3bccf562c0d0a1d240f1659b",
+    "dn": "Reflector - 1.6.2 [include -Patch]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "52812c883c4bf4ab3bccf562c0d0a1d240f1659b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        82,
+        129,
+        44,
+        136,
+        60,
+        75,
+        244,
+        171,
+        59,
+        204,
+        245,
+        98,
+        192,
+        208,
+        161,
+        210,
+        64,
+        241,
+        101,
+        155
+      ]
+    },
+    "name": "Reflector - 1.6.2 [include -Patch]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 36,
+  "peers": 8,
+  "last_updated": "2016-12-25T01:08:47.767Z"
+}

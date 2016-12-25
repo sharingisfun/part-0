@@ -1,1 +1,61 @@
-{"title":"Metal Gear Solid V Ground Zeroes XBOX360-COMPLEX","uid":9763209,"size":7838697882,"categoryP":"games","categoryS":"xbox360","magnet":"?xt=urn:btih:5280250b164d0e0304322f569a2a4af17ed0d804&amp;dn=Metal+Gear+Solid+V+Ground+Zeroes+XBOX360-COMPLEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":16,"uploader":"Drarbg","files":4,"time":1394843523,"description":"Metal Gear Solid V Ground Zeroes XBOX360-COMPLEX\n-----------------------------------------\nScreens :\n\n","torrent":{"xt":"urn:btih:5280250b164d0e0304322f569a2a4af17ed0d804","amp;dn":"Metal+Gear+Solid+V+Ground+Zeroes+XBOX360-COMPLEX","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5280250b164d0e0304322f569a2a4af17ed0d804","infoHashBuffer":{"type":"Buffer","data":[82,128,37,11,22,77,14,3,4,50,47,86,154,42,74,241,126,208,216,4]},"announce":[],"urlList":[]}}
+{
+  "title": "Metal Gear Solid V Ground Zeroes XBOX360-COMPLEX",
+  "uid": 9763209,
+  "size": 7838697882,
+  "categoryP": "games",
+  "categoryS": "xbox360",
+  "magnet": "?xt=urn:btih:5280250b164d0e0304322f569a2a4af17ed0d804&amp;dn=Metal+Gear+Solid+V+Ground+Zeroes+XBOX360-COMPLEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 16,
+  "uploader": "Drarbg",
+  "files": 4,
+  "time": 1394843523,
+  "description": "Metal Gear Solid V Ground Zeroes XBOX360-COMPLEX\n-----------------------------------------\nScreens :\n\n",
+  "parsed": {
+    "xt": "urn:btih:5280250b164d0e0304322f569a2a4af17ed0d804",
+    "dn": "Metal Gear Solid V Ground Zeroes XBOX360-COMPLEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5280250b164d0e0304322f569a2a4af17ed0d804",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        82,
+        128,
+        37,
+        11,
+        22,
+        77,
+        14,
+        3,
+        4,
+        50,
+        47,
+        86,
+        154,
+        42,
+        74,
+        241,
+        126,
+        208,
+        216,
+        4
+      ]
+    },
+    "name": "Metal Gear Solid V Ground Zeroes XBOX360-COMPLEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 17,
+  "last_updated": "2016-12-25T01:08:45.762Z"
+}

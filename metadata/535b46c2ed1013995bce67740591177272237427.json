@@ -1,1 +1,61 @@
-{"title":"Axiom Verge","uid":11920960,"size":150434512,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:535b46c2ed1013995bce67740591177272237427&amp;dn=Axiom+Verge&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":113,"leechers":7,"uploader":"dauphong","files":1,"time":1431632498,"description":"About This Game\nThis is the action-adventure youÃ¢â‚¬â„¢ve been waiting decades for. After a lab accident, a scientist awakens in a mysterious, alien world. Is this a distant planet? The far future? Or a complex virtual-reality computer simulation?\n\nPlumb the recesses of a large, labyrinthine world in order to learn its secrets and uncover your role within it.\n\nDiscover tons of weapons, items, and abilities, each with their own unique behaviors and usage. YouÃ¢â‚¬â„¢ll need your wits to find them all.\n\nCombat bizarre biomechanoid constructs, the deadly fallout of an ancient war, and the demons of your own psyche.\n\nAnd finally, break the game itself by using glitches to corrupt foes and solve puzzles in the environment.\n\nLife. Afterlife. Real. Virtual. Dream. Nightmare. It's a thin line.\n\nIt's Axiom Verge","torrent":{"xt":"urn:btih:535b46c2ed1013995bce67740591177272237427","amp;dn":"Axiom+Verge","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"535b46c2ed1013995bce67740591177272237427","infoHashBuffer":{"type":"Buffer","data":[83,91,70,194,237,16,19,153,91,206,103,116,5,145,23,114,114,35,116,39]},"announce":[],"urlList":[]}}
+{
+  "title": "Axiom Verge",
+  "uid": 11920960,
+  "size": 150434512,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:535b46c2ed1013995bce67740591177272237427&amp;dn=Axiom+Verge&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 113,
+  "leechers": 7,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1431632498,
+  "description": "About This Game\nThis is the action-adventure youÃ¢â‚¬â„¢ve been waiting decades for. After a lab accident, a scientist awakens in a mysterious, alien world. Is this a distant planet? The far future? Or a complex virtual-reality computer simulation?\n\nPlumb the recesses of a large, labyrinthine world in order to learn its secrets and uncover your role within it.\n\nDiscover tons of weapons, items, and abilities, each with their own unique behaviors and usage. YouÃ¢â‚¬â„¢ll need your wits to find them all.\n\nCombat bizarre biomechanoid constructs, the deadly fallout of an ancient war, and the demons of your own psyche.\n\nAnd finally, break the game itself by using glitches to corrupt foes and solve puzzles in the environment.\n\nLife. Afterlife. Real. Virtual. Dream. Nightmare. It's a thin line.\n\nIt's Axiom Verge",
+  "parsed": {
+    "xt": "urn:btih:535b46c2ed1013995bce67740591177272237427",
+    "dn": "Axiom Verge",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "535b46c2ed1013995bce67740591177272237427",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        83,
+        91,
+        70,
+        194,
+        237,
+        16,
+        19,
+        153,
+        91,
+        206,
+        103,
+        116,
+        5,
+        145,
+        23,
+        114,
+        114,
+        35,
+        116,
+        39
+      ]
+    },
+    "name": "Axiom Verge",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 120,
+  "peers": 49,
+  "last_updated": "2016-12-25T01:14:10.763Z"
+}

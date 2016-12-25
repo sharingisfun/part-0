@@ -1,1 +1,63 @@
-{"title":"Berserk.E09.2016.1080p(sub)[DROPEY].mp4","uid":15670113,"size":576112539,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:52e933d73779c6611c54d63573fb2690989755fe&amp;dn=Berserk.E09.2016.1080p%28sub%29%5BDROPEY%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":2,"uploader":"KasperGhost","files":1,"time":1472255848,"description":"Eat Tofu instead of meat","torrent":{"xt":"urn:btih:52e933d73779c6611c54d63573fb2690989755fe","amp;dn":"Berserk.E09.2016.1080p%28sub%29%5BDROPEY%5D.mp4","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"52e933d73779c6611c54d63573fb2690989755fe","infoHashBuffer":{"type":"Buffer","data":[82,233,51,215,55,121,198,97,28,84,214,53,115,251,38,144,152,151,85,254]},"announce":[],"urlList":[]}}
+{
+  "title": "Berserk.E09.2016.1080p(sub)[DROPEY].mp4",
+  "uid": 15670113,
+  "size": 576112539,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:52e933d73779c6611c54d63573fb2690989755fe&amp;dn=Berserk.E09.2016.1080p%28sub%29%5BDROPEY%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 2,
+  "uploader": "KasperGhost",
+  "files": 1,
+  "time": 1472255848,
+  "description": "Eat Tofu instead of meat",
+  "parsed": {
+    "xt": "urn:btih:52e933d73779c6611c54d63573fb2690989755fe",
+    "dn": "Berserk.E09.2016.1080p(sub)[DROPEY].mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "52e933d73779c6611c54d63573fb2690989755fe",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        82,
+        233,
+        51,
+        215,
+        55,
+        121,
+        198,
+        97,
+        28,
+        84,
+        214,
+        53,
+        115,
+        251,
+        38,
+        144,
+        152,
+        151,
+        85,
+        254
+      ]
+    },
+    "name": "Berserk.E09.2016.1080p(sub)[DROPEY].mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 72,
+  "peers": 75,
+  "last_updated": "2016-12-25T01:11:28.231Z"
+}

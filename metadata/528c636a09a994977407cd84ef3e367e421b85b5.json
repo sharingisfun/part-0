@@ -1,1 +1,61 @@
-{"title":"Scorpion S01E05 HDTV x264-LOL[ettv]","uid":11253579,"size":315743698,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:528c636a09a994977407cd84ef3e367e421b85b5&amp;dn=Scorpion+S01E05+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":2,"uploader":"ettv","files":2,"time":1413863816,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:528c636a09a994977407cd84ef3e367e421b85b5","amp;dn":"Scorpion+S01E05+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"528c636a09a994977407cd84ef3e367e421b85b5","infoHashBuffer":{"type":"Buffer","data":[82,140,99,106,9,169,148,151,116,7,205,132,239,62,54,126,66,27,133,181]},"announce":[],"urlList":[]}}
+{
+  "title": "Scorpion S01E05 HDTV x264-LOL[ettv]",
+  "uid": 11253579,
+  "size": 315743698,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:528c636a09a994977407cd84ef3e367e421b85b5&amp;dn=Scorpion+S01E05+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1413863816,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:528c636a09a994977407cd84ef3e367e421b85b5",
+    "dn": "Scorpion S01E05 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "528c636a09a994977407cd84ef3e367e421b85b5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        82,
+        140,
+        99,
+        106,
+        9,
+        169,
+        148,
+        151,
+        116,
+        7,
+        205,
+        132,
+        239,
+        62,
+        54,
+        126,
+        66,
+        27,
+        133,
+        181
+      ]
+    },
+    "name": "Scorpion S01E05 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 2,
+  "last_updated": "2016-12-25T01:09:05.825Z"
+}

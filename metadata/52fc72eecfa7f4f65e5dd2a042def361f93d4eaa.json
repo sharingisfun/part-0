@@ -1,1 +1,61 @@
-{"title":"Cisco IOS files for GNS3","uid":8717776,"size":216165911,"categoryP":"applications","categoryS":"other_os","magnet":"?xt=urn:btih:52fc72eecfa7f4f65e5dd2a042def361f93d4eaa&amp;dn=Cisco+IOS+files+for+GNS3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":5,"uploader":"mistatofa","files":7,"time":1374361005,"description":"For all those good folk who want to study with GNS3 but don't have access to the IOS files to do so.  I've included IOS files for the 1700, 3725 and 7206VXR, with both the latest version (at time of upload) as well as the latest 12.4T version as listed in the CCIE Lab Equipment &amp; IOS.\n\nMD5 hashes are included so you can verify they have not been tampered with (MD5 hashes can be verified against those listed on the cisco.com site for these files).\n\nHappy studying!","torrent":{"xt":"urn:btih:52fc72eecfa7f4f65e5dd2a042def361f93d4eaa","amp;dn":"Cisco+IOS+files+for+GNS3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"52fc72eecfa7f4f65e5dd2a042def361f93d4eaa","infoHashBuffer":{"type":"Buffer","data":[82,252,114,238,207,167,244,246,94,93,210,160,66,222,243,97,249,61,78,170]},"announce":[],"urlList":[]}}
+{
+  "title": "Cisco IOS files for GNS3",
+  "uid": 8717776,
+  "size": 216165911,
+  "categoryP": "applications",
+  "categoryS": "other_os",
+  "magnet": "?xt=urn:btih:52fc72eecfa7f4f65e5dd2a042def361f93d4eaa&amp;dn=Cisco+IOS+files+for+GNS3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 5,
+  "uploader": "mistatofa",
+  "files": 7,
+  "time": 1374361005,
+  "description": "For all those good folk who want to study with GNS3 but don't have access to the IOS files to do so.  I've included IOS files for the 1700, 3725 and 7206VXR, with both the latest version (at time of upload) as well as the latest 12.4T version as listed in the CCIE Lab Equipment &amp; IOS.\n\nMD5 hashes are included so you can verify they have not been tampered with (MD5 hashes can be verified against those listed on the cisco.com site for these files).\n\nHappy studying!",
+  "parsed": {
+    "xt": "urn:btih:52fc72eecfa7f4f65e5dd2a042def361f93d4eaa",
+    "dn": "Cisco IOS files for GNS3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "52fc72eecfa7f4f65e5dd2a042def361f93d4eaa",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        82,
+        252,
+        114,
+        238,
+        207,
+        167,
+        244,
+        246,
+        94,
+        93,
+        210,
+        160,
+        66,
+        222,
+        243,
+        97,
+        249,
+        61,
+        78,
+        170
+      ]
+    },
+    "name": "Cisco IOS files for GNS3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 127,
+  "last_updated": "2016-12-25T01:11:56.322Z"
+}
