@@ -1,1 +1,61 @@
-{"title":"Yosemite 10.10.3 Intel PCs - Hackintosh World","uid":11875343,"size":7449918315,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:b700cf05bc2e82bd575faa642208925703a48919&amp;dn=Yosemite+10.10.3+Intel+PCs+-+Hackintosh+World&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":21,"uploader":"juciano01","files":3,"time":1430539377,"description":"Copy the Yosemite_final.raw file on the USB stick with the program that comes along.\nSet the BIOS for a UEFI boot, and select the flash drive as primary.\nStart the installation, select the flash drive in the boot menu.\n\nFor more doubt contact the Hackintosh World blog","torrent":{"xt":"urn:btih:b700cf05bc2e82bd575faa642208925703a48919","amp;dn":"Yosemite+10.10.3+Intel+PCs+-+Hackintosh+World","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b700cf05bc2e82bd575faa642208925703a48919","infoHashBuffer":{"type":"Buffer","data":[183,0,207,5,188,46,130,189,87,95,170,100,34,8,146,87,3,164,137,25]},"announce":[],"urlList":[]}}
+{
+  "title": "Yosemite 10.10.3 Intel PCs - Hackintosh World",
+  "uid": 11875343,
+  "size": 7449918315,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:b700cf05bc2e82bd575faa642208925703a48919&amp;dn=Yosemite+10.10.3+Intel+PCs+-+Hackintosh+World&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 21,
+  "uploader": "juciano01",
+  "files": 3,
+  "time": 1430539377,
+  "description": "Copy the Yosemite_final.raw file on the USB stick with the program that comes along.\nSet the BIOS for a UEFI boot, and select the flash drive as primary.\nStart the installation, select the flash drive in the boot menu.\n\nFor more doubt contact the Hackintosh World blog",
+  "parsed": {
+    "xt": "urn:btih:b700cf05bc2e82bd575faa642208925703a48919",
+    "dn": "Yosemite 10.10.3 Intel PCs - Hackintosh World",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b700cf05bc2e82bd575faa642208925703a48919",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        183,
+        0,
+        207,
+        5,
+        188,
+        46,
+        130,
+        189,
+        87,
+        95,
+        170,
+        100,
+        34,
+        8,
+        146,
+        87,
+        3,
+        164,
+        137,
+        25
+      ]
+    },
+    "name": "Yosemite 10.10.3 Intel PCs - Hackintosh World",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 67,
+  "peers": 33,
+  "last_updated": "2016-12-25T11:55:25.445Z"
+}

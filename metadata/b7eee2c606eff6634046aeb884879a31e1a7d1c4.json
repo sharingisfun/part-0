@@ -1,1 +1,63 @@
-{"title":"Empire Earth 3 (2.0.0.16) (GOG)","uid":15964242,"size":18953164,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:b7eee2c606eff6634046aeb884879a31e1a7d1c4&amp;dn=Empire+Earth+3+%282.0.0.16%29+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":54,"uploader":"trwetwr","files":3,"time":1475707063,"description":"Good Game","torrent":{"xt":"urn:btih:b7eee2c606eff6634046aeb884879a31e1a7d1c4","amp;dn":"Empire+Earth+3+%282.0.0.16%29+%28GOG%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b7eee2c606eff6634046aeb884879a31e1a7d1c4","infoHashBuffer":{"type":"Buffer","data":[183,238,226,198,6,239,246,99,64,70,174,184,132,135,154,49,225,167,209,196]},"announce":[],"urlList":[]}}
+{
+  "title": "Empire Earth 3 (2.0.0.16) (GOG)",
+  "uid": 15964242,
+  "size": 18953164,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:b7eee2c606eff6634046aeb884879a31e1a7d1c4&amp;dn=Empire+Earth+3+%282.0.0.16%29+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 54,
+  "uploader": "trwetwr",
+  "files": 3,
+  "time": 1475707063,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:b7eee2c606eff6634046aeb884879a31e1a7d1c4",
+    "dn": "Empire Earth 3 (2.0.0.16) (GOG)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "b7eee2c606eff6634046aeb884879a31e1a7d1c4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        183,
+        238,
+        226,
+        198,
+        6,
+        239,
+        246,
+        99,
+        64,
+        70,
+        174,
+        184,
+        132,
+        135,
+        154,
+        49,
+        225,
+        167,
+        209,
+        196
+      ]
+    },
+    "name": "Empire Earth 3 (2.0.0.16) (GOG)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 132,
+  "peers": 1,
+  "last_updated": "2016-12-25T12:00:44.391Z"
+}

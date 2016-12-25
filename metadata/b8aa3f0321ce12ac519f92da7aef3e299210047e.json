@@ -1,1 +1,61 @@
-{"title":"SamDrivers 15.5","uid":11880803,"size":10621472768,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:b8aa3f0321ce12ac519f92da7aef3e299210047e&amp;dn=SamDrivers+15.5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":98,"leechers":2,"uploader":"PEERBLOCK","files":1,"time":1430682140,"description":"03-05-2015  &lt;a href=&quot;\nhttp://driveroff.net/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://driveroff.net/&lt;/a&gt;","torrent":{"xt":"urn:btih:b8aa3f0321ce12ac519f92da7aef3e299210047e","amp;dn":"SamDrivers+15.5","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b8aa3f0321ce12ac519f92da7aef3e299210047e","infoHashBuffer":{"type":"Buffer","data":[184,170,63,3,33,206,18,172,81,159,146,218,122,239,62,41,146,16,4,126]},"announce":[],"urlList":[]}}
+{
+  "title": "SamDrivers 15.5",
+  "uid": 11880803,
+  "size": 10621472768,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:b8aa3f0321ce12ac519f92da7aef3e299210047e&amp;dn=SamDrivers+15.5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 98,
+  "leechers": 2,
+  "uploader": "PEERBLOCK",
+  "files": 1,
+  "time": 1430682140,
+  "description": "03-05-2015  &lt;a href=&quot;\nhttp://driveroff.net/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://driveroff.net/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:b8aa3f0321ce12ac519f92da7aef3e299210047e",
+    "dn": "SamDrivers 15.5",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b8aa3f0321ce12ac519f92da7aef3e299210047e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        184,
+        170,
+        63,
+        3,
+        33,
+        206,
+        18,
+        172,
+        81,
+        159,
+        146,
+        218,
+        122,
+        239,
+        62,
+        41,
+        146,
+        16,
+        4,
+        126
+      ]
+    },
+    "name": "SamDrivers 15.5",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 100,
+  "peers": 1,
+  "last_updated": "2016-12-25T12:04:21.019Z"
+}

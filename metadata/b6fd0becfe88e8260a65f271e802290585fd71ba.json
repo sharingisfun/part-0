@@ -1,1 +1,61 @@
-{"title":"U2 - Songs of Innocence (2014)","uid":11010583,"size":116066920,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:b6fd0becfe88e8260a65f271e802290585fd71ba&amp;dn=U2+-+Songs+of+Innocence+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":232,"leechers":8,"uploader":"RoffeTheCoolMan","files":-1,"time":1410309281,"description":"\n\nBand: U2\n\nGenre: Rock\nCountry: Ireland\nYear: 2014\nAudio codec: MP3\nRiptype: tracks\nBitrate: 320 kbps\nPlaytime: 48:22\nSize: 111 MB\nSite: plixid.com\nTracklist:\n1. The Miracle (of Joey Ramone)\n2. Every Breaking Wave\n3. California (There Is No End To Love)\n4. Song For Someone\n5. Iris (Hold Me Close)\n6. Volcano\n7. Raised By Wolves\n8. Cedarwood Road\n9. Sleep Like A Baby Tonight\n10. This Is Where You Can Reach Me\n11. The Troubles ","torrent":{"xt":"urn:btih:b6fd0becfe88e8260a65f271e802290585fd71ba","amp;dn":"U2+-+Songs+of+Innocence+%282014%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b6fd0becfe88e8260a65f271e802290585fd71ba","infoHashBuffer":{"type":"Buffer","data":[182,253,11,236,254,136,232,38,10,101,242,113,232,2,41,5,133,253,113,186]},"announce":[],"urlList":[]}}
+{
+  "title": "U2 - Songs of Innocence (2014)",
+  "uid": 11010583,
+  "size": 116066920,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:b6fd0becfe88e8260a65f271e802290585fd71ba&amp;dn=U2+-+Songs+of+Innocence+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 232,
+  "leechers": 8,
+  "uploader": "RoffeTheCoolMan",
+  "files": -1,
+  "time": 1410309281,
+  "description": "\n\nBand: U2\n\nGenre: Rock\nCountry: Ireland\nYear: 2014\nAudio codec: MP3\nRiptype: tracks\nBitrate: 320 kbps\nPlaytime: 48:22\nSize: 111 MB\nSite: plixid.com\nTracklist:\n1. The Miracle (of Joey Ramone)\n2. Every Breaking Wave\n3. California (There Is No End To Love)\n4. Song For Someone\n5. Iris (Hold Me Close)\n6. Volcano\n7. Raised By Wolves\n8. Cedarwood Road\n9. Sleep Like A Baby Tonight\n10. This Is Where You Can Reach Me\n11. The Troubles ",
+  "parsed": {
+    "xt": "urn:btih:b6fd0becfe88e8260a65f271e802290585fd71ba",
+    "dn": "U2 - Songs of Innocence (2014)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b6fd0becfe88e8260a65f271e802290585fd71ba",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        182,
+        253,
+        11,
+        236,
+        254,
+        136,
+        232,
+        38,
+        10,
+        101,
+        242,
+        113,
+        232,
+        2,
+        41,
+        5,
+        133,
+        253,
+        113,
+        186
+      ]
+    },
+    "name": "U2 - Songs of Innocence (2014)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 240,
+  "peers": 33,
+  "last_updated": "2016-12-25T11:55:11.398Z"
+}

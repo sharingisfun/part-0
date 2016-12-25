@@ -1,1 +1,61 @@
-{"title":"Elton John - Greatest Hits - 1970-2002","uid":6153254,"size":150036018,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:b95503ce1b1aa3a13a3c060416b51cb25211aa12&amp;dn=Elton+John+-+Greatest+Hits+-+1970-2002&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":6,"uploader":"gunnsalius","files":-1,"time":1296945752,"description":"Elton John - Greatest Hits - 1970-2002\n\nPlease seed after downloading...","torrent":{"xt":"urn:btih:b95503ce1b1aa3a13a3c060416b51cb25211aa12","amp;dn":"Elton+John+-+Greatest+Hits+-+1970-2002","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b95503ce1b1aa3a13a3c060416b51cb25211aa12","infoHashBuffer":{"type":"Buffer","data":[185,85,3,206,27,26,163,161,58,60,6,4,22,181,28,178,82,17,170,18]},"announce":[],"urlList":[]}}
+{
+  "title": "Elton John - Greatest Hits - 1970-2002",
+  "uid": 6153254,
+  "size": 150036018,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:b95503ce1b1aa3a13a3c060416b51cb25211aa12&amp;dn=Elton+John+-+Greatest+Hits+-+1970-2002&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 6,
+  "uploader": "gunnsalius",
+  "files": -1,
+  "time": 1296945752,
+  "description": "Elton John - Greatest Hits - 1970-2002\n\nPlease seed after downloading...",
+  "parsed": {
+    "xt": "urn:btih:b95503ce1b1aa3a13a3c060416b51cb25211aa12",
+    "dn": "Elton John - Greatest Hits - 1970-2002",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b95503ce1b1aa3a13a3c060416b51cb25211aa12",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        185,
+        85,
+        3,
+        206,
+        27,
+        26,
+        163,
+        161,
+        58,
+        60,
+        6,
+        4,
+        22,
+        181,
+        28,
+        178,
+        82,
+        17,
+        170,
+        18
+      ]
+    },
+    "name": "Elton John - Greatest Hits - 1970-2002",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 24,
+  "last_updated": "2016-12-25T12:08:27.817Z"
+}

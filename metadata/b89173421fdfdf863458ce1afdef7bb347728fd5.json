@@ -1,1 +1,61 @@
-{"title":"Iggy Azalea - Fancy ft. Charli XCX","uid":10742237,"size":4799307,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:b89173421fdfdf863458ce1afdef7bb347728fd5&amp;dn=Iggy+Azalea+-+Fancy+ft.+Charli+XCX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":0,"uploader":"DaRistas","files":-1,"time":1407768217,"description":"Iggy Azalea - Fancy ft. Charli XCX\n\nquality:..........192kbps [HQ]\ndate released:....3:20\nlength:...........3:45\nLabel:............Island\nWriter(s):........Amethyst Kelly, Charlotte Aitchison, George Astasio, Jason Pebworth, Jon Shave, Kurtis McKenzie\n\nEnjoy!\t\t","torrent":{"xt":"urn:btih:b89173421fdfdf863458ce1afdef7bb347728fd5","amp;dn":"Iggy+Azalea+-+Fancy+ft.+Charli+XCX","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b89173421fdfdf863458ce1afdef7bb347728fd5","infoHashBuffer":{"type":"Buffer","data":[184,145,115,66,31,223,223,134,52,88,206,26,253,239,123,179,71,114,143,213]},"announce":[],"urlList":[]}}
+{
+  "title": "Iggy Azalea - Fancy ft. Charli XCX",
+  "uid": 10742237,
+  "size": 4799307,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:b89173421fdfdf863458ce1afdef7bb347728fd5&amp;dn=Iggy+Azalea+-+Fancy+ft.+Charli+XCX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 0,
+  "uploader": "DaRistas",
+  "files": -1,
+  "time": 1407768217,
+  "description": "Iggy Azalea - Fancy ft. Charli XCX\n\nquality:..........192kbps [HQ]\ndate released:....3:20\nlength:...........3:45\nLabel:............Island\nWriter(s):........Amethyst Kelly, Charlotte Aitchison, George Astasio, Jason Pebworth, Jon Shave, Kurtis McKenzie\n\nEnjoy!\t\t",
+  "parsed": {
+    "xt": "urn:btih:b89173421fdfdf863458ce1afdef7bb347728fd5",
+    "dn": "Iggy Azalea - Fancy ft. Charli XCX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b89173421fdfdf863458ce1afdef7bb347728fd5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        184,
+        145,
+        115,
+        66,
+        31,
+        223,
+        223,
+        134,
+        52,
+        88,
+        206,
+        26,
+        253,
+        239,
+        123,
+        179,
+        71,
+        114,
+        143,
+        213
+      ]
+    },
+    "name": "Iggy Azalea - Fancy ft. Charli XCX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 1,
+  "last_updated": "2016-12-25T12:03:50.930Z"
+}

@@ -1,1 +1,61 @@
-{"title":"RollerCoaster Tycoon 3 - Platinum","uid":5418832,"size":730980352,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:b95aef4ccb8af073cde3fe783c59e5c6e05a86a2&amp;dn=RollerCoaster+Tycoon+3+-+Platinum&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":3,"uploader":"Rodolphog4","files":1,"time":1268019712,"description":"RollerCoaster Tycoon 3 - Platinum","torrent":{"xt":"urn:btih:b95aef4ccb8af073cde3fe783c59e5c6e05a86a2","amp;dn":"RollerCoaster+Tycoon+3+-+Platinum","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b95aef4ccb8af073cde3fe783c59e5c6e05a86a2","infoHashBuffer":{"type":"Buffer","data":[185,90,239,76,203,138,240,115,205,227,254,120,60,89,229,198,224,90,134,162]},"announce":[],"urlList":[]}}
+{
+  "title": "RollerCoaster Tycoon 3 - Platinum",
+  "uid": 5418832,
+  "size": 730980352,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:b95aef4ccb8af073cde3fe783c59e5c6e05a86a2&amp;dn=RollerCoaster+Tycoon+3+-+Platinum&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 3,
+  "uploader": "Rodolphog4",
+  "files": 1,
+  "time": 1268019712,
+  "description": "RollerCoaster Tycoon 3 - Platinum",
+  "parsed": {
+    "xt": "urn:btih:b95aef4ccb8af073cde3fe783c59e5c6e05a86a2",
+    "dn": "RollerCoaster Tycoon 3 - Platinum",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b95aef4ccb8af073cde3fe783c59e5c6e05a86a2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        185,
+        90,
+        239,
+        76,
+        203,
+        138,
+        240,
+        115,
+        205,
+        227,
+        254,
+        120,
+        60,
+        89,
+        229,
+        198,
+        224,
+        90,
+        134,
+        162
+      ]
+    },
+    "name": "RollerCoaster Tycoon 3 - Platinum",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 46,
+  "last_updated": "2016-12-25T12:08:37.857Z"
+}

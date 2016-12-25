@@ -1,1 +1,61 @@
-{"title":"Besiege v0.0.4","uid":11717880,"size":136740080,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:b90b6439d30a9781515c0def5ea13faa296a19a9&amp;dn=Besiege+v0.0.4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":0,"uploader":"dauphong","files":1,"time":1424674844,"description":"Change log - V0.04 \n\nADDITIONAL CONTENT\n\nAdded Wooden Pole Block\nAdded Slider Block\nAdded Small Balloon Block (Controllable Buoyancy)\n\nIMPROVEMENTS\n\nAdded new tool which allows you to see key mapping overlaid on your machine\nPropeller can now be flipped\nChanged propeller model &amp; texture\nDecoupler is now asymmetrical\nAdded toggle mode to flamethrower\nAdded toggle mode to contractible spring\nCogs now have less friction\nBoulder block gets blood on it when it collides with a man or animal.\nPlow block gets blood on it when it collides with a man or animal.\nKey Mapper/Parameter tuner :\nAdded Ã¢â‚¬ËœCopy SettingsÃ¢â‚¬â„¢ button + Ã¢â‚¬Å“CTRL CÃ¢â‚¬ï¿½ shortcut\nAdded Ã¢â‚¬ËœPaste SettingsÃ¢â‚¬â„¢ button + Ã¢â‚¬Å“CTRL VÃ¢â‚¬ï¿½ shortcut\nCan now be closed by pressing Ã¢â‚¬ËœEscapeÃ¢â‚¬â„¢\n\nFIXES\n\nClicking Ã¢â‚¬Å“OVERWRITEÃ¢â‚¬ï¿½ text will now overwrite save file\nFixed save files not working in some system languages\nFixed piston not showing up in saved thumbnail\nFixed half-pipe not showing up in saved thumbnail\nThe objective text Ã¢â‚¬Å“1Ã¢â‚¬ï¿½ now disappears on level 12 when you press play\nKey Mapper/Parameter tuner now closes when pressing Play","torrent":{"xt":"urn:btih:b90b6439d30a9781515c0def5ea13faa296a19a9","amp;dn":"Besiege+v0.0.4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b90b6439d30a9781515c0def5ea13faa296a19a9","infoHashBuffer":{"type":"Buffer","data":[185,11,100,57,211,10,151,129,81,92,13,239,94,161,63,170,41,106,25,169]},"announce":[],"urlList":[]}}
+{
+  "title": "Besiege v0.0.4",
+  "uid": 11717880,
+  "size": 136740080,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:b90b6439d30a9781515c0def5ea13faa296a19a9&amp;dn=Besiege+v0.0.4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 0,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1424674844,
+  "description": "Change log - V0.04 \n\nADDITIONAL CONTENT\n\nAdded Wooden Pole Block\nAdded Slider Block\nAdded Small Balloon Block (Controllable Buoyancy)\n\nIMPROVEMENTS\n\nAdded new tool which allows you to see key mapping overlaid on your machine\nPropeller can now be flipped\nChanged propeller model &amp; texture\nDecoupler is now asymmetrical\nAdded toggle mode to flamethrower\nAdded toggle mode to contractible spring\nCogs now have less friction\nBoulder block gets blood on it when it collides with a man or animal.\nPlow block gets blood on it when it collides with a man or animal.\nKey Mapper/Parameter tuner :\nAdded Ã¢â‚¬ËœCopy SettingsÃ¢â‚¬â„¢ button + Ã¢â‚¬Å“CTRL CÃ¢â‚¬ï¿½ shortcut\nAdded Ã¢â‚¬ËœPaste SettingsÃ¢â‚¬â„¢ button + Ã¢â‚¬Å“CTRL VÃ¢â‚¬ï¿½ shortcut\nCan now be closed by pressing Ã¢â‚¬ËœEscapeÃ¢â‚¬â„¢\n\nFIXES\n\nClicking Ã¢â‚¬Å“OVERWRITEÃ¢â‚¬ï¿½ text will now overwrite save file\nFixed save files not working in some system languages\nFixed piston not showing up in saved thumbnail\nFixed half-pipe not showing up in saved thumbnail\nThe objective text Ã¢â‚¬Å“1Ã¢â‚¬ï¿½ now disappears on level 12 when you press play\nKey Mapper/Parameter tuner now closes when pressing Play",
+  "parsed": {
+    "xt": "urn:btih:b90b6439d30a9781515c0def5ea13faa296a19a9",
+    "dn": "Besiege v0.0.4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b90b6439d30a9781515c0def5ea13faa296a19a9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        185,
+        11,
+        100,
+        57,
+        211,
+        10,
+        151,
+        129,
+        81,
+        92,
+        13,
+        239,
+        94,
+        161,
+        63,
+        170,
+        41,
+        106,
+        25,
+        169
+      ]
+    },
+    "name": "Besiege v0.0.4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 8,
+  "last_updated": "2016-12-25T12:06:41.464Z"
+}

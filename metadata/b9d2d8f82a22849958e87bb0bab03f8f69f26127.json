@@ -1,1 +1,61 @@
-{"title":"iZombie.S01E03.HDTV.x264-LOL[ettv]","uid":11789142,"size":273035363,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b9d2d8f82a22849958e87bb0bab03f8f69f26127&amp;dn=iZombie.S01E03.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":580,"leechers":117,"uploader":"ettv","files":4,"time":1427860766,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:b9d2d8f82a22849958e87bb0bab03f8f69f26127","amp;dn":"iZombie.S01E03.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b9d2d8f82a22849958e87bb0bab03f8f69f26127","infoHashBuffer":{"type":"Buffer","data":[185,210,216,248,42,34,132,153,88,232,123,176,186,176,63,143,105,242,97,39]},"announce":[],"urlList":[]}}
+{
+  "title": "iZombie.S01E03.HDTV.x264-LOL[ettv]",
+  "uid": 11789142,
+  "size": 273035363,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b9d2d8f82a22849958e87bb0bab03f8f69f26127&amp;dn=iZombie.S01E03.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 580,
+  "leechers": 117,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1427860766,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:b9d2d8f82a22849958e87bb0bab03f8f69f26127",
+    "dn": "iZombie.S01E03.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b9d2d8f82a22849958e87bb0bab03f8f69f26127",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        185,
+        210,
+        216,
+        248,
+        42,
+        34,
+        132,
+        153,
+        88,
+        232,
+        123,
+        176,
+        186,
+        176,
+        63,
+        143,
+        105,
+        242,
+        97,
+        39
+      ]
+    },
+    "name": "iZombie.S01E03.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 697,
+  "peers": 13,
+  "last_updated": "2016-12-25T12:11:08.419Z"
+}

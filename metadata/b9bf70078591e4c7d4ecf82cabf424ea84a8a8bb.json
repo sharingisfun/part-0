@@ -1,1 +1,61 @@
-{"title":"DayZ Client v0.45 Release","uid":10123592,"size":5828168512,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:b9bf70078591e4c7d4ecf82cabf424ea84a8a8bb&amp;dn=DayZ+Client+v0.45+Release&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":5,"uploader":"DJ_DU2CE","files":1,"time":1399680603,"description":"This pack is released by Shadow and Psysim  \n\n\n\n\n\n\n\n\n----------------------------------Starting the game----------------------------------\n\n\nNo installation should be necessary but if you have any problems try running: _CommonRedistDirectXJun2010DXSETUP.exe\n\nBefore launching the game run the: ChangeMyName.bat to set your in-game name.\n\n\n\n\n\n\n----------------------------------Server setup---------------------------------------\n\nDayZ Server Launcher.bat will launch a server that will run on your local computer,\nThe server will not save any progress but an addon can be downloaded for that on the forum or the download page.\n\n\nMore information can be found on the tutorial page and on the forum\n\n\n\n\n\n\nLast note: If you have any questions that makes sense to ask visit the irc at:\n\n\n\n\n\n\n\n\n\n\n//Shadow (http://www.dayzsurvival.se)","torrent":{"xt":"urn:btih:b9bf70078591e4c7d4ecf82cabf424ea84a8a8bb","amp;dn":"DayZ+Client+v0.45+Release","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b9bf70078591e4c7d4ecf82cabf424ea84a8a8bb","infoHashBuffer":{"type":"Buffer","data":[185,191,112,7,133,145,228,199,212,236,248,44,171,244,36,234,132,168,168,187]},"announce":[],"urlList":[]}}
+{
+  "title": "DayZ Client v0.45 Release",
+  "uid": 10123592,
+  "size": 5828168512,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:b9bf70078591e4c7d4ecf82cabf424ea84a8a8bb&amp;dn=DayZ+Client+v0.45+Release&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 5,
+  "uploader": "DJ_DU2CE",
+  "files": 1,
+  "time": 1399680603,
+  "description": "This pack is released by Shadow and Psysim  \n\n\n\n\n\n\n\n\n----------------------------------Starting the game----------------------------------\n\n\nNo installation should be necessary but if you have any problems try running: _CommonRedistDirectXJun2010DXSETUP.exe\n\nBefore launching the game run the: ChangeMyName.bat to set your in-game name.\n\n\n\n\n\n\n----------------------------------Server setup---------------------------------------\n\nDayZ Server Launcher.bat will launch a server that will run on your local computer,\nThe server will not save any progress but an addon can be downloaded for that on the forum or the download page.\n\n\nMore information can be found on the tutorial page and on the forum\n\n\n\n\n\n\nLast note: If you have any questions that makes sense to ask visit the irc at:\n\n\n\n\n\n\n\n\n\n\n//Shadow (http://www.dayzsurvival.se)",
+  "parsed": {
+    "xt": "urn:btih:b9bf70078591e4c7d4ecf82cabf424ea84a8a8bb",
+    "dn": "DayZ Client v0.45 Release",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b9bf70078591e4c7d4ecf82cabf424ea84a8a8bb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        185,
+        191,
+        112,
+        7,
+        133,
+        145,
+        228,
+        199,
+        212,
+        236,
+        248,
+        44,
+        171,
+        244,
+        36,
+        234,
+        132,
+        168,
+        168,
+        187
+      ]
+    },
+    "name": "DayZ Client v0.45 Release",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 1,
+  "last_updated": "2016-12-25T12:10:38.302Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Breaking Bad S05E13 HDTV x264-EVOLVE[ettv]","uid":8895761,"size":354230178,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b78351bedfa3185c0634b9662991ee508135fdc2&amp;dn=Breaking+Bad+S05E13+HDTV+x264-EVOLVE%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":89,"leechers":6,"uploader":"ettv","files":2,"time":1378699560,"description":"x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n","torrent":{"xt":"urn:btih:b78351bedfa3185c0634b9662991ee508135fdc2","amp;dn":"Breaking+Bad+S05E13+HDTV+x264-EVOLVE%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b78351bedfa3185c0634b9662991ee508135fdc2","infoHashBuffer":{"type":"Buffer","data":[183,131,81,190,223,163,24,92,6,52,185,102,41,145,238,80,129,53,253,194]},"announce":[],"urlList":[]}}
+{
+  "title": "Breaking Bad S05E13 HDTV x264-EVOLVE[ettv]",
+  "uid": 8895761,
+  "size": 354230178,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b78351bedfa3185c0634b9662991ee508135fdc2&amp;dn=Breaking+Bad+S05E13+HDTV+x264-EVOLVE%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 89,
+  "leechers": 6,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1378699560,
+  "description": "x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n",
+  "parsed": {
+    "xt": "urn:btih:b78351bedfa3185c0634b9662991ee508135fdc2",
+    "dn": "Breaking Bad S05E13 HDTV x264-EVOLVE[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b78351bedfa3185c0634b9662991ee508135fdc2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        183,
+        131,
+        81,
+        190,
+        223,
+        163,
+        24,
+        92,
+        6,
+        52,
+        185,
+        102,
+        41,
+        145,
+        238,
+        80,
+        129,
+        53,
+        253,
+        194
+      ]
+    },
+    "name": "Breaking Bad S05E13 HDTV x264-EVOLVE[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 95,
+  "peers": 2,
+  "last_updated": "2016-12-25T11:58:11.936Z"
+}

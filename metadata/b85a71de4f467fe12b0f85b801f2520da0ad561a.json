@@ -1,1 +1,63 @@
-{"title":"Stranded Deep v0.10","uid":13636719,"size":607498385,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:b85a71de4f467fe12b0f85b801f2520da0ad561a&amp;dn=Stranded+Deep+v0.10&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":4,"uploader":"dauphong","files":1,"time":1456085491,"description":"Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Experience terrifying encounters both above and below an endless environment. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play","torrent":{"xt":"urn:btih:b85a71de4f467fe12b0f85b801f2520da0ad561a","amp;dn":"Stranded+Deep+v0.10","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b85a71de4f467fe12b0f85b801f2520da0ad561a","infoHashBuffer":{"type":"Buffer","data":[184,90,113,222,79,70,127,225,43,15,133,184,1,242,82,13,160,173,86,26]},"announce":[],"urlList":[]}}
+{
+  "title": "Stranded Deep v0.10",
+  "uid": 13636719,
+  "size": 607498385,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:b85a71de4f467fe12b0f85b801f2520da0ad561a&amp;dn=Stranded+Deep+v0.10&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 4,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1456085491,
+  "description": "Take the role of a plane crash survivor stranded somewhere in the Pacific Ocean. Experience terrifying encounters both above and below an endless environment. Come face to face with some of the most life threatening scenarios that will result in a different experience each time you play",
+  "parsed": {
+    "xt": "urn:btih:b85a71de4f467fe12b0f85b801f2520da0ad561a",
+    "dn": "Stranded Deep v0.10",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "b85a71de4f467fe12b0f85b801f2520da0ad561a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        184,
+        90,
+        113,
+        222,
+        79,
+        70,
+        127,
+        225,
+        43,
+        15,
+        133,
+        184,
+        1,
+        242,
+        82,
+        13,
+        160,
+        173,
+        86,
+        26
+      ]
+    },
+    "name": "Stranded Deep v0.10",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 50,
+  "last_updated": "2016-12-25T12:03:00.781Z"
+}
