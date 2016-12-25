@@ -1,1 +1,61 @@
-{"title":"Rixton - Me and My Broken Heart.mp3","uid":10927855,"size":7951771,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:57bfc0456e459a2d6536b38c7aaf984af6ac5412&amp;dn=Rixton+-+Me+and+My+Broken+Heart.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":0,"uploader":"RoffeTheCoolMan","files":-1,"time":1409380426,"description":"RIXTON \n\nPÃƒÂ¥ begÃƒÂ¤ran / Per Reuqest","torrent":{"xt":"urn:btih:57bfc0456e459a2d6536b38c7aaf984af6ac5412","amp;dn":"Rixton+-+Me+and+My+Broken+Heart.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"57bfc0456e459a2d6536b38c7aaf984af6ac5412","infoHashBuffer":{"type":"Buffer","data":[87,191,192,69,110,69,154,45,101,54,179,140,122,175,152,74,246,172,84,18]},"announce":[],"urlList":[]}}
+{
+  "title": "Rixton - Me and My Broken Heart.mp3",
+  "uid": 10927855,
+  "size": 7951771,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:57bfc0456e459a2d6536b38c7aaf984af6ac5412&amp;dn=Rixton+-+Me+and+My+Broken+Heart.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 0,
+  "uploader": "RoffeTheCoolMan",
+  "files": -1,
+  "time": 1409380426,
+  "description": "RIXTON \n\nPÃƒÂ¥ begÃƒÂ¤ran / Per Reuqest",
+  "parsed": {
+    "xt": "urn:btih:57bfc0456e459a2d6536b38c7aaf984af6ac5412",
+    "dn": "Rixton - Me and My Broken Heart.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "57bfc0456e459a2d6536b38c7aaf984af6ac5412",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        87,
+        191,
+        192,
+        69,
+        110,
+        69,
+        154,
+        45,
+        101,
+        54,
+        179,
+        140,
+        122,
+        175,
+        152,
+        74,
+        246,
+        172,
+        84,
+        18
+      ]
+    },
+    "name": "Rixton - Me and My Broken Heart.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 76,
+  "peers": 25,
+  "last_updated": "2016-12-25T01:42:11.984Z"
+}

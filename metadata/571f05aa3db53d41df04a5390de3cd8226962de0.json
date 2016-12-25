@@ -1,1 +1,61 @@
-{"title":"House MD- Season 8 complete (mini-mkv)","uid":7290576,"size":3908952139,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:571f05aa3db53d41df04a5390de3cd8226962de0&amp;dn=House+MD-+Season+8+complete+%28mini-mkv%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":100,"leechers":47,"uploader":"FrodooBagginz","files":24,"time":1337721686,"description":"House M.D. Season 8- Episoodes 1-22 and the special episode Swan Songs\n\nThese are not my encodes. I collected all of the smaller MKV-X264 encodes from around the internet and packaged them up into this easy package.\n\nResolutions, bitrates, and size vary because of the different encoders. All episodes under 200MB except for the Swan Songs special.","torrent":{"xt":"urn:btih:571f05aa3db53d41df04a5390de3cd8226962de0","amp;dn":"House+MD-+Season+8+complete+%28mini-mkv%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"571f05aa3db53d41df04a5390de3cd8226962de0","infoHashBuffer":{"type":"Buffer","data":[87,31,5,170,61,181,61,65,223,4,165,57,13,227,205,130,38,150,45,224]},"announce":[],"urlList":[]}}
+{
+  "title": "House MD- Season 8 complete (mini-mkv)",
+  "uid": 7290576,
+  "size": 3908952139,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:571f05aa3db53d41df04a5390de3cd8226962de0&amp;dn=House+MD-+Season+8+complete+%28mini-mkv%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 100,
+  "leechers": 47,
+  "uploader": "FrodooBagginz",
+  "files": 24,
+  "time": 1337721686,
+  "description": "House M.D. Season 8- Episoodes 1-22 and the special episode Swan Songs\n\nThese are not my encodes. I collected all of the smaller MKV-X264 encodes from around the internet and packaged them up into this easy package.\n\nResolutions, bitrates, and size vary because of the different encoders. All episodes under 200MB except for the Swan Songs special.",
+  "parsed": {
+    "xt": "urn:btih:571f05aa3db53d41df04a5390de3cd8226962de0",
+    "dn": "House MD- Season 8 complete (mini-mkv)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "571f05aa3db53d41df04a5390de3cd8226962de0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        87,
+        31,
+        5,
+        170,
+        61,
+        181,
+        61,
+        65,
+        223,
+        4,
+        165,
+        57,
+        13,
+        227,
+        205,
+        130,
+        38,
+        150,
+        45,
+        224
+      ]
+    },
+    "name": "House MD- Season 8 complete (mini-mkv)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 147,
+  "peers": 105,
+  "last_updated": "2016-12-25T01:38:15.232Z"
+}

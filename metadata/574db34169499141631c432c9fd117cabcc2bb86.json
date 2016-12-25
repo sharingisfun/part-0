@@ -1,1 +1,61 @@
-{"title":"Scarface FRENCH 1984","uid":10766241,"size":1492192460,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:574db34169499141631c432c9fd117cabcc2bb86&amp;dn=Scarface+FRENCH+1984&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":159,"leechers":7,"uploader":"pingoune","files":3,"time":1408031474,"description":"Download and play it ! Enjoy ;)","torrent":{"xt":"urn:btih:574db34169499141631c432c9fd117cabcc2bb86","amp;dn":"Scarface+FRENCH+1984","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"574db34169499141631c432c9fd117cabcc2bb86","infoHashBuffer":{"type":"Buffer","data":[87,77,179,65,105,73,145,65,99,28,67,44,159,209,23,202,188,194,187,134]},"announce":[],"urlList":[]}}
+{
+  "title": "Scarface FRENCH 1984",
+  "uid": 10766241,
+  "size": 1492192460,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:574db34169499141631c432c9fd117cabcc2bb86&amp;dn=Scarface+FRENCH+1984&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 159,
+  "leechers": 7,
+  "uploader": "pingoune",
+  "files": 3,
+  "time": 1408031474,
+  "description": "Download and play it ! Enjoy ;)",
+  "parsed": {
+    "xt": "urn:btih:574db34169499141631c432c9fd117cabcc2bb86",
+    "dn": "Scarface FRENCH 1984",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "574db34169499141631c432c9fd117cabcc2bb86",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        87,
+        77,
+        179,
+        65,
+        105,
+        73,
+        145,
+        65,
+        99,
+        28,
+        67,
+        44,
+        159,
+        209,
+        23,
+        202,
+        188,
+        194,
+        187,
+        134
+      ]
+    },
+    "name": "Scarface FRENCH 1984",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 166,
+  "peers": 162,
+  "last_updated": "2016-12-25T01:39:21.422Z"
+}

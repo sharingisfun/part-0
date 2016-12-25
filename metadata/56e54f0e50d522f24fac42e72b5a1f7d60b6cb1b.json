@@ -1,1 +1,61 @@
-{"title":"Rectify S01E01 HDTV x264-2HD [eztv]","uid":8382241,"size":378576527,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:56e54f0e50d522f24fac42e72b5a1f7d60b6cb1b&amp;dn=Rectify+S01E01+HDTV+x264-2HD+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":7,"uploader":"eztv","files":1,"time":1366203806,"description":"#EZTV @ EFNet -&gt; To avoid fakes, ALWAYS check that the torrent was added by eztv. &lt;a href=&quot;\nhttp://eztv.it/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://eztv.it/&lt;/a&gt;\n\nEpisode: Rectify S01E01 HDTV x264-2HD\nScreenshots:\n\n\n\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW","torrent":{"xt":"urn:btih:56e54f0e50d522f24fac42e72b5a1f7d60b6cb1b","amp;dn":"Rectify+S01E01+HDTV+x264-2HD+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"56e54f0e50d522f24fac42e72b5a1f7d60b6cb1b","infoHashBuffer":{"type":"Buffer","data":[86,229,79,14,80,213,34,242,79,172,66,231,43,90,31,125,96,182,203,27]},"announce":[],"urlList":[]}}
+{
+  "title": "Rectify S01E01 HDTV x264-2HD [eztv]",
+  "uid": 8382241,
+  "size": 378576527,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:56e54f0e50d522f24fac42e72b5a1f7d60b6cb1b&amp;dn=Rectify+S01E01+HDTV+x264-2HD+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 7,
+  "uploader": "eztv",
+  "files": 1,
+  "time": 1366203806,
+  "description": "#EZTV @ EFNet -&gt; To avoid fakes, ALWAYS check that the torrent was added by eztv. &lt;a href=&quot;\nhttp://eztv.it/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://eztv.it/&lt;/a&gt;\n\nEpisode: Rectify S01E01 HDTV x264-2HD\nScreenshots:\n\n\n\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW",
+  "parsed": {
+    "xt": "urn:btih:56e54f0e50d522f24fac42e72b5a1f7d60b6cb1b",
+    "dn": "Rectify S01E01 HDTV x264-2HD [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "56e54f0e50d522f24fac42e72b5a1f7d60b6cb1b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        86,
+        229,
+        79,
+        14,
+        80,
+        213,
+        34,
+        242,
+        79,
+        172,
+        66,
+        231,
+        43,
+        90,
+        31,
+        125,
+        96,
+        182,
+        203,
+        27
+      ]
+    },
+    "name": "Rectify S01E01 HDTV x264-2HD [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 91,
+  "last_updated": "2016-12-25T01:37:13.026Z"
+}

@@ -1,1 +1,61 @@
-{"title":"The Killing S04E02 WEBRip x264-FUM[ettv]","uid":10676501,"size":329196555,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:58945645755016b22590a192c2768b8590f82342&amp;dn=The+Killing+S04E02+WEBRip+x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":5,"uploader":"ettv","files":2,"time":1406956586,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:58945645755016b22590a192c2768b8590f82342","amp;dn":"The+Killing+S04E02+WEBRip+x264-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"58945645755016b22590a192c2768b8590f82342","infoHashBuffer":{"type":"Buffer","data":[88,148,86,69,117,80,22,178,37,144,161,146,194,118,139,133,144,248,35,66]},"announce":[],"urlList":[]}}
+{
+  "title": "The Killing S04E02 WEBRip x264-FUM[ettv]",
+  "uid": 10676501,
+  "size": 329196555,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:58945645755016b22590a192c2768b8590f82342&amp;dn=The+Killing+S04E02+WEBRip+x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1406956586,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:58945645755016b22590a192c2768b8590f82342",
+    "dn": "The Killing S04E02 WEBRip x264-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "58945645755016b22590a192c2768b8590f82342",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        88,
+        148,
+        86,
+        69,
+        117,
+        80,
+        22,
+        178,
+        37,
+        144,
+        161,
+        146,
+        194,
+        118,
+        139,
+        133,
+        144,
+        248,
+        35,
+        66
+      ]
+    },
+    "name": "The Killing S04E02 WEBRip x264-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 16,
+  "last_updated": "2016-12-25T01:47:17.008Z"
+}

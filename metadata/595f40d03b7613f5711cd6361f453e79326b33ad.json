@@ -1,1 +1,61 @@
-{"title":"The Prodigy - Discography (1991-2009)","uid":4831284,"size":1012317465,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:595f40d03b7613f5711cd6361f453e79326b33ad&amp;dn=The+Prodigy+-+Discography+%281991-2009%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":8,"uploader":"nabux","files":104,"time":1239139396,"description":"Experience (1992)\nMusic For The Jilted Generation (1994)\nThe Fat Of The Land (1997)\nProdigy Presents The Dirtchamber Sessions Volume One (1999)\nExperience Expanded (2001)\nAlways Outnumbered, Never Outgunned (2004)\nInvaders Must Die (2009) ","torrent":{"xt":"urn:btih:595f40d03b7613f5711cd6361f453e79326b33ad","amp;dn":"The+Prodigy+-+Discography+%281991-2009%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"595f40d03b7613f5711cd6361f453e79326b33ad","infoHashBuffer":{"type":"Buffer","data":[89,95,64,208,59,118,19,245,113,28,214,54,31,69,62,121,50,107,51,173]},"announce":[],"urlList":[]}}
+{
+  "title": "The Prodigy - Discography (1991-2009)",
+  "uid": 4831284,
+  "size": 1012317465,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:595f40d03b7613f5711cd6361f453e79326b33ad&amp;dn=The+Prodigy+-+Discography+%281991-2009%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 8,
+  "uploader": "nabux",
+  "files": 104,
+  "time": 1239139396,
+  "description": "Experience (1992)\nMusic For The Jilted Generation (1994)\nThe Fat Of The Land (1997)\nProdigy Presents The Dirtchamber Sessions Volume One (1999)\nExperience Expanded (2001)\nAlways Outnumbered, Never Outgunned (2004)\nInvaders Must Die (2009) ",
+  "parsed": {
+    "xt": "urn:btih:595f40d03b7613f5711cd6361f453e79326b33ad",
+    "dn": "The Prodigy - Discography (1991-2009)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "595f40d03b7613f5711cd6361f453e79326b33ad",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        89,
+        95,
+        64,
+        208,
+        59,
+        118,
+        19,
+        245,
+        113,
+        28,
+        214,
+        54,
+        31,
+        69,
+        62,
+        121,
+        50,
+        107,
+        51,
+        173
+      ]
+    },
+    "name": "The Prodigy - Discography (1991-2009)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 66,
+  "peers": 157,
+  "last_updated": "2016-12-25T01:52:39.904Z"
+}

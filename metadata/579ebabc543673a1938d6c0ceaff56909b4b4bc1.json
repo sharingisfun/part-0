@@ -1,1 +1,63 @@
-{"title":"The Forest Public Alpha v0.47d","uid":15891277,"size":929756584,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:579ebabc543673a1938d6c0ceaff56909b4b4bc1&amp;dn=The+Forest+Public+Alpha+v0.47d&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":15,"uploader":"dauphong","files":1,"time":1474752074,"description":"As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants.\r\n\r\nBuild, explore, survive in this terrifying first person survival horror simulator","torrent":{"xt":"urn:btih:579ebabc543673a1938d6c0ceaff56909b4b4bc1","amp;dn":"The+Forest+Public+Alpha+v0.47d","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"579ebabc543673a1938d6c0ceaff56909b4b4bc1","infoHashBuffer":{"type":"Buffer","data":[87,158,186,188,84,54,115,161,147,141,108,12,234,255,86,144,155,75,75,193]},"announce":[],"urlList":[]}}
+{
+  "title": "The Forest Public Alpha v0.47d",
+  "uid": 15891277,
+  "size": 929756584,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:579ebabc543673a1938d6c0ceaff56909b4b4bc1&amp;dn=The+Forest+Public+Alpha+v0.47d&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 15,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1474752074,
+  "description": "As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants.\r\n\r\nBuild, explore, survive in this terrifying first person survival horror simulator",
+  "parsed": {
+    "xt": "urn:btih:579ebabc543673a1938d6c0ceaff56909b4b4bc1",
+    "dn": "The Forest Public Alpha v0.47d",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "579ebabc543673a1938d6c0ceaff56909b4b4bc1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        87,
+        158,
+        186,
+        188,
+        84,
+        54,
+        115,
+        161,
+        147,
+        141,
+        108,
+        12,
+        234,
+        255,
+        86,
+        144,
+        155,
+        75,
+        75,
+        193
+      ]
+    },
+    "name": "The Forest Public Alpha v0.47d",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 21,
+  "last_updated": "2016-12-25T01:41:23.839Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Priest_(2011)_BDRip[horrorhall.ru]","uid":8073961,"size":1562853376,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:588d4af4de8ca5feb2a4990dcefc9daa2368414f&amp;dn=Priest_%282011%29_BDRip%5Bhorrorhall.ru%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":4,"uploader":"But4er","files":1,"time":1359338179,"description":"horrorhall.ru","torrent":{"xt":"urn:btih:588d4af4de8ca5feb2a4990dcefc9daa2368414f","amp;dn":"Priest_%282011%29_BDRip%5Bhorrorhall.ru%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"588d4af4de8ca5feb2a4990dcefc9daa2368414f","infoHashBuffer":{"type":"Buffer","data":[88,141,74,244,222,140,165,254,178,164,153,13,206,252,157,170,35,104,65,79]},"announce":[],"urlList":[]}}
+{
+  "title": "Priest_(2011)_BDRip[horrorhall.ru]",
+  "uid": 8073961,
+  "size": 1562853376,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:588d4af4de8ca5feb2a4990dcefc9daa2368414f&amp;dn=Priest_%282011%29_BDRip%5Bhorrorhall.ru%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 4,
+  "uploader": "But4er",
+  "files": 1,
+  "time": 1359338179,
+  "description": "horrorhall.ru",
+  "parsed": {
+    "xt": "urn:btih:588d4af4de8ca5feb2a4990dcefc9daa2368414f",
+    "dn": "Priest_(2011)_BDRip[horrorhall.ru]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "588d4af4de8ca5feb2a4990dcefc9daa2368414f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        88,
+        141,
+        74,
+        244,
+        222,
+        140,
+        165,
+        254,
+        178,
+        164,
+        153,
+        13,
+        206,
+        252,
+        157,
+        170,
+        35,
+        104,
+        65,
+        79
+      ]
+    },
+    "name": "Priest_(2011)_BDRip[horrorhall.ru]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 82,
+  "peers": 8,
+  "last_updated": "2016-12-25T01:47:08.988Z"
+}

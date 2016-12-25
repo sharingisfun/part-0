@@ -1,1 +1,61 @@
-{"title":"EZDrummer(Complete).rar","uid":4463199,"size":4082389148,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:5880db0187759603bc99ca6540215de365f559a3&amp;dn=EZDrummer%28Complete%29.rar&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":102,"leechers":5,"uploader":"Flamb3rg","files":1,"time":1224795880,"description":"EZDrummer + Expansions","torrent":{"xt":"urn:btih:5880db0187759603bc99ca6540215de365f559a3","amp;dn":"EZDrummer%28Complete%29.rar","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5880db0187759603bc99ca6540215de365f559a3","infoHashBuffer":{"type":"Buffer","data":[88,128,219,1,135,117,150,3,188,153,202,101,64,33,93,227,101,245,89,163]},"announce":[],"urlList":[]}}
+{
+  "title": "EZDrummer(Complete).rar",
+  "uid": 4463199,
+  "size": 4082389148,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:5880db0187759603bc99ca6540215de365f559a3&amp;dn=EZDrummer%28Complete%29.rar&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 102,
+  "leechers": 5,
+  "uploader": "Flamb3rg",
+  "files": 1,
+  "time": 1224795880,
+  "description": "EZDrummer + Expansions",
+  "parsed": {
+    "xt": "urn:btih:5880db0187759603bc99ca6540215de365f559a3",
+    "dn": "EZDrummer(Complete).rar",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5880db0187759603bc99ca6540215de365f559a3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        88,
+        128,
+        219,
+        1,
+        135,
+        117,
+        150,
+        3,
+        188,
+        153,
+        202,
+        101,
+        64,
+        33,
+        93,
+        227,
+        101,
+        245,
+        89,
+        163
+      ]
+    },
+    "name": "EZDrummer(Complete).rar",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 107,
+  "peers": 58,
+  "last_updated": "2016-12-25T01:46:40.911Z"
+}

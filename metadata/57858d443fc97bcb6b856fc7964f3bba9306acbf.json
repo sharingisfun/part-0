@@ -1,1 +1,63 @@
-{"title":"Offspring.S06E08.HDTV.x264-FQM","uid":15718576,"size":320582553,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:57858d443fc97bcb6b856fc7964f3bba9306acbf&amp;dn=Offspring.S06E08.HDTV.x264-FQM&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":5,"uploader":"TvTeam","files":4,"time":1472653026,"description":"Torrent from:\r\n~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:57858d443fc97bcb6b856fc7964f3bba9306acbf","amp;dn":"Offspring.S06E08.HDTV.x264-FQM","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"57858d443fc97bcb6b856fc7964f3bba9306acbf","infoHashBuffer":{"type":"Buffer","data":[87,133,141,68,63,201,123,203,107,133,111,199,150,79,59,186,147,6,172,191]},"announce":[],"urlList":[]}}
+{
+  "title": "Offspring.S06E08.HDTV.x264-FQM",
+  "uid": 15718576,
+  "size": 320582553,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:57858d443fc97bcb6b856fc7964f3bba9306acbf&amp;dn=Offspring.S06E08.HDTV.x264-FQM&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 5,
+  "uploader": "TvTeam",
+  "files": 4,
+  "time": 1472653026,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:57858d443fc97bcb6b856fc7964f3bba9306acbf",
+    "dn": "Offspring.S06E08.HDTV.x264-FQM",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "57858d443fc97bcb6b856fc7964f3bba9306acbf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        87,
+        133,
+        141,
+        68,
+        63,
+        201,
+        123,
+        203,
+        107,
+        133,
+        111,
+        199,
+        150,
+        79,
+        59,
+        186,
+        147,
+        6,
+        172,
+        191
+      ]
+    },
+    "name": "Offspring.S06E08.HDTV.x264-FQM",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 41,
+  "last_updated": "2016-12-25T01:40:41.690Z"
+}

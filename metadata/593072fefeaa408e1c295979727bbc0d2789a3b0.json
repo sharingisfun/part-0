@@ -1,1 +1,61 @@
-{"title":"Supernatural - Season 2","uid":4156071,"size":8039307060,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:593072fefeaa408e1c295979727bbc0d2789a3b0&amp;dn=Supernatural+-+Season+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":185,"leechers":109,"uploader":"pungsnurr","files":22,"time":1209158003,"description":"Supernatural Season 2\n\n\nEpisode 1-22 \n &lt;a href=&quot;\nhttp://www.imdb.com/title/tt0460681/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt0460681/&lt;/a&gt;","torrent":{"xt":"urn:btih:593072fefeaa408e1c295979727bbc0d2789a3b0","amp;dn":"Supernatural+-+Season+2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"593072fefeaa408e1c295979727bbc0d2789a3b0","infoHashBuffer":{"type":"Buffer","data":[89,48,114,254,254,170,64,142,28,41,89,121,114,123,188,13,39,137,163,176]},"announce":[],"urlList":[]}}
+{
+  "title": "Supernatural - Season 2",
+  "uid": 4156071,
+  "size": 8039307060,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:593072fefeaa408e1c295979727bbc0d2789a3b0&amp;dn=Supernatural+-+Season+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 185,
+  "leechers": 109,
+  "uploader": "pungsnurr",
+  "files": 22,
+  "time": 1209158003,
+  "description": "Supernatural Season 2\n\n\nEpisode 1-22 \n &lt;a href=&quot;\nhttp://www.imdb.com/title/tt0460681/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt0460681/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:593072fefeaa408e1c295979727bbc0d2789a3b0",
+    "dn": "Supernatural - Season 2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "593072fefeaa408e1c295979727bbc0d2789a3b0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        89,
+        48,
+        114,
+        254,
+        254,
+        170,
+        64,
+        142,
+        28,
+        41,
+        89,
+        121,
+        114,
+        123,
+        188,
+        13,
+        39,
+        137,
+        163,
+        176
+      ]
+    },
+    "name": "Supernatural - Season 2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 294,
+  "peers": 51,
+  "last_updated": "2016-12-25T01:51:37.738Z"
+}

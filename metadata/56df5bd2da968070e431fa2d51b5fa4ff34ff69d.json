@@ -1,1 +1,61 @@
-{"title":"AllData 10.53 (Q3 2013) - Install Disc, US Domestics, Extras","uid":9637407,"size":131192928879,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:56df5bd2da968070e431fa2d51b5fa4ff34ff69d&amp;dn=AllData+10.53+%28Q3+2013%29+-+Install+Disc%2C+US+Domestics%2C+Extras&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":64,"uploader":"XSienar","files":121,"time":1392862522,"description":"AllData 10.53 (Q3 2013)\n\nThis is the FINAL DVD Edition of AllData. After this was produced, AllData switched to online only.\n\nFrom http://support.alldata.com/alldata-repair-dvd\n\n&quot;IMPORTANT -  Due to the small number of customers using DVDs and the rapid growth of the data, the last shipment of DATA discs was shipped in August/September 2013.&quot;\n\n-------------------------------------------------------------------------------------\n\nGot accidentally banned, so here's the new improved re-upload. I used torrenteditor.com to add 4 more trackers (everything else was left as-is), so it should download much faster and be much easier to find a viable seed. Let me know if you have errors and I will upload the original, unmodified torrents.","torrent":{"xt":"urn:btih:56df5bd2da968070e431fa2d51b5fa4ff34ff69d","amp;dn":"AllData+10.53+%28Q3+2013%29+-+Install+Disc%2C+US+Domestics%2C+Extras","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"56df5bd2da968070e431fa2d51b5fa4ff34ff69d","infoHashBuffer":{"type":"Buffer","data":[86,223,91,210,218,150,128,112,228,49,250,45,81,181,250,79,243,79,246,157]},"announce":[],"urlList":[]}}
+{
+  "title": "AllData 10.53 (Q3 2013) - Install Disc, US Domestics, Extras",
+  "uid": 9637407,
+  "size": 131192928879,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:56df5bd2da968070e431fa2d51b5fa4ff34ff69d&amp;dn=AllData+10.53+%28Q3+2013%29+-+Install+Disc%2C+US+Domestics%2C+Extras&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 64,
+  "uploader": "XSienar",
+  "files": 121,
+  "time": 1392862522,
+  "description": "AllData 10.53 (Q3 2013)\n\nThis is the FINAL DVD Edition of AllData. After this was produced, AllData switched to online only.\n\nFrom http://support.alldata.com/alldata-repair-dvd\n\n&quot;IMPORTANT -  Due to the small number of customers using DVDs and the rapid growth of the data, the last shipment of DATA discs was shipped in August/September 2013.&quot;\n\n-------------------------------------------------------------------------------------\n\nGot accidentally banned, so here's the new improved re-upload. I used torrenteditor.com to add 4 more trackers (everything else was left as-is), so it should download much faster and be much easier to find a viable seed. Let me know if you have errors and I will upload the original, unmodified torrents.",
+  "parsed": {
+    "xt": "urn:btih:56df5bd2da968070e431fa2d51b5fa4ff34ff69d",
+    "dn": "AllData 10.53 (Q3 2013) - Install Disc, US Domestics, Extras",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "56df5bd2da968070e431fa2d51b5fa4ff34ff69d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        86,
+        223,
+        91,
+        210,
+        218,
+        150,
+        128,
+        112,
+        228,
+        49,
+        250,
+        45,
+        81,
+        181,
+        250,
+        79,
+        243,
+        79,
+        246,
+        157
+      ]
+    },
+    "name": "AllData 10.53 (Q3 2013) - Install Disc, US Domestics, Extras",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 114,
+  "peers": 60,
+  "last_updated": "2016-12-25T01:37:07.002Z"
+}

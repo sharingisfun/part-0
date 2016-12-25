@@ -1,1 +1,61 @@
-{"title":"MacKeeper v1.0.2 MacOSX Incl. License Generator","uid":7446790,"size":8295405,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:572f64aff20efc750b96a8adc960c535c26a55e7&amp;dn=MacKeeper+v1.0.2+MacOSX+Incl.+License+Generator&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":1,"uploader":"openarena","files":-1,"time":1342391157,"description":"1. Launch the MacKeeper program once. It will show you a button at bottom left of screen telling you that 15 days of the trial is left. Now quit MacKeeper.\n\n2. Block the program using Little Snitch (Hostname http://www.zeobit.com and IP address 64.15.138.185. Deny access for applications MacKeeper Helper.app (/Applications/MacKeeper.app/Contents/Resources/MacKeeper Helper.app) and MacKeeper.app\n\n3. Launch the authorizer by double-clicking it. You will notice in the Terminal window that the authorizer gives you authorization for exactly one year from the date it is launched.\n\n4. Launch MacKeeper. You will see that the button on the bottom left of screen has now disappeared ...\n\n5. Keep your eyes open for MacKeeper updating itself on launch. If it does, the button may re-appear. When that happens, run the authorizer again and repeat the process.\n\n\nPs: license generator works fine after update to v 1.8.1","torrent":{"xt":"urn:btih:572f64aff20efc750b96a8adc960c535c26a55e7","amp;dn":"MacKeeper+v1.0.2+MacOSX+Incl.+License+Generator","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"572f64aff20efc750b96a8adc960c535c26a55e7","infoHashBuffer":{"type":"Buffer","data":[87,47,100,175,242,14,252,117,11,150,168,173,201,96,197,53,194,106,85,231]},"announce":[],"urlList":[]}}
+{
+  "title": "MacKeeper v1.0.2 MacOSX Incl. License Generator",
+  "uid": 7446790,
+  "size": 8295405,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:572f64aff20efc750b96a8adc960c535c26a55e7&amp;dn=MacKeeper+v1.0.2+MacOSX+Incl.+License+Generator&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 1,
+  "uploader": "openarena",
+  "files": -1,
+  "time": 1342391157,
+  "description": "1. Launch the MacKeeper program once. It will show you a button at bottom left of screen telling you that 15 days of the trial is left. Now quit MacKeeper.\n\n2. Block the program using Little Snitch (Hostname http://www.zeobit.com and IP address 64.15.138.185. Deny access for applications MacKeeper Helper.app (/Applications/MacKeeper.app/Contents/Resources/MacKeeper Helper.app) and MacKeeper.app\n\n3. Launch the authorizer by double-clicking it. You will notice in the Terminal window that the authorizer gives you authorization for exactly one year from the date it is launched.\n\n4. Launch MacKeeper. You will see that the button on the bottom left of screen has now disappeared ...\n\n5. Keep your eyes open for MacKeeper updating itself on launch. If it does, the button may re-appear. When that happens, run the authorizer again and repeat the process.\n\n\nPs: license generator works fine after update to v 1.8.1",
+  "parsed": {
+    "xt": "urn:btih:572f64aff20efc750b96a8adc960c535c26a55e7",
+    "dn": "MacKeeper v1.0.2 MacOSX Incl. License Generator",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "572f64aff20efc750b96a8adc960c535c26a55e7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        87,
+        47,
+        100,
+        175,
+        242,
+        14,
+        252,
+        117,
+        11,
+        150,
+        168,
+        173,
+        201,
+        96,
+        197,
+        53,
+        194,
+        106,
+        85,
+        231
+      ]
+    },
+    "name": "MacKeeper v1.0.2 MacOSX Incl. License Generator",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 44,
+  "last_updated": "2016-12-25T01:38:43.311Z"
+}

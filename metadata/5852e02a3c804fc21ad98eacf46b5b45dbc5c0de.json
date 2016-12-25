@@ -1,1 +1,63 @@
-{"title":"AVG Antivirus Pro 2016.16.61.7538 (x86x64)","uid":15963855,"size":495570416,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:5852e02a3c804fc21ad98eacf46b5b45dbc5c0de&amp;dn=AVG+Antivirus+Pro+2016.16.61.7538+%28x86x64%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":178,"leechers":32,"uploader":"faropbtf","files":8,"time":1475703509,"description":"AVG Antivirus Pro 2016.16.61.7538 (x86x64) Multilingual+Keys","torrent":{"xt":"urn:btih:5852e02a3c804fc21ad98eacf46b5b45dbc5c0de","amp;dn":"AVG+Antivirus+Pro+2016.16.61.7538+%28x86x64%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5852e02a3c804fc21ad98eacf46b5b45dbc5c0de","infoHashBuffer":{"type":"Buffer","data":[88,82,224,42,60,128,79,194,26,217,142,172,244,107,91,69,219,197,192,222]},"announce":[],"urlList":[]}}
+{
+  "title": "AVG Antivirus Pro 2016.16.61.7538 (x86x64)",
+  "uid": 15963855,
+  "size": 495570416,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:5852e02a3c804fc21ad98eacf46b5b45dbc5c0de&amp;dn=AVG+Antivirus+Pro+2016.16.61.7538+%28x86x64%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 178,
+  "leechers": 32,
+  "uploader": "faropbtf",
+  "files": 8,
+  "time": 1475703509,
+  "description": "AVG Antivirus Pro 2016.16.61.7538 (x86x64) Multilingual+Keys",
+  "parsed": {
+    "xt": "urn:btih:5852e02a3c804fc21ad98eacf46b5b45dbc5c0de",
+    "dn": "AVG Antivirus Pro 2016.16.61.7538 (x86x64)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "5852e02a3c804fc21ad98eacf46b5b45dbc5c0de",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        88,
+        82,
+        224,
+        42,
+        60,
+        128,
+        79,
+        194,
+        26,
+        217,
+        142,
+        172,
+        244,
+        107,
+        91,
+        69,
+        219,
+        197,
+        192,
+        222
+      ]
+    },
+    "name": "AVG Antivirus Pro 2016.16.61.7538 (x86x64)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 210,
+  "peers": 2,
+  "last_updated": "2016-12-25T01:45:32.738Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Silicon Valley Season 1","uid":10288934,"size":6776413000,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:595662455252ddce78510567c26ca7ebd0d24a3b&amp;dn=Silicon+Valley+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":332,"leechers":105,"uploader":"LackThereof","files":8,"time":1401831608,"description":"Season One of Silicon Valley on HBO.\n\nAll are 720p HDTV rips.  \n\nNo one group managed to release every episode of the season, so these rips are not all from the same group.\nEpisodes 2 and 6 are from 2hd\nEpisode 7 is from Dimension\nAll others are Killers\n\nAll files are their respective release groups' original, unchanged h264 video and AC3 audio streams, but have been repackaged from mkv to mp4 containers for compatibility with certain home media players.\n\nEPISODES:\n\n\nNo.\tTitle\t\t\t\tOriginal air date\n\n1\t&quot;Minimum Viable Product&quot;\tApril 6, 2014\n2\t&quot;The Cap Table&quot;\t                April 13, 2014\n3\t&quot;Articles of Incorporation&quot;\tApril 20, 2014\n4\t&quot;Fiduciary Duties&quot;\t\tApril 27, 2014\n5\t&quot;Signaling Risk&quot;\t\tMay 4, 2014\n6\t&quot;Third Party Insourcing&quot;\tMay 11, 2014\n7\t&quot;Proof of Concept&quot;\t\tMay 18, 2014\n8\t&quot;Optimal Tip-to-Tip Efficiency&quot;\tJune 1, 2014","torrent":{"xt":"urn:btih:595662455252ddce78510567c26ca7ebd0d24a3b","amp;dn":"Silicon+Valley+Season+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"595662455252ddce78510567c26ca7ebd0d24a3b","infoHashBuffer":{"type":"Buffer","data":[89,86,98,69,82,82,221,206,120,81,5,103,194,108,167,235,208,210,74,59]},"announce":[],"urlList":[]}}
+{
+  "title": "Silicon Valley Season 1",
+  "uid": 10288934,
+  "size": 6776413000,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:595662455252ddce78510567c26ca7ebd0d24a3b&amp;dn=Silicon+Valley+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 332,
+  "leechers": 105,
+  "uploader": "LackThereof",
+  "files": 8,
+  "time": 1401831608,
+  "description": "Season One of Silicon Valley on HBO.\n\nAll are 720p HDTV rips.  \n\nNo one group managed to release every episode of the season, so these rips are not all from the same group.\nEpisodes 2 and 6 are from 2hd\nEpisode 7 is from Dimension\nAll others are Killers\n\nAll files are their respective release groups' original, unchanged h264 video and AC3 audio streams, but have been repackaged from mkv to mp4 containers for compatibility with certain home media players.\n\nEPISODES:\n\n\nNo.\tTitle\t\t\t\tOriginal air date\n\n1\t&quot;Minimum Viable Product&quot;\tApril 6, 2014\n2\t&quot;The Cap Table&quot;\t                April 13, 2014\n3\t&quot;Articles of Incorporation&quot;\tApril 20, 2014\n4\t&quot;Fiduciary Duties&quot;\t\tApril 27, 2014\n5\t&quot;Signaling Risk&quot;\t\tMay 4, 2014\n6\t&quot;Third Party Insourcing&quot;\tMay 11, 2014\n7\t&quot;Proof of Concept&quot;\t\tMay 18, 2014\n8\t&quot;Optimal Tip-to-Tip Efficiency&quot;\tJune 1, 2014",
+  "parsed": {
+    "xt": "urn:btih:595662455252ddce78510567c26ca7ebd0d24a3b",
+    "dn": "Silicon Valley Season 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "595662455252ddce78510567c26ca7ebd0d24a3b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        89,
+        86,
+        98,
+        69,
+        82,
+        82,
+        221,
+        206,
+        120,
+        81,
+        5,
+        103,
+        194,
+        108,
+        167,
+        235,
+        208,
+        210,
+        74,
+        59
+      ]
+    },
+    "name": "Silicon Valley Season 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 437,
+  "peers": 11,
+  "last_updated": "2016-12-25T01:52:25.865Z"
+}

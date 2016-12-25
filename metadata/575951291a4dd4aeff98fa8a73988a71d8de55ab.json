@@ -1,1 +1,63 @@
-{"title":"Red.Dwarf.S11E02.WEB.h264-spamTV","uid":15916665,"size":429427481,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:575951291a4dd4aeff98fa8a73988a71d8de55ab&amp;dn=Red.Dwarf.S11E02.WEB.h264-spamTV&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":65,"leechers":12,"uploader":"Pendaws","files":3,"time":1475202802,"description":"Red.Dwarf.S11E02.WEB.h264-spamTV","torrent":{"xt":"urn:btih:575951291a4dd4aeff98fa8a73988a71d8de55ab","amp;dn":"Red.Dwarf.S11E02.WEB.h264-spamTV","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"575951291a4dd4aeff98fa8a73988a71d8de55ab","infoHashBuffer":{"type":"Buffer","data":[87,89,81,41,26,77,212,174,255,152,250,138,115,152,138,113,216,222,85,171]},"announce":[],"urlList":[]}}
+{
+  "title": "Red.Dwarf.S11E02.WEB.h264-spamTV",
+  "uid": 15916665,
+  "size": 429427481,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:575951291a4dd4aeff98fa8a73988a71d8de55ab&amp;dn=Red.Dwarf.S11E02.WEB.h264-spamTV&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 65,
+  "leechers": 12,
+  "uploader": "Pendaws",
+  "files": 3,
+  "time": 1475202802,
+  "description": "Red.Dwarf.S11E02.WEB.h264-spamTV",
+  "parsed": {
+    "xt": "urn:btih:575951291a4dd4aeff98fa8a73988a71d8de55ab",
+    "dn": "Red.Dwarf.S11E02.WEB.h264-spamTV",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "575951291a4dd4aeff98fa8a73988a71d8de55ab",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        87,
+        89,
+        81,
+        41,
+        26,
+        77,
+        212,
+        174,
+        255,
+        152,
+        250,
+        138,
+        115,
+        152,
+        138,
+        113,
+        216,
+        222,
+        85,
+        171
+      ]
+    },
+    "name": "Red.Dwarf.S11E02.WEB.h264-spamTV",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 77,
+  "peers": 0,
+  "last_updated": "2016-12-25T01:39:43.495Z"
+}
