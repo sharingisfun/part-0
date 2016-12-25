@@ -1,1 +1,61 @@
-{"title":"Donald Duck - Walt Disney  (36 Cartoons)","uid":6119924,"size":5858306094,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:69c97bcbe20092282b4f556a9428a828dc5769cf&amp;dn=Donald+Duck+-+Walt+Disney++%2836+Cartoons%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":82,"leechers":18,"uploader":"Lucy1948","files":99,"time":1295703509,"description":"TV : Cartoons : DVD quality : English\n\nThe evergreen Donald Duck in 36 timeless Walt Disney productions.\n\n\n\nEnjoy and Seed!!","torrent":{"xt":"urn:btih:69c97bcbe20092282b4f556a9428a828dc5769cf","amp;dn":"Donald+Duck+-+Walt+Disney++%2836+Cartoons%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"69c97bcbe20092282b4f556a9428a828dc5769cf","infoHashBuffer":{"type":"Buffer","data":[105,201,123,203,226,0,146,40,43,79,85,106,148,40,168,40,220,87,105,207]},"announce":[],"urlList":[]}}
+{
+  "title": "Donald Duck - Walt Disney  (36 Cartoons)",
+  "uid": 6119924,
+  "size": 5858306094,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:69c97bcbe20092282b4f556a9428a828dc5769cf&amp;dn=Donald+Duck+-+Walt+Disney++%2836+Cartoons%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 82,
+  "leechers": 18,
+  "uploader": "Lucy1948",
+  "files": 99,
+  "time": 1295703509,
+  "description": "TV : Cartoons : DVD quality : English\n\nThe evergreen Donald Duck in 36 timeless Walt Disney productions.\n\n\n\nEnjoy and Seed!!",
+  "parsed": {
+    "xt": "urn:btih:69c97bcbe20092282b4f556a9428a828dc5769cf",
+    "dn": "Donald Duck - Walt Disney  (36 Cartoons)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "69c97bcbe20092282b4f556a9428a828dc5769cf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        105,
+        201,
+        123,
+        203,
+        226,
+        0,
+        146,
+        40,
+        43,
+        79,
+        85,
+        106,
+        148,
+        40,
+        168,
+        40,
+        220,
+        87,
+        105,
+        207
+      ]
+    },
+    "name": "Donald Duck - Walt Disney  (36 Cartoons)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 100,
+  "peers": 48,
+  "last_updated": "2016-12-25T03:39:30.107Z"
+}

@@ -1,1 +1,61 @@
-{"title":"grace and frankie S01E13 WEBRIP x264 AHMED","uid":11928148,"size":623025018,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:6a369d9f2c79fa1d580b84d6c9d6d93f8d0824ab&amp;dn=grace+and+frankie+S01E13+WEBRIP+x264+AHMED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":7,"uploader":"67mb","files":1,"time":1431748651,"description":"grace and frankie S01E13 WEBRIP x264 AHMED","torrent":{"xt":"urn:btih:6a369d9f2c79fa1d580b84d6c9d6d93f8d0824ab","amp;dn":"grace+and+frankie+S01E13+WEBRIP+x264+AHMED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6a369d9f2c79fa1d580b84d6c9d6d93f8d0824ab","infoHashBuffer":{"type":"Buffer","data":[106,54,157,159,44,121,250,29,88,11,132,214,201,214,217,63,141,8,36,171]},"announce":[],"urlList":[]}}
+{
+  "title": "grace and frankie S01E13 WEBRIP x264 AHMED",
+  "uid": 11928148,
+  "size": 623025018,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:6a369d9f2c79fa1d580b84d6c9d6d93f8d0824ab&amp;dn=grace+and+frankie+S01E13+WEBRIP+x264+AHMED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 7,
+  "uploader": "67mb",
+  "files": 1,
+  "time": 1431748651,
+  "description": "grace and frankie S01E13 WEBRIP x264 AHMED",
+  "parsed": {
+    "xt": "urn:btih:6a369d9f2c79fa1d580b84d6c9d6d93f8d0824ab",
+    "dn": "grace and frankie S01E13 WEBRIP x264 AHMED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6a369d9f2c79fa1d580b84d6c9d6d93f8d0824ab",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        106,
+        54,
+        157,
+        159,
+        44,
+        121,
+        250,
+        29,
+        88,
+        11,
+        132,
+        214,
+        201,
+        214,
+        217,
+        63,
+        141,
+        8,
+        36,
+        171
+      ]
+    },
+    "name": "grace and frankie S01E13 WEBRIP x264 AHMED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 20,
+  "last_updated": "2016-12-25T03:42:14.742Z"
+}

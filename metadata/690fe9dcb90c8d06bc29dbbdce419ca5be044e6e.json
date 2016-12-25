@@ -1,1 +1,61 @@
-{"title":"Adobe Acrobat XI Pro 11.0.3 Final for Mac","uid":9786352,"size":822406584,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:690fe9dcb90c8d06bc29dbbdce419ca5be044e6e&amp;dn=Adobe+Acrobat+XI+Pro+11.0.3+Final+for+Mac&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":1,"uploader":"pogackers","files":-1,"time":1395171017,"description":"Make your job easier every day with Adobe Acrobat XI Professional software. Quickly create PDF files or PDF Portfolios. Intuitively edit PDF files from within Acrobat or convert them to Microsoft Word, Excel, or PowerPoint formats. Build forms in minutes with the new, included Adobe FormsCentral desktop application. And use guided Actions to automate document preparation.","torrent":{"xt":"urn:btih:690fe9dcb90c8d06bc29dbbdce419ca5be044e6e","amp;dn":"Adobe+Acrobat+XI+Pro+11.0.3+Final+for+Mac","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"690fe9dcb90c8d06bc29dbbdce419ca5be044e6e","infoHashBuffer":{"type":"Buffer","data":[105,15,233,220,185,12,141,6,188,41,219,189,206,65,156,165,190,4,78,110]},"announce":[],"urlList":[]}}
+{
+  "title": "Adobe Acrobat XI Pro 11.0.3 Final for Mac",
+  "uid": 9786352,
+  "size": 822406584,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:690fe9dcb90c8d06bc29dbbdce419ca5be044e6e&amp;dn=Adobe+Acrobat+XI+Pro+11.0.3+Final+for+Mac&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 1,
+  "uploader": "pogackers",
+  "files": -1,
+  "time": 1395171017,
+  "description": "Make your job easier every day with Adobe Acrobat XI Professional software. Quickly create PDF files or PDF Portfolios. Intuitively edit PDF files from within Acrobat or convert them to Microsoft Word, Excel, or PowerPoint formats. Build forms in minutes with the new, included Adobe FormsCentral desktop application. And use guided Actions to automate document preparation.",
+  "parsed": {
+    "xt": "urn:btih:690fe9dcb90c8d06bc29dbbdce419ca5be044e6e",
+    "dn": "Adobe Acrobat XI Pro 11.0.3 Final for Mac",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "690fe9dcb90c8d06bc29dbbdce419ca5be044e6e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        105,
+        15,
+        233,
+        220,
+        185,
+        12,
+        141,
+        6,
+        188,
+        41,
+        219,
+        189,
+        206,
+        65,
+        156,
+        165,
+        190,
+        4,
+        78,
+        110
+      ]
+    },
+    "name": "Adobe Acrobat XI Pro 11.0.3 Final for Mac",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 43,
+  "last_updated": "2016-12-25T03:35:07.110Z"
+}

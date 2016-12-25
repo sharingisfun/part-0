@@ -1,1 +1,63 @@
-{"title":"Kerbal Space Program (2.4.0.6) (GOG)","uid":14374185,"size":1262472215,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:6b4c8ff521e2559efc13d44abf361caebee16540&amp;dn=Kerbal+Space+Program+%282.4.0.6%29+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":239,"leechers":6,"uploader":"mercs215","files":4,"time":1461186599,"description":"Install instructions:\n- Run &quot;setup_kerbal_space_program_2.4.0.6.exe&quot;\n- Play\n- Check !info.txt for a change log\nCredits: this release was made possible by Swapware Games Network!\nIf you like this game, support the developers and BUY IT!\nPLEASE REMEMBER TO SEED, MANY OTHERS WANT THIS! :)","torrent":{"xt":"urn:btih:6b4c8ff521e2559efc13d44abf361caebee16540","amp;dn":"Kerbal+Space+Program+%282.4.0.6%29+%28GOG%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6b4c8ff521e2559efc13d44abf361caebee16540","infoHashBuffer":{"type":"Buffer","data":[107,76,143,245,33,226,85,158,252,19,212,74,191,54,28,174,190,225,101,64]},"announce":[],"urlList":[]}}
+{
+  "title": "Kerbal Space Program (2.4.0.6) (GOG)",
+  "uid": 14374185,
+  "size": 1262472215,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:6b4c8ff521e2559efc13d44abf361caebee16540&amp;dn=Kerbal+Space+Program+%282.4.0.6%29+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 239,
+  "leechers": 6,
+  "uploader": "mercs215",
+  "files": 4,
+  "time": 1461186599,
+  "description": "Install instructions:\n- Run &quot;setup_kerbal_space_program_2.4.0.6.exe&quot;\n- Play\n- Check !info.txt for a change log\nCredits: this release was made possible by Swapware Games Network!\nIf you like this game, support the developers and BUY IT!\nPLEASE REMEMBER TO SEED, MANY OTHERS WANT THIS! :)",
+  "parsed": {
+    "xt": "urn:btih:6b4c8ff521e2559efc13d44abf361caebee16540",
+    "dn": "Kerbal Space Program (2.4.0.6) (GOG)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "6b4c8ff521e2559efc13d44abf361caebee16540",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        107,
+        76,
+        143,
+        245,
+        33,
+        226,
+        85,
+        158,
+        252,
+        19,
+        212,
+        74,
+        191,
+        54,
+        28,
+        174,
+        190,
+        225,
+        101,
+        64
+      ]
+    },
+    "name": "Kerbal Space Program (2.4.0.6) (GOG)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 245,
+  "peers": 100,
+  "last_updated": "2016-12-25T03:49:17.999Z"
+}

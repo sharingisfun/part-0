@@ -1,1 +1,61 @@
-{"title":"Proxima Nova Fonts Collection","uid":10112066,"size":1519107,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:6ac27f86a202bce774eef80eb49e3abfb7aeb62f&amp;dn=Proxima+Nova+Fonts+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":1,"uploader":"share0907","files":20,"time":1399531135,"description":"                              ","torrent":{"xt":"urn:btih:6ac27f86a202bce774eef80eb49e3abfb7aeb62f","amp;dn":"Proxima+Nova+Fonts+Collection","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6ac27f86a202bce774eef80eb49e3abfb7aeb62f","infoHashBuffer":{"type":"Buffer","data":[106,194,127,134,162,2,188,231,116,238,248,14,180,158,58,191,183,174,182,47]},"announce":[],"urlList":[]}}
+{
+  "title": "Proxima Nova Fonts Collection",
+  "uid": 10112066,
+  "size": 1519107,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:6ac27f86a202bce774eef80eb49e3abfb7aeb62f&amp;dn=Proxima+Nova+Fonts+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 1,
+  "uploader": "share0907",
+  "files": 20,
+  "time": 1399531135,
+  "description": "                              ",
+  "parsed": {
+    "xt": "urn:btih:6ac27f86a202bce774eef80eb49e3abfb7aeb62f",
+    "dn": "Proxima Nova Fonts Collection",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6ac27f86a202bce774eef80eb49e3abfb7aeb62f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        106,
+        194,
+        127,
+        134,
+        162,
+        2,
+        188,
+        231,
+        116,
+        238,
+        248,
+        14,
+        180,
+        158,
+        58,
+        191,
+        183,
+        174,
+        182,
+        47
+      ]
+    },
+    "name": "Proxima Nova Fonts Collection",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 67,
+  "peers": 20,
+  "last_updated": "2016-12-25T03:45:53.390Z"
+}

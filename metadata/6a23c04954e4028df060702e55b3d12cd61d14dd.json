@@ -1,1 +1,61 @@
-{"title":"Taylor Swift - Bad Blood (feat. Kendrick Lamar) {MP3 Single}","uid":11937716,"size":8196159,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:6a23c04954e4028df060702e55b3d12cd61d14dd&amp;dn=Taylor+Swift+-+Bad+Blood+%28feat.+Kendrick+Lamar%29+%7BMP3+Single%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":203,"leechers":129,"uploader":"VBUc","files":1,"time":1431923013,"description":"Artist: Taylor Swift\nTitle: Bad Blood (feat. Kendrick Lamar)\nAlbum: Bad Blood (feat. Kendrick Lamar) - Single\nGenre: Pop, Music\nReleased: 18 May 2015\nAudio Format: MP3\nAudio Bitrate: 320kbps\n\nTrack Info:\n***********\nAudio\nFormat : MPEG-1 Layer III\nMode : Joint stereo\nTime: 3mn 19s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nFrequency : 44.1 KHz\nCompression mode : Lossy\nÃ¢â€žâ€” 2015 Big Machine Records, LLC.\n\nSeed and Enjoy","torrent":{"xt":"urn:btih:6a23c04954e4028df060702e55b3d12cd61d14dd","amp;dn":"Taylor+Swift+-+Bad+Blood+%28feat.+Kendrick+Lamar%29+%7BMP3+Single%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6a23c04954e4028df060702e55b3d12cd61d14dd","infoHashBuffer":{"type":"Buffer","data":[106,35,192,73,84,228,2,141,240,96,112,46,85,179,209,44,214,29,20,221]},"announce":[],"urlList":[]}}
+{
+  "title": "Taylor Swift - Bad Blood (feat. Kendrick Lamar) {MP3 Single}",
+  "uid": 11937716,
+  "size": 8196159,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:6a23c04954e4028df060702e55b3d12cd61d14dd&amp;dn=Taylor+Swift+-+Bad+Blood+%28feat.+Kendrick+Lamar%29+%7BMP3+Single%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 203,
+  "leechers": 129,
+  "uploader": "VBUc",
+  "files": 1,
+  "time": 1431923013,
+  "description": "Artist: Taylor Swift\nTitle: Bad Blood (feat. Kendrick Lamar)\nAlbum: Bad Blood (feat. Kendrick Lamar) - Single\nGenre: Pop, Music\nReleased: 18 May 2015\nAudio Format: MP3\nAudio Bitrate: 320kbps\n\nTrack Info:\n***********\nAudio\nFormat : MPEG-1 Layer III\nMode : Joint stereo\nTime: 3mn 19s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nFrequency : 44.1 KHz\nCompression mode : Lossy\nÃ¢â€žâ€” 2015 Big Machine Records, LLC.\n\nSeed and Enjoy",
+  "parsed": {
+    "xt": "urn:btih:6a23c04954e4028df060702e55b3d12cd61d14dd",
+    "dn": "Taylor Swift - Bad Blood (feat. Kendrick Lamar) {MP3 Single}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6a23c04954e4028df060702e55b3d12cd61d14dd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        106,
+        35,
+        192,
+        73,
+        84,
+        228,
+        2,
+        141,
+        240,
+        96,
+        112,
+        46,
+        85,
+        179,
+        209,
+        44,
+        214,
+        29,
+        20,
+        221
+      ]
+    },
+    "name": "Taylor Swift - Bad Blood (feat. Kendrick Lamar) {MP3 Single}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 332,
+  "peers": 50,
+  "last_updated": "2016-12-25T03:41:42.652Z"
+}

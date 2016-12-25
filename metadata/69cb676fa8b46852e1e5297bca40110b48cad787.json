@@ -1,1 +1,61 @@
-{"title":"Sygic v14.6.6 with blackbox + ta 2014.06 + Nt 2014.09","uid":11245024,"size":334072674,"categoryP":"applications","categoryS":"android","magnet":"?xt=urn:btih:69cb676fa8b46852e1e5297bca40110b48cad787&amp;dn=Sygic+v14.6.6+with+blackbox+%2B+ta+2014.06+%2B+Nt+2014.09&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":0,"uploader":"TuaSanCel","files":1,"time":1413729059,"description":"Instruction:\n\n1. Copy Sygic folder to RooT or SD\n2. Add maps. voice,...with mapdownloader\n3. Install APK\n4. go to install select your language\n5. Done","torrent":{"xt":"urn:btih:69cb676fa8b46852e1e5297bca40110b48cad787","amp;dn":"Sygic+v14.6.6+with+blackbox+%2B+ta+2014.06+%2B+Nt+2014.09","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"69cb676fa8b46852e1e5297bca40110b48cad787","infoHashBuffer":{"type":"Buffer","data":[105,203,103,111,168,180,104,82,225,229,41,123,202,64,17,11,72,202,215,135]},"announce":[],"urlList":[]}}
+{
+  "title": "Sygic v14.6.6 with blackbox + ta 2014.06 + Nt 2014.09",
+  "uid": 11245024,
+  "size": 334072674,
+  "categoryP": "applications",
+  "categoryS": "android",
+  "magnet": "?xt=urn:btih:69cb676fa8b46852e1e5297bca40110b48cad787&amp;dn=Sygic+v14.6.6+with+blackbox+%2B+ta+2014.06+%2B+Nt+2014.09&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 0,
+  "uploader": "TuaSanCel",
+  "files": 1,
+  "time": 1413729059,
+  "description": "Instruction:\n\n1. Copy Sygic folder to RooT or SD\n2. Add maps. voice,...with mapdownloader\n3. Install APK\n4. go to install select your language\n5. Done",
+  "parsed": {
+    "xt": "urn:btih:69cb676fa8b46852e1e5297bca40110b48cad787",
+    "dn": "Sygic v14.6.6 with blackbox   ta 2014.06   Nt 2014.09",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "69cb676fa8b46852e1e5297bca40110b48cad787",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        105,
+        203,
+        103,
+        111,
+        168,
+        180,
+        104,
+        82,
+        225,
+        229,
+        41,
+        123,
+        202,
+        64,
+        17,
+        11,
+        72,
+        202,
+        215,
+        135
+      ]
+    },
+    "name": "Sygic v14.6.6 with blackbox   ta 2014.06   Nt 2014.09",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 11,
+  "last_updated": "2016-12-25T03:39:38.131Z"
+}

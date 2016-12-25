@@ -1,1 +1,61 @@
-{"title":"cat stevens - the very best of","uid":3988188,"size":120448267,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:6a70f9916ab6b4e5fbec732ae2c9cb4e71b2bdb6&amp;dn=cat+stevens+-+the+very+best+of&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":3,"uploader":"cdfboy","files":25,"time":1200922309,"description":"mp3 114mb 320kbps EAC. DARKSIDE_RG","torrent":{"xt":"urn:btih:6a70f9916ab6b4e5fbec732ae2c9cb4e71b2bdb6","amp;dn":"cat+stevens+-+the+very+best+of","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6a70f9916ab6b4e5fbec732ae2c9cb4e71b2bdb6","infoHashBuffer":{"type":"Buffer","data":[106,112,249,145,106,182,180,229,251,236,115,42,226,201,203,78,113,178,189,182]},"announce":[],"urlList":[]}}
+{
+  "title": "cat stevens - the very best of",
+  "uid": 3988188,
+  "size": 120448267,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:6a70f9916ab6b4e5fbec732ae2c9cb4e71b2bdb6&amp;dn=cat+stevens+-+the+very+best+of&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 3,
+  "uploader": "cdfboy",
+  "files": 25,
+  "time": 1200922309,
+  "description": "mp3 114mb 320kbps EAC. DARKSIDE_RG",
+  "parsed": {
+    "xt": "urn:btih:6a70f9916ab6b4e5fbec732ae2c9cb4e71b2bdb6",
+    "dn": "cat stevens - the very best of",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6a70f9916ab6b4e5fbec732ae2c9cb4e71b2bdb6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        106,
+        112,
+        249,
+        145,
+        106,
+        182,
+        180,
+        229,
+        251,
+        236,
+        115,
+        42,
+        226,
+        201,
+        203,
+        78,
+        113,
+        178,
+        189,
+        182
+      ]
+    },
+    "name": "cat stevens - the very best of",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 42,
+  "last_updated": "2016-12-25T03:43:57.051Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Grizzly Bear - Shields [2012]","uid":7609894,"size":116529496,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:68da29837ad54170217680d0678b06fbb72b4952&amp;dn=Grizzly+Bear+-+Shields+%5B2012%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":3,"uploader":"alex_king111","files":13,"time":1347036741,"description":"Shields is the fourth studio album by the Brooklyn-based band Grizzly Bear and is set to be released on September 18, 2012. The release date, as well as a song &quot;Sleeping Ute&quot;, the track listing and tour dates were announced on June 5, 2012.","torrent":{"xt":"urn:btih:68da29837ad54170217680d0678b06fbb72b4952","amp;dn":"Grizzly+Bear+-+Shields+%5B2012%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"68da29837ad54170217680d0678b06fbb72b4952","infoHashBuffer":{"type":"Buffer","data":[104,218,41,131,122,213,65,112,33,118,128,208,103,139,6,251,183,43,73,82]},"announce":[],"urlList":[]}}
+{
+  "title": "Grizzly Bear - Shields [2012]",
+  "uid": 7609894,
+  "size": 116529496,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:68da29837ad54170217680d0678b06fbb72b4952&amp;dn=Grizzly+Bear+-+Shields+%5B2012%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 3,
+  "uploader": "alex_king111",
+  "files": 13,
+  "time": 1347036741,
+  "description": "Shields is the fourth studio album by the Brooklyn-based band Grizzly Bear and is set to be released on September 18, 2012. The release date, as well as a song &quot;Sleeping Ute&quot;, the track listing and tour dates were announced on June 5, 2012.",
+  "parsed": {
+    "xt": "urn:btih:68da29837ad54170217680d0678b06fbb72b4952",
+    "dn": "Grizzly Bear - Shields [2012]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "68da29837ad54170217680d0678b06fbb72b4952",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        104,
+        218,
+        41,
+        131,
+        122,
+        213,
+        65,
+        112,
+        33,
+        118,
+        128,
+        208,
+        103,
+        139,
+        6,
+        251,
+        183,
+        43,
+        73,
+        82
+      ]
+    },
+    "name": "Grizzly Bear - Shields [2012]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 15,
+  "last_updated": "2016-12-25T03:33:30.766Z"
+}
