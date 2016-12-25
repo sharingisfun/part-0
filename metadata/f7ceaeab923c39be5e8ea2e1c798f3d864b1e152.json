@@ -1,1 +1,61 @@
-{"title":"Dominion S01E01 HDTV x264-LOL[ettv]","uid":10394053,"size":469673431,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f7ceaeab923c39be5e8ea2e1c798f3d864b1e152&amp;dn=Dominion+S01E01+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":68,"leechers":0,"uploader":"ettv","files":2,"time":1403238374,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps &lt;a href=&quot;\nhttp://www.tvrage.com/shows/id-36889&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.tvrage.com/shows/id-36889&lt;/a&gt;","torrent":{"xt":"urn:btih:f7ceaeab923c39be5e8ea2e1c798f3d864b1e152","amp;dn":"Dominion+S01E01+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f7ceaeab923c39be5e8ea2e1c798f3d864b1e152","infoHashBuffer":{"type":"Buffer","data":[247,206,174,171,146,60,57,190,94,142,162,225,199,152,243,216,100,177,225,82]},"announce":[],"urlList":[]}}
+{
+  "title": "Dominion S01E01 HDTV x264-LOL[ettv]",
+  "uid": 10394053,
+  "size": 469673431,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f7ceaeab923c39be5e8ea2e1c798f3d864b1e152&amp;dn=Dominion+S01E01+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 68,
+  "leechers": 0,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1403238374,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps &lt;a href=&quot;\nhttp://www.tvrage.com/shows/id-36889&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.tvrage.com/shows/id-36889&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:f7ceaeab923c39be5e8ea2e1c798f3d864b1e152",
+    "dn": "Dominion S01E01 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f7ceaeab923c39be5e8ea2e1c798f3d864b1e152",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        247,
+        206,
+        174,
+        171,
+        146,
+        60,
+        57,
+        190,
+        94,
+        142,
+        162,
+        225,
+        199,
+        152,
+        243,
+        216,
+        100,
+        177,
+        225,
+        82
+      ]
+    },
+    "name": "Dominion S01E01 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 5,
+  "last_updated": "2016-12-25T18:26:56.251Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Kasabian &amp;bull; 48 : 13 [2014] 320","uid":10283465,"size":116191325,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:f8bbd0aa6b45ce4bc9692f1bf64d647d48268a9b&amp;dn=Kasabian+%26bull%3B+48+%3A+13+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":258,"leechers":6,"uploader":"Capajebo","files":-1,"time":1401743949,"description":"============================\nKasabian  48 : 13 [2014] 320\n----------------------------","torrent":{"xt":"urn:btih:f8bbd0aa6b45ce4bc9692f1bf64d647d48268a9b","amp;dn":"Kasabian+%26bull%3B+48+%3A+13+%5B2014%5D+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f8bbd0aa6b45ce4bc9692f1bf64d647d48268a9b","infoHashBuffer":{"type":"Buffer","data":[248,187,208,170,107,69,206,75,201,105,47,27,246,77,100,125,72,38,138,155]},"announce":[],"urlList":[]}}
+{
+  "title": "Kasabian &amp;bull; 48 : 13 [2014] 320",
+  "uid": 10283465,
+  "size": 116191325,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:f8bbd0aa6b45ce4bc9692f1bf64d647d48268a9b&amp;dn=Kasabian+%26bull%3B+48+%3A+13+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 258,
+  "leechers": 6,
+  "uploader": "Capajebo",
+  "files": -1,
+  "time": 1401743949,
+  "description": "============================\nKasabian  48 : 13 [2014] 320\n----------------------------",
+  "parsed": {
+    "xt": "urn:btih:f8bbd0aa6b45ce4bc9692f1bf64d647d48268a9b",
+    "dn": "Kasabian &bull; 48 : 13 [2014] 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f8bbd0aa6b45ce4bc9692f1bf64d647d48268a9b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        248,
+        187,
+        208,
+        170,
+        107,
+        69,
+        206,
+        75,
+        201,
+        105,
+        47,
+        27,
+        246,
+        77,
+        100,
+        125,
+        72,
+        38,
+        138,
+        155
+      ]
+    },
+    "name": "Kasabian &bull; 48 : 13 [2014] 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 264,
+  "peers": 24,
+  "last_updated": "2016-12-25T18:31:43.098Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Birdy - Skinny Love","uid":6230444,"size":7189862,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:f6bd118d2be64b5beeec43418a829cd9be7dddea&amp;dn=Birdy+-+Skinny+Love&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":0,"uploader":"STE93","files":1,"time":1299692874,"description":"Birdy - Skinny Love","torrent":{"xt":"urn:btih:f6bd118d2be64b5beeec43418a829cd9be7dddea","amp;dn":"Birdy+-+Skinny+Love","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f6bd118d2be64b5beeec43418a829cd9be7dddea","infoHashBuffer":{"type":"Buffer","data":[246,189,17,141,43,230,75,91,238,236,67,65,138,130,156,217,190,125,221,234]},"announce":[],"urlList":[]}}
+{
+  "title": "Birdy - Skinny Love",
+  "uid": 6230444,
+  "size": 7189862,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:f6bd118d2be64b5beeec43418a829cd9be7dddea&amp;dn=Birdy+-+Skinny+Love&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 0,
+  "uploader": "STE93",
+  "files": 1,
+  "time": 1299692874,
+  "description": "Birdy - Skinny Love",
+  "parsed": {
+    "xt": "urn:btih:f6bd118d2be64b5beeec43418a829cd9be7dddea",
+    "dn": "Birdy - Skinny Love",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f6bd118d2be64b5beeec43418a829cd9be7dddea",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        246,
+        189,
+        17,
+        141,
+        43,
+        230,
+        75,
+        91,
+        238,
+        236,
+        67,
+        65,
+        138,
+        130,
+        156,
+        217,
+        190,
+        125,
+        221,
+        234
+      ]
+    },
+    "name": "Birdy - Skinny Love",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 50,
+  "last_updated": "2016-12-25T18:20:43.154Z"
+}

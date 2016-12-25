@@ -1,1 +1,63 @@
-{"title":"Mafia III Update 1.01-CODEX","uid":15990638,"size":607345411,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:f8683515742f49fdf9583360161983ef57df2380&amp;dn=Mafia+III+Update+1.01-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":148,"leechers":29,"uploader":"dauphong","files":18,"time":1476012709,"description":"Itâ€™s 1968 and after years of combat in Vietnam, Lincoln Clay knows this truth: family isnâ€™t who youâ€™re born with, itâ€™s who you die for. Now back home in New Bordeaux, Lincoln is set on escaping a criminal past. But when his surrogate family, the black mob, is betrayed and wiped out by the Italian Mafia, Lincoln builds a new family on the ashes of the old and blazes a path of military-grade revenge through those responsible. Intense gun fights, visceral hand-to-hand combat, white knuckle driving and street smarts will all be needed. But with the right crew, tough decisions and some dirty hands, itâ€™s possible to make it to the top of the city's underworld","torrent":{"xt":"urn:btih:f8683515742f49fdf9583360161983ef57df2380","amp;dn":"Mafia+III+Update+1.01-CODEX","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f8683515742f49fdf9583360161983ef57df2380","infoHashBuffer":{"type":"Buffer","data":[248,104,53,21,116,47,73,253,249,88,51,96,22,25,131,239,87,223,35,128]},"announce":[],"urlList":[]}}
+{
+  "title": "Mafia III Update 1.01-CODEX",
+  "uid": 15990638,
+  "size": 607345411,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:f8683515742f49fdf9583360161983ef57df2380&amp;dn=Mafia+III+Update+1.01-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 148,
+  "leechers": 29,
+  "uploader": "dauphong",
+  "files": 18,
+  "time": 1476012709,
+  "description": "Itâ€™s 1968 and after years of combat in Vietnam, Lincoln Clay knows this truth: family isnâ€™t who youâ€™re born with, itâ€™s who you die for. Now back home in New Bordeaux, Lincoln is set on escaping a criminal past. But when his surrogate family, the black mob, is betrayed and wiped out by the Italian Mafia, Lincoln builds a new family on the ashes of the old and blazes a path of military-grade revenge through those responsible. Intense gun fights, visceral hand-to-hand combat, white knuckle driving and street smarts will all be needed. But with the right crew, tough decisions and some dirty hands, itâ€™s possible to make it to the top of the city's underworld",
+  "parsed": {
+    "xt": "urn:btih:f8683515742f49fdf9583360161983ef57df2380",
+    "dn": "Mafia III Update 1.01-CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "f8683515742f49fdf9583360161983ef57df2380",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        248,
+        104,
+        53,
+        21,
+        116,
+        47,
+        73,
+        253,
+        249,
+        88,
+        51,
+        96,
+        22,
+        25,
+        131,
+        239,
+        87,
+        223,
+        35,
+        128
+      ]
+    },
+    "name": "Mafia III Update 1.01-CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 177,
+  "peers": 75,
+  "last_updated": "2016-12-25T18:29:38.726Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Kaspersky Internet Security 15.0.1.415 Build 6575","uid":15963997,"size":613169631,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:f8e5b5d39f00ef37596032cc042f2e0e7f2cc657&amp;dn=Kaspersky+Internet+Security+15.0.1.415+Build+6575&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":183,"leechers":32,"uploader":"faropbtf","files":9,"time":1475703904,"description":"RDS  group has released the updated version of well known &quot;Kaspersky Internet Security &amp; Anti-Virus&quot; for Windows. It deliver premium protection to computers against Trojans, worms, viruses, backdoors, rootkits, dialers and other kind of web-based threats. Kaspersky Anti-Virus 2015 is your PC's first line of defense against today's complex malware threats. From the moment it's installed, you benefit from essential, real-time protection against the latest malware attacks - without affecting your PC's performance. KasperskyÃâ€™Ã‚Â® delivers premium protection from viruses, Trojans, spam, hackers, and more. Its cutting-edge, hybrid approach to digital security combines innovative, cloud-based technologies with advanced antivirus protection to deliver a faster, more effective response to today's complex, ever-evolving threats. You, your private data and PC are completely protected as you work, bank, shop and play online","torrent":{"xt":"urn:btih:f8e5b5d39f00ef37596032cc042f2e0e7f2cc657","amp;dn":"Kaspersky+Internet+Security+15.0.1.415+Build+6575","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f8e5b5d39f00ef37596032cc042f2e0e7f2cc657","infoHashBuffer":{"type":"Buffer","data":[248,229,181,211,159,0,239,55,89,96,50,204,4,47,46,14,127,44,198,87]},"announce":[],"urlList":[]}}
+{
+  "title": "Kaspersky Internet Security 15.0.1.415 Build 6575",
+  "uid": 15963997,
+  "size": 613169631,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:f8e5b5d39f00ef37596032cc042f2e0e7f2cc657&amp;dn=Kaspersky+Internet+Security+15.0.1.415+Build+6575&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 183,
+  "leechers": 32,
+  "uploader": "faropbtf",
+  "files": 9,
+  "time": 1475703904,
+  "description": "RDS  group has released the updated version of well known &quot;Kaspersky Internet Security &amp; Anti-Virus&quot; for Windows. It deliver premium protection to computers against Trojans, worms, viruses, backdoors, rootkits, dialers and other kind of web-based threats. Kaspersky Anti-Virus 2015 is your PC's first line of defense against today's complex malware threats. From the moment it's installed, you benefit from essential, real-time protection against the latest malware attacks - without affecting your PC's performance. KasperskyÃâ€™Ã‚Â® delivers premium protection from viruses, Trojans, spam, hackers, and more. Its cutting-edge, hybrid approach to digital security combines innovative, cloud-based technologies with advanced antivirus protection to deliver a faster, more effective response to today's complex, ever-evolving threats. You, your private data and PC are completely protected as you work, bank, shop and play online",
+  "parsed": {
+    "xt": "urn:btih:f8e5b5d39f00ef37596032cc042f2e0e7f2cc657",
+    "dn": "Kaspersky Internet Security 15.0.1.415 Build 6575",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "f8e5b5d39f00ef37596032cc042f2e0e7f2cc657",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        248,
+        229,
+        181,
+        211,
+        159,
+        0,
+        239,
+        55,
+        89,
+        96,
+        50,
+        204,
+        4,
+        47,
+        46,
+        14,
+        127,
+        44,
+        198,
+        87
+      ]
+    },
+    "name": "Kaspersky Internet Security 15.0.1.415 Build 6575",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 215,
+  "peers": 2,
+  "last_updated": "2016-12-25T18:32:25.215Z"
+}

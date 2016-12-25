@@ -1,1 +1,63 @@
-{"title":"Chasing Dead (2016) MULTi RePack","uid":15964359,"size":20409620,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:f758648264b73425e8c93a5c47f5494958773ef6&amp;dn=Chasing+Dead+%282016%29+MULTi+RePack&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":30,"uploader":"trwetwr","files":4,"time":1475708018,"description":"Good Game","torrent":{"xt":"urn:btih:f758648264b73425e8c93a5c47f5494958773ef6","amp;dn":"Chasing+Dead+%282016%29+MULTi+RePack","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f758648264b73425e8c93a5c47f5494958773ef6","infoHashBuffer":{"type":"Buffer","data":[247,88,100,130,100,183,52,37,232,201,58,92,71,245,73,73,88,119,62,246]},"announce":[],"urlList":[]}}
+{
+  "title": "Chasing Dead (2016) MULTi RePack",
+  "uid": 15964359,
+  "size": 20409620,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:f758648264b73425e8c93a5c47f5494958773ef6&amp;dn=Chasing+Dead+%282016%29+MULTi+RePack&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 30,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475708018,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:f758648264b73425e8c93a5c47f5494958773ef6",
+    "dn": "Chasing Dead (2016) MULTi RePack",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "f758648264b73425e8c93a5c47f5494958773ef6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        247,
+        88,
+        100,
+        130,
+        100,
+        183,
+        52,
+        37,
+        232,
+        201,
+        58,
+        92,
+        71,
+        245,
+        73,
+        73,
+        88,
+        119,
+        62,
+        246
+      ]
+    },
+    "name": "Chasing Dead (2016) MULTi RePack",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 81,
+  "peers": 1,
+  "last_updated": "2016-12-25T18:23:57.735Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Vernons.Legacy-CODEX","uid":15964329,"size":16111765,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:f7a7320485a067ecc5eebd60a18267b1d32c336a&amp;dn=Vernons.Legacy-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":40,"uploader":"trwetwr","files":6,"time":1475707484,"description":"Good Game","torrent":{"xt":"urn:btih:f7a7320485a067ecc5eebd60a18267b1d32c336a","amp;dn":"Vernons.Legacy-CODEX","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f7a7320485a067ecc5eebd60a18267b1d32c336a","infoHashBuffer":{"type":"Buffer","data":[247,167,50,4,133,160,103,236,197,238,189,96,161,130,103,177,211,44,51,106]},"announce":[],"urlList":[]}}
+{
+  "title": "Vernons.Legacy-CODEX",
+  "uid": 15964329,
+  "size": 16111765,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:f7a7320485a067ecc5eebd60a18267b1d32c336a&amp;dn=Vernons.Legacy-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 40,
+  "uploader": "trwetwr",
+  "files": 6,
+  "time": 1475707484,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:f7a7320485a067ecc5eebd60a18267b1d32c336a",
+    "dn": "Vernons.Legacy-CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "f7a7320485a067ecc5eebd60a18267b1d32c336a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        247,
+        167,
+        50,
+        4,
+        133,
+        160,
+        103,
+        236,
+        197,
+        238,
+        189,
+        96,
+        161,
+        130,
+        103,
+        177,
+        211,
+        44,
+        51,
+        106
+      ]
+    },
+    "name": "Vernons.Legacy-CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 102,
+  "peers": 2,
+  "last_updated": "2016-12-25T18:25:52.070Z"
+}

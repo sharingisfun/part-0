@@ -1,1 +1,61 @@
-{"title":"The Vampire Diaries S01E01 Pilot HDTV XviD-FQM [eztv]","uid":5084954,"size":366988446,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f7328c0c358c6b399e66dc9cd58fe5d196c78683&amp;dn=The+Vampire+Diaries+S01E01+Pilot+HDTV+XviD-FQM+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":15,"uploader":"eztv","files":1,"time":1252640123,"description":"#EZTV @ EFNet -&gt; http://eztv.it/\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW","torrent":{"xt":"urn:btih:f7328c0c358c6b399e66dc9cd58fe5d196c78683","amp;dn":"The+Vampire+Diaries+S01E01+Pilot+HDTV+XviD-FQM+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f7328c0c358c6b399e66dc9cd58fe5d196c78683","infoHashBuffer":{"type":"Buffer","data":[247,50,140,12,53,140,107,57,158,102,220,156,213,143,229,209,150,199,134,131]},"announce":[],"urlList":[]}}
+{
+  "title": "The Vampire Diaries S01E01 Pilot HDTV XviD-FQM [eztv]",
+  "uid": 5084954,
+  "size": 366988446,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f7328c0c358c6b399e66dc9cd58fe5d196c78683&amp;dn=The+Vampire+Diaries+S01E01+Pilot+HDTV+XviD-FQM+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 15,
+  "uploader": "eztv",
+  "files": 1,
+  "time": 1252640123,
+  "description": "#EZTV @ EFNet -&gt; http://eztv.it/\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW",
+  "parsed": {
+    "xt": "urn:btih:f7328c0c358c6b399e66dc9cd58fe5d196c78683",
+    "dn": "The Vampire Diaries S01E01 Pilot HDTV XviD-FQM [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f7328c0c358c6b399e66dc9cd58fe5d196c78683",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        247,
+        50,
+        140,
+        12,
+        53,
+        140,
+        107,
+        57,
+        158,
+        102,
+        220,
+        156,
+        213,
+        143,
+        229,
+        209,
+        150,
+        199,
+        134,
+        131
+      ]
+    },
+    "name": "The Vampire Diaries S01E01 Pilot HDTV XviD-FQM [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 53,
+  "last_updated": "2016-12-25T18:23:07.596Z"
+}

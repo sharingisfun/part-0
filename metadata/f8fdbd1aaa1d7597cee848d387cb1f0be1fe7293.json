@@ -1,1 +1,61 @@
-{"title":"Homeland.S01E04.HDTV.XviD-ASAP.[VTV].avi","uid":6766875,"size":575273630,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f8fdbd1aaa1d7597cee848d387cb1f0be1fe7293&amp;dn=Homeland.S01E04.HDTV.XviD-ASAP.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":13,"uploader":"VTV","files":1,"time":1319437504,"description":"Homeland 1x04 (HDTV-ASAP)[VTV]","torrent":{"xt":"urn:btih:f8fdbd1aaa1d7597cee848d387cb1f0be1fe7293","amp;dn":"Homeland.S01E04.HDTV.XviD-ASAP.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f8fdbd1aaa1d7597cee848d387cb1f0be1fe7293","infoHashBuffer":{"type":"Buffer","data":[248,253,189,26,170,29,117,151,206,232,72,211,135,203,31,11,225,254,114,147]},"announce":[],"urlList":[]}}
+{
+  "title": "Homeland.S01E04.HDTV.XviD-ASAP.[VTV].avi",
+  "uid": 6766875,
+  "size": 575273630,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f8fdbd1aaa1d7597cee848d387cb1f0be1fe7293&amp;dn=Homeland.S01E04.HDTV.XviD-ASAP.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 13,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1319437504,
+  "description": "Homeland 1x04 (HDTV-ASAP)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:f8fdbd1aaa1d7597cee848d387cb1f0be1fe7293",
+    "dn": "Homeland.S01E04.HDTV.XviD-ASAP.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f8fdbd1aaa1d7597cee848d387cb1f0be1fe7293",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        248,
+        253,
+        189,
+        26,
+        170,
+        29,
+        117,
+        151,
+        206,
+        232,
+        72,
+        211,
+        135,
+        203,
+        31,
+        11,
+        225,
+        254,
+        114,
+        147
+      ]
+    },
+    "name": "Homeland.S01E04.HDTV.XviD-ASAP.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 21,
+  "last_updated": "2016-12-25T18:32:57.314Z"
+}

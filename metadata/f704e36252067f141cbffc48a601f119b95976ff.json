@@ -1,1 +1,61 @@
-{"title":"Queen - Greatest Hits 3CD","uid":3400273,"size":322650368,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:f704e36252067f141cbffc48a601f119b95976ff&amp;dn=Queen+-+Greatest+Hits+3CD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":1,"uploader":"AnonymousSurfer+","files":34,"time":1130056795,"description":"Anti-virus recommended.","torrent":{"xt":"urn:btih:f704e36252067f141cbffc48a601f119b95976ff","amp;dn":"Queen+-+Greatest+Hits+3CD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f704e36252067f141cbffc48a601f119b95976ff","infoHashBuffer":{"type":"Buffer","data":[247,4,227,98,82,6,127,20,28,191,252,72,166,1,241,25,185,89,118,255]},"announce":[],"urlList":[]}}
+{
+  "title": "Queen - Greatest Hits 3CD",
+  "uid": 3400273,
+  "size": 322650368,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:f704e36252067f141cbffc48a601f119b95976ff&amp;dn=Queen+-+Greatest+Hits+3CD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 1,
+  "uploader": "AnonymousSurfer+",
+  "files": 34,
+  "time": 1130056795,
+  "description": "Anti-virus recommended.",
+  "parsed": {
+    "xt": "urn:btih:f704e36252067f141cbffc48a601f119b95976ff",
+    "dn": "Queen - Greatest Hits 3CD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f704e36252067f141cbffc48a601f119b95976ff",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        247,
+        4,
+        227,
+        98,
+        82,
+        6,
+        127,
+        20,
+        28,
+        191,
+        252,
+        72,
+        166,
+        1,
+        241,
+        25,
+        185,
+        89,
+        118,
+        255
+      ]
+    },
+    "name": "Queen - Greatest Hits 3CD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 11,
+  "last_updated": "2016-12-25T18:22:19.447Z"
+}

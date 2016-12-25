@@ -1,1 +1,61 @@
-{"title":"Metallica Discography (1982 - 2012)","uid":7385713,"size":677437966,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:f714fdcb942c1e9563e9c75b09c8ba3a15074c3c&amp;dn=Metallica+Discography+%281982+-+2012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":81,"leechers":14,"uploader":"Megatallica","files":109,"time":1340629631,"description":"Every Studio Album From Metallica\n\n\n\n\nKill Em All (1982)\nRide The Lightning (1984)\nMaster Of Puppets (1985)\n...And Justice For All (1989)\nMetallica (The Black Album) (1991)\nLoad (1995)\nReload(1998)\nSt. Anger (2003)\nDeath Magnetic(2008)\nLulu (2011)\nBeyond Magnetic (2012)\n\n\n\n\nEnjoy And PLEASE SEED!!!!!!!!!!!!","torrent":{"xt":"urn:btih:f714fdcb942c1e9563e9c75b09c8ba3a15074c3c","amp;dn":"Metallica+Discography+%281982+-+2012%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f714fdcb942c1e9563e9c75b09c8ba3a15074c3c","infoHashBuffer":{"type":"Buffer","data":[247,20,253,203,148,44,30,149,99,233,199,91,9,200,186,58,21,7,76,60]},"announce":[],"urlList":[]}}
+{
+  "title": "Metallica Discography (1982 - 2012)",
+  "uid": 7385713,
+  "size": 677437966,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:f714fdcb942c1e9563e9c75b09c8ba3a15074c3c&amp;dn=Metallica+Discography+%281982+-+2012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 81,
+  "leechers": 14,
+  "uploader": "Megatallica",
+  "files": 109,
+  "time": 1340629631,
+  "description": "Every Studio Album From Metallica\n\n\n\n\nKill Em All (1982)\nRide The Lightning (1984)\nMaster Of Puppets (1985)\n...And Justice For All (1989)\nMetallica (The Black Album) (1991)\nLoad (1995)\nReload(1998)\nSt. Anger (2003)\nDeath Magnetic(2008)\nLulu (2011)\nBeyond Magnetic (2012)\n\n\n\n\nEnjoy And PLEASE SEED!!!!!!!!!!!!",
+  "parsed": {
+    "xt": "urn:btih:f714fdcb942c1e9563e9c75b09c8ba3a15074c3c",
+    "dn": "Metallica Discography (1982 - 2012)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f714fdcb942c1e9563e9c75b09c8ba3a15074c3c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        247,
+        20,
+        253,
+        203,
+        148,
+        44,
+        30,
+        149,
+        99,
+        233,
+        199,
+        91,
+        9,
+        200,
+        186,
+        58,
+        21,
+        7,
+        76,
+        60
+      ]
+    },
+    "name": "Metallica Discography (1982 - 2012)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 95,
+  "peers": 23,
+  "last_updated": "2016-12-25T18:22:41.510Z"
+}

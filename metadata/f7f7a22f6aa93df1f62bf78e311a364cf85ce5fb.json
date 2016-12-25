@@ -1,1 +1,61 @@
-{"title":"Invisible, Inc. v1.0","uid":11894338,"size":849058711,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:f7f7a22f6aa93df1f62bf78e311a364cf85ce5fb&amp;dn=Invisible%2C+Inc.+v1.0&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":0,"uploader":"dauphong","files":1,"time":1431110274,"description":"\nAbout This Game\nTake control of Invisible's agents in the field and infiltrate the world's most dangerous corporations. Stealth, precision, and teamwork are essential in high-stakes, high-profit missions, where every move may cost an agent their life.\n\nKlei Entertainment, the independent studio behind the hit games Mark of the Ninja and Don't Starve, presents: Invisible, Inc.\nKey Features\n\n    Character selection: Start with any of the 10 unlockable agents in the game, plus 6 agent variants, and 6 starting programs to crack corporate security.\n    Deep customization of builds: each play through is different as you create your own strategy using agents, items, augments and programs, and adapt to your surroundings.\n    Randomly generated world: locations, threats, and loot are randomly generated so each playthrough is vastly different and youÃ¢â‚¬â„¢ll never get complacent.\n    Choose your own game mode: with 5 different game modes and extensive custom generation options, each player can play the way they prefer.\n    Fully animated cutscenes and voice over: with hundreds of lines of voice over, great animation, and fully animated cutscenes, we didnÃ¢â‚¬â„¢t spare any expense to make an immersive experience","torrent":{"xt":"urn:btih:f7f7a22f6aa93df1f62bf78e311a364cf85ce5fb","amp;dn":"Invisible%2C+Inc.+v1.0","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f7f7a22f6aa93df1f62bf78e311a364cf85ce5fb","infoHashBuffer":{"type":"Buffer","data":[247,247,162,47,106,169,61,241,246,43,247,142,49,26,54,76,248,92,229,251]},"announce":[],"urlList":[]}}
+{
+  "title": "Invisible, Inc. v1.0",
+  "uid": 11894338,
+  "size": 849058711,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:f7f7a22f6aa93df1f62bf78e311a364cf85ce5fb&amp;dn=Invisible%2C+Inc.+v1.0&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 0,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1431110274,
+  "description": "\nAbout This Game\nTake control of Invisible's agents in the field and infiltrate the world's most dangerous corporations. Stealth, precision, and teamwork are essential in high-stakes, high-profit missions, where every move may cost an agent their life.\n\nKlei Entertainment, the independent studio behind the hit games Mark of the Ninja and Don't Starve, presents: Invisible, Inc.\nKey Features\n\n    Character selection: Start with any of the 10 unlockable agents in the game, plus 6 agent variants, and 6 starting programs to crack corporate security.\n    Deep customization of builds: each play through is different as you create your own strategy using agents, items, augments and programs, and adapt to your surroundings.\n    Randomly generated world: locations, threats, and loot are randomly generated so each playthrough is vastly different and youÃ¢â‚¬â„¢ll never get complacent.\n    Choose your own game mode: with 5 different game modes and extensive custom generation options, each player can play the way they prefer.\n    Fully animated cutscenes and voice over: with hundreds of lines of voice over, great animation, and fully animated cutscenes, we didnÃ¢â‚¬â„¢t spare any expense to make an immersive experience",
+  "parsed": {
+    "xt": "urn:btih:f7f7a22f6aa93df1f62bf78e311a364cf85ce5fb",
+    "dn": "Invisible, Inc. v1.0",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f7f7a22f6aa93df1f62bf78e311a364cf85ce5fb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        247,
+        247,
+        162,
+        47,
+        106,
+        169,
+        61,
+        241,
+        246,
+        43,
+        247,
+        142,
+        49,
+        26,
+        54,
+        76,
+        248,
+        92,
+        229,
+        251
+      ]
+    },
+    "name": "Invisible, Inc. v1.0",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 2,
+  "last_updated": "2016-12-25T18:27:34.359Z"
+}
