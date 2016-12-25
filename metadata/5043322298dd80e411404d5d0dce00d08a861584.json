@@ -1,1 +1,61 @@
-{"title":"Grimes - Visions 2012 Mp3 320kbs","uid":7011300,"size":103662312,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:5043322298dd80e411404d5d0dce00d08a861584&amp;dn=Grimes+-+Visions+2012+Mp3+320kbs&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":0,"uploader":"c00ltun3s","files":12,"time":1328478335,"description":"Artist: Grimes\nAlbum: Visions\nYear: 2012\nLength: 43:49\nFiletype: Mp3\nBitrate: 320kb/s\nTracks: 13 \n\nCheck files for track listing.\n\nSeed and enjoy!","torrent":{"xt":"urn:btih:5043322298dd80e411404d5d0dce00d08a861584","amp;dn":"Grimes+-+Visions+2012+Mp3+320kbs","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5043322298dd80e411404d5d0dce00d08a861584","infoHashBuffer":{"type":"Buffer","data":[80,67,50,34,152,221,128,228,17,64,77,93,13,206,0,208,138,134,21,132]},"announce":[],"urlList":[]}}
+{
+  "title": "Grimes - Visions 2012 Mp3 320kbs",
+  "uid": 7011300,
+  "size": 103662312,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:5043322298dd80e411404d5d0dce00d08a861584&amp;dn=Grimes+-+Visions+2012+Mp3+320kbs&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 0,
+  "uploader": "c00ltun3s",
+  "files": 12,
+  "time": 1328478335,
+  "description": "Artist: Grimes\nAlbum: Visions\nYear: 2012\nLength: 43:49\nFiletype: Mp3\nBitrate: 320kb/s\nTracks: 13 \n\nCheck files for track listing.\n\nSeed and enjoy!",
+  "parsed": {
+    "xt": "urn:btih:5043322298dd80e411404d5d0dce00d08a861584",
+    "dn": "Grimes - Visions 2012 Mp3 320kbs",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5043322298dd80e411404d5d0dce00d08a861584",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        80,
+        67,
+        50,
+        34,
+        152,
+        221,
+        128,
+        228,
+        17,
+        64,
+        77,
+        93,
+        13,
+        206,
+        0,
+        208,
+        138,
+        134,
+        21,
+        132
+      ]
+    },
+    "name": "Grimes - Visions 2012 Mp3 320kbs",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 58,
+  "last_updated": "2016-12-25T00:54:07.119Z"
+}

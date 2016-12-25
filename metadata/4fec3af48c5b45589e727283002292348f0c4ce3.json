@@ -1,1 +1,61 @@
-{"title":"Guitar Hero 3 Legends Of Rock (PS2) (NTSC)","uid":3925947,"size":4334649344,"categoryP":"games","categoryS":"psx","magnet":"?xt=urn:btih:4fec3af48c5b45589e727283002292348f0c4ce3&amp;dn=Guitar+Hero+3+Legends+Of+Rock+%28PS2%29+%28NTSC%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":112,"leechers":13,"uploader":"CrazySk8erKidd505","files":1,"time":1197088358,"description":"seed plzzzzzzz","torrent":{"xt":"urn:btih:4fec3af48c5b45589e727283002292348f0c4ce3","amp;dn":"Guitar+Hero+3+Legends+Of+Rock+%28PS2%29+%28NTSC%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4fec3af48c5b45589e727283002292348f0c4ce3","infoHashBuffer":{"type":"Buffer","data":[79,236,58,244,140,91,69,88,158,114,114,131,0,34,146,52,143,12,76,227]},"announce":[],"urlList":[]}}
+{
+  "title": "Guitar Hero 3 Legends Of Rock (PS2) (NTSC)",
+  "uid": 3925947,
+  "size": 4334649344,
+  "categoryP": "games",
+  "categoryS": "psx",
+  "magnet": "?xt=urn:btih:4fec3af48c5b45589e727283002292348f0c4ce3&amp;dn=Guitar+Hero+3+Legends+Of+Rock+%28PS2%29+%28NTSC%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 112,
+  "leechers": 13,
+  "uploader": "CrazySk8erKidd505",
+  "files": 1,
+  "time": 1197088358,
+  "description": "seed plzzzzzzz",
+  "parsed": {
+    "xt": "urn:btih:4fec3af48c5b45589e727283002292348f0c4ce3",
+    "dn": "Guitar Hero 3 Legends Of Rock (PS2) (NTSC)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4fec3af48c5b45589e727283002292348f0c4ce3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        79,
+        236,
+        58,
+        244,
+        140,
+        91,
+        69,
+        88,
+        158,
+        114,
+        114,
+        131,
+        0,
+        34,
+        146,
+        52,
+        143,
+        12,
+        76,
+        227
+      ]
+    },
+    "name": "Guitar Hero 3 Legends Of Rock (PS2) (NTSC)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 125,
+  "peers": 0,
+  "last_updated": "2016-12-25T00:51:54.758Z"
+}

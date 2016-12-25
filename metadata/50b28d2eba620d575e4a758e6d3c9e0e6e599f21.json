@@ -1,1 +1,61 @@
-{"title":"Spore-RELOADED","uid":8169327,"size":4183228416,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:50b28d2eba620d575e4a758e6d3c9e0e6e599f21&amp;dn=Spore-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":179,"leechers":5,"uploader":"Mata9813","files":1,"time":1361392706,"description":"Open iso and press setup\nInstall and play","torrent":{"xt":"urn:btih:50b28d2eba620d575e4a758e6d3c9e0e6e599f21","amp;dn":"Spore-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"50b28d2eba620d575e4a758e6d3c9e0e6e599f21","infoHashBuffer":{"type":"Buffer","data":[80,178,141,46,186,98,13,87,94,74,117,142,109,60,158,14,110,89,159,33]},"announce":[],"urlList":[]}}
+{
+  "title": "Spore-RELOADED",
+  "uid": 8169327,
+  "size": 4183228416,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:50b28d2eba620d575e4a758e6d3c9e0e6e599f21&amp;dn=Spore-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 179,
+  "leechers": 5,
+  "uploader": "Mata9813",
+  "files": 1,
+  "time": 1361392706,
+  "description": "Open iso and press setup\nInstall and play",
+  "parsed": {
+    "xt": "urn:btih:50b28d2eba620d575e4a758e6d3c9e0e6e599f21",
+    "dn": "Spore-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "50b28d2eba620d575e4a758e6d3c9e0e6e599f21",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        80,
+        178,
+        141,
+        46,
+        186,
+        98,
+        13,
+        87,
+        94,
+        74,
+        117,
+        142,
+        109,
+        60,
+        158,
+        14,
+        110,
+        89,
+        159,
+        33
+      ]
+    },
+    "name": "Spore-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 184,
+  "peers": 7,
+  "last_updated": "2016-12-25T00:56:45.544Z"
+}

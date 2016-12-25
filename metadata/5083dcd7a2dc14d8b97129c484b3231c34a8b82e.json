@@ -1,1 +1,61 @@
-{"title":"Terraria v1.3.0.6 (GOG)","uid":12148055,"size":137411306,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:5083dcd7a2dc14d8b97129c484b3231c34a8b82e&amp;dn=Terraria+v1.3.0.6+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":0,"uploader":"mercs215","files":2,"time":1437521663,"description":"Install instructions:\n1. Run &quot;setup_terraria_2.5.0.7&quot; \n2. Play\n\nChange log:\n\nSolar Flare armor set Dash ability now only consumes flares when it hits an enemy, and any hit enemy will result in a Solar Radiance explosion!\nParty Girl's spawning chance has been increased\nYou can now take camera mode pictures of wiring if you hold a mechanical item while taking the pictures\nFixed certain issues with stardust dragon's damage and rebalanced him to be more in line with other minions\nYou can now hide moon charm and neptune shell's effects, or put them in vanity!\nThe final boss's attacks now use their own cooldown for immunity due to how naughty some of our players have been\n\nFixes:\nPotentially fixed lag issues when using Steam multiplayer\nPotentially fixed invasions not trigerring when they should (martian probes)\nFixed Money Trough turning 'Quick Stack to All Chests' button invisible\nFixed javelins drawing behind doors on all cases\nFixed Keys of Light / Night not working through autopause\nFixed nearby crafting stations not updating when you open inventory in autopause\nFixed 'allow mounting' check not taking player's velocity into account (mounting into ceiling exploit)\nFixed breathing meter appearing when hanging on to a ceiling that has water in it\nFixed content files not being compressed\nFixed umbrella art not being consistent\nFixed solar eruption item stray pixel\nFixed jellyfish expert mode counter hitting you when you can't hit the jellyfish\nFixed drill containment unit being able to mine demon altars before hardmode\nFixed centain penguins not counting tally\nFixed dryad not selling vicious powder on bloodmoon in crimtane worlds\nFixed issue where shroomite and psycho knife stealth would work on mounts\nFixed issue where martian probe would trigger martian invasion clientside\nFixed cultist boss summoning spells badly in multiplayer","torrent":{"xt":"urn:btih:5083dcd7a2dc14d8b97129c484b3231c34a8b82e","amp;dn":"Terraria+v1.3.0.6+%28GOG%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5083dcd7a2dc14d8b97129c484b3231c34a8b82e","infoHashBuffer":{"type":"Buffer","data":[80,131,220,215,162,220,20,216,185,113,41,196,132,179,35,28,52,168,184,46]},"announce":[],"urlList":[]}}
+{
+  "title": "Terraria v1.3.0.6 (GOG)",
+  "uid": 12148055,
+  "size": 137411306,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:5083dcd7a2dc14d8b97129c484b3231c34a8b82e&amp;dn=Terraria+v1.3.0.6+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 0,
+  "uploader": "mercs215",
+  "files": 2,
+  "time": 1437521663,
+  "description": "Install instructions:\n1. Run &quot;setup_terraria_2.5.0.7&quot; \n2. Play\n\nChange log:\n\nSolar Flare armor set Dash ability now only consumes flares when it hits an enemy, and any hit enemy will result in a Solar Radiance explosion!\nParty Girl's spawning chance has been increased\nYou can now take camera mode pictures of wiring if you hold a mechanical item while taking the pictures\nFixed certain issues with stardust dragon's damage and rebalanced him to be more in line with other minions\nYou can now hide moon charm and neptune shell's effects, or put them in vanity!\nThe final boss's attacks now use their own cooldown for immunity due to how naughty some of our players have been\n\nFixes:\nPotentially fixed lag issues when using Steam multiplayer\nPotentially fixed invasions not trigerring when they should (martian probes)\nFixed Money Trough turning 'Quick Stack to All Chests' button invisible\nFixed javelins drawing behind doors on all cases\nFixed Keys of Light / Night not working through autopause\nFixed nearby crafting stations not updating when you open inventory in autopause\nFixed 'allow mounting' check not taking player's velocity into account (mounting into ceiling exploit)\nFixed breathing meter appearing when hanging on to a ceiling that has water in it\nFixed content files not being compressed\nFixed umbrella art not being consistent\nFixed solar eruption item stray pixel\nFixed jellyfish expert mode counter hitting you when you can't hit the jellyfish\nFixed drill containment unit being able to mine demon altars before hardmode\nFixed centain penguins not counting tally\nFixed dryad not selling vicious powder on bloodmoon in crimtane worlds\nFixed issue where shroomite and psycho knife stealth would work on mounts\nFixed issue where martian probe would trigger martian invasion clientside\nFixed cultist boss summoning spells badly in multiplayer",
+  "parsed": {
+    "xt": "urn:btih:5083dcd7a2dc14d8b97129c484b3231c34a8b82e",
+    "dn": "Terraria v1.3.0.6 (GOG)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5083dcd7a2dc14d8b97129c484b3231c34a8b82e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        80,
+        131,
+        220,
+        215,
+        162,
+        220,
+        20,
+        216,
+        185,
+        113,
+        41,
+        196,
+        132,
+        179,
+        35,
+        28,
+        52,
+        168,
+        184,
+        46
+      ]
+    },
+    "name": "Terraria v1.3.0.6 (GOG)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 13,
+  "last_updated": "2016-12-25T00:55:45.386Z"
+}

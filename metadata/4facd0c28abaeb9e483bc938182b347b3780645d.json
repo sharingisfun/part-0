@@ -1,1 +1,61 @@
-{"title":"Death_of_Wolverine_03_(of_04)_(2014)_(Digital)_(Nahga-Empire).cb","uid":11141662,"size":49198600,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:4facd0c28abaeb9e483bc938182b347b3780645d&amp;dn=Death_of_Wolverine_03_%28of_04%29_%282014%29_%28Digital%29_%28Nahga-Empire%29.cb&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":1,"uploader":"nemesis43","files":1,"time":1412178189,"description":"Death_of_Wolverine_03_(of_04)_(2014)_(Digital)_(Nahga-Empire) ","torrent":{"xt":"urn:btih:4facd0c28abaeb9e483bc938182b347b3780645d","amp;dn":"Death_of_Wolverine_03_%28of_04%29_%282014%29_%28Digital%29_%28Nahga-Empire%29.cb","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4facd0c28abaeb9e483bc938182b347b3780645d","infoHashBuffer":{"type":"Buffer","data":[79,172,208,194,138,186,235,158,72,59,201,56,24,43,52,123,55,128,100,93]},"announce":[],"urlList":[]}}
+{
+  "title": "Death_of_Wolverine_03_(of_04)_(2014)_(Digital)_(Nahga-Empire).cb",
+  "uid": 11141662,
+  "size": 49198600,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:4facd0c28abaeb9e483bc938182b347b3780645d&amp;dn=Death_of_Wolverine_03_%28of_04%29_%282014%29_%28Digital%29_%28Nahga-Empire%29.cb&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 1,
+  "uploader": "nemesis43",
+  "files": 1,
+  "time": 1412178189,
+  "description": "Death_of_Wolverine_03_(of_04)_(2014)_(Digital)_(Nahga-Empire) ",
+  "parsed": {
+    "xt": "urn:btih:4facd0c28abaeb9e483bc938182b347b3780645d",
+    "dn": "Death_of_Wolverine_03_(of_04)_(2014)_(Digital)_(Nahga-Empire).cb",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4facd0c28abaeb9e483bc938182b347b3780645d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        79,
+        172,
+        208,
+        194,
+        138,
+        186,
+        235,
+        158,
+        72,
+        59,
+        201,
+        56,
+        24,
+        43,
+        52,
+        123,
+        55,
+        128,
+        100,
+        93
+      ]
+    },
+    "name": "Death_of_Wolverine_03_(of_04)_(2014)_(Digital)_(Nahga-Empire).cb",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 3,
+  "last_updated": "2016-12-25T00:50:14.459Z"
+}

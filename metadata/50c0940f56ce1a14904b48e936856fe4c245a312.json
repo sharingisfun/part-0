@@ -1,1 +1,63 @@
-{"title":"Fast Car - Jonas Blue feat. Dakota","uid":15518960,"size":8473575,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:50c0940f56ce1a14904b48e936856fe4c245a312&amp;dn=Fast+Car+-+Jonas+Blue+feat.+Dakota&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":1,"uploader":"difgr","files":1,"time":1470721983,"description":"320Kbps - Original Source","torrent":{"xt":"urn:btih:50c0940f56ce1a14904b48e936856fe4c245a312","amp;dn":"Fast+Car+-+Jonas+Blue+feat.+Dakota","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"50c0940f56ce1a14904b48e936856fe4c245a312","infoHashBuffer":{"type":"Buffer","data":[80,192,148,15,86,206,26,20,144,75,72,233,54,133,111,228,194,69,163,18]},"announce":[],"urlList":[]}}
+{
+  "title": "Fast Car - Jonas Blue feat. Dakota",
+  "uid": 15518960,
+  "size": 8473575,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:50c0940f56ce1a14904b48e936856fe4c245a312&amp;dn=Fast+Car+-+Jonas+Blue+feat.+Dakota&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 1,
+  "uploader": "difgr",
+  "files": 1,
+  "time": 1470721983,
+  "description": "320Kbps - Original Source",
+  "parsed": {
+    "xt": "urn:btih:50c0940f56ce1a14904b48e936856fe4c245a312",
+    "dn": "Fast Car - Jonas Blue feat. Dakota",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "50c0940f56ce1a14904b48e936856fe4c245a312",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        80,
+        192,
+        148,
+        15,
+        86,
+        206,
+        26,
+        20,
+        144,
+        75,
+        72,
+        233,
+        54,
+        133,
+        111,
+        228,
+        194,
+        69,
+        163,
+        18
+      ]
+    },
+    "name": "Fast Car - Jonas Blue feat. Dakota",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 101,
+  "last_updated": "2016-12-25T00:57:09.603Z"
+}

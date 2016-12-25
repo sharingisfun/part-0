@@ -1,1 +1,61 @@
-{"title":"BET Awards 2015","uid":12083016,"size":1352677395,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:4f5cf89d3264c1f88d7b7fa700135deca3a281a6&amp;dn=BET+Awards+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":0,"uploader":"Spud17","files":1,"time":1435829899,"description":"The 2015 BET Awards was held at the Microsoft Theater in Los Angeles, California on June 28, 2015 and was televised on BET. This year marked the ceremony's 15th anniversary year that the BET Awards have been televised (since June 2001) with the milestone that was celebrated throughout the show which was hosted by Anthony Anderson and Tracee Ellis Ross.\n\nNot my original work. Just sharing","torrent":{"xt":"urn:btih:4f5cf89d3264c1f88d7b7fa700135deca3a281a6","amp;dn":"BET+Awards+2015","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4f5cf89d3264c1f88d7b7fa700135deca3a281a6","infoHashBuffer":{"type":"Buffer","data":[79,92,248,157,50,100,193,248,141,123,127,167,0,19,93,236,163,162,129,166]},"announce":[],"urlList":[]}}
+{
+  "title": "BET Awards 2015",
+  "uid": 12083016,
+  "size": 1352677395,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:4f5cf89d3264c1f88d7b7fa700135deca3a281a6&amp;dn=BET+Awards+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 0,
+  "uploader": "Spud17",
+  "files": 1,
+  "time": 1435829899,
+  "description": "The 2015 BET Awards was held at the Microsoft Theater in Los Angeles, California on June 28, 2015 and was televised on BET. This year marked the ceremony's 15th anniversary year that the BET Awards have been televised (since June 2001) with the milestone that was celebrated throughout the show which was hosted by Anthony Anderson and Tracee Ellis Ross.\n\nNot my original work. Just sharing",
+  "parsed": {
+    "xt": "urn:btih:4f5cf89d3264c1f88d7b7fa700135deca3a281a6",
+    "dn": "BET Awards 2015",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4f5cf89d3264c1f88d7b7fa700135deca3a281a6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        79,
+        92,
+        248,
+        157,
+        50,
+        100,
+        193,
+        248,
+        141,
+        123,
+        127,
+        167,
+        0,
+        19,
+        93,
+        236,
+        163,
+        162,
+        129,
+        166
+      ]
+    },
+    "name": "BET Awards 2015",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 11,
+  "last_updated": "2016-12-25T00:47:54.012Z"
+}

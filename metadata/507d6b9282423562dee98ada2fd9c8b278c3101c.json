@@ -1,1 +1,61 @@
-{"title":"JAY Z &amp; Kanye West - Watch the Throne","uid":11679860,"size":84019313,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:507d6b9282423562dee98ada2fd9c8b278c3101c&amp;dn=JAY+Z+%26amp%3B+Kanye+West+-+Watch+the+Throne&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":1,"uploader":null,"files":12,"time":1423035533,"description":"JAY Z &amp; Kanye West - Watch the Throne","torrent":{"xt":"urn:btih:507d6b9282423562dee98ada2fd9c8b278c3101c","amp;dn":"JAY+Z+%26amp%3B+Kanye+West+-+Watch+the+Throne","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"507d6b9282423562dee98ada2fd9c8b278c3101c","infoHashBuffer":{"type":"Buffer","data":[80,125,107,146,130,66,53,98,222,233,138,218,47,217,200,178,120,195,16,28]},"announce":[],"urlList":[]}}
+{
+  "title": "JAY Z &amp; Kanye West - Watch the Throne",
+  "uid": 11679860,
+  "size": 84019313,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:507d6b9282423562dee98ada2fd9c8b278c3101c&amp;dn=JAY+Z+%26amp%3B+Kanye+West+-+Watch+the+Throne&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 1,
+  "uploader": null,
+  "files": 12,
+  "time": 1423035533,
+  "description": "JAY Z &amp; Kanye West - Watch the Throne",
+  "parsed": {
+    "xt": "urn:btih:507d6b9282423562dee98ada2fd9c8b278c3101c",
+    "dn": "JAY Z &amp; Kanye West - Watch the Throne",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "507d6b9282423562dee98ada2fd9c8b278c3101c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        80,
+        125,
+        107,
+        146,
+        130,
+        66,
+        53,
+        98,
+        222,
+        233,
+        138,
+        218,
+        47,
+        217,
+        200,
+        178,
+        120,
+        195,
+        16,
+        28
+      ]
+    },
+    "name": "JAY Z &amp; Kanye West - Watch the Throne",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 9,
+  "last_updated": "2016-12-25T00:55:35.359Z"
+}

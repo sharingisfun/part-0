@@ -1,1 +1,61 @@
-{"title":"Guardianes de la galaxia BRScreener","uid":11558044,"size":2016702464,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:515a15ce83c7616672ebdadcd4c4df9d78267f7a&amp;dn=Guardianes+de+la+galaxia+BRScreener&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":1,"uploader":"goldenz0","files":1,"time":1416849296,"description":"Calidad BlurayScreener\nEspaÃƒÂ±ol\n\nVisitanos en: http://www.peliculasentorrent.com/","torrent":{"xt":"urn:btih:515a15ce83c7616672ebdadcd4c4df9d78267f7a","amp;dn":"Guardianes+de+la+galaxia+BRScreener","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"515a15ce83c7616672ebdadcd4c4df9d78267f7a","infoHashBuffer":{"type":"Buffer","data":[81,90,21,206,131,199,97,102,114,235,218,220,212,196,223,157,120,38,127,122]},"announce":[],"urlList":[]}}
+{
+  "title": "Guardianes de la galaxia BRScreener",
+  "uid": 11558044,
+  "size": 2016702464,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:515a15ce83c7616672ebdadcd4c4df9d78267f7a&amp;dn=Guardianes+de+la+galaxia+BRScreener&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 1,
+  "uploader": "goldenz0",
+  "files": 1,
+  "time": 1416849296,
+  "description": "Calidad BlurayScreener\nEspaÃƒÂ±ol\n\nVisitanos en: http://www.peliculasentorrent.com/",
+  "parsed": {
+    "xt": "urn:btih:515a15ce83c7616672ebdadcd4c4df9d78267f7a",
+    "dn": "Guardianes de la galaxia BRScreener",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "515a15ce83c7616672ebdadcd4c4df9d78267f7a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        81,
+        90,
+        21,
+        206,
+        131,
+        199,
+        97,
+        102,
+        114,
+        235,
+        218,
+        220,
+        212,
+        196,
+        223,
+        157,
+        120,
+        38,
+        127,
+        122
+      ]
+    },
+    "name": "Guardianes de la galaxia BRScreener",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 23,
+  "last_updated": "2016-12-25T01:01:04.237Z"
+}

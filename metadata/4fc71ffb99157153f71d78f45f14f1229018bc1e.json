@@ -1,1 +1,61 @@
-{"title":"Beck - Morning Phase [2014]","uid":9547590,"size":93214598,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4fc71ffb99157153f71d78f45f14f1229018bc1e&amp;dn=Beck+-+Morning+Phase+%5B2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":1,"uploader":"Capajebo","files":-1,"time":1391161876,"description":"===================================\n*** Beck - Morning Phase [2014] ***\n...................................\n\nGenre ............: Indie\nYear .............: 2014\nQuality / Bitrate : MP3 - vbrV0\nSource ...........: Digital Copy\nTotal Size / Time : 88 MB / 0:47:31\n-----------------------------------\n\n::: TRACKLST :::\n1. &quot;Cycle&quot; ....................0:39\n2. &quot;Morning&quot; ..................5:19\n3. &quot;Heart Is A Drum&quot; ..........4:31\n4. &quot;Say Goodbye&quot; ..............3:29\n5. &quot;Blue Moon&quot; ................4:02\n6. &quot;Unforgiven&quot; ...............4:34\n7. &quot;Wave&quot; .....................3:40\n8. &quot;Don't Let It Go&quot; ..........3:09\n9. &quot;Blackbird Chain&quot; ..........4:26\n10.&quot;Phase&quot; ....................1:07\n11.&quot;Turn Away&quot; ................3:05\n12.&quot;Country Down&quot; .............4:00\n13.&quot;Waking Light&quot; .............5:00\n...................................\n===================================","torrent":{"xt":"urn:btih:4fc71ffb99157153f71d78f45f14f1229018bc1e","amp;dn":"Beck+-+Morning+Phase+%5B2014%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4fc71ffb99157153f71d78f45f14f1229018bc1e","infoHashBuffer":{"type":"Buffer","data":[79,199,31,251,153,21,113,83,247,29,120,244,95,20,241,34,144,24,188,30]},"announce":[],"urlList":[]}}
+{
+  "title": "Beck - Morning Phase [2014]",
+  "uid": 9547590,
+  "size": 93214598,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4fc71ffb99157153f71d78f45f14f1229018bc1e&amp;dn=Beck+-+Morning+Phase+%5B2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 1,
+  "uploader": "Capajebo",
+  "files": -1,
+  "time": 1391161876,
+  "description": "===================================\n*** Beck - Morning Phase [2014] ***\n...................................\n\nGenre ............: Indie\nYear .............: 2014\nQuality / Bitrate : MP3 - vbrV0\nSource ...........: Digital Copy\nTotal Size / Time : 88 MB / 0:47:31\n-----------------------------------\n\n::: TRACKLST :::\n1. &quot;Cycle&quot; ....................0:39\n2. &quot;Morning&quot; ..................5:19\n3. &quot;Heart Is A Drum&quot; ..........4:31\n4. &quot;Say Goodbye&quot; ..............3:29\n5. &quot;Blue Moon&quot; ................4:02\n6. &quot;Unforgiven&quot; ...............4:34\n7. &quot;Wave&quot; .....................3:40\n8. &quot;Don't Let It Go&quot; ..........3:09\n9. &quot;Blackbird Chain&quot; ..........4:26\n10.&quot;Phase&quot; ....................1:07\n11.&quot;Turn Away&quot; ................3:05\n12.&quot;Country Down&quot; .............4:00\n13.&quot;Waking Light&quot; .............5:00\n...................................\n===================================",
+  "parsed": {
+    "xt": "urn:btih:4fc71ffb99157153f71d78f45f14f1229018bc1e",
+    "dn": "Beck - Morning Phase [2014]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4fc71ffb99157153f71d78f45f14f1229018bc1e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        79,
+        199,
+        31,
+        251,
+        153,
+        21,
+        113,
+        83,
+        247,
+        29,
+        120,
+        244,
+        95,
+        20,
+        241,
+        34,
+        144,
+        24,
+        188,
+        30
+      ]
+    },
+    "name": "Beck - Morning Phase [2014]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 63,
+  "peers": 9,
+  "last_updated": "2016-12-25T00:50:48.576Z"
+}

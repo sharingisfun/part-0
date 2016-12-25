@@ -1,1 +1,61 @@
-{"title":"Machine Gun Kelly - Black Flag","uid":8621829,"size":78931401,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4f54397d85e18e8fb119d329952d7cb92cd7cc87&amp;dn=Machine+Gun+Kelly+-+Black+Flag&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":6,"uploader":"cgibbons","files":17,"time":1372391117,"description":"::Track List::\n01. Raise The Flag\n02. Breaking News\n03. Peso (Feat. Pusha T and Meek Mill)\n04. Black Tuxedo (Feat. Tezo)\n05. Mind of a Stoner (Feat. Wiz Khalifa)\n06. D&amp;G (Feat. Sean McGee)\n07. Skate Cans\n08. 50 (Interlude) (Feat. French Montana)\n09. Baddest\n10. Miss Me? (Feat. Dub-O)\n11. Street Dreams\n12. Swing Life Away (Feat. Kellin Quin) (Rise Against Cover)\n13. Home Soon\n14. Dark Side Of The Moon","torrent":{"xt":"urn:btih:4f54397d85e18e8fb119d329952d7cb92cd7cc87","amp;dn":"Machine+Gun+Kelly+-+Black+Flag","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4f54397d85e18e8fb119d329952d7cb92cd7cc87","infoHashBuffer":{"type":"Buffer","data":[79,84,57,125,133,225,142,143,177,25,211,41,149,45,124,185,44,215,204,135]},"announce":[],"urlList":[]}}
+{
+  "title": "Machine Gun Kelly - Black Flag",
+  "uid": 8621829,
+  "size": 78931401,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4f54397d85e18e8fb119d329952d7cb92cd7cc87&amp;dn=Machine+Gun+Kelly+-+Black+Flag&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 6,
+  "uploader": "cgibbons",
+  "files": 17,
+  "time": 1372391117,
+  "description": "::Track List::\n01. Raise The Flag\n02. Breaking News\n03. Peso (Feat. Pusha T and Meek Mill)\n04. Black Tuxedo (Feat. Tezo)\n05. Mind of a Stoner (Feat. Wiz Khalifa)\n06. D&amp;G (Feat. Sean McGee)\n07. Skate Cans\n08. 50 (Interlude) (Feat. French Montana)\n09. Baddest\n10. Miss Me? (Feat. Dub-O)\n11. Street Dreams\n12. Swing Life Away (Feat. Kellin Quin) (Rise Against Cover)\n13. Home Soon\n14. Dark Side Of The Moon",
+  "parsed": {
+    "xt": "urn:btih:4f54397d85e18e8fb119d329952d7cb92cd7cc87",
+    "dn": "Machine Gun Kelly - Black Flag",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4f54397d85e18e8fb119d329952d7cb92cd7cc87",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        79,
+        84,
+        57,
+        125,
+        133,
+        225,
+        142,
+        143,
+        177,
+        25,
+        211,
+        41,
+        149,
+        45,
+        124,
+        185,
+        44,
+        215,
+        204,
+        135
+      ]
+    },
+    "name": "Machine Gun Kelly - Black Flag",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 30,
+  "last_updated": "2016-12-25T00:47:41.970Z"
+}

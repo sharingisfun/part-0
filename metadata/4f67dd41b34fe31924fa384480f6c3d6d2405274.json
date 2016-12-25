@@ -1,1 +1,61 @@
-{"title":"Greys Anatomy - Season 4 Complete","uid":5037047,"size":2296197640,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:4f67dd41b34fe31924fa384480f6c3d6d2405274&amp;dn=Greys+Anatomy+-+Season+4+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":96,"leechers":24,"uploader":"rustyjerk","files":18,"time":1249169742,"description":"seed","torrent":{"xt":"urn:btih:4f67dd41b34fe31924fa384480f6c3d6d2405274","amp;dn":"Greys+Anatomy+-+Season+4+Complete","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4f67dd41b34fe31924fa384480f6c3d6d2405274","infoHashBuffer":{"type":"Buffer","data":[79,103,221,65,179,79,227,25,36,250,56,68,128,246,195,214,210,64,82,116]},"announce":[],"urlList":[]}}
+{
+  "title": "Greys Anatomy - Season 4 Complete",
+  "uid": 5037047,
+  "size": 2296197640,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:4f67dd41b34fe31924fa384480f6c3d6d2405274&amp;dn=Greys+Anatomy+-+Season+4+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 96,
+  "leechers": 24,
+  "uploader": "rustyjerk",
+  "files": 18,
+  "time": 1249169742,
+  "description": "seed",
+  "parsed": {
+    "xt": "urn:btih:4f67dd41b34fe31924fa384480f6c3d6d2405274",
+    "dn": "Greys Anatomy - Season 4 Complete",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4f67dd41b34fe31924fa384480f6c3d6d2405274",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        79,
+        103,
+        221,
+        65,
+        179,
+        79,
+        227,
+        25,
+        36,
+        250,
+        56,
+        68,
+        128,
+        246,
+        195,
+        214,
+        210,
+        64,
+        82,
+        116
+      ]
+    },
+    "name": "Greys Anatomy - Season 4 Complete",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 120,
+  "peers": 50,
+  "last_updated": "2016-12-25T00:48:06.051Z"
+}

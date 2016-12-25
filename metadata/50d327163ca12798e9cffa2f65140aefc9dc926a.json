@@ -1,1 +1,61 @@
-{"title":"Universe Sandbox 2 - Alpha 15.2","uid":12122283,"size":359312270,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:50d327163ca12798e9cffa2f65140aefc9dc926a&amp;dn=Universe+Sandbox+2+-+Alpha+15.2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":103,"leechers":2,"uploader":"dauphong","files":1,"time":1436847335,"description":"About This Game\nUniverse Sandbox Ã‚Â² is a physics based space simulator that merges real-time gravity, climate, collision, and material interactions to reveal the beauty of our universe and the fragility of our planet. It's the long awaited sequel to the original Universe Sandbox","torrent":{"xt":"urn:btih:50d327163ca12798e9cffa2f65140aefc9dc926a","amp;dn":"Universe+Sandbox+2+-+Alpha+15.2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"50d327163ca12798e9cffa2f65140aefc9dc926a","infoHashBuffer":{"type":"Buffer","data":[80,211,39,22,60,161,39,152,233,207,250,47,101,20,10,239,201,220,146,106]},"announce":[],"urlList":[]}}
+{
+  "title": "Universe Sandbox 2 - Alpha 15.2",
+  "uid": 12122283,
+  "size": 359312270,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:50d327163ca12798e9cffa2f65140aefc9dc926a&amp;dn=Universe+Sandbox+2+-+Alpha+15.2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 103,
+  "leechers": 2,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1436847335,
+  "description": "About This Game\nUniverse Sandbox Ã‚Â² is a physics based space simulator that merges real-time gravity, climate, collision, and material interactions to reveal the beauty of our universe and the fragility of our planet. It's the long awaited sequel to the original Universe Sandbox",
+  "parsed": {
+    "xt": "urn:btih:50d327163ca12798e9cffa2f65140aefc9dc926a",
+    "dn": "Universe Sandbox 2 - Alpha 15.2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "50d327163ca12798e9cffa2f65140aefc9dc926a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        80,
+        211,
+        39,
+        22,
+        60,
+        161,
+        39,
+        152,
+        233,
+        207,
+        250,
+        47,
+        101,
+        20,
+        10,
+        239,
+        201,
+        220,
+        146,
+        106
+      ]
+    },
+    "name": "Universe Sandbox 2 - Alpha 15.2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 105,
+  "peers": 3,
+  "last_updated": "2016-12-25T00:57:41.694Z"
+}

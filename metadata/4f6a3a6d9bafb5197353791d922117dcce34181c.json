@@ -1,1 +1,61 @@
-{"title":"Heroes of Might and Magic IV Complete - Windows 7","uid":6591514,"size":994863082,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:4f6a3a6d9bafb5197353791d922117dcce34181c&amp;dn=Heroes+of+Might+and+Magic+IV+Complete+-+Windows+7&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":2,"uploader":"xbins","files":2,"time":1312844907,"description":"HOMM4 plus all the expansions and extra content.\n\nRuns on any OS perfectly, just run the setup and enjoy!","torrent":{"xt":"urn:btih:4f6a3a6d9bafb5197353791d922117dcce34181c","amp;dn":"Heroes+of+Might+and+Magic+IV+Complete+-+Windows+7","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4f6a3a6d9bafb5197353791d922117dcce34181c","infoHashBuffer":{"type":"Buffer","data":[79,106,58,109,155,175,181,25,115,83,121,29,146,33,23,220,206,52,24,28]},"announce":[],"urlList":[]}}
+{
+  "title": "Heroes of Might and Magic IV Complete - Windows 7",
+  "uid": 6591514,
+  "size": 994863082,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:4f6a3a6d9bafb5197353791d922117dcce34181c&amp;dn=Heroes+of+Might+and+Magic+IV+Complete+-+Windows+7&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 2,
+  "uploader": "xbins",
+  "files": 2,
+  "time": 1312844907,
+  "description": "HOMM4 plus all the expansions and extra content.\n\nRuns on any OS perfectly, just run the setup and enjoy!",
+  "parsed": {
+    "xt": "urn:btih:4f6a3a6d9bafb5197353791d922117dcce34181c",
+    "dn": "Heroes of Might and Magic IV Complete - Windows 7",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4f6a3a6d9bafb5197353791d922117dcce34181c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        79,
+        106,
+        58,
+        109,
+        155,
+        175,
+        181,
+        25,
+        115,
+        83,
+        121,
+        29,
+        146,
+        33,
+        23,
+        220,
+        206,
+        52,
+        24,
+        28
+      ]
+    },
+    "name": "Heroes of Might and Magic IV Complete - Windows 7",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 213,
+  "last_updated": "2016-12-25T00:48:18.115Z"
+}
