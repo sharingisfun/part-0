@@ -1,1 +1,61 @@
-{"title":"The Strokes - Is This It [192kbps]","uid":4483703,"size":51645706,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:5ee52a8d96a5fa49b4362d28fed5dc133561dfe5&amp;dn=The+Strokes+-+Is+This+It+%5B192kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":108,"leechers":8,"uploader":"Amplified_Pumpkin","files":-1,"time":1225671414,"description":"The Strokes - Is This It (2001)\n\nAudio: mp3 @ 192kbps\n\nTrack Listing:\n\n01 - Is This It\n02 - The Modern Age\n03 - Soma\n04 - Barely Legal\n05 - Someday\n06 - Alone, Together\n07 - Last Nite\n08 - Hard To Explain\n09 - When It Started\n10 - Trying Your Luck\n11 - Take It or Leave It\n\n*Enjoy and please remember to SEED when finished downloading folks. Thanx.","torrent":{"xt":"urn:btih:5ee52a8d96a5fa49b4362d28fed5dc133561dfe5","amp;dn":"The+Strokes+-+Is+This+It+%5B192kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5ee52a8d96a5fa49b4362d28fed5dc133561dfe5","infoHashBuffer":{"type":"Buffer","data":[94,229,42,141,150,165,250,73,180,54,45,40,254,213,220,19,53,97,223,229]},"announce":[],"urlList":[]}}
+{
+  "title": "The Strokes - Is This It [192kbps]",
+  "uid": 4483703,
+  "size": 51645706,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:5ee52a8d96a5fa49b4362d28fed5dc133561dfe5&amp;dn=The+Strokes+-+Is+This+It+%5B192kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 108,
+  "leechers": 8,
+  "uploader": "Amplified_Pumpkin",
+  "files": -1,
+  "time": 1225671414,
+  "description": "The Strokes - Is This It (2001)\n\nAudio: mp3 @ 192kbps\n\nTrack Listing:\n\n01 - Is This It\n02 - The Modern Age\n03 - Soma\n04 - Barely Legal\n05 - Someday\n06 - Alone, Together\n07 - Last Nite\n08 - Hard To Explain\n09 - When It Started\n10 - Trying Your Luck\n11 - Take It or Leave It\n\n*Enjoy and please remember to SEED when finished downloading folks. Thanx.",
+  "parsed": {
+    "xt": "urn:btih:5ee52a8d96a5fa49b4362d28fed5dc133561dfe5",
+    "dn": "The Strokes - Is This It [192kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5ee52a8d96a5fa49b4362d28fed5dc133561dfe5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        94,
+        229,
+        42,
+        141,
+        150,
+        165,
+        250,
+        73,
+        180,
+        54,
+        45,
+        40,
+        254,
+        213,
+        220,
+        19,
+        53,
+        97,
+        223,
+        229
+      ]
+    },
+    "name": "The Strokes - Is This It [192kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 116,
+  "peers": 38,
+  "last_updated": "2016-12-25T02:30:25.034Z"
+}

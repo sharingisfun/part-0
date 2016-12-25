@@ -1,1 +1,61 @@
-{"title":"Ray Donovan S02E02 HDTV x264-ASAP[ettv]","uid":10600549,"size":301389118,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:60b33ca0e2c73133077f673ffa3f8a68448cf30d&amp;dn=Ray+Donovan+S02E02+HDTV+x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":0,"uploader":"ettv","files":2,"time":1405915040,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:60b33ca0e2c73133077f673ffa3f8a68448cf30d","amp;dn":"Ray+Donovan+S02E02+HDTV+x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"60b33ca0e2c73133077f673ffa3f8a68448cf30d","infoHashBuffer":{"type":"Buffer","data":[96,179,60,160,226,199,49,51,7,127,103,63,250,63,138,104,68,140,243,13]},"announce":[],"urlList":[]}}
+{
+  "title": "Ray Donovan S02E02 HDTV x264-ASAP[ettv]",
+  "uid": 10600549,
+  "size": 301389118,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:60b33ca0e2c73133077f673ffa3f8a68448cf30d&amp;dn=Ray+Donovan+S02E02+HDTV+x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 0,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1405915040,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:60b33ca0e2c73133077f673ffa3f8a68448cf30d",
+    "dn": "Ray Donovan S02E02 HDTV x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "60b33ca0e2c73133077f673ffa3f8a68448cf30d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        96,
+        179,
+        60,
+        160,
+        226,
+        199,
+        49,
+        51,
+        7,
+        127,
+        103,
+        63,
+        250,
+        63,
+        138,
+        104,
+        68,
+        140,
+        243,
+        13
+      ]
+    },
+    "name": "Ray Donovan S02E02 HDTV x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 1,
+  "last_updated": "2016-12-25T02:42:01.276Z"
+}

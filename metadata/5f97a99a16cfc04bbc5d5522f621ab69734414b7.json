@@ -1,1 +1,61 @@
-{"title":"Nexus Content","uid":4184135,"size":3048139001,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:5f97a99a16cfc04bbc5d5522f621ab69734414b7&amp;dn=Nexus+Content+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":98,"leechers":6,"uploader":"Qnenz","files":31,"time":1210569524,"description":"Nexus Content Dir (Full inc 0TestTone File)","torrent":{"xt":"urn:btih:5f97a99a16cfc04bbc5d5522f621ab69734414b7","amp;dn":"Nexus+Content+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5f97a99a16cfc04bbc5d5522f621ab69734414b7","infoHashBuffer":{"type":"Buffer","data":[95,151,169,154,22,207,192,75,188,93,85,34,246,33,171,105,115,68,20,183]},"announce":[],"urlList":[]}}
+{
+  "title": "Nexus Content",
+  "uid": 4184135,
+  "size": 3048139001,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:5f97a99a16cfc04bbc5d5522f621ab69734414b7&amp;dn=Nexus+Content+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 98,
+  "leechers": 6,
+  "uploader": "Qnenz",
+  "files": 31,
+  "time": 1210569524,
+  "description": "Nexus Content Dir (Full inc 0TestTone File)",
+  "parsed": {
+    "xt": "urn:btih:5f97a99a16cfc04bbc5d5522f621ab69734414b7",
+    "dn": "Nexus Content ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5f97a99a16cfc04bbc5d5522f621ab69734414b7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        95,
+        151,
+        169,
+        154,
+        22,
+        207,
+        192,
+        75,
+        188,
+        93,
+        85,
+        34,
+        246,
+        33,
+        171,
+        105,
+        115,
+        68,
+        20,
+        183
+      ]
+    },
+    "name": "Nexus Content ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 104,
+  "peers": 7,
+  "last_updated": "2016-12-25T02:34:45.858Z"
+}

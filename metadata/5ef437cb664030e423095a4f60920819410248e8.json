@@ -1,1 +1,63 @@
-{"title":"Gorillaz - Demon Days","uid":14715648,"size":266478509,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:5ef437cb664030e423095a4f60920819410248e8&amp;dn=Gorillaz+-+Demon+Days&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":1,"uploader":"zrinierl","files":31,"time":1464463797,"description":"320","torrent":{"xt":"urn:btih:5ef437cb664030e423095a4f60920819410248e8","amp;dn":"Gorillaz+-+Demon+Days","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5ef437cb664030e423095a4f60920819410248e8","infoHashBuffer":{"type":"Buffer","data":[94,244,55,203,102,64,48,228,35,9,90,79,96,146,8,25,65,2,72,232]},"announce":[],"urlList":[]}}
+{
+  "title": "Gorillaz - Demon Days",
+  "uid": 14715648,
+  "size": 266478509,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:5ef437cb664030e423095a4f60920819410248e8&amp;dn=Gorillaz+-+Demon+Days&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 1,
+  "uploader": "zrinierl",
+  "files": 31,
+  "time": 1464463797,
+  "description": "320",
+  "parsed": {
+    "xt": "urn:btih:5ef437cb664030e423095a4f60920819410248e8",
+    "dn": "Gorillaz - Demon Days",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "5ef437cb664030e423095a4f60920819410248e8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        94,
+        244,
+        55,
+        203,
+        102,
+        64,
+        48,
+        228,
+        35,
+        9,
+        90,
+        79,
+        96,
+        146,
+        8,
+        25,
+        65,
+        2,
+        72,
+        232
+      ]
+    },
+    "name": "Gorillaz - Demon Days",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 128,
+  "last_updated": "2016-12-25T02:30:57.127Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Led Zeppelin - Discography (1969-2012) [mp3@320]","uid":8307611,"size":1648017874,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:6036ef83e56b244b1351e33d9ec2f74351ac2b6c&amp;dn=Led+Zeppelin+-+Discography+%281969-2012%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":280,"leechers":51,"uploader":"BalticBlackBeard","files":-1,"time":1364407968,"description":"Led Zeppelin - Discography (1969-2012)\nMP3@320 kbit, 44.1khz Joint Stereo\n\nStudio albums:\n01. Led Zeppelin (1969)\n02. Led Zeppelin II (1969)\n03. Led Zeppelin III (1970)\n04. Led Zeppelin IV (1971)\n05. Houses of The Holy (1973)\n06. Physical Graffiti (1975)\n07. Presence (1976)\n08. In Through The Out Door (1979)\n09. Coda (1982)\n\nLive:\n01. How the West Was Won (2003)\n02. Celebration Day (2012)","torrent":{"xt":"urn:btih:6036ef83e56b244b1351e33d9ec2f74351ac2b6c","amp;dn":"Led+Zeppelin+-+Discography+%281969-2012%29+%5Bmp3%40320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6036ef83e56b244b1351e33d9ec2f74351ac2b6c","infoHashBuffer":{"type":"Buffer","data":[96,54,239,131,229,107,36,75,19,81,227,61,158,194,247,67,81,172,43,108]},"announce":[],"urlList":[]}}
+{
+  "title": "Led Zeppelin - Discography (1969-2012) [mp3@320]",
+  "uid": 8307611,
+  "size": 1648017874,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:6036ef83e56b244b1351e33d9ec2f74351ac2b6c&amp;dn=Led+Zeppelin+-+Discography+%281969-2012%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 280,
+  "leechers": 51,
+  "uploader": "BalticBlackBeard",
+  "files": -1,
+  "time": 1364407968,
+  "description": "Led Zeppelin - Discography (1969-2012)\nMP3@320 kbit, 44.1khz Joint Stereo\n\nStudio albums:\n01. Led Zeppelin (1969)\n02. Led Zeppelin II (1969)\n03. Led Zeppelin III (1970)\n04. Led Zeppelin IV (1971)\n05. Houses of The Holy (1973)\n06. Physical Graffiti (1975)\n07. Presence (1976)\n08. In Through The Out Door (1979)\n09. Coda (1982)\n\nLive:\n01. How the West Was Won (2003)\n02. Celebration Day (2012)",
+  "parsed": {
+    "xt": "urn:btih:6036ef83e56b244b1351e33d9ec2f74351ac2b6c",
+    "dn": "Led Zeppelin - Discography (1969-2012) [mp3@320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6036ef83e56b244b1351e33d9ec2f74351ac2b6c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        96,
+        54,
+        239,
+        131,
+        229,
+        107,
+        36,
+        75,
+        19,
+        81,
+        227,
+        61,
+        158,
+        194,
+        247,
+        67,
+        81,
+        172,
+        43,
+        108
+      ]
+    },
+    "name": "Led Zeppelin - Discography (1969-2012) [mp3@320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 331,
+  "peers": 259,
+  "last_updated": "2016-12-25T02:38:46.632Z"
+}

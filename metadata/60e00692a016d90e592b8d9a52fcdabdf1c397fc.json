@@ -1,1 +1,61 @@
-{"title":"Karagul S03 - 23 gr.subs.avi","uid":12305247,"size":1130069856,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:60e00692a016d90e592b8d9a52fcdabdf1c397fc&amp;dn=Karagul+S03+-+23+gr.subs.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":1,"uploader":"marg45","files":1,"time":1440783310,"description":"DVD 23 ÃŽÂºÃŽÂ±ÃŽÂ»ÃŽÂ® ÃŽÂ¸ÃŽÂ­ÃŽÂ±ÃÆ’ÃŽÂ· ÃŽÂºÃŽÂ±ÃŽÂ¹ seed","torrent":{"xt":"urn:btih:60e00692a016d90e592b8d9a52fcdabdf1c397fc","amp;dn":"Karagul+S03+-+23+gr.subs.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"60e00692a016d90e592b8d9a52fcdabdf1c397fc","infoHashBuffer":{"type":"Buffer","data":[96,224,6,146,160,22,217,14,89,43,141,154,82,252,218,189,241,195,151,252]},"announce":[],"urlList":[]}}
+{
+  "title": "Karagul S03 - 23 gr.subs.avi",
+  "uid": 12305247,
+  "size": 1130069856,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:60e00692a016d90e592b8d9a52fcdabdf1c397fc&amp;dn=Karagul+S03+-+23+gr.subs.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 1,
+  "uploader": "marg45",
+  "files": 1,
+  "time": 1440783310,
+  "description": "DVD 23 ÃŽÂºÃŽÂ±ÃŽÂ»ÃŽÂ® ÃŽÂ¸ÃŽÂ­ÃŽÂ±ÃÆ’ÃŽÂ· ÃŽÂºÃŽÂ±ÃŽÂ¹ seed",
+  "parsed": {
+    "xt": "urn:btih:60e00692a016d90e592b8d9a52fcdabdf1c397fc",
+    "dn": "Karagul S03 - 23 gr.subs.avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "60e00692a016d90e592b8d9a52fcdabdf1c397fc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        96,
+        224,
+        6,
+        146,
+        160,
+        22,
+        217,
+        14,
+        89,
+        43,
+        141,
+        154,
+        82,
+        252,
+        218,
+        189,
+        241,
+        195,
+        151,
+        252
+      ]
+    },
+    "name": "Karagul S03 - 23 gr.subs.avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 2,
+  "last_updated": "2016-12-25T02:42:57.451Z"
+}

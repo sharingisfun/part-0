@@ -1,1 +1,61 @@
-{"title":"The Strain S01E07 WEB-DL x264-FUM[ettv]","uid":10867626,"size":268072450,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:60325a81c69247f654283efd2b725e33e6dce4c7&amp;dn=The+Strain+S01E07+WEB-DL+x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":134,"leechers":4,"uploader":"ettv","files":2,"time":1408932791,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:60325a81c69247f654283efd2b725e33e6dce4c7","amp;dn":"The+Strain+S01E07+WEB-DL+x264-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"60325a81c69247f654283efd2b725e33e6dce4c7","infoHashBuffer":{"type":"Buffer","data":[96,50,90,129,198,146,71,246,84,40,62,253,43,114,94,51,230,220,228,199]},"announce":[],"urlList":[]}}
+{
+  "title": "The Strain S01E07 WEB-DL x264-FUM[ettv]",
+  "uid": 10867626,
+  "size": 268072450,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:60325a81c69247f654283efd2b725e33e6dce4c7&amp;dn=The+Strain+S01E07+WEB-DL+x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 134,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1408932791,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:60325a81c69247f654283efd2b725e33e6dce4c7",
+    "dn": "The Strain S01E07 WEB-DL x264-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "60325a81c69247f654283efd2b725e33e6dce4c7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        96,
+        50,
+        90,
+        129,
+        198,
+        146,
+        71,
+        246,
+        84,
+        40,
+        62,
+        253,
+        43,
+        114,
+        94,
+        51,
+        230,
+        220,
+        228,
+        199
+      ]
+    },
+    "name": "The Strain S01E07 WEB-DL x264-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 138,
+  "peers": 1,
+  "last_updated": "2016-12-25T02:38:34.601Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Kara sevda dvd-31 gr.subs.avi","uid":15918326,"size":1343210410,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:5fdd97100bc269c67f64e5f1c9f26197f184ac52&amp;dn=Kara+sevda+dvd-31+gr.subs.avi&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":254,"leechers":208,"uploader":"nikipap","files":1,"time":1475225304,"description":"ep.31","torrent":{"xt":"urn:btih:5fdd97100bc269c67f64e5f1c9f26197f184ac52","amp;dn":"Kara+sevda+dvd-31+gr.subs.avi","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5fdd97100bc269c67f64e5f1c9f26197f184ac52","infoHashBuffer":{"type":"Buffer","data":[95,221,151,16,11,194,105,198,127,100,229,241,201,242,97,151,241,132,172,82]},"announce":[],"urlList":[]}}
+{
+  "title": "Kara sevda dvd-31 gr.subs.avi",
+  "uid": 15918326,
+  "size": 1343210410,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:5fdd97100bc269c67f64e5f1c9f26197f184ac52&amp;dn=Kara+sevda+dvd-31+gr.subs.avi&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 254,
+  "leechers": 208,
+  "uploader": "nikipap",
+  "files": 1,
+  "time": 1475225304,
+  "description": "ep.31",
+  "parsed": {
+    "xt": "urn:btih:5fdd97100bc269c67f64e5f1c9f26197f184ac52",
+    "dn": "Kara sevda dvd-31 gr.subs.avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "5fdd97100bc269c67f64e5f1c9f26197f184ac52",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        95,
+        221,
+        151,
+        16,
+        11,
+        194,
+        105,
+        198,
+        127,
+        100,
+        229,
+        241,
+        201,
+        242,
+        97,
+        151,
+        241,
+        132,
+        172,
+        82
+      ]
+    },
+    "name": "Kara sevda dvd-31 gr.subs.avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 462,
+  "peers": 100,
+  "last_updated": "2016-12-25T02:36:44.233Z"
+}

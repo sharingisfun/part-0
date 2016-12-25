@@ -1,1 +1,61 @@
-{"title":"Alesso - Heroes (we could be) [feat. Tove Lo] {2014-Single}","uid":11294308,"size":8506978,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:5ef70c15d5b20b24f51d306aed9baa27ef05e34d&amp;dn=Alesso+-+Heroes+%28we+could+be%29+%5Bfeat.+Tove+Lo%5D+%7B2014-Single%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":88,"leechers":0,"uploader":"Oz","files":1,"time":1414362952,"description":"***Don't Forget To Like My Page***\n\n   www . fb . com / HQMusiCOnlY","torrent":{"xt":"urn:btih:5ef70c15d5b20b24f51d306aed9baa27ef05e34d","amp;dn":"Alesso+-+Heroes+%28we+could+be%29+%5Bfeat.+Tove+Lo%5D+%7B2014-Single%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5ef70c15d5b20b24f51d306aed9baa27ef05e34d","infoHashBuffer":{"type":"Buffer","data":[94,247,12,21,213,178,11,36,245,29,48,106,237,155,170,39,239,5,227,77]},"announce":[],"urlList":[]}}
+{
+  "title": "Alesso - Heroes (we could be) [feat. Tove Lo] {2014-Single}",
+  "uid": 11294308,
+  "size": 8506978,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:5ef70c15d5b20b24f51d306aed9baa27ef05e34d&amp;dn=Alesso+-+Heroes+%28we+could+be%29+%5Bfeat.+Tove+Lo%5D+%7B2014-Single%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 88,
+  "leechers": 0,
+  "uploader": "Oz",
+  "files": 1,
+  "time": 1414362952,
+  "description": "***Don't Forget To Like My Page***\n\n   www . fb . com / HQMusiCOnlY",
+  "parsed": {
+    "xt": "urn:btih:5ef70c15d5b20b24f51d306aed9baa27ef05e34d",
+    "dn": "Alesso - Heroes (we could be) [feat. Tove Lo] {2014-Single}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5ef70c15d5b20b24f51d306aed9baa27ef05e34d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        94,
+        247,
+        12,
+        21,
+        213,
+        178,
+        11,
+        36,
+        245,
+        29,
+        48,
+        106,
+        237,
+        155,
+        170,
+        39,
+        239,
+        5,
+        227,
+        77
+      ]
+    },
+    "name": "Alesso - Heroes (we could be) [feat. Tove Lo] {2014-Single}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 88,
+  "peers": 24,
+  "last_updated": "2016-12-25T02:31:07.159Z"
+}

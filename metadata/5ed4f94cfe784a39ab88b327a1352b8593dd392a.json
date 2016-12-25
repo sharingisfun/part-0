@@ -1,1 +1,63 @@
-{"title":"Daz3d Sunny 7 Bundle","uid":15870378,"size":2365336517,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:5ed4f94cfe784a39ab88b327a1352b8593dd392a&amp;dn=Daz3d+Sunny+7+Bundle&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":10,"uploader":"Serpent2016","files":16,"time":1474419097,"description":"http://www.daz3d.com/sunny-7-pro-bundle","torrent":{"xt":"urn:btih:5ed4f94cfe784a39ab88b327a1352b8593dd392a","amp;dn":"Daz3d+Sunny+7+Bundle","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5ed4f94cfe784a39ab88b327a1352b8593dd392a","infoHashBuffer":{"type":"Buffer","data":[94,212,249,76,254,120,74,57,171,136,179,39,161,53,43,133,147,221,57,42]},"announce":[],"urlList":[]}}
+{
+  "title": "Daz3d Sunny 7 Bundle",
+  "uid": 15870378,
+  "size": 2365336517,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:5ed4f94cfe784a39ab88b327a1352b8593dd392a&amp;dn=Daz3d+Sunny+7+Bundle&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 10,
+  "uploader": "Serpent2016",
+  "files": 16,
+  "time": 1474419097,
+  "description": "http://www.daz3d.com/sunny-7-pro-bundle",
+  "parsed": {
+    "xt": "urn:btih:5ed4f94cfe784a39ab88b327a1352b8593dd392a",
+    "dn": "Daz3d Sunny 7 Bundle",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "5ed4f94cfe784a39ab88b327a1352b8593dd392a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        94,
+        212,
+        249,
+        76,
+        254,
+        120,
+        74,
+        57,
+        171,
+        136,
+        179,
+        39,
+        161,
+        53,
+        43,
+        133,
+        147,
+        221,
+        57,
+        42
+      ]
+    },
+    "name": "Daz3d Sunny 7 Bundle",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 66,
+  "last_updated": "2016-12-25T02:29:48.909Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Gotham.S01E21.HDTV.x264-LOL[ettv]","uid":11857115,"size":241207756,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:5eadbbc3ac9a6127d47f93693cb223f42bfd6458&amp;dn=Gotham.S01E21.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":1230,"leechers":37,"uploader":"ettv","files":3,"time":1430189899,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:5eadbbc3ac9a6127d47f93693cb223f42bfd6458","amp;dn":"Gotham.S01E21.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5eadbbc3ac9a6127d47f93693cb223f42bfd6458","infoHashBuffer":{"type":"Buffer","data":[94,173,187,195,172,154,97,39,212,127,147,105,60,178,35,244,43,253,100,88]},"announce":[],"urlList":[]}}
+{
+  "title": "Gotham.S01E21.HDTV.x264-LOL[ettv]",
+  "uid": 11857115,
+  "size": 241207756,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:5eadbbc3ac9a6127d47f93693cb223f42bfd6458&amp;dn=Gotham.S01E21.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 1230,
+  "leechers": 37,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1430189899,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:5eadbbc3ac9a6127d47f93693cb223f42bfd6458",
+    "dn": "Gotham.S01E21.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5eadbbc3ac9a6127d47f93693cb223f42bfd6458",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        94,
+        173,
+        187,
+        195,
+        172,
+        154,
+        97,
+        39,
+        212,
+        127,
+        147,
+        105,
+        60,
+        178,
+        35,
+        244,
+        43,
+        253,
+        100,
+        88
+      ]
+    },
+    "name": "Gotham.S01E21.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 1267,
+  "peers": 52,
+  "last_updated": "2016-12-25T02:29:02.768Z"
+}
