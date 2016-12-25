@@ -1,1 +1,61 @@
-{"title":"Insidious","uid":8519205,"size":1524969472,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:7978bcc81e4cfdd55ecc2c7a008b33ca2b423fb3&amp;dn=Insidious+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":252,"leechers":47,"uploader":"Miguel223","files":1,"time":1369859916,"description":"Insidious \n\nwww.peliculasytorrent.com","torrent":{"xt":"urn:btih:7978bcc81e4cfdd55ecc2c7a008b33ca2b423fb3","amp;dn":"Insidious+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7978bcc81e4cfdd55ecc2c7a008b33ca2b423fb3","infoHashBuffer":{"type":"Buffer","data":[121,120,188,200,30,76,253,213,94,204,44,122,0,139,51,202,43,66,63,179]},"announce":[],"urlList":[]}}
+{
+  "title": "Insidious",
+  "uid": 8519205,
+  "size": 1524969472,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:7978bcc81e4cfdd55ecc2c7a008b33ca2b423fb3&amp;dn=Insidious+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 252,
+  "leechers": 47,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1369859916,
+  "description": "Insidious \n\nwww.peliculasytorrent.com",
+  "parsed": {
+    "xt": "urn:btih:7978bcc81e4cfdd55ecc2c7a008b33ca2b423fb3",
+    "dn": "Insidious ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7978bcc81e4cfdd55ecc2c7a008b33ca2b423fb3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        121,
+        120,
+        188,
+        200,
+        30,
+        76,
+        253,
+        213,
+        94,
+        204,
+        44,
+        122,
+        0,
+        139,
+        51,
+        202,
+        43,
+        66,
+        63,
+        179
+      ]
+    },
+    "name": "Insidious ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 299,
+  "peers": 1,
+  "last_updated": "2016-12-25T05:22:00.241Z"
+}

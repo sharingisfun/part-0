@@ -1,1 +1,61 @@
-{"title":"Malcolm in the Middle Season 2","uid":7211130,"size":4601337902,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:788d94149d870fd9b6dd2f71438d33be2bee3b88&amp;dn=Malcolm+in+the+Middle+Season+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":18,"uploader":"Upgod","files":26,"time":1335240184,"description":"Full version of season 2. Remember that only first season came out on DVD so the rest are captured from TV. This is part of my larger 7 season collection and I tested this on VLC on PC and streamed using Playon to my Xbox 360. Seems to get a good picture, this is the best collection I have been able to gather from many sources.\n\nUpGod","torrent":{"xt":"urn:btih:788d94149d870fd9b6dd2f71438d33be2bee3b88","amp;dn":"Malcolm+in+the+Middle+Season+2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"788d94149d870fd9b6dd2f71438d33be2bee3b88","infoHashBuffer":{"type":"Buffer","data":[120,141,148,20,157,135,15,217,182,221,47,113,67,141,51,190,43,238,59,136]},"announce":[],"urlList":[]}}
+{
+  "title": "Malcolm in the Middle Season 2",
+  "uid": 7211130,
+  "size": 4601337902,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:788d94149d870fd9b6dd2f71438d33be2bee3b88&amp;dn=Malcolm+in+the+Middle+Season+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 18,
+  "uploader": "Upgod",
+  "files": 26,
+  "time": 1335240184,
+  "description": "Full version of season 2. Remember that only first season came out on DVD so the rest are captured from TV. This is part of my larger 7 season collection and I tested this on VLC on PC and streamed using Playon to my Xbox 360. Seems to get a good picture, this is the best collection I have been able to gather from many sources.\n\nUpGod",
+  "parsed": {
+    "xt": "urn:btih:788d94149d870fd9b6dd2f71438d33be2bee3b88",
+    "dn": "Malcolm in the Middle Season 2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "788d94149d870fd9b6dd2f71438d33be2bee3b88",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        120,
+        141,
+        148,
+        20,
+        157,
+        135,
+        15,
+        217,
+        182,
+        221,
+        47,
+        113,
+        67,
+        141,
+        51,
+        190,
+        43,
+        238,
+        59,
+        136
+      ]
+    },
+    "name": "Malcolm in the Middle Season 2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 49,
+  "last_updated": "2016-12-25T05:16:45.031Z"
+}

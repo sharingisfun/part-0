@@ -1,1 +1,61 @@
-{"title":"Daft Punk - Homework","uid":11740667,"size":144092782,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:7aae59cedb03125711f2ec7cf5dd2af928d138e9&amp;dn=Daft+Punk+-+Homework&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":178,"leechers":4,"uploader":null,"files":16,"time":1425802332,"description":"d","torrent":{"xt":"urn:btih:7aae59cedb03125711f2ec7cf5dd2af928d138e9","amp;dn":"Daft+Punk+-+Homework","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7aae59cedb03125711f2ec7cf5dd2af928d138e9","infoHashBuffer":{"type":"Buffer","data":[122,174,89,206,219,3,18,87,17,242,236,124,245,221,42,249,40,209,56,233]},"announce":[],"urlList":[]}}
+{
+  "title": "Daft Punk - Homework",
+  "uid": 11740667,
+  "size": 144092782,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:7aae59cedb03125711f2ec7cf5dd2af928d138e9&amp;dn=Daft+Punk+-+Homework&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 178,
+  "leechers": 4,
+  "uploader": null,
+  "files": 16,
+  "time": 1425802332,
+  "description": "d",
+  "parsed": {
+    "xt": "urn:btih:7aae59cedb03125711f2ec7cf5dd2af928d138e9",
+    "dn": "Daft Punk - Homework",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7aae59cedb03125711f2ec7cf5dd2af928d138e9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        122,
+        174,
+        89,
+        206,
+        219,
+        3,
+        18,
+        87,
+        17,
+        242,
+        236,
+        124,
+        245,
+        221,
+        42,
+        249,
+        40,
+        209,
+        56,
+        233
+      ]
+    },
+    "name": "Daft Punk - Homework",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 182,
+  "peers": 15,
+  "last_updated": "2016-12-25T05:29:33.797Z"
+}

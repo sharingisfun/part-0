@@ -1,1 +1,61 @@
-{"title":"Caribou - Our Love","uid":11758041,"size":100143456,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:78f5d7e5d82e4cff5c444e2a347da010409dee32&amp;dn=Caribou+-+Our+Love&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":0,"uploader":null,"files":10,"time":1426502791,"description":"320","torrent":{"xt":"urn:btih:78f5d7e5d82e4cff5c444e2a347da010409dee32","amp;dn":"Caribou+-+Our+Love","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"78f5d7e5d82e4cff5c444e2a347da010409dee32","infoHashBuffer":{"type":"Buffer","data":[120,245,215,229,216,46,76,255,92,68,78,42,52,125,160,16,64,157,238,50]},"announce":[],"urlList":[]}}
+{
+  "title": "Caribou - Our Love",
+  "uid": 11758041,
+  "size": 100143456,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:78f5d7e5d82e4cff5c444e2a347da010409dee32&amp;dn=Caribou+-+Our+Love&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 0,
+  "uploader": null,
+  "files": 10,
+  "time": 1426502791,
+  "description": "320",
+  "parsed": {
+    "xt": "urn:btih:78f5d7e5d82e4cff5c444e2a347da010409dee32",
+    "dn": "Caribou - Our Love",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "78f5d7e5d82e4cff5c444e2a347da010409dee32",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        120,
+        245,
+        215,
+        229,
+        216,
+        46,
+        76,
+        255,
+        92,
+        68,
+        78,
+        42,
+        52,
+        125,
+        160,
+        16,
+        64,
+        157,
+        238,
+        50
+      ]
+    },
+    "name": "Caribou - Our Love",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 10,
+  "last_updated": "2016-12-25T05:19:07.584Z"
+}

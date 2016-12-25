@@ -1,1 +1,63 @@
-{"title":"DraStic DS Emulator vr2.4.0.1a","uid":12936244,"size":13411151,"categoryP":"applications","categoryS":"android","magnet":"?xt=urn:btih:7a4e4779aea7ce20e9bb187d9e97eeec8c56050d&amp;dn=DraStic+DS+Emulator+vr2.4.0.1a&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":0,"uploader":"Androider","files":1,"time":1449584752,"description":"DraStic is a fast Nintendo DS emulator for Android. In addition to being able to play Nintendo DS games full speed on many Android devices it has the following features:\n\n- Enhance the game's 3D graphics to 2 by 2 times their original resolution (this optional feature works best on high end quad core devices)\n- Customize the placement and size of the DS screens, for portrait and landscape modes\n- Fully supports add-on controllers, and physical controls in devices like nVidia Shield and Xperia Play\n- Save and resume your progress anywhere with save states\n- Tweak your gaming experience with a database of thousands of cheat codes\n- Synchronize your save games with your online Google Drive space\n- Increase emulation speed with fast-forward\n\nNOTE: WiFi/multiplayer emulation is not supported at this time.\n\nWhat's New:\n\n- Improved stability on certain Android devices\n- Fixed non-standard external controller support\n- Fixed some audio problems in homebrew\n- Fixed cheat folder description not showing properly\n- Fixed external display\n\nMore info:\n \nhttps://play.google.com/store/apps/details?id=com.dsemu.drastic","torrent":{"xt":"urn:btih:7a4e4779aea7ce20e9bb187d9e97eeec8c56050d","amp;dn":"DraStic+DS+Emulator+vr2.4.0.1a","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7a4e4779aea7ce20e9bb187d9e97eeec8c56050d","infoHashBuffer":{"type":"Buffer","data":[122,78,71,121,174,167,206,32,233,187,24,125,158,151,238,236,140,86,5,13]},"announce":[],"urlList":[]}}
+{
+  "title": "DraStic DS Emulator vr2.4.0.1a",
+  "uid": 12936244,
+  "size": 13411151,
+  "categoryP": "applications",
+  "categoryS": "android",
+  "magnet": "?xt=urn:btih:7a4e4779aea7ce20e9bb187d9e97eeec8c56050d&amp;dn=DraStic+DS+Emulator+vr2.4.0.1a&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 0,
+  "uploader": "Androider",
+  "files": 1,
+  "time": 1449584752,
+  "description": "DraStic is a fast Nintendo DS emulator for Android. In addition to being able to play Nintendo DS games full speed on many Android devices it has the following features:\n\n- Enhance the game's 3D graphics to 2 by 2 times their original resolution (this optional feature works best on high end quad core devices)\n- Customize the placement and size of the DS screens, for portrait and landscape modes\n- Fully supports add-on controllers, and physical controls in devices like nVidia Shield and Xperia Play\n- Save and resume your progress anywhere with save states\n- Tweak your gaming experience with a database of thousands of cheat codes\n- Synchronize your save games with your online Google Drive space\n- Increase emulation speed with fast-forward\n\nNOTE: WiFi/multiplayer emulation is not supported at this time.\n\nWhat's New:\n\n- Improved stability on certain Android devices\n- Fixed non-standard external controller support\n- Fixed some audio problems in homebrew\n- Fixed cheat folder description not showing properly\n- Fixed external display\n\nMore info:\n \nhttps://play.google.com/store/apps/details?id=com.dsemu.drastic",
+  "parsed": {
+    "xt": "urn:btih:7a4e4779aea7ce20e9bb187d9e97eeec8c56050d",
+    "dn": "DraStic DS Emulator vr2.4.0.1a",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "7a4e4779aea7ce20e9bb187d9e97eeec8c56050d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        122,
+        78,
+        71,
+        121,
+        174,
+        167,
+        206,
+        32,
+        233,
+        187,
+        24,
+        125,
+        158,
+        151,
+        238,
+        236,
+        140,
+        86,
+        5,
+        13
+      ]
+    },
+    "name": "DraStic DS Emulator vr2.4.0.1a",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 128,
+  "last_updated": "2016-12-25T05:26:59.352Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Pokemon Uranium Patches 8-12-16","uid":15554300,"size":63150707,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:7a505dca18c14130e3b4dfc9917e890b7d9292cf&amp;dn=Pokemon+Uranium+Patches+8-12-16&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":0,"uploader":"slpy1314","files":2,"time":1471050639,"description":"Contains patches 1.00c and 1.01 for Pokemon Uranium from a MEGA link posted on the announcement thread on their forums. It's still up, but won't be for long.\r\n\r\nBased on the formatting inside the zips, you probably need to extract them over the game's install directory and allow overwrites. I don't have patch notes, but 1.00c replaces some audio files, and 1.01 replaces some art assets, so I assume it's only bugs, typos, etc","torrent":{"xt":"urn:btih:7a505dca18c14130e3b4dfc9917e890b7d9292cf","amp;dn":"Pokemon+Uranium+Patches+8-12-16","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7a505dca18c14130e3b4dfc9917e890b7d9292cf","infoHashBuffer":{"type":"Buffer","data":[122,80,93,202,24,193,65,48,227,180,223,201,145,126,137,11,125,146,146,207]},"announce":[],"urlList":[]}}
+{
+  "title": "Pokemon Uranium Patches 8-12-16",
+  "uid": 15554300,
+  "size": 63150707,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:7a505dca18c14130e3b4dfc9917e890b7d9292cf&amp;dn=Pokemon+Uranium+Patches+8-12-16&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 0,
+  "uploader": "slpy1314",
+  "files": 2,
+  "time": 1471050639,
+  "description": "Contains patches 1.00c and 1.01 for Pokemon Uranium from a MEGA link posted on the announcement thread on their forums. It's still up, but won't be for long.\r\n\r\nBased on the formatting inside the zips, you probably need to extract them over the game's install directory and allow overwrites. I don't have patch notes, but 1.00c replaces some audio files, and 1.01 replaces some art assets, so I assume it's only bugs, typos, etc",
+  "parsed": {
+    "xt": "urn:btih:7a505dca18c14130e3b4dfc9917e890b7d9292cf",
+    "dn": "Pokemon Uranium Patches 8-12-16",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "7a505dca18c14130e3b4dfc9917e890b7d9292cf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        122,
+        80,
+        93,
+        202,
+        24,
+        193,
+        65,
+        48,
+        227,
+        180,
+        223,
+        201,
+        145,
+        126,
+        137,
+        11,
+        125,
+        146,
+        146,
+        207
+      ]
+    },
+    "name": "Pokemon Uranium Patches 8-12-16",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 63,
+  "peers": 91,
+  "last_updated": "2016-12-25T05:27:05.370Z"
+}

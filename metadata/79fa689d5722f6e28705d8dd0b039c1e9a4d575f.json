@@ -1,1 +1,61 @@
-{"title":"Ragnarok Online Classic","uid":11559307,"size":1464701197,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:79fa689d5722f6e28705d8dd0b039c1e9a4d575f&amp;dn=Ragnarok+Online+Classic&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":85,"leechers":1,"uploader":null,"files":1,"time":1416862419,"description":"Ragnarok Online classic server oldro.me","torrent":{"xt":"urn:btih:79fa689d5722f6e28705d8dd0b039c1e9a4d575f","amp;dn":"Ragnarok+Online+Classic","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"79fa689d5722f6e28705d8dd0b039c1e9a4d575f","infoHashBuffer":{"type":"Buffer","data":[121,250,104,157,87,34,246,226,135,5,216,221,11,3,156,30,154,77,87,95]},"announce":[],"urlList":[]}}
+{
+  "title": "Ragnarok Online Classic",
+  "uid": 11559307,
+  "size": 1464701197,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:79fa689d5722f6e28705d8dd0b039c1e9a4d575f&amp;dn=Ragnarok+Online+Classic&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 85,
+  "leechers": 1,
+  "uploader": null,
+  "files": 1,
+  "time": 1416862419,
+  "description": "Ragnarok Online classic server oldro.me",
+  "parsed": {
+    "xt": "urn:btih:79fa689d5722f6e28705d8dd0b039c1e9a4d575f",
+    "dn": "Ragnarok Online Classic",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "79fa689d5722f6e28705d8dd0b039c1e9a4d575f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        121,
+        250,
+        104,
+        157,
+        87,
+        34,
+        246,
+        226,
+        135,
+        5,
+        216,
+        221,
+        11,
+        3,
+        156,
+        30,
+        154,
+        77,
+        87,
+        95
+      ]
+    },
+    "name": "Ragnarok Online Classic",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 86,
+  "peers": 2,
+  "last_updated": "2016-12-25T05:24:44.920Z"
+}

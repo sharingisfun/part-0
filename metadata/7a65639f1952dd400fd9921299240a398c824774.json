@@ -1,1 +1,61 @@
-{"title":"The Walking Dead S04E14 HDTV x264-2HD[ettv]","uid":9775448,"size":517774233,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:7a65639f1952dd400fd9921299240a398c824774&amp;dn=The+Walking+Dead+S04E14+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":221,"leechers":7,"uploader":"ettv","files":2,"time":1395025842,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps","torrent":{"xt":"urn:btih:7a65639f1952dd400fd9921299240a398c824774","amp;dn":"The+Walking+Dead+S04E14+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7a65639f1952dd400fd9921299240a398c824774","infoHashBuffer":{"type":"Buffer","data":[122,101,99,159,25,82,221,64,15,217,146,18,153,36,10,57,140,130,71,116]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead S04E14 HDTV x264-2HD[ettv]",
+  "uid": 9775448,
+  "size": 517774233,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:7a65639f1952dd400fd9921299240a398c824774&amp;dn=The+Walking+Dead+S04E14+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 221,
+  "leechers": 7,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1395025842,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:7a65639f1952dd400fd9921299240a398c824774",
+    "dn": "The Walking Dead S04E14 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7a65639f1952dd400fd9921299240a398c824774",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        122,
+        101,
+        99,
+        159,
+        25,
+        82,
+        221,
+        64,
+        15,
+        217,
+        146,
+        18,
+        153,
+        36,
+        10,
+        57,
+        140,
+        130,
+        71,
+        116
+      ]
+    },
+    "name": "The Walking Dead S04E14 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 228,
+  "peers": 8,
+  "last_updated": "2016-12-25T05:27:37.467Z"
+}

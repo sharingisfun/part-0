@@ -1,1 +1,61 @@
-{"title":"Joey Bada$$ - 1999 (2012) 192k","uid":7449129,"size":90714449,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:7851a2f8053fcb5d979eccbbf7dbdf25e42b9383&amp;dn=Joey+Bada%24%24+-+1999+%282012%29+192k&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":1,"uploader":"-wxm-","files":16,"time":1342457057,"description":"Joey Bada$$ - 1999\n &lt;a href=&quot;\nhttp://pitchfork.com/reviews/albums/16864-1999/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://pitchfork.com/reviews/albums/16864-1999/&lt;/a&gt;\n\nEnjoy + Seed\n\n","torrent":{"xt":"urn:btih:7851a2f8053fcb5d979eccbbf7dbdf25e42b9383","amp;dn":"Joey+Bada%24%24+-+1999+%282012%29+192k","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7851a2f8053fcb5d979eccbbf7dbdf25e42b9383","infoHashBuffer":{"type":"Buffer","data":[120,81,162,248,5,63,203,93,151,158,204,187,247,219,223,37,228,43,147,131]},"announce":[],"urlList":[]}}
+{
+  "title": "Joey Bada$$ - 1999 (2012) 192k",
+  "uid": 7449129,
+  "size": 90714449,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:7851a2f8053fcb5d979eccbbf7dbdf25e42b9383&amp;dn=Joey+Bada%24%24+-+1999+%282012%29+192k&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 1,
+  "uploader": "-wxm-",
+  "files": 16,
+  "time": 1342457057,
+  "description": "Joey Bada$$ - 1999\n &lt;a href=&quot;\nhttp://pitchfork.com/reviews/albums/16864-1999/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://pitchfork.com/reviews/albums/16864-1999/&lt;/a&gt;\n\nEnjoy + Seed\n\n",
+  "parsed": {
+    "xt": "urn:btih:7851a2f8053fcb5d979eccbbf7dbdf25e42b9383",
+    "dn": "Joey Bada$$ - 1999 (2012) 192k",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7851a2f8053fcb5d979eccbbf7dbdf25e42b9383",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        120,
+        81,
+        162,
+        248,
+        5,
+        63,
+        203,
+        93,
+        151,
+        158,
+        204,
+        187,
+        247,
+        219,
+        223,
+        37,
+        228,
+        43,
+        147,
+        131
+      ]
+    },
+    "name": "Joey Bada$$ - 1999 (2012) 192k",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 15,
+  "last_updated": "2016-12-25T05:15:32.809Z"
+}

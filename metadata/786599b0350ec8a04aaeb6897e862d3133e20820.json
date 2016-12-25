@@ -1,1 +1,61 @@
-{"title":"[rich_jc] Shinmai Maou no Testament - 01 [Blu-Ray - 720p].mkv","uid":11851132,"size":210100011,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:786599b0350ec8a04aaeb6897e862d3133e20820&amp;dn=%5Brich_jc%5D+Shinmai+Maou+no+Testament+-+01+%5BBlu-Ray+-+720p%5D.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":5,"uploader":"rich_jc","files":1,"time":1430094235,"description":"[rich_jc] Shinmai Maou no Testament - 01 (Sem Censura) [Blu-Ray - 720p].mkv","torrent":{"xt":"urn:btih:786599b0350ec8a04aaeb6897e862d3133e20820","amp;dn":"%5Brich_jc%5D+Shinmai+Maou+no+Testament+-+01+%5BBlu-Ray+-+720p%5D.mkv","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"786599b0350ec8a04aaeb6897e862d3133e20820","infoHashBuffer":{"type":"Buffer","data":[120,101,153,176,53,14,200,160,74,174,182,137,126,134,45,49,51,226,8,32]},"announce":[],"urlList":[]}}
+{
+  "title": "[rich_jc] Shinmai Maou no Testament - 01 [Blu-Ray - 720p].mkv",
+  "uid": 11851132,
+  "size": 210100011,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:786599b0350ec8a04aaeb6897e862d3133e20820&amp;dn=%5Brich_jc%5D+Shinmai+Maou+no+Testament+-+01+%5BBlu-Ray+-+720p%5D.mkv&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 5,
+  "uploader": "rich_jc",
+  "files": 1,
+  "time": 1430094235,
+  "description": "[rich_jc] Shinmai Maou no Testament - 01 (Sem Censura) [Blu-Ray - 720p].mkv",
+  "parsed": {
+    "xt": "urn:btih:786599b0350ec8a04aaeb6897e862d3133e20820",
+    "dn": "[rich_jc] Shinmai Maou no Testament - 01 [Blu-Ray - 720p].mkv",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "786599b0350ec8a04aaeb6897e862d3133e20820",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        120,
+        101,
+        153,
+        176,
+        53,
+        14,
+        200,
+        160,
+        74,
+        174,
+        182,
+        137,
+        126,
+        134,
+        45,
+        49,
+        51,
+        226,
+        8,
+        32
+      ]
+    },
+    "name": "[rich_jc] Shinmai Maou no Testament - 01 [Blu-Ray - 720p].mkv",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 3,
+  "last_updated": "2016-12-25T05:15:58.893Z"
+}

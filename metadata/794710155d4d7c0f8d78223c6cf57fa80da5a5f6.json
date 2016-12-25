@@ -1,1 +1,61 @@
-{"title":"The.Witcher.Enhanced.Edition.Directors.Cut-PROPHET","uid":8659491,"size":19069721785,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:794710155d4d7c0f8d78223c6cf57fa80da5a5f6&amp;dn=The.Witcher.Enhanced.Edition.Directors.Cut-PROPHET&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":11,"uploader":"Drarbg","files":3,"time":1373290024,"description":"The.Witcher.Enhanced.Edition.Directors.Cut-PROPHET\n","torrent":{"xt":"urn:btih:794710155d4d7c0f8d78223c6cf57fa80da5a5f6","amp;dn":"The.Witcher.Enhanced.Edition.Directors.Cut-PROPHET","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"794710155d4d7c0f8d78223c6cf57fa80da5a5f6","infoHashBuffer":{"type":"Buffer","data":[121,71,16,21,93,77,124,15,141,120,34,60,108,245,127,168,13,165,165,246]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Witcher.Enhanced.Edition.Directors.Cut-PROPHET",
+  "uid": 8659491,
+  "size": 19069721785,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:794710155d4d7c0f8d78223c6cf57fa80da5a5f6&amp;dn=The.Witcher.Enhanced.Edition.Directors.Cut-PROPHET&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 11,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1373290024,
+  "description": "The.Witcher.Enhanced.Edition.Directors.Cut-PROPHET\n",
+  "parsed": {
+    "xt": "urn:btih:794710155d4d7c0f8d78223c6cf57fa80da5a5f6",
+    "dn": "The.Witcher.Enhanced.Edition.Directors.Cut-PROPHET",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "794710155d4d7c0f8d78223c6cf57fa80da5a5f6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        121,
+        71,
+        16,
+        21,
+        93,
+        77,
+        124,
+        15,
+        141,
+        120,
+        34,
+        60,
+        108,
+        245,
+        127,
+        168,
+        13,
+        165,
+        165,
+        246
+      ]
+    },
+    "name": "The.Witcher.Enhanced.Edition.Directors.Cut-PROPHET",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 9,
+  "last_updated": "2016-12-25T05:20:53.969Z"
+}

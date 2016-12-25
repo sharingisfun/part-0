@@ -1,1 +1,61 @@
-{"title":"Breaking.Bad.S05E05.Dead.Freight.HDTV.x264-FQM.mp4","uid":7527567,"size":391419167,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:799e394d6a548442eb70a80b42b9fd539fe846c2&amp;dn=Breaking.Bad.S05E05.Dead.Freight.HDTV.x264-FQM.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":7,"uploader":"tonyisaac","files":1,"time":1344838826,"description":"Breaking.Bad.S05E05.Dead.Freight.HDTV.x264-FQM","torrent":{"xt":"urn:btih:799e394d6a548442eb70a80b42b9fd539fe846c2","amp;dn":"Breaking.Bad.S05E05.Dead.Freight.HDTV.x264-FQM.mp4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"799e394d6a548442eb70a80b42b9fd539fe846c2","infoHashBuffer":{"type":"Buffer","data":[121,158,57,77,106,84,132,66,235,112,168,11,66,185,253,83,159,232,70,194]},"announce":[],"urlList":[]}}
+{
+  "title": "Breaking.Bad.S05E05.Dead.Freight.HDTV.x264-FQM.mp4",
+  "uid": 7527567,
+  "size": 391419167,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:799e394d6a548442eb70a80b42b9fd539fe846c2&amp;dn=Breaking.Bad.S05E05.Dead.Freight.HDTV.x264-FQM.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 7,
+  "uploader": "tonyisaac",
+  "files": 1,
+  "time": 1344838826,
+  "description": "Breaking.Bad.S05E05.Dead.Freight.HDTV.x264-FQM",
+  "parsed": {
+    "xt": "urn:btih:799e394d6a548442eb70a80b42b9fd539fe846c2",
+    "dn": "Breaking.Bad.S05E05.Dead.Freight.HDTV.x264-FQM.mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "799e394d6a548442eb70a80b42b9fd539fe846c2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        121,
+        158,
+        57,
+        77,
+        106,
+        84,
+        132,
+        66,
+        235,
+        112,
+        168,
+        11,
+        66,
+        185,
+        253,
+        83,
+        159,
+        232,
+        70,
+        194
+      ]
+    },
+    "name": "Breaking.Bad.S05E05.Dead.Freight.HDTV.x264-FQM.mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 43,
+  "last_updated": "2016-12-25T05:22:54.436Z"
+}

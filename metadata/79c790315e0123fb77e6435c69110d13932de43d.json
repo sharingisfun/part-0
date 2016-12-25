@@ -1,1 +1,61 @@
-{"title":"[HorribleSubs] PSYCHO-PASS 2 - 03 [720p]","uid":11273906,"size":447158238,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:79c790315e0123fb77e6435c69110d13932de43d&amp;dn=%5BHorribleSubs%5D+PSYCHO-PASS+2+-+03+%5B720p%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":2,"uploader":"Ralphless","files":-1,"time":1414116421,"description":"PSYCHO-PASS 2 - Episode 03\n\nQuality : 720p\n\nAudio : Japanese\n\nSubtitles : English by Horrible Subs\n\nFormat : MKV","torrent":{"xt":"urn:btih:79c790315e0123fb77e6435c69110d13932de43d","amp;dn":"%5BHorribleSubs%5D+PSYCHO-PASS+2+-+03+%5B720p%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"79c790315e0123fb77e6435c69110d13932de43d","infoHashBuffer":{"type":"Buffer","data":[121,199,144,49,94,1,35,251,119,230,67,92,105,17,13,19,147,45,228,61]},"announce":[],"urlList":[]}}
+{
+  "title": "[HorribleSubs] PSYCHO-PASS 2 - 03 [720p]",
+  "uid": 11273906,
+  "size": 447158238,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:79c790315e0123fb77e6435c69110d13932de43d&amp;dn=%5BHorribleSubs%5D+PSYCHO-PASS+2+-+03+%5B720p%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 2,
+  "uploader": "Ralphless",
+  "files": -1,
+  "time": 1414116421,
+  "description": "PSYCHO-PASS 2 - Episode 03\n\nQuality : 720p\n\nAudio : Japanese\n\nSubtitles : English by Horrible Subs\n\nFormat : MKV",
+  "parsed": {
+    "xt": "urn:btih:79c790315e0123fb77e6435c69110d13932de43d",
+    "dn": "[HorribleSubs] PSYCHO-PASS 2 - 03 [720p]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "79c790315e0123fb77e6435c69110d13932de43d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        121,
+        199,
+        144,
+        49,
+        94,
+        1,
+        35,
+        251,
+        119,
+        230,
+        67,
+        92,
+        105,
+        17,
+        13,
+        19,
+        147,
+        45,
+        228,
+        61
+      ]
+    },
+    "name": "[HorribleSubs] PSYCHO-PASS 2 - 03 [720p]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 12,
+  "last_updated": "2016-12-25T05:23:36.686Z"
+}

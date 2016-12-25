@@ -1,1 +1,63 @@
-{"title":"The.Good.Place.S01E06.HDTV.x264-FLEET","uid":16029996,"size":153649489,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:7a311c47f66b076ea3bf80c5479a287d4826c309&amp;dn=The.Good.Place.S01E06.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":253,"leechers":43,"uploader":"TvTeam","files":4,"time":1476414401,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:7a311c47f66b076ea3bf80c5479a287d4826c309","amp;dn":"The.Good.Place.S01E06.HDTV.x264-FLEET","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7a311c47f66b076ea3bf80c5479a287d4826c309","infoHashBuffer":{"type":"Buffer","data":[122,49,28,71,246,107,7,110,163,191,128,197,71,154,40,125,72,38,195,9]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Good.Place.S01E06.HDTV.x264-FLEET",
+  "uid": 16029996,
+  "size": 153649489,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:7a311c47f66b076ea3bf80c5479a287d4826c309&amp;dn=The.Good.Place.S01E06.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 253,
+  "leechers": 43,
+  "uploader": "TvTeam",
+  "files": 4,
+  "time": 1476414401,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:7a311c47f66b076ea3bf80c5479a287d4826c309",
+    "dn": "The.Good.Place.S01E06.HDTV.x264-FLEET",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "7a311c47f66b076ea3bf80c5479a287d4826c309",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        122,
+        49,
+        28,
+        71,
+        246,
+        107,
+        7,
+        110,
+        163,
+        191,
+        128,
+        197,
+        71,
+        154,
+        40,
+        125,
+        72,
+        38,
+        195,
+        9
+      ]
+    },
+    "name": "The.Good.Place.S01E06.HDTV.x264-FLEET",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 296,
+  "peers": 100,
+  "last_updated": "2016-12-25T05:26:19.242Z"
+}

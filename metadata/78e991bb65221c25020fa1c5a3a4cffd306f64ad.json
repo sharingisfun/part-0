@@ -1,1 +1,61 @@
-{"title":"MicroSoft Office Pro 2007","uid":11011691,"size":605724620,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:78e991bb65221c25020fa1c5a3a4cffd306f64ad&amp;dn=MicroSoft+Office+Pro+2007+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":146,"leechers":2,"uploader":"qubek","files":271,"time":1410369590,"description":" Microsoft Office is a collection of software programs commonly used in an office environment. It is available on both Windows and Mac and includes programs, servers, services, and solutions for various business purposes.\nYour computer must meet the minimum hardware requirements for the version of Office you purchase/install.\nMicrosoft Office for Windows includes the following programs:\nAccess: Database management program\nExcel: Spreadsheet program\nLync: Collaboration and communication tool\nOneNote: Note taking program\nOutlook: Personal information managers and communications program (e-mail, contacts, schedules, documents)\nPowerPoint: Presentation graphics program\nProject: Project management programs and solutions\nPublisher: Business publishing and marketing materials program\nVisio: Business and technical diagramming program\nWord: Word processing program\nMicrosoft Office for Mac includes the following programs:\nOutlook: Personal information managers and communications program (e-mail, contacts, schedules, notes, documents)\nExcel: Spreadsheet program\nPowerPoint: Presentation graphics program\nWord: Word processing program ","torrent":{"xt":"urn:btih:78e991bb65221c25020fa1c5a3a4cffd306f64ad","amp;dn":"MicroSoft+Office+Pro+2007+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"78e991bb65221c25020fa1c5a3a4cffd306f64ad","infoHashBuffer":{"type":"Buffer","data":[120,233,145,187,101,34,28,37,2,15,161,197,163,164,207,253,48,111,100,173]},"announce":[],"urlList":[]}}
+{
+  "title": "MicroSoft Office Pro 2007",
+  "uid": 11011691,
+  "size": 605724620,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:78e991bb65221c25020fa1c5a3a4cffd306f64ad&amp;dn=MicroSoft+Office+Pro+2007+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 146,
+  "leechers": 2,
+  "uploader": "qubek",
+  "files": 271,
+  "time": 1410369590,
+  "description": " Microsoft Office is a collection of software programs commonly used in an office environment. It is available on both Windows and Mac and includes programs, servers, services, and solutions for various business purposes.\nYour computer must meet the minimum hardware requirements for the version of Office you purchase/install.\nMicrosoft Office for Windows includes the following programs:\nAccess: Database management program\nExcel: Spreadsheet program\nLync: Collaboration and communication tool\nOneNote: Note taking program\nOutlook: Personal information managers and communications program (e-mail, contacts, schedules, documents)\nPowerPoint: Presentation graphics program\nProject: Project management programs and solutions\nPublisher: Business publishing and marketing materials program\nVisio: Business and technical diagramming program\nWord: Word processing program\nMicrosoft Office for Mac includes the following programs:\nOutlook: Personal information managers and communications program (e-mail, contacts, schedules, notes, documents)\nExcel: Spreadsheet program\nPowerPoint: Presentation graphics program\nWord: Word processing program ",
+  "parsed": {
+    "xt": "urn:btih:78e991bb65221c25020fa1c5a3a4cffd306f64ad",
+    "dn": "MicroSoft Office Pro 2007 ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "78e991bb65221c25020fa1c5a3a4cffd306f64ad",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        120,
+        233,
+        145,
+        187,
+        101,
+        34,
+        28,
+        37,
+        2,
+        15,
+        161,
+        197,
+        163,
+        164,
+        207,
+        253,
+        48,
+        111,
+        100,
+        173
+      ]
+    },
+    "name": "MicroSoft Office Pro 2007 ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 148,
+  "peers": 2,
+  "last_updated": "2016-12-25T05:18:51.517Z"
+}
