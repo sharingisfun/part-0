@@ -1,1 +1,61 @@
-{"title":"Max Payne 2 - The Fall of Max Payne","uid":3888468,"size":1381115904,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:f6763c06170eed162c664dd997f074f306ffe98c&amp;dn=Max+Payne+2+-+The+Fall+of+Max+Payne&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":3,"uploader":"mihaifox","files":3,"time":1194965686,"description":"Just mount with Daemon-Tools,install and copy the crack from cd 2.","torrent":{"xt":"urn:btih:f6763c06170eed162c664dd997f074f306ffe98c","amp;dn":"Max+Payne+2+-+The+Fall+of+Max+Payne","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f6763c06170eed162c664dd997f074f306ffe98c","infoHashBuffer":{"type":"Buffer","data":[246,118,60,6,23,14,237,22,44,102,77,217,151,240,116,243,6,255,233,140]},"announce":[],"urlList":[]}}
+{
+  "title": "Max Payne 2 - The Fall of Max Payne",
+  "uid": 3888468,
+  "size": 1381115904,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:f6763c06170eed162c664dd997f074f306ffe98c&amp;dn=Max+Payne+2+-+The+Fall+of+Max+Payne&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 3,
+  "uploader": "mihaifox",
+  "files": 3,
+  "time": 1194965686,
+  "description": "Just mount with Daemon-Tools,install and copy the crack from cd 2.",
+  "parsed": {
+    "xt": "urn:btih:f6763c06170eed162c664dd997f074f306ffe98c",
+    "dn": "Max Payne 2 - The Fall of Max Payne",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f6763c06170eed162c664dd997f074f306ffe98c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        246,
+        118,
+        60,
+        6,
+        23,
+        14,
+        237,
+        22,
+        44,
+        102,
+        77,
+        217,
+        151,
+        240,
+        116,
+        243,
+        6,
+        255,
+        233,
+        140
+      ]
+    },
+    "name": "Max Payne 2 - The Fall of Max Payne",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 50,
+  "last_updated": "2016-12-25T18:19:20.920Z"
+}

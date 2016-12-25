@@ -1,1 +1,61 @@
-{"title":"Snatch[2000]DvDrip[Eng]-Xombie","uid":4716172,"size":733984347,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:f51750dbe2cd79b2199e68cce41a928859859b28&amp;dn=Snatch%5B2000%5DDvDrip%5BEng%5D-Xombie&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":112,"leechers":18,"uploader":"Xombie207","files":2,"time":1234287727,"description":"Actual DvDrip.  Very Good Quality.","torrent":{"xt":"urn:btih:f51750dbe2cd79b2199e68cce41a928859859b28","amp;dn":"Snatch%5B2000%5DDvDrip%5BEng%5D-Xombie","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f51750dbe2cd79b2199e68cce41a928859859b28","infoHashBuffer":{"type":"Buffer","data":[245,23,80,219,226,205,121,178,25,158,104,204,228,26,146,136,89,133,155,40]},"announce":[],"urlList":[]}}
+{
+  "title": "Snatch[2000]DvDrip[Eng]-Xombie",
+  "uid": 4716172,
+  "size": 733984347,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:f51750dbe2cd79b2199e68cce41a928859859b28&amp;dn=Snatch%5B2000%5DDvDrip%5BEng%5D-Xombie&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 112,
+  "leechers": 18,
+  "uploader": "Xombie207",
+  "files": 2,
+  "time": 1234287727,
+  "description": "Actual DvDrip.  Very Good Quality.",
+  "parsed": {
+    "xt": "urn:btih:f51750dbe2cd79b2199e68cce41a928859859b28",
+    "dn": "Snatch[2000]DvDrip[Eng]-Xombie",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f51750dbe2cd79b2199e68cce41a928859859b28",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        245,
+        23,
+        80,
+        219,
+        226,
+        205,
+        121,
+        178,
+        25,
+        158,
+        104,
+        204,
+        228,
+        26,
+        146,
+        136,
+        89,
+        133,
+        155,
+        40
+      ]
+    },
+    "name": "Snatch[2000]DvDrip[Eng]-Xombie",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 130,
+  "peers": 30,
+  "last_updated": "2016-12-25T18:11:29.333Z"
+}

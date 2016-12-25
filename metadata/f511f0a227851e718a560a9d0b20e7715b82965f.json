@@ -1,1 +1,61 @@
-{"title":"J Cole Forest Hill Drive","uid":11625153,"size":108055117,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:f511f0a227851e718a560a9d0b20e7715b82965f&amp;dn=J+Cole+Forest+Hill+Drive&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":69,"leechers":4,"uploader":"adeck","files":-1,"time":1417567455,"description":"Year: 2014\nGenre: Rap / Hip-Hop\n\n\n\nFormat: mp3\nBitrate: 256 Kbps\n\n\nTracklist:\n\n01. Intro\n02. January 28th\n03. Wet Dreamz\n04. 03Ã¢â‚¬â„¢ Adolescence\n05. A Tale of 2 Citiez\n06. Fire Squad\n07. St. Tropez\n08. G.O.M.D.\n09. No Role Modelz\n10. Hello\n11. Apparently\n12. Love Yourz\n13. Note to Self\n\nRemember to support the artists!\nIf you like it,buy it!!!!","torrent":{"xt":"urn:btih:f511f0a227851e718a560a9d0b20e7715b82965f","amp;dn":"J+Cole+Forest+Hill+Drive","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f511f0a227851e718a560a9d0b20e7715b82965f","infoHashBuffer":{"type":"Buffer","data":[245,17,240,162,39,133,30,113,138,86,10,157,11,32,231,113,91,130,150,95]},"announce":[],"urlList":[]}}
+{
+  "title": "J Cole Forest Hill Drive",
+  "uid": 11625153,
+  "size": 108055117,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:f511f0a227851e718a560a9d0b20e7715b82965f&amp;dn=J+Cole+Forest+Hill+Drive&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 69,
+  "leechers": 4,
+  "uploader": "adeck",
+  "files": -1,
+  "time": 1417567455,
+  "description": "Year: 2014\nGenre: Rap / Hip-Hop\n\n\n\nFormat: mp3\nBitrate: 256 Kbps\n\n\nTracklist:\n\n01. Intro\n02. January 28th\n03. Wet Dreamz\n04. 03Ã¢â‚¬â„¢ Adolescence\n05. A Tale of 2 Citiez\n06. Fire Squad\n07. St. Tropez\n08. G.O.M.D.\n09. No Role Modelz\n10. Hello\n11. Apparently\n12. Love Yourz\n13. Note to Self\n\nRemember to support the artists!\nIf you like it,buy it!!!!",
+  "parsed": {
+    "xt": "urn:btih:f511f0a227851e718a560a9d0b20e7715b82965f",
+    "dn": "J Cole Forest Hill Drive",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f511f0a227851e718a560a9d0b20e7715b82965f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        245,
+        17,
+        240,
+        162,
+        39,
+        133,
+        30,
+        113,
+        138,
+        86,
+        10,
+        157,
+        11,
+        32,
+        231,
+        113,
+        91,
+        130,
+        150,
+        95
+      ]
+    },
+    "name": "J Cole Forest Hill Drive",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 108,
+  "last_updated": "2016-12-25T18:11:13.261Z"
+}

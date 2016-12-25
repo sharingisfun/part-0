@@ -1,1 +1,63 @@
-{"title":"Kaspersky Total Security 2016 v17.1.0.614 Incl trial","uid":15914641,"size":19439742,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:f42b0b624632e4a0c333c91b4e678bb2e51f001b&amp;dn=Kaspersky+Total+Security+2016+v17.1.0.614+Incl+trial&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":96,"leechers":62,"uploader":"gerardpmorris","files":2,"time":1475189047,"description":"very....good","torrent":{"xt":"urn:btih:f42b0b624632e4a0c333c91b4e678bb2e51f001b","amp;dn":"Kaspersky+Total+Security+2016+v17.1.0.614+Incl+trial","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f42b0b624632e4a0c333c91b4e678bb2e51f001b","infoHashBuffer":{"type":"Buffer","data":[244,43,11,98,70,50,228,160,195,51,201,27,78,103,139,178,229,31,0,27]},"announce":[],"urlList":[]}}
+{
+  "title": "Kaspersky Total Security 2016 v17.1.0.614 Incl trial",
+  "uid": 15914641,
+  "size": 19439742,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:f42b0b624632e4a0c333c91b4e678bb2e51f001b&amp;dn=Kaspersky+Total+Security+2016+v17.1.0.614+Incl+trial&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 96,
+  "leechers": 62,
+  "uploader": "gerardpmorris",
+  "files": 2,
+  "time": 1475189047,
+  "description": "very....good",
+  "parsed": {
+    "xt": "urn:btih:f42b0b624632e4a0c333c91b4e678bb2e51f001b",
+    "dn": "Kaspersky Total Security 2016 v17.1.0.614 Incl trial",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "f42b0b624632e4a0c333c91b4e678bb2e51f001b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        244,
+        43,
+        11,
+        98,
+        70,
+        50,
+        228,
+        160,
+        195,
+        51,
+        201,
+        27,
+        78,
+        103,
+        139,
+        178,
+        229,
+        31,
+        0,
+        27
+      ]
+    },
+    "name": "Kaspersky Total Security 2016 v17.1.0.614 Incl trial",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 158,
+  "peers": 2,
+  "last_updated": "2016-12-25T18:05:55.693Z"
+}

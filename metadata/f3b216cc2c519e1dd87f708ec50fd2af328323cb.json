@@ -1,1 +1,61 @@
-{"title":"Halo.Combat.Evolved.PC.CD.Spanish.[www.btjuegos.com]","uid":3671241,"size":738643184,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:f3b216cc2c519e1dd87f708ec50fd2af328323cb&amp;dn=Halo.Combat.Evolved.PC.CD.Spanish.%5Bwww.btjuegos.com%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":80,"leechers":2,"uploader":"terrier","files":4,"time":1177335506,"description":"www.btjuegos.com\n\nHalo, se ha mejorado para poder jugar en el PC y contiene todo el paquete de combate y acciÃƒÂ³n y juego emocionante que harÃƒÂ¡n de este tÃƒÂ­tulo un hit imparable para los locos del videojuego de todo el mundo. Equipado con todo un nuevo arsenal de artillerÃƒÂ­a y vehÃƒÂ­culo, Halo ofrece nuevos retos y sorpresas asÃƒÂ­ como una competiciÃƒÂ³n de multijugador de gran intensidad exclusivamente para PC, tambiÃƒÂ©n se incluyen mapas nuevos de multijugador.","torrent":{"xt":"urn:btih:f3b216cc2c519e1dd87f708ec50fd2af328323cb","amp;dn":"Halo.Combat.Evolved.PC.CD.Spanish.%5Bwww.btjuegos.com%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f3b216cc2c519e1dd87f708ec50fd2af328323cb","infoHashBuffer":{"type":"Buffer","data":[243,178,22,204,44,81,158,29,216,127,112,142,197,15,210,175,50,131,35,203]},"announce":[],"urlList":[]}}
+{
+  "title": "Halo.Combat.Evolved.PC.CD.Spanish.[www.btjuegos.com]",
+  "uid": 3671241,
+  "size": 738643184,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:f3b216cc2c519e1dd87f708ec50fd2af328323cb&amp;dn=Halo.Combat.Evolved.PC.CD.Spanish.%5Bwww.btjuegos.com%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 80,
+  "leechers": 2,
+  "uploader": "terrier",
+  "files": 4,
+  "time": 1177335506,
+  "description": "www.btjuegos.com\n\nHalo, se ha mejorado para poder jugar en el PC y contiene todo el paquete de combate y acciÃƒÂ³n y juego emocionante que harÃƒÂ¡n de este tÃƒÂ­tulo un hit imparable para los locos del videojuego de todo el mundo. Equipado con todo un nuevo arsenal de artillerÃƒÂ­a y vehÃƒÂ­culo, Halo ofrece nuevos retos y sorpresas asÃƒÂ­ como una competiciÃƒÂ³n de multijugador de gran intensidad exclusivamente para PC, tambiÃƒÂ©n se incluyen mapas nuevos de multijugador.",
+  "parsed": {
+    "xt": "urn:btih:f3b216cc2c519e1dd87f708ec50fd2af328323cb",
+    "dn": "Halo.Combat.Evolved.PC.CD.Spanish.[www.btjuegos.com]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f3b216cc2c519e1dd87f708ec50fd2af328323cb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        243,
+        178,
+        22,
+        204,
+        44,
+        81,
+        158,
+        29,
+        216,
+        127,
+        112,
+        142,
+        197,
+        15,
+        210,
+        175,
+        50,
+        131,
+        35,
+        203
+      ]
+    },
+    "name": "Halo.Combat.Evolved.PC.CD.Spanish.[www.btjuegos.com]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 82,
+  "peers": 100,
+  "last_updated": "2016-12-25T18:03:02.908Z"
+}

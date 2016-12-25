@@ -1,1 +1,61 @@
-{"title":"Banished (Latest With 1.0.4 Patch) (GOG)","uid":11388850,"size":93708736,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:f4295f2bf42f31635d85c1ae9671eaa84a92162e&amp;dn=Banished+%28Latest+With+1.0.4+Patch%29+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":2,"uploader":"Sarah116","files":1,"time":1415301536,"description":"Hey guys, here the latest version of Banished. Hope you guys enjoy and please help seed.\n\n\n------------------------\n\n\nChangelog for version 1.0.4: \n\n\nThis version fixes some gameplay issues and adds modding support. \n\n---------------------------\n\n\nChanges: 1.0.3\n\n\n-Fixed a potential crash that could occur if two buildings overlapped. \n-Fixed splitting or emptying herds from pastures. This will no longer \ncause small pastures to become overfull. \n-Added an option to set the scale of status icons. This is useful in \nultra wide resolutions where the icons become large. \n-Fixed a bug that caused large population cities to randomly unassign \nworkers. \n-Fixed a pause/lag that would occur as the game reassigned workers to \nnew professions. \n-Fixed a bug that allowed the edges of tunnels to overlap other buildings. \n-Fixed an infinite loop that occured using the path tool when a citizen \ncouldnÃ¢â‚¬â„¢t get from home to a workplace. \n-Citizens without a workplace will once again do any job on the map. \nCitizens that have jobs will generally still stay near their workplace \nunless work to be done has been around for several months and no general \nlaborer has done it","torrent":{"xt":"urn:btih:f4295f2bf42f31635d85c1ae9671eaa84a92162e","amp;dn":"Banished+%28Latest+With+1.0.4+Patch%29+%28GOG%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f4295f2bf42f31635d85c1ae9671eaa84a92162e","infoHashBuffer":{"type":"Buffer","data":[244,41,95,43,244,47,49,99,93,133,193,174,150,113,234,168,74,146,22,46]},"announce":[],"urlList":[]}}
+{
+  "title": "Banished (Latest With 1.0.4 Patch) (GOG)",
+  "uid": 11388850,
+  "size": 93708736,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:f4295f2bf42f31635d85c1ae9671eaa84a92162e&amp;dn=Banished+%28Latest+With+1.0.4+Patch%29+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 2,
+  "uploader": "Sarah116",
+  "files": 1,
+  "time": 1415301536,
+  "description": "Hey guys, here the latest version of Banished. Hope you guys enjoy and please help seed.\n\n\n------------------------\n\n\nChangelog for version 1.0.4: \n\n\nThis version fixes some gameplay issues and adds modding support. \n\n---------------------------\n\n\nChanges: 1.0.3\n\n\n-Fixed a potential crash that could occur if two buildings overlapped. \n-Fixed splitting or emptying herds from pastures. This will no longer \ncause small pastures to become overfull. \n-Added an option to set the scale of status icons. This is useful in \nultra wide resolutions where the icons become large. \n-Fixed a bug that caused large population cities to randomly unassign \nworkers. \n-Fixed a pause/lag that would occur as the game reassigned workers to \nnew professions. \n-Fixed a bug that allowed the edges of tunnels to overlap other buildings. \n-Fixed an infinite loop that occured using the path tool when a citizen \ncouldnÃ¢â‚¬â„¢t get from home to a workplace. \n-Citizens without a workplace will once again do any job on the map. \nCitizens that have jobs will generally still stay near their workplace \nunless work to be done has been around for several months and no general \nlaborer has done it",
+  "parsed": {
+    "xt": "urn:btih:f4295f2bf42f31635d85c1ae9671eaa84a92162e",
+    "dn": "Banished (Latest With 1.0.4 Patch) (GOG)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f4295f2bf42f31635d85c1ae9671eaa84a92162e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        244,
+        41,
+        95,
+        43,
+        244,
+        47,
+        49,
+        99,
+        93,
+        133,
+        193,
+        174,
+        150,
+        113,
+        234,
+        168,
+        74,
+        146,
+        22,
+        46
+      ]
+    },
+    "name": "Banished (Latest With 1.0.4 Patch) (GOG)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 151,
+  "last_updated": "2016-12-25T18:05:45.628Z"
+}

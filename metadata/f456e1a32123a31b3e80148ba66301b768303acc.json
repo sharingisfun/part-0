@@ -1,1 +1,61 @@
-{"title":"Saad Alghamdi (MP3 Quran)","uid":4495664,"size":2851677792,"categoryP":"audio","categoryS":"audio_books","magnet":"?xt=urn:btih:f456e1a32123a31b3e80148ba66301b768303acc&amp;dn=Saad+Alghamdi+%28MP3+Quran%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":13,"uploader":"buraq","files":116,"time":1226181969,"description":"Recitation of the Quran by Saad Alghamdi.","torrent":{"xt":"urn:btih:f456e1a32123a31b3e80148ba66301b768303acc","amp;dn":"Saad+Alghamdi+%28MP3+Quran%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f456e1a32123a31b3e80148ba66301b768303acc","infoHashBuffer":{"type":"Buffer","data":[244,86,225,163,33,35,163,27,62,128,20,139,166,99,1,183,104,48,58,204]},"announce":[],"urlList":[]}}
+{
+  "title": "Saad Alghamdi (MP3 Quran)",
+  "uid": 4495664,
+  "size": 2851677792,
+  "categoryP": "audio",
+  "categoryS": "audio_books",
+  "magnet": "?xt=urn:btih:f456e1a32123a31b3e80148ba66301b768303acc&amp;dn=Saad+Alghamdi+%28MP3+Quran%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 13,
+  "uploader": "buraq",
+  "files": 116,
+  "time": 1226181969,
+  "description": "Recitation of the Quran by Saad Alghamdi.",
+  "parsed": {
+    "xt": "urn:btih:f456e1a32123a31b3e80148ba66301b768303acc",
+    "dn": "Saad Alghamdi (MP3 Quran)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f456e1a32123a31b3e80148ba66301b768303acc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        244,
+        86,
+        225,
+        163,
+        33,
+        35,
+        163,
+        27,
+        62,
+        128,
+        20,
+        139,
+        166,
+        99,
+        1,
+        183,
+        104,
+        48,
+        58,
+        204
+      ]
+    },
+    "name": "Saad Alghamdi (MP3 Quran)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 66,
+  "peers": 17,
+  "last_updated": "2016-12-25T18:06:47.903Z"
+}

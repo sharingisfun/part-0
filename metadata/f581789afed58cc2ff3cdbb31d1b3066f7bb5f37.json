@@ -1,1 +1,63 @@
-{"title":"DAEMON Tools Pro Advanced v6.1.0.0484 [FinaL_FULL]","uid":16035920,"size":25955535,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:f581789afed58cc2ff3cdbb31d1b3066f7bb5f37&amp;dn=DAEMON+Tools+Pro+Advanced+v6.1.0.0484+%5BFinaL_FULL%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":483,"leechers":58,"uploader":"xtegedorau","files":1,"time":1476483464,"description":"\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program","torrent":{"xt":"urn:btih:f581789afed58cc2ff3cdbb31d1b3066f7bb5f37","amp;dn":"DAEMON+Tools+Pro+Advanced+v6.1.0.0484+%5BFinaL_FULL%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f581789afed58cc2ff3cdbb31d1b3066f7bb5f37","infoHashBuffer":{"type":"Buffer","data":[245,129,120,154,254,213,140,194,255,60,219,179,29,27,48,102,247,187,95,55]},"announce":[],"urlList":[]}}
+{
+  "title": "DAEMON Tools Pro Advanced v6.1.0.0484 [FinaL_FULL]",
+  "uid": 16035920,
+  "size": 25955535,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:f581789afed58cc2ff3cdbb31d1b3066f7bb5f37&amp;dn=DAEMON+Tools+Pro+Advanced+v6.1.0.0484+%5BFinaL_FULL%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 483,
+  "leechers": 58,
+  "uploader": "xtegedorau",
+  "files": 1,
+  "time": 1476483464,
+  "description": "\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program",
+  "parsed": {
+    "xt": "urn:btih:f581789afed58cc2ff3cdbb31d1b3066f7bb5f37",
+    "dn": "DAEMON Tools Pro Advanced v6.1.0.0484 [FinaL_FULL]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "f581789afed58cc2ff3cdbb31d1b3066f7bb5f37",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        245,
+        129,
+        120,
+        154,
+        254,
+        213,
+        140,
+        194,
+        255,
+        60,
+        219,
+        179,
+        29,
+        27,
+        48,
+        102,
+        247,
+        187,
+        95,
+        55
+      ]
+    },
+    "name": "DAEMON Tools Pro Advanced v6.1.0.0484 [FinaL_FULL]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 541,
+  "peers": 2,
+  "last_updated": "2016-12-25T18:13:47.925Z"
+}

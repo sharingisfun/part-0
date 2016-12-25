@@ -1,1 +1,61 @@
-{"title":"Marisa Monte - Discografia","uid":10999685,"size":767090761,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:f54d672a0e930f0644c59666b9716d5e96ee2460&amp;dn=Marisa+Monte+-+Discografia&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":10,"uploader":"apessoavf","files":-1,"time":1410122304,"description":"Marisa Monte Discografia","torrent":{"xt":"urn:btih:f54d672a0e930f0644c59666b9716d5e96ee2460","amp;dn":"Marisa+Monte+-+Discografia","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f54d672a0e930f0644c59666b9716d5e96ee2460","infoHashBuffer":{"type":"Buffer","data":[245,77,103,42,14,147,15,6,68,197,150,102,185,113,109,94,150,238,36,96]},"announce":[],"urlList":[]}}
+{
+  "title": "Marisa Monte - Discografia",
+  "uid": 10999685,
+  "size": 767090761,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:f54d672a0e930f0644c59666b9716d5e96ee2460&amp;dn=Marisa+Monte+-+Discografia&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 10,
+  "uploader": "apessoavf",
+  "files": -1,
+  "time": 1410122304,
+  "description": "Marisa Monte Discografia",
+  "parsed": {
+    "xt": "urn:btih:f54d672a0e930f0644c59666b9716d5e96ee2460",
+    "dn": "Marisa Monte - Discografia",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f54d672a0e930f0644c59666b9716d5e96ee2460",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        245,
+        77,
+        103,
+        42,
+        14,
+        147,
+        15,
+        6,
+        68,
+        197,
+        150,
+        102,
+        185,
+        113,
+        109,
+        94,
+        150,
+        238,
+        36,
+        96
+      ]
+    },
+    "name": "Marisa Monte - Discografia",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 76,
+  "peers": 49,
+  "last_updated": "2016-12-25T18:12:27.600Z"
+}

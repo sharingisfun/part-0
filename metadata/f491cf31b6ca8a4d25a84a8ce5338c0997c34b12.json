@@ -1,1 +1,61 @@
-{"title":"Teen Wolf S04E10 HDTV x264-2HD[ettv]","uid":10867621,"size":292590313,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f491cf31b6ca8a4d25a84a8ce5338c0997c34b12&amp;dn=Teen+Wolf+S04E10+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":85,"leechers":5,"uploader":"ettv","files":2,"time":1408932477,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:f491cf31b6ca8a4d25a84a8ce5338c0997c34b12","amp;dn":"Teen+Wolf+S04E10+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f491cf31b6ca8a4d25a84a8ce5338c0997c34b12","infoHashBuffer":{"type":"Buffer","data":[244,145,207,49,182,202,138,77,37,168,74,140,229,51,140,9,151,195,75,18]},"announce":[],"urlList":[]}}
+{
+  "title": "Teen Wolf S04E10 HDTV x264-2HD[ettv]",
+  "uid": 10867621,
+  "size": 292590313,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f491cf31b6ca8a4d25a84a8ce5338c0997c34b12&amp;dn=Teen+Wolf+S04E10+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 85,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1408932477,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:f491cf31b6ca8a4d25a84a8ce5338c0997c34b12",
+    "dn": "Teen Wolf S04E10 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f491cf31b6ca8a4d25a84a8ce5338c0997c34b12",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        244,
+        145,
+        207,
+        49,
+        182,
+        202,
+        138,
+        77,
+        37,
+        168,
+        74,
+        140,
+        229,
+        51,
+        140,
+        9,
+        151,
+        195,
+        75,
+        18
+      ]
+    },
+    "name": "Teen Wolf S04E10 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 90,
+  "peers": 5,
+  "last_updated": "2016-12-25T18:08:24.334Z"
+}

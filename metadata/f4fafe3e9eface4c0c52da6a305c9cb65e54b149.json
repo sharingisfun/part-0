@@ -1,1 +1,61 @@
-{"title":"Another.Period.S01E01.HDTV.x264-BATV[ettv]","uid":12038871,"size":183813578,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f4fafe3e9eface4c0c52da6a305c9cb65e54b149&amp;dn=Another.Period.S01E01.HDTV.x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":5,"uploader":"ettv","files":3,"time":1434734537,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                  &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:f4fafe3e9eface4c0c52da6a305c9cb65e54b149","amp;dn":"Another.Period.S01E01.HDTV.x264-BATV%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f4fafe3e9eface4c0c52da6a305c9cb65e54b149","infoHashBuffer":{"type":"Buffer","data":[244,250,254,62,158,250,206,76,12,82,218,106,48,92,156,182,94,84,177,73]},"announce":[],"urlList":[]}}
+{
+  "title": "Another.Period.S01E01.HDTV.x264-BATV[ettv]",
+  "uid": 12038871,
+  "size": 183813578,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f4fafe3e9eface4c0c52da6a305c9cb65e54b149&amp;dn=Another.Period.S01E01.HDTV.x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1434734537,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                  &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:f4fafe3e9eface4c0c52da6a305c9cb65e54b149",
+    "dn": "Another.Period.S01E01.HDTV.x264-BATV[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f4fafe3e9eface4c0c52da6a305c9cb65e54b149",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        244,
+        250,
+        254,
+        62,
+        158,
+        250,
+        206,
+        76,
+        12,
+        82,
+        218,
+        106,
+        48,
+        92,
+        156,
+        182,
+        94,
+        84,
+        177,
+        73
+      ]
+    },
+    "name": "Another.Period.S01E01.HDTV.x264-BATV[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 66,
+  "peers": 18,
+  "last_updated": "2016-12-25T18:10:41.135Z"
+}

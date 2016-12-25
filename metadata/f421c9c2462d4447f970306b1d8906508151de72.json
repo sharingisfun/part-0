@@ -1,1 +1,61 @@
-{"title":"Breaking Bad S05E14 HDTV x264-ASAP[ettv]","uid":8923167,"size":364203405,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f421c9c2462d4447f970306b1d8906508151de72&amp;dn=Breaking+Bad+S05E14+HDTV+x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":93,"leechers":6,"uploader":"ettv","files":2,"time":1379304408,"description":"x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;","torrent":{"xt":"urn:btih:f421c9c2462d4447f970306b1d8906508151de72","amp;dn":"Breaking+Bad+S05E14+HDTV+x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f421c9c2462d4447f970306b1d8906508151de72","infoHashBuffer":{"type":"Buffer","data":[244,33,201,194,70,45,68,71,249,112,48,107,29,137,6,80,129,81,222,114]},"announce":[],"urlList":[]}}
+{
+  "title": "Breaking Bad S05E14 HDTV x264-ASAP[ettv]",
+  "uid": 8923167,
+  "size": 364203405,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f421c9c2462d4447f970306b1d8906508151de72&amp;dn=Breaking+Bad+S05E14+HDTV+x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 93,
+  "leechers": 6,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1379304408,
+  "description": "x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:f421c9c2462d4447f970306b1d8906508151de72",
+    "dn": "Breaking Bad S05E14 HDTV x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f421c9c2462d4447f970306b1d8906508151de72",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        244,
+        33,
+        201,
+        194,
+        70,
+        45,
+        68,
+        71,
+        249,
+        112,
+        48,
+        107,
+        29,
+        137,
+        6,
+        80,
+        129,
+        81,
+        222,
+        114
+      ]
+    },
+    "name": "Breaking Bad S05E14 HDTV x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 99,
+  "peers": 24,
+  "last_updated": "2016-12-25T18:05:35.600Z"
+}

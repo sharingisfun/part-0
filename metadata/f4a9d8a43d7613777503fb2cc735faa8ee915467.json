@@ -1,1 +1,61 @@
-{"title":"need for speed carbon","uid":3566382,"size":4248496128,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:f4a9d8a43d7613777503fb2cc735faa8ee915467&amp;dn=need+for+speed+carbon&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":350,"leechers":47,"uploader":"nystrand","files":1,"time":1164702582,"description":"install and use the crack located on the iso file","torrent":{"xt":"urn:btih:f4a9d8a43d7613777503fb2cc735faa8ee915467","amp;dn":"need+for+speed+carbon","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f4a9d8a43d7613777503fb2cc735faa8ee915467","infoHashBuffer":{"type":"Buffer","data":[244,169,216,164,61,118,19,119,117,3,251,44,199,53,250,168,238,145,84,103]},"announce":[],"urlList":[]}}
+{
+  "title": "need for speed carbon",
+  "uid": 3566382,
+  "size": 4248496128,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:f4a9d8a43d7613777503fb2cc735faa8ee915467&amp;dn=need+for+speed+carbon&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 350,
+  "leechers": 47,
+  "uploader": "nystrand",
+  "files": 1,
+  "time": 1164702582,
+  "description": "install and use the crack located on the iso file",
+  "parsed": {
+    "xt": "urn:btih:f4a9d8a43d7613777503fb2cc735faa8ee915467",
+    "dn": "need for speed carbon",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f4a9d8a43d7613777503fb2cc735faa8ee915467",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        244,
+        169,
+        216,
+        164,
+        61,
+        118,
+        19,
+        119,
+        117,
+        3,
+        251,
+        44,
+        199,
+        53,
+        250,
+        168,
+        238,
+        145,
+        84,
+        103
+      ]
+    },
+    "name": "need for speed carbon",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 397,
+  "peers": 103,
+  "last_updated": "2016-12-25T18:08:58.459Z"
+}

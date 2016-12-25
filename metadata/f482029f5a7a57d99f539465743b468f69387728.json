@@ -1,1 +1,63 @@
-{"title":"UFC.202.HDTV.x264-LiNKLE","uid":15610365,"size":1687096597,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f482029f5a7a57d99f539465743b468f69387728&amp;dn=UFC.202.HDTV.x264-LiNKLE&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":2,"uploader":"TvTeam","files":4,"time":1471767563,"description":"Torrent from:\r\n~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:f482029f5a7a57d99f539465743b468f69387728","amp;dn":"UFC.202.HDTV.x264-LiNKLE","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f482029f5a7a57d99f539465743b468f69387728","infoHashBuffer":{"type":"Buffer","data":[244,130,2,159,90,122,87,217,159,83,148,101,116,59,70,143,105,56,119,40]},"announce":[],"urlList":[]}}
+{
+  "title": "UFC.202.HDTV.x264-LiNKLE",
+  "uid": 15610365,
+  "size": 1687096597,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f482029f5a7a57d99f539465743b468f69387728&amp;dn=UFC.202.HDTV.x264-LiNKLE&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 2,
+  "uploader": "TvTeam",
+  "files": 4,
+  "time": 1471767563,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:f482029f5a7a57d99f539465743b468f69387728",
+    "dn": "UFC.202.HDTV.x264-LiNKLE",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "f482029f5a7a57d99f539465743b468f69387728",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        244,
+        130,
+        2,
+        159,
+        90,
+        122,
+        87,
+        217,
+        159,
+        83,
+        148,
+        101,
+        116,
+        59,
+        70,
+        143,
+        105,
+        56,
+        119,
+        40
+      ]
+    },
+    "name": "UFC.202.HDTV.x264-LiNKLE",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 46,
+  "last_updated": "2016-12-25T18:07:50.181Z"
+}
