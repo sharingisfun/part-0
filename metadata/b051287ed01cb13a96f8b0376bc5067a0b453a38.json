@@ -1,1 +1,63 @@
-{"title":"Endless Legend - Tempest-HI2U","uid":16041381,"size":4563640089,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:b051287ed01cb13a96f8b0376bc5067a0b453a38&amp;dn=Endless+Legend+-+Tempest-HI2U&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":51,"uploader":"dauphong","files":5,"time":1476510580,"description":"While much is known of the surface of Auriga, its oceans still guard many mysteries. Weathered fortresses, certainly creations of another age, still house a secretive people called the Fomorians who serve some ancient purpose. But while the nations of Auriga learn to meet, trade, and war on the seas, another force rises from beneath them. They are -- or is? - the Morgawr, a twisted and possessed people that seem to be symbiotic creations of sea life and other, unimaginable species. It will be necessary to confront them, defy them, and understand the new powers they harness. Or, equally likely, succumb to their strength","torrent":{"xt":"urn:btih:b051287ed01cb13a96f8b0376bc5067a0b453a38","amp;dn":"Endless+Legend+-+Tempest-HI2U","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b051287ed01cb13a96f8b0376bc5067a0b453a38","infoHashBuffer":{"type":"Buffer","data":[176,81,40,126,208,28,177,58,150,248,176,55,107,197,6,122,11,69,58,56]},"announce":[],"urlList":[]}}
+{
+  "title": "Endless Legend - Tempest-HI2U",
+  "uid": 16041381,
+  "size": 4563640089,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:b051287ed01cb13a96f8b0376bc5067a0b453a38&amp;dn=Endless+Legend+-+Tempest-HI2U&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 51,
+  "uploader": "dauphong",
+  "files": 5,
+  "time": 1476510580,
+  "description": "While much is known of the surface of Auriga, its oceans still guard many mysteries. Weathered fortresses, certainly creations of another age, still house a secretive people called the Fomorians who serve some ancient purpose. But while the nations of Auriga learn to meet, trade, and war on the seas, another force rises from beneath them. They are -- or is? - the Morgawr, a twisted and possessed people that seem to be symbiotic creations of sea life and other, unimaginable species. It will be necessary to confront them, defy them, and understand the new powers they harness. Or, equally likely, succumb to their strength",
+  "parsed": {
+    "xt": "urn:btih:b051287ed01cb13a96f8b0376bc5067a0b453a38",
+    "dn": "Endless Legend - Tempest-HI2U",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "b051287ed01cb13a96f8b0376bc5067a0b453a38",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        176,
+        81,
+        40,
+        126,
+        208,
+        28,
+        177,
+        58,
+        150,
+        248,
+        176,
+        55,
+        107,
+        197,
+        6,
+        122,
+        11,
+        69,
+        58,
+        56
+      ]
+    },
+    "name": "Endless Legend - Tempest-HI2U",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 115,
+  "peers": 138,
+  "last_updated": "2016-12-25T11:12:52.907Z"
+}

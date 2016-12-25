@@ -1,1 +1,63 @@
-{"title":"The Chainsmokers Ft. Charlee Inside Out.mp3","uid":15319967,"size":3761417,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:afca00162124a2f31a32680d43475032d84536d3&amp;dn=The+Chainsmokers+Ft.+Charlee+Inside+Out.mp3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":1,"uploader":"mark4705","files":1,"time":1468631878,"description":"The Chainsmokers Ft. Charlee Inside Out","torrent":{"xt":"urn:btih:afca00162124a2f31a32680d43475032d84536d3","amp;dn":"The+Chainsmokers+Ft.+Charlee+Inside+Out.mp3","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"afca00162124a2f31a32680d43475032d84536d3","infoHashBuffer":{"type":"Buffer","data":[175,202,0,22,33,36,162,243,26,50,104,13,67,71,80,50,216,69,54,211]},"announce":[],"urlList":[]}}
+{
+  "title": "The Chainsmokers Ft. Charlee Inside Out.mp3",
+  "uid": 15319967,
+  "size": 3761417,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:afca00162124a2f31a32680d43475032d84536d3&amp;dn=The+Chainsmokers+Ft.+Charlee+Inside+Out.mp3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 1,
+  "uploader": "mark4705",
+  "files": 1,
+  "time": 1468631878,
+  "description": "The Chainsmokers Ft. Charlee Inside Out",
+  "parsed": {
+    "xt": "urn:btih:afca00162124a2f31a32680d43475032d84536d3",
+    "dn": "The Chainsmokers Ft. Charlee Inside Out.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "afca00162124a2f31a32680d43475032d84536d3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        175,
+        202,
+        0,
+        22,
+        33,
+        36,
+        162,
+        243,
+        26,
+        50,
+        104,
+        13,
+        67,
+        71,
+        80,
+        50,
+        216,
+        69,
+        54,
+        211
+      ]
+    },
+    "name": "The Chainsmokers Ft. Charlee Inside Out.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 80,
+  "last_updated": "2016-12-25T11:09:22.034Z"
+}

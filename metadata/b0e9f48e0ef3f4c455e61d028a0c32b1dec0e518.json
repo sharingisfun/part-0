@@ -1,1 +1,61 @@
-{"title":"Princess Diaries 2 (2004)","uid":6780627,"size":733225007,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:b0e9f48e0ef3f4c455e61d028a0c32b1dec0e518&amp;dn=Princess+Diaries+2+%282004%29++&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":0,"uploader":"xbe","files":-1,"time":1319886359,"description":"IMDB - http://www.imdb.com/title/tt0368933/\nWikipedia - http://en.wikipedia.org/wiki/The_Princess_Diaries_2:_Royal_Engagement\nTrailer -\n\nNow settled in Genovia, Princess Mia faces a new revelation: she's being primed for an arranged marriage to a English suitor.\n\nGenre: Comedy | Drama | Family \nIMDB rating: 5.2/10\nDirected by: Garry Marshall\nStarring: Anne Hathaway, Callum Blue and Julie Andrews","torrent":{"xt":"urn:btih:b0e9f48e0ef3f4c455e61d028a0c32b1dec0e518","amp;dn":"Princess+Diaries+2+%282004%29++","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b0e9f48e0ef3f4c455e61d028a0c32b1dec0e518","infoHashBuffer":{"type":"Buffer","data":[176,233,244,142,14,243,244,196,85,230,29,2,138,12,50,177,222,192,229,24]},"announce":[],"urlList":[]}}
+{
+  "title": "Princess Diaries 2 (2004)",
+  "uid": 6780627,
+  "size": 733225007,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:b0e9f48e0ef3f4c455e61d028a0c32b1dec0e518&amp;dn=Princess+Diaries+2+%282004%29++&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 0,
+  "uploader": "xbe",
+  "files": -1,
+  "time": 1319886359,
+  "description": "IMDB - http://www.imdb.com/title/tt0368933/\nWikipedia - http://en.wikipedia.org/wiki/The_Princess_Diaries_2:_Royal_Engagement\nTrailer -\n\nNow settled in Genovia, Princess Mia faces a new revelation: she's being primed for an arranged marriage to a English suitor.\n\nGenre: Comedy | Drama | Family \nIMDB rating: 5.2/10\nDirected by: Garry Marshall\nStarring: Anne Hathaway, Callum Blue and Julie Andrews",
+  "parsed": {
+    "xt": "urn:btih:b0e9f48e0ef3f4c455e61d028a0c32b1dec0e518",
+    "dn": "Princess Diaries 2 (2004)  ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b0e9f48e0ef3f4c455e61d028a0c32b1dec0e518",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        176,
+        233,
+        244,
+        142,
+        14,
+        243,
+        244,
+        196,
+        85,
+        230,
+        29,
+        2,
+        138,
+        12,
+        50,
+        177,
+        222,
+        192,
+        229,
+        24
+      ]
+    },
+    "name": "Princess Diaries 2 (2004)  ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 20,
+  "last_updated": "2016-12-25T11:17:09.874Z"
+}

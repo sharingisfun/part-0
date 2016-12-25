@@ -1,1 +1,61 @@
-{"title":"Teen Wolf S03E21 HDTV x264-2HD[ettv]","uid":9694107,"size":262784111,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b1741d27df11bd92533e5ded1d106f3f514b6d1e&amp;dn=Teen+Wolf+S03E21+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":3,"uploader":"ettv","files":2,"time":1393909626,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:b1741d27df11bd92533e5ded1d106f3f514b6d1e","amp;dn":"Teen+Wolf+S03E21+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b1741d27df11bd92533e5ded1d106f3f514b6d1e","infoHashBuffer":{"type":"Buffer","data":[177,116,29,39,223,17,189,146,83,62,93,237,29,16,111,63,81,75,109,30]},"announce":[],"urlList":[]}}
+{
+  "title": "Teen Wolf S03E21 HDTV x264-2HD[ettv]",
+  "uid": 9694107,
+  "size": 262784111,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b1741d27df11bd92533e5ded1d106f3f514b6d1e&amp;dn=Teen+Wolf+S03E21+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1393909626,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:b1741d27df11bd92533e5ded1d106f3f514b6d1e",
+    "dn": "Teen Wolf S03E21 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b1741d27df11bd92533e5ded1d106f3f514b6d1e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        177,
+        116,
+        29,
+        39,
+        223,
+        17,
+        189,
+        146,
+        83,
+        62,
+        93,
+        237,
+        29,
+        16,
+        111,
+        63,
+        81,
+        75,
+        109,
+        30
+      ]
+    },
+    "name": "Teen Wolf S03E21 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 28,
+  "last_updated": "2016-12-25T11:20:58.670Z"
+}

@@ -1,1 +1,61 @@
-{"title":"MikroTik RouterOS v6.0 x86 (level 6 license) VMware Image","uid":8564632,"size":56568320,"categoryP":"applications","categoryS":"unix","magnet":"?xt=urn:btih:b01ff83dfe695d475c8b2d9752eb580aeb454766&amp;dn=MikroTik+RouterOS+v6.0+x86+%28level+6+license%29+VMware+Image&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":0,"uploader":"dontiq","files":-1,"time":1370972551,"description":"======================================\nMikroTik RouterOS v6.0 x86 VMware Image\ntested on vmware workstation v9.0.1 build-894247\n\n[b]just press &quot;Update License Key&quot; if you got invalid license message[/b]\n======================================\nhomepage : http://www.mikrotik.com\nv6.0 chagelog : http://www.mikrotik.com/download/CHANGELOG_6","torrent":{"xt":"urn:btih:b01ff83dfe695d475c8b2d9752eb580aeb454766","amp;dn":"MikroTik+RouterOS+v6.0+x86+%28level+6+license%29+VMware+Image","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b01ff83dfe695d475c8b2d9752eb580aeb454766","infoHashBuffer":{"type":"Buffer","data":[176,31,248,61,254,105,93,71,92,139,45,151,82,235,88,10,235,69,71,102]},"announce":[],"urlList":[]}}
+{
+  "title": "MikroTik RouterOS v6.0 x86 (level 6 license) VMware Image",
+  "uid": 8564632,
+  "size": 56568320,
+  "categoryP": "applications",
+  "categoryS": "unix",
+  "magnet": "?xt=urn:btih:b01ff83dfe695d475c8b2d9752eb580aeb454766&amp;dn=MikroTik+RouterOS+v6.0+x86+%28level+6+license%29+VMware+Image&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 0,
+  "uploader": "dontiq",
+  "files": -1,
+  "time": 1370972551,
+  "description": "======================================\nMikroTik RouterOS v6.0 x86 VMware Image\ntested on vmware workstation v9.0.1 build-894247\n\n[b]just press &quot;Update License Key&quot; if you got invalid license message[/b]\n======================================\nhomepage : http://www.mikrotik.com\nv6.0 chagelog : http://www.mikrotik.com/download/CHANGELOG_6",
+  "parsed": {
+    "xt": "urn:btih:b01ff83dfe695d475c8b2d9752eb580aeb454766",
+    "dn": "MikroTik RouterOS v6.0 x86 (level 6 license) VMware Image",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b01ff83dfe695d475c8b2d9752eb580aeb454766",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        176,
+        31,
+        248,
+        61,
+        254,
+        105,
+        93,
+        71,
+        92,
+        139,
+        45,
+        151,
+        82,
+        235,
+        88,
+        10,
+        235,
+        69,
+        71,
+        102
+      ]
+    },
+    "name": "MikroTik RouterOS v6.0 x86 (level 6 license) VMware Image",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 33,
+  "last_updated": "2016-12-25T11:11:36.582Z"
+}

@@ -1,1 +1,61 @@
-{"title":"The Following S03E07 HDTV XviD-FUM[ettv]","uid":11800997,"size":366272938,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b0b571a12c83c68ab92ca71bd86d2d5ac26fff98&amp;dn=The+Following+S03E07+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":5,"uploader":"ettv","files":2,"time":1428381489,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:b0b571a12c83c68ab92ca71bd86d2d5ac26fff98","amp;dn":"The+Following+S03E07+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b0b571a12c83c68ab92ca71bd86d2d5ac26fff98","infoHashBuffer":{"type":"Buffer","data":[176,181,113,161,44,131,198,138,185,44,167,27,216,109,45,90,194,111,255,152]},"announce":[],"urlList":[]}}
+{
+  "title": "The Following S03E07 HDTV XviD-FUM[ettv]",
+  "uid": 11800997,
+  "size": 366272938,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b0b571a12c83c68ab92ca71bd86d2d5ac26fff98&amp;dn=The+Following+S03E07+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1428381489,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:b0b571a12c83c68ab92ca71bd86d2d5ac26fff98",
+    "dn": "The Following S03E07 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b0b571a12c83c68ab92ca71bd86d2d5ac26fff98",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        176,
+        181,
+        113,
+        161,
+        44,
+        131,
+        198,
+        138,
+        185,
+        44,
+        167,
+        27,
+        216,
+        109,
+        45,
+        90,
+        194,
+        111,
+        255,
+        152
+      ]
+    },
+    "name": "The Following S03E07 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 2,
+  "last_updated": "2016-12-25T11:15:43.534Z"
+}

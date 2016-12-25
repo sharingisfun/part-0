@@ -1,1 +1,61 @@
-{"title":"Weezer - Blue Album [Deluxe Edition] [320kbps]","uid":4760152,"size":221822844,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:b0e45b40a5c309328007f206681b0887dfc9d1d3&amp;dn=Weezer+-+Blue+Album+%5BDeluxe+Edition%5D+%5B320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":6,"uploader":"fuckthesystem1","files":-1,"time":1236661076,"description":"Artist: Weezer\n\n\nAlbum: Blue Album [Deluxe Edition] [2 Discs]\n\n\nFormat: mp3\n\n\nBitrate: 320kbps CBR","torrent":{"xt":"urn:btih:b0e45b40a5c309328007f206681b0887dfc9d1d3","amp;dn":"Weezer+-+Blue+Album+%5BDeluxe+Edition%5D+%5B320kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b0e45b40a5c309328007f206681b0887dfc9d1d3","infoHashBuffer":{"type":"Buffer","data":[176,228,91,64,165,195,9,50,128,7,242,6,104,27,8,135,223,201,209,211]},"announce":[],"urlList":[]}}
+{
+  "title": "Weezer - Blue Album [Deluxe Edition] [320kbps]",
+  "uid": 4760152,
+  "size": 221822844,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:b0e45b40a5c309328007f206681b0887dfc9d1d3&amp;dn=Weezer+-+Blue+Album+%5BDeluxe+Edition%5D+%5B320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 6,
+  "uploader": "fuckthesystem1",
+  "files": -1,
+  "time": 1236661076,
+  "description": "Artist: Weezer\n\n\nAlbum: Blue Album [Deluxe Edition] [2 Discs]\n\n\nFormat: mp3\n\n\nBitrate: 320kbps CBR",
+  "parsed": {
+    "xt": "urn:btih:b0e45b40a5c309328007f206681b0887dfc9d1d3",
+    "dn": "Weezer - Blue Album [Deluxe Edition] [320kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b0e45b40a5c309328007f206681b0887dfc9d1d3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        176,
+        228,
+        91,
+        64,
+        165,
+        195,
+        9,
+        50,
+        128,
+        7,
+        242,
+        6,
+        104,
+        27,
+        8,
+        135,
+        223,
+        201,
+        209,
+        211
+      ]
+    },
+    "name": "Weezer - Blue Album [Deluxe Edition] [320kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 63,
+  "peers": 0,
+  "last_updated": "2016-12-25T11:17:01.860Z"
+}

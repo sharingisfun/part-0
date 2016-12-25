@@ -1,1 +1,61 @@
-{"title":"Crash Bandicoot 1 - 2 - 3 - Crash Team Racing - Crash Bash","uid":5015228,"size":1191544839,"categoryP":"games","categoryS":"psx","magnet":"?xt=urn:btih:afb772bda3933792887bed5f1f79e3cbecea1a3b&amp;dn=Crash+Bandicoot+1+-+2+-+3+-+Crash+Team+Racing+-+Crash+Bash&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":13,"uploader":"thenoobish","files":5,"time":1248192857,"description":"With:\nCrash Bandicoot 1\nCrash Bandicoot 2\nCrash Bandicoot 3\nCrash Team Racing\nCrash Bash\n\n\nps1/psx games\n\ndownloaded from mininova &amp; tntvillage\n\nenjoy!","torrent":{"xt":"urn:btih:afb772bda3933792887bed5f1f79e3cbecea1a3b","amp;dn":"Crash+Bandicoot+1+-+2+-+3+-+Crash+Team+Racing+-+Crash+Bash","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"afb772bda3933792887bed5f1f79e3cbecea1a3b","infoHashBuffer":{"type":"Buffer","data":[175,183,114,189,163,147,55,146,136,123,237,95,31,121,227,203,236,234,26,59]},"announce":[],"urlList":[]}}
+{
+  "title": "Crash Bandicoot 1 - 2 - 3 - Crash Team Racing - Crash Bash",
+  "uid": 5015228,
+  "size": 1191544839,
+  "categoryP": "games",
+  "categoryS": "psx",
+  "magnet": "?xt=urn:btih:afb772bda3933792887bed5f1f79e3cbecea1a3b&amp;dn=Crash+Bandicoot+1+-+2+-+3+-+Crash+Team+Racing+-+Crash+Bash&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 13,
+  "uploader": "thenoobish",
+  "files": 5,
+  "time": 1248192857,
+  "description": "With:\nCrash Bandicoot 1\nCrash Bandicoot 2\nCrash Bandicoot 3\nCrash Team Racing\nCrash Bash\n\n\nps1/psx games\n\ndownloaded from mininova &amp; tntvillage\n\nenjoy!",
+  "parsed": {
+    "xt": "urn:btih:afb772bda3933792887bed5f1f79e3cbecea1a3b",
+    "dn": "Crash Bandicoot 1 - 2 - 3 - Crash Team Racing - Crash Bash",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "afb772bda3933792887bed5f1f79e3cbecea1a3b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        175,
+        183,
+        114,
+        189,
+        163,
+        147,
+        55,
+        146,
+        136,
+        123,
+        237,
+        95,
+        31,
+        121,
+        227,
+        203,
+        236,
+        234,
+        26,
+        59
+      ]
+    },
+    "name": "Crash Bandicoot 1 - 2 - 3 - Crash Team Racing - Crash Bash",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 84,
+  "peers": 50,
+  "last_updated": "2016-12-25T11:09:05.909Z"
+}

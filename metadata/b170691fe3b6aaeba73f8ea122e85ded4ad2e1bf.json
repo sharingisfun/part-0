@@ -1,1 +1,61 @@
-{"title":"Game of Thrones S04E04 HDTV x264-KILLERS[ettv]","uid":10055569,"size":368977091,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b170691fe3b6aaeba73f8ea122e85ded4ad2e1bf&amp;dn=Game+of+Thrones+S04E04+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":731,"leechers":28,"uploader":"ettv","files":2,"time":1398658844,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:b170691fe3b6aaeba73f8ea122e85ded4ad2e1bf","amp;dn":"Game+of+Thrones+S04E04+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b170691fe3b6aaeba73f8ea122e85ded4ad2e1bf","infoHashBuffer":{"type":"Buffer","data":[177,112,105,31,227,182,170,235,167,63,142,161,34,232,93,237,74,210,225,191]},"announce":[],"urlList":[]}}
+{
+  "title": "Game of Thrones S04E04 HDTV x264-KILLERS[ettv]",
+  "uid": 10055569,
+  "size": 368977091,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b170691fe3b6aaeba73f8ea122e85ded4ad2e1bf&amp;dn=Game+of+Thrones+S04E04+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 731,
+  "leechers": 28,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1398658844,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:b170691fe3b6aaeba73f8ea122e85ded4ad2e1bf",
+    "dn": "Game of Thrones S04E04 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b170691fe3b6aaeba73f8ea122e85ded4ad2e1bf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        177,
+        112,
+        105,
+        31,
+        227,
+        182,
+        170,
+        235,
+        167,
+        63,
+        142,
+        161,
+        34,
+        232,
+        93,
+        237,
+        74,
+        210,
+        225,
+        191
+      ]
+    },
+    "name": "Game of Thrones S04E04 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 759,
+  "peers": 113,
+  "last_updated": "2016-12-25T11:20:52.655Z"
+}

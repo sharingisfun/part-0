@@ -1,1 +1,61 @@
-{"title":"The Fast and The Furious - Soundtrack Collection 1 thur 6","uid":8817096,"size":563130627,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:b015c0e5bb2f9d34c8bd48cf579cf20839e44d40&amp;dn=The+Fast+and+The+Furious+-+Soundtrack+Collection+1+thur+6&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":7,"uploader":"metequila","files":92,"time":1376612035,"description":"the fast and the furious collection 1-6","torrent":{"xt":"urn:btih:b015c0e5bb2f9d34c8bd48cf579cf20839e44d40","amp;dn":"The+Fast+and+The+Furious+-+Soundtrack+Collection+1+thur+6","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b015c0e5bb2f9d34c8bd48cf579cf20839e44d40","infoHashBuffer":{"type":"Buffer","data":[176,21,192,229,187,47,157,52,200,189,72,207,87,156,242,8,57,228,77,64]},"announce":[],"urlList":[]}}
+{
+  "title": "The Fast and The Furious - Soundtrack Collection 1 thur 6",
+  "uid": 8817096,
+  "size": 563130627,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:b015c0e5bb2f9d34c8bd48cf579cf20839e44d40&amp;dn=The+Fast+and+The+Furious+-+Soundtrack+Collection+1+thur+6&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 7,
+  "uploader": "metequila",
+  "files": 92,
+  "time": 1376612035,
+  "description": "the fast and the furious collection 1-6",
+  "parsed": {
+    "xt": "urn:btih:b015c0e5bb2f9d34c8bd48cf579cf20839e44d40",
+    "dn": "The Fast and The Furious - Soundtrack Collection 1 thur 6",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b015c0e5bb2f9d34c8bd48cf579cf20839e44d40",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        176,
+        21,
+        192,
+        229,
+        187,
+        47,
+        157,
+        52,
+        200,
+        189,
+        72,
+        207,
+        87,
+        156,
+        242,
+        8,
+        57,
+        228,
+        77,
+        64
+      ]
+    },
+    "name": "The Fast and The Furious - Soundtrack Collection 1 thur 6",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 47,
+  "last_updated": "2016-12-25T11:11:20.522Z"
+}

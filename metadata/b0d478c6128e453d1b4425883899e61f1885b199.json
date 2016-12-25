@@ -1,1 +1,61 @@
-{"title":"[JAST USA] [ENGLISH] STEINS;GATE","uid":9879648,"size":2453169766,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:b0d478c6128e453d1b4425883899e61f1885b199&amp;dn=%5BJAST+USA%5D+%5BENGLISH%5D+STEINS%3BGATE&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":3,"uploader":"ATX008","files":-1,"time":1396525735,"description":"The story of Steins;Gate takes place in Akihabara and is about a group of friends who have customized their microwave into a device that can send text messages to the past. As they perform different experiments, an organization named SERN who has been doing their own research on time travel tracks them down and now the characters have to find a way to avoid being captured by them.\n\n\nIstall Instructions : \n\n\n-Run the setup.exe to install.","torrent":{"xt":"urn:btih:b0d478c6128e453d1b4425883899e61f1885b199","amp;dn":"%5BJAST+USA%5D+%5BENGLISH%5D+STEINS%3BGATE","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b0d478c6128e453d1b4425883899e61f1885b199","infoHashBuffer":{"type":"Buffer","data":[176,212,120,198,18,142,69,61,27,68,37,136,56,153,230,31,24,133,177,153]},"announce":[],"urlList":[]}}
+{
+  "title": "[JAST USA] [ENGLISH] STEINS;GATE",
+  "uid": 9879648,
+  "size": 2453169766,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:b0d478c6128e453d1b4425883899e61f1885b199&amp;dn=%5BJAST+USA%5D+%5BENGLISH%5D+STEINS%3BGATE&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 3,
+  "uploader": "ATX008",
+  "files": -1,
+  "time": 1396525735,
+  "description": "The story of Steins;Gate takes place in Akihabara and is about a group of friends who have customized their microwave into a device that can send text messages to the past. As they perform different experiments, an organization named SERN who has been doing their own research on time travel tracks them down and now the characters have to find a way to avoid being captured by them.\n\n\nIstall Instructions : \n\n\n-Run the setup.exe to install.",
+  "parsed": {
+    "xt": "urn:btih:b0d478c6128e453d1b4425883899e61f1885b199",
+    "dn": "[JAST USA] [ENGLISH] STEINS;GATE",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b0d478c6128e453d1b4425883899e61f1885b199",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        176,
+        212,
+        120,
+        198,
+        18,
+        142,
+        69,
+        61,
+        27,
+        68,
+        37,
+        136,
+        56,
+        153,
+        230,
+        31,
+        24,
+        133,
+        177,
+        153
+      ]
+    },
+    "name": "[JAST USA] [ENGLISH] STEINS;GATE",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 20,
+  "last_updated": "2016-12-25T11:16:31.756Z"
+}

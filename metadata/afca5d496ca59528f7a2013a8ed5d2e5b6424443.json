@@ -1,1 +1,61 @@
-{"title":"grace and frankie S01E02 WEBRIP x264 AHMED","uid":11899174,"size":281212206,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:afca5d496ca59528f7a2013a8ed5d2e5b6424443&amp;dn=grace+and+frankie+S01E02+WEBRIP+x264+AHMED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":111,"leechers":5,"uploader":"67mb","files":1,"time":1431257552,"description":"grace and frankie S01E02 WEBRIP x264 AHMED","torrent":{"xt":"urn:btih:afca5d496ca59528f7a2013a8ed5d2e5b6424443","amp;dn":"grace+and+frankie+S01E02+WEBRIP+x264+AHMED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"afca5d496ca59528f7a2013a8ed5d2e5b6424443","infoHashBuffer":{"type":"Buffer","data":[175,202,93,73,108,165,149,40,247,162,1,58,142,213,210,229,182,66,68,67]},"announce":[],"urlList":[]}}
+{
+  "title": "grace and frankie S01E02 WEBRIP x264 AHMED",
+  "uid": 11899174,
+  "size": 281212206,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:afca5d496ca59528f7a2013a8ed5d2e5b6424443&amp;dn=grace+and+frankie+S01E02+WEBRIP+x264+AHMED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 111,
+  "leechers": 5,
+  "uploader": "67mb",
+  "files": 1,
+  "time": 1431257552,
+  "description": "grace and frankie S01E02 WEBRIP x264 AHMED",
+  "parsed": {
+    "xt": "urn:btih:afca5d496ca59528f7a2013a8ed5d2e5b6424443",
+    "dn": "grace and frankie S01E02 WEBRIP x264 AHMED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "afca5d496ca59528f7a2013a8ed5d2e5b6424443",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        175,
+        202,
+        93,
+        73,
+        108,
+        165,
+        149,
+        40,
+        247,
+        162,
+        1,
+        58,
+        142,
+        213,
+        210,
+        229,
+        182,
+        66,
+        68,
+        67
+      ]
+    },
+    "name": "grace and frankie S01E02 WEBRIP x264 AHMED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 116,
+  "peers": 17,
+  "last_updated": "2016-12-25T11:09:26.114Z"
+}

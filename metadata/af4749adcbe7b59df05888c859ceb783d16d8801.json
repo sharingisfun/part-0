@@ -1,1 +1,61 @@
-{"title":"Sound effects and samples library (28+ CDs) for production, radi","uid":6257212,"size":1490834437,"categoryP":"audio","categoryS":"sound_clips","magnet":"?xt=urn:btih:af4749adcbe7b59df05888c859ceb783d16d8801&amp;dn=Sound+effects+and+samples+library+%2828%2B+CDs%29+for+production%2C+radi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":5,"uploader":"glenstar","files":1,"time":1300580133,"description":"Over 28 CDs with all kinds of production sound effects from wooshes and beeps through to animal noises and vehicles, guns and traffic, you name it.\n\nHandy for radio, jingles, video soundtracks etc","torrent":{"xt":"urn:btih:af4749adcbe7b59df05888c859ceb783d16d8801","amp;dn":"Sound+effects+and+samples+library+%2828%2B+CDs%29+for+production%2C+radi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"af4749adcbe7b59df05888c859ceb783d16d8801","infoHashBuffer":{"type":"Buffer","data":[175,71,73,173,203,231,181,157,240,88,136,200,89,206,183,131,209,109,136,1]},"announce":[],"urlList":[]}}
+{
+  "title": "Sound effects and samples library (28+ CDs) for production, radi",
+  "uid": 6257212,
+  "size": 1490834437,
+  "categoryP": "audio",
+  "categoryS": "sound_clips",
+  "magnet": "?xt=urn:btih:af4749adcbe7b59df05888c859ceb783d16d8801&amp;dn=Sound+effects+and+samples+library+%2828%2B+CDs%29+for+production%2C+radi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 5,
+  "uploader": "glenstar",
+  "files": 1,
+  "time": 1300580133,
+  "description": "Over 28 CDs with all kinds of production sound effects from wooshes and beeps through to animal noises and vehicles, guns and traffic, you name it.\n\nHandy for radio, jingles, video soundtracks etc",
+  "parsed": {
+    "xt": "urn:btih:af4749adcbe7b59df05888c859ceb783d16d8801",
+    "dn": "Sound effects and samples library (28  CDs) for production, radi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "af4749adcbe7b59df05888c859ceb783d16d8801",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        175,
+        71,
+        73,
+        173,
+        203,
+        231,
+        181,
+        157,
+        240,
+        88,
+        136,
+        200,
+        89,
+        206,
+        183,
+        131,
+        209,
+        109,
+        136,
+        1
+      ]
+    },
+    "name": "Sound effects and samples library (28  CDs) for production, radi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 144,
+  "last_updated": "2016-12-25T11:06:43.496Z"
+}

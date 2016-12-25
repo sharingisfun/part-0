@@ -1,1 +1,61 @@
-{"title":"Resident Evil 3 (PC)","uid":3736224,"size":507156480,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:af8779429a16a6d75a07f84a7d8203d87c14ddfd&amp;dn=Resident+Evil+3+%28PC%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":83,"leechers":3,"uploader":"neomiko","files":1,"time":1183928663,"description":"Resident Evil 3 for PC","torrent":{"xt":"urn:btih:af8779429a16a6d75a07f84a7d8203d87c14ddfd","amp;dn":"Resident+Evil+3+%28PC%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"af8779429a16a6d75a07f84a7d8203d87c14ddfd","infoHashBuffer":{"type":"Buffer","data":[175,135,121,66,154,22,166,215,90,7,248,74,125,130,3,216,124,20,221,253]},"announce":[],"urlList":[]}}
+{
+  "title": "Resident Evil 3 (PC)",
+  "uid": 3736224,
+  "size": 507156480,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:af8779429a16a6d75a07f84a7d8203d87c14ddfd&amp;dn=Resident+Evil+3+%28PC%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 83,
+  "leechers": 3,
+  "uploader": "neomiko",
+  "files": 1,
+  "time": 1183928663,
+  "description": "Resident Evil 3 for PC",
+  "parsed": {
+    "xt": "urn:btih:af8779429a16a6d75a07f84a7d8203d87c14ddfd",
+    "dn": "Resident Evil 3 (PC)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "af8779429a16a6d75a07f84a7d8203d87c14ddfd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        175,
+        135,
+        121,
+        66,
+        154,
+        22,
+        166,
+        215,
+        90,
+        7,
+        248,
+        74,
+        125,
+        130,
+        3,
+        216,
+        124,
+        20,
+        221,
+        253
+      ]
+    },
+    "name": "Resident Evil 3 (PC)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 86,
+  "peers": 31,
+  "last_updated": "2016-12-25T11:08:31.818Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Henrique e Juliano - Ao Vivo em Palmas - CD 2013","uid":8888447,"size":113114652,"categoryP":"audio","categoryS":"audio_books","magnet":"?xt=urn:btih:af4d6472ee9e4cea065d4302f7d84ffd9d5c5851&amp;dn=Henrique+e+Juliano+-+Ao+Vivo+em+Palmas+-+CD+2013&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":65,"leechers":4,"uploader":"inovarte","files":15,"time":1378523406,"description":"Henrique e Juliano Ao vivo em palmas, o Cd que bombou no ano de 2013 Aqui no the pirate bay.","torrent":{"xt":"urn:btih:af4d6472ee9e4cea065d4302f7d84ffd9d5c5851","amp;dn":"Henrique+e+Juliano+-+Ao+Vivo+em+Palmas+-+CD+2013","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"af4d6472ee9e4cea065d4302f7d84ffd9d5c5851","infoHashBuffer":{"type":"Buffer","data":[175,77,100,114,238,158,76,234,6,93,67,2,247,216,79,253,157,92,88,81]},"announce":[],"urlList":[]}}
+{
+  "title": "Henrique e Juliano - Ao Vivo em Palmas - CD 2013",
+  "uid": 8888447,
+  "size": 113114652,
+  "categoryP": "audio",
+  "categoryS": "audio_books",
+  "magnet": "?xt=urn:btih:af4d6472ee9e4cea065d4302f7d84ffd9d5c5851&amp;dn=Henrique+e+Juliano+-+Ao+Vivo+em+Palmas+-+CD+2013&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 65,
+  "leechers": 4,
+  "uploader": "inovarte",
+  "files": 15,
+  "time": 1378523406,
+  "description": "Henrique e Juliano Ao vivo em palmas, o Cd que bombou no ano de 2013 Aqui no the pirate bay.",
+  "parsed": {
+    "xt": "urn:btih:af4d6472ee9e4cea065d4302f7d84ffd9d5c5851",
+    "dn": "Henrique e Juliano - Ao Vivo em Palmas - CD 2013",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "af4d6472ee9e4cea065d4302f7d84ffd9d5c5851",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        175,
+        77,
+        100,
+        114,
+        238,
+        158,
+        76,
+        234,
+        6,
+        93,
+        67,
+        2,
+        247,
+        216,
+        79,
+        253,
+        157,
+        92,
+        88,
+        81
+      ]
+    },
+    "name": "Henrique e Juliano - Ao Vivo em Palmas - CD 2013",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 35,
+  "last_updated": "2016-12-25T11:06:47.508Z"
+}

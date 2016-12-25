@@ -1,1 +1,61 @@
-{"title":"Borgeous - Breathe (Original Mix)","uid":10873415,"size":12640053,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:af0f69a470b64182a267d6570f51a7c870aabe39&amp;dn=Borgeous+-+Breathe+%28Original+Mix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":2,"uploader":"pamabego","files":-1,"time":1408981825,"description":" &lt;a href=&quot;http://www.beatport.com/release/breathe/1354455&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.beatport.com/release/breathe/1354455&lt;/a&gt;\n\nFormat                                   : MPEG Audio\nFile size                                : 12.1 MiB\nDuration                                 : 5mn 15s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 320 Kbps\nAlbum                                    : Breathe [DOORN169]\nTrack name                               : Breathe (Original Mix)\nPerformer                                : Borgeous\nGenre                                    : Electro House\nRecorded date                            : 2014\nWriting library                          : LAME3.93 \nBPM                                      : 128\nCover                                    : Yes\nCover type                               : Cover (front)\nCover MIME                               : image/jpg\n\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nDuration                                 : 5mn 15s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 12.0 MiB (100%)\nWriting library                          : LAME3.93 \nEncoding settings                        : -m s -V 4 -q 2 -lowpass 21.4\n\n","torrent":{"xt":"urn:btih:af0f69a470b64182a267d6570f51a7c870aabe39","amp;dn":"Borgeous+-+Breathe+%28Original+Mix%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"af0f69a470b64182a267d6570f51a7c870aabe39","infoHashBuffer":{"type":"Buffer","data":[175,15,105,164,112,182,65,130,162,103,214,87,15,81,167,200,112,170,190,57]},"announce":[],"urlList":[]}}
+{
+  "title": "Borgeous - Breathe (Original Mix)",
+  "uid": 10873415,
+  "size": 12640053,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:af0f69a470b64182a267d6570f51a7c870aabe39&amp;dn=Borgeous+-+Breathe+%28Original+Mix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 2,
+  "uploader": "pamabego",
+  "files": -1,
+  "time": 1408981825,
+  "description": " &lt;a href=&quot;http://www.beatport.com/release/breathe/1354455&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.beatport.com/release/breathe/1354455&lt;/a&gt;\n\nFormat                                   : MPEG Audio\nFile size                                : 12.1 MiB\nDuration                                 : 5mn 15s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 320 Kbps\nAlbum                                    : Breathe [DOORN169]\nTrack name                               : Breathe (Original Mix)\nPerformer                                : Borgeous\nGenre                                    : Electro House\nRecorded date                            : 2014\nWriting library                          : LAME3.93 \nBPM                                      : 128\nCover                                    : Yes\nCover type                               : Cover (front)\nCover MIME                               : image/jpg\n\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nDuration                                 : 5mn 15s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 12.0 MiB (100%)\nWriting library                          : LAME3.93 \nEncoding settings                        : -m s -V 4 -q 2 -lowpass 21.4\n\n",
+  "parsed": {
+    "xt": "urn:btih:af0f69a470b64182a267d6570f51a7c870aabe39",
+    "dn": "Borgeous - Breathe (Original Mix)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "af0f69a470b64182a267d6570f51a7c870aabe39",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        175,
+        15,
+        105,
+        164,
+        112,
+        182,
+        65,
+        130,
+        162,
+        103,
+        214,
+        87,
+        15,
+        81,
+        167,
+        200,
+        112,
+        170,
+        190,
+        57
+      ]
+    },
+    "name": "Borgeous - Breathe (Original Mix)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 2,
+  "last_updated": "2016-12-25T11:05:15.217Z"
+}

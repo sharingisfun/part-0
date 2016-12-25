@@ -1,1 +1,61 @@
-{"title":"Cosmos.A.Space.Time.Odyssey.S01E02.PROPER.720p.HDTV.X264-DIMENSI","uid":9775791,"size":1346233417,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:aff5d3312569b12c7db656ac01a774aa311bffe0&amp;dn=Cosmos.A.Space.Time.Odyssey.S01E02.PROPER.720p.HDTV.X264-DIMENSI&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":119,"leechers":7,"uploader":".SceNe.","files":1,"time":1395030820,"description":"Cosmos.A.Space.Time.Odyssey.S01E02.PROPER.720p.HDTV.X264-DIMENSION.mkv","torrent":{"xt":"urn:btih:aff5d3312569b12c7db656ac01a774aa311bffe0","amp;dn":"Cosmos.A.Space.Time.Odyssey.S01E02.PROPER.720p.HDTV.X264-DIMENSI","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"aff5d3312569b12c7db656ac01a774aa311bffe0","infoHashBuffer":{"type":"Buffer","data":[175,245,211,49,37,105,177,44,125,182,86,172,1,167,116,170,49,27,255,224]},"announce":[],"urlList":[]}}
+{
+  "title": "Cosmos.A.Space.Time.Odyssey.S01E02.PROPER.720p.HDTV.X264-DIMENSI",
+  "uid": 9775791,
+  "size": 1346233417,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:aff5d3312569b12c7db656ac01a774aa311bffe0&amp;dn=Cosmos.A.Space.Time.Odyssey.S01E02.PROPER.720p.HDTV.X264-DIMENSI&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 119,
+  "leechers": 7,
+  "uploader": ".SceNe.",
+  "files": 1,
+  "time": 1395030820,
+  "description": "Cosmos.A.Space.Time.Odyssey.S01E02.PROPER.720p.HDTV.X264-DIMENSION.mkv",
+  "parsed": {
+    "xt": "urn:btih:aff5d3312569b12c7db656ac01a774aa311bffe0",
+    "dn": "Cosmos.A.Space.Time.Odyssey.S01E02.PROPER.720p.HDTV.X264-DIMENSI",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "aff5d3312569b12c7db656ac01a774aa311bffe0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        175,
+        245,
+        211,
+        49,
+        37,
+        105,
+        177,
+        44,
+        125,
+        182,
+        86,
+        172,
+        1,
+        167,
+        116,
+        170,
+        49,
+        27,
+        255,
+        224
+      ]
+    },
+    "name": "Cosmos.A.Space.Time.Odyssey.S01E02.PROPER.720p.HDTV.X264-DIMENSI",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 126,
+  "peers": 19,
+  "last_updated": "2016-12-25T11:10:16.280Z"
+}

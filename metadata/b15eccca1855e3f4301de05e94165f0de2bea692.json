@@ -1,1 +1,61 @@
-{"title":"CBT Nuggets - Wireshark with Keith Barker","uid":8747940,"size":1930383145,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:b15eccca1855e3f4301de05e94165f0de2bea692&amp;dn=CBT+Nuggets+-+Wireshark+with+Keith+Barker&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":9,"uploader":"angelos2225","files":-1,"time":1374969536,"description":"CBT Nuggets Wireshark with Keith Barker\n=========================================\n\nThis video training with Keith Barker covers Wireshark, the world's most popular protocol analyzer, including topics such as installing Wireshark, navigating in the GUI, customizing and using it as a troubleshooting tool and more.\n\nRecommended Skills\n\n=Familiarity with networking concepts and protocols\n=Network+ (equivalent knowledge) or greater\n\nRecommended Equipment\n=Windows, Linux or Mac OS to install Wireshark\n\nRelated Job Functions:\n=Network professionals of all levels\n=Security experts\n=Developers\n=Educators\n\nWhether you need to perform a security application analysis or troubleshoot something on a network, Wireshark is the tool for you! The popular, open-source tool is dubbed the &quot;world's foremost network protocol analyzer.&quot; (It's also free and is a cross-platform tool!) In this video training, CBT Nuggets trainer Keith Barker walks you through everything you need to know about this versatile analyzer. He'll teach you how to install Wireshark, navigate it, and utilize it to best fit your needs. Topics he covers include: navigating the graphical user interface (GUI), creating profiles, filtering, customization and more. Get ready to learn Wireshark inside-out and how to use it to your benefit!\n\nTotal Series Duration: 7 hours, 56 minutes","torrent":{"xt":"urn:btih:b15eccca1855e3f4301de05e94165f0de2bea692","amp;dn":"CBT+Nuggets+-+Wireshark+with+Keith+Barker","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b15eccca1855e3f4301de05e94165f0de2bea692","infoHashBuffer":{"type":"Buffer","data":[177,94,204,202,24,85,227,244,48,29,224,94,148,22,95,13,226,190,166,146]},"announce":[],"urlList":[]}}
+{
+  "title": "CBT Nuggets - Wireshark with Keith Barker",
+  "uid": 8747940,
+  "size": 1930383145,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:b15eccca1855e3f4301de05e94165f0de2bea692&amp;dn=CBT+Nuggets+-+Wireshark+with+Keith+Barker&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 9,
+  "uploader": "angelos2225",
+  "files": -1,
+  "time": 1374969536,
+  "description": "CBT Nuggets Wireshark with Keith Barker\n=========================================\n\nThis video training with Keith Barker covers Wireshark, the world's most popular protocol analyzer, including topics such as installing Wireshark, navigating in the GUI, customizing and using it as a troubleshooting tool and more.\n\nRecommended Skills\n\n=Familiarity with networking concepts and protocols\n=Network+ (equivalent knowledge) or greater\n\nRecommended Equipment\n=Windows, Linux or Mac OS to install Wireshark\n\nRelated Job Functions:\n=Network professionals of all levels\n=Security experts\n=Developers\n=Educators\n\nWhether you need to perform a security application analysis or troubleshoot something on a network, Wireshark is the tool for you! The popular, open-source tool is dubbed the &quot;world's foremost network protocol analyzer.&quot; (It's also free and is a cross-platform tool!) In this video training, CBT Nuggets trainer Keith Barker walks you through everything you need to know about this versatile analyzer. He'll teach you how to install Wireshark, navigate it, and utilize it to best fit your needs. Topics he covers include: navigating the graphical user interface (GUI), creating profiles, filtering, customization and more. Get ready to learn Wireshark inside-out and how to use it to your benefit!\n\nTotal Series Duration: 7 hours, 56 minutes",
+  "parsed": {
+    "xt": "urn:btih:b15eccca1855e3f4301de05e94165f0de2bea692",
+    "dn": "CBT Nuggets - Wireshark with Keith Barker",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b15eccca1855e3f4301de05e94165f0de2bea692",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        177,
+        94,
+        204,
+        202,
+        24,
+        85,
+        227,
+        244,
+        48,
+        29,
+        224,
+        94,
+        148,
+        22,
+        95,
+        13,
+        226,
+        190,
+        166,
+        146
+      ]
+    },
+    "name": "CBT Nuggets - Wireshark with Keith Barker",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 51,
+  "last_updated": "2016-12-25T11:20:24.576Z"
+}

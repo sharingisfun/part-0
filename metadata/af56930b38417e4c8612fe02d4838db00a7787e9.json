@@ -1,1 +1,63 @@
-{"title":"Bon Iver - For Emma, Forever Ago - 320kbps","uid":15410962,"size":88404521,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:af56930b38417e4c8612fe02d4838db00a7787e9&amp;dn=Bon+Iver+-+For+Emma%2C+Forever+Ago+-+320kbps&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":1,"uploader":null,"files":9,"time":1469555550,"description":"Bon Iver - For Emma, Forever Ago - 320kbps","torrent":{"xt":"urn:btih:af56930b38417e4c8612fe02d4838db00a7787e9","amp;dn":"Bon+Iver+-+For+Emma%2C+Forever+Ago+-+320kbps","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"af56930b38417e4c8612fe02d4838db00a7787e9","infoHashBuffer":{"type":"Buffer","data":[175,86,147,11,56,65,126,76,134,18,254,2,212,131,141,176,10,119,135,233]},"announce":[],"urlList":[]}}
+{
+  "title": "Bon Iver - For Emma, Forever Ago - 320kbps",
+  "uid": 15410962,
+  "size": 88404521,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:af56930b38417e4c8612fe02d4838db00a7787e9&amp;dn=Bon+Iver+-+For+Emma%2C+Forever+Ago+-+320kbps&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 1,
+  "uploader": null,
+  "files": 9,
+  "time": 1469555550,
+  "description": "Bon Iver - For Emma, Forever Ago - 320kbps",
+  "parsed": {
+    "xt": "urn:btih:af56930b38417e4c8612fe02d4838db00a7787e9",
+    "dn": "Bon Iver - For Emma, Forever Ago - 320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "af56930b38417e4c8612fe02d4838db00a7787e9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        175,
+        86,
+        147,
+        11,
+        56,
+        65,
+        126,
+        76,
+        134,
+        18,
+        254,
+        2,
+        212,
+        131,
+        141,
+        176,
+        10,
+        119,
+        135,
+        233
+      ]
+    },
+    "name": "Bon Iver - For Emma, Forever Ago - 320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 173,
+  "last_updated": "2016-12-25T11:06:55.531Z"
+}

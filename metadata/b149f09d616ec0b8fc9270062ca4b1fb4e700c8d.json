@@ -1,1 +1,61 @@
-{"title":"Pretty.Little.Liars.S06E03.HDTV.x264-LOL[ettv]","uid":12025221,"size":191503348,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b149f09d616ec0b8fc9270062ca4b1fb4e700c8d&amp;dn=Pretty.Little.Liars.S06E03.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":321,"leechers":11,"uploader":"ettv","files":3,"time":1434510004,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:b149f09d616ec0b8fc9270062ca4b1fb4e700c8d","amp;dn":"Pretty.Little.Liars.S06E03.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b149f09d616ec0b8fc9270062ca4b1fb4e700c8d","infoHashBuffer":{"type":"Buffer","data":[177,73,240,157,97,110,192,184,252,146,112,6,44,164,177,251,78,112,12,141]},"announce":[],"urlList":[]}}
+{
+  "title": "Pretty.Little.Liars.S06E03.HDTV.x264-LOL[ettv]",
+  "uid": 12025221,
+  "size": 191503348,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b149f09d616ec0b8fc9270062ca4b1fb4e700c8d&amp;dn=Pretty.Little.Liars.S06E03.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 321,
+  "leechers": 11,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1434510004,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:b149f09d616ec0b8fc9270062ca4b1fb4e700c8d",
+    "dn": "Pretty.Little.Liars.S06E03.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b149f09d616ec0b8fc9270062ca4b1fb4e700c8d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        177,
+        73,
+        240,
+        157,
+        97,
+        110,
+        192,
+        184,
+        252,
+        146,
+        112,
+        6,
+        44,
+        164,
+        177,
+        251,
+        78,
+        112,
+        12,
+        141
+      ]
+    },
+    "name": "Pretty.Little.Liars.S06E03.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 332,
+  "peers": 256,
+  "last_updated": "2016-12-25T11:19:42.449Z"
+}

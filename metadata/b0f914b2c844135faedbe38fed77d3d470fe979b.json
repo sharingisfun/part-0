@@ -1,1 +1,61 @@
-{"title":"2014 - Vance Joy - Dream Your Life Away","uid":11682376,"size":105445157,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:b0f914b2c844135faedbe38fed77d3d470fe979b&amp;dn=2014+-+Vance+Joy+-+Dream+Your+Life+Away&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":90,"leechers":2,"uploader":null,"files":13,"time":1423159693,"description":"vj","torrent":{"xt":"urn:btih:b0f914b2c844135faedbe38fed77d3d470fe979b","amp;dn":"2014+-+Vance+Joy+-+Dream+Your+Life+Away","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b0f914b2c844135faedbe38fed77d3d470fe979b","infoHashBuffer":{"type":"Buffer","data":[176,249,20,178,200,68,19,95,174,219,227,143,237,119,211,212,112,254,151,155]},"announce":[],"urlList":[]}}
+{
+  "title": "2014 - Vance Joy - Dream Your Life Away",
+  "uid": 11682376,
+  "size": 105445157,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:b0f914b2c844135faedbe38fed77d3d470fe979b&amp;dn=2014+-+Vance+Joy+-+Dream+Your+Life+Away&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 90,
+  "leechers": 2,
+  "uploader": null,
+  "files": 13,
+  "time": 1423159693,
+  "description": "vj",
+  "parsed": {
+    "xt": "urn:btih:b0f914b2c844135faedbe38fed77d3d470fe979b",
+    "dn": "2014 - Vance Joy - Dream Your Life Away",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b0f914b2c844135faedbe38fed77d3d470fe979b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        176,
+        249,
+        20,
+        178,
+        200,
+        68,
+        19,
+        95,
+        174,
+        219,
+        227,
+        143,
+        237,
+        119,
+        211,
+        212,
+        112,
+        254,
+        151,
+        155
+      ]
+    },
+    "name": "2014 - Vance Joy - Dream Your Life Away",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 92,
+  "peers": 14,
+  "last_updated": "2016-12-25T11:17:25.944Z"
+}
