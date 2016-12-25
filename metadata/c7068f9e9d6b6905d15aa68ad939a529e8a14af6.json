@@ -1,1 +1,61 @@
-{"title":"Greys Anatomy S11E18 HDTV XviD-FUM[ettv]","uid":11793303,"size":365872912,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:c7068f9e9d6b6905d15aa68ad939a529e8a14af6&amp;dn=Greys+Anatomy+S11E18+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":1,"uploader":"ettv","files":2,"time":1428027526,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:c7068f9e9d6b6905d15aa68ad939a529e8a14af6","amp;dn":"Greys+Anatomy+S11E18+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c7068f9e9d6b6905d15aa68ad939a529e8a14af6","infoHashBuffer":{"type":"Buffer","data":[199,6,143,158,157,107,105,5,209,90,166,138,217,57,165,41,232,161,74,246]},"announce":[],"urlList":[]}}
+{
+  "title": "Greys Anatomy S11E18 HDTV XviD-FUM[ettv]",
+  "uid": 11793303,
+  "size": 365872912,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:c7068f9e9d6b6905d15aa68ad939a529e8a14af6&amp;dn=Greys+Anatomy+S11E18+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1428027526,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:c7068f9e9d6b6905d15aa68ad939a529e8a14af6",
+    "dn": "Greys Anatomy S11E18 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c7068f9e9d6b6905d15aa68ad939a529e8a14af6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        199,
+        6,
+        143,
+        158,
+        157,
+        107,
+        105,
+        5,
+        209,
+        90,
+        166,
+        138,
+        217,
+        57,
+        165,
+        41,
+        232,
+        161,
+        74,
+        246
+      ]
+    },
+    "name": "Greys Anatomy S11E18 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 9,
+  "last_updated": "2016-12-25T13:34:39.228Z"
+}

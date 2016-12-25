@@ -1,1 +1,61 @@
-{"title":"Homeland.S01E05.HDTV.XviD-LOL.[VTV].avi","uid":6784355,"size":576780288,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:c5bc6665b76275a4931d13f8fcf0da06a1bd3082&amp;dn=Homeland.S01E05.HDTV.XviD-LOL.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":17,"uploader":"VTV","files":1,"time":1320034281,"description":"Homeland 1x05 (HDTV-LOL)[VTV]","torrent":{"xt":"urn:btih:c5bc6665b76275a4931d13f8fcf0da06a1bd3082","amp;dn":"Homeland.S01E05.HDTV.XviD-LOL.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c5bc6665b76275a4931d13f8fcf0da06a1bd3082","infoHashBuffer":{"type":"Buffer","data":[197,188,102,101,183,98,117,164,147,29,19,248,252,240,218,6,161,189,48,130]},"announce":[],"urlList":[]}}
+{
+  "title": "Homeland.S01E05.HDTV.XviD-LOL.[VTV].avi",
+  "uid": 6784355,
+  "size": 576780288,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:c5bc6665b76275a4931d13f8fcf0da06a1bd3082&amp;dn=Homeland.S01E05.HDTV.XviD-LOL.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 17,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1320034281,
+  "description": "Homeland 1x05 (HDTV-LOL)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:c5bc6665b76275a4931d13f8fcf0da06a1bd3082",
+    "dn": "Homeland.S01E05.HDTV.XviD-LOL.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c5bc6665b76275a4931d13f8fcf0da06a1bd3082",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        197,
+        188,
+        102,
+        101,
+        183,
+        98,
+        117,
+        164,
+        147,
+        29,
+        19,
+        248,
+        252,
+        240,
+        218,
+        6,
+        161,
+        189,
+        48,
+        130
+      ]
+    },
+    "name": "Homeland.S01E05.HDTV.XviD-LOL.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 78,
+  "peers": 52,
+  "last_updated": "2016-12-25T13:25:11.386Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Ellie Goulding - Lights","uid":7440656,"size":8586734,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:c61b5d58fee4f062b967a51d1880500f44f19af9&amp;dn=Ellie+Goulding+-+Lights&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":80,"leechers":0,"uploader":"Tuffnut","files":-1,"time":1342208929,"description":"Ellie Goulding - Lights\n\n\nArtist: Ellie Goulding\nAlbum: Lights\nGenre: Pop\nYear: 2011\nBitrate: 320 Kbps\n\n--------------------------------\n!!! Download, Seed and Enjoy !!!\n--------------------------------\n","torrent":{"xt":"urn:btih:c61b5d58fee4f062b967a51d1880500f44f19af9","amp;dn":"Ellie+Goulding+-+Lights","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c61b5d58fee4f062b967a51d1880500f44f19af9","infoHashBuffer":{"type":"Buffer","data":[198,27,93,88,254,228,240,98,185,103,165,29,24,128,80,15,68,241,154,249]},"announce":[],"urlList":[]}}
+{
+  "title": "Ellie Goulding - Lights",
+  "uid": 7440656,
+  "size": 8586734,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:c61b5d58fee4f062b967a51d1880500f44f19af9&amp;dn=Ellie+Goulding+-+Lights&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 80,
+  "leechers": 0,
+  "uploader": "Tuffnut",
+  "files": -1,
+  "time": 1342208929,
+  "description": "Ellie Goulding - Lights\n\n\nArtist: Ellie Goulding\nAlbum: Lights\nGenre: Pop\nYear: 2011\nBitrate: 320 Kbps\n\n--------------------------------\n!!! Download, Seed and Enjoy !!!\n--------------------------------\n",
+  "parsed": {
+    "xt": "urn:btih:c61b5d58fee4f062b967a51d1880500f44f19af9",
+    "dn": "Ellie Goulding - Lights",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c61b5d58fee4f062b967a51d1880500f44f19af9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        198,
+        27,
+        93,
+        88,
+        254,
+        228,
+        240,
+        98,
+        185,
+        103,
+        165,
+        29,
+        24,
+        128,
+        80,
+        15,
+        68,
+        241,
+        154,
+        249
+      ]
+    },
+    "name": "Ellie Goulding - Lights",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 23,
+  "last_updated": "2016-12-25T13:28:27.954Z"
+}

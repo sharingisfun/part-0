@@ -1,1 +1,63 @@
-{"title":"Euro Truck Simulator 2 v1.25.1.2 Incl All DLC","uid":15849479,"size":2803443355,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:c55cc39019bc7ecebeb97e790e284e9526ddc3fd&amp;dn=Euro+Truck+Simulator+2+v1.25.1.2+Incl+All+DLC&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":153,"leechers":35,"uploader":"dauphong","files":1,"time":1474147738,"description":"Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore from the UK, Belgium, Germany, Italy, the Netherlands, Poland, and many more, your endurance, skill and speed will all be pushed to their limits. If youâ€™ve got what it takes to be part of an elite trucking force, get behind the wheel and prove it!","torrent":{"xt":"urn:btih:c55cc39019bc7ecebeb97e790e284e9526ddc3fd","amp;dn":"Euro+Truck+Simulator+2+v1.25.1.2+Incl+All+DLC","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c55cc39019bc7ecebeb97e790e284e9526ddc3fd","infoHashBuffer":{"type":"Buffer","data":[197,92,195,144,25,188,126,206,190,185,126,121,14,40,78,149,38,221,195,253]},"announce":[],"urlList":[]}}
+{
+  "title": "Euro Truck Simulator 2 v1.25.1.2 Incl All DLC",
+  "uid": 15849479,
+  "size": 2803443355,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:c55cc39019bc7ecebeb97e790e284e9526ddc3fd&amp;dn=Euro+Truck+Simulator+2+v1.25.1.2+Incl+All+DLC&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 153,
+  "leechers": 35,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1474147738,
+  "description": "Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore from the UK, Belgium, Germany, Italy, the Netherlands, Poland, and many more, your endurance, skill and speed will all be pushed to their limits. If youâ€™ve got what it takes to be part of an elite trucking force, get behind the wheel and prove it!",
+  "parsed": {
+    "xt": "urn:btih:c55cc39019bc7ecebeb97e790e284e9526ddc3fd",
+    "dn": "Euro Truck Simulator 2 v1.25.1.2 Incl All DLC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "c55cc39019bc7ecebeb97e790e284e9526ddc3fd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        197,
+        92,
+        195,
+        144,
+        25,
+        188,
+        126,
+        206,
+        190,
+        185,
+        126,
+        121,
+        14,
+        40,
+        78,
+        149,
+        38,
+        221,
+        195,
+        253
+      ]
+    },
+    "name": "Euro Truck Simulator 2 v1.25.1.2 Incl All DLC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 188,
+  "peers": 50,
+  "last_updated": "2016-12-25T13:22:38.947Z"
+}

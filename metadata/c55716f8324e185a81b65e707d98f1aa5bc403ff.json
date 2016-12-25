@@ -1,1 +1,61 @@
-{"title":"Gotye - Making Mirrors 2011 320 Kbps","uid":6617845,"size":122615406,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:c55716f8324e185a81b65e707d98f1aa5bc403ff&amp;dn=Gotye+-+Making+Mirrors+2011+320+Kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":85,"leechers":5,"uploader":"rndmfrd222","files":14,"time":1313859413,"description":"New Album from Australia multi-instrumental musician Wouter De Backer also known as Walter (or Wally) De Backer.\nRelease Date: August 19th\nBitrate: 320 Kbps\nGenre: Indie rock, experimental rock &lt;a href=&quot;\nhttp://en.wikipedia.org/wiki/Making_Mirrors&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://en.wikipedia.org/wiki/Making_Mirrors&lt;/a&gt; &lt;a href=&quot;\nhttp://en.wikipedia.org/wiki/Gotye&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://en.wikipedia.org/wiki/Gotye&lt;/a&gt;\nIncludes Digital Booklet as well\nEnjoy :)","torrent":{"xt":"urn:btih:c55716f8324e185a81b65e707d98f1aa5bc403ff","amp;dn":"Gotye+-+Making+Mirrors+2011+320+Kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c55716f8324e185a81b65e707d98f1aa5bc403ff","infoHashBuffer":{"type":"Buffer","data":[197,87,22,248,50,78,24,90,129,182,94,112,125,152,241,170,91,196,3,255]},"announce":[],"urlList":[]}}
+{
+  "title": "Gotye - Making Mirrors 2011 320 Kbps",
+  "uid": 6617845,
+  "size": 122615406,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:c55716f8324e185a81b65e707d98f1aa5bc403ff&amp;dn=Gotye+-+Making+Mirrors+2011+320+Kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 85,
+  "leechers": 5,
+  "uploader": "rndmfrd222",
+  "files": 14,
+  "time": 1313859413,
+  "description": "New Album from Australia multi-instrumental musician Wouter De Backer also known as Walter (or Wally) De Backer.\nRelease Date: August 19th\nBitrate: 320 Kbps\nGenre: Indie rock, experimental rock &lt;a href=&quot;\nhttp://en.wikipedia.org/wiki/Making_Mirrors&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://en.wikipedia.org/wiki/Making_Mirrors&lt;/a&gt; &lt;a href=&quot;\nhttp://en.wikipedia.org/wiki/Gotye&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://en.wikipedia.org/wiki/Gotye&lt;/a&gt;\nIncludes Digital Booklet as well\nEnjoy :)",
+  "parsed": {
+    "xt": "urn:btih:c55716f8324e185a81b65e707d98f1aa5bc403ff",
+    "dn": "Gotye - Making Mirrors 2011 320 Kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c55716f8324e185a81b65e707d98f1aa5bc403ff",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        197,
+        87,
+        22,
+        248,
+        50,
+        78,
+        24,
+        90,
+        129,
+        182,
+        94,
+        112,
+        125,
+        152,
+        241,
+        170,
+        91,
+        196,
+        3,
+        255
+      ]
+    },
+    "name": "Gotye - Making Mirrors 2011 320 Kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 90,
+  "peers": 17,
+  "last_updated": "2016-12-25T13:22:34.936Z"
+}

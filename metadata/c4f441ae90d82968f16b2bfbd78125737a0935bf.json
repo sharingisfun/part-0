@@ -1,1 +1,61 @@
-{"title":"Coldplay - A Sky Full Of Stars (Hardwell Remix)","uid":10419458,"size":12567997,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:c4f441ae90d82968f16b2bfbd78125737a0935bf&amp;dn=Coldplay+-+A+Sky+Full+Of+Stars+%28Hardwell+Remix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":120,"leechers":1,"uploader":"pamabego","files":1,"time":1403627944,"description":"Format                                   : MPEG Audio\nFile size                                : 12.0 MiB\nDuration                                 : 5mn 13s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 320 Kbps\nAlbum                                    : A Sky Full Of Stars (Hardwell Remix)\nTrack name                               : A Sky Full Of Stars (Hardwell Remix) [up by Nicksher]\nPerformer                                : Coldplay\nGenre                                    : Progressive House\nRecorded date                            : 2014\nWriting library                          : LAME3.98r\nCover                                    : Yes\nCover type                               : Cover (front)\nCover MIME                               : image/jpg\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nDuration                                 : 5mn 13s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 11.9 MiB (100%)\nWriting library                          : LAME3.98r\nEncoding settings                        : -m j -V 4 -q 0 -lowpass 20.5\n\n","torrent":{"xt":"urn:btih:c4f441ae90d82968f16b2bfbd78125737a0935bf","amp;dn":"Coldplay+-+A+Sky+Full+Of+Stars+%28Hardwell+Remix%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c4f441ae90d82968f16b2bfbd78125737a0935bf","infoHashBuffer":{"type":"Buffer","data":[196,244,65,174,144,216,41,104,241,107,43,251,215,129,37,115,122,9,53,191]},"announce":[],"urlList":[]}}
+{
+  "title": "Coldplay - A Sky Full Of Stars (Hardwell Remix)",
+  "uid": 10419458,
+  "size": 12567997,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:c4f441ae90d82968f16b2bfbd78125737a0935bf&amp;dn=Coldplay+-+A+Sky+Full+Of+Stars+%28Hardwell+Remix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 120,
+  "leechers": 1,
+  "uploader": "pamabego",
+  "files": 1,
+  "time": 1403627944,
+  "description": "Format                                   : MPEG Audio\nFile size                                : 12.0 MiB\nDuration                                 : 5mn 13s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 320 Kbps\nAlbum                                    : A Sky Full Of Stars (Hardwell Remix)\nTrack name                               : A Sky Full Of Stars (Hardwell Remix) [up by Nicksher]\nPerformer                                : Coldplay\nGenre                                    : Progressive House\nRecorded date                            : 2014\nWriting library                          : LAME3.98r\nCover                                    : Yes\nCover type                               : Cover (front)\nCover MIME                               : image/jpg\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nDuration                                 : 5mn 13s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 11.9 MiB (100%)\nWriting library                          : LAME3.98r\nEncoding settings                        : -m j -V 4 -q 0 -lowpass 20.5\n\n",
+  "parsed": {
+    "xt": "urn:btih:c4f441ae90d82968f16b2bfbd78125737a0935bf",
+    "dn": "Coldplay - A Sky Full Of Stars (Hardwell Remix)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c4f441ae90d82968f16b2bfbd78125737a0935bf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        196,
+        244,
+        65,
+        174,
+        144,
+        216,
+        41,
+        104,
+        241,
+        107,
+        43,
+        251,
+        215,
+        129,
+        37,
+        115,
+        122,
+        9,
+        53,
+        191
+      ]
+    },
+    "name": "Coldplay - A Sky Full Of Stars (Hardwell Remix)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 121,
+  "peers": 74,
+  "last_updated": "2016-12-25T13:20:22.523Z"
+}

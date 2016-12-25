@@ -1,1 +1,61 @@
-{"title":"The Fountainhead (1949)","uid":10084421,"size":1911448791,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:c60363ab142c6402aa50184e564a8fa14014d473&amp;dn=The+Fountainhead+%281949%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":2,"uploader":"mfccorrea","files":1,"time":1399072390,"description":"An uncompromising, visionary architect struggles to maintain his integrity and individualism despite personal, professional and economic pressures to conform to popular standards.\n\nRip Specs:\nSource             : DVD Rip\nGeneral           : The Fountainhead.mkv\nFormat            : Matroska at 2 264 Kbps\nLength            : 1.78 GiB for 1h 52mn 35s 207ms\n\nVideo #0          : AVC at 2 050 Kbps\nAspect            : 720 x 540 (1.333) at 23.976 fps\n\nAudio #0          : AC-3 at 192 Kbps\nInfos             : 2 channels, 48.0 KHz\nLanguage          : en\n\nText #0           : VobSub\nLanguage          : en\n\nText #1           : VobSub\nLanguage          : fr\n\nText #2           : VobSub\nLanguage          : es\n &lt;a href=&quot;\nhttp://www.imdb.com/title/tt0041386/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt0041386/&lt;/a&gt;\n\nLanguage: English\nSubtitles: English, French, Spanish\n\n","torrent":{"xt":"urn:btih:c60363ab142c6402aa50184e564a8fa14014d473","amp;dn":"The+Fountainhead+%281949%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c60363ab142c6402aa50184e564a8fa14014d473","infoHashBuffer":{"type":"Buffer","data":[198,3,99,171,20,44,100,2,170,80,24,78,86,74,143,161,64,20,212,115]},"announce":[],"urlList":[]}}
+{
+  "title": "The Fountainhead (1949)",
+  "uid": 10084421,
+  "size": 1911448791,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:c60363ab142c6402aa50184e564a8fa14014d473&amp;dn=The+Fountainhead+%281949%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 2,
+  "uploader": "mfccorrea",
+  "files": 1,
+  "time": 1399072390,
+  "description": "An uncompromising, visionary architect struggles to maintain his integrity and individualism despite personal, professional and economic pressures to conform to popular standards.\n\nRip Specs:\nSource             : DVD Rip\nGeneral           : The Fountainhead.mkv\nFormat            : Matroska at 2 264 Kbps\nLength            : 1.78 GiB for 1h 52mn 35s 207ms\n\nVideo #0          : AVC at 2 050 Kbps\nAspect            : 720 x 540 (1.333) at 23.976 fps\n\nAudio #0          : AC-3 at 192 Kbps\nInfos             : 2 channels, 48.0 KHz\nLanguage          : en\n\nText #0           : VobSub\nLanguage          : en\n\nText #1           : VobSub\nLanguage          : fr\n\nText #2           : VobSub\nLanguage          : es\n &lt;a href=&quot;\nhttp://www.imdb.com/title/tt0041386/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt0041386/&lt;/a&gt;\n\nLanguage: English\nSubtitles: English, French, Spanish\n\n",
+  "parsed": {
+    "xt": "urn:btih:c60363ab142c6402aa50184e564a8fa14014d473",
+    "dn": "The Fountainhead (1949)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c60363ab142c6402aa50184e564a8fa14014d473",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        198,
+        3,
+        99,
+        171,
+        20,
+        44,
+        100,
+        2,
+        170,
+        80,
+        24,
+        78,
+        86,
+        74,
+        143,
+        161,
+        64,
+        20,
+        212,
+        115
+      ]
+    },
+    "name": "The Fountainhead (1949)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 26,
+  "last_updated": "2016-12-25T13:27:41.825Z"
+}

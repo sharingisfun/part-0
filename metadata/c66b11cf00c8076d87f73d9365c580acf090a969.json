@@ -1,1 +1,61 @@
-{"title":"Godsmack &amp;bull; 1000hp [2014] 320","uid":10711303,"size":118218389,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:c66b11cf00c8076d87f73d9365c580acf090a969&amp;dn=Godsmack+%26bull%3B+1000hp+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":93,"leechers":7,"uploader":"Capajebo","files":-1,"time":1407356912,"description":"==========================================\nGodsmack - 1000HP [2014] 320 _ DELUXE _ CD\n..........................................\n==========================================","torrent":{"xt":"urn:btih:c66b11cf00c8076d87f73d9365c580acf090a969","amp;dn":"Godsmack+%26bull%3B+1000hp+%5B2014%5D+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c66b11cf00c8076d87f73d9365c580acf090a969","infoHashBuffer":{"type":"Buffer","data":[198,107,17,207,0,200,7,109,135,247,61,147,101,197,128,172,240,144,169,105]},"announce":[],"urlList":[]}}
+{
+  "title": "Godsmack &amp;bull; 1000hp [2014] 320",
+  "uid": 10711303,
+  "size": 118218389,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:c66b11cf00c8076d87f73d9365c580acf090a969&amp;dn=Godsmack+%26bull%3B+1000hp+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 93,
+  "leechers": 7,
+  "uploader": "Capajebo",
+  "files": -1,
+  "time": 1407356912,
+  "description": "==========================================\nGodsmack - 1000HP [2014] 320 _ DELUXE _ CD\n..........................................\n==========================================",
+  "parsed": {
+    "xt": "urn:btih:c66b11cf00c8076d87f73d9365c580acf090a969",
+    "dn": "Godsmack &bull; 1000hp [2014] 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c66b11cf00c8076d87f73d9365c580acf090a969",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        198,
+        107,
+        17,
+        207,
+        0,
+        200,
+        7,
+        109,
+        135,
+        247,
+        61,
+        147,
+        101,
+        197,
+        128,
+        172,
+        240,
+        144,
+        169,
+        105
+      ]
+    },
+    "name": "Godsmack &bull; 1000hp [2014] 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 100,
+  "peers": 54,
+  "last_updated": "2016-12-25T13:30:42.405Z"
+}
