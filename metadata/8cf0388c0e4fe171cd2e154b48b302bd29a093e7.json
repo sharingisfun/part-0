@@ -1,1 +1,61 @@
-{"title":"The Killers Discography (2004-2013) iTunes AAC 256","uid":10010214,"size":1703210640,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:8cf0388c0e4fe171cd2e154b48b302bd29a093e7&amp;dn=The+Killers+Discography+%282004-2013%29+iTunes+AAC+256&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":27,"uploader":"-wxm-","files":-1,"time":1398092846,"description":"The Killers Discography (2004-2013) iTunes AAC 256\n\nPurchased AAC files","torrent":{"xt":"urn:btih:8cf0388c0e4fe171cd2e154b48b302bd29a093e7","amp;dn":"The+Killers+Discography+%282004-2013%29+iTunes+AAC+256","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8cf0388c0e4fe171cd2e154b48b302bd29a093e7","infoHashBuffer":{"type":"Buffer","data":[140,240,56,140,14,79,225,113,205,46,21,75,72,179,2,189,41,160,147,231]},"announce":[],"urlList":[]}}
+{
+  "title": "The Killers Discography (2004-2013) iTunes AAC 256",
+  "uid": 10010214,
+  "size": 1703210640,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:8cf0388c0e4fe171cd2e154b48b302bd29a093e7&amp;dn=The+Killers+Discography+%282004-2013%29+iTunes+AAC+256&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 27,
+  "uploader": "-wxm-",
+  "files": -1,
+  "time": 1398092846,
+  "description": "The Killers Discography (2004-2013) iTunes AAC 256\n\nPurchased AAC files",
+  "parsed": {
+    "xt": "urn:btih:8cf0388c0e4fe171cd2e154b48b302bd29a093e7",
+    "dn": "The Killers Discography (2004-2013) iTunes AAC 256",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8cf0388c0e4fe171cd2e154b48b302bd29a093e7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        140,
+        240,
+        56,
+        140,
+        14,
+        79,
+        225,
+        113,
+        205,
+        46,
+        21,
+        75,
+        72,
+        179,
+        2,
+        189,
+        41,
+        160,
+        147,
+        231
+      ]
+    },
+    "name": "The Killers Discography (2004-2013) iTunes AAC 256",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 0,
+  "last_updated": "2016-12-25T07:25:42.373Z"
+}

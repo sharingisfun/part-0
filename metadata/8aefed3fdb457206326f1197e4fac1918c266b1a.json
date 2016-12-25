@@ -1,1 +1,61 @@
-{"title":"Adam Lambert's Ghost Town - Single MP3 256K","uid":11861090,"size":6730641,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:8aefed3fdb457206326f1197e4fac1918c266b1a&amp;dn=Adam+Lambert%27s+Ghost+Town+-+Single+MP3+256K&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":3,"uploader":"bmcsky96","files":1,"time":1430282837,"description":"Adam Lambert's new Single Ghost Town\n\nBITRATE:256\n\nFORMAT:MP3\n\nSOURCE:MYPLAYDIRECT\n\nEnjoy and Seed!\n\nand also good luck getting that whistle out of your head ;)","torrent":{"xt":"urn:btih:8aefed3fdb457206326f1197e4fac1918c266b1a","amp;dn":"Adam+Lambert%27s+Ghost+Town+-+Single+MP3+256K","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8aefed3fdb457206326f1197e4fac1918c266b1a","infoHashBuffer":{"type":"Buffer","data":[138,239,237,63,219,69,114,6,50,111,17,151,228,250,193,145,140,38,107,26]},"announce":[],"urlList":[]}}
+{
+  "title": "Adam Lambert's Ghost Town - Single MP3 256K",
+  "uid": 11861090,
+  "size": 6730641,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:8aefed3fdb457206326f1197e4fac1918c266b1a&amp;dn=Adam+Lambert%27s+Ghost+Town+-+Single+MP3+256K&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 3,
+  "uploader": "bmcsky96",
+  "files": 1,
+  "time": 1430282837,
+  "description": "Adam Lambert's new Single Ghost Town\n\nBITRATE:256\n\nFORMAT:MP3\n\nSOURCE:MYPLAYDIRECT\n\nEnjoy and Seed!\n\nand also good luck getting that whistle out of your head ;)",
+  "parsed": {
+    "xt": "urn:btih:8aefed3fdb457206326f1197e4fac1918c266b1a",
+    "dn": "Adam Lambert's Ghost Town - Single MP3 256K",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8aefed3fdb457206326f1197e4fac1918c266b1a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        138,
+        239,
+        237,
+        63,
+        219,
+        69,
+        114,
+        6,
+        50,
+        111,
+        17,
+        151,
+        228,
+        250,
+        193,
+        145,
+        140,
+        38,
+        107,
+        26
+      ]
+    },
+    "name": "Adam Lambert's Ghost Town - Single MP3 256K",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 75,
+  "peers": 43,
+  "last_updated": "2016-12-25T07:11:43.530Z"
+}

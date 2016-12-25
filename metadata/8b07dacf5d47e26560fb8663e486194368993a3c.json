@@ -1,1 +1,63 @@
-{"title":"Nick Jonas Ft. Tove Lo-Close","uid":14231392,"size":3745792,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:8b07dacf5d47e26560fb8663e486194368993a3c&amp;dn=Nick+Jonas+Ft.+Tove+Lo-Close&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":0,"uploader":"mark4705","files":1,"time":1460078536,"description":"Nick Jonas Ft. Tove Lo-Close","torrent":{"xt":"urn:btih:8b07dacf5d47e26560fb8663e486194368993a3c","amp;dn":"Nick+Jonas+Ft.+Tove+Lo-Close","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8b07dacf5d47e26560fb8663e486194368993a3c","infoHashBuffer":{"type":"Buffer","data":[139,7,218,207,93,71,226,101,96,251,134,99,228,134,25,67,104,153,58,60]},"announce":[],"urlList":[]}}
+{
+  "title": "Nick Jonas Ft. Tove Lo-Close",
+  "uid": 14231392,
+  "size": 3745792,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:8b07dacf5d47e26560fb8663e486194368993a3c&amp;dn=Nick+Jonas+Ft.+Tove+Lo-Close&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 0,
+  "uploader": "mark4705",
+  "files": 1,
+  "time": 1460078536,
+  "description": "Nick Jonas Ft. Tove Lo-Close",
+  "parsed": {
+    "xt": "urn:btih:8b07dacf5d47e26560fb8663e486194368993a3c",
+    "dn": "Nick Jonas Ft. Tove Lo-Close",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "8b07dacf5d47e26560fb8663e486194368993a3c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        139,
+        7,
+        218,
+        207,
+        93,
+        71,
+        226,
+        101,
+        96,
+        251,
+        134,
+        99,
+        228,
+        134,
+        25,
+        67,
+        104,
+        153,
+        58,
+        60
+      ]
+    },
+    "name": "Nick Jonas Ft. Tove Lo-Close",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 105,
+  "last_updated": "2016-12-25T07:12:21.638Z"
+}

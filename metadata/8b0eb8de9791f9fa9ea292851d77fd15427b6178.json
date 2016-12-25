@@ -1,1 +1,61 @@
-{"title":"Person of Interest S04E03 HDTV x264-LOL[ettv]","uid":11173383,"size":254794877,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8b0eb8de9791f9fa9ea292851d77fd15427b6178&amp;dn=Person+of+Interest+S04E03+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":208,"leechers":19,"uploader":"ettv","files":2,"time":1412733541,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:8b0eb8de9791f9fa9ea292851d77fd15427b6178","amp;dn":"Person+of+Interest+S04E03+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8b0eb8de9791f9fa9ea292851d77fd15427b6178","infoHashBuffer":{"type":"Buffer","data":[139,14,184,222,151,145,249,250,158,162,146,133,29,119,253,21,66,123,97,120]},"announce":[],"urlList":[]}}
+{
+  "title": "Person of Interest S04E03 HDTV x264-LOL[ettv]",
+  "uid": 11173383,
+  "size": 254794877,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8b0eb8de9791f9fa9ea292851d77fd15427b6178&amp;dn=Person+of+Interest+S04E03+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 208,
+  "leechers": 19,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1412733541,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:8b0eb8de9791f9fa9ea292851d77fd15427b6178",
+    "dn": "Person of Interest S04E03 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8b0eb8de9791f9fa9ea292851d77fd15427b6178",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        139,
+        14,
+        184,
+        222,
+        151,
+        145,
+        249,
+        250,
+        158,
+        162,
+        146,
+        133,
+        29,
+        119,
+        253,
+        21,
+        66,
+        123,
+        97,
+        120
+      ]
+    },
+    "name": "Person of Interest S04E03 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 227,
+  "peers": 53,
+  "last_updated": "2016-12-25T07:12:31.663Z"
+}

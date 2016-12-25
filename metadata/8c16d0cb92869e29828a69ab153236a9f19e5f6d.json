@@ -1,1 +1,61 @@
-{"title":"IHF.Handball.Challenge.14-SKIDROW","uid":9843695,"size":1246473649,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:8c16d0cb92869e29828a69ab153236a9f19e5f6d&amp;dn=IHF.Handball.Challenge.14-SKIDROW&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":2,"uploader":"Drarbg","files":3,"time":1396036077,"description":"IHF.Handball.Challenge.14-SKIDROW\n","torrent":{"xt":"urn:btih:8c16d0cb92869e29828a69ab153236a9f19e5f6d","amp;dn":"IHF.Handball.Challenge.14-SKIDROW","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8c16d0cb92869e29828a69ab153236a9f19e5f6d","infoHashBuffer":{"type":"Buffer","data":[140,22,208,203,146,134,158,41,130,138,105,171,21,50,54,169,241,158,95,109]},"announce":[],"urlList":[]}}
+{
+  "title": "IHF.Handball.Challenge.14-SKIDROW",
+  "uid": 9843695,
+  "size": 1246473649,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:8c16d0cb92869e29828a69ab153236a9f19e5f6d&amp;dn=IHF.Handball.Challenge.14-SKIDROW&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 2,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1396036077,
+  "description": "IHF.Handball.Challenge.14-SKIDROW\n",
+  "parsed": {
+    "xt": "urn:btih:8c16d0cb92869e29828a69ab153236a9f19e5f6d",
+    "dn": "IHF.Handball.Challenge.14-SKIDROW",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8c16d0cb92869e29828a69ab153236a9f19e5f6d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        140,
+        22,
+        208,
+        203,
+        146,
+        134,
+        158,
+        41,
+        130,
+        138,
+        105,
+        171,
+        21,
+        50,
+        54,
+        169,
+        241,
+        158,
+        95,
+        109
+      ]
+    },
+    "name": "IHF.Handball.Challenge.14-SKIDROW",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 22,
+  "last_updated": "2016-12-25T07:19:51.219Z"
+}

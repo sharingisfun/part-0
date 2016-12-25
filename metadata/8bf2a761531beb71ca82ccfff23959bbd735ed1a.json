@@ -1,1 +1,61 @@
-{"title":"Spider-Gwen 004 (2015) (Digital) (BlackManta-Empire)","uid":11890271,"size":32939384,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:8bf2a761531beb71ca82ccfff23959bbd735ed1a&amp;dn=Spider-Gwen+004+%282015%29+%28Digital%29+%28BlackManta-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":1,"uploader":"jedi.jesse","files":1,"time":1430976402,"description":"Learn what really happened the day that Peter Parker died! Gwen comes face to face with Ben and May Parker!","torrent":{"xt":"urn:btih:8bf2a761531beb71ca82ccfff23959bbd735ed1a","amp;dn":"Spider-Gwen+004+%282015%29+%28Digital%29+%28BlackManta-Empire%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8bf2a761531beb71ca82ccfff23959bbd735ed1a","infoHashBuffer":{"type":"Buffer","data":[139,242,167,97,83,27,235,113,202,130,204,255,242,57,89,187,215,53,237,26]},"announce":[],"urlList":[]}}
+{
+  "title": "Spider-Gwen 004 (2015) (Digital) (BlackManta-Empire)",
+  "uid": 11890271,
+  "size": 32939384,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:8bf2a761531beb71ca82ccfff23959bbd735ed1a&amp;dn=Spider-Gwen+004+%282015%29+%28Digital%29+%28BlackManta-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 1,
+  "uploader": "jedi.jesse",
+  "files": 1,
+  "time": 1430976402,
+  "description": "Learn what really happened the day that Peter Parker died! Gwen comes face to face with Ben and May Parker!",
+  "parsed": {
+    "xt": "urn:btih:8bf2a761531beb71ca82ccfff23959bbd735ed1a",
+    "dn": "Spider-Gwen 004 (2015) (Digital) (BlackManta-Empire)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8bf2a761531beb71ca82ccfff23959bbd735ed1a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        139,
+        242,
+        167,
+        97,
+        83,
+        27,
+        235,
+        113,
+        202,
+        130,
+        204,
+        255,
+        242,
+        57,
+        89,
+        187,
+        215,
+        53,
+        237,
+        26
+      ]
+    },
+    "name": "Spider-Gwen 004 (2015) (Digital) (BlackManta-Empire)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 4,
+  "last_updated": "2016-12-25T07:18:57.026Z"
+}

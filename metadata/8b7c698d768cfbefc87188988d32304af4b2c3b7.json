@@ -1,1 +1,61 @@
-{"title":"Sam Smith - Nirvana - EP","uid":9007688,"size":34185175,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:8b7c698d768cfbefc87188988d32304af4b2c3b7&amp;dn=Sam+Smith+-+Nirvana+-+EP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":2,"uploader":"Music_Blitz","files":-1,"time":1381064634,"description":"Sam Smith - Nirvana - EP\n\n\nTracklist:\n\n1. Safe With Me\n2. Nirvana\n3. I've Told You Now (Live At St Pancras Old Church, London 2013)\n4. Latch (Acoustic)\n\n\nPlease remember to support the artist and seed\n\nEnjoy\t","torrent":{"xt":"urn:btih:8b7c698d768cfbefc87188988d32304af4b2c3b7","amp;dn":"Sam+Smith+-+Nirvana+-+EP","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8b7c698d768cfbefc87188988d32304af4b2c3b7","infoHashBuffer":{"type":"Buffer","data":[139,124,105,141,118,140,251,239,200,113,136,152,141,50,48,74,244,178,195,183]},"announce":[],"urlList":[]}}
+{
+  "title": "Sam Smith - Nirvana - EP",
+  "uid": 9007688,
+  "size": 34185175,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:8b7c698d768cfbefc87188988d32304af4b2c3b7&amp;dn=Sam+Smith+-+Nirvana+-+EP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 2,
+  "uploader": "Music_Blitz",
+  "files": -1,
+  "time": 1381064634,
+  "description": "Sam Smith - Nirvana - EP\n\n\nTracklist:\n\n1. Safe With Me\n2. Nirvana\n3. I've Told You Now (Live At St Pancras Old Church, London 2013)\n4. Latch (Acoustic)\n\n\nPlease remember to support the artist and seed\n\nEnjoy\t",
+  "parsed": {
+    "xt": "urn:btih:8b7c698d768cfbefc87188988d32304af4b2c3b7",
+    "dn": "Sam Smith - Nirvana - EP",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8b7c698d768cfbefc87188988d32304af4b2c3b7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        139,
+        124,
+        105,
+        141,
+        118,
+        140,
+        251,
+        239,
+        200,
+        113,
+        136,
+        152,
+        141,
+        50,
+        48,
+        74,
+        244,
+        178,
+        195,
+        183
+      ]
+    },
+    "name": "Sam Smith - Nirvana - EP",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 11,
+  "last_updated": "2016-12-25T07:16:18.421Z"
+}

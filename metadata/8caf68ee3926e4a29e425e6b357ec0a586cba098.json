@@ -1,1 +1,61 @@
-{"title":"Years &amp; Years - King (320 kbps MP3)","uid":11828750,"size":8540303,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:8caf68ee3926e4a29e425e6b357ec0a586cba098&amp;dn=Years+%26amp%3B+Years+-+King+%28320+kbps+MP3%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":108,"leechers":4,"uploader":"sergelover","files":1,"time":1429568445,"description":"&quot;King&quot; is a song by British synthpop trio Years &amp; Years. It was originally released as a single in January 2015. The song was released in the United Kingdom as a digital download on 1 March 2015 through Polydor Records","torrent":{"xt":"urn:btih:8caf68ee3926e4a29e425e6b357ec0a586cba098","amp;dn":"Years+%26amp%3B+Years+-+King+%28320+kbps+MP3%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8caf68ee3926e4a29e425e6b357ec0a586cba098","infoHashBuffer":{"type":"Buffer","data":[140,175,104,238,57,38,228,162,158,66,94,107,53,126,192,165,134,203,160,152]},"announce":[],"urlList":[]}}
+{
+  "title": "Years &amp; Years - King (320 kbps MP3)",
+  "uid": 11828750,
+  "size": 8540303,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:8caf68ee3926e4a29e425e6b357ec0a586cba098&amp;dn=Years+%26amp%3B+Years+-+King+%28320+kbps+MP3%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 108,
+  "leechers": 4,
+  "uploader": "sergelover",
+  "files": 1,
+  "time": 1429568445,
+  "description": "&quot;King&quot; is a song by British synthpop trio Years &amp; Years. It was originally released as a single in January 2015. The song was released in the United Kingdom as a digital download on 1 March 2015 through Polydor Records",
+  "parsed": {
+    "xt": "urn:btih:8caf68ee3926e4a29e425e6b357ec0a586cba098",
+    "dn": "Years &amp; Years - King (320 kbps MP3)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8caf68ee3926e4a29e425e6b357ec0a586cba098",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        140,
+        175,
+        104,
+        238,
+        57,
+        38,
+        228,
+        162,
+        158,
+        66,
+        94,
+        107,
+        53,
+        126,
+        192,
+        165,
+        134,
+        203,
+        160,
+        152
+      ]
+    },
+    "name": "Years &amp; Years - King (320 kbps MP3)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 112,
+  "peers": 29,
+  "last_updated": "2016-12-25T07:23:46.028Z"
+}

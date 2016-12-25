@@ -1,1 +1,61 @@
-{"title":"Farming.Simulator.15-CODEX","uid":11330772,"size":2942344083,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:8b58b464d302b8f8bcd8ded106d2aafd7c46de1d&amp;dn=Farming.Simulator.15-CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":754,"leechers":51,"uploader":"Drarbg","files":3,"time":1414676081,"description":" &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nFarming.Simulator.15-CODEX","torrent":{"xt":"urn:btih:8b58b464d302b8f8bcd8ded106d2aafd7c46de1d","amp;dn":"Farming.Simulator.15-CODEX","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8b58b464d302b8f8bcd8ded106d2aafd7c46de1d","infoHashBuffer":{"type":"Buffer","data":[139,88,180,100,211,2,184,248,188,216,222,209,6,210,170,253,124,70,222,29]},"announce":[],"urlList":[]}}
+{
+  "title": "Farming.Simulator.15-CODEX",
+  "uid": 11330772,
+  "size": 2942344083,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:8b58b464d302b8f8bcd8ded106d2aafd7c46de1d&amp;dn=Farming.Simulator.15-CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 754,
+  "leechers": 51,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1414676081,
+  "description": " &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nFarming.Simulator.15-CODEX",
+  "parsed": {
+    "xt": "urn:btih:8b58b464d302b8f8bcd8ded106d2aafd7c46de1d",
+    "dn": "Farming.Simulator.15-CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8b58b464d302b8f8bcd8ded106d2aafd7c46de1d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        139,
+        88,
+        180,
+        100,
+        211,
+        2,
+        184,
+        248,
+        188,
+        216,
+        222,
+        209,
+        6,
+        210,
+        170,
+        253,
+        124,
+        70,
+        222,
+        29
+      ]
+    },
+    "name": "Farming.Simulator.15-CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 805,
+  "peers": 50,
+  "last_updated": "2016-12-25T07:14:54.135Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Malwarebytes Anti-Malware v2.1.8.1057 + Serial","uid":16016213,"size":52686795,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:8acd7cacf241ca5ec0b9881d672743c95238098d&amp;dn=Malwarebytes+Anti-Malware+v2.1.8.1057+%2B+Serial&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":157,"leechers":25,"uploader":"iKnickKnockf","files":5,"time":1476292539,"description":"Malwarebytes Anti-Malware Premium is the latest version of The Anti-Malware Formerly Known As Malwarebytes Anti-Malware Pro. Malwarebytes Anti-Malware (MBAM) 2.0 ships with a completely redesigned user interface to make the product easier to use, more informative and provide quicker access to key functionality. MBAM 2.0 also built in and improved our Anti-Rootkit and Chameleon self-protection technologies. Most importantly, MBAM 2.0's detection and removal engine are significantly improved under the hood. Malwarebytes Anti-Malware Premium's industry-leading scanner detects and removes malware like worms, Trojans, rootkits, rogues, spyware, and more. All you have to do is launch Malwarebytes Anti-Malware Premium and run a scan. It's that simple. It provides better protection and its instant real-time scanner that automatically prevents malware and websites from infecting your PC. Either way you're crushing malware and foiling hackers","torrent":{"xt":"urn:btih:8acd7cacf241ca5ec0b9881d672743c95238098d","amp;dn":"Malwarebytes+Anti-Malware+v2.1.8.1057+%2B+Serial","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8acd7cacf241ca5ec0b9881d672743c95238098d","infoHashBuffer":{"type":"Buffer","data":[138,205,124,172,242,65,202,94,192,185,136,29,103,39,67,201,82,56,9,141]},"announce":[],"urlList":[]}}
+{
+  "title": "Malwarebytes Anti-Malware v2.1.8.1057 + Serial",
+  "uid": 16016213,
+  "size": 52686795,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:8acd7cacf241ca5ec0b9881d672743c95238098d&amp;dn=Malwarebytes+Anti-Malware+v2.1.8.1057+%2B+Serial&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 157,
+  "leechers": 25,
+  "uploader": "iKnickKnockf",
+  "files": 5,
+  "time": 1476292539,
+  "description": "Malwarebytes Anti-Malware Premium is the latest version of The Anti-Malware Formerly Known As Malwarebytes Anti-Malware Pro. Malwarebytes Anti-Malware (MBAM) 2.0 ships with a completely redesigned user interface to make the product easier to use, more informative and provide quicker access to key functionality. MBAM 2.0 also built in and improved our Anti-Rootkit and Chameleon self-protection technologies. Most importantly, MBAM 2.0's detection and removal engine are significantly improved under the hood. Malwarebytes Anti-Malware Premium's industry-leading scanner detects and removes malware like worms, Trojans, rootkits, rogues, spyware, and more. All you have to do is launch Malwarebytes Anti-Malware Premium and run a scan. It's that simple. It provides better protection and its instant real-time scanner that automatically prevents malware and websites from infecting your PC. Either way you're crushing malware and foiling hackers",
+  "parsed": {
+    "xt": "urn:btih:8acd7cacf241ca5ec0b9881d672743c95238098d",
+    "dn": "Malwarebytes Anti-Malware v2.1.8.1057   Serial",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "8acd7cacf241ca5ec0b9881d672743c95238098d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        138,
+        205,
+        124,
+        172,
+        242,
+        65,
+        202,
+        94,
+        192,
+        185,
+        136,
+        29,
+        103,
+        39,
+        67,
+        201,
+        82,
+        56,
+        9,
+        141
+      ]
+    },
+    "name": "Malwarebytes Anti-Malware v2.1.8.1057   Serial",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 182,
+  "peers": 2,
+  "last_updated": "2016-12-25T07:10:57.378Z"
+}

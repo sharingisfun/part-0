@@ -1,1 +1,61 @@
-{"title":"Linkin Park-Minutes to midnight 2007 ..320kbps","uid":10345222,"size":105536103,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:8cc32e065a97fec03713fd5f54a1c4046ebdce1c&amp;dn=Linkin+Park-Minutes+to+midnight+2007+..320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":5,"uploader":"stPaddy","files":13,"time":1402596202,"description":"1.\tWake 01:40\n2.\tGiven Up 03:09\n3.\tLeave Out All the Rest 03:29\n4.\tBleed It Out 02:44\n5.\tShadow of the Day 04:49\n6.\tWhat I've Done 03:25\n7.\tHands Held High 03:53\n8.\tNo More Sorrow 03:41\n9.\tValentine's Day 03:16\n10.\tIn Between 03:16\n11.\tIn Pieces 03:38\n12.\tThe Little Things Give You Away 06:23\n\nReleased\tMay 14, 2007\nRecorded\tFebruary 2006Ã¢â‚¬â€œJanuary 2007 at The Mansion and NRG Recording Studios\nGenre\tAlternative rock, alternative metal\nLength\t43:23\nLabel\tWarner Bros., Machine Shop\nProducer\tRick Rubin, Mike Shinoda","torrent":{"xt":"urn:btih:8cc32e065a97fec03713fd5f54a1c4046ebdce1c","amp;dn":"Linkin+Park-Minutes+to+midnight+2007+..320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8cc32e065a97fec03713fd5f54a1c4046ebdce1c","infoHashBuffer":{"type":"Buffer","data":[140,195,46,6,90,151,254,192,55,19,253,95,84,161,196,4,110,189,206,28]},"announce":[],"urlList":[]}}
+{
+  "title": "Linkin Park-Minutes to midnight 2007 ..320kbps",
+  "uid": 10345222,
+  "size": 105536103,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:8cc32e065a97fec03713fd5f54a1c4046ebdce1c&amp;dn=Linkin+Park-Minutes+to+midnight+2007+..320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 5,
+  "uploader": "stPaddy",
+  "files": 13,
+  "time": 1402596202,
+  "description": "1.\tWake 01:40\n2.\tGiven Up 03:09\n3.\tLeave Out All the Rest 03:29\n4.\tBleed It Out 02:44\n5.\tShadow of the Day 04:49\n6.\tWhat I've Done 03:25\n7.\tHands Held High 03:53\n8.\tNo More Sorrow 03:41\n9.\tValentine's Day 03:16\n10.\tIn Between 03:16\n11.\tIn Pieces 03:38\n12.\tThe Little Things Give You Away 06:23\n\nReleased\tMay 14, 2007\nRecorded\tFebruary 2006Ã¢â‚¬â€œJanuary 2007 at The Mansion and NRG Recording Studios\nGenre\tAlternative rock, alternative metal\nLength\t43:23\nLabel\tWarner Bros., Machine Shop\nProducer\tRick Rubin, Mike Shinoda",
+  "parsed": {
+    "xt": "urn:btih:8cc32e065a97fec03713fd5f54a1c4046ebdce1c",
+    "dn": "Linkin Park-Minutes to midnight 2007 ..320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8cc32e065a97fec03713fd5f54a1c4046ebdce1c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        140,
+        195,
+        46,
+        6,
+        90,
+        151,
+        254,
+        192,
+        55,
+        19,
+        253,
+        95,
+        84,
+        161,
+        196,
+        4,
+        110,
+        189,
+        206,
+        28
+      ]
+    },
+    "name": "Linkin Park-Minutes to midnight 2007 ..320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 4,
+  "last_updated": "2016-12-25T07:24:18.124Z"
+}

@@ -1,1 +1,61 @@
-{"title":"The.Evil.Within-RELOADED","uid":11210263,"size":35791738558,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:8c4e1c23c55378d99b3eb6d873da4bc231ab1528&amp;dn=The.Evil.Within-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":19,"uploader":"Drarbg","files":2,"time":1413265936,"description":" &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nThe.Evil.Within-RELOADED","torrent":{"xt":"urn:btih:8c4e1c23c55378d99b3eb6d873da4bc231ab1528","amp;dn":"The.Evil.Within-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8c4e1c23c55378d99b3eb6d873da4bc231ab1528","infoHashBuffer":{"type":"Buffer","data":[140,78,28,35,197,83,120,217,155,62,182,216,115,218,75,194,49,171,21,40]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Evil.Within-RELOADED",
+  "uid": 11210263,
+  "size": 35791738558,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:8c4e1c23c55378d99b3eb6d873da4bc231ab1528&amp;dn=The.Evil.Within-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 19,
+  "uploader": "Drarbg",
+  "files": 2,
+  "time": 1413265936,
+  "description": " &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nThe.Evil.Within-RELOADED",
+  "parsed": {
+    "xt": "urn:btih:8c4e1c23c55378d99b3eb6d873da4bc231ab1528",
+    "dn": "The.Evil.Within-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8c4e1c23c55378d99b3eb6d873da4bc231ab1528",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        140,
+        78,
+        28,
+        35,
+        197,
+        83,
+        120,
+        217,
+        155,
+        62,
+        182,
+        216,
+        115,
+        218,
+        75,
+        194,
+        49,
+        171,
+        21,
+        40
+      ]
+    },
+    "name": "The.Evil.Within-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 11,
+  "last_updated": "2016-12-25T07:21:15.517Z"
+}

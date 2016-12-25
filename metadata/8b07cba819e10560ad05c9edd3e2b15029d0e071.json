@@ -1,1 +1,61 @@
-{"title":"train - hey, soul sister","uid":5184090,"size":11265719,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:8b07cba819e10560ad05c9edd3e2b15029d0e071&amp;dn=train+-+hey%2C+soul+sister&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":68,"leechers":16,"uploader":"leomahesh","files":3,"time":1259388482,"description":"train - hey, soul sister","torrent":{"xt":"urn:btih:8b07cba819e10560ad05c9edd3e2b15029d0e071","amp;dn":"train+-+hey%2C+soul+sister","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8b07cba819e10560ad05c9edd3e2b15029d0e071","infoHashBuffer":{"type":"Buffer","data":[139,7,203,168,25,225,5,96,173,5,201,237,211,226,177,80,41,208,224,113]},"announce":[],"urlList":[]}}
+{
+  "title": "train - hey, soul sister",
+  "uid": 5184090,
+  "size": 11265719,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:8b07cba819e10560ad05c9edd3e2b15029d0e071&amp;dn=train+-+hey%2C+soul+sister&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 68,
+  "leechers": 16,
+  "uploader": "leomahesh",
+  "files": 3,
+  "time": 1259388482,
+  "description": "train - hey, soul sister",
+  "parsed": {
+    "xt": "urn:btih:8b07cba819e10560ad05c9edd3e2b15029d0e071",
+    "dn": "train - hey, soul sister",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8b07cba819e10560ad05c9edd3e2b15029d0e071",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        139,
+        7,
+        203,
+        168,
+        25,
+        225,
+        5,
+        96,
+        173,
+        5,
+        201,
+        237,
+        211,
+        226,
+        177,
+        80,
+        41,
+        208,
+        224,
+        113
+      ]
+    },
+    "name": "train - hey, soul sister",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 84,
+  "peers": 68,
+  "last_updated": "2016-12-25T07:12:19.634Z"
+}

@@ -1,1 +1,61 @@
-{"title":"EasyBCD 2.2.0.182 (Dual boot Win8/7/Mac/Linux/etc.....)","uid":8636453,"size":1770037,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:8c01288476f9b4fb43722e48dc77f28ef6413b2c&amp;dn=EasyBCD+2.2.0.182+%28Dual+boot+Win8%2F7%2FMac%2FLinux%2Fetc.....%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":75,"leechers":1,"uploader":"allal123","files":-1,"time":1372763824,"description":"EasyBCD 2.2.0.182 (September 26, 2012)\n\nNew: EasyBCD Multi-Language Localization Support\nNew: Windows 8 support\nNew: Automatically create backup of BCD store the first time EasyBCD is run\nNew: Add VHDX support to EasyBCD\nNew: Volume licensing option for commercial edition\nFixed: EasyBCD doesn't detect any entries if EFI bootmgr is installed\nFixed: EasyBCD does not properly interpret pae=yes or pae=no\nFixed: EasyBCD can't exit when closing after unsafe removal of loaded USB\nFixed: EasyBCD hangs on Windows 8 w/ .NET 4\nFixed: Setting locale for VHD entry causes entry corruption\nFixed: Setting advanced settings for WinPE entry after creation corrupts entry\nSeparate the update info URIs for the commercial and community editions\nEasyBCD picture in setup welcome screen\nUse new EasyBCD and NeoSmart Technologies logos.\nDate format in default EasyBCD backup filenames is YYYY-MM-DD regardless of locale for sort reasons\nAppend (#) to default EasyBCD backup name if already exists\nSupport High-Contrast Theme\nHigh DPI support w/ translation UI\nFaster enumeration of installed languages\nCommercial version support for auto-updating\nSupport Gentoo Grub2\nSupport Fedora 17, Gentoo, and ArchLinux GRUB2 changes\nEasyBCD can limit up to 99,999MiB of memory\n\n\n\nEasyBCD 2.2-Windows 8 dual-booting and more!\n\n   &lt;a href=&quot;\nhttps://neosmart.net/EasyBCD/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://neosmart.net/EasyBCD/&lt;/a&gt;\n\nDual-boot with anything you could want.\n\n\n\nWhat is EasyBCD Anyway?\n\nEasyBCD is NeoSmart Technologies 100% free Windows bootloader (BCD) modification tool.It all depends on who you ask or what you want to get done, but\n\n    A way to get your Windows Vista or Windows 7 working with Linux, BSD, Mac OS X, and dozens more operating systems without a headache!\n    An IT Guy's number 1 bootloader-troubleshooting tool.\n    A multiple award-winning application, used and recommended by the folks at Microsoft, PC World and more!\n    The easiest way of booting from virtual disks, ISO images, network devices, or USB disks!\n    The best way to do just about anything with Windows Vista/7 before it even turns on!\n\n\nYou're probably itching to get started, so we won't hold you back any longer. Just pick an OS you want to dual-boot into, and be on your way!\n\n    Legacy Windows Versions\n    Windows 2000\n    Windows XP\n    Windows Vista\n    Windows 7\n    Windows 8\n    Linux\n    Mac OS X\n    BSD\n    OS-2\n\n\n    Boot anything:\n\n    Windows, Linux, Mac, &amp; BSD! Boot both from and into USB drives, ISO images, virtual disks, and more.\n\n\n    Boot anywhere:\n\n    Create bootable USB sticks with repair utilities that you can take with you anywhere.\n\n\n    Protect against disaster:\n\n    Create entries to boot into recovery utilities or safe mode to prepare for a rainy day.\n\n\n    Painless editing:\n\n    Add, rename, remove, configure, and reorder entries at whim.\n\n\n    Solve difficult problems:\n\n    Use EasyBCD to troubleshoot Windows, back up and repair the bootloader, and more.\n\n\n    Powerful scripting with NeoGrub:\n\n    You'll have the power to hide partitions, change active flags, and create complex boot scenarios. ","torrent":{"xt":"urn:btih:8c01288476f9b4fb43722e48dc77f28ef6413b2c","amp;dn":"EasyBCD+2.2.0.182+%28Dual+boot+Win8%2F7%2FMac%2FLinux%2Fetc.....%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8c01288476f9b4fb43722e48dc77f28ef6413b2c","infoHashBuffer":{"type":"Buffer","data":[140,1,40,132,118,249,180,251,67,114,46,72,220,119,242,142,246,65,59,44]},"announce":[],"urlList":[]}}
+{
+  "title": "EasyBCD 2.2.0.182 (Dual boot Win8/7/Mac/Linux/etc.....)",
+  "uid": 8636453,
+  "size": 1770037,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:8c01288476f9b4fb43722e48dc77f28ef6413b2c&amp;dn=EasyBCD+2.2.0.182+%28Dual+boot+Win8%2F7%2FMac%2FLinux%2Fetc.....%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 75,
+  "leechers": 1,
+  "uploader": "allal123",
+  "files": -1,
+  "time": 1372763824,
+  "description": "EasyBCD 2.2.0.182 (September 26, 2012)\n\nNew: EasyBCD Multi-Language Localization Support\nNew: Windows 8 support\nNew: Automatically create backup of BCD store the first time EasyBCD is run\nNew: Add VHDX support to EasyBCD\nNew: Volume licensing option for commercial edition\nFixed: EasyBCD doesn't detect any entries if EFI bootmgr is installed\nFixed: EasyBCD does not properly interpret pae=yes or pae=no\nFixed: EasyBCD can't exit when closing after unsafe removal of loaded USB\nFixed: EasyBCD hangs on Windows 8 w/ .NET 4\nFixed: Setting locale for VHD entry causes entry corruption\nFixed: Setting advanced settings for WinPE entry after creation corrupts entry\nSeparate the update info URIs for the commercial and community editions\nEasyBCD picture in setup welcome screen\nUse new EasyBCD and NeoSmart Technologies logos.\nDate format in default EasyBCD backup filenames is YYYY-MM-DD regardless of locale for sort reasons\nAppend (#) to default EasyBCD backup name if already exists\nSupport High-Contrast Theme\nHigh DPI support w/ translation UI\nFaster enumeration of installed languages\nCommercial version support for auto-updating\nSupport Gentoo Grub2\nSupport Fedora 17, Gentoo, and ArchLinux GRUB2 changes\nEasyBCD can limit up to 99,999MiB of memory\n\n\n\nEasyBCD 2.2-Windows 8 dual-booting and more!\n\n   &lt;a href=&quot;\nhttps://neosmart.net/EasyBCD/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://neosmart.net/EasyBCD/&lt;/a&gt;\n\nDual-boot with anything you could want.\n\n\n\nWhat is EasyBCD Anyway?\n\nEasyBCD is NeoSmart Technologies 100% free Windows bootloader (BCD) modification tool.It all depends on who you ask or what you want to get done, but\n\n    A way to get your Windows Vista or Windows 7 working with Linux, BSD, Mac OS X, and dozens more operating systems without a headache!\n    An IT Guy's number 1 bootloader-troubleshooting tool.\n    A multiple award-winning application, used and recommended by the folks at Microsoft, PC World and more!\n    The easiest way of booting from virtual disks, ISO images, network devices, or USB disks!\n    The best way to do just about anything with Windows Vista/7 before it even turns on!\n\n\nYou're probably itching to get started, so we won't hold you back any longer. Just pick an OS you want to dual-boot into, and be on your way!\n\n    Legacy Windows Versions\n    Windows 2000\n    Windows XP\n    Windows Vista\n    Windows 7\n    Windows 8\n    Linux\n    Mac OS X\n    BSD\n    OS-2\n\n\n    Boot anything:\n\n    Windows, Linux, Mac, &amp; BSD! Boot both from and into USB drives, ISO images, virtual disks, and more.\n\n\n    Boot anywhere:\n\n    Create bootable USB sticks with repair utilities that you can take with you anywhere.\n\n\n    Protect against disaster:\n\n    Create entries to boot into recovery utilities or safe mode to prepare for a rainy day.\n\n\n    Painless editing:\n\n    Add, rename, remove, configure, and reorder entries at whim.\n\n\n    Solve difficult problems:\n\n    Use EasyBCD to troubleshoot Windows, back up and repair the bootloader, and more.\n\n\n    Powerful scripting with NeoGrub:\n\n    You'll have the power to hide partitions, change active flags, and create complex boot scenarios. ",
+  "parsed": {
+    "xt": "urn:btih:8c01288476f9b4fb43722e48dc77f28ef6413b2c",
+    "dn": "EasyBCD 2.2.0.182 (Dual boot Win8/7/Mac/Linux/etc.....)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8c01288476f9b4fb43722e48dc77f28ef6413b2c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        140,
+        1,
+        40,
+        132,
+        118,
+        249,
+        180,
+        251,
+        67,
+        114,
+        46,
+        72,
+        220,
+        119,
+        242,
+        142,
+        246,
+        65,
+        59,
+        44
+      ]
+    },
+    "name": "EasyBCD 2.2.0.182 (Dual boot Win8/7/Mac/Linux/etc.....)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 76,
+  "peers": 79,
+  "last_updated": "2016-12-25T07:19:23.113Z"
+}

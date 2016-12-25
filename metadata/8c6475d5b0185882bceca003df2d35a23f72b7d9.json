@@ -1,1 +1,61 @@
-{"title":"Deep Purple - The very best of Deep Purple","uid":5364735,"size":111828240,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:8c6475d5b0185882bceca003df2d35a23f72b7d9&amp;dn=Deep+Purple+-+The+very+best+of+Deep+Purple&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":1,"uploader":"gerti_id","files":-1,"time":1266228344,"description":"The very Best of Deep Purple\n\n\n1.\tHush [30th Anniversary Remaster]\n2.\tBlack Night [Single Version Remaster]\t\n3.\tSpeed King [Single Version]\n4.\tChild in Time [Single Edit]\t\n5.\tStrange Kind of Woman [Single Version]\n6.\tFireball\t\n7.\tDemon's Eye\n8.\tSmoke on the Water [25th Anniversary Remaster]\n9.\tHighway Star ['97 Remix][Version]\t\n10.\tWhen a Blind Man Cries ['97 Remix][Version]\n11.\tNever Before [Single Edit]\n12.\tWoman from Tokyo [Single Edit]\n13.\tBurn [Single Edit]\n14.\tStormbringer\t\n15.\tYou Keep on Moving [Single Edit]\n16.\tPerfect Strangers [Single Version]\n17.\tTed the Mechanic\n18.\tAny Fule Kno That\n\nEnjoy and keep seeding !","torrent":{"xt":"urn:btih:8c6475d5b0185882bceca003df2d35a23f72b7d9","amp;dn":"Deep+Purple+-+The+very+best+of+Deep+Purple","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8c6475d5b0185882bceca003df2d35a23f72b7d9","infoHashBuffer":{"type":"Buffer","data":[140,100,117,213,176,24,88,130,188,236,160,3,223,45,53,162,63,114,183,217]},"announce":[],"urlList":[]}}
+{
+  "title": "Deep Purple - The very best of Deep Purple",
+  "uid": 5364735,
+  "size": 111828240,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:8c6475d5b0185882bceca003df2d35a23f72b7d9&amp;dn=Deep+Purple+-+The+very+best+of+Deep+Purple&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 1,
+  "uploader": "gerti_id",
+  "files": -1,
+  "time": 1266228344,
+  "description": "The very Best of Deep Purple\n\n\n1.\tHush [30th Anniversary Remaster]\n2.\tBlack Night [Single Version Remaster]\t\n3.\tSpeed King [Single Version]\n4.\tChild in Time [Single Edit]\t\n5.\tStrange Kind of Woman [Single Version]\n6.\tFireball\t\n7.\tDemon's Eye\n8.\tSmoke on the Water [25th Anniversary Remaster]\n9.\tHighway Star ['97 Remix][Version]\t\n10.\tWhen a Blind Man Cries ['97 Remix][Version]\n11.\tNever Before [Single Edit]\n12.\tWoman from Tokyo [Single Edit]\n13.\tBurn [Single Edit]\n14.\tStormbringer\t\n15.\tYou Keep on Moving [Single Edit]\n16.\tPerfect Strangers [Single Version]\n17.\tTed the Mechanic\n18.\tAny Fule Kno That\n\nEnjoy and keep seeding !",
+  "parsed": {
+    "xt": "urn:btih:8c6475d5b0185882bceca003df2d35a23f72b7d9",
+    "dn": "Deep Purple - The very best of Deep Purple",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8c6475d5b0185882bceca003df2d35a23f72b7d9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        140,
+        100,
+        117,
+        213,
+        176,
+        24,
+        88,
+        130,
+        188,
+        236,
+        160,
+        3,
+        223,
+        45,
+        53,
+        162,
+        63,
+        114,
+        183,
+        217
+      ]
+    },
+    "name": "Deep Purple - The very best of Deep Purple",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 77,
+  "peers": 142,
+  "last_updated": "2016-12-25T07:21:45.609Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Cyberlink Power DVD 14 ultra","uid":10914685,"size":147880759,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:8c79e2b79997e26192cf4acd32c3a75dfb6a1788&amp;dn=Cyberlink+Power+DVD+14+ultra&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":101,"leechers":1,"uploader":"Aristobule","files":4,"time":1409296644,"description":"power dvd 14 ultra from Cyberlink\n\ninstall\nactivate\nlaunch","torrent":{"xt":"urn:btih:8c79e2b79997e26192cf4acd32c3a75dfb6a1788","amp;dn":"Cyberlink+Power+DVD+14+ultra","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8c79e2b79997e26192cf4acd32c3a75dfb6a1788","infoHashBuffer":{"type":"Buffer","data":[140,121,226,183,153,151,226,97,146,207,74,205,50,195,167,93,251,106,23,136]},"announce":[],"urlList":[]}}
+{
+  "title": "Cyberlink Power DVD 14 ultra",
+  "uid": 10914685,
+  "size": 147880759,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:8c79e2b79997e26192cf4acd32c3a75dfb6a1788&amp;dn=Cyberlink+Power+DVD+14+ultra&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 101,
+  "leechers": 1,
+  "uploader": "Aristobule",
+  "files": 4,
+  "time": 1409296644,
+  "description": "power dvd 14 ultra from Cyberlink\n\ninstall\nactivate\nlaunch",
+  "parsed": {
+    "xt": "urn:btih:8c79e2b79997e26192cf4acd32c3a75dfb6a1788",
+    "dn": "Cyberlink Power DVD 14 ultra",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8c79e2b79997e26192cf4acd32c3a75dfb6a1788",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        140,
+        121,
+        226,
+        183,
+        153,
+        151,
+        226,
+        97,
+        146,
+        207,
+        74,
+        205,
+        50,
+        195,
+        167,
+        93,
+        251,
+        106,
+        23,
+        136
+      ]
+    },
+    "name": "Cyberlink Power DVD 14 ultra",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 102,
+  "peers": 43,
+  "last_updated": "2016-12-25T07:22:27.766Z"
+}

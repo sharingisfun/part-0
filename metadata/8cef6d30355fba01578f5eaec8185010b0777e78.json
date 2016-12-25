@@ -1,1 +1,61 @@
-{"title":"Game.Of.Thrones.S02E08.FASTSUB.VOSTFR.HDTV.XviD-F4ST","uid":7288187,"size":577916444,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8cef6d30355fba01578f5eaec8185010b0777e78&amp;dn=Game.Of.Thrones.S02E08.FASTSUB.VOSTFR.HDTV.XviD-F4ST&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":131,"leechers":10,"uploader":"maximersk","files":1,"time":1337645292,"description":"Game.Of.Thrones.S02E08.FASTSUB.VOSTFR.HDTV.XviD-F4ST","torrent":{"xt":"urn:btih:8cef6d30355fba01578f5eaec8185010b0777e78","amp;dn":"Game.Of.Thrones.S02E08.FASTSUB.VOSTFR.HDTV.XviD-F4ST","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8cef6d30355fba01578f5eaec8185010b0777e78","infoHashBuffer":{"type":"Buffer","data":[140,239,109,48,53,95,186,1,87,143,94,174,200,24,80,16,176,119,126,120]},"announce":[],"urlList":[]}}
+{
+  "title": "Game.Of.Thrones.S02E08.FASTSUB.VOSTFR.HDTV.XviD-F4ST",
+  "uid": 7288187,
+  "size": 577916444,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8cef6d30355fba01578f5eaec8185010b0777e78&amp;dn=Game.Of.Thrones.S02E08.FASTSUB.VOSTFR.HDTV.XviD-F4ST&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 131,
+  "leechers": 10,
+  "uploader": "maximersk",
+  "files": 1,
+  "time": 1337645292,
+  "description": "Game.Of.Thrones.S02E08.FASTSUB.VOSTFR.HDTV.XviD-F4ST",
+  "parsed": {
+    "xt": "urn:btih:8cef6d30355fba01578f5eaec8185010b0777e78",
+    "dn": "Game.Of.Thrones.S02E08.FASTSUB.VOSTFR.HDTV.XviD-F4ST",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8cef6d30355fba01578f5eaec8185010b0777e78",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        140,
+        239,
+        109,
+        48,
+        53,
+        95,
+        186,
+        1,
+        87,
+        143,
+        94,
+        174,
+        200,
+        24,
+        80,
+        16,
+        176,
+        119,
+        126,
+        120
+      ]
+    },
+    "name": "Game.Of.Thrones.S02E08.FASTSUB.VOSTFR.HDTV.XviD-F4ST",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 141,
+  "peers": 128,
+  "last_updated": "2016-12-25T07:25:40.367Z"
+}
