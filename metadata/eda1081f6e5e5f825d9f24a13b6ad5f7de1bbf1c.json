@@ -1,1 +1,61 @@
-{"title":"Harry Potter y las Reliquias de la Muerte: Parte I","uid":8505751,"size":1329898438,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:eda1081f6e5e5f825d9f24a13b6ad5f7de1bbf1c&amp;dn=Harry+Potter+y+las+Reliquias+de+la+Muerte%3A+Parte+I+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":163,"leechers":5,"uploader":"Miguel223","files":1,"time":1369415332,"description":"Harry Potter y las Reliquias de la Muerte: Parte I ","torrent":{"xt":"urn:btih:eda1081f6e5e5f825d9f24a13b6ad5f7de1bbf1c","amp;dn":"Harry+Potter+y+las+Reliquias+de+la+Muerte%3A+Parte+I+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"eda1081f6e5e5f825d9f24a13b6ad5f7de1bbf1c","infoHashBuffer":{"type":"Buffer","data":[237,161,8,31,110,94,95,130,93,159,36,161,59,106,213,247,222,27,191,28]},"announce":[],"urlList":[]}}
+{
+  "title": "Harry Potter y las Reliquias de la Muerte: Parte I",
+  "uid": 8505751,
+  "size": 1329898438,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:eda1081f6e5e5f825d9f24a13b6ad5f7de1bbf1c&amp;dn=Harry+Potter+y+las+Reliquias+de+la+Muerte%3A+Parte+I+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 163,
+  "leechers": 5,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1369415332,
+  "description": "Harry Potter y las Reliquias de la Muerte: Parte I ",
+  "parsed": {
+    "xt": "urn:btih:eda1081f6e5e5f825d9f24a13b6ad5f7de1bbf1c",
+    "dn": "Harry Potter y las Reliquias de la Muerte: Parte I ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "eda1081f6e5e5f825d9f24a13b6ad5f7de1bbf1c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        237,
+        161,
+        8,
+        31,
+        110,
+        94,
+        95,
+        130,
+        93,
+        159,
+        36,
+        161,
+        59,
+        106,
+        213,
+        247,
+        222,
+        27,
+        191,
+        28
+      ]
+    },
+    "name": "Harry Potter y las Reliquias de la Muerte: Parte I ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 168,
+  "peers": 118,
+  "last_updated": "2016-12-25T17:26:49.668Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Once Upon a Time S04E05 HDTV x264-LOL[ettv]","uid":11295525,"size":262662040,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ed58dae1e00d851b920da02ef8ec997886be129c&amp;dn=Once+Upon+a+Time+S04E05+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":309,"leechers":5,"uploader":"ettv","files":2,"time":1414375161,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:ed58dae1e00d851b920da02ef8ec997886be129c","amp;dn":"Once+Upon+a+Time+S04E05+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ed58dae1e00d851b920da02ef8ec997886be129c","infoHashBuffer":{"type":"Buffer","data":[237,88,218,225,224,13,133,27,146,13,160,46,248,236,153,120,134,190,18,156]},"announce":[],"urlList":[]}}
+{
+  "title": "Once Upon a Time S04E05 HDTV x264-LOL[ettv]",
+  "uid": 11295525,
+  "size": 262662040,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ed58dae1e00d851b920da02ef8ec997886be129c&amp;dn=Once+Upon+a+Time+S04E05+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 309,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1414375161,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:ed58dae1e00d851b920da02ef8ec997886be129c",
+    "dn": "Once Upon a Time S04E05 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ed58dae1e00d851b920da02ef8ec997886be129c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        237,
+        88,
+        218,
+        225,
+        224,
+        13,
+        133,
+        27,
+        146,
+        13,
+        160,
+        46,
+        248,
+        236,
+        153,
+        120,
+        134,
+        190,
+        18,
+        156
+      ]
+    },
+    "name": "Once Upon a Time S04E05 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 314,
+  "peers": 82,
+  "last_updated": "2016-12-25T17:25:05.288Z"
+}

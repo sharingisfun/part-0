@@ -1,1 +1,61 @@
-{"title":"The Ultimate Disney Songs Playlist","uid":9194101,"size":998008490,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ed388060eb8c5478f816b8661d60d5031db5d76f&amp;dn=The+Ultimate+Disney+Songs+Playlist&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":3,"uploader":"torggatan11","files":146,"time":1384450057,"description":"The Ultimate Disney Songs Playlist english songs enyoy","torrent":{"xt":"urn:btih:ed388060eb8c5478f816b8661d60d5031db5d76f","amp;dn":"The+Ultimate+Disney+Songs+Playlist","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ed388060eb8c5478f816b8661d60d5031db5d76f","infoHashBuffer":{"type":"Buffer","data":[237,56,128,96,235,140,84,120,248,22,184,102,29,96,213,3,29,181,215,111]},"announce":[],"urlList":[]}}
+{
+  "title": "The Ultimate Disney Songs Playlist",
+  "uid": 9194101,
+  "size": 998008490,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ed388060eb8c5478f816b8661d60d5031db5d76f&amp;dn=The+Ultimate+Disney+Songs+Playlist&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 3,
+  "uploader": "torggatan11",
+  "files": 146,
+  "time": 1384450057,
+  "description": "The Ultimate Disney Songs Playlist english songs enyoy",
+  "parsed": {
+    "xt": "urn:btih:ed388060eb8c5478f816b8661d60d5031db5d76f",
+    "dn": "The Ultimate Disney Songs Playlist",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ed388060eb8c5478f816b8661d60d5031db5d76f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        237,
+        56,
+        128,
+        96,
+        235,
+        140,
+        84,
+        120,
+        248,
+        22,
+        184,
+        102,
+        29,
+        96,
+        213,
+        3,
+        29,
+        181,
+        215,
+        111
+      ]
+    },
+    "name": "The Ultimate Disney Songs Playlist",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 189,
+  "last_updated": "2016-12-25T17:24:11.119Z"
+}

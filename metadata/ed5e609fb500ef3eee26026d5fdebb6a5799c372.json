@@ -1,1 +1,61 @@
-{"title":"Rihanna - Unapologetic (Deluxe Version) Album","uid":8160218,"size":147560721,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ed5e609fb500ef3eee26026d5fdebb6a5799c372&amp;dn=Rihanna+-+Unapologetic+%28Deluxe+Version%29+Album&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":2,"uploader":"la_musica","files":18,"time":1361236106,"description":"Rihanna - Unapologetic (Deluxe Version) Album\n\n01.Phresh Out the Runway\n02.Diamonds\n03.Numb (feat. Eminem) \n04.Pour It Up\n05.Loveeeeeee Song (feat. Future)\n06.Jump \n07.Right Now (feat. David Guetta)\n08.What Now \n09.Stay (feat. Mikky Ekko)\n10.Nobody's Business (feat. Chris Brown)\n11.Love Without Tragedy / Mother Mary \n12.Get It Over With \n13.No Love Allowed \n14.Lost in Paradise \n15.Half of Me \n16.Diamonds (Dave Aud 100 Extended) \n17.Diamonds (Gregor Salto Downtempo Remix)","torrent":{"xt":"urn:btih:ed5e609fb500ef3eee26026d5fdebb6a5799c372","amp;dn":"Rihanna+-+Unapologetic+%28Deluxe+Version%29+Album","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ed5e609fb500ef3eee26026d5fdebb6a5799c372","infoHashBuffer":{"type":"Buffer","data":[237,94,96,159,181,0,239,62,238,38,2,109,95,222,187,106,87,153,195,114]},"announce":[],"urlList":[]}}
+{
+  "title": "Rihanna - Unapologetic (Deluxe Version) Album",
+  "uid": 8160218,
+  "size": 147560721,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ed5e609fb500ef3eee26026d5fdebb6a5799c372&amp;dn=Rihanna+-+Unapologetic+%28Deluxe+Version%29+Album&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 2,
+  "uploader": "la_musica",
+  "files": 18,
+  "time": 1361236106,
+  "description": "Rihanna - Unapologetic (Deluxe Version) Album\n\n01.Phresh Out the Runway\n02.Diamonds\n03.Numb (feat. Eminem) \n04.Pour It Up\n05.Loveeeeeee Song (feat. Future)\n06.Jump \n07.Right Now (feat. David Guetta)\n08.What Now \n09.Stay (feat. Mikky Ekko)\n10.Nobody's Business (feat. Chris Brown)\n11.Love Without Tragedy / Mother Mary \n12.Get It Over With \n13.No Love Allowed \n14.Lost in Paradise \n15.Half of Me \n16.Diamonds (Dave Aud 100 Extended) \n17.Diamonds (Gregor Salto Downtempo Remix)",
+  "parsed": {
+    "xt": "urn:btih:ed5e609fb500ef3eee26026d5fdebb6a5799c372",
+    "dn": "Rihanna - Unapologetic (Deluxe Version) Album",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ed5e609fb500ef3eee26026d5fdebb6a5799c372",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        237,
+        94,
+        96,
+        159,
+        181,
+        0,
+        239,
+        62,
+        238,
+        38,
+        2,
+        109,
+        95,
+        222,
+        187,
+        106,
+        87,
+        153,
+        195,
+        114
+      ]
+    },
+    "name": "Rihanna - Unapologetic (Deluxe Version) Album",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 30,
+  "last_updated": "2016-12-25T17:25:27.361Z"
+}

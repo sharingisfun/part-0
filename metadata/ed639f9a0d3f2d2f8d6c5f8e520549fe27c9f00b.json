@@ -1,1 +1,61 @@
-{"title":"Jillian Michaels 6 Week Six Pack","uid":6564223,"size":923418624,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:ed639f9a0d3f2d2f8d6c5f8e520549fe27c9f00b&amp;dn=Jillian+Michaels+6+Week+Six+Pack&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":1,"uploader":"wesf90","files":2,"time":1311606615,"description":"Video\n-----\nFormat                           : MPEG-4 Visual\nCodec ID/Hint                    : DivX 5\nBit rate                         : 1500 Kbps\nWidth                            : 672 pixels\nHeight                           : 512 pixels\nFrame rate                       : 29.970 fps\n\nAudio\n-----\nFormat                           : AC-3\nBit rate                         : 192 Kbps\nChannel(s)                       : 2 channels\nSampling rate                    : 48 KHz\nLanguage                         : English\n","torrent":{"xt":"urn:btih:ed639f9a0d3f2d2f8d6c5f8e520549fe27c9f00b","amp;dn":"Jillian+Michaels+6+Week+Six+Pack","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ed639f9a0d3f2d2f8d6c5f8e520549fe27c9f00b","infoHashBuffer":{"type":"Buffer","data":[237,99,159,154,13,63,45,47,141,108,95,142,82,5,73,254,39,201,240,11]},"announce":[],"urlList":[]}}
+{
+  "title": "Jillian Michaels 6 Week Six Pack",
+  "uid": 6564223,
+  "size": 923418624,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:ed639f9a0d3f2d2f8d6c5f8e520549fe27c9f00b&amp;dn=Jillian+Michaels+6+Week+Six+Pack&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 1,
+  "uploader": "wesf90",
+  "files": 2,
+  "time": 1311606615,
+  "description": "Video\n-----\nFormat                           : MPEG-4 Visual\nCodec ID/Hint                    : DivX 5\nBit rate                         : 1500 Kbps\nWidth                            : 672 pixels\nHeight                           : 512 pixels\nFrame rate                       : 29.970 fps\n\nAudio\n-----\nFormat                           : AC-3\nBit rate                         : 192 Kbps\nChannel(s)                       : 2 channels\nSampling rate                    : 48 KHz\nLanguage                         : English\n",
+  "parsed": {
+    "xt": "urn:btih:ed639f9a0d3f2d2f8d6c5f8e520549fe27c9f00b",
+    "dn": "Jillian Michaels 6 Week Six Pack",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ed639f9a0d3f2d2f8d6c5f8e520549fe27c9f00b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        237,
+        99,
+        159,
+        154,
+        13,
+        63,
+        45,
+        47,
+        141,
+        108,
+        95,
+        142,
+        82,
+        5,
+        73,
+        254,
+        39,
+        201,
+        240,
+        11
+      ]
+    },
+    "name": "Jillian Michaels 6 Week Six Pack",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 86,
+  "last_updated": "2016-12-25T17:25:31.372Z"
+}

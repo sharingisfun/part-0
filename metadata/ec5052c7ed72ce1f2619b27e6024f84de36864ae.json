@@ -1,1 +1,63 @@
-{"title":"Final Song - MÃ˜","uid":15681462,"size":10721362,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ec5052c7ed72ce1f2619b27e6024f84de36864ae&amp;dn=Final+Song+-+M%26Oslash%3B&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":68,"leechers":0,"uploader":"difgr","files":1,"time":1472324531,"description":"320kbps - Original Source","torrent":{"xt":"urn:btih:ec5052c7ed72ce1f2619b27e6024f84de36864ae","amp;dn":"Final+Song+-+M%26Oslash%3B","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ec5052c7ed72ce1f2619b27e6024f84de36864ae","infoHashBuffer":{"type":"Buffer","data":[236,80,82,199,237,114,206,31,38,25,178,126,96,36,248,77,227,104,100,174]},"announce":[],"urlList":[]}}
+{
+  "title": "Final Song - MÃ˜",
+  "uid": 15681462,
+  "size": 10721362,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ec5052c7ed72ce1f2619b27e6024f84de36864ae&amp;dn=Final+Song+-+M%26Oslash%3B&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 68,
+  "leechers": 0,
+  "uploader": "difgr",
+  "files": 1,
+  "time": 1472324531,
+  "description": "320kbps - Original Source",
+  "parsed": {
+    "xt": "urn:btih:ec5052c7ed72ce1f2619b27e6024f84de36864ae",
+    "dn": "Final Song - M&Oslash;",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "ec5052c7ed72ce1f2619b27e6024f84de36864ae",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        236,
+        80,
+        82,
+        199,
+        237,
+        114,
+        206,
+        31,
+        38,
+        25,
+        178,
+        126,
+        96,
+        36,
+        248,
+        77,
+        227,
+        104,
+        100,
+        174
+      ]
+    },
+    "name": "Final Song - M&Oslash;",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 100,
+  "last_updated": "2016-12-25T17:18:28.095Z"
+}

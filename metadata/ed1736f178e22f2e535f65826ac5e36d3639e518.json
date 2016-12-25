@@ -1,1 +1,61 @@
-{"title":"50 Cent - Get Rich or Die Trying","uid":3827893,"size":50733400,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ed1736f178e22f2e535f65826ac5e36d3639e518&amp;dn=50+Cent+-+Get+Rich+or+Die+Trying&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":5,"uploader":"Neiviesis1919","files":19,"time":1191383814,"description":"-=Uploaded by neIVIesis=-","torrent":{"xt":"urn:btih:ed1736f178e22f2e535f65826ac5e36d3639e518","amp;dn":"50+Cent+-+Get+Rich+or+Die+Trying","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ed1736f178e22f2e535f65826ac5e36d3639e518","infoHashBuffer":{"type":"Buffer","data":[237,23,54,241,120,226,47,46,83,95,101,130,106,197,227,109,54,57,229,24]},"announce":[],"urlList":[]}}
+{
+  "title": "50 Cent - Get Rich or Die Trying",
+  "uid": 3827893,
+  "size": 50733400,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ed1736f178e22f2e535f65826ac5e36d3639e518&amp;dn=50+Cent+-+Get+Rich+or+Die+Trying&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 5,
+  "uploader": "Neiviesis1919",
+  "files": 19,
+  "time": 1191383814,
+  "description": "-=Uploaded by neIVIesis=-",
+  "parsed": {
+    "xt": "urn:btih:ed1736f178e22f2e535f65826ac5e36d3639e518",
+    "dn": "50 Cent - Get Rich or Die Trying",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ed1736f178e22f2e535f65826ac5e36d3639e518",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        237,
+        23,
+        54,
+        241,
+        120,
+        226,
+        47,
+        46,
+        83,
+        95,
+        101,
+        130,
+        106,
+        197,
+        227,
+        109,
+        54,
+        57,
+        229,
+        24
+      ]
+    },
+    "name": "50 Cent - Get Rich or Die Trying",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 289,
+  "last_updated": "2016-12-25T17:23:08.928Z"
+}

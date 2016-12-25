@@ -1,1 +1,61 @@
-{"title":"Scandal S03E12 HDTV x264-LOL[ettv]","uid":9716915,"size":224679754,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ec977d2decab19ae403428c34d3a3866994c3851&amp;dn=Scandal+S03E12+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":2,"uploader":"ettv","files":2,"time":1394168539,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:ec977d2decab19ae403428c34d3a3866994c3851","amp;dn":"Scandal+S03E12+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ec977d2decab19ae403428c34d3a3866994c3851","infoHashBuffer":{"type":"Buffer","data":[236,151,125,45,236,171,25,174,64,52,40,195,77,58,56,102,153,76,56,81]},"announce":[],"urlList":[]}}
+{
+  "title": "Scandal S03E12 HDTV x264-LOL[ettv]",
+  "uid": 9716915,
+  "size": 224679754,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ec977d2decab19ae403428c34d3a3866994c3851&amp;dn=Scandal+S03E12+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1394168539,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:ec977d2decab19ae403428c34d3a3866994c3851",
+    "dn": "Scandal S03E12 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ec977d2decab19ae403428c34d3a3866994c3851",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        236,
+        151,
+        125,
+        45,
+        236,
+        171,
+        25,
+        174,
+        64,
+        52,
+        40,
+        195,
+        77,
+        58,
+        56,
+        102,
+        153,
+        76,
+        56,
+        81
+      ]
+    },
+    "name": "Scandal S03E12 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 45,
+  "last_updated": "2016-12-25T17:20:10.420Z"
+}

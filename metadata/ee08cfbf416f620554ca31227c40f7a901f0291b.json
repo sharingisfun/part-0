@@ -1,1 +1,61 @@
-{"title":"Imagine Dragons - Smoke + Mirrors (Super Deluxe Edition) (2015)","uid":11697053,"size":192772300,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:ee08cfbf416f620554ca31227c40f7a901f0291b&amp;dn=Imagine+Dragons+-+Smoke+%2B+Mirrors+%28Super+Deluxe+Edition%29+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":95,"leechers":14,"uploader":"the.HH","files":21,"time":1423757422,"description":"Enjoy!\nSupport Artist!","torrent":{"xt":"urn:btih:ee08cfbf416f620554ca31227c40f7a901f0291b","amp;dn":"Imagine+Dragons+-+Smoke+%2B+Mirrors+%28Super+Deluxe+Edition%29+%282015%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ee08cfbf416f620554ca31227c40f7a901f0291b","infoHashBuffer":{"type":"Buffer","data":[238,8,207,191,65,111,98,5,84,202,49,34,124,64,247,169,1,240,41,27]},"announce":[],"urlList":[]}}
+{
+  "title": "Imagine Dragons - Smoke + Mirrors (Super Deluxe Edition) (2015)",
+  "uid": 11697053,
+  "size": 192772300,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:ee08cfbf416f620554ca31227c40f7a901f0291b&amp;dn=Imagine+Dragons+-+Smoke+%2B+Mirrors+%28Super+Deluxe+Edition%29+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 95,
+  "leechers": 14,
+  "uploader": "the.HH",
+  "files": 21,
+  "time": 1423757422,
+  "description": "Enjoy!\nSupport Artist!",
+  "parsed": {
+    "xt": "urn:btih:ee08cfbf416f620554ca31227c40f7a901f0291b",
+    "dn": "Imagine Dragons - Smoke   Mirrors (Super Deluxe Edition) (2015)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ee08cfbf416f620554ca31227c40f7a901f0291b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        238,
+        8,
+        207,
+        191,
+        65,
+        111,
+        98,
+        5,
+        84,
+        202,
+        49,
+        34,
+        124,
+        64,
+        247,
+        169,
+        1,
+        240,
+        41,
+        27
+      ]
+    },
+    "name": "Imagine Dragons - Smoke   Mirrors (Super Deluxe Edition) (2015)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 109,
+  "peers": 47,
+  "last_updated": "2016-12-25T17:29:28.311Z"
+}

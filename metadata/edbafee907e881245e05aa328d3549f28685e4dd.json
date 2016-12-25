@@ -1,1 +1,61 @@
-{"title":"Pretty Little Liars S04E07 HDTV x264-LOL[ettv]","uid":8733010,"size":252085388,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:edbafee907e881245e05aa328d3549f28685e4dd&amp;dn=Pretty+Little+Liars+S04E07+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":3,"uploader":"ettv","files":2,"time":1374634849,"description":"x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n","torrent":{"xt":"urn:btih:edbafee907e881245e05aa328d3549f28685e4dd","amp;dn":"Pretty+Little+Liars+S04E07+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"edbafee907e881245e05aa328d3549f28685e4dd","infoHashBuffer":{"type":"Buffer","data":[237,186,254,233,7,232,129,36,94,5,170,50,141,53,73,242,134,133,228,221]},"announce":[],"urlList":[]}}
+{
+  "title": "Pretty Little Liars S04E07 HDTV x264-LOL[ettv]",
+  "uid": 8733010,
+  "size": 252085388,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:edbafee907e881245e05aa328d3549f28685e4dd&amp;dn=Pretty+Little+Liars+S04E07+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1374634849,
+  "description": "x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n",
+  "parsed": {
+    "xt": "urn:btih:edbafee907e881245e05aa328d3549f28685e4dd",
+    "dn": "Pretty Little Liars S04E07 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "edbafee907e881245e05aa328d3549f28685e4dd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        237,
+        186,
+        254,
+        233,
+        7,
+        232,
+        129,
+        36,
+        94,
+        5,
+        170,
+        50,
+        141,
+        53,
+        73,
+        242,
+        134,
+        133,
+        228,
+        221
+      ]
+    },
+    "name": "Pretty Little Liars S04E07 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 10,
+  "last_updated": "2016-12-25T17:27:39.904Z"
+}

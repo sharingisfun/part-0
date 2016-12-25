@@ -1,1 +1,63 @@
-{"title":"Dead Effect 2 (2016) RePack","uid":15964334,"size":12612591,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:ebc05d9cef05f89ae737056f711634f1ad665295&amp;dn=Dead+Effect+2+%282016%29+RePack&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":93,"leechers":65,"uploader":"trwetwr","files":2,"time":1475707541,"description":"Good Game","torrent":{"xt":"urn:btih:ebc05d9cef05f89ae737056f711634f1ad665295","amp;dn":"Dead+Effect+2+%282016%29+RePack","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ebc05d9cef05f89ae737056f711634f1ad665295","infoHashBuffer":{"type":"Buffer","data":[235,192,93,156,239,5,248,154,231,55,5,111,113,22,52,241,173,102,82,149]},"announce":[],"urlList":[]}}
+{
+  "title": "Dead Effect 2 (2016) RePack",
+  "uid": 15964334,
+  "size": 12612591,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:ebc05d9cef05f89ae737056f711634f1ad665295&amp;dn=Dead+Effect+2+%282016%29+RePack&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 93,
+  "leechers": 65,
+  "uploader": "trwetwr",
+  "files": 2,
+  "time": 1475707541,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:ebc05d9cef05f89ae737056f711634f1ad665295",
+    "dn": "Dead Effect 2 (2016) RePack",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "ebc05d9cef05f89ae737056f711634f1ad665295",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        235,
+        192,
+        93,
+        156,
+        239,
+        5,
+        248,
+        154,
+        231,
+        55,
+        5,
+        111,
+        113,
+        22,
+        52,
+        241,
+        173,
+        102,
+        82,
+        149
+      ]
+    },
+    "name": "Dead Effect 2 (2016) RePack",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 158,
+  "peers": 2,
+  "last_updated": "2016-12-25T17:15:19.563Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Darth Vader 005 (2015) (Digital) (BlackManta-Empire)","uid":11918295,"size":36975471,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:eb6d419e7f133d971c446a3aeddd100a25fe2986&amp;dn=Darth+Vader+005+%282015%29+%28Digital%29+%28BlackManta-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":2,"uploader":"jedi.jesse","files":1,"time":1431580165,"description":"Vader continues his investigation into the Emperor's secrets... Not everyone wants him to find out the truth. Who are Vader's mysterious new rivals?","torrent":{"xt":"urn:btih:eb6d419e7f133d971c446a3aeddd100a25fe2986","amp;dn":"Darth+Vader+005+%282015%29+%28Digital%29+%28BlackManta-Empire%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"eb6d419e7f133d971c446a3aeddd100a25fe2986","infoHashBuffer":{"type":"Buffer","data":[235,109,65,158,127,19,61,151,28,68,106,58,237,221,16,10,37,254,41,134]},"announce":[],"urlList":[]}}
+{
+  "title": "Darth Vader 005 (2015) (Digital) (BlackManta-Empire)",
+  "uid": 11918295,
+  "size": 36975471,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:eb6d419e7f133d971c446a3aeddd100a25fe2986&amp;dn=Darth+Vader+005+%282015%29+%28Digital%29+%28BlackManta-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 2,
+  "uploader": "jedi.jesse",
+  "files": 1,
+  "time": 1431580165,
+  "description": "Vader continues his investigation into the Emperor's secrets... Not everyone wants him to find out the truth. Who are Vader's mysterious new rivals?",
+  "parsed": {
+    "xt": "urn:btih:eb6d419e7f133d971c446a3aeddd100a25fe2986",
+    "dn": "Darth Vader 005 (2015) (Digital) (BlackManta-Empire)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "eb6d419e7f133d971c446a3aeddd100a25fe2986",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        235,
+        109,
+        65,
+        158,
+        127,
+        19,
+        61,
+        151,
+        28,
+        68,
+        106,
+        58,
+        237,
+        221,
+        16,
+        10,
+        37,
+        254,
+        41,
+        134
+      ]
+    },
+    "name": "Darth Vader 005 (2015) (Digital) (BlackManta-Empire)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 8,
+  "last_updated": "2016-12-25T17:13:17.195Z"
+}

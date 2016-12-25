@@ -1,1 +1,61 @@
-{"title":"Game Of Thrones S05E03 720p HDTV Dublado","uid":11852152,"size":1046253166,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:ec3426dc537e7c241473b93b139b01ca05e8c75c&amp;dn=Game+Of+Thrones+S05E03+720p+HDTV+Dublado&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":258,"leechers":18,"uploader":"jefffalcao","files":1,"time":1430113155,"description":"Game Of Thrones S05E03 720p HDTV Dublado","torrent":{"xt":"urn:btih:ec3426dc537e7c241473b93b139b01ca05e8c75c","amp;dn":"Game+Of+Thrones+S05E03+720p+HDTV+Dublado","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ec3426dc537e7c241473b93b139b01ca05e8c75c","infoHashBuffer":{"type":"Buffer","data":[236,52,38,220,83,126,124,36,20,115,185,59,19,155,1,202,5,232,199,92]},"announce":[],"urlList":[]}}
+{
+  "title": "Game Of Thrones S05E03 720p HDTV Dublado",
+  "uid": 11852152,
+  "size": 1046253166,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:ec3426dc537e7c241473b93b139b01ca05e8c75c&amp;dn=Game+Of+Thrones+S05E03+720p+HDTV+Dublado&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 258,
+  "leechers": 18,
+  "uploader": "jefffalcao",
+  "files": 1,
+  "time": 1430113155,
+  "description": "Game Of Thrones S05E03 720p HDTV Dublado",
+  "parsed": {
+    "xt": "urn:btih:ec3426dc537e7c241473b93b139b01ca05e8c75c",
+    "dn": "Game Of Thrones S05E03 720p HDTV Dublado",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ec3426dc537e7c241473b93b139b01ca05e8c75c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        236,
+        52,
+        38,
+        220,
+        83,
+        126,
+        124,
+        36,
+        20,
+        115,
+        185,
+        59,
+        19,
+        155,
+        1,
+        202,
+        5,
+        232,
+        199,
+        92
+      ]
+    },
+    "name": "Game Of Thrones S05E03 720p HDTV Dublado",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 276,
+  "peers": 28,
+  "last_updated": "2016-12-25T17:17:47.976Z"
+}

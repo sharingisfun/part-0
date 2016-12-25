@@ -1,1 +1,61 @@
-{"title":"Modest Mouse - Strangers To Ourselves (2015)","uid":11739384,"size":136875977,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ec21ea3969f1a02f29b96f7763c0aa33d8ef22f2&amp;dn=Modest+Mouse+-+Strangers+To+Ourselves+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":277,"leechers":6,"uploader":"santicaz","files":15,"time":1425711124,"description":"Artist: Modest Mouse\nTitle Of Album: Strangers To Ourselves\nYear Of Release: 2015\nLabel: Columbia\nGenre: Indie Rock\nQuality: 320 kbps\nTotal Time: 56:51 min\nTotal Size: 130 MB\n\n\nTracklist:\n\n01 - Strangers To Ourselves\n02 - Lampshades On Fire\n03 - Shit In Your Cut\n04 - Pistol (A. Cunanan, Miami, FL. 1996)\n05 - Ansel\n06 - The Ground Walks, With Time In A Box\n07 - Coyotes\n08 - Pups To Dust\n09 - Sugar Boats\n10 - Wicked Campaign\n11 - Be Brave\n12 - God Is An Indian And You're An Asshole\n13 - The Tortoise And The Tourist\n14 - The Best Room\n15 - Of Course We Know","torrent":{"xt":"urn:btih:ec21ea3969f1a02f29b96f7763c0aa33d8ef22f2","amp;dn":"Modest+Mouse+-+Strangers+To+Ourselves+%282015%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ec21ea3969f1a02f29b96f7763c0aa33d8ef22f2","infoHashBuffer":{"type":"Buffer","data":[236,33,234,57,105,241,160,47,41,185,111,119,99,192,170,51,216,239,34,242]},"announce":[],"urlList":[]}}
+{
+  "title": "Modest Mouse - Strangers To Ourselves (2015)",
+  "uid": 11739384,
+  "size": 136875977,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ec21ea3969f1a02f29b96f7763c0aa33d8ef22f2&amp;dn=Modest+Mouse+-+Strangers+To+Ourselves+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 277,
+  "leechers": 6,
+  "uploader": "santicaz",
+  "files": 15,
+  "time": 1425711124,
+  "description": "Artist: Modest Mouse\nTitle Of Album: Strangers To Ourselves\nYear Of Release: 2015\nLabel: Columbia\nGenre: Indie Rock\nQuality: 320 kbps\nTotal Time: 56:51 min\nTotal Size: 130 MB\n\n\nTracklist:\n\n01 - Strangers To Ourselves\n02 - Lampshades On Fire\n03 - Shit In Your Cut\n04 - Pistol (A. Cunanan, Miami, FL. 1996)\n05 - Ansel\n06 - The Ground Walks, With Time In A Box\n07 - Coyotes\n08 - Pups To Dust\n09 - Sugar Boats\n10 - Wicked Campaign\n11 - Be Brave\n12 - God Is An Indian And You're An Asshole\n13 - The Tortoise And The Tourist\n14 - The Best Room\n15 - Of Course We Know",
+  "parsed": {
+    "xt": "urn:btih:ec21ea3969f1a02f29b96f7763c0aa33d8ef22f2",
+    "dn": "Modest Mouse - Strangers To Ourselves (2015)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ec21ea3969f1a02f29b96f7763c0aa33d8ef22f2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        236,
+        33,
+        234,
+        57,
+        105,
+        241,
+        160,
+        47,
+        41,
+        185,
+        111,
+        119,
+        99,
+        192,
+        170,
+        51,
+        216,
+        239,
+        34,
+        242
+      ]
+    },
+    "name": "Modest Mouse - Strangers To Ourselves (2015)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 283,
+  "peers": 88,
+  "last_updated": "2016-12-25T17:17:29.930Z"
+}
