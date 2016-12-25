@@ -1,1 +1,61 @@
-{"title":"Code.Of.A.Killer.S01E01.HDTV.x264-ORGANiC[ettv]","uid":11800870,"size":361039321,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8210f377e045f824cdb18defd5b9cba7b3b0aaab&amp;dn=Code.Of.A.Killer.S01E01.HDTV.x264-ORGANiC%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":11,"uploader":"ettv","files":4,"time":1428367981,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:8210f377e045f824cdb18defd5b9cba7b3b0aaab","amp;dn":"Code.Of.A.Killer.S01E01.HDTV.x264-ORGANiC%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8210f377e045f824cdb18defd5b9cba7b3b0aaab","infoHashBuffer":{"type":"Buffer","data":[130,16,243,119,224,69,248,36,205,177,141,239,213,185,203,167,179,176,170,171]},"announce":[],"urlList":[]}}
+{
+  "title": "Code.Of.A.Killer.S01E01.HDTV.x264-ORGANiC[ettv]",
+  "uid": 11800870,
+  "size": 361039321,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8210f377e045f824cdb18defd5b9cba7b3b0aaab&amp;dn=Code.Of.A.Killer.S01E01.HDTV.x264-ORGANiC%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 11,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1428367981,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:8210f377e045f824cdb18defd5b9cba7b3b0aaab",
+    "dn": "Code.Of.A.Killer.S01E01.HDTV.x264-ORGANiC[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8210f377e045f824cdb18defd5b9cba7b3b0aaab",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        130,
+        16,
+        243,
+        119,
+        224,
+        69,
+        248,
+        36,
+        205,
+        177,
+        141,
+        239,
+        213,
+        185,
+        203,
+        167,
+        179,
+        176,
+        170,
+        171
+      ]
+    },
+    "name": "Code.Of.A.Killer.S01E01.HDTV.x264-ORGANiC[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 4,
+  "last_updated": "2016-12-25T06:14:58.649Z"
+}

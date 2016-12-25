@@ -1,1 +1,61 @@
-{"title":"The Black Keys - El Camino [320k MP3]","uid":7346430,"size":93517561,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:82499f4ccdf2975b171fe87a1bd37c609c510dcb&amp;dn=The+Black+Keys+-+El+Camino+%5B320k+MP3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":305,"leechers":12,"uploader":"smbdownload","files":-1,"time":1339436963,"description":"El Camino is the seventh studio album by American rock band The Black Keys. It was co-produced by Danger Mouse and the band, and was released on December 6, 2011 on Nonesuch Records.\n\nTrack Listing [320k MP3]\n\n\n01. \t&quot;Lonely Boy&quot;   \t3:13\n02. \t&quot;Dead and Gone&quot;   \t3:41\n03. \t&quot;Gold on the Ceiling&quot;   \t3:44\n04. \t&quot;Little Black Submarines&quot;   \t4:11\n05. \t&quot;Money Maker&quot;   \t2:57\n06. \t&quot;Run Right Back&quot;   \t3:17\n07. \t&quot;Sister&quot;   \t3:25\n08. \t&quot;Hell of a Season&quot;   \t3:45\n09. \t&quot;Stop Stop&quot;   \t3:30\n10. \t&quot;Nova Baby&quot;   \t3:27\n11. \t&quot;Mind Eraser&quot;   \t3:15","torrent":{"xt":"urn:btih:82499f4ccdf2975b171fe87a1bd37c609c510dcb","amp;dn":"The+Black+Keys+-+El+Camino+%5B320k+MP3%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"82499f4ccdf2975b171fe87a1bd37c609c510dcb","infoHashBuffer":{"type":"Buffer","data":[130,73,159,76,205,242,151,91,23,31,232,122,27,211,124,96,156,81,13,203]},"announce":[],"urlList":[]}}
+{
+  "title": "The Black Keys - El Camino [320k MP3]",
+  "uid": 7346430,
+  "size": 93517561,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:82499f4ccdf2975b171fe87a1bd37c609c510dcb&amp;dn=The+Black+Keys+-+El+Camino+%5B320k+MP3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 305,
+  "leechers": 12,
+  "uploader": "smbdownload",
+  "files": -1,
+  "time": 1339436963,
+  "description": "El Camino is the seventh studio album by American rock band The Black Keys. It was co-produced by Danger Mouse and the band, and was released on December 6, 2011 on Nonesuch Records.\n\nTrack Listing [320k MP3]\n\n\n01. \t&quot;Lonely Boy&quot;   \t3:13\n02. \t&quot;Dead and Gone&quot;   \t3:41\n03. \t&quot;Gold on the Ceiling&quot;   \t3:44\n04. \t&quot;Little Black Submarines&quot;   \t4:11\n05. \t&quot;Money Maker&quot;   \t2:57\n06. \t&quot;Run Right Back&quot;   \t3:17\n07. \t&quot;Sister&quot;   \t3:25\n08. \t&quot;Hell of a Season&quot;   \t3:45\n09. \t&quot;Stop Stop&quot;   \t3:30\n10. \t&quot;Nova Baby&quot;   \t3:27\n11. \t&quot;Mind Eraser&quot;   \t3:15",
+  "parsed": {
+    "xt": "urn:btih:82499f4ccdf2975b171fe87a1bd37c609c510dcb",
+    "dn": "The Black Keys - El Camino [320k MP3]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "82499f4ccdf2975b171fe87a1bd37c609c510dcb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        130,
+        73,
+        159,
+        76,
+        205,
+        242,
+        151,
+        91,
+        23,
+        31,
+        232,
+        122,
+        27,
+        211,
+        124,
+        96,
+        156,
+        81,
+        13,
+        203
+      ]
+    },
+    "name": "The Black Keys - El Camino [320k MP3]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 317,
+  "peers": 50,
+  "last_updated": "2016-12-25T06:16:22.896Z"
+}

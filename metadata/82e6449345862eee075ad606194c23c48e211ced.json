@@ -1,1 +1,61 @@
-{"title":"Sons Of Anarchy 1x12 DVD DVB Spanish","uid":5460017,"size":387826424,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:82e6449345862eee075ad606194c23c48e211ced&amp;dn=Sons+Of+Anarchy+1x12+DVD+DVB+Spanish&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":0,"uploader":"Mois20","files":1,"time":1269444054,"description":"Sons Of Anarchy 1x12 DVD DVB Spanish","torrent":{"xt":"urn:btih:82e6449345862eee075ad606194c23c48e211ced","amp;dn":"Sons+Of+Anarchy+1x12+DVD+DVB+Spanish","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"82e6449345862eee075ad606194c23c48e211ced","infoHashBuffer":{"type":"Buffer","data":[130,230,68,147,69,134,46,238,7,90,214,6,25,76,35,196,142,33,28,237]},"announce":[],"urlList":[]}}
+{
+  "title": "Sons Of Anarchy 1x12 DVD DVB Spanish",
+  "uid": 5460017,
+  "size": 387826424,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:82e6449345862eee075ad606194c23c48e211ced&amp;dn=Sons+Of+Anarchy+1x12+DVD+DVB+Spanish&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 0,
+  "uploader": "Mois20",
+  "files": 1,
+  "time": 1269444054,
+  "description": "Sons Of Anarchy 1x12 DVD DVB Spanish",
+  "parsed": {
+    "xt": "urn:btih:82e6449345862eee075ad606194c23c48e211ced",
+    "dn": "Sons Of Anarchy 1x12 DVD DVB Spanish",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "82e6449345862eee075ad606194c23c48e211ced",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        130,
+        230,
+        68,
+        147,
+        69,
+        134,
+        46,
+        238,
+        7,
+        90,
+        214,
+        6,
+        25,
+        76,
+        35,
+        196,
+        142,
+        33,
+        28,
+        237
+      ]
+    },
+    "name": "Sons Of Anarchy 1x12 DVD DVB Spanish",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 111,
+  "last_updated": "2016-12-25T06:20:31.631Z"
+}

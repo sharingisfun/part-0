@@ -1,1 +1,61 @@
-{"title":"Shrek HDRip","uid":8774874,"size":1760175898,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:824ff1a3763a82d25d9ab01478a3309c7cf494d3&amp;dn=Shrek+HDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":1,"uploader":"Miguel223","files":1,"time":1375529750,"description":"EspaÃƒÂ±ol\n &lt;a href=&quot;\nhttp://www.peliculasytorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.peliculasytorrent.com/&lt;/a&gt;","torrent":{"xt":"urn:btih:824ff1a3763a82d25d9ab01478a3309c7cf494d3","amp;dn":"Shrek+HDRip","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"824ff1a3763a82d25d9ab01478a3309c7cf494d3","infoHashBuffer":{"type":"Buffer","data":[130,79,241,163,118,58,130,210,93,154,176,20,120,163,48,156,124,244,148,211]},"announce":[],"urlList":[]}}
+{
+  "title": "Shrek HDRip",
+  "uid": 8774874,
+  "size": 1760175898,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:824ff1a3763a82d25d9ab01478a3309c7cf494d3&amp;dn=Shrek+HDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 1,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1375529750,
+  "description": "EspaÃƒÂ±ol\n &lt;a href=&quot;\nhttp://www.peliculasytorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.peliculasytorrent.com/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:824ff1a3763a82d25d9ab01478a3309c7cf494d3",
+    "dn": "Shrek HDRip",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "824ff1a3763a82d25d9ab01478a3309c7cf494d3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        130,
+        79,
+        241,
+        163,
+        118,
+        58,
+        130,
+        210,
+        93,
+        154,
+        176,
+        20,
+        120,
+        163,
+        48,
+        156,
+        124,
+        244,
+        148,
+        211
+      ]
+    },
+    "name": "Shrek HDRip",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 63,
+  "peers": 9,
+  "last_updated": "2016-12-25T06:16:48.971Z"
+}

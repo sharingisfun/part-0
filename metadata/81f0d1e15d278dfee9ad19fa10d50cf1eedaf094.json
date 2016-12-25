@@ -1,1 +1,61 @@
-{"title":"Adele - 19 (Deluxe Edition)","uid":4836800,"size":74643456,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:81f0d1e15d278dfee9ad19fa10d50cf1eedaf094&amp;dn=Adele+-+19+%28Deluxe+Edition%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":6,"uploader":"mariannal","files":-1,"time":1239351771,"description":"Artist: Adele\nAlbum: 19 (Deluxe Edition)\nRelease Date: December 9, 2008\n\n01. Daydreams\n02. Best For Last\n03. Chasing Pavements\n04. Cold Shoulder\n05. Crazy For You\n06. Melt My Heart To Stone\n07. First Stone\n08. Right As Rain\n09. Make You Feel My Love\n10. My Same\n11. Tired\n12. Hometown Glory\n13. Right As Rain (Live)\n14. Melt My Heart To Stone (Live)\n15. My Same (Live)\n16. That's It, I Quit, I'm Moving On (Live)\n17. Chasing Pavements (Live)\n\nEnjoy!","torrent":{"xt":"urn:btih:81f0d1e15d278dfee9ad19fa10d50cf1eedaf094","amp;dn":"Adele+-+19+%28Deluxe+Edition%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"81f0d1e15d278dfee9ad19fa10d50cf1eedaf094","infoHashBuffer":{"type":"Buffer","data":[129,240,209,225,93,39,141,254,233,173,25,250,16,213,12,241,238,218,240,148]},"announce":[],"urlList":[]}}
+{
+  "title": "Adele - 19 (Deluxe Edition)",
+  "uid": 4836800,
+  "size": 74643456,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:81f0d1e15d278dfee9ad19fa10d50cf1eedaf094&amp;dn=Adele+-+19+%28Deluxe+Edition%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 6,
+  "uploader": "mariannal",
+  "files": -1,
+  "time": 1239351771,
+  "description": "Artist: Adele\nAlbum: 19 (Deluxe Edition)\nRelease Date: December 9, 2008\n\n01. Daydreams\n02. Best For Last\n03. Chasing Pavements\n04. Cold Shoulder\n05. Crazy For You\n06. Melt My Heart To Stone\n07. First Stone\n08. Right As Rain\n09. Make You Feel My Love\n10. My Same\n11. Tired\n12. Hometown Glory\n13. Right As Rain (Live)\n14. Melt My Heart To Stone (Live)\n15. My Same (Live)\n16. That's It, I Quit, I'm Moving On (Live)\n17. Chasing Pavements (Live)\n\nEnjoy!",
+  "parsed": {
+    "xt": "urn:btih:81f0d1e15d278dfee9ad19fa10d50cf1eedaf094",
+    "dn": "Adele - 19 (Deluxe Edition)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "81f0d1e15d278dfee9ad19fa10d50cf1eedaf094",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        129,
+        240,
+        209,
+        225,
+        93,
+        39,
+        141,
+        254,
+        233,
+        173,
+        25,
+        250,
+        16,
+        213,
+        12,
+        241,
+        238,
+        218,
+        240,
+        148
+      ]
+    },
+    "name": "Adele - 19 (Deluxe Edition)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 63,
+  "peers": 105,
+  "last_updated": "2016-12-25T06:14:02.496Z"
+}

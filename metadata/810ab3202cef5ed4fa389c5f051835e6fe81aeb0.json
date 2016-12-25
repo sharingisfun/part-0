@@ -1,1 +1,61 @@
-{"title":"Earth Wind and Fire - Greatest Hits","uid":7312467,"size":169128257,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:810ab3202cef5ed4fa389c5f051835e6fe81aeb0&amp;dn=Earth+Wind+and+Fire+-+Greatest+Hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":155,"leechers":8,"uploader":"maximersk","files":18,"time":1338390836,"description":"Earth Wind and Fire - Greatest Hits\n\n\n\n\n\n1. Shining Star\n2. That's the Way of the World\n3. September\n4. Can't Hide Love\n5. Got To Get You Into My Life\n6. Sing a Song\n7. Gratitude\n8. Serpentine Fire\n9. Fantasy\n10. Kalimba Story\n11. Mighty Mighty\n12. Reasons\n13. Saturday Night\n14. Let's Groove\n15. Boogie Wonderland\n16. After The Love Has Gone\n17. Getaway","torrent":{"xt":"urn:btih:810ab3202cef5ed4fa389c5f051835e6fe81aeb0","amp;dn":"Earth+Wind+and+Fire+-+Greatest+Hits","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"810ab3202cef5ed4fa389c5f051835e6fe81aeb0","infoHashBuffer":{"type":"Buffer","data":[129,10,179,32,44,239,94,212,250,56,156,95,5,24,53,230,254,129,174,176]},"announce":[],"urlList":[]}}
+{
+  "title": "Earth Wind and Fire - Greatest Hits",
+  "uid": 7312467,
+  "size": 169128257,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:810ab3202cef5ed4fa389c5f051835e6fe81aeb0&amp;dn=Earth+Wind+and+Fire+-+Greatest+Hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 155,
+  "leechers": 8,
+  "uploader": "maximersk",
+  "files": 18,
+  "time": 1338390836,
+  "description": "Earth Wind and Fire - Greatest Hits\n\n\n\n\n\n1. Shining Star\n2. That's the Way of the World\n3. September\n4. Can't Hide Love\n5. Got To Get You Into My Life\n6. Sing a Song\n7. Gratitude\n8. Serpentine Fire\n9. Fantasy\n10. Kalimba Story\n11. Mighty Mighty\n12. Reasons\n13. Saturday Night\n14. Let's Groove\n15. Boogie Wonderland\n16. After The Love Has Gone\n17. Getaway",
+  "parsed": {
+    "xt": "urn:btih:810ab3202cef5ed4fa389c5f051835e6fe81aeb0",
+    "dn": "Earth Wind and Fire - Greatest Hits",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "810ab3202cef5ed4fa389c5f051835e6fe81aeb0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        129,
+        10,
+        179,
+        32,
+        44,
+        239,
+        94,
+        212,
+        250,
+        56,
+        156,
+        95,
+        5,
+        24,
+        53,
+        230,
+        254,
+        129,
+        174,
+        176
+      ]
+    },
+    "name": "Earth Wind and Fire - Greatest Hits",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 163,
+  "peers": 79,
+  "last_updated": "2016-12-25T06:08:39.447Z"
+}

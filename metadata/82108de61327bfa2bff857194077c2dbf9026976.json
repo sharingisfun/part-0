@@ -1,1 +1,61 @@
-{"title":"Lynda.com - Up and Running with Bootstrap 3","uid":9042400,"size":684075994,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:82108de61327bfa2bff857194077c2dbf9026976&amp;dn=Lynda.com+-+Up+and+Running+with+Bootstrap+3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":5,"uploader":"sigor10","files":38,"time":1381623551,"description":"Meet Bootstrap, the one-stop shop for designing sleek, mobile-ready websites with HTML5, CSS3, and JavaScript. ItÃ¢â‚¬â„¢s an open-source, responsive design framework, featuring a grid-based layout system, web-ready icons you can incorporate into your designs, fully functional navigation, and much more. Join Jen Kramer for a quick overview of all of the goodies in Bootstrap, and then learn how to customize the grid, override the CSS to customize your site, and leverage BootstrapÃ¢â‚¬â„¢s stylish built-in JavaScript effects. Once youÃ¢â‚¬â„¢re prepared to test your knowledge, you can take the hands-on challenges offered by Jen.\n\nTopics include:\n\n    Downloading and installing Bootstrap\n    Understanding the Bootstrap file structure\n    Exploring the 12-column grid\n    Changing column width and order\n    Styling buttons, images, and tables\n    Overriding core CSS\n    Creating a thumbnail gallery\n    Adding JavaScript effects, like dropdown menus, tabs, accordions, and more\n\n","torrent":{"xt":"urn:btih:82108de61327bfa2bff857194077c2dbf9026976","amp;dn":"Lynda.com+-+Up+and+Running+with+Bootstrap+3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"82108de61327bfa2bff857194077c2dbf9026976","infoHashBuffer":{"type":"Buffer","data":[130,16,141,230,19,39,191,162,191,248,87,25,64,119,194,219,249,2,105,118]},"announce":[],"urlList":[]}}
+{
+  "title": "Lynda.com - Up and Running with Bootstrap 3",
+  "uid": 9042400,
+  "size": 684075994,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:82108de61327bfa2bff857194077c2dbf9026976&amp;dn=Lynda.com+-+Up+and+Running+with+Bootstrap+3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 5,
+  "uploader": "sigor10",
+  "files": 38,
+  "time": 1381623551,
+  "description": "Meet Bootstrap, the one-stop shop for designing sleek, mobile-ready websites with HTML5, CSS3, and JavaScript. ItÃ¢â‚¬â„¢s an open-source, responsive design framework, featuring a grid-based layout system, web-ready icons you can incorporate into your designs, fully functional navigation, and much more. Join Jen Kramer for a quick overview of all of the goodies in Bootstrap, and then learn how to customize the grid, override the CSS to customize your site, and leverage BootstrapÃ¢â‚¬â„¢s stylish built-in JavaScript effects. Once youÃ¢â‚¬â„¢re prepared to test your knowledge, you can take the hands-on challenges offered by Jen.\n\nTopics include:\n\n    Downloading and installing Bootstrap\n    Understanding the Bootstrap file structure\n    Exploring the 12-column grid\n    Changing column width and order\n    Styling buttons, images, and tables\n    Overriding core CSS\n    Creating a thumbnail gallery\n    Adding JavaScript effects, like dropdown menus, tabs, accordions, and more\n\n",
+  "parsed": {
+    "xt": "urn:btih:82108de61327bfa2bff857194077c2dbf9026976",
+    "dn": "Lynda.com - Up and Running with Bootstrap 3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "82108de61327bfa2bff857194077c2dbf9026976",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        130,
+        16,
+        141,
+        230,
+        19,
+        39,
+        191,
+        162,
+        191,
+        248,
+        87,
+        25,
+        64,
+        119,
+        194,
+        219,
+        249,
+        2,
+        105,
+        118
+      ]
+    },
+    "name": "Lynda.com - Up and Running with Bootstrap 3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 9,
+  "last_updated": "2016-12-25T06:14:56.643Z"
+}

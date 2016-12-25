@@ -1,1 +1,61 @@
-{"title":"TERA Online Full Client (tera enmasse)","uid":11878444,"size":28654679168,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:81800457973a3c75cef0dcd0e630d2a268804f0e&amp;dn=TERA+Online+Full+Client+%28tera+enmasse%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":356,"leechers":28,"uploader":"NewShyts","files":16,"time":1430614044,"description":"Tera enmasse version 26.6 GB\n\n\nThe Exiled Realm of Arborea (officially abbreviated as TERA) is a 3D fantasy themed MMORPG developed by Bluehole Studio. The game was released in South Korea on January 25, 2011, in Japan on August 18, 2011, in North America on May 1, 2012, and in Europe on May 3, 2012, with closed and open beta testings taking place before the launch dates. NHN Corporation, NHN Japan Corporation, En Masse Entertainment and Frogster Interactive Pictures publishes the game in these regions, respectively","torrent":{"xt":"urn:btih:81800457973a3c75cef0dcd0e630d2a268804f0e","amp;dn":"TERA+Online+Full+Client+%28tera+enmasse%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"81800457973a3c75cef0dcd0e630d2a268804f0e","infoHashBuffer":{"type":"Buffer","data":[129,128,4,87,151,58,60,117,206,240,220,208,230,48,210,162,104,128,79,14]},"announce":[],"urlList":[]}}
+{
+  "title": "TERA Online Full Client (tera enmasse)",
+  "uid": 11878444,
+  "size": 28654679168,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:81800457973a3c75cef0dcd0e630d2a268804f0e&amp;dn=TERA+Online+Full+Client+%28tera+enmasse%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 356,
+  "leechers": 28,
+  "uploader": "NewShyts",
+  "files": 16,
+  "time": 1430614044,
+  "description": "Tera enmasse version 26.6 GB\n\n\nThe Exiled Realm of Arborea (officially abbreviated as TERA) is a 3D fantasy themed MMORPG developed by Bluehole Studio. The game was released in South Korea on January 25, 2011, in Japan on August 18, 2011, in North America on May 1, 2012, and in Europe on May 3, 2012, with closed and open beta testings taking place before the launch dates. NHN Corporation, NHN Japan Corporation, En Masse Entertainment and Frogster Interactive Pictures publishes the game in these regions, respectively",
+  "parsed": {
+    "xt": "urn:btih:81800457973a3c75cef0dcd0e630d2a268804f0e",
+    "dn": "TERA Online Full Client (tera enmasse)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "81800457973a3c75cef0dcd0e630d2a268804f0e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        129,
+        128,
+        4,
+        87,
+        151,
+        58,
+        60,
+        117,
+        206,
+        240,
+        220,
+        208,
+        230,
+        48,
+        210,
+        162,
+        104,
+        128,
+        79,
+        14
+      ]
+    },
+    "name": "TERA Online Full Client (tera enmasse)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 384,
+  "peers": 3,
+  "last_updated": "2016-12-25T06:11:16.000Z"
+}

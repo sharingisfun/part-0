@@ -1,1 +1,61 @@
-{"title":"Adventure Time Season 2 Complete","uid":6401528,"size":4251053246,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:814fc15efb563d2bf0cfffea91e4fd7145112049&amp;dn=Adventure+Time+Season+2+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":88,"leechers":7,"uploader":"Son_of_X51","files":27,"time":1305679324,"description":"All files are 720p.\n\nThis is the complete second season of Adventure Time.  None of the content is mine, just packaging all of the episodes from iqeiqe into one torrent for convenience.\n\nThanks to iqeiqe for being a rad dude.","torrent":{"xt":"urn:btih:814fc15efb563d2bf0cfffea91e4fd7145112049","amp;dn":"Adventure+Time+Season+2+Complete","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"814fc15efb563d2bf0cfffea91e4fd7145112049","infoHashBuffer":{"type":"Buffer","data":[129,79,193,94,251,86,61,43,240,207,255,234,145,228,253,113,69,17,32,73]},"announce":[],"urlList":[]}}
+{
+  "title": "Adventure Time Season 2 Complete",
+  "uid": 6401528,
+  "size": 4251053246,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:814fc15efb563d2bf0cfffea91e4fd7145112049&amp;dn=Adventure+Time+Season+2+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 88,
+  "leechers": 7,
+  "uploader": "Son_of_X51",
+  "files": 27,
+  "time": 1305679324,
+  "description": "All files are 720p.\n\nThis is the complete second season of Adventure Time.  None of the content is mine, just packaging all of the episodes from iqeiqe into one torrent for convenience.\n\nThanks to iqeiqe for being a rad dude.",
+  "parsed": {
+    "xt": "urn:btih:814fc15efb563d2bf0cfffea91e4fd7145112049",
+    "dn": "Adventure Time Season 2 Complete",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "814fc15efb563d2bf0cfffea91e4fd7145112049",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        129,
+        79,
+        193,
+        94,
+        251,
+        86,
+        61,
+        43,
+        240,
+        207,
+        255,
+        234,
+        145,
+        228,
+        253,
+        113,
+        69,
+        17,
+        32,
+        73
+      ]
+    },
+    "name": "Adventure Time Season 2 Complete",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 95,
+  "peers": 36,
+  "last_updated": "2016-12-25T06:09:59.749Z"
+}

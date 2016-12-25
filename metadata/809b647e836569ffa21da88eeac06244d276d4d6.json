@@ -1,1 +1,61 @@
-{"title":"NES Emulator for PC and 758 Games (Kingdom-games by KloWn )","uid":4531936,"size":160342169,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:809b647e836569ffa21da88eeac06244d276d4d6&amp;dn=NES+Emulator+for+PC+and+758+Games+%28Kingdom-games+by+KloWn+%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":6,"uploader":"toxicjuggalo","files":762,"time":1227588268,"description":"This is the NES emulator named VirtualNES made to run on your PC.. It has controller support and is really simple to use.. I have included all 758 english games and full instructions. Now have fun enjoying those classic NES games we all loved...KloWn","torrent":{"xt":"urn:btih:809b647e836569ffa21da88eeac06244d276d4d6","amp;dn":"NES+Emulator+for+PC+and+758+Games+%28Kingdom-games+by+KloWn+%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"809b647e836569ffa21da88eeac06244d276d4d6","infoHashBuffer":{"type":"Buffer","data":[128,155,100,126,131,101,105,255,162,29,168,142,234,192,98,68,210,118,212,214]},"announce":[],"urlList":[]}}
+{
+  "title": "NES Emulator for PC and 758 Games (Kingdom-games by KloWn )",
+  "uid": 4531936,
+  "size": 160342169,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:809b647e836569ffa21da88eeac06244d276d4d6&amp;dn=NES+Emulator+for+PC+and+758+Games+%28Kingdom-games+by+KloWn+%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 6,
+  "uploader": "toxicjuggalo",
+  "files": 762,
+  "time": 1227588268,
+  "description": "This is the NES emulator named VirtualNES made to run on your PC.. It has controller support and is really simple to use.. I have included all 758 english games and full instructions. Now have fun enjoying those classic NES games we all loved...KloWn",
+  "parsed": {
+    "xt": "urn:btih:809b647e836569ffa21da88eeac06244d276d4d6",
+    "dn": "NES Emulator for PC and 758 Games (Kingdom-games by KloWn )",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "809b647e836569ffa21da88eeac06244d276d4d6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        128,
+        155,
+        100,
+        126,
+        131,
+        101,
+        105,
+        255,
+        162,
+        29,
+        168,
+        142,
+        234,
+        192,
+        98,
+        68,
+        210,
+        118,
+        212,
+        214
+      ]
+    },
+    "name": "NES Emulator for PC and 758 Games (Kingdom-games by KloWn )",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 106,
+  "last_updated": "2016-12-25T06:05:28.807Z"
+}

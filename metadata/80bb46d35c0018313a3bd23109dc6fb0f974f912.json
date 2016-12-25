@@ -1,1 +1,61 @@
-{"title":"Survivor.S30E04E05.HDTV.x264-FUM[ettv]","uid":11765392,"size":870629624,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:80bb46d35c0018313a3bd23109dc6fb0f974f912&amp;dn=Survivor.S30E04E05.HDTV.x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":0,"uploader":"ettv","files":2,"time":1426846179,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                       &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:80bb46d35c0018313a3bd23109dc6fb0f974f912","amp;dn":"Survivor.S30E04E05.HDTV.x264-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"80bb46d35c0018313a3bd23109dc6fb0f974f912","infoHashBuffer":{"type":"Buffer","data":[128,187,70,211,92,0,24,49,58,59,210,49,9,220,111,176,249,116,249,18]},"announce":[],"urlList":[]}}
+{
+  "title": "Survivor.S30E04E05.HDTV.x264-FUM[ettv]",
+  "uid": 11765392,
+  "size": 870629624,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:80bb46d35c0018313a3bd23109dc6fb0f974f912&amp;dn=Survivor.S30E04E05.HDTV.x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 0,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1426846179,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                       &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:80bb46d35c0018313a3bd23109dc6fb0f974f912",
+    "dn": "Survivor.S30E04E05.HDTV.x264-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "80bb46d35c0018313a3bd23109dc6fb0f974f912",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        128,
+        187,
+        70,
+        211,
+        92,
+        0,
+        24,
+        49,
+        58,
+        59,
+        210,
+        49,
+        9,
+        220,
+        111,
+        176,
+        249,
+        116,
+        249,
+        18
+      ]
+    },
+    "name": "Survivor.S30E04E05.HDTV.x264-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 3,
+  "last_updated": "2016-12-25T06:06:10.945Z"
+}

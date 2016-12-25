@@ -1,1 +1,61 @@
-{"title":"Luther Season 1","uid":5745211,"size":3461757931,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:81ebc169fa853abc9b5aea37696a60a06c025574&amp;dn=Luther+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":23,"uploader":"neomenon","files":7,"time":1281141943,"description":"Season 1 of British show Luther. \n\nLuther is a British psychological crime drama television series, starring Idris Elba as the titular character Detective Chief Inspector John Luther.\n\nThis is a compilation of Season 1 from various sources.","torrent":{"xt":"urn:btih:81ebc169fa853abc9b5aea37696a60a06c025574","amp;dn":"Luther+Season+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"81ebc169fa853abc9b5aea37696a60a06c025574","infoHashBuffer":{"type":"Buffer","data":[129,235,193,105,250,133,58,188,155,90,234,55,105,106,96,160,108,2,85,116]},"announce":[],"urlList":[]}}
+{
+  "title": "Luther Season 1",
+  "uid": 5745211,
+  "size": 3461757931,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:81ebc169fa853abc9b5aea37696a60a06c025574&amp;dn=Luther+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 23,
+  "uploader": "neomenon",
+  "files": 7,
+  "time": 1281141943,
+  "description": "Season 1 of British show Luther. \n\nLuther is a British psychological crime drama television series, starring Idris Elba as the titular character Detective Chief Inspector John Luther.\n\nThis is a compilation of Season 1 from various sources.",
+  "parsed": {
+    "xt": "urn:btih:81ebc169fa853abc9b5aea37696a60a06c025574",
+    "dn": "Luther Season 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "81ebc169fa853abc9b5aea37696a60a06c025574",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        129,
+        235,
+        193,
+        105,
+        250,
+        133,
+        58,
+        188,
+        155,
+        90,
+        234,
+        55,
+        105,
+        106,
+        96,
+        160,
+        108,
+        2,
+        85,
+        116
+      ]
+    },
+    "name": "Luther Season 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 96,
+  "peers": 50,
+  "last_updated": "2016-12-25T06:13:48.460Z"
+}

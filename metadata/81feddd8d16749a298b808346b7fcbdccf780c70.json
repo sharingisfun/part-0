@@ -1,1 +1,61 @@
-{"title":"Offspring, The - 1998 - Americana [mp3, CBR, 320kbps]","uid":7788547,"size":105575607,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:81feddd8d16749a298b808346b7fcbdccf780c70&amp;dn=Offspring%2C+The+-+1998+-+Americana+%5Bmp3%2C+CBR%2C+320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":1,"uploader":"minarcus","files":-1,"time":1351960574,"description":"1\tWelcome\n2\tHave You Ever\n3\tStaring At The Sun\n4\tPretty Fly (For A White Guy)\n5\tThe Kids Aren't Alright\n6\tFeelings\n7\tShe's Got Issues\n8\tWalla Walla\n9\tThe End Of The Line\n10\tNo Brakes\n11\tWhy Don't You Get A Job?\n12\tAmericana\n13.1\tPay The Man\n13.2\tPretty Fly (Reprise)","torrent":{"xt":"urn:btih:81feddd8d16749a298b808346b7fcbdccf780c70","amp;dn":"Offspring%2C+The+-+1998+-+Americana+%5Bmp3%2C+CBR%2C+320kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"81feddd8d16749a298b808346b7fcbdccf780c70","infoHashBuffer":{"type":"Buffer","data":[129,254,221,216,209,103,73,162,152,184,8,52,107,127,203,220,207,120,12,112]},"announce":[],"urlList":[]}}
+{
+  "title": "Offspring, The - 1998 - Americana [mp3, CBR, 320kbps]",
+  "uid": 7788547,
+  "size": 105575607,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:81feddd8d16749a298b808346b7fcbdccf780c70&amp;dn=Offspring%2C+The+-+1998+-+Americana+%5Bmp3%2C+CBR%2C+320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 1,
+  "uploader": "minarcus",
+  "files": -1,
+  "time": 1351960574,
+  "description": "1\tWelcome\n2\tHave You Ever\n3\tStaring At The Sun\n4\tPretty Fly (For A White Guy)\n5\tThe Kids Aren't Alright\n6\tFeelings\n7\tShe's Got Issues\n8\tWalla Walla\n9\tThe End Of The Line\n10\tNo Brakes\n11\tWhy Don't You Get A Job?\n12\tAmericana\n13.1\tPay The Man\n13.2\tPretty Fly (Reprise)",
+  "parsed": {
+    "xt": "urn:btih:81feddd8d16749a298b808346b7fcbdccf780c70",
+    "dn": "Offspring, The - 1998 - Americana [mp3, CBR, 320kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "81feddd8d16749a298b808346b7fcbdccf780c70",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        129,
+        254,
+        221,
+        216,
+        209,
+        103,
+        73,
+        162,
+        152,
+        184,
+        8,
+        52,
+        107,
+        127,
+        203,
+        220,
+        207,
+        120,
+        12,
+        112
+      ]
+    },
+    "name": "Offspring, The - 1998 - Americana [mp3, CBR, 320kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 14,
+  "last_updated": "2016-12-25T06:14:38.593Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Oasis-Discography","uid":4678286,"size":1347863081,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:82537d156b1cdf5810f9088f6c9b0be5deb24d22&amp;dn=Oasis-Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":13,"uploader":"ST-Rg","files":137,"time":1232978262,"description":"Oasis Discography\n\n(What's The Story) Morning Glory\nCigarettes &amp; Alcohol\nDefinitely Maybe (Japanese Version)\nDon't Look Back In Anger\nLive Forever\nOasis - Dont Believe The Truth\nOasis - Lord Dont Slow Me Down\nOasis - Rare and Unseen 5CDs\noasis mix\nOasis-Stop_The_Clocks-(RETAIL)-(2CD)-2006-\nRoll With It\nShakermaker\nSingles\nSome Might Say\nSupersonic\nWhatever\nWibbling Rivalry\nWonderwall\n\nFor more please visit www.sharezone-torrents.co.uk\n\n","torrent":{"xt":"urn:btih:82537d156b1cdf5810f9088f6c9b0be5deb24d22","amp;dn":"Oasis-Discography","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"82537d156b1cdf5810f9088f6c9b0be5deb24d22","infoHashBuffer":{"type":"Buffer","data":[130,83,125,21,107,28,223,88,16,249,8,143,108,155,11,229,222,178,77,34]},"announce":[],"urlList":[]}}
+{
+  "title": "Oasis-Discography",
+  "uid": 4678286,
+  "size": 1347863081,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:82537d156b1cdf5810f9088f6c9b0be5deb24d22&amp;dn=Oasis-Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 13,
+  "uploader": "ST-Rg",
+  "files": 137,
+  "time": 1232978262,
+  "description": "Oasis Discography\n\n(What's The Story) Morning Glory\nCigarettes &amp; Alcohol\nDefinitely Maybe (Japanese Version)\nDon't Look Back In Anger\nLive Forever\nOasis - Dont Believe The Truth\nOasis - Lord Dont Slow Me Down\nOasis - Rare and Unseen 5CDs\noasis mix\nOasis-Stop_The_Clocks-(RETAIL)-(2CD)-2006-\nRoll With It\nShakermaker\nSingles\nSome Might Say\nSupersonic\nWhatever\nWibbling Rivalry\nWonderwall\n\nFor more please visit www.sharezone-torrents.co.uk\n\n",
+  "parsed": {
+    "xt": "urn:btih:82537d156b1cdf5810f9088f6c9b0be5deb24d22",
+    "dn": "Oasis-Discography",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "82537d156b1cdf5810f9088f6c9b0be5deb24d22",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        130,
+        83,
+        125,
+        21,
+        107,
+        28,
+        223,
+        88,
+        16,
+        249,
+        8,
+        143,
+        108,
+        155,
+        11,
+        229,
+        222,
+        178,
+        77,
+        34
+      ]
+    },
+    "name": "Oasis-Discography",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 72,
+  "peers": 9,
+  "last_updated": "2016-12-25T06:17:05.019Z"
+}

@@ -1,1 +1,61 @@
-{"title":"TiÃ«sto - Red Lights (Original Mix + Itunes Version) 320kbps","uid":9500608,"size":25290356,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:81393595f3bf59eb46143af38aff40e0fe04fc3d&amp;dn=Ti%26euml%3Bsto+-+Red+Lights+%28Original+Mix+%2B+Itunes+Version%29+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":4,"uploader":"AngelDiMaria","files":4,"time":1390219003,"description":"============================\nArtist: TiÃƒÂ«sto \nGenre: Dance\nReleased: 13 December 2013\nBitrate: 320kbps\nFormat: Mp3\n============================","torrent":{"xt":"urn:btih:81393595f3bf59eb46143af38aff40e0fe04fc3d","amp;dn":"Ti%26euml%3Bsto+-+Red+Lights+%28Original+Mix+%2B+Itunes+Version%29+320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"81393595f3bf59eb46143af38aff40e0fe04fc3d","infoHashBuffer":{"type":"Buffer","data":[129,57,53,149,243,191,89,235,70,20,58,243,138,255,64,224,254,4,252,61]},"announce":[],"urlList":[]}}
+{
+  "title": "TiÃ«sto - Red Lights (Original Mix + Itunes Version) 320kbps",
+  "uid": 9500608,
+  "size": 25290356,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:81393595f3bf59eb46143af38aff40e0fe04fc3d&amp;dn=Ti%26euml%3Bsto+-+Red+Lights+%28Original+Mix+%2B+Itunes+Version%29+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 4,
+  "uploader": "AngelDiMaria",
+  "files": 4,
+  "time": 1390219003,
+  "description": "============================\nArtist: TiÃƒÂ«sto \nGenre: Dance\nReleased: 13 December 2013\nBitrate: 320kbps\nFormat: Mp3\n============================",
+  "parsed": {
+    "xt": "urn:btih:81393595f3bf59eb46143af38aff40e0fe04fc3d",
+    "dn": "Ti&euml;sto - Red Lights (Original Mix   Itunes Version) 320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "81393595f3bf59eb46143af38aff40e0fe04fc3d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        129,
+        57,
+        53,
+        149,
+        243,
+        191,
+        89,
+        235,
+        70,
+        20,
+        58,
+        243,
+        138,
+        255,
+        64,
+        224,
+        254,
+        4,
+        252,
+        61
+      ]
+    },
+    "name": "Ti&euml;sto - Red Lights (Original Mix   Itunes Version) 320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 11,
+  "last_updated": "2016-12-25T06:09:31.651Z"
+}

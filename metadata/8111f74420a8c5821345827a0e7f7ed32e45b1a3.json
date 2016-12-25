@@ -1,1 +1,61 @@
-{"title":"Grimm.S04E21.HDTV.x264-LOL[ettv]","uid":11895244,"size":238959083,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8111f74420a8c5821345827a0e7f7ed32e45b1a3&amp;dn=Grimm.S04E21.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":725,"leechers":17,"uploader":"ettv","files":3,"time":1431140191,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:8111f74420a8c5821345827a0e7f7ed32e45b1a3","amp;dn":"Grimm.S04E21.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8111f74420a8c5821345827a0e7f7ed32e45b1a3","infoHashBuffer":{"type":"Buffer","data":[129,17,247,68,32,168,197,130,19,69,130,122,14,127,126,211,46,69,177,163]},"announce":[],"urlList":[]}}
+{
+  "title": "Grimm.S04E21.HDTV.x264-LOL[ettv]",
+  "uid": 11895244,
+  "size": 238959083,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8111f74420a8c5821345827a0e7f7ed32e45b1a3&amp;dn=Grimm.S04E21.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 725,
+  "leechers": 17,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1431140191,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:8111f74420a8c5821345827a0e7f7ed32e45b1a3",
+    "dn": "Grimm.S04E21.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8111f74420a8c5821345827a0e7f7ed32e45b1a3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        129,
+        17,
+        247,
+        68,
+        32,
+        168,
+        197,
+        130,
+        19,
+        69,
+        130,
+        122,
+        14,
+        127,
+        126,
+        211,
+        46,
+        69,
+        177,
+        163
+      ]
+    },
+    "name": "Grimm.S04E21.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 742,
+  "peers": 66,
+  "last_updated": "2016-12-25T06:08:45.474Z"
+}

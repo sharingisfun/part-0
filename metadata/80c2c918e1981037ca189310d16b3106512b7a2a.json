@@ -1,1 +1,61 @@
-{"title":"Heat [1995] DVDRip","uid":5913778,"size":735051823,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:80c2c918e1981037ca189310d16b3106512b7a2a&amp;dn=Heat+%5B1995%5D+DVDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":12,"uploader":".BONE.","files":3,"time":1288154536,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt0113277/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt0113277/&lt;/a&gt;\n\nTitle - Heat\nYear - 1995\nGenre - Action / Crime / Drama / Thriller\nRuntime - 02:40:00\nResolution - 552 x 228\nFiles - 1\nSize - 700 MB","torrent":{"xt":"urn:btih:80c2c918e1981037ca189310d16b3106512b7a2a","amp;dn":"Heat+%5B1995%5D+DVDRip","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"80c2c918e1981037ca189310d16b3106512b7a2a","infoHashBuffer":{"type":"Buffer","data":[128,194,201,24,225,152,16,55,202,24,147,16,209,107,49,6,81,43,122,42]},"announce":[],"urlList":[]}}
+{
+  "title": "Heat [1995] DVDRip",
+  "uid": 5913778,
+  "size": 735051823,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:80c2c918e1981037ca189310d16b3106512b7a2a&amp;dn=Heat+%5B1995%5D+DVDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 12,
+  "uploader": ".BONE.",
+  "files": 3,
+  "time": 1288154536,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt0113277/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt0113277/&lt;/a&gt;\n\nTitle - Heat\nYear - 1995\nGenre - Action / Crime / Drama / Thriller\nRuntime - 02:40:00\nResolution - 552 x 228\nFiles - 1\nSize - 700 MB",
+  "parsed": {
+    "xt": "urn:btih:80c2c918e1981037ca189310d16b3106512b7a2a",
+    "dn": "Heat [1995] DVDRip",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "80c2c918e1981037ca189310d16b3106512b7a2a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        128,
+        194,
+        201,
+        24,
+        225,
+        152,
+        16,
+        55,
+        202,
+        24,
+        147,
+        16,
+        209,
+        107,
+        49,
+        6,
+        81,
+        43,
+        122,
+        42
+      ]
+    },
+    "name": "Heat [1995] DVDRip",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 66,
+  "peers": 1,
+  "last_updated": "2016-12-25T06:06:24.993Z"
+}

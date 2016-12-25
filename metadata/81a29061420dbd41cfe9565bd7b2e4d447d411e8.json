@@ -1,1 +1,61 @@
-{"title":"Citizenfour.2014.HDTV.x264-BATV[ettv]","uid":11719430,"size":526768499,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:81a29061420dbd41cfe9565bd7b2e4d447d411e8&amp;dn=Citizenfour.2014.HDTV.x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":320,"leechers":10,"uploader":"ettv","files":3,"time":1424754792,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                        &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:81a29061420dbd41cfe9565bd7b2e4d447d411e8","amp;dn":"Citizenfour.2014.HDTV.x264-BATV%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"81a29061420dbd41cfe9565bd7b2e4d447d411e8","infoHashBuffer":{"type":"Buffer","data":[129,162,144,97,66,13,189,65,207,233,86,91,215,178,228,212,71,212,17,232]},"announce":[],"urlList":[]}}
+{
+  "title": "Citizenfour.2014.HDTV.x264-BATV[ettv]",
+  "uid": 11719430,
+  "size": 526768499,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:81a29061420dbd41cfe9565bd7b2e4d447d411e8&amp;dn=Citizenfour.2014.HDTV.x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 320,
+  "leechers": 10,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1424754792,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                        &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:81a29061420dbd41cfe9565bd7b2e4d447d411e8",
+    "dn": "Citizenfour.2014.HDTV.x264-BATV[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "81a29061420dbd41cfe9565bd7b2e4d447d411e8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        129,
+        162,
+        144,
+        97,
+        66,
+        13,
+        189,
+        65,
+        207,
+        233,
+        86,
+        91,
+        215,
+        178,
+        228,
+        212,
+        71,
+        212,
+        17,
+        232
+      ]
+    },
+    "name": "Citizenfour.2014.HDTV.x264-BATV[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 330,
+  "peers": 38,
+  "last_updated": "2016-12-25T06:12:16.214Z"
+}
