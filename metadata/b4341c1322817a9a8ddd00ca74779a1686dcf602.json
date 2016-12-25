@@ -1,1 +1,61 @@
-{"title":"Black.Sails.S02E02.720p.HDTV.x264-IMMERSE [eztv]","uid":11678906,"size":1616135753,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:b4341c1322817a9a8ddd00ca74779a1686dcf602&amp;dn=Black.Sails.S02E02.720p.HDTV.x264-IMMERSE+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":8,"uploader":null,"files":1,"time":1422992702,"description":"Black.Sails.S02E02.720p.HDTV.x264-IMMERSE [eztv]\n \nLength..............: 56mn 51s\nVideo...............: H264 @ 3405Kbps (1280x720)\nFPS.................: 23.976 FPS\nAudio...............: 6ch, 384kbps","torrent":{"xt":"urn:btih:b4341c1322817a9a8ddd00ca74779a1686dcf602","amp;dn":"Black.Sails.S02E02.720p.HDTV.x264-IMMERSE+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b4341c1322817a9a8ddd00ca74779a1686dcf602","infoHashBuffer":{"type":"Buffer","data":[180,52,28,19,34,129,122,154,141,221,0,202,116,119,154,22,134,220,246,2]},"announce":[],"urlList":[]}}
+{
+  "title": "Black.Sails.S02E02.720p.HDTV.x264-IMMERSE [eztv]",
+  "uid": 11678906,
+  "size": 1616135753,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:b4341c1322817a9a8ddd00ca74779a1686dcf602&amp;dn=Black.Sails.S02E02.720p.HDTV.x264-IMMERSE+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 8,
+  "uploader": null,
+  "files": 1,
+  "time": 1422992702,
+  "description": "Black.Sails.S02E02.720p.HDTV.x264-IMMERSE [eztv]\n \nLength..............: 56mn 51s\nVideo...............: H264 @ 3405Kbps (1280x720)\nFPS.................: 23.976 FPS\nAudio...............: 6ch, 384kbps",
+  "parsed": {
+    "xt": "urn:btih:b4341c1322817a9a8ddd00ca74779a1686dcf602",
+    "dn": "Black.Sails.S02E02.720p.HDTV.x264-IMMERSE [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b4341c1322817a9a8ddd00ca74779a1686dcf602",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        180,
+        52,
+        28,
+        19,
+        34,
+        129,
+        122,
+        154,
+        141,
+        221,
+        0,
+        202,
+        116,
+        119,
+        154,
+        22,
+        134,
+        220,
+        246,
+        2
+      ]
+    },
+    "name": "Black.Sails.S02E02.720p.HDTV.x264-IMMERSE [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 17,
+  "last_updated": "2016-12-25T11:37:03.522Z"
+}

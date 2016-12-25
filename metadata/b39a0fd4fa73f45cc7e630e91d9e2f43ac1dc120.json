@@ -1,1 +1,63 @@
-{"title":"Password Cracker v3.12","uid":16016284,"size":16094155,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:b39a0fd4fa73f45cc7e630e91d9e2f43ac1dc120&amp;dn=+Password+Cracker+v3.12&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":157,"leechers":31,"uploader":"iKnickKnockf","files":3,"time":1476292955,"description":"Facebook Password Cracker v3.12","torrent":{"xt":"urn:btih:b39a0fd4fa73f45cc7e630e91d9e2f43ac1dc120","amp;dn":"+Password+Cracker+v3.12","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b39a0fd4fa73f45cc7e630e91d9e2f43ac1dc120","infoHashBuffer":{"type":"Buffer","data":[179,154,15,212,250,115,244,92,199,230,48,233,29,158,47,67,172,29,193,32]},"announce":[],"urlList":[]}}
+{
+  "title": "Password Cracker v3.12",
+  "uid": 16016284,
+  "size": 16094155,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:b39a0fd4fa73f45cc7e630e91d9e2f43ac1dc120&amp;dn=+Password+Cracker+v3.12&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 157,
+  "leechers": 31,
+  "uploader": "iKnickKnockf",
+  "files": 3,
+  "time": 1476292955,
+  "description": "Facebook Password Cracker v3.12",
+  "parsed": {
+    "xt": "urn:btih:b39a0fd4fa73f45cc7e630e91d9e2f43ac1dc120",
+    "dn": " Password Cracker v3.12",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "b39a0fd4fa73f45cc7e630e91d9e2f43ac1dc120",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        179,
+        154,
+        15,
+        212,
+        250,
+        115,
+        244,
+        92,
+        199,
+        230,
+        48,
+        233,
+        29,
+        158,
+        47,
+        67,
+        172,
+        29,
+        193,
+        32
+      ]
+    },
+    "name": " Password Cracker v3.12",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 188,
+  "peers": 2,
+  "last_updated": "2016-12-25T11:33:26.913Z"
+}

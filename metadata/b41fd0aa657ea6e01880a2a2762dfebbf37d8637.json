@@ -1,1 +1,61 @@
-{"title":"iTunes Top 100 Songs of 2014","uid":11672383,"size":790645645,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:b41fd0aa657ea6e01880a2a2762dfebbf37d8637&amp;dn=iTunes+Top+100+Songs+of+2014&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":197,"leechers":15,"uploader":"MCarne","files":100,"time":1422733106,"description":"iTunes Top 100 Songs of 2014","torrent":{"xt":"urn:btih:b41fd0aa657ea6e01880a2a2762dfebbf37d8637","amp;dn":"iTunes+Top+100+Songs+of+2014","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b41fd0aa657ea6e01880a2a2762dfebbf37d8637","infoHashBuffer":{"type":"Buffer","data":[180,31,208,170,101,126,166,224,24,128,162,162,118,45,254,187,243,125,134,55]},"announce":[],"urlList":[]}}
+{
+  "title": "iTunes Top 100 Songs of 2014",
+  "uid": 11672383,
+  "size": 790645645,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:b41fd0aa657ea6e01880a2a2762dfebbf37d8637&amp;dn=iTunes+Top+100+Songs+of+2014&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 197,
+  "leechers": 15,
+  "uploader": "MCarne",
+  "files": 100,
+  "time": 1422733106,
+  "description": "iTunes Top 100 Songs of 2014",
+  "parsed": {
+    "xt": "urn:btih:b41fd0aa657ea6e01880a2a2762dfebbf37d8637",
+    "dn": "iTunes Top 100 Songs of 2014",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b41fd0aa657ea6e01880a2a2762dfebbf37d8637",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        180,
+        31,
+        208,
+        170,
+        101,
+        126,
+        166,
+        224,
+        24,
+        128,
+        162,
+        162,
+        118,
+        45,
+        254,
+        187,
+        243,
+        125,
+        134,
+        55
+      ]
+    },
+    "name": "iTunes Top 100 Songs of 2014",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 212,
+  "peers": 4,
+  "last_updated": "2016-12-25T11:36:33.439Z"
+}

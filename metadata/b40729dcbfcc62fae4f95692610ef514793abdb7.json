@@ -1,1 +1,61 @@
-{"title":"Dead Trigger v1.8.2 (apk+obb) [Gold+Money Mod]","uid":8803858,"size":162998231,"categoryP":"games","categoryS":"android","magnet":"?xt=urn:btih:b40729dcbfcc62fae4f95692610ef514793abdb7&amp;dn=Dead+Trigger+v1.8.2+%28apk%2Bobb%29+%5BGold%2BMoney+Mod%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":4,"uploader":".BONE.","files":-1,"time":1376276901,"description":"***Instructions***\n\n1. INSTALL THE APK\n\n2. PLACE THE DATA FOLDER TO SDCARD/ANDROID/OBB\n\nPLAY AND ENJOY","torrent":{"xt":"urn:btih:b40729dcbfcc62fae4f95692610ef514793abdb7","amp;dn":"Dead+Trigger+v1.8.2+%28apk%2Bobb%29+%5BGold%2BMoney+Mod%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b40729dcbfcc62fae4f95692610ef514793abdb7","infoHashBuffer":{"type":"Buffer","data":[180,7,41,220,191,204,98,250,228,249,86,146,97,14,245,20,121,58,189,183]},"announce":[],"urlList":[]}}
+{
+  "title": "Dead Trigger v1.8.2 (apk+obb) [Gold+Money Mod]",
+  "uid": 8803858,
+  "size": 162998231,
+  "categoryP": "games",
+  "categoryS": "android",
+  "magnet": "?xt=urn:btih:b40729dcbfcc62fae4f95692610ef514793abdb7&amp;dn=Dead+Trigger+v1.8.2+%28apk%2Bobb%29+%5BGold%2BMoney+Mod%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 4,
+  "uploader": ".BONE.",
+  "files": -1,
+  "time": 1376276901,
+  "description": "***Instructions***\n\n1. INSTALL THE APK\n\n2. PLACE THE DATA FOLDER TO SDCARD/ANDROID/OBB\n\nPLAY AND ENJOY",
+  "parsed": {
+    "xt": "urn:btih:b40729dcbfcc62fae4f95692610ef514793abdb7",
+    "dn": "Dead Trigger v1.8.2 (apk obb) [Gold Money Mod]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b40729dcbfcc62fae4f95692610ef514793abdb7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        180,
+        7,
+        41,
+        220,
+        191,
+        204,
+        98,
+        250,
+        228,
+        249,
+        86,
+        146,
+        97,
+        14,
+        245,
+        20,
+        121,
+        58,
+        189,
+        183
+      ]
+    },
+    "name": "Dead Trigger v1.8.2 (apk obb) [Gold Money Mod]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 3,
+  "last_updated": "2016-12-25T11:35:57.326Z"
+}

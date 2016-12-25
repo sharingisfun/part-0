@@ -1,1 +1,63 @@
-{"title":"Quantico.S01E13.HDTV.x264-LOL[ettv]","uid":13849300,"size":267212622,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b1c75cde1091873d74010b4c63cacd4a753ba3d5&amp;dn=Quantico.S01E13.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":206,"leechers":8,"uploader":"ettv","files":2,"time":1457956943,"description":"ettv - ExtraTorrent TV Shows\r\n\r\n\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n \nhttp://extratorrent.cc/\r\n\r\n\r\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:b1c75cde1091873d74010b4c63cacd4a753ba3d5","amp;dn":"Quantico.S01E13.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b1c75cde1091873d74010b4c63cacd4a753ba3d5","infoHashBuffer":{"type":"Buffer","data":[177,199,92,222,16,145,135,61,116,1,11,76,99,202,205,74,117,59,163,213]},"announce":[],"urlList":[]}}
+{
+  "title": "Quantico.S01E13.HDTV.x264-LOL[ettv]",
+  "uid": 13849300,
+  "size": 267212622,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b1c75cde1091873d74010b4c63cacd4a753ba3d5&amp;dn=Quantico.S01E13.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 206,
+  "leechers": 8,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1457956943,
+  "description": "ettv - ExtraTorrent TV Shows\r\n\r\n\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n \nhttp://extratorrent.cc/\r\n\r\n\r\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:b1c75cde1091873d74010b4c63cacd4a753ba3d5",
+    "dn": "Quantico.S01E13.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "b1c75cde1091873d74010b4c63cacd4a753ba3d5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        177,
+        199,
+        92,
+        222,
+        16,
+        145,
+        135,
+        61,
+        116,
+        1,
+        11,
+        76,
+        99,
+        202,
+        205,
+        74,
+        117,
+        59,
+        163,
+        213
+      ]
+    },
+    "name": "Quantico.S01E13.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 214,
+  "peers": 100,
+  "last_updated": "2016-12-25T11:22:51.005Z"
+}

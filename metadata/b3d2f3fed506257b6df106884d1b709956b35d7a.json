@@ -1,1 +1,63 @@
-{"title":"Counter Strike 1.6 Professional","uid":16026704,"size":438119643,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:b3d2f3fed506257b6df106884d1b709956b35d7a&amp;dn=Counter+Strike+1.6+Professional&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":1135,"leechers":102,"uploader":"8alex2041","files":1,"time":1476393128,"description":"\n\r\n\r\nType.................: First Person Shooter\r\n\r\nPlatform.............: Windows XPME2000\r\n\r\nCompression Format...: RAR\r\n\r\nImage Format.........: .iso\r\n\r\n\r\n-------------------------------------------------------------------------------\r\n\r\n                               Release Notes\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nSystem requirements:\r\n\r\nMinimum: 1.2 GHz Processor, 256MB RAM, DirectX 7 level graphics card, Windows\r\n\r\n2000/XP, Mouse, Keyboard,\r\n\r\nRecommended: 2.4 GHz Processor, 512MB RAM, DirectX 9 level graphics card,\r\n\r\nWindows 2000/XP, Mouse, Keyboard,\r\n\r\n\r\n\r\nThis pack include Counter-Strike Source Non-Steam,the last update for the game\r\n\r\nand bots","torrent":{"xt":"urn:btih:b3d2f3fed506257b6df106884d1b709956b35d7a","amp;dn":"Counter+Strike+1.6+Professional","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b3d2f3fed506257b6df106884d1b709956b35d7a","infoHashBuffer":{"type":"Buffer","data":[179,210,243,254,213,6,37,123,109,241,6,136,77,27,112,153,86,179,93,122]},"announce":[],"urlList":[]}}
+{
+  "title": "Counter Strike 1.6 Professional",
+  "uid": 16026704,
+  "size": 438119643,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:b3d2f3fed506257b6df106884d1b709956b35d7a&amp;dn=Counter+Strike+1.6+Professional&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 1135,
+  "leechers": 102,
+  "uploader": "8alex2041",
+  "files": 1,
+  "time": 1476393128,
+  "description": "\n\r\n\r\nType.................: First Person Shooter\r\n\r\nPlatform.............: Windows XPME2000\r\n\r\nCompression Format...: RAR\r\n\r\nImage Format.........: .iso\r\n\r\n\r\n-------------------------------------------------------------------------------\r\n\r\n                               Release Notes\r\n\r\n-------------------------------------------------------------------------------\r\n\r\nSystem requirements:\r\n\r\nMinimum: 1.2 GHz Processor, 256MB RAM, DirectX 7 level graphics card, Windows\r\n\r\n2000/XP, Mouse, Keyboard,\r\n\r\nRecommended: 2.4 GHz Processor, 512MB RAM, DirectX 9 level graphics card,\r\n\r\nWindows 2000/XP, Mouse, Keyboard,\r\n\r\n\r\n\r\nThis pack include Counter-Strike Source Non-Steam,the last update for the game\r\n\r\nand bots",
+  "parsed": {
+    "xt": "urn:btih:b3d2f3fed506257b6df106884d1b709956b35d7a",
+    "dn": "Counter Strike 1.6 Professional",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "b3d2f3fed506257b6df106884d1b709956b35d7a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        179,
+        210,
+        243,
+        254,
+        213,
+        6,
+        37,
+        123,
+        109,
+        241,
+        6,
+        136,
+        77,
+        27,
+        112,
+        153,
+        86,
+        179,
+        93,
+        122
+      ]
+    },
+    "name": "Counter Strike 1.6 Professional",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 1237,
+  "peers": 2,
+  "last_updated": "2016-12-25T11:34:49.135Z"
+}

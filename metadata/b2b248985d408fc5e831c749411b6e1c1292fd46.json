@@ -1,1 +1,61 @@
-{"title":"Ludacris - Burning Bridges - EP {MP3-2014}","uid":11682497,"size":57388817,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:b2b248985d408fc5e831c749411b6e1c1292fd46&amp;dn=Ludacris+-+Burning+Bridges+-+EP+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":82,"leechers":32,"uploader":"simpsonrony","files":6,"time":1423163166,"description":"Source: https://itunes.apple.com/nz/album/burning-bridges-ep/id942430180 \n\nArtist: Ludacris \n\nAlbum: Burning Bridges - EP \n\nGenre: Hip-Hop/Rap \n\nAudio Format: MP3 \n\nAudio Bitrate: 320kbps \n\n\nTracklist: \n**********\n\n01 New Beginning Intro \n02 Money (feat. Rick Ross) \n03 Problems (feat. Cee Lo Green) \n04 In My Life (feat. John Legend) \n05 Burning Bridges (feat. Jason Aldean) \n06 Good Lovin (feat. Miguel)","torrent":{"xt":"urn:btih:b2b248985d408fc5e831c749411b6e1c1292fd46","amp;dn":"Ludacris+-+Burning+Bridges+-+EP+%7BMP3-2014%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b2b248985d408fc5e831c749411b6e1c1292fd46","infoHashBuffer":{"type":"Buffer","data":[178,178,72,152,93,64,143,197,232,49,199,73,65,27,110,28,18,146,253,70]},"announce":[],"urlList":[]}}
+{
+  "title": "Ludacris - Burning Bridges - EP {MP3-2014}",
+  "uid": 11682497,
+  "size": 57388817,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:b2b248985d408fc5e831c749411b6e1c1292fd46&amp;dn=Ludacris+-+Burning+Bridges+-+EP+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 82,
+  "leechers": 32,
+  "uploader": "simpsonrony",
+  "files": 6,
+  "time": 1423163166,
+  "description": "Source: https://itunes.apple.com/nz/album/burning-bridges-ep/id942430180 \n\nArtist: Ludacris \n\nAlbum: Burning Bridges - EP \n\nGenre: Hip-Hop/Rap \n\nAudio Format: MP3 \n\nAudio Bitrate: 320kbps \n\n\nTracklist: \n**********\n\n01 New Beginning Intro \n02 Money (feat. Rick Ross) \n03 Problems (feat. Cee Lo Green) \n04 In My Life (feat. John Legend) \n05 Burning Bridges (feat. Jason Aldean) \n06 Good Lovin (feat. Miguel)",
+  "parsed": {
+    "xt": "urn:btih:b2b248985d408fc5e831c749411b6e1c1292fd46",
+    "dn": "Ludacris - Burning Bridges - EP {MP3-2014}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b2b248985d408fc5e831c749411b6e1c1292fd46",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        178,
+        178,
+        72,
+        152,
+        93,
+        64,
+        143,
+        197,
+        232,
+        49,
+        199,
+        73,
+        65,
+        27,
+        110,
+        28,
+        18,
+        146,
+        253,
+        70
+      ]
+    },
+    "name": "Ludacris - Burning Bridges - EP {MP3-2014}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 114,
+  "peers": 5,
+  "last_updated": "2016-12-25T11:27:55.924Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Castle 2009 S07E21 HDTV XviD-FUM[ettv]","uid":11857491,"size":365387188,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b44c78c03911dcc458d8fc3a62d1687677fbdec4&amp;dn=Castle+2009+S07E21+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":3,"uploader":"ettv","files":2,"time":1430200216,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:b44c78c03911dcc458d8fc3a62d1687677fbdec4","amp;dn":"Castle+2009+S07E21+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b44c78c03911dcc458d8fc3a62d1687677fbdec4","infoHashBuffer":{"type":"Buffer","data":[180,76,120,192,57,17,220,196,88,216,252,58,98,209,104,118,119,251,222,196]},"announce":[],"urlList":[]}}
+{
+  "title": "Castle 2009 S07E21 HDTV XviD-FUM[ettv]",
+  "uid": 11857491,
+  "size": 365387188,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b44c78c03911dcc458d8fc3a62d1687677fbdec4&amp;dn=Castle+2009+S07E21+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1430200216,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:b44c78c03911dcc458d8fc3a62d1687677fbdec4",
+    "dn": "Castle 2009 S07E21 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b44c78c03911dcc458d8fc3a62d1687677fbdec4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        180,
+        76,
+        120,
+        192,
+        57,
+        17,
+        220,
+        196,
+        88,
+        216,
+        252,
+        58,
+        98,
+        209,
+        104,
+        118,
+        119,
+        251,
+        222,
+        196
+      ]
+    },
+    "name": "Castle 2009 S07E21 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 18,
+  "last_updated": "2016-12-25T11:37:31.596Z"
+}

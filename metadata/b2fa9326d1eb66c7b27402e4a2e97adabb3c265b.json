@@ -1,1 +1,61 @@
-{"title":"Zelig.1983.DVDRip.x264","uid":8187257,"size":1185151144,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:b2fa9326d1eb66c7b27402e4a2e97adabb3c265b&amp;dn=Zelig.1983.DVDRip.x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":2,"uploader":"mfccorrea","files":4,"time":1361748719,"description":"Fictional documentary about the life of human chameleon Leonard Zelig, a man who becomes a celebrity in the 1920s due to his ability to look and act like whoever is around him. Clever editing places Zelig in real newsreel footage of Woodrow Wilson, Babe Ruth, and others.\n\nGeneral           : Zelig.1983.DVDRip.x264.mkv\nFormat            : Matroska at 1 997 Kbps\nLength            : 1.10 GiB for 1h 19mn 6s 934ms\n\nVideo #0          : AVC at 1 800 Kbps\nAspect            : 720 x 464 (1.821)\n\nAudio #0          : AC-3 at 192 Kbps\nInfos             : 2 channels, 48.0 KHz\nLanguage          : en\n &lt;a href=&quot;\nhttp://www.imdb.com/title/tt0086637/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt0086637/&lt;/a&gt;\n\nEnglish audio; English, Spanish and Portuguese subtitles (srt)\n\nPosted originally at KG by hlime1949, whom we thank","torrent":{"xt":"urn:btih:b2fa9326d1eb66c7b27402e4a2e97adabb3c265b","amp;dn":"Zelig.1983.DVDRip.x264","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b2fa9326d1eb66c7b27402e4a2e97adabb3c265b","infoHashBuffer":{"type":"Buffer","data":[178,250,147,38,209,235,102,199,178,116,2,228,162,233,122,218,187,60,38,91]},"announce":[],"urlList":[]}}
+{
+  "title": "Zelig.1983.DVDRip.x264",
+  "uid": 8187257,
+  "size": 1185151144,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:b2fa9326d1eb66c7b27402e4a2e97adabb3c265b&amp;dn=Zelig.1983.DVDRip.x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 2,
+  "uploader": "mfccorrea",
+  "files": 4,
+  "time": 1361748719,
+  "description": "Fictional documentary about the life of human chameleon Leonard Zelig, a man who becomes a celebrity in the 1920s due to his ability to look and act like whoever is around him. Clever editing places Zelig in real newsreel footage of Woodrow Wilson, Babe Ruth, and others.\n\nGeneral           : Zelig.1983.DVDRip.x264.mkv\nFormat            : Matroska at 1 997 Kbps\nLength            : 1.10 GiB for 1h 19mn 6s 934ms\n\nVideo #0          : AVC at 1 800 Kbps\nAspect            : 720 x 464 (1.821)\n\nAudio #0          : AC-3 at 192 Kbps\nInfos             : 2 channels, 48.0 KHz\nLanguage          : en\n &lt;a href=&quot;\nhttp://www.imdb.com/title/tt0086637/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt0086637/&lt;/a&gt;\n\nEnglish audio; English, Spanish and Portuguese subtitles (srt)\n\nPosted originally at KG by hlime1949, whom we thank",
+  "parsed": {
+    "xt": "urn:btih:b2fa9326d1eb66c7b27402e4a2e97adabb3c265b",
+    "dn": "Zelig.1983.DVDRip.x264",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b2fa9326d1eb66c7b27402e4a2e97adabb3c265b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        178,
+        250,
+        147,
+        38,
+        209,
+        235,
+        102,
+        199,
+        178,
+        116,
+        2,
+        228,
+        162,
+        233,
+        122,
+        218,
+        187,
+        60,
+        38,
+        91
+      ]
+    },
+    "name": "Zelig.1983.DVDRip.x264",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 15,
+  "last_updated": "2016-12-25T11:29:34.196Z"
+}

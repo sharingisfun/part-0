@@ -1,1 +1,61 @@
-{"title":"Atoms For Peace - AMOK (2013)","uid":8156060,"size":107538437,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:b1ea45ae9b6926e1e2c0918a22f9ad98233cad5e&amp;dn=Atoms+For+Peace+-+AMOK+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":1,"uploader":"-wxm-","files":10,"time":1361171472,"description":"Please support Thom and the rest of Atoms for Peace by pre-ordering the Deluxe LP from AMOK and iTunes!\n &lt;a href=&quot;\nhttp://atomsforpeace.info/amok/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://atomsforpeace.info/amok/&lt;/a&gt; &lt;a href=&quot;\nhttp://store.atomsforpeace.info/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://store.atomsforpeace.info/&lt;/a&gt; &lt;a href=&quot;\nhttps://itunes.apple.com/us/album/amok/id587383295?ign-mpt=uo%3D4&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://itunes.apple.com/us/album/amok/id587383295?ign-mpt=uo%3D4&lt;/a&gt;","torrent":{"xt":"urn:btih:b1ea45ae9b6926e1e2c0918a22f9ad98233cad5e","amp;dn":"Atoms+For+Peace+-+AMOK+%282013%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b1ea45ae9b6926e1e2c0918a22f9ad98233cad5e","infoHashBuffer":{"type":"Buffer","data":[177,234,69,174,155,105,38,225,226,192,145,138,34,249,173,152,35,60,173,94]},"announce":[],"urlList":[]}}
+{
+  "title": "Atoms For Peace - AMOK (2013)",
+  "uid": 8156060,
+  "size": 107538437,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:b1ea45ae9b6926e1e2c0918a22f9ad98233cad5e&amp;dn=Atoms+For+Peace+-+AMOK+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 1,
+  "uploader": "-wxm-",
+  "files": 10,
+  "time": 1361171472,
+  "description": "Please support Thom and the rest of Atoms for Peace by pre-ordering the Deluxe LP from AMOK and iTunes!\n &lt;a href=&quot;\nhttp://atomsforpeace.info/amok/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://atomsforpeace.info/amok/&lt;/a&gt; &lt;a href=&quot;\nhttp://store.atomsforpeace.info/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://store.atomsforpeace.info/&lt;/a&gt; &lt;a href=&quot;\nhttps://itunes.apple.com/us/album/amok/id587383295?ign-mpt=uo%3D4&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://itunes.apple.com/us/album/amok/id587383295?ign-mpt=uo%3D4&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:b1ea45ae9b6926e1e2c0918a22f9ad98233cad5e",
+    "dn": "Atoms For Peace - AMOK (2013)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b1ea45ae9b6926e1e2c0918a22f9ad98233cad5e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        177,
+        234,
+        69,
+        174,
+        155,
+        105,
+        38,
+        225,
+        226,
+        192,
+        145,
+        138,
+        34,
+        249,
+        173,
+        152,
+        35,
+        60,
+        173,
+        94
+      ]
+    },
+    "name": "Atoms For Peace - AMOK (2013)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 36,
+  "last_updated": "2016-12-25T11:23:29.114Z"
+}

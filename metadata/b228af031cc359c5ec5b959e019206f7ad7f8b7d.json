@@ -1,1 +1,61 @@
-{"title":"Keaton Henson - Dear... (Deluxe Edition) (2012) (320 kbps)","uid":8591962,"size":103886064,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:b228af031cc359c5ec5b959e019206f7ad7f8b7d&amp;dn=Keaton+Henson+-+Dear...+%28Deluxe+Edition%29+%282012%29+%28320+kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":0,"uploader":"orangeboxx","files":12,"time":1371661444,"description":"Genre: Folk / Indie\nSource: WEB\nYear: 2012\nAudio codec: MP3\nRiptype: tracks\nBitrate: 320 kbps\nPlaytime: 00:42:43\nSize: 99 MB\n\nTracklist:\n01. Prologue 1:19\n02. You Don`t Know How Lucky You Are 3:48\n03. Charon 3:48\n04. Oliver Dalston Browning 4:26\n05. Sarah Minor 3:25\n06. Small Hands 3:00\n07. Flesh And Bone 4:32\n08. Nests 3:29\n09. Not That You`d Even Notice 3:17\n10. Party Song 4:21\n11. To Your Health (New Mix) 3:17\n12. About Sophie 4:01","torrent":{"xt":"urn:btih:b228af031cc359c5ec5b959e019206f7ad7f8b7d","amp;dn":"Keaton+Henson+-+Dear...+%28Deluxe+Edition%29+%282012%29+%28320+kbps%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b228af031cc359c5ec5b959e019206f7ad7f8b7d","infoHashBuffer":{"type":"Buffer","data":[178,40,175,3,28,195,89,197,236,91,149,158,1,146,6,247,173,127,139,125]},"announce":[],"urlList":[]}}
+{
+  "title": "Keaton Henson - Dear... (Deluxe Edition) (2012) (320 kbps)",
+  "uid": 8591962,
+  "size": 103886064,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:b228af031cc359c5ec5b959e019206f7ad7f8b7d&amp;dn=Keaton+Henson+-+Dear...+%28Deluxe+Edition%29+%282012%29+%28320+kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 0,
+  "uploader": "orangeboxx",
+  "files": 12,
+  "time": 1371661444,
+  "description": "Genre: Folk / Indie\nSource: WEB\nYear: 2012\nAudio codec: MP3\nRiptype: tracks\nBitrate: 320 kbps\nPlaytime: 00:42:43\nSize: 99 MB\n\nTracklist:\n01. Prologue 1:19\n02. You Don`t Know How Lucky You Are 3:48\n03. Charon 3:48\n04. Oliver Dalston Browning 4:26\n05. Sarah Minor 3:25\n06. Small Hands 3:00\n07. Flesh And Bone 4:32\n08. Nests 3:29\n09. Not That You`d Even Notice 3:17\n10. Party Song 4:21\n11. To Your Health (New Mix) 3:17\n12. About Sophie 4:01",
+  "parsed": {
+    "xt": "urn:btih:b228af031cc359c5ec5b959e019206f7ad7f8b7d",
+    "dn": "Keaton Henson - Dear... (Deluxe Edition) (2012) (320 kbps)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b228af031cc359c5ec5b959e019206f7ad7f8b7d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        178,
+        40,
+        175,
+        3,
+        28,
+        195,
+        89,
+        197,
+        236,
+        91,
+        149,
+        158,
+        1,
+        146,
+        6,
+        247,
+        173,
+        127,
+        139,
+        125
+      ]
+    },
+    "name": "Keaton Henson - Dear... (Deluxe Edition) (2012) (320 kbps)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 4,
+  "last_updated": "2016-12-25T11:25:01.393Z"
+}

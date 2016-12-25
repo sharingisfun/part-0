@@ -1,1 +1,61 @@
-{"title":"The Last Ship S01E01 HDTV x264-LOL[ettv]","uid":10408548,"size":438772677,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b459d57cbcae1191c23d89d4ce66c11b194bc464&amp;dn=The+Last+Ship+S01E01+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":4,"uploader":"ettv","files":2,"time":1403496105,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:b459d57cbcae1191c23d89d4ce66c11b194bc464","amp;dn":"The+Last+Ship+S01E01+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b459d57cbcae1191c23d89d4ce66c11b194bc464","infoHashBuffer":{"type":"Buffer","data":[180,89,213,124,188,174,17,145,194,61,137,212,206,102,193,27,25,75,196,100]},"announce":[],"urlList":[]}}
+{
+  "title": "The Last Ship S01E01 HDTV x264-LOL[ettv]",
+  "uid": 10408548,
+  "size": 438772677,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b459d57cbcae1191c23d89d4ce66c11b194bc464&amp;dn=The+Last+Ship+S01E01+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1403496105,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:b459d57cbcae1191c23d89d4ce66c11b194bc464",
+    "dn": "The Last Ship S01E01 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b459d57cbcae1191c23d89d4ce66c11b194bc464",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        180,
+        89,
+        213,
+        124,
+        188,
+        174,
+        17,
+        145,
+        194,
+        61,
+        137,
+        212,
+        206,
+        102,
+        193,
+        27,
+        25,
+        75,
+        196,
+        100
+      ]
+    },
+    "name": "The Last Ship S01E01 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 82,
+  "peers": 6,
+  "last_updated": "2016-12-25T11:37:47.644Z"
+}
