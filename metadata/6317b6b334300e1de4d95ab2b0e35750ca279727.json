@@ -1,1 +1,63 @@
-{"title":"The.block.s12e23.720p.hdtv.bf1.mkv","uid":15908885,"size":528275431,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:6317b6b334300e1de4d95ab2b0e35750ca279727&amp;dn=The.block.s12e23.720p.hdtv.bf1.mkv&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":4,"uploader":"bigfish5","files":1,"time":1475082165,"description":"The Block Season 12 Episode 23\r\n\r\nAs the week continues everyone is feeling the budget squeeze, and it goes from bad to worse for one team who are fined $2000 for using power tools after hours","torrent":{"xt":"urn:btih:6317b6b334300e1de4d95ab2b0e35750ca279727","amp;dn":"The.block.s12e23.720p.hdtv.bf1.mkv","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6317b6b334300e1de4d95ab2b0e35750ca279727","infoHashBuffer":{"type":"Buffer","data":[99,23,182,179,52,48,14,29,228,217,90,178,176,227,87,80,202,39,151,39]},"announce":[],"urlList":[]}}
+{
+  "title": "The.block.s12e23.720p.hdtv.bf1.mkv",
+  "uid": 15908885,
+  "size": 528275431,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:6317b6b334300e1de4d95ab2b0e35750ca279727&amp;dn=The.block.s12e23.720p.hdtv.bf1.mkv&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 4,
+  "uploader": "bigfish5",
+  "files": 1,
+  "time": 1475082165,
+  "description": "The Block Season 12 Episode 23\r\n\r\nAs the week continues everyone is feeling the budget squeeze, and it goes from bad to worse for one team who are fined $2000 for using power tools after hours",
+  "parsed": {
+    "xt": "urn:btih:6317b6b334300e1de4d95ab2b0e35750ca279727",
+    "dn": "The.block.s12e23.720p.hdtv.bf1.mkv",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "6317b6b334300e1de4d95ab2b0e35750ca279727",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        99,
+        23,
+        182,
+        179,
+        52,
+        48,
+        14,
+        29,
+        228,
+        217,
+        90,
+        178,
+        176,
+        227,
+        87,
+        80,
+        202,
+        39,
+        151,
+        39
+      ]
+    },
+    "name": "The.block.s12e23.720p.hdtv.bf1.mkv",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 8,
+  "last_updated": "2016-12-25T02:56:01.841Z"
+}

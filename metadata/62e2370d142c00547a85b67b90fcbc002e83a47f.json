@@ -1,1 +1,61 @@
-{"title":"The Very Best of Movie Soundtrack [VX]","uid":6420360,"size":385994959,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:62e2370d142c00547a85b67b90fcbc002e83a47f&amp;dn=The+Very+Best+of+Movie+Soundtrack+%5BVX%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":1,"uploader":"Vitamin_X","files":92,"time":1306297042,"description":"This is a collection of Blockbuster All time favorite Hollywood Movie Soundtracks\n\n\n\nEnjoy!!!!","torrent":{"xt":"urn:btih:62e2370d142c00547a85b67b90fcbc002e83a47f","amp;dn":"The+Very+Best+of+Movie+Soundtrack+%5BVX%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"62e2370d142c00547a85b67b90fcbc002e83a47f","infoHashBuffer":{"type":"Buffer","data":[98,226,55,13,20,44,0,84,122,133,182,123,144,252,188,0,46,131,164,127]},"announce":[],"urlList":[]}}
+{
+  "title": "The Very Best of Movie Soundtrack [VX]",
+  "uid": 6420360,
+  "size": 385994959,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:62e2370d142c00547a85b67b90fcbc002e83a47f&amp;dn=The+Very+Best+of+Movie+Soundtrack+%5BVX%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 1,
+  "uploader": "Vitamin_X",
+  "files": 92,
+  "time": 1306297042,
+  "description": "This is a collection of Blockbuster All time favorite Hollywood Movie Soundtracks\n\n\n\nEnjoy!!!!",
+  "parsed": {
+    "xt": "urn:btih:62e2370d142c00547a85b67b90fcbc002e83a47f",
+    "dn": "The Very Best of Movie Soundtrack [VX]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "62e2370d142c00547a85b67b90fcbc002e83a47f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        98,
+        226,
+        55,
+        13,
+        20,
+        44,
+        0,
+        84,
+        122,
+        133,
+        182,
+        123,
+        144,
+        252,
+        188,
+        0,
+        46,
+        131,
+        164,
+        127
+      ]
+    },
+    "name": "The Very Best of Movie Soundtrack [VX]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 31,
+  "last_updated": "2016-12-25T02:54:47.558Z"
+}

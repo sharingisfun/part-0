@@ -1,1 +1,61 @@
-{"title":"Becoming Steve Jobs - Brent Schlender","uid":11774873,"size":2536348,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:62539e4e2dd9c28b79af9f8529fbb1cb1c3e3e6c&amp;dn=Becoming+Steve+Jobs+-+Brent+Schlender&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":0,"uploader":"reemusk","files":1,"time":1427234820,"description":"Seed!","torrent":{"xt":"urn:btih:62539e4e2dd9c28b79af9f8529fbb1cb1c3e3e6c","amp;dn":"Becoming+Steve+Jobs+-+Brent+Schlender","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"62539e4e2dd9c28b79af9f8529fbb1cb1c3e3e6c","infoHashBuffer":{"type":"Buffer","data":[98,83,158,78,45,217,194,139,121,175,159,133,41,251,177,203,28,62,62,108]},"announce":[],"urlList":[]}}
+{
+  "title": "Becoming Steve Jobs - Brent Schlender",
+  "uid": 11774873,
+  "size": 2536348,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:62539e4e2dd9c28b79af9f8529fbb1cb1c3e3e6c&amp;dn=Becoming+Steve+Jobs+-+Brent+Schlender&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 0,
+  "uploader": "reemusk",
+  "files": 1,
+  "time": 1427234820,
+  "description": "Seed!",
+  "parsed": {
+    "xt": "urn:btih:62539e4e2dd9c28b79af9f8529fbb1cb1c3e3e6c",
+    "dn": "Becoming Steve Jobs - Brent Schlender",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "62539e4e2dd9c28b79af9f8529fbb1cb1c3e3e6c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        98,
+        83,
+        158,
+        78,
+        45,
+        217,
+        194,
+        139,
+        121,
+        175,
+        159,
+        133,
+        41,
+        251,
+        177,
+        203,
+        28,
+        62,
+        62,
+        108
+      ]
+    },
+    "name": "Becoming Steve Jobs - Brent Schlender",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 2,
+  "last_updated": "2016-12-25T02:51:06.854Z"
+}

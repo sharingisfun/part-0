@@ -1,1 +1,61 @@
-{"title":"Blue.Mountain.State.Season.3","uid":7771335,"size":2387711350,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:63125a2d349aa2da842599fa83f1b8710357ef2f&amp;dn=Blue.Mountain.State.Season.3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":2,"uploader":"CoGnIt0","files":12,"time":1351538867,"description":"Blue.Mountain.State.S03E01.Dic.Pics.avi\nBlue.Mountain.State.S03E02.The.Captain.avi\nBlue.Mountain.State.S03E03.Thad's.Back.avi\nBlue.Mountain.State.S03E04.The.Peack.avi\nBlue.Mountain.State.S03E05.Training.Day.avi\nBlue.Mountain.State.S03E06.Blackout.avi\nBlue.Mountain.State.S03E07.Superstition.avi\nBlue.Mountain.State.S03E08.Fun.Facts.avi\nBlue.Mountain.State.S03E09.The.C-Word.avi\nBlue.Mountain.State.S03E10.One.Week.avi\nBlue.Mountain.State.S03E11.Death.Penalty.avi\nBlue.Mountain.State.S03E12E13.Corn.Field.avi","torrent":{"xt":"urn:btih:63125a2d349aa2da842599fa83f1b8710357ef2f","amp;dn":"Blue.Mountain.State.Season.3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"63125a2d349aa2da842599fa83f1b8710357ef2f","infoHashBuffer":{"type":"Buffer","data":[99,18,90,45,52,154,162,218,132,37,153,250,131,241,184,113,3,87,239,47]},"announce":[],"urlList":[]}}
+{
+  "title": "Blue.Mountain.State.Season.3",
+  "uid": 7771335,
+  "size": 2387711350,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:63125a2d349aa2da842599fa83f1b8710357ef2f&amp;dn=Blue.Mountain.State.Season.3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 2,
+  "uploader": "CoGnIt0",
+  "files": 12,
+  "time": 1351538867,
+  "description": "Blue.Mountain.State.S03E01.Dic.Pics.avi\nBlue.Mountain.State.S03E02.The.Captain.avi\nBlue.Mountain.State.S03E03.Thad's.Back.avi\nBlue.Mountain.State.S03E04.The.Peack.avi\nBlue.Mountain.State.S03E05.Training.Day.avi\nBlue.Mountain.State.S03E06.Blackout.avi\nBlue.Mountain.State.S03E07.Superstition.avi\nBlue.Mountain.State.S03E08.Fun.Facts.avi\nBlue.Mountain.State.S03E09.The.C-Word.avi\nBlue.Mountain.State.S03E10.One.Week.avi\nBlue.Mountain.State.S03E11.Death.Penalty.avi\nBlue.Mountain.State.S03E12E13.Corn.Field.avi",
+  "parsed": {
+    "xt": "urn:btih:63125a2d349aa2da842599fa83f1b8710357ef2f",
+    "dn": "Blue.Mountain.State.Season.3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "63125a2d349aa2da842599fa83f1b8710357ef2f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        99,
+        18,
+        90,
+        45,
+        52,
+        154,
+        162,
+        218,
+        132,
+        37,
+        153,
+        250,
+        131,
+        241,
+        184,
+        113,
+        3,
+        87,
+        239,
+        47
+      ]
+    },
+    "name": "Blue.Mountain.State.Season.3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 20,
+  "last_updated": "2016-12-25T02:55:49.811Z"
+}

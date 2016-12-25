@@ -1,1 +1,61 @@
-{"title":"Ivan Tsarevich i Seryy Volk (2011) DVDRip","uid":6952771,"size":1469440000,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:617f85d8cb74d6f78bd1fff11607bd86bb328cd5&amp;dn=Ivan+Tsarevich+i+Seryy+Volk+%282011%29+DVDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":0,"uploader":"maxrus","files":-1,"time":1326464649,"description":"Quality: DVDRip \nDuration: 01:22:30 \nContainer: AVI \nVideo: XviD, 720x400, 1916 kbps\nAudio: Russian Original, AC3 5.1, 448 kbps\n","torrent":{"xt":"urn:btih:617f85d8cb74d6f78bd1fff11607bd86bb328cd5","amp;dn":"Ivan+Tsarevich+i+Seryy+Volk+%282011%29+DVDRip","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"617f85d8cb74d6f78bd1fff11607bd86bb328cd5","infoHashBuffer":{"type":"Buffer","data":[97,127,133,216,203,116,214,247,139,209,255,241,22,7,189,134,187,50,140,213]},"announce":[],"urlList":[]}}
+{
+  "title": "Ivan Tsarevich i Seryy Volk (2011) DVDRip",
+  "uid": 6952771,
+  "size": 1469440000,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:617f85d8cb74d6f78bd1fff11607bd86bb328cd5&amp;dn=Ivan+Tsarevich+i+Seryy+Volk+%282011%29+DVDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 0,
+  "uploader": "maxrus",
+  "files": -1,
+  "time": 1326464649,
+  "description": "Quality: DVDRip \nDuration: 01:22:30 \nContainer: AVI \nVideo: XviD, 720x400, 1916 kbps\nAudio: Russian Original, AC3 5.1, 448 kbps\n",
+  "parsed": {
+    "xt": "urn:btih:617f85d8cb74d6f78bd1fff11607bd86bb328cd5",
+    "dn": "Ivan Tsarevich i Seryy Volk (2011) DVDRip",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "617f85d8cb74d6f78bd1fff11607bd86bb328cd5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        97,
+        127,
+        133,
+        216,
+        203,
+        116,
+        214,
+        247,
+        139,
+        209,
+        255,
+        241,
+        22,
+        7,
+        189,
+        134,
+        187,
+        50,
+        140,
+        213
+      ]
+    },
+    "name": "Ivan Tsarevich i Seryy Volk (2011) DVDRip",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 36,
+  "peers": 1,
+  "last_updated": "2016-12-25T02:46:14.040Z"
+}

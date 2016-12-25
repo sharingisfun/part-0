@@ -1,1 +1,63 @@
-{"title":"AVG PC TuneUp Pro 2015 v15.0.1001.238","uid":16016283,"size":16517404,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:6268456af858a21a51c8d571b6008abc298f8956&amp;dn=AVG+PC+TuneUp+Pro+2015+v15.0.1001.238&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":158,"leechers":27,"uploader":"iKnickKnockf","files":3,"time":1476292953,"description":"AVG PC TuneUp Pro 2015 v15.0.1001.238","torrent":{"xt":"urn:btih:6268456af858a21a51c8d571b6008abc298f8956","amp;dn":"AVG+PC+TuneUp+Pro+2015+v15.0.1001.238","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6268456af858a21a51c8d571b6008abc298f8956","infoHashBuffer":{"type":"Buffer","data":[98,104,69,106,248,88,162,26,81,200,213,113,182,0,138,188,41,143,137,86]},"announce":[],"urlList":[]}}
+{
+  "title": "AVG PC TuneUp Pro 2015 v15.0.1001.238",
+  "uid": 16016283,
+  "size": 16517404,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:6268456af858a21a51c8d571b6008abc298f8956&amp;dn=AVG+PC+TuneUp+Pro+2015+v15.0.1001.238&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 158,
+  "leechers": 27,
+  "uploader": "iKnickKnockf",
+  "files": 3,
+  "time": 1476292953,
+  "description": "AVG PC TuneUp Pro 2015 v15.0.1001.238",
+  "parsed": {
+    "xt": "urn:btih:6268456af858a21a51c8d571b6008abc298f8956",
+    "dn": "AVG PC TuneUp Pro 2015 v15.0.1001.238",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "6268456af858a21a51c8d571b6008abc298f8956",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        98,
+        104,
+        69,
+        106,
+        248,
+        88,
+        162,
+        26,
+        81,
+        200,
+        213,
+        113,
+        182,
+        0,
+        138,
+        188,
+        41,
+        143,
+        137,
+        86
+      ]
+    },
+    "name": "AVG PC TuneUp Pro 2015 v15.0.1001.238",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 185,
+  "peers": 1,
+  "last_updated": "2016-12-25T02:51:44.970Z"
+}

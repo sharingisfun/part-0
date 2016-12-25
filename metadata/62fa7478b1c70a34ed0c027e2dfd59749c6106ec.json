@@ -1,1 +1,61 @@
-{"title":"Foo Fighters - Wasting Light (2011) [mp3@320]","uid":6328849,"size":142254231,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:62fa7478b1c70a34ed0c027e2dfd59749c6106ec&amp;dn=Foo+Fighters+-+Wasting+Light+%282011%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":5,"uploader":"zibbik","files":19,"time":1303211665,"description":"ARTIST: Foo Fighters\nALBUM: Wasting Light\nYEAR: 2011\nGENRE: Alternative rock, post-grunge\nQUALITY: MP3-320 kbps\nTIME: 00:58:00\n\n\n01. Bridge Burning (04:47)\n02. Rope (04:19)\n03. Dear Rosemary (04:27)\n04. White Limo (03:23)\n05. Arlandria (04:28)\n06. These Days (04:59)\n07. Back &amp; Forth (03:52)\n08. A Matter Of Time (04:36)\n09. Miss The Misery (04:34)\n10. I Should Have Known (04:16)\n11. Walk (04:16)\n\nBonus Enhanced CD:\n12. Rope (Deadmaus5 Mix) (05:53)\n13. Better Off (04:12) \n","torrent":{"xt":"urn:btih:62fa7478b1c70a34ed0c027e2dfd59749c6106ec","amp;dn":"Foo+Fighters+-+Wasting+Light+%282011%29+%5Bmp3%40320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"62fa7478b1c70a34ed0c027e2dfd59749c6106ec","infoHashBuffer":{"type":"Buffer","data":[98,250,116,120,177,199,10,52,237,12,2,126,45,253,89,116,156,97,6,236]},"announce":[],"urlList":[]}}
+{
+  "title": "Foo Fighters - Wasting Light (2011) [mp3@320]",
+  "uid": 6328849,
+  "size": 142254231,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:62fa7478b1c70a34ed0c027e2dfd59749c6106ec&amp;dn=Foo+Fighters+-+Wasting+Light+%282011%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 5,
+  "uploader": "zibbik",
+  "files": 19,
+  "time": 1303211665,
+  "description": "ARTIST: Foo Fighters\nALBUM: Wasting Light\nYEAR: 2011\nGENRE: Alternative rock, post-grunge\nQUALITY: MP3-320 kbps\nTIME: 00:58:00\n\n\n01. Bridge Burning (04:47)\n02. Rope (04:19)\n03. Dear Rosemary (04:27)\n04. White Limo (03:23)\n05. Arlandria (04:28)\n06. These Days (04:59)\n07. Back &amp; Forth (03:52)\n08. A Matter Of Time (04:36)\n09. Miss The Misery (04:34)\n10. I Should Have Known (04:16)\n11. Walk (04:16)\n\nBonus Enhanced CD:\n12. Rope (Deadmaus5 Mix) (05:53)\n13. Better Off (04:12) \n",
+  "parsed": {
+    "xt": "urn:btih:62fa7478b1c70a34ed0c027e2dfd59749c6106ec",
+    "dn": "Foo Fighters - Wasting Light (2011) [mp3@320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "62fa7478b1c70a34ed0c027e2dfd59749c6106ec",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        98,
+        250,
+        116,
+        120,
+        177,
+        199,
+        10,
+        52,
+        237,
+        12,
+        2,
+        126,
+        45,
+        253,
+        89,
+        116,
+        156,
+        97,
+        6,
+        236
+      ]
+    },
+    "name": "Foo Fighters - Wasting Light (2011) [mp3@320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 32,
+  "last_updated": "2016-12-25T02:55:13.647Z"
+}

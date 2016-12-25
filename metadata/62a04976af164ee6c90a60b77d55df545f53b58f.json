@@ -1,1 +1,61 @@
-{"title":"Los mercenarios 2","uid":8583259,"size":1504880640,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:62a04976af164ee6c90a60b77d55df545f53b58f&amp;dn=Los+mercenarios+2+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":1,"uploader":"Miguel223","files":1,"time":1371469715,"description":"Los mercenarios 2 \n\nwww.peliculasytorrent.com","torrent":{"xt":"urn:btih:62a04976af164ee6c90a60b77d55df545f53b58f","amp;dn":"Los+mercenarios+2+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"62a04976af164ee6c90a60b77d55df545f53b58f","infoHashBuffer":{"type":"Buffer","data":[98,160,73,118,175,22,78,230,201,10,96,183,125,85,223,84,95,83,181,143]},"announce":[],"urlList":[]}}
+{
+  "title": "Los mercenarios 2",
+  "uid": 8583259,
+  "size": 1504880640,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:62a04976af164ee6c90a60b77d55df545f53b58f&amp;dn=Los+mercenarios+2+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 1,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1371469715,
+  "description": "Los mercenarios 2 \n\nwww.peliculasytorrent.com",
+  "parsed": {
+    "xt": "urn:btih:62a04976af164ee6c90a60b77d55df545f53b58f",
+    "dn": "Los mercenarios 2 ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "62a04976af164ee6c90a60b77d55df545f53b58f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        98,
+        160,
+        73,
+        118,
+        175,
+        22,
+        78,
+        230,
+        201,
+        10,
+        96,
+        183,
+        125,
+        85,
+        223,
+        84,
+        95,
+        83,
+        181,
+        143
+      ]
+    },
+    "name": "Los mercenarios 2 ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 1,
+  "last_updated": "2016-12-25T02:53:15.241Z"
+}

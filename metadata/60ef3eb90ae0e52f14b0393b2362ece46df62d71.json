@@ -1,1 +1,61 @@
-{"title":"Vikings.S01E03.720p.HDTV.x264-2HD [PublicHD]","uid":8246937,"size":1396015375,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:60ef3eb90ae0e52f14b0393b2362ece46df62d71&amp;dn=Vikings.S01E03.720p.HDTV.x264-2HD+%5BPublicHD%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":7,"uploader":"DibyaTPB","files":2,"time":1363081468,"description":"","torrent":{"xt":"urn:btih:60ef3eb90ae0e52f14b0393b2362ece46df62d71","amp;dn":"Vikings.S01E03.720p.HDTV.x264-2HD+%5BPublicHD%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"60ef3eb90ae0e52f14b0393b2362ece46df62d71","infoHashBuffer":{"type":"Buffer","data":[96,239,62,185,10,224,229,47,20,176,57,59,35,98,236,228,109,246,45,113]},"announce":[],"urlList":[]}}
+{
+  "title": "Vikings.S01E03.720p.HDTV.x264-2HD [PublicHD]",
+  "uid": 8246937,
+  "size": 1396015375,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:60ef3eb90ae0e52f14b0393b2362ece46df62d71&amp;dn=Vikings.S01E03.720p.HDTV.x264-2HD+%5BPublicHD%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 7,
+  "uploader": "DibyaTPB",
+  "files": 2,
+  "time": 1363081468,
+  "description": "",
+  "parsed": {
+    "xt": "urn:btih:60ef3eb90ae0e52f14b0393b2362ece46df62d71",
+    "dn": "Vikings.S01E03.720p.HDTV.x264-2HD [PublicHD]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "60ef3eb90ae0e52f14b0393b2362ece46df62d71",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        96,
+        239,
+        62,
+        185,
+        10,
+        224,
+        229,
+        47,
+        20,
+        176,
+        57,
+        59,
+        35,
+        98,
+        236,
+        228,
+        109,
+        246,
+        45,
+        113
+      ]
+    },
+    "name": "Vikings.S01E03.720p.HDTV.x264-2HD [PublicHD]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 4,
+  "last_updated": "2016-12-25T02:43:25.530Z"
+}

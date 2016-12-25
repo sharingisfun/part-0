@@ -1,1 +1,63 @@
-{"title":"BiniSoft Windows Firewall Control v5.7.1.0","uid":15914656,"size":375046,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:6264c9981f55f45525d1abd0760bf8aa8822e455&amp;dn=BiniSoft+Windows+Firewall+Control+v5.7.1.0&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":33,"uploader":"gerardpmorris","files":3,"time":1475189321,"description":"very....good","torrent":{"xt":"urn:btih:6264c9981f55f45525d1abd0760bf8aa8822e455","amp;dn":"BiniSoft+Windows+Firewall+Control+v5.7.1.0","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6264c9981f55f45525d1abd0760bf8aa8822e455","infoHashBuffer":{"type":"Buffer","data":[98,100,201,152,31,85,244,85,37,209,171,208,118,11,248,170,136,34,228,85]},"announce":[],"urlList":[]}}
+{
+  "title": "BiniSoft Windows Firewall Control v5.7.1.0",
+  "uid": 15914656,
+  "size": 375046,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:6264c9981f55f45525d1abd0760bf8aa8822e455&amp;dn=BiniSoft+Windows+Firewall+Control+v5.7.1.0&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 33,
+  "uploader": "gerardpmorris",
+  "files": 3,
+  "time": 1475189321,
+  "description": "very....good",
+  "parsed": {
+    "xt": "urn:btih:6264c9981f55f45525d1abd0760bf8aa8822e455",
+    "dn": "BiniSoft Windows Firewall Control v5.7.1.0",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "6264c9981f55f45525d1abd0760bf8aa8822e455",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        98,
+        100,
+        201,
+        152,
+        31,
+        85,
+        244,
+        85,
+        37,
+        209,
+        171,
+        208,
+        118,
+        11,
+        248,
+        170,
+        136,
+        34,
+        228,
+        85
+      ]
+    },
+    "name": "BiniSoft Windows Firewall Control v5.7.1.0",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 86,
+  "peers": 2,
+  "last_updated": "2016-12-25T02:51:38.952Z"
+}

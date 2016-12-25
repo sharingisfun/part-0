@@ -1,1 +1,61 @@
-{"title":"PDF creator","uid":3972823,"size":13825601,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:62c6517e5ed0aaca88375ce59e63629b593fc60d&amp;dn=PDF+creator&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":0,"uploader":"knougat1","files":1,"time":1200091069,"description":"this is a free pdf creator/printer\n\nfree to disctribute but not if you intend to sell - go to primo site for license info before distributing.\n\nexcellent programme - quickly translates any word/excel/one note doc ect into a pdf file","torrent":{"xt":"urn:btih:62c6517e5ed0aaca88375ce59e63629b593fc60d","amp;dn":"PDF+creator","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"62c6517e5ed0aaca88375ce59e63629b593fc60d","infoHashBuffer":{"type":"Buffer","data":[98,198,81,126,94,208,170,202,136,55,92,229,158,99,98,155,89,63,198,13]},"announce":[],"urlList":[]}}
+{
+  "title": "PDF creator",
+  "uid": 3972823,
+  "size": 13825601,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:62c6517e5ed0aaca88375ce59e63629b593fc60d&amp;dn=PDF+creator&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 0,
+  "uploader": "knougat1",
+  "files": 1,
+  "time": 1200091069,
+  "description": "this is a free pdf creator/printer\n\nfree to disctribute but not if you intend to sell - go to primo site for license info before distributing.\n\nexcellent programme - quickly translates any word/excel/one note doc ect into a pdf file",
+  "parsed": {
+    "xt": "urn:btih:62c6517e5ed0aaca88375ce59e63629b593fc60d",
+    "dn": "PDF creator",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "62c6517e5ed0aaca88375ce59e63629b593fc60d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        98,
+        198,
+        81,
+        126,
+        94,
+        208,
+        170,
+        202,
+        136,
+        55,
+        92,
+        229,
+        158,
+        99,
+        98,
+        155,
+        89,
+        63,
+        198,
+        13
+      ]
+    },
+    "name": "PDF creator",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 19,
+  "last_updated": "2016-12-25T02:54:07.419Z"
+}

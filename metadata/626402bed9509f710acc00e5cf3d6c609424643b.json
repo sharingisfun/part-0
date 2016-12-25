@@ -1,1 +1,61 @@
-{"title":"Three Days Grace Discography","uid":5662433,"size":344524632,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:626402bed9509f710acc00e5cf3d6c609424643b&amp;dn=Three+Days+Grace+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":12,"uploader":"DarkSnyper88","files":47,"time":1278018796,"description":"Life Starts Now\nOne - X\nThree Days Grace (Self Titled)\nWave of Popular Feeling","torrent":{"xt":"urn:btih:626402bed9509f710acc00e5cf3d6c609424643b","amp;dn":"Three+Days+Grace+Discography","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"626402bed9509f710acc00e5cf3d6c609424643b","infoHashBuffer":{"type":"Buffer","data":[98,100,2,190,217,80,159,113,10,204,0,229,207,61,108,96,148,36,100,59]},"announce":[],"urlList":[]}}
+{
+  "title": "Three Days Grace Discography",
+  "uid": 5662433,
+  "size": 344524632,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:626402bed9509f710acc00e5cf3d6c609424643b&amp;dn=Three+Days+Grace+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 12,
+  "uploader": "DarkSnyper88",
+  "files": 47,
+  "time": 1278018796,
+  "description": "Life Starts Now\nOne - X\nThree Days Grace (Self Titled)\nWave of Popular Feeling",
+  "parsed": {
+    "xt": "urn:btih:626402bed9509f710acc00e5cf3d6c609424643b",
+    "dn": "Three Days Grace Discography",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "626402bed9509f710acc00e5cf3d6c609424643b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        98,
+        100,
+        2,
+        190,
+        217,
+        80,
+        159,
+        113,
+        10,
+        204,
+        0,
+        229,
+        207,
+        61,
+        108,
+        96,
+        148,
+        36,
+        100,
+        59
+      ]
+    },
+    "name": "Three Days Grace Discography",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 22,
+  "last_updated": "2016-12-25T02:51:32.931Z"
+}
