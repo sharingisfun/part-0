@@ -1,1 +1,61 @@
-{"title":"Duke Dumont Feat. Jax Jones - I Got U (Original Mix)","uid":9494489,"size":11456519,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a0e4affed83a76b4700b1aa6b0420deac20ad6a2&amp;dn=Duke+Dumont+Feat.+Jax+Jones+-+I+Got+U+%28Original+Mix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":224,"leechers":3,"uploader":"yeahsx","files":-1,"time":1390065191,"description":"Label: EMI\nArtist: Duke Dumont Feat. Jax Jones\nAudio Bit Rate: 320 Kbps\nDuration: 04:45 min\nBPM: 121\nGenre: House\nCatalog # 00602537715206\nCover: Yes\nFormat/Codec: .mp3","torrent":{"xt":"urn:btih:a0e4affed83a76b4700b1aa6b0420deac20ad6a2","amp;dn":"Duke+Dumont+Feat.+Jax+Jones+-+I+Got+U+%28Original+Mix%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a0e4affed83a76b4700b1aa6b0420deac20ad6a2","infoHashBuffer":{"type":"Buffer","data":[160,228,175,254,216,58,118,180,112,11,26,166,176,66,13,234,194,10,214,162]},"announce":[],"urlList":[]}}
+{
+  "title": "Duke Dumont Feat. Jax Jones - I Got U (Original Mix)",
+  "uid": 9494489,
+  "size": 11456519,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a0e4affed83a76b4700b1aa6b0420deac20ad6a2&amp;dn=Duke+Dumont+Feat.+Jax+Jones+-+I+Got+U+%28Original+Mix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 224,
+  "leechers": 3,
+  "uploader": "yeahsx",
+  "files": -1,
+  "time": 1390065191,
+  "description": "Label: EMI\nArtist: Duke Dumont Feat. Jax Jones\nAudio Bit Rate: 320 Kbps\nDuration: 04:45 min\nBPM: 121\nGenre: House\nCatalog # 00602537715206\nCover: Yes\nFormat/Codec: .mp3",
+  "parsed": {
+    "xt": "urn:btih:a0e4affed83a76b4700b1aa6b0420deac20ad6a2",
+    "dn": "Duke Dumont Feat. Jax Jones - I Got U (Original Mix)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a0e4affed83a76b4700b1aa6b0420deac20ad6a2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        160,
+        228,
+        175,
+        254,
+        216,
+        58,
+        118,
+        180,
+        112,
+        11,
+        26,
+        166,
+        176,
+        66,
+        13,
+        234,
+        194,
+        10,
+        214,
+        162
+      ]
+    },
+    "name": "Duke Dumont Feat. Jax Jones - I Got U (Original Mix)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 227,
+  "peers": 75,
+  "last_updated": "2016-12-25T09:35:05.276Z"
+}

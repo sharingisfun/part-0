@@ -1,1 +1,61 @@
-{"title":"La saga Crepusculo: Luna nueva","uid":8517961,"size":1546809344,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:9fc005d1f21030071467330b7e431648e74b3331&amp;dn=La+saga+Crepusculo%3A+Luna+nueva&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":6,"uploader":"Miguel223","files":1,"time":1369819153,"description":"La saga Crepusculo: Luna nueva\n\nwww.peliculasytorrent.com","torrent":{"xt":"urn:btih:9fc005d1f21030071467330b7e431648e74b3331","amp;dn":"La+saga+Crepusculo%3A+Luna+nueva","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9fc005d1f21030071467330b7e431648e74b3331","infoHashBuffer":{"type":"Buffer","data":[159,192,5,209,242,16,48,7,20,103,51,11,126,67,22,72,231,75,51,49]},"announce":[],"urlList":[]}}
+{
+  "title": "La saga Crepusculo: Luna nueva",
+  "uid": 8517961,
+  "size": 1546809344,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:9fc005d1f21030071467330b7e431648e74b3331&amp;dn=La+saga+Crepusculo%3A+Luna+nueva&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 6,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1369819153,
+  "description": "La saga Crepusculo: Luna nueva\n\nwww.peliculasytorrent.com",
+  "parsed": {
+    "xt": "urn:btih:9fc005d1f21030071467330b7e431648e74b3331",
+    "dn": "La saga Crepusculo: Luna nueva",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9fc005d1f21030071467330b7e431648e74b3331",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        159,
+        192,
+        5,
+        209,
+        242,
+        16,
+        48,
+        7,
+        20,
+        103,
+        51,
+        11,
+        126,
+        67,
+        22,
+        72,
+        231,
+        75,
+        51,
+        49
+      ]
+    },
+    "name": "La saga Crepusculo: Luna nueva",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 72,
+  "peers": 15,
+  "last_updated": "2016-12-25T09:28:07.899Z"
+}

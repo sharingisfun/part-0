@@ -1,1 +1,63 @@
-{"title":"The Sims 4 Mac","uid":12481106,"size":9191263652,"categoryP":"games","categoryS":"mac","magnet":"?xt=urn:btih:9f9633a62a8629ce004c14f3d90e0f0aaa4d975b&amp;dn=The+Sims+4+Mac&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":3,"uploader":"dlgator05","files":1,"time":1443048800,"description":"Thanks to RELOADED for a great working copy to start from...This is a wineskin port for Mac the works great on 10.10.5 Yosemite","torrent":{"xt":"urn:btih:9f9633a62a8629ce004c14f3d90e0f0aaa4d975b","amp;dn":"The+Sims+4+Mac","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9f9633a62a8629ce004c14f3d90e0f0aaa4d975b","infoHashBuffer":{"type":"Buffer","data":[159,150,51,166,42,134,41,206,0,76,20,243,217,14,15,10,170,77,151,91]},"announce":[],"urlList":[]}}
+{
+  "title": "The Sims 4 Mac",
+  "uid": 12481106,
+  "size": 9191263652,
+  "categoryP": "games",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:9f9633a62a8629ce004c14f3d90e0f0aaa4d975b&amp;dn=The+Sims+4+Mac&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 3,
+  "uploader": "dlgator05",
+  "files": 1,
+  "time": 1443048800,
+  "description": "Thanks to RELOADED for a great working copy to start from...This is a wineskin port for Mac the works great on 10.10.5 Yosemite",
+  "parsed": {
+    "xt": "urn:btih:9f9633a62a8629ce004c14f3d90e0f0aaa4d975b",
+    "dn": "The Sims 4 Mac",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "9f9633a62a8629ce004c14f3d90e0f0aaa4d975b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        159,
+        150,
+        51,
+        166,
+        42,
+        134,
+        41,
+        206,
+        0,
+        76,
+        20,
+        243,
+        217,
+        14,
+        15,
+        10,
+        170,
+        77,
+        151,
+        91
+      ]
+    },
+    "name": "The Sims 4 Mac",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 70,
+  "last_updated": "2016-12-25T09:26:47.624Z"
+}

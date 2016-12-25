@@ -1,1 +1,63 @@
-{"title":"Ubuntu 16.04.1 LTS Desktop 64-bit","uid":15496322,"size":1513308160,"categoryP":"applications","categoryS":"unix","magnet":"?xt=urn:btih:9f9165d9a281a9b8e782cd5176bbcc8256fd1871&amp;dn=Ubuntu+16.04.1+LTS+Desktop+64-bit&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":5,"uploader":"SeuPirate","files":1,"time":1470441619,"description":"Ubuntu 16.04.1 LTS Desktop 64-bit\r\n\r\nUbuntu comes with everything you need to run your organisation, school, home or enterprise. All the essential applications, like an office suite, browsers, email and media apps come pre-installed and thousands more games and applications are available in the Ubuntu Software Centre.\r\n\r\nUbuntu has always been free to download, use and share. We believe in the power of open source software; Ubuntu could not exist without its worldwide community of voluntary developers.\r\n\r\nWith a built-in firewall and virus protection software, Ubuntu is one of the most secure operating systems around. And the long-term support releases give you five years of security patches and updates.\r\n\r\nComputing is for everyone regardless of nationality, gender or disability. Ubuntu is fully translated into over 50 languages and includes essential assistive technologies.\r\n \nhttp://www.ubuntu.com/desktop","torrent":{"xt":"urn:btih:9f9165d9a281a9b8e782cd5176bbcc8256fd1871","amp;dn":"Ubuntu+16.04.1+LTS+Desktop+64-bit","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9f9165d9a281a9b8e782cd5176bbcc8256fd1871","infoHashBuffer":{"type":"Buffer","data":[159,145,101,217,162,129,169,184,231,130,205,81,118,187,204,130,86,253,24,113]},"announce":[],"urlList":[]}}
+{
+  "title": "Ubuntu 16.04.1 LTS Desktop 64-bit",
+  "uid": 15496322,
+  "size": 1513308160,
+  "categoryP": "applications",
+  "categoryS": "unix",
+  "magnet": "?xt=urn:btih:9f9165d9a281a9b8e782cd5176bbcc8256fd1871&amp;dn=Ubuntu+16.04.1+LTS+Desktop+64-bit&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 5,
+  "uploader": "SeuPirate",
+  "files": 1,
+  "time": 1470441619,
+  "description": "Ubuntu 16.04.1 LTS Desktop 64-bit\r\n\r\nUbuntu comes with everything you need to run your organisation, school, home or enterprise. All the essential applications, like an office suite, browsers, email and media apps come pre-installed and thousands more games and applications are available in the Ubuntu Software Centre.\r\n\r\nUbuntu has always been free to download, use and share. We believe in the power of open source software; Ubuntu could not exist without its worldwide community of voluntary developers.\r\n\r\nWith a built-in firewall and virus protection software, Ubuntu is one of the most secure operating systems around. And the long-term support releases give you five years of security patches and updates.\r\n\r\nComputing is for everyone regardless of nationality, gender or disability. Ubuntu is fully translated into over 50 languages and includes essential assistive technologies.\r\n \nhttp://www.ubuntu.com/desktop",
+  "parsed": {
+    "xt": "urn:btih:9f9165d9a281a9b8e782cd5176bbcc8256fd1871",
+    "dn": "Ubuntu 16.04.1 LTS Desktop 64-bit",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "9f9165d9a281a9b8e782cd5176bbcc8256fd1871",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        159,
+        145,
+        101,
+        217,
+        162,
+        129,
+        169,
+        184,
+        231,
+        130,
+        205,
+        81,
+        118,
+        187,
+        204,
+        130,
+        86,
+        253,
+        24,
+        113
+      ]
+    },
+    "name": "Ubuntu 16.04.1 LTS Desktop 64-bit",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 100,
+  "last_updated": "2016-12-25T09:26:39.588Z"
+}

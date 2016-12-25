@@ -1,1 +1,61 @@
-{"title":"Mageia 4.1 x86_64 DVD","uid":10392892,"size":3789768122,"categoryP":"applications","categoryS":"unix","magnet":"?xt=urn:btih:a03c28808fa797ebe2d5a9ff6f036c061dc9ba01&amp;dn=Mageia+4.1+x86_64+DVD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":3,"uploader":"sander85","files":6,"time":1403217175,"description":"Mageia 4.1 is a maintenance release for Mageia 4 with the current packages from update medias. It also has a fix for a syslinux bug which prevented some people installing from a burned cd/dvd.\n\nMajor new features\n* Updates to RPM (4.11) and urpmi, which has been given a thorough Mageia turnout and cleanup\n* Kernel 3.12\n* systemd 208\n* GRUB is the default bootloader; GRUB2 is available to test.\n* Revamped package groupings for installation and rpmdrake\n* KDE 4.11\n* GNOME 3.10\n* Xfce 4.10\n* LibreOffice 4.1.5.3\n* Experimental UEFI Support\n* FullHD+ resolution support","torrent":{"xt":"urn:btih:a03c28808fa797ebe2d5a9ff6f036c061dc9ba01","amp;dn":"Mageia+4.1+x86_64+DVD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a03c28808fa797ebe2d5a9ff6f036c061dc9ba01","infoHashBuffer":{"type":"Buffer","data":[160,60,40,128,143,167,151,235,226,213,169,255,111,3,108,6,29,201,186,1]},"announce":[],"urlList":[]}}
+{
+  "title": "Mageia 4.1 x86_64 DVD",
+  "uid": 10392892,
+  "size": 3789768122,
+  "categoryP": "applications",
+  "categoryS": "unix",
+  "magnet": "?xt=urn:btih:a03c28808fa797ebe2d5a9ff6f036c061dc9ba01&amp;dn=Mageia+4.1+x86_64+DVD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 3,
+  "uploader": "sander85",
+  "files": 6,
+  "time": 1403217175,
+  "description": "Mageia 4.1 is a maintenance release for Mageia 4 with the current packages from update medias. It also has a fix for a syslinux bug which prevented some people installing from a burned cd/dvd.\n\nMajor new features\n* Updates to RPM (4.11) and urpmi, which has been given a thorough Mageia turnout and cleanup\n* Kernel 3.12\n* systemd 208\n* GRUB is the default bootloader; GRUB2 is available to test.\n* Revamped package groupings for installation and rpmdrake\n* KDE 4.11\n* GNOME 3.10\n* Xfce 4.10\n* LibreOffice 4.1.5.3\n* Experimental UEFI Support\n* FullHD+ resolution support",
+  "parsed": {
+    "xt": "urn:btih:a03c28808fa797ebe2d5a9ff6f036c061dc9ba01",
+    "dn": "Mageia 4.1 x86_64 DVD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a03c28808fa797ebe2d5a9ff6f036c061dc9ba01",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        160,
+        60,
+        40,
+        128,
+        143,
+        167,
+        151,
+        235,
+        226,
+        213,
+        169,
+        255,
+        111,
+        3,
+        108,
+        6,
+        29,
+        201,
+        186,
+        1
+      ]
+    },
+    "name": "Mageia 4.1 x86_64 DVD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 76,
+  "peers": 1,
+  "last_updated": "2016-12-25T09:31:08.562Z"
+}

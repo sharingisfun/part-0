@@ -1,1 +1,61 @@
-{"title":"American.Horror.Story.S02E04.HDTV.x264-LOL.[VTV].mp4","uid":7804005,"size":244019517,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a0dd9b009c5325d3d52bf829a01056024ca021dd&amp;dn=American.Horror.Story.S02E04.HDTV.x264-LOL.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":1,"uploader":"VTV","files":1,"time":1352351951,"description":"American Horror Story 2x04 (HDTV-x264-LOL)[VTV]","torrent":{"xt":"urn:btih:a0dd9b009c5325d3d52bf829a01056024ca021dd","amp;dn":"American.Horror.Story.S02E04.HDTV.x264-LOL.%5BVTV%5D.mp4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a0dd9b009c5325d3d52bf829a01056024ca021dd","infoHashBuffer":{"type":"Buffer","data":[160,221,155,0,156,83,37,211,213,43,248,41,160,16,86,2,76,160,33,221]},"announce":[],"urlList":[]}}
+{
+  "title": "American.Horror.Story.S02E04.HDTV.x264-LOL.[VTV].mp4",
+  "uid": 7804005,
+  "size": 244019517,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a0dd9b009c5325d3d52bf829a01056024ca021dd&amp;dn=American.Horror.Story.S02E04.HDTV.x264-LOL.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 1,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1352351951,
+  "description": "American Horror Story 2x04 (HDTV-x264-LOL)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:a0dd9b009c5325d3d52bf829a01056024ca021dd",
+    "dn": "American.Horror.Story.S02E04.HDTV.x264-LOL.[VTV].mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a0dd9b009c5325d3d52bf829a01056024ca021dd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        160,
+        221,
+        155,
+        0,
+        156,
+        83,
+        37,
+        211,
+        213,
+        43,
+        248,
+        41,
+        160,
+        16,
+        86,
+        2,
+        76,
+        160,
+        33,
+        221
+      ]
+    },
+    "name": "American.Horror.Story.S02E04.HDTV.x264-LOL.[VTV].mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 12,
+  "last_updated": "2016-12-25T09:34:47.231Z"
+}

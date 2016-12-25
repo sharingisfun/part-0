@@ -1,1 +1,61 @@
-{"title":"Driv3r (Driver 3)","uid":6604760,"size":3379956178,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:9fa5e929a4a0c081c4362d3c78fc3067a7549de0&amp;dn=Driv3r+%28Driver+3%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":6,"uploader":"musy2","files":-1,"time":1313351165,"description":"##         ##    #        #   #########   #         #\n# #       # #    #        #   #            #       #\n#  #     #  #    #        #   #             #     #\n#   #   #   #    #        #   #              #   #\n#    # #    #    #        #   #               # #\n#     #     #    #        #   #########        #\n#           #    #        #           #        #\n#           #    #        #           #        #\n#           #    #        #           #        #\n#           #    #        #           #        #\n#           #    #        #           #        #\n#           #    ##########   #########        #\n\n\n\nExtract \n\n\nplay\n\n\nNO NEED INSTALL","torrent":{"xt":"urn:btih:9fa5e929a4a0c081c4362d3c78fc3067a7549de0","amp;dn":"Driv3r+%28Driver+3%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9fa5e929a4a0c081c4362d3c78fc3067a7549de0","infoHashBuffer":{"type":"Buffer","data":[159,165,233,41,164,160,192,129,196,54,45,60,120,252,48,103,167,84,157,224]},"announce":[],"urlList":[]}}
+{
+  "title": "Driv3r (Driver 3)",
+  "uid": 6604760,
+  "size": 3379956178,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:9fa5e929a4a0c081c4362d3c78fc3067a7549de0&amp;dn=Driv3r+%28Driver+3%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 6,
+  "uploader": "musy2",
+  "files": -1,
+  "time": 1313351165,
+  "description": "##         ##    #        #   #########   #         #\n# #       # #    #        #   #            #       #\n#  #     #  #    #        #   #             #     #\n#   #   #   #    #        #   #              #   #\n#    # #    #    #        #   #               # #\n#     #     #    #        #   #########        #\n#           #    #        #           #        #\n#           #    #        #           #        #\n#           #    #        #           #        #\n#           #    #        #           #        #\n#           #    #        #           #        #\n#           #    ##########   #########        #\n\n\n\nExtract \n\n\nplay\n\n\nNO NEED INSTALL",
+  "parsed": {
+    "xt": "urn:btih:9fa5e929a4a0c081c4362d3c78fc3067a7549de0",
+    "dn": "Driv3r (Driver 3)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9fa5e929a4a0c081c4362d3c78fc3067a7549de0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        159,
+        165,
+        233,
+        41,
+        164,
+        160,
+        192,
+        129,
+        196,
+        54,
+        45,
+        60,
+        120,
+        252,
+        48,
+        103,
+        167,
+        84,
+        157,
+        224
+      ]
+    },
+    "name": "Driv3r (Driver 3)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 15,
+  "last_updated": "2016-12-25T09:27:21.745Z"
+}

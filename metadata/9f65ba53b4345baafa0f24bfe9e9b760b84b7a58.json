@@ -1,1 +1,63 @@
-{"title":"Chicago.Med.S02E02.XviD-AFG","uid":15912461,"size":460003901,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:9f65ba53b4345baafa0f24bfe9e9b760b84b7a58&amp;dn=Chicago.Med.S02E02.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":16,"uploader":"TvTeam","files":7,"time":1475124206,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:9f65ba53b4345baafa0f24bfe9e9b760b84b7a58","amp;dn":"Chicago.Med.S02E02.XviD-AFG","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9f65ba53b4345baafa0f24bfe9e9b760b84b7a58","infoHashBuffer":{"type":"Buffer","data":[159,101,186,83,180,52,91,170,250,15,36,191,233,233,183,96,184,75,122,88]},"announce":[],"urlList":[]}}
+{
+  "title": "Chicago.Med.S02E02.XviD-AFG",
+  "uid": 15912461,
+  "size": 460003901,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:9f65ba53b4345baafa0f24bfe9e9b760b84b7a58&amp;dn=Chicago.Med.S02E02.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 16,
+  "uploader": "TvTeam",
+  "files": 7,
+  "time": 1475124206,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:9f65ba53b4345baafa0f24bfe9e9b760b84b7a58",
+    "dn": "Chicago.Med.S02E02.XviD-AFG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "9f65ba53b4345baafa0f24bfe9e9b760b84b7a58",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        159,
+        101,
+        186,
+        83,
+        180,
+        52,
+        91,
+        170,
+        250,
+        15,
+        36,
+        191,
+        233,
+        233,
+        183,
+        96,
+        184,
+        75,
+        122,
+        88
+      ]
+    },
+    "name": "Chicago.Med.S02E02.XviD-AFG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 9,
+  "last_updated": "2016-12-25T09:25:29.311Z"
+}

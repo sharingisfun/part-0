@@ -1,1 +1,63 @@
-{"title":"Divinity: Original Sin 2 (Early Access)","uid":15835733,"size":9325423182,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:a01bd5fc64489570c51796079261c5ab6a95debe&amp;dn=Divinity%3A+Original+Sin+2+%28Early+Access%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":107,"leechers":27,"uploader":"dauphong","files":1,"time":1473969927,"description":"In a world where the Gods are dead, you play a wielder of forbidden magic, quarantined in the prison colony of Fort Joy. The Magisters of the Divine Order want to &quot;cure&quot; you of your powers. But the Order has secrets of its own. Secrets that threaten everyone. If the world remains godless, chaos will rule. It's time for a new Divinity.\r\n\r\nChoose your race and origin story and see how differently the world reacts. Gather your party and blast your opponents with different elements in deep tactical turn-based combat. Explore the vast and layered world of Rivellon alone or with up to 4 players in drop-in/drop-out cooperative play.\r\n\r\nDivinity: Original Sin 2 is an entirely new experience built on the next-gen Divinity Engine, with a new UI, an all-new art-style, and advanced roleplay systems. Everything that made the original great returns: Go anywhere you want, kill anyone, find endless ways to solve problems and gather your ultimate RPG party","torrent":{"xt":"urn:btih:a01bd5fc64489570c51796079261c5ab6a95debe","amp;dn":"Divinity%3A+Original+Sin+2+%28Early+Access%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a01bd5fc64489570c51796079261c5ab6a95debe","infoHashBuffer":{"type":"Buffer","data":[160,27,213,252,100,72,149,112,197,23,150,7,146,97,197,171,106,149,222,190]},"announce":[],"urlList":[]}}
+{
+  "title": "Divinity: Original Sin 2 (Early Access)",
+  "uid": 15835733,
+  "size": 9325423182,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:a01bd5fc64489570c51796079261c5ab6a95debe&amp;dn=Divinity%3A+Original+Sin+2+%28Early+Access%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 107,
+  "leechers": 27,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1473969927,
+  "description": "In a world where the Gods are dead, you play a wielder of forbidden magic, quarantined in the prison colony of Fort Joy. The Magisters of the Divine Order want to &quot;cure&quot; you of your powers. But the Order has secrets of its own. Secrets that threaten everyone. If the world remains godless, chaos will rule. It's time for a new Divinity.\r\n\r\nChoose your race and origin story and see how differently the world reacts. Gather your party and blast your opponents with different elements in deep tactical turn-based combat. Explore the vast and layered world of Rivellon alone or with up to 4 players in drop-in/drop-out cooperative play.\r\n\r\nDivinity: Original Sin 2 is an entirely new experience built on the next-gen Divinity Engine, with a new UI, an all-new art-style, and advanced roleplay systems. Everything that made the original great returns: Go anywhere you want, kill anyone, find endless ways to solve problems and gather your ultimate RPG party",
+  "parsed": {
+    "xt": "urn:btih:a01bd5fc64489570c51796079261c5ab6a95debe",
+    "dn": "Divinity: Original Sin 2 (Early Access)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "a01bd5fc64489570c51796079261c5ab6a95debe",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        160,
+        27,
+        213,
+        252,
+        100,
+        72,
+        149,
+        112,
+        197,
+        23,
+        150,
+        7,
+        146,
+        97,
+        197,
+        171,
+        106,
+        149,
+        222,
+        190
+      ]
+    },
+    "name": "Divinity: Original Sin 2 (Early Access)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 134,
+  "peers": 50,
+  "last_updated": "2016-12-25T09:30:14.386Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Stephen.Kings.It.[1990].DVDRip.XviD-BLiTZKRiEG.avi","uid":5199297,"size":1468923904,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:9fdda4f1f3b1f9acd2cebb376c470b3e847e315b&amp;dn=Stephen.Kings.It.%5B1990%5D.DVDRip.XviD-BLiTZKRiEG.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":99,"leechers":4,"uploader":"JKBlitz","files":1,"time":1260078283,"description":"Movies Horror!\n\nSeven youths have to defeat a demonic creature named Pennywise which dresses in a clown suit and terrorizes a 1960's town in Maine.","torrent":{"xt":"urn:btih:9fdda4f1f3b1f9acd2cebb376c470b3e847e315b","amp;dn":"Stephen.Kings.It.%5B1990%5D.DVDRip.XviD-BLiTZKRiEG.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9fdda4f1f3b1f9acd2cebb376c470b3e847e315b","infoHashBuffer":{"type":"Buffer","data":[159,221,164,241,243,177,249,172,210,206,187,55,108,71,11,62,132,126,49,91]},"announce":[],"urlList":[]}}
+{
+  "title": "Stephen.Kings.It.[1990].DVDRip.XviD-BLiTZKRiEG.avi",
+  "uid": 5199297,
+  "size": 1468923904,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:9fdda4f1f3b1f9acd2cebb376c470b3e847e315b&amp;dn=Stephen.Kings.It.%5B1990%5D.DVDRip.XviD-BLiTZKRiEG.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 99,
+  "leechers": 4,
+  "uploader": "JKBlitz",
+  "files": 1,
+  "time": 1260078283,
+  "description": "Movies Horror!\n\nSeven youths have to defeat a demonic creature named Pennywise which dresses in a clown suit and terrorizes a 1960's town in Maine.",
+  "parsed": {
+    "xt": "urn:btih:9fdda4f1f3b1f9acd2cebb376c470b3e847e315b",
+    "dn": "Stephen.Kings.It.[1990].DVDRip.XviD-BLiTZKRiEG.avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9fdda4f1f3b1f9acd2cebb376c470b3e847e315b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        159,
+        221,
+        164,
+        241,
+        243,
+        177,
+        249,
+        172,
+        210,
+        206,
+        187,
+        55,
+        108,
+        71,
+        11,
+        62,
+        132,
+        126,
+        49,
+        91
+      ]
+    },
+    "name": "Stephen.Kings.It.[1990].DVDRip.XviD-BLiTZKRiEG.avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 103,
+  "peers": 35,
+  "last_updated": "2016-12-25T09:28:48.049Z"
+}

@@ -1,1 +1,61 @@
-{"title":"2.Broke.Girls.S04E10.HDTV.x264-LOL[ettv]","uid":11677415,"size":187460526,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a0af536cb31678deba698748aaf6b461b0b3169e&amp;dn=2.Broke.Girls.S04E10.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":152,"leechers":8,"uploader":"ettv","files":3,"time":1422930615,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:a0af536cb31678deba698748aaf6b461b0b3169e","amp;dn":"2.Broke.Girls.S04E10.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a0af536cb31678deba698748aaf6b461b0b3169e","infoHashBuffer":{"type":"Buffer","data":[160,175,83,108,179,22,120,222,186,105,135,72,170,246,180,97,176,179,22,158]},"announce":[],"urlList":[]}}
+{
+  "title": "2.Broke.Girls.S04E10.HDTV.x264-LOL[ettv]",
+  "uid": 11677415,
+  "size": 187460526,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a0af536cb31678deba698748aaf6b461b0b3169e&amp;dn=2.Broke.Girls.S04E10.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 152,
+  "leechers": 8,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1422930615,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:a0af536cb31678deba698748aaf6b461b0b3169e",
+    "dn": "2.Broke.Girls.S04E10.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a0af536cb31678deba698748aaf6b461b0b3169e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        160,
+        175,
+        83,
+        108,
+        179,
+        22,
+        120,
+        222,
+        186,
+        105,
+        135,
+        72,
+        170,
+        246,
+        180,
+        97,
+        176,
+        179,
+        22,
+        158
+      ]
+    },
+    "name": "2.Broke.Girls.S04E10.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 160,
+  "peers": 15,
+  "last_updated": "2016-12-25T09:33:35.001Z"
+}

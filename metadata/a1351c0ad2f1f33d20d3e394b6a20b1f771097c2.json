@@ -1,1 +1,61 @@
-{"title":"In This Moment - Blood (2012)","uid":7531724,"size":116084435,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a1351c0ad2f1f33d20d3e394b6a20b1f771097c2&amp;dn=In+This+Moment+-+Blood+%282012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":29,"uploader":"UGATeam","files":14,"time":1344945119,"description":" Downloaded from Rockbox, More details about the band there also.\nIf you like this,support the band,buy the cd.Also seed it as much\nyou can.Cheers/horns up and many thanks to the original uploader!!!!","torrent":{"xt":"urn:btih:a1351c0ad2f1f33d20d3e394b6a20b1f771097c2","amp;dn":"In+This+Moment+-+Blood+%282012%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a1351c0ad2f1f33d20d3e394b6a20b1f771097c2","infoHashBuffer":{"type":"Buffer","data":[161,53,28,10,210,241,243,61,32,211,227,148,182,162,11,31,119,16,151,194]},"announce":[],"urlList":[]}}
+{
+  "title": "In This Moment - Blood (2012)",
+  "uid": 7531724,
+  "size": 116084435,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a1351c0ad2f1f33d20d3e394b6a20b1f771097c2&amp;dn=In+This+Moment+-+Blood+%282012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 29,
+  "uploader": "UGATeam",
+  "files": 14,
+  "time": 1344945119,
+  "description": " Downloaded from Rockbox, More details about the band there also.\nIf you like this,support the band,buy the cd.Also seed it as much\nyou can.Cheers/horns up and many thanks to the original uploader!!!!",
+  "parsed": {
+    "xt": "urn:btih:a1351c0ad2f1f33d20d3e394b6a20b1f771097c2",
+    "dn": "In This Moment - Blood (2012)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a1351c0ad2f1f33d20d3e394b6a20b1f771097c2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        161,
+        53,
+        28,
+        10,
+        210,
+        241,
+        243,
+        61,
+        32,
+        211,
+        227,
+        148,
+        182,
+        162,
+        11,
+        31,
+        119,
+        16,
+        151,
+        194
+      ]
+    },
+    "name": "In This Moment - Blood (2012)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 103,
+  "peers": 19,
+  "last_updated": "2016-12-25T09:37:07.646Z"
+}

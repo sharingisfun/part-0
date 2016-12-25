@@ -1,1 +1,61 @@
-{"title":"Team Fortress 2 [NonSteam] v1.0.9.5","uid":5662180,"size":2406737012,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:a0b93119f1e974939f9a9aa0419ca26499d51e3a&amp;dn=Team+Fortress+2+%5BNonSteam%5D+v1.0.9.5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":77,"leechers":7,"uploader":"stoyanof","files":-1,"time":1278012509,"description":"Team Fortress 2 FULL v1.0.9.5 [Non-Steam] with launcher.","torrent":{"xt":"urn:btih:a0b93119f1e974939f9a9aa0419ca26499d51e3a","amp;dn":"Team+Fortress+2+%5BNonSteam%5D+v1.0.9.5","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a0b93119f1e974939f9a9aa0419ca26499d51e3a","infoHashBuffer":{"type":"Buffer","data":[160,185,49,25,241,233,116,147,159,154,154,160,65,156,162,100,153,213,30,58]},"announce":[],"urlList":[]}}
+{
+  "title": "Team Fortress 2 [NonSteam] v1.0.9.5",
+  "uid": 5662180,
+  "size": 2406737012,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:a0b93119f1e974939f9a9aa0419ca26499d51e3a&amp;dn=Team+Fortress+2+%5BNonSteam%5D+v1.0.9.5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 77,
+  "leechers": 7,
+  "uploader": "stoyanof",
+  "files": -1,
+  "time": 1278012509,
+  "description": "Team Fortress 2 FULL v1.0.9.5 [Non-Steam] with launcher.",
+  "parsed": {
+    "xt": "urn:btih:a0b93119f1e974939f9a9aa0419ca26499d51e3a",
+    "dn": "Team Fortress 2 [NonSteam] v1.0.9.5",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a0b93119f1e974939f9a9aa0419ca26499d51e3a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        160,
+        185,
+        49,
+        25,
+        241,
+        233,
+        116,
+        147,
+        159,
+        154,
+        154,
+        160,
+        65,
+        156,
+        162,
+        100,
+        153,
+        213,
+        30,
+        58
+      ]
+    },
+    "name": "Team Fortress 2 [NonSteam] v1.0.9.5",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 84,
+  "peers": 97,
+  "last_updated": "2016-12-25T09:33:49.054Z"
+}

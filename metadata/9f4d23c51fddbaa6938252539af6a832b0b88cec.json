@@ -1,1 +1,61 @@
-{"title":"El Cuarteto de Nos (full discography)","uid":7793083,"size":700314869,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9f4d23c51fddbaa6938252539af6a832b0b88cec&amp;dn=El+Cuarteto+de+Nos+%28full+discography%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":4,"uploader":"Diegus83","files":171,"time":1352069838,"description":"Enjoy.","torrent":{"xt":"urn:btih:9f4d23c51fddbaa6938252539af6a832b0b88cec","amp;dn":"El+Cuarteto+de+Nos+%28full+discography%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9f4d23c51fddbaa6938252539af6a832b0b88cec","infoHashBuffer":{"type":"Buffer","data":[159,77,35,197,31,221,186,166,147,130,82,83,154,246,168,50,176,184,140,236]},"announce":[],"urlList":[]}}
+{
+  "title": "El Cuarteto de Nos (full discography)",
+  "uid": 7793083,
+  "size": 700314869,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9f4d23c51fddbaa6938252539af6a832b0b88cec&amp;dn=El+Cuarteto+de+Nos+%28full+discography%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 4,
+  "uploader": "Diegus83",
+  "files": 171,
+  "time": 1352069838,
+  "description": "Enjoy.",
+  "parsed": {
+    "xt": "urn:btih:9f4d23c51fddbaa6938252539af6a832b0b88cec",
+    "dn": "El Cuarteto de Nos (full discography)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9f4d23c51fddbaa6938252539af6a832b0b88cec",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        159,
+        77,
+        35,
+        197,
+        31,
+        221,
+        186,
+        166,
+        147,
+        130,
+        82,
+        83,
+        154,
+        246,
+        168,
+        50,
+        176,
+        184,
+        140,
+        236
+      ]
+    },
+    "name": "El Cuarteto de Nos (full discography)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 17,
+  "last_updated": "2016-12-25T09:24:45.130Z"
+}
