@@ -1,1 +1,61 @@
-{"title":"Windows 8.1 Pro Update 1 IR4 x86 PT BR","uid":11426075,"size":2582937600,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:b669e78ee9763abcff5448d6ac365abb9ebd4b8a&amp;dn=Windows+8.1+Pro+Update+1+IR4+x86+PT+BR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":69,"leechers":7,"uploader":"PEERBLOCK","files":1,"time":1415666788,"description":"Windows 8.1 Pro Update 1 IR4 x86 PT BR\n\nOriginal: ir4_cpra_x86frer_pt-br_esd_82e5d605a019dc4a24b4a6da55b895ec4ff20ef8.esd\n\nDecrypted: IR4_CPRA_X86FRER_PT-BR_DV9.iso","torrent":{"xt":"urn:btih:b669e78ee9763abcff5448d6ac365abb9ebd4b8a","amp;dn":"Windows+8.1+Pro+Update+1+IR4+x86+PT+BR","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b669e78ee9763abcff5448d6ac365abb9ebd4b8a","infoHashBuffer":{"type":"Buffer","data":[182,105,231,142,233,118,58,188,255,84,72,214,172,54,90,187,158,189,75,138]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows 8.1 Pro Update 1 IR4 x86 PT BR",
+  "uid": 11426075,
+  "size": 2582937600,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:b669e78ee9763abcff5448d6ac365abb9ebd4b8a&amp;dn=Windows+8.1+Pro+Update+1+IR4+x86+PT+BR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 69,
+  "leechers": 7,
+  "uploader": "PEERBLOCK",
+  "files": 1,
+  "time": 1415666788,
+  "description": "Windows 8.1 Pro Update 1 IR4 x86 PT BR\n\nOriginal: ir4_cpra_x86frer_pt-br_esd_82e5d605a019dc4a24b4a6da55b895ec4ff20ef8.esd\n\nDecrypted: IR4_CPRA_X86FRER_PT-BR_DV9.iso",
+  "parsed": {
+    "xt": "urn:btih:b669e78ee9763abcff5448d6ac365abb9ebd4b8a",
+    "dn": "Windows 8.1 Pro Update 1 IR4 x86 PT BR",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b669e78ee9763abcff5448d6ac365abb9ebd4b8a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        182,
+        105,
+        231,
+        142,
+        233,
+        118,
+        58,
+        188,
+        255,
+        84,
+        72,
+        214,
+        172,
+        54,
+        90,
+        187,
+        158,
+        189,
+        75,
+        138
+      ]
+    },
+    "name": "Windows 8.1 Pro Update 1 IR4 x86 PT BR",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 76,
+  "peers": 1,
+  "last_updated": "2016-12-25T11:51:24.739Z"
+}

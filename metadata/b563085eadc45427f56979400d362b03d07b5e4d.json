@@ -1,1 +1,61 @@
-{"title":"Castle.2009.S07E21.HDTV.x264-LOL[ettv]","uid":11857390,"size":298605809,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b563085eadc45427f56979400d362b03d07b5e4d&amp;dn=Castle.2009.S07E21.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":435,"leechers":17,"uploader":"ettv","files":3,"time":1430197016,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:b563085eadc45427f56979400d362b03d07b5e4d","amp;dn":"Castle.2009.S07E21.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b563085eadc45427f56979400d362b03d07b5e4d","infoHashBuffer":{"type":"Buffer","data":[181,99,8,94,173,196,84,39,245,105,121,64,13,54,43,3,208,123,94,77]},"announce":[],"urlList":[]}}
+{
+  "title": "Castle.2009.S07E21.HDTV.x264-LOL[ettv]",
+  "uid": 11857390,
+  "size": 298605809,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b563085eadc45427f56979400d362b03d07b5e4d&amp;dn=Castle.2009.S07E21.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 435,
+  "leechers": 17,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1430197016,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:b563085eadc45427f56979400d362b03d07b5e4d",
+    "dn": "Castle.2009.S07E21.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b563085eadc45427f56979400d362b03d07b5e4d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        181,
+        99,
+        8,
+        94,
+        173,
+        196,
+        84,
+        39,
+        245,
+        105,
+        121,
+        64,
+        13,
+        54,
+        43,
+        3,
+        208,
+        123,
+        94,
+        77
+      ]
+    },
+    "name": "Castle.2009.S07E21.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 452,
+  "peers": 76,
+  "last_updated": "2016-12-25T11:44:53.380Z"
+}

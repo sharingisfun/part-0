@@ -1,1 +1,61 @@
-{"title":"Beirut Discography","uid":4846280,"size":237687896,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:b528963df61162870c456b407bce5283a86f69b2&amp;dn=Beirut+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":166,"leechers":16,"uploader":"luise.j","files":45,"time":1239699843,"description":"Full Length Albums:\n\nGulag Orkestar (2006)\nThe Flying Club Cup (2007)\n\nEPs:\nLon Gisland (2007)\nPompeii (2007) **\nElephant Gun (2007)\nMarch of the Zapotec (2009)\nRealpeople Holland (2009)\n\n\n\n\n** I am missing the third and forth tracks from Pompeii (&quot;Monna Pomona&quot; and &quot;Jamie Cool&quot;, but otherwise complete.\n\nEnjoy!!","torrent":{"xt":"urn:btih:b528963df61162870c456b407bce5283a86f69b2","amp;dn":"Beirut+Discography","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b528963df61162870c456b407bce5283a86f69b2","infoHashBuffer":{"type":"Buffer","data":[181,40,150,61,246,17,98,135,12,69,107,64,123,206,82,131,168,111,105,178]},"announce":[],"urlList":[]}}
+{
+  "title": "Beirut Discography",
+  "uid": 4846280,
+  "size": 237687896,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:b528963df61162870c456b407bce5283a86f69b2&amp;dn=Beirut+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 166,
+  "leechers": 16,
+  "uploader": "luise.j",
+  "files": 45,
+  "time": 1239699843,
+  "description": "Full Length Albums:\n\nGulag Orkestar (2006)\nThe Flying Club Cup (2007)\n\nEPs:\nLon Gisland (2007)\nPompeii (2007) **\nElephant Gun (2007)\nMarch of the Zapotec (2009)\nRealpeople Holland (2009)\n\n\n\n\n** I am missing the third and forth tracks from Pompeii (&quot;Monna Pomona&quot; and &quot;Jamie Cool&quot;, but otherwise complete.\n\nEnjoy!!",
+  "parsed": {
+    "xt": "urn:btih:b528963df61162870c456b407bce5283a86f69b2",
+    "dn": "Beirut Discography",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b528963df61162870c456b407bce5283a86f69b2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        181,
+        40,
+        150,
+        61,
+        246,
+        17,
+        98,
+        135,
+        12,
+        69,
+        107,
+        64,
+        123,
+        206,
+        82,
+        131,
+        168,
+        111,
+        105,
+        178
+      ]
+    },
+    "name": "Beirut Discography",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 182,
+  "peers": 10,
+  "last_updated": "2016-12-25T11:43:06.966Z"
+}

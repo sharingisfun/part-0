@@ -1,1 +1,61 @@
-{"title":"Zoo Tycoon 2","uid":4800874,"size":979783635,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:b5f55b540f8cc453d1c76d3ccaa9975e24e0cb0b&amp;dn=Zoo+Tycoon+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":114,"leechers":6,"uploader":"praveen08","files":151,"time":1238034159,"description":"This is Zoo tycoon wonderful game....\n\n\nUploaded\n                By\n                     E.Praveen  \n       &lt;a href=&quot;\nhttp://fun2funs.blogspot.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://fun2funs.blogspot.com&lt;/a&gt;  \n       &lt;a href=&quot;\nhttp://groups.google.com/group/fun2funs?hl=en&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://groups.google.com/group/fun2funs?hl=en&lt;/a&gt;\n       &lt;a href=&quot;\nhttp://www.youmint.com/network-epraveen08&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.youmint.com/network-epraveen08&lt;/a&gt; ","torrent":{"xt":"urn:btih:b5f55b540f8cc453d1c76d3ccaa9975e24e0cb0b","amp;dn":"Zoo+Tycoon+2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b5f55b540f8cc453d1c76d3ccaa9975e24e0cb0b","infoHashBuffer":{"type":"Buffer","data":[181,245,91,84,15,140,196,83,209,199,109,60,202,169,151,94,36,224,203,11]},"announce":[],"urlList":[]}}
+{
+  "title": "Zoo Tycoon 2",
+  "uid": 4800874,
+  "size": 979783635,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:b5f55b540f8cc453d1c76d3ccaa9975e24e0cb0b&amp;dn=Zoo+Tycoon+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 114,
+  "leechers": 6,
+  "uploader": "praveen08",
+  "files": 151,
+  "time": 1238034159,
+  "description": "This is Zoo tycoon wonderful game....\n\n\nUploaded\n                By\n                     E.Praveen  \n       &lt;a href=&quot;\nhttp://fun2funs.blogspot.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://fun2funs.blogspot.com&lt;/a&gt;  \n       &lt;a href=&quot;\nhttp://groups.google.com/group/fun2funs?hl=en&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://groups.google.com/group/fun2funs?hl=en&lt;/a&gt;\n       &lt;a href=&quot;\nhttp://www.youmint.com/network-epraveen08&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.youmint.com/network-epraveen08&lt;/a&gt; ",
+  "parsed": {
+    "xt": "urn:btih:b5f55b540f8cc453d1c76d3ccaa9975e24e0cb0b",
+    "dn": "Zoo Tycoon 2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b5f55b540f8cc453d1c76d3ccaa9975e24e0cb0b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        181,
+        245,
+        91,
+        84,
+        15,
+        140,
+        196,
+        83,
+        209,
+        199,
+        109,
+        60,
+        202,
+        169,
+        151,
+        94,
+        36,
+        224,
+        203,
+        11
+      ]
+    },
+    "name": "Zoo Tycoon 2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 120,
+  "peers": 260,
+  "last_updated": "2016-12-25T11:48:36.218Z"
+}

@@ -1,1 +1,61 @@
-{"title":"BlueStacks HD App Player Pro - Android Emulator for Windows","uid":8143611,"size":108285952,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:b6b9d887c25a863421c83abf1d4ac659e1cb66c1&amp;dn=BlueStacks+HD+App+Player+Pro+-+Android+Emulator+for+Windows&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":1,"uploader":"cabolombo","files":1,"time":1360860147,"description":"BlueStacks App Player lets you run apps from your android phone fast and\nfullscreen on Windows.","torrent":{"xt":"urn:btih:b6b9d887c25a863421c83abf1d4ac659e1cb66c1","amp;dn":"BlueStacks+HD+App+Player+Pro+-+Android+Emulator+for+Windows","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b6b9d887c25a863421c83abf1d4ac659e1cb66c1","infoHashBuffer":{"type":"Buffer","data":[182,185,216,135,194,90,134,52,33,200,58,191,29,74,198,89,225,203,102,193]},"announce":[],"urlList":[]}}
+{
+  "title": "BlueStacks HD App Player Pro - Android Emulator for Windows",
+  "uid": 8143611,
+  "size": 108285952,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:b6b9d887c25a863421c83abf1d4ac659e1cb66c1&amp;dn=BlueStacks+HD+App+Player+Pro+-+Android+Emulator+for+Windows&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 1,
+  "uploader": "cabolombo",
+  "files": 1,
+  "time": 1360860147,
+  "description": "BlueStacks App Player lets you run apps from your android phone fast and\nfullscreen on Windows.",
+  "parsed": {
+    "xt": "urn:btih:b6b9d887c25a863421c83abf1d4ac659e1cb66c1",
+    "dn": "BlueStacks HD App Player Pro - Android Emulator for Windows",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b6b9d887c25a863421c83abf1d4ac659e1cb66c1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        182,
+        185,
+        216,
+        135,
+        194,
+        90,
+        134,
+        52,
+        33,
+        200,
+        58,
+        191,
+        29,
+        74,
+        198,
+        89,
+        225,
+        203,
+        102,
+        193
+      ]
+    },
+    "name": "BlueStacks HD App Player Pro - Android Emulator for Windows",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 41,
+  "last_updated": "2016-12-25T11:53:19.069Z"
+}

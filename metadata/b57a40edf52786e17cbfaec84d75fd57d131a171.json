@@ -1,1 +1,61 @@
-{"title":"Snoop Dog - Doggystyle","uid":3977577,"size":126165248,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:b57a40edf52786e17cbfaec84d75fd57d131a171&amp;dn=Snoop+Dog+-+Doggystyle&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":106,"leechers":3,"uploader":"LargestAl","files":18,"time":1200364361,"description":"Snoop Dog\n\nDoggystyle\n\n320 kbps\n\nHope I did this correct.  Please leave comments.","torrent":{"xt":"urn:btih:b57a40edf52786e17cbfaec84d75fd57d131a171","amp;dn":"Snoop+Dog+-+Doggystyle","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b57a40edf52786e17cbfaec84d75fd57d131a171","infoHashBuffer":{"type":"Buffer","data":[181,122,64,237,245,39,134,225,124,191,174,200,77,117,253,87,209,49,161,113]},"announce":[],"urlList":[]}}
+{
+  "title": "Snoop Dog - Doggystyle",
+  "uid": 3977577,
+  "size": 126165248,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:b57a40edf52786e17cbfaec84d75fd57d131a171&amp;dn=Snoop+Dog+-+Doggystyle&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 106,
+  "leechers": 3,
+  "uploader": "LargestAl",
+  "files": 18,
+  "time": 1200364361,
+  "description": "Snoop Dog\n\nDoggystyle\n\n320 kbps\n\nHope I did this correct.  Please leave comments.",
+  "parsed": {
+    "xt": "urn:btih:b57a40edf52786e17cbfaec84d75fd57d131a171",
+    "dn": "Snoop Dog - Doggystyle",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b57a40edf52786e17cbfaec84d75fd57d131a171",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        181,
+        122,
+        64,
+        237,
+        245,
+        39,
+        134,
+        225,
+        124,
+        191,
+        174,
+        200,
+        77,
+        117,
+        253,
+        87,
+        209,
+        49,
+        161,
+        113
+      ]
+    },
+    "name": "Snoop Dog - Doggystyle",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 109,
+  "peers": 42,
+  "last_updated": "2016-12-25T11:45:23.509Z"
+}

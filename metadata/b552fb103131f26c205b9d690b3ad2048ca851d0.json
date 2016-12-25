@@ -1,1 +1,61 @@
-{"title":"Spin Tires  Spintires v.1.3","uid":8543409,"size":103895552,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:b552fb103131f26c205b9d690b3ad2048ca851d0&amp;dn=Spin+Tires+%5C+Spintires+v.1.3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":141,"leechers":4,"uploader":"wjelo","files":-1,"time":1370456781,"description":"Great game about off roading in old Russian trucks. Amazaing graphisc, sound, physics and deformable terrain. This is the newest (4. June 2013) version of KickStarter Tech Demo.\n\nPlease consider backing this project on KickStarter: http://www.kickstarter.com/projects/358753914/spintires-the-ultimate-off-road-challenge\n\nIf you want to use PayPal: http://spintires.com/#!/donate\n\nThank you and have fun!","torrent":{"xt":"urn:btih:b552fb103131f26c205b9d690b3ad2048ca851d0","amp;dn":"Spin+Tires+%5C+Spintires+v.1.3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b552fb103131f26c205b9d690b3ad2048ca851d0","infoHashBuffer":{"type":"Buffer","data":[181,82,251,16,49,49,242,108,32,91,157,105,11,58,210,4,140,168,81,208]},"announce":[],"urlList":[]}}
+{
+  "title": "Spin Tires  Spintires v.1.3",
+  "uid": 8543409,
+  "size": 103895552,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:b552fb103131f26c205b9d690b3ad2048ca851d0&amp;dn=Spin+Tires+%5C+Spintires+v.1.3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 141,
+  "leechers": 4,
+  "uploader": "wjelo",
+  "files": -1,
+  "time": 1370456781,
+  "description": "Great game about off roading in old Russian trucks. Amazaing graphisc, sound, physics and deformable terrain. This is the newest (4. June 2013) version of KickStarter Tech Demo.\n\nPlease consider backing this project on KickStarter: http://www.kickstarter.com/projects/358753914/spintires-the-ultimate-off-road-challenge\n\nIf you want to use PayPal: http://spintires.com/#!/donate\n\nThank you and have fun!",
+  "parsed": {
+    "xt": "urn:btih:b552fb103131f26c205b9d690b3ad2048ca851d0",
+    "dn": "Spin Tires \\ Spintires v.1.3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b552fb103131f26c205b9d690b3ad2048ca851d0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        181,
+        82,
+        251,
+        16,
+        49,
+        49,
+        242,
+        108,
+        32,
+        91,
+        157,
+        105,
+        11,
+        58,
+        210,
+        4,
+        140,
+        168,
+        81,
+        208
+      ]
+    },
+    "name": "Spin Tires \\ Spintires v.1.3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 145,
+  "peers": 50,
+  "last_updated": "2016-12-25T11:44:15.230Z"
+}

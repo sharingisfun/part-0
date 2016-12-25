@@ -1,1 +1,61 @@
-{"title":"The Elder Scrolls IV Oblivion Game Of The Year Deluxe Edition","uid":5881638,"size":5872773559,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:b4d4a8b68318ee57007bcffe74efdfd2f1d3c278&amp;dn=The+Elder+Scrolls+IV+Oblivion+Game+Of+The+Year+Deluxe+Edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":132,"leechers":21,"uploader":".BONE.","files":4,"time":1286858641,"description":"Recommended:\n\n    * 3 Ghz Intel Pentium 4 or equivalent processor\n    * 1 GB System RAM\n    * ATI X800 series, NVIDIA GeForce 6800 series, or higher video card\n\nMinimum System Requirements:\n\n    * Windows XP, Windows 2000, Windows XP 64-bit\n    * 512MB System RAM\n    * 2 Ghz Intel Pentium 4 or equivalent processor\n    * 128MB Direct3D compatible video card\n    * and DirectX 9.0 compatible driver;\n    * 8x DVD-ROM drive\n    * 4.6 GB free hard disk space\n    * DirectX 9.0c (included)\n    * DirectX 8.1 compatible sound card\n    * Keyboard, Mouse\n","torrent":{"xt":"urn:btih:b4d4a8b68318ee57007bcffe74efdfd2f1d3c278","amp;dn":"The+Elder+Scrolls+IV+Oblivion+Game+Of+The+Year+Deluxe+Edition","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b4d4a8b68318ee57007bcffe74efdfd2f1d3c278","infoHashBuffer":{"type":"Buffer","data":[180,212,168,182,131,24,238,87,0,123,207,254,116,239,223,210,241,211,194,120]},"announce":[],"urlList":[]}}
+{
+  "title": "The Elder Scrolls IV Oblivion Game Of The Year Deluxe Edition",
+  "uid": 5881638,
+  "size": 5872773559,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:b4d4a8b68318ee57007bcffe74efdfd2f1d3c278&amp;dn=The+Elder+Scrolls+IV+Oblivion+Game+Of+The+Year+Deluxe+Edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 132,
+  "leechers": 21,
+  "uploader": ".BONE.",
+  "files": 4,
+  "time": 1286858641,
+  "description": "Recommended:\n\n    * 3 Ghz Intel Pentium 4 or equivalent processor\n    * 1 GB System RAM\n    * ATI X800 series, NVIDIA GeForce 6800 series, or higher video card\n\nMinimum System Requirements:\n\n    * Windows XP, Windows 2000, Windows XP 64-bit\n    * 512MB System RAM\n    * 2 Ghz Intel Pentium 4 or equivalent processor\n    * 128MB Direct3D compatible video card\n    * and DirectX 9.0 compatible driver;\n    * 8x DVD-ROM drive\n    * 4.6 GB free hard disk space\n    * DirectX 9.0c (included)\n    * DirectX 8.1 compatible sound card\n    * Keyboard, Mouse\n",
+  "parsed": {
+    "xt": "urn:btih:b4d4a8b68318ee57007bcffe74efdfd2f1d3c278",
+    "dn": "The Elder Scrolls IV Oblivion Game Of The Year Deluxe Edition",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b4d4a8b68318ee57007bcffe74efdfd2f1d3c278",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        180,
+        212,
+        168,
+        182,
+        131,
+        24,
+        238,
+        87,
+        0,
+        123,
+        207,
+        254,
+        116,
+        239,
+        223,
+        210,
+        241,
+        211,
+        194,
+        120
+      ]
+    },
+    "name": "The Elder Scrolls IV Oblivion Game Of The Year Deluxe Edition",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 153,
+  "peers": 148,
+  "last_updated": "2016-12-25T11:40:44.384Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Twenty one pilots - blurryface [2015] [256kbps]","uid":11915844,"size":101540079,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:b5a4bcc742522a7c631a49ddc7ec8ab3f5954f07&amp;dn=Twenty+one+pilots+-+blurryface+%5B2015%5D+%5B256kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":268,"leechers":5,"uploader":"healroar","files":14,"time":1431536777,"description":"Twenty one pilots - blurryface [2015] \n\nShare it!","torrent":{"xt":"urn:btih:b5a4bcc742522a7c631a49ddc7ec8ab3f5954f07","amp;dn":"Twenty+one+pilots+-+blurryface+%5B2015%5D+%5B256kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b5a4bcc742522a7c631a49ddc7ec8ab3f5954f07","infoHashBuffer":{"type":"Buffer","data":[181,164,188,199,66,82,42,124,99,26,73,221,199,236,138,179,245,149,79,7]},"announce":[],"urlList":[]}}
+{
+  "title": "Twenty one pilots - blurryface [2015] [256kbps]",
+  "uid": 11915844,
+  "size": 101540079,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:b5a4bcc742522a7c631a49ddc7ec8ab3f5954f07&amp;dn=Twenty+one+pilots+-+blurryface+%5B2015%5D+%5B256kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 268,
+  "leechers": 5,
+  "uploader": "healroar",
+  "files": 14,
+  "time": 1431536777,
+  "description": "Twenty one pilots - blurryface [2015] \n\nShare it!",
+  "parsed": {
+    "xt": "urn:btih:b5a4bcc742522a7c631a49ddc7ec8ab3f5954f07",
+    "dn": "Twenty one pilots - blurryface [2015] [256kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b5a4bcc742522a7c631a49ddc7ec8ab3f5954f07",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        181,
+        164,
+        188,
+        199,
+        66,
+        82,
+        42,
+        124,
+        99,
+        26,
+        73,
+        221,
+        199,
+        236,
+        138,
+        179,
+        245,
+        149,
+        79,
+        7
+      ]
+    },
+    "name": "Twenty one pilots - blurryface [2015] [256kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 273,
+  "peers": 50,
+  "last_updated": "2016-12-25T11:46:29.753Z"
+}

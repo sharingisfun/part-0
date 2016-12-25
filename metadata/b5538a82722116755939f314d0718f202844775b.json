@@ -1,1 +1,61 @@
-{"title":"Major Lazer - Guns Don't Kill People... Lazers Do! (Album)","uid":5242629,"size":82048504,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:b5538a82722116755939f314d0718f202844775b&amp;dn=Major+Lazer+-+Guns+Don%5C%27t+Kill+People...+Lazers+Do%21+%28Album%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":2,"uploader":"jordiadr","files":13,"time":1261841118,"description":"Major Lazer is the Grammy-nominated super producer duo of Switch and Diplo, best known for their work with M.I.A and the hit 'Paper Planes', as well as production work for the likes of Santogold, Amanda Blank, Bondo do Role and Tricky. Guns Don't Kill People, Lazers Do is a Reggae and Dancehall explosion just in time for summer, with guest vocals from friends Mapei, Santogold and Amanda Blank; as well as Dancehall mainstays like Nina Sky, Vybz Cartel, Ward 21 and Busy Signal, among many others. \n \n \nCheers, CookieNL","torrent":{"xt":"urn:btih:b5538a82722116755939f314d0718f202844775b","amp;dn":"Major+Lazer+-+Guns+Don%5C%27t+Kill+People...+Lazers+Do%21+%28Album%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b5538a82722116755939f314d0718f202844775b","infoHashBuffer":{"type":"Buffer","data":[181,83,138,130,114,33,22,117,89,57,243,20,208,113,143,32,40,68,119,91]},"announce":[],"urlList":[]}}
+{
+  "title": "Major Lazer - Guns Don't Kill People... Lazers Do! (Album)",
+  "uid": 5242629,
+  "size": 82048504,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:b5538a82722116755939f314d0718f202844775b&amp;dn=Major+Lazer+-+Guns+Don%5C%27t+Kill+People...+Lazers+Do%21+%28Album%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 2,
+  "uploader": "jordiadr",
+  "files": 13,
+  "time": 1261841118,
+  "description": "Major Lazer is the Grammy-nominated super producer duo of Switch and Diplo, best known for their work with M.I.A and the hit 'Paper Planes', as well as production work for the likes of Santogold, Amanda Blank, Bondo do Role and Tricky. Guns Don't Kill People, Lazers Do is a Reggae and Dancehall explosion just in time for summer, with guest vocals from friends Mapei, Santogold and Amanda Blank; as well as Dancehall mainstays like Nina Sky, Vybz Cartel, Ward 21 and Busy Signal, among many others. \n \n \nCheers, CookieNL",
+  "parsed": {
+    "xt": "urn:btih:b5538a82722116755939f314d0718f202844775b",
+    "dn": "Major Lazer - Guns Don\\'t Kill People... Lazers Do! (Album)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b5538a82722116755939f314d0718f202844775b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        181,
+        83,
+        138,
+        130,
+        114,
+        33,
+        22,
+        117,
+        89,
+        57,
+        243,
+        20,
+        208,
+        113,
+        143,
+        32,
+        40,
+        68,
+        119,
+        91
+      ]
+    },
+    "name": "Major Lazer - Guns Don\\'t Kill People... Lazers Do! (Album)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 17,
+  "last_updated": "2016-12-25T11:44:17.236Z"
+}

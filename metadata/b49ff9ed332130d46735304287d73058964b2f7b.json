@@ -1,1 +1,61 @@
-{"title":"Wayward.Pines.S01E01.HDTV.x264-2HD[ettv]","uid":11844857,"size":296227465,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b49ff9ed332130d46735304287d73058964b2f7b&amp;dn=Wayward.Pines.S01E01.HDTV.x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":2520,"leechers":126,"uploader":"ettv","files":3,"time":1429922963,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:b49ff9ed332130d46735304287d73058964b2f7b","amp;dn":"Wayward.Pines.S01E01.HDTV.x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b49ff9ed332130d46735304287d73058964b2f7b","infoHashBuffer":{"type":"Buffer","data":[180,159,249,237,51,33,48,212,103,53,48,66,135,215,48,88,150,75,47,123]},"announce":[],"urlList":[]}}
+{
+  "title": "Wayward.Pines.S01E01.HDTV.x264-2HD[ettv]",
+  "uid": 11844857,
+  "size": 296227465,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b49ff9ed332130d46735304287d73058964b2f7b&amp;dn=Wayward.Pines.S01E01.HDTV.x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 2520,
+  "leechers": 126,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1429922963,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:b49ff9ed332130d46735304287d73058964b2f7b",
+    "dn": "Wayward.Pines.S01E01.HDTV.x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b49ff9ed332130d46735304287d73058964b2f7b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        180,
+        159,
+        249,
+        237,
+        51,
+        33,
+        48,
+        212,
+        103,
+        53,
+        48,
+        66,
+        135,
+        215,
+        48,
+        88,
+        150,
+        75,
+        47,
+        123
+      ]
+    },
+    "name": "Wayward.Pines.S01E01.HDTV.x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 2646,
+  "peers": 122,
+  "last_updated": "2016-12-25T11:39:34.029Z"
+}

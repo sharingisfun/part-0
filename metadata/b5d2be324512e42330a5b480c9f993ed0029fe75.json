@@ -1,1 +1,61 @@
-{"title":"ArcGIS_Desktop_10.1","uid":7492174,"size":4617043968,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:b5d2be324512e42330a5b480c9f993ed0029fe75&amp;dn=ArcGIS_Desktop_10.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":3,"uploader":"med2003","files":1,"time":1343775378,"description":"ArcGIS_Desktop_10.1","torrent":{"xt":"urn:btih:b5d2be324512e42330a5b480c9f993ed0029fe75","amp;dn":"ArcGIS_Desktop_10.1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b5d2be324512e42330a5b480c9f993ed0029fe75","infoHashBuffer":{"type":"Buffer","data":[181,210,190,50,69,18,228,35,48,165,180,128,201,249,147,237,0,41,254,117]},"announce":[],"urlList":[]}}
+{
+  "title": "ArcGIS_Desktop_10.1",
+  "uid": 7492174,
+  "size": 4617043968,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:b5d2be324512e42330a5b480c9f993ed0029fe75&amp;dn=ArcGIS_Desktop_10.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 3,
+  "uploader": "med2003",
+  "files": 1,
+  "time": 1343775378,
+  "description": "ArcGIS_Desktop_10.1",
+  "parsed": {
+    "xt": "urn:btih:b5d2be324512e42330a5b480c9f993ed0029fe75",
+    "dn": "ArcGIS_Desktop_10.1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b5d2be324512e42330a5b480c9f993ed0029fe75",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        181,
+        210,
+        190,
+        50,
+        69,
+        18,
+        228,
+        35,
+        48,
+        165,
+        180,
+        128,
+        201,
+        249,
+        147,
+        237,
+        0,
+        41,
+        254,
+        117
+      ]
+    },
+    "name": "ArcGIS_Desktop_10.1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 45,
+  "last_updated": "2016-12-25T11:47:48.031Z"
+}

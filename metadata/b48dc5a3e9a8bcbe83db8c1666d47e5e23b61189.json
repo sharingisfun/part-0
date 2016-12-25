@@ -1,1 +1,63 @@
-{"title":"FIFA 14","uid":13240922,"size":5176392484,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:b48dc5a3e9a8bcbe83db8c1666d47e5e23b61189&amp;dn=FIFA+14&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":185,"leechers":25,"uploader":"JoelGT","files":1,"time":1453054205,"description":"Tutorial at","torrent":{"xt":"urn:btih:b48dc5a3e9a8bcbe83db8c1666d47e5e23b61189","amp;dn":"FIFA+14","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b48dc5a3e9a8bcbe83db8c1666d47e5e23b61189","infoHashBuffer":{"type":"Buffer","data":[180,141,197,163,233,168,188,190,131,219,140,22,102,212,126,94,35,182,17,137]},"announce":[],"urlList":[]}}
+{
+  "title": "FIFA 14",
+  "uid": 13240922,
+  "size": 5176392484,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:b48dc5a3e9a8bcbe83db8c1666d47e5e23b61189&amp;dn=FIFA+14&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 185,
+  "leechers": 25,
+  "uploader": "JoelGT",
+  "files": 1,
+  "time": 1453054205,
+  "description": "Tutorial at",
+  "parsed": {
+    "xt": "urn:btih:b48dc5a3e9a8bcbe83db8c1666d47e5e23b61189",
+    "dn": "FIFA 14",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "b48dc5a3e9a8bcbe83db8c1666d47e5e23b61189",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        180,
+        141,
+        197,
+        163,
+        233,
+        168,
+        188,
+        190,
+        131,
+        219,
+        140,
+        22,
+        102,
+        212,
+        126,
+        94,
+        35,
+        182,
+        17,
+        137
+      ]
+    },
+    "name": "FIFA 14",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 210,
+  "peers": 384,
+  "last_updated": "2016-12-25T11:39:03.922Z"
+}

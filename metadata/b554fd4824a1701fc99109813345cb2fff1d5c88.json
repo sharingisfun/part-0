@@ -1,1 +1,63 @@
-{"title":"Future - EVOL {2016-Album}","uid":13447400,"size":97020788,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:b554fd4824a1701fc99109813345cb2fff1d5c88&amp;dn=Future+-+EVOL+%7B2016-Album%7D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":236,"leechers":6,"uploader":"Oz","files":11,"time":1454761564,"description":"Artist: Future\r\nAlbum: EVOL\r\nReleased: Feb 06, 2016\r\nSource: https://itunes.apple.com/us/album/evol/id1081197363\r\nGenres: Hip-Hop/Rap\r\nBite Rate: 320Kbps CBR\r\n\r\n\r\nT R A C K L I S T\r\n*****************\r\n\r\n1 Ain't No Time\r\n2 In Her Mouth\r\n3 Maybach\r\n4 Xanny Family\r\n5 Lil Haiti Baby\r\n6 Photo Copied\r\n7 Seven Rings\r\n8 Lie to Me\r\n9 Program\r\n10 Low Life (feat. The Weeknd)\r\n11 Fly S**t Only\r\n\r\n*****************\r\n\r\n\r\n***Don't Forget To Like My Page***\r\n\r\n   www . fb . com / HQMusiCOnlY","torrent":{"xt":"urn:btih:b554fd4824a1701fc99109813345cb2fff1d5c88","amp;dn":"Future+-+EVOL+%7B2016-Album%7D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b554fd4824a1701fc99109813345cb2fff1d5c88","infoHashBuffer":{"type":"Buffer","data":[181,84,253,72,36,161,112,31,201,145,9,129,51,69,203,47,255,29,92,136]},"announce":[],"urlList":[]}}
+{
+  "title": "Future - EVOL {2016-Album}",
+  "uid": 13447400,
+  "size": 97020788,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:b554fd4824a1701fc99109813345cb2fff1d5c88&amp;dn=Future+-+EVOL+%7B2016-Album%7D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 236,
+  "leechers": 6,
+  "uploader": "Oz",
+  "files": 11,
+  "time": 1454761564,
+  "description": "Artist: Future\r\nAlbum: EVOL\r\nReleased: Feb 06, 2016\r\nSource: https://itunes.apple.com/us/album/evol/id1081197363\r\nGenres: Hip-Hop/Rap\r\nBite Rate: 320Kbps CBR\r\n\r\n\r\nT R A C K L I S T\r\n*****************\r\n\r\n1 Ain't No Time\r\n2 In Her Mouth\r\n3 Maybach\r\n4 Xanny Family\r\n5 Lil Haiti Baby\r\n6 Photo Copied\r\n7 Seven Rings\r\n8 Lie to Me\r\n9 Program\r\n10 Low Life (feat. The Weeknd)\r\n11 Fly S**t Only\r\n\r\n*****************\r\n\r\n\r\n***Don't Forget To Like My Page***\r\n\r\n   www . fb . com / HQMusiCOnlY",
+  "parsed": {
+    "xt": "urn:btih:b554fd4824a1701fc99109813345cb2fff1d5c88",
+    "dn": "Future - EVOL {2016-Album}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "b554fd4824a1701fc99109813345cb2fff1d5c88",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        181,
+        84,
+        253,
+        72,
+        36,
+        161,
+        112,
+        31,
+        201,
+        145,
+        9,
+        129,
+        51,
+        69,
+        203,
+        47,
+        255,
+        29,
+        92,
+        136
+      ]
+    },
+    "name": "Future - EVOL {2016-Album}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 242,
+  "peers": 253,
+  "last_updated": "2016-12-25T11:44:21.251Z"
+}

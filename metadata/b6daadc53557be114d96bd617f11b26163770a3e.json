@@ -1,1 +1,61 @@
-{"title":"Vikings S01E07 HDTV x264-2HD[ettv]","uid":8374267,"size":380707654,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b6daadc53557be114d96bd617f11b26163770a3e&amp;dn=Vikings+S01E07+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":96,"leechers":9,"uploader":"ettv","files":2,"time":1366002597,"description":"x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;","torrent":{"xt":"urn:btih:b6daadc53557be114d96bd617f11b26163770a3e","amp;dn":"Vikings+S01E07+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b6daadc53557be114d96bd617f11b26163770a3e","infoHashBuffer":{"type":"Buffer","data":[182,218,173,197,53,87,190,17,77,150,189,97,127,17,178,97,99,119,10,62]},"announce":[],"urlList":[]}}
+{
+  "title": "Vikings S01E07 HDTV x264-2HD[ettv]",
+  "uid": 8374267,
+  "size": 380707654,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b6daadc53557be114d96bd617f11b26163770a3e&amp;dn=Vikings+S01E07+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 96,
+  "leechers": 9,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1366002597,
+  "description": "x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:b6daadc53557be114d96bd617f11b26163770a3e",
+    "dn": "Vikings S01E07 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b6daadc53557be114d96bd617f11b26163770a3e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        182,
+        218,
+        173,
+        197,
+        53,
+        87,
+        190,
+        17,
+        77,
+        150,
+        189,
+        97,
+        127,
+        17,
+        178,
+        97,
+        99,
+        119,
+        10,
+        62
+      ]
+    },
+    "name": "Vikings S01E07 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 105,
+  "peers": 49,
+  "last_updated": "2016-12-25T11:54:11.214Z"
+}

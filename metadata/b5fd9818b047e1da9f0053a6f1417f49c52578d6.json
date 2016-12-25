@@ -1,1 +1,61 @@
-{"title":"Cisco Packet Tracer 6.0.1","uid":8892653,"size":152545746,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:b5fd9818b047e1da9f0053a6f1417f49c52578d6&amp;dn=Cisco+Packet+Tracer+6.0.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":1,"uploader":"Zviking","files":1,"time":1378623064,"description":"Includes Tutorials","torrent":{"xt":"urn:btih:b5fd9818b047e1da9f0053a6f1417f49c52578d6","amp;dn":"Cisco+Packet+Tracer+6.0.1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b5fd9818b047e1da9f0053a6f1417f49c52578d6","infoHashBuffer":{"type":"Buffer","data":[181,253,152,24,176,71,225,218,159,0,83,166,241,65,127,73,197,37,120,214]},"announce":[],"urlList":[]}}
+{
+  "title": "Cisco Packet Tracer 6.0.1",
+  "uid": 8892653,
+  "size": 152545746,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:b5fd9818b047e1da9f0053a6f1417f49c52578d6&amp;dn=Cisco+Packet+Tracer+6.0.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 1,
+  "uploader": "Zviking",
+  "files": 1,
+  "time": 1378623064,
+  "description": "Includes Tutorials",
+  "parsed": {
+    "xt": "urn:btih:b5fd9818b047e1da9f0053a6f1417f49c52578d6",
+    "dn": "Cisco Packet Tracer 6.0.1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b5fd9818b047e1da9f0053a6f1417f49c52578d6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        181,
+        253,
+        152,
+        24,
+        176,
+        71,
+        225,
+        218,
+        159,
+        0,
+        83,
+        166,
+        241,
+        65,
+        127,
+        73,
+        197,
+        37,
+        120,
+        214
+      ]
+    },
+    "name": "Cisco Packet Tracer 6.0.1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 75,
+  "peers": 68,
+  "last_updated": "2016-12-25T11:48:50.271Z"
+}

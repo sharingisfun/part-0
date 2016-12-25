@@ -1,1 +1,61 @@
-{"title":"Shameless.US.S01E05.Three.Boys.HDTV.XviD-FQM.[VTV].avi","uid":6156502,"size":367237464,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b6baf1173249bf0cd4ca6e8197f3a63320d592ef&amp;dn=Shameless.US.S01E05.Three.Boys.HDTV.XviD-FQM.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":9,"uploader":"VTV","files":1,"time":1297056377,"description":"Shameless 1x05 (HDTV-FQM)[VTV]","torrent":{"xt":"urn:btih:b6baf1173249bf0cd4ca6e8197f3a63320d592ef","amp;dn":"Shameless.US.S01E05.Three.Boys.HDTV.XviD-FQM.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b6baf1173249bf0cd4ca6e8197f3a63320d592ef","infoHashBuffer":{"type":"Buffer","data":[182,186,241,23,50,73,191,12,212,202,110,129,151,243,166,51,32,213,146,239]},"announce":[],"urlList":[]}}
+{
+  "title": "Shameless.US.S01E05.Three.Boys.HDTV.XviD-FQM.[VTV].avi",
+  "uid": 6156502,
+  "size": 367237464,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b6baf1173249bf0cd4ca6e8197f3a63320d592ef&amp;dn=Shameless.US.S01E05.Three.Boys.HDTV.XviD-FQM.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 9,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1297056377,
+  "description": "Shameless 1x05 (HDTV-FQM)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:b6baf1173249bf0cd4ca6e8197f3a63320d592ef",
+    "dn": "Shameless.US.S01E05.Three.Boys.HDTV.XviD-FQM.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b6baf1173249bf0cd4ca6e8197f3a63320d592ef",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        182,
+        186,
+        241,
+        23,
+        50,
+        73,
+        191,
+        12,
+        212,
+        202,
+        110,
+        129,
+        151,
+        243,
+        166,
+        51,
+        32,
+        213,
+        146,
+        239
+      ]
+    },
+    "name": "Shameless.US.S01E05.Three.Boys.HDTV.XviD-FQM.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 31,
+  "last_updated": "2016-12-25T11:53:21.075Z"
+}

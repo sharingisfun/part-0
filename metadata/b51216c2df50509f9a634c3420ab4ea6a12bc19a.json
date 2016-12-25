@@ -1,1 +1,61 @@
-{"title":"Adobe Photoshop Lightroom 5.2 Final (32 bit) [ChingLiu]","uid":8932174,"size":415012119,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:b51216c2df50509f9a634c3420ab4ea6a12bc19a&amp;dn=Adobe+Photoshop+Lightroom+5.2+Final+%2832+bit%29+%5BChingLiu%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":1,"uploader":"Ching_Liu","files":-1,"time":1379484823,"description":"New Features in Lightroom 5.2:\n\n* A Smoothness adjustment slider has been added to the Detail Panel under Color Noise Reduction. This helps to reduce low-frequency color mottling artifacts\n* Refinements to the Spot Healing Tool:\n..- New Feather control\n..- Auto find source method now works better for images with textured areas like rocks, bark, and foliage\n..- Auto find source method now prefers source areas within the crop rectangle\n* Auto Exposure has been improved to be more consistent across images and across different image sizes.\n* Smart Preview size has been updated to 2560 pixels on the long edge.\n* Refinements to the Local Adjustment Brush:\n..- Right Click (PC) / Control-click (Mac) on a brush adjustment pin to bring up a context menu to duplicate or delete\n..- Control+Alt+Drag (PC) / Command+Option+Drag (Mac) on a brush adjustment pin to clone (duplicate) that adjustment\n\nNewly added support for Tethered Capture in Lightroom 5.2\n- Canon EOS 6D\n- Canon EOS Rebel T5i / EOS 700D / EOS Kiss X7i\n- Canon EOS Rebel SL1 / EOS 100D / EOS Kiss X7\n- Nikon D7100\n\nNew Camera Support in Lightroom 5.2\n- Canon EOS 70D\n- Canon PowerShot G16\n- Canon PowerShot S120*\n- Casio Exilim EX-ZR800\n- Fujifilm FinePix HS22EXR\n- Fujifilm FinePix HS35EXR\n- Fujifilm FinePix S205EXR\n- Fujifilm X-A1\n- Fujifilm X-M1\n- Leica C (Typ 112)\n- Olympus OM-D E-M1*\n- Panasonic Lumix DMC-GX7\n- Panasonic Lumix DMC-FZ70\n- Panasonic Lumix DMC-FZ72\n- Pentax Q7\n- Pentax K-50\n- Pentax K-500\n- Sony DSC-RX100 II\n- Sony A3000 (ILCE-3000)\n- Sony NEX-5T\n\n* denotes preliminary supply\n\nBugs Corrected in Lightroom 5.2\n- Output Sharpening and Noise Reduction were not applied to exported images that were resized to less than 1/3 of the original image size.\n- Slideshow Exporting process fails for time-lapse sequences.\n- Unable to export a Book. This only occurred after a customer deleted a background photo.\n- Catalog containing images processed with PV2003 were adding a post-crop vignette when catalog upgraded to Lightroom 5.\n- JPEG decoding produced a red colorcast.\n- Unable to scroll through photos when in Full screen mode. This only occurs when more than 1 photo is selected.\n- Ã¢â‚¬Å“Store presets with this catalogÃ¢â‚¬ï¿½ preference is not preserved when upgrading catalog from previous versions of Lightroom.\n- Crash when scrubbing Size slider with existing spot selected.\n- Landscape crop not maintained on portrait oriented photos\n- Pressing the Reset button while holding the Shift key results in an internal error.\n- Crash when attempting to move brush spots.\n- Gray area is shown when zooming in/out after cropping image.\n- A row of vertical artifacts appears along bottom edge of photo when applying Grain.\n- Defringe Color Sampler is inaccurate on photos that have Upright applied.\n- All of the images on a Compact Flash card did not appear in the Import Dialogue.\n- Metadata panel displayed incorrect information after modifying published photo. Please note that this only occurred when metadata was changed after the photo was published.\n- Soundtrack does not fade at the end of a slideshow.\n- The Esc key did not exit the slideshow after right clicking screen with mouse during slideshow playing.\n- Import dialog remained blank for folders that contain PNG files with XMP sidecars.\n\nSystem requirements\n\n* IntelÃ‚Â® PentiumÃ‚Â® 4 or AMD AthlonÃ‚Â® 64 processor*\n* DirectX 10Ã¢â‚¬â€œcapable or later graphics card\n* MicrosoftÃ‚Â® WindowsÃ‚Â® 7 with Service Pack 1 or Windows 8\n* 2GB of RAM (4GB recommended)\n* 2GB of available hard-disk space\n* 1024x768 display\n* DVD-ROM drive required if purchasing AdobeÃ‚Â® PhotoshopÃ‚Â® LightroomÃ‚Â® retail boxed version\n* Internet connection required for Internet-based servicesÃ¢â‚¬Â \n\nLanguages : English, Deutsch, EspaÃƒÂ±ol, FranÃƒÂ§ais, Italiano, Nederlands, PortuguÃƒÂªs (Brasil), Svenska, Ã¦â€”Â¥Ã¦Å“Â¬Ã¨ÂªÅ¾, Ã§Â®â‚¬Ã¤Â½â€œÃ¤Â¸Â­Ã¦â€“â€¡, Ã§Â¹ï¿½Ã©Â«â€Ã¤Â¸Â­Ã¦â€“â€¡, Ã­â€¢Å“ÃªÂµÂ­Ã¬â€“Â´\n\nHomepage :  &lt;a href=&quot;\nhttps://www.adobe.com/products/photoshop-lightroom/features.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://www.adobe.com/products/photoshop-lightroom/features.html&lt;/a&gt;","torrent":{"xt":"urn:btih:b51216c2df50509f9a634c3420ab4ea6a12bc19a","amp;dn":"Adobe+Photoshop+Lightroom+5.2+Final+%2832+bit%29+%5BChingLiu%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b51216c2df50509f9a634c3420ab4ea6a12bc19a","infoHashBuffer":{"type":"Buffer","data":[181,18,22,194,223,80,80,159,154,99,76,52,32,171,78,166,161,43,193,154]},"announce":[],"urlList":[]}}
+{
+  "title": "Adobe Photoshop Lightroom 5.2 Final (32 bit) [ChingLiu]",
+  "uid": 8932174,
+  "size": 415012119,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:b51216c2df50509f9a634c3420ab4ea6a12bc19a&amp;dn=Adobe+Photoshop+Lightroom+5.2+Final+%2832+bit%29+%5BChingLiu%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 1,
+  "uploader": "Ching_Liu",
+  "files": -1,
+  "time": 1379484823,
+  "description": "New Features in Lightroom 5.2:\n\n* A Smoothness adjustment slider has been added to the Detail Panel under Color Noise Reduction. This helps to reduce low-frequency color mottling artifacts\n* Refinements to the Spot Healing Tool:\n..- New Feather control\n..- Auto find source method now works better for images with textured areas like rocks, bark, and foliage\n..- Auto find source method now prefers source areas within the crop rectangle\n* Auto Exposure has been improved to be more consistent across images and across different image sizes.\n* Smart Preview size has been updated to 2560 pixels on the long edge.\n* Refinements to the Local Adjustment Brush:\n..- Right Click (PC) / Control-click (Mac) on a brush adjustment pin to bring up a context menu to duplicate or delete\n..- Control+Alt+Drag (PC) / Command+Option+Drag (Mac) on a brush adjustment pin to clone (duplicate) that adjustment\n\nNewly added support for Tethered Capture in Lightroom 5.2\n- Canon EOS 6D\n- Canon EOS Rebel T5i / EOS 700D / EOS Kiss X7i\n- Canon EOS Rebel SL1 / EOS 100D / EOS Kiss X7\n- Nikon D7100\n\nNew Camera Support in Lightroom 5.2\n- Canon EOS 70D\n- Canon PowerShot G16\n- Canon PowerShot S120*\n- Casio Exilim EX-ZR800\n- Fujifilm FinePix HS22EXR\n- Fujifilm FinePix HS35EXR\n- Fujifilm FinePix S205EXR\n- Fujifilm X-A1\n- Fujifilm X-M1\n- Leica C (Typ 112)\n- Olympus OM-D E-M1*\n- Panasonic Lumix DMC-GX7\n- Panasonic Lumix DMC-FZ70\n- Panasonic Lumix DMC-FZ72\n- Pentax Q7\n- Pentax K-50\n- Pentax K-500\n- Sony DSC-RX100 II\n- Sony A3000 (ILCE-3000)\n- Sony NEX-5T\n\n* denotes preliminary supply\n\nBugs Corrected in Lightroom 5.2\n- Output Sharpening and Noise Reduction were not applied to exported images that were resized to less than 1/3 of the original image size.\n- Slideshow Exporting process fails for time-lapse sequences.\n- Unable to export a Book. This only occurred after a customer deleted a background photo.\n- Catalog containing images processed with PV2003 were adding a post-crop vignette when catalog upgraded to Lightroom 5.\n- JPEG decoding produced a red colorcast.\n- Unable to scroll through photos when in Full screen mode. This only occurs when more than 1 photo is selected.\n- Ã¢â‚¬Å“Store presets with this catalogÃ¢â‚¬ï¿½ preference is not preserved when upgrading catalog from previous versions of Lightroom.\n- Crash when scrubbing Size slider with existing spot selected.\n- Landscape crop not maintained on portrait oriented photos\n- Pressing the Reset button while holding the Shift key results in an internal error.\n- Crash when attempting to move brush spots.\n- Gray area is shown when zooming in/out after cropping image.\n- A row of vertical artifacts appears along bottom edge of photo when applying Grain.\n- Defringe Color Sampler is inaccurate on photos that have Upright applied.\n- All of the images on a Compact Flash card did not appear in the Import Dialogue.\n- Metadata panel displayed incorrect information after modifying published photo. Please note that this only occurred when metadata was changed after the photo was published.\n- Soundtrack does not fade at the end of a slideshow.\n- The Esc key did not exit the slideshow after right clicking screen with mouse during slideshow playing.\n- Import dialog remained blank for folders that contain PNG files with XMP sidecars.\n\nSystem requirements\n\n* IntelÃ‚Â® PentiumÃ‚Â® 4 or AMD AthlonÃ‚Â® 64 processor*\n* DirectX 10Ã¢â‚¬â€œcapable or later graphics card\n* MicrosoftÃ‚Â® WindowsÃ‚Â® 7 with Service Pack 1 or Windows 8\n* 2GB of RAM (4GB recommended)\n* 2GB of available hard-disk space\n* 1024x768 display\n* DVD-ROM drive required if purchasing AdobeÃ‚Â® PhotoshopÃ‚Â® LightroomÃ‚Â® retail boxed version\n* Internet connection required for Internet-based servicesÃ¢â‚¬Â \n\nLanguages : English, Deutsch, EspaÃƒÂ±ol, FranÃƒÂ§ais, Italiano, Nederlands, PortuguÃƒÂªs (Brasil), Svenska, Ã¦â€”Â¥Ã¦Å“Â¬Ã¨ÂªÅ¾, Ã§Â®â‚¬Ã¤Â½â€œÃ¤Â¸Â­Ã¦â€“â€¡, Ã§Â¹ï¿½Ã©Â«â€Ã¤Â¸Â­Ã¦â€“â€¡, Ã­â€¢Å“ÃªÂµÂ­Ã¬â€“Â´\n\nHomepage :  &lt;a href=&quot;\nhttps://www.adobe.com/products/photoshop-lightroom/features.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://www.adobe.com/products/photoshop-lightroom/features.html&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:b51216c2df50509f9a634c3420ab4ea6a12bc19a",
+    "dn": "Adobe Photoshop Lightroom 5.2 Final (32 bit) [ChingLiu]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b51216c2df50509f9a634c3420ab4ea6a12bc19a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        181,
+        18,
+        22,
+        194,
+        223,
+        80,
+        80,
+        159,
+        154,
+        99,
+        76,
+        52,
+        32,
+        171,
+        78,
+        166,
+        161,
+        43,
+        193,
+        154
+      ]
+    },
+    "name": "Adobe Photoshop Lightroom 5.2 Final (32 bit) [ChingLiu]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 77,
+  "peers": 13,
+  "last_updated": "2016-12-25T11:42:32.822Z"
+}

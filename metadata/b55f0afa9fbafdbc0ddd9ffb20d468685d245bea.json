@@ -1,1 +1,61 @@
-{"title":"Primavera P6 R8.2 - 32 bit","uid":9683042,"size":488231613,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:b55f0afa9fbafdbc0ddd9ffb20d468685d245bea&amp;dn=Primavera+P6+R8.2+-+32+bit&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":2,"uploader":"IndianMonk","files":3,"time":1393700818,"description":"Primavera P6 8.2 32Bit \n\nTo activate database using MS SQL server please refer the tutorial inside.\n\nAny doubts? ask me in comments.\n\nThanks.","torrent":{"xt":"urn:btih:b55f0afa9fbafdbc0ddd9ffb20d468685d245bea","amp;dn":"Primavera+P6+R8.2+-+32+bit","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b55f0afa9fbafdbc0ddd9ffb20d468685d245bea","infoHashBuffer":{"type":"Buffer","data":[181,95,10,250,159,186,253,188,13,221,159,251,32,212,104,104,93,36,91,234]},"announce":[],"urlList":[]}}
+{
+  "title": "Primavera P6 R8.2 - 32 bit",
+  "uid": 9683042,
+  "size": 488231613,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:b55f0afa9fbafdbc0ddd9ffb20d468685d245bea&amp;dn=Primavera+P6+R8.2+-+32+bit&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 2,
+  "uploader": "IndianMonk",
+  "files": 3,
+  "time": 1393700818,
+  "description": "Primavera P6 8.2 32Bit \n\nTo activate database using MS SQL server please refer the tutorial inside.\n\nAny doubts? ask me in comments.\n\nThanks.",
+  "parsed": {
+    "xt": "urn:btih:b55f0afa9fbafdbc0ddd9ffb20d468685d245bea",
+    "dn": "Primavera P6 R8.2 - 32 bit",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b55f0afa9fbafdbc0ddd9ffb20d468685d245bea",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        181,
+        95,
+        10,
+        250,
+        159,
+        186,
+        253,
+        188,
+        13,
+        221,
+        159,
+        251,
+        32,
+        212,
+        104,
+        104,
+        93,
+        36,
+        91,
+        234
+      ]
+    },
+    "name": "Primavera P6 R8.2 - 32 bit",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 78,
+  "peers": 27,
+  "last_updated": "2016-12-25T11:44:45.349Z"
+}

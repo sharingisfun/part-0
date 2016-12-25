@@ -1,1 +1,61 @@
-{"title":"Constantine S01E01 HDTV x264-LOL [eztv]","uid":11280104,"size":276002304,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b630210f9c60f890ade3fbf4d1c4ad8bb67f24a6&amp;dn=Constantine+S01E01+HDTV+x264-LOL+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":345,"leechers":12,"uploader":"eztv","files":1,"time":1414203674,"description":"Help us by donating with Bitcoin: 1EZTVaGQ6UsjYJ9fwqGnd45oZ6HGT7WKZd\n\n#EZTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by eztv. &lt;a href=&quot;\nhttps://eztv.it/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://eztv.it/&lt;/a&gt;\n\nEpisode: Constantine S01E01 HDTV x264-LOL\nScreenshots:\n\n\n","torrent":{"xt":"urn:btih:b630210f9c60f890ade3fbf4d1c4ad8bb67f24a6","amp;dn":"Constantine+S01E01+HDTV+x264-LOL+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b630210f9c60f890ade3fbf4d1c4ad8bb67f24a6","infoHashBuffer":{"type":"Buffer","data":[182,48,33,15,156,96,248,144,173,227,251,244,209,196,173,139,182,127,36,166]},"announce":[],"urlList":[]}}
+{
+  "title": "Constantine S01E01 HDTV x264-LOL [eztv]",
+  "uid": 11280104,
+  "size": 276002304,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b630210f9c60f890ade3fbf4d1c4ad8bb67f24a6&amp;dn=Constantine+S01E01+HDTV+x264-LOL+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 345,
+  "leechers": 12,
+  "uploader": "eztv",
+  "files": 1,
+  "time": 1414203674,
+  "description": "Help us by donating with Bitcoin: 1EZTVaGQ6UsjYJ9fwqGnd45oZ6HGT7WKZd\n\n#EZTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by eztv. &lt;a href=&quot;\nhttps://eztv.it/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://eztv.it/&lt;/a&gt;\n\nEpisode: Constantine S01E01 HDTV x264-LOL\nScreenshots:\n\n\n",
+  "parsed": {
+    "xt": "urn:btih:b630210f9c60f890ade3fbf4d1c4ad8bb67f24a6",
+    "dn": "Constantine S01E01 HDTV x264-LOL [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b630210f9c60f890ade3fbf4d1c4ad8bb67f24a6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        182,
+        48,
+        33,
+        15,
+        156,
+        96,
+        248,
+        144,
+        173,
+        227,
+        251,
+        244,
+        209,
+        196,
+        173,
+        139,
+        182,
+        127,
+        36,
+        166
+      ]
+    },
+    "name": "Constantine S01E01 HDTV x264-LOL [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 357,
+  "peers": 32,
+  "last_updated": "2016-12-25T11:49:50.469Z"
+}
