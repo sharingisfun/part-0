@@ -1,1 +1,61 @@
-{"title":"Final Fantasy Tactics The War Of The Lions [English][PSP]","uid":3827445,"size":201043150,"categoryP":"games","categoryS":"handheld","magnet":"?xt=urn:btih:68587042eb383bdb59a44608186e1a982fc15e3c&amp;dn=Final+Fantasy+Tactics+The+War+Of+The+Lions+%5BEnglish%5D%5BPSP%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":2,"uploader":"changoboy","files":15,"time":1191353395,"description":"Square-Enixs Final Fantasy Tactics: The Lion War is an enhanced port of the classic PlayStation game. Extras include cartoon-like movies depicting the story and new job classes, all of it displayed in glorious.","torrent":{"xt":"urn:btih:68587042eb383bdb59a44608186e1a982fc15e3c","amp;dn":"Final+Fantasy+Tactics+The+War+Of+The+Lions+%5BEnglish%5D%5BPSP%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"68587042eb383bdb59a44608186e1a982fc15e3c","infoHashBuffer":{"type":"Buffer","data":[104,88,112,66,235,56,59,219,89,164,70,8,24,110,26,152,47,193,94,60]},"announce":[],"urlList":[]}}
+{
+  "title": "Final Fantasy Tactics The War Of The Lions [English][PSP]",
+  "uid": 3827445,
+  "size": 201043150,
+  "categoryP": "games",
+  "categoryS": "handheld",
+  "magnet": "?xt=urn:btih:68587042eb383bdb59a44608186e1a982fc15e3c&amp;dn=Final+Fantasy+Tactics+The+War+Of+The+Lions+%5BEnglish%5D%5BPSP%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 2,
+  "uploader": "changoboy",
+  "files": 15,
+  "time": 1191353395,
+  "description": "Square-Enixs Final Fantasy Tactics: The Lion War is an enhanced port of the classic PlayStation game. Extras include cartoon-like movies depicting the story and new job classes, all of it displayed in glorious.",
+  "parsed": {
+    "xt": "urn:btih:68587042eb383bdb59a44608186e1a982fc15e3c",
+    "dn": "Final Fantasy Tactics The War Of The Lions [English][PSP]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "68587042eb383bdb59a44608186e1a982fc15e3c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        104,
+        88,
+        112,
+        66,
+        235,
+        56,
+        59,
+        219,
+        89,
+        164,
+        70,
+        8,
+        24,
+        110,
+        26,
+        152,
+        47,
+        193,
+        94,
+        60
+      ]
+    },
+    "name": "Final Fantasy Tactics The War Of The Lions [English][PSP]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 11,
+  "last_updated": "2016-12-25T03:30:08.182Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Miroslav Philharmonik [VST RTAS DX]","uid":4537502,"size":3946016061,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:669f9d289661c1b49e724bf39e3d65c07a54454d&amp;dn=Miroslav+Philharmonik+%5BVST+RTAS+DX%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":7,"uploader":"pallipoiss","files":5,"time":1227800122,"description":"Miroslav Philharmonik [VST RTAS DX]\n\nFor Windows:\n\nInstaller\nPhilharmonik 1.1b Sounds Updater\nKeygen\n\n\nFor Windows and OSX:\n\nMiroslav Philarmonik Sound DVD 1.iso\nMiroslav Philarmonik Sound DVD 2.iso\n\nMore info: http://www.ikmultimedia.com/philharmonik/features/","torrent":{"xt":"urn:btih:669f9d289661c1b49e724bf39e3d65c07a54454d","amp;dn":"Miroslav+Philharmonik+%5BVST+RTAS+DX%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"669f9d289661c1b49e724bf39e3d65c07a54454d","infoHashBuffer":{"type":"Buffer","data":[102,159,157,40,150,97,193,180,158,114,75,243,158,61,101,192,122,84,69,77]},"announce":[],"urlList":[]}}
+{
+  "title": "Miroslav Philharmonik [VST RTAS DX]",
+  "uid": 4537502,
+  "size": 3946016061,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:669f9d289661c1b49e724bf39e3d65c07a54454d&amp;dn=Miroslav+Philharmonik+%5BVST+RTAS+DX%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 7,
+  "uploader": "pallipoiss",
+  "files": 5,
+  "time": 1227800122,
+  "description": "Miroslav Philharmonik [VST RTAS DX]\n\nFor Windows:\n\nInstaller\nPhilharmonik 1.1b Sounds Updater\nKeygen\n\n\nFor Windows and OSX:\n\nMiroslav Philarmonik Sound DVD 1.iso\nMiroslav Philarmonik Sound DVD 2.iso\n\nMore info: http://www.ikmultimedia.com/philharmonik/features/",
+  "parsed": {
+    "xt": "urn:btih:669f9d289661c1b49e724bf39e3d65c07a54454d",
+    "dn": "Miroslav Philharmonik [VST RTAS DX]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "669f9d289661c1b49e724bf39e3d65c07a54454d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        102,
+        159,
+        157,
+        40,
+        150,
+        97,
+        193,
+        180,
+        158,
+        114,
+        75,
+        243,
+        158,
+        61,
+        101,
+        192,
+        122,
+        84,
+        69,
+        77
+      ]
+    },
+    "name": "Miroslav Philharmonik [VST RTAS DX]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 35,
+  "last_updated": "2016-12-25T03:19:36.276Z"
+}

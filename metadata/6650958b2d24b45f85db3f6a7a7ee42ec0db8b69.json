@@ -1,1 +1,61 @@
-{"title":"OS X 10.8 Mountain Lion bootable DVD for Intel PCs","uid":7471983,"size":5020352512,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:6650958b2d24b45f85db3f6a7a7ee42ec0db8b69&amp;dn=OS+X+10.8+Mountain+Lion+bootable+DVD+for+Intel+PCs&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":3,"uploader":"Olarila","files":1,"time":1343177608,"description":"Image size: 5.020.352.512 bytes (dual layer DVD needed)\n\nMD5 (OS X 10.8 Install DVD.iso) = 161b4ff7674a6a1d8f8967708fec686e\n\nContents:\n\nOS X Mountain Lion GM Seed (Build 12A269)\n\nMD5 (InstallESD.dmg) = 8b4869920cd740414fe6b7e3f0b1be3e\n\nModified files:\nSystem/Installation/Packages/OSInstall.mpkg\nSystem/Library/PrivateFrameworks/Install.framework/Frameworks/OSInstall.framework/Versions/A/OSInstall\n\nAdded files:\nSystem/Library/Caches/com.apple.kext.caches/Startup/Extensions.mkext\nusr/standalone/i386/cdboot (Chameleon v2.1svn r2013)\nExtra/Preboot.dmg\n\nPreboot.dmg contents:\nExtensions.mkext\norg.chameleon.Boot.plist\n\nExtensions.mkext contents:\nAHCIPortInjector.kext\nAppleACPIPS2Nub.kext\nFakeSMC.kext\nIOAHCIBlockStorageInjector.kext\nNullCPUPowerManagement.kext\nPXHCD.kext\nVoodooPS2Controller.kext\nVoodooPS2Keyboard.kext\nVoodooPS2Mouse.kext\nVoodooPS2Trackpad.kext\n\n\nIf you get KP related to ApplePolicyControl.kext or problem related to graphics card, use HackBoot &lt;a href=&quot;\nhttp://olarila.com/forum/viewtopic.php?f=26&amp;t=1616&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://olarila.com/forum/viewtopic.php?f=26&amp;t=1616&lt;/a&gt;\n\n\nMore info &lt;a href=&quot;\nhttp://olarila.com/forum/viewtopic.php?f=27&amp;t=1644&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://olarila.com/forum/viewtopic.php?f=27&amp;t=1644&lt;/a&gt;\n","torrent":{"xt":"urn:btih:6650958b2d24b45f85db3f6a7a7ee42ec0db8b69","amp;dn":"OS+X+10.8+Mountain+Lion+bootable+DVD+for+Intel+PCs","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6650958b2d24b45f85db3f6a7a7ee42ec0db8b69","infoHashBuffer":{"type":"Buffer","data":[102,80,149,139,45,36,180,95,133,219,63,106,122,126,228,46,192,219,139,105]},"announce":[],"urlList":[]}}
+{
+  "title": "OS X 10.8 Mountain Lion bootable DVD for Intel PCs",
+  "uid": 7471983,
+  "size": 5020352512,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:6650958b2d24b45f85db3f6a7a7ee42ec0db8b69&amp;dn=OS+X+10.8+Mountain+Lion+bootable+DVD+for+Intel+PCs&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 3,
+  "uploader": "Olarila",
+  "files": 1,
+  "time": 1343177608,
+  "description": "Image size: 5.020.352.512 bytes (dual layer DVD needed)\n\nMD5 (OS X 10.8 Install DVD.iso) = 161b4ff7674a6a1d8f8967708fec686e\n\nContents:\n\nOS X Mountain Lion GM Seed (Build 12A269)\n\nMD5 (InstallESD.dmg) = 8b4869920cd740414fe6b7e3f0b1be3e\n\nModified files:\nSystem/Installation/Packages/OSInstall.mpkg\nSystem/Library/PrivateFrameworks/Install.framework/Frameworks/OSInstall.framework/Versions/A/OSInstall\n\nAdded files:\nSystem/Library/Caches/com.apple.kext.caches/Startup/Extensions.mkext\nusr/standalone/i386/cdboot (Chameleon v2.1svn r2013)\nExtra/Preboot.dmg\n\nPreboot.dmg contents:\nExtensions.mkext\norg.chameleon.Boot.plist\n\nExtensions.mkext contents:\nAHCIPortInjector.kext\nAppleACPIPS2Nub.kext\nFakeSMC.kext\nIOAHCIBlockStorageInjector.kext\nNullCPUPowerManagement.kext\nPXHCD.kext\nVoodooPS2Controller.kext\nVoodooPS2Keyboard.kext\nVoodooPS2Mouse.kext\nVoodooPS2Trackpad.kext\n\n\nIf you get KP related to ApplePolicyControl.kext or problem related to graphics card, use HackBoot &lt;a href=&quot;\nhttp://olarila.com/forum/viewtopic.php?f=26&amp;t=1616&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://olarila.com/forum/viewtopic.php?f=26&amp;t=1616&lt;/a&gt;\n\n\nMore info &lt;a href=&quot;\nhttp://olarila.com/forum/viewtopic.php?f=27&amp;t=1644&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://olarila.com/forum/viewtopic.php?f=27&amp;t=1644&lt;/a&gt;\n",
+  "parsed": {
+    "xt": "urn:btih:6650958b2d24b45f85db3f6a7a7ee42ec0db8b69",
+    "dn": "OS X 10.8 Mountain Lion bootable DVD for Intel PCs",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6650958b2d24b45f85db3f6a7a7ee42ec0db8b69",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        102,
+        80,
+        149,
+        139,
+        45,
+        36,
+        180,
+        95,
+        133,
+        219,
+        63,
+        106,
+        122,
+        126,
+        228,
+        46,
+        192,
+        219,
+        139,
+        105
+      ]
+    },
+    "name": "OS X 10.8 Mountain Lion bootable DVD for Intel PCs",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 30,
+  "last_updated": "2016-12-25T03:17:07.708Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Dark Horse (feat. Juicy J) - Katy Perry [2013]","uid":9415194,"size":7147426,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:667b65da12cb0febd9be1c4c3df42fa6624aa227&amp;dn=Dark+Horse+%28feat.+Juicy+J%29+-+Katy+Perry+%5B2013%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":0,"uploader":"TheNautiE","files":1,"time":1388424976,"description":"Dark Horse (feat. Juicy J) - Katy Perry \nLength: 03:35\nAudio Bitrate: 265 kbps\n\nSource: songslover.pk","torrent":{"xt":"urn:btih:667b65da12cb0febd9be1c4c3df42fa6624aa227","amp;dn":"Dark+Horse+%28feat.+Juicy+J%29+-+Katy+Perry+%5B2013%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"667b65da12cb0febd9be1c4c3df42fa6624aa227","infoHashBuffer":{"type":"Buffer","data":[102,123,101,218,18,203,15,235,217,190,28,76,61,244,47,166,98,74,162,39]},"announce":[],"urlList":[]}}
+{
+  "title": "Dark Horse (feat. Juicy J) - Katy Perry [2013]",
+  "uid": 9415194,
+  "size": 7147426,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:667b65da12cb0febd9be1c4c3df42fa6624aa227&amp;dn=Dark+Horse+%28feat.+Juicy+J%29+-+Katy+Perry+%5B2013%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 0,
+  "uploader": "TheNautiE",
+  "files": 1,
+  "time": 1388424976,
+  "description": "Dark Horse (feat. Juicy J) - Katy Perry \nLength: 03:35\nAudio Bitrate: 265 kbps\n\nSource: songslover.pk",
+  "parsed": {
+    "xt": "urn:btih:667b65da12cb0febd9be1c4c3df42fa6624aa227",
+    "dn": "Dark Horse (feat. Juicy J) - Katy Perry [2013]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "667b65da12cb0febd9be1c4c3df42fa6624aa227",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        102,
+        123,
+        101,
+        218,
+        18,
+        203,
+        15,
+        235,
+        217,
+        190,
+        28,
+        76,
+        61,
+        244,
+        47,
+        166,
+        98,
+        74,
+        162,
+        39
+      ]
+    },
+    "name": "Dark Horse (feat. Juicy J) - Katy Perry [2013]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 10,
+  "last_updated": "2016-12-25T03:18:28.042Z"
+}

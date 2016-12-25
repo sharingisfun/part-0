@@ -1,1 +1,61 @@
-{"title":"Quantum Physics - The Audiobook Collection","uid":6460427,"size":8587301060,"categoryP":"audio","categoryS":"audio_books","magnet":"?xt=urn:btih:6849cc950c6cca262e56de7f26e0189020b35d48&amp;dn=Quantum+Physics+-+The+Audiobook+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":19,"uploader":"neil1966hardy","files":1348,"time":1307738552,"description":"Contains the following books\n\nPresent at the creation(2010) - acel\nAmit goswami on quantum physics\nA short theory - bill bryson\nBlack holes - stephen hawking\nThe hidden reality - bryan greene\nUncertainty - david lindley\nE=mc2\nEinstein's relativity and the quantum revolution\nThe amazing story of quantum physics - james kakalios\nQuantum gravity\nFeynman lectures\nVisions - michio kaku\nThe character of physical law\nParticle physics -frank close\nThe black hole wars - leonard susskind\nThe fabric of the cosmos - brian greene\nDecoding reality - vlatko vedral\nand much more\n\nThanx to the orignal uploaders","torrent":{"xt":"urn:btih:6849cc950c6cca262e56de7f26e0189020b35d48","amp;dn":"Quantum+Physics+-+The+Audiobook+Collection","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6849cc950c6cca262e56de7f26e0189020b35d48","infoHashBuffer":{"type":"Buffer","data":[104,73,204,149,12,108,202,38,46,86,222,127,38,224,24,144,32,179,93,72]},"announce":[],"urlList":[]}}
+{
+  "title": "Quantum Physics - The Audiobook Collection",
+  "uid": 6460427,
+  "size": 8587301060,
+  "categoryP": "audio",
+  "categoryS": "audio_books",
+  "magnet": "?xt=urn:btih:6849cc950c6cca262e56de7f26e0189020b35d48&amp;dn=Quantum+Physics+-+The+Audiobook+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 19,
+  "uploader": "neil1966hardy",
+  "files": 1348,
+  "time": 1307738552,
+  "description": "Contains the following books\n\nPresent at the creation(2010) - acel\nAmit goswami on quantum physics\nA short theory - bill bryson\nBlack holes - stephen hawking\nThe hidden reality - bryan greene\nUncertainty - david lindley\nE=mc2\nEinstein's relativity and the quantum revolution\nThe amazing story of quantum physics - james kakalios\nQuantum gravity\nFeynman lectures\nVisions - michio kaku\nThe character of physical law\nParticle physics -frank close\nThe black hole wars - leonard susskind\nThe fabric of the cosmos - brian greene\nDecoding reality - vlatko vedral\nand much more\n\nThanx to the orignal uploaders",
+  "parsed": {
+    "xt": "urn:btih:6849cc950c6cca262e56de7f26e0189020b35d48",
+    "dn": "Quantum Physics - The Audiobook Collection",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6849cc950c6cca262e56de7f26e0189020b35d48",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        104,
+        73,
+        204,
+        149,
+        12,
+        108,
+        202,
+        38,
+        46,
+        86,
+        222,
+        127,
+        38,
+        224,
+        24,
+        144,
+        32,
+        179,
+        93,
+        72
+      ]
+    },
+    "name": "Quantum Physics - The Audiobook Collection",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 75,
+  "peers": 11,
+  "last_updated": "2016-12-25T03:29:40.112Z"
+}

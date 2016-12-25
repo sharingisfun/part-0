@@ -1,1 +1,61 @@
-{"title":"Pharrell Williams - GIRL 2014 320kbps","uid":10308079,"size":114128669,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:67b2cc0ecfaa2b9169c17f7920a37d862511309a&amp;dn=Pharrell+Williams+-+GIRL+2014+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":1,"uploader":"6pack1204","files":11,"time":1402155640,"description":"Tracklist:\n\n\n01 Marilyn Monroe\n02 Brand New (Duet with Justin Timberlake)\n03 Hunter\n04 Gush\n05 Happy (From _Despicable Me 2_)\n06 Come Get It Bae\n07 Gust of Wind\n08 Lost Queen\n09 Know Who You Are (Duet with Alicia Keys)\n10 It Girl\n\n\n\n\nSeed &amp; enjoy\n","torrent":{"xt":"urn:btih:67b2cc0ecfaa2b9169c17f7920a37d862511309a","amp;dn":"Pharrell+Williams+-+GIRL+2014+320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"67b2cc0ecfaa2b9169c17f7920a37d862511309a","infoHashBuffer":{"type":"Buffer","data":[103,178,204,14,207,170,43,145,105,193,127,121,32,163,125,134,37,17,48,154]},"announce":[],"urlList":[]}}
+{
+  "title": "Pharrell Williams - GIRL 2014 320kbps",
+  "uid": 10308079,
+  "size": 114128669,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:67b2cc0ecfaa2b9169c17f7920a37d862511309a&amp;dn=Pharrell+Williams+-+GIRL+2014+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 1,
+  "uploader": "6pack1204",
+  "files": 11,
+  "time": 1402155640,
+  "description": "Tracklist:\n\n\n01 Marilyn Monroe\n02 Brand New (Duet with Justin Timberlake)\n03 Hunter\n04 Gush\n05 Happy (From _Despicable Me 2_)\n06 Come Get It Bae\n07 Gust of Wind\n08 Lost Queen\n09 Know Who You Are (Duet with Alicia Keys)\n10 It Girl\n\n\n\n\nSeed &amp; enjoy\n",
+  "parsed": {
+    "xt": "urn:btih:67b2cc0ecfaa2b9169c17f7920a37d862511309a",
+    "dn": "Pharrell Williams - GIRL 2014 320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "67b2cc0ecfaa2b9169c17f7920a37d862511309a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        103,
+        178,
+        204,
+        14,
+        207,
+        170,
+        43,
+        145,
+        105,
+        193,
+        127,
+        121,
+        32,
+        163,
+        125,
+        134,
+        37,
+        17,
+        48,
+        154
+      ]
+    },
+    "name": "Pharrell Williams - GIRL 2014 320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 14,
+  "last_updated": "2016-12-25T03:26:33.559Z"
+}

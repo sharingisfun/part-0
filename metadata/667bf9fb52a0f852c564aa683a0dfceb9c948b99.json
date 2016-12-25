@@ -1,1 +1,63 @@
-{"title":"Disturbed - Sound of Silence","uid":13872957,"size":3954520,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:667bf9fb52a0f852c564aa683a0dfceb9c948b99&amp;dn=Disturbed+-+Sound+of+Silence&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":81,"leechers":1,"uploader":"kinvore","files":1,"time":1458116784,"description":"Disturbed's epic cover of Simon and Garfunkel's legendary hit, done in a unique yet powerful fashion that doesn't kill the spirit of the original","torrent":{"xt":"urn:btih:667bf9fb52a0f852c564aa683a0dfceb9c948b99","amp;dn":"Disturbed+-+Sound+of+Silence","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"667bf9fb52a0f852c564aa683a0dfceb9c948b99","infoHashBuffer":{"type":"Buffer","data":[102,123,249,251,82,160,248,82,197,100,170,104,58,13,252,235,156,148,139,153]},"announce":[],"urlList":[]}}
+{
+  "title": "Disturbed - Sound of Silence",
+  "uid": 13872957,
+  "size": 3954520,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:667bf9fb52a0f852c564aa683a0dfceb9c948b99&amp;dn=Disturbed+-+Sound+of+Silence&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 81,
+  "leechers": 1,
+  "uploader": "kinvore",
+  "files": 1,
+  "time": 1458116784,
+  "description": "Disturbed's epic cover of Simon and Garfunkel's legendary hit, done in a unique yet powerful fashion that doesn't kill the spirit of the original",
+  "parsed": {
+    "xt": "urn:btih:667bf9fb52a0f852c564aa683a0dfceb9c948b99",
+    "dn": "Disturbed - Sound of Silence",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "667bf9fb52a0f852c564aa683a0dfceb9c948b99",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        102,
+        123,
+        249,
+        251,
+        82,
+        160,
+        248,
+        82,
+        197,
+        100,
+        170,
+        104,
+        58,
+        13,
+        252,
+        235,
+        156,
+        148,
+        139,
+        153
+      ]
+    },
+    "name": "Disturbed - Sound of Silence",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 82,
+  "peers": 100,
+  "last_updated": "2016-12-25T03:18:30.048Z"
+}

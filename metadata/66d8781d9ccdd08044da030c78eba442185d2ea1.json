@@ -1,1 +1,61 @@
-{"title":"HBO Girls Season 2","uid":10089386,"size":2903099900,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:66d8781d9ccdd08044da030c78eba442185d2ea1&amp;dn=HBO+Girls+Season+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":6,"uploader":"Oftresb","files":10,"time":1399168914,"description":"Season 2 complete","torrent":{"xt":"urn:btih:66d8781d9ccdd08044da030c78eba442185d2ea1","amp;dn":"HBO+Girls+Season+2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"66d8781d9ccdd08044da030c78eba442185d2ea1","infoHashBuffer":{"type":"Buffer","data":[102,216,120,29,156,205,208,128,68,218,3,12,120,235,164,66,24,93,46,161]},"announce":[],"urlList":[]}}
+{
+  "title": "HBO Girls Season 2",
+  "uid": 10089386,
+  "size": 2903099900,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:66d8781d9ccdd08044da030c78eba442185d2ea1&amp;dn=HBO+Girls+Season+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 6,
+  "uploader": "Oftresb",
+  "files": 10,
+  "time": 1399168914,
+  "description": "Season 2 complete",
+  "parsed": {
+    "xt": "urn:btih:66d8781d9ccdd08044da030c78eba442185d2ea1",
+    "dn": "HBO Girls Season 2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "66d8781d9ccdd08044da030c78eba442185d2ea1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        102,
+        216,
+        120,
+        29,
+        156,
+        205,
+        208,
+        128,
+        68,
+        218,
+        3,
+        12,
+        120,
+        235,
+        164,
+        66,
+        24,
+        93,
+        46,
+        161
+      ]
+    },
+    "name": "HBO Girls Season 2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 39,
+  "last_updated": "2016-12-25T03:21:18.629Z"
+}

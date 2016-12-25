@@ -1,1 +1,61 @@
-{"title":"Monty Python Collection","uid":3977753,"size":16302562406,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:6665038d736862b66990b96613289629c1051bec&amp;dn=Monty+Python+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":9,"uploader":"BESTinTEXAS","files":53,"time":1200378396,"description":"I grabbed this right before Demonoid went down. Good thing, and this thing is huge. The only thing I did to this is make it a bit more organized. I think the codec the person used was DivX, but I don&amp;#039;t know. Use VLC just to make sure!\n\nAll the Monty Python movies and all the Flying Circuses. All four seasons. Also the 2 episodes of Monty Python&amp;#039;s Fliegender Zirkus.  Hope you enjoy this monsterous Monty Python treat, I did! Kudos to who ever made it originally, it&amp;#039;s truly great work.\n\n\nMovies include:\n\nMonty Python - And Now For Something Completely Different (1971)\nMonty Python - Jabberwocky (1977)\nMonty Python - Life of Brian (1979)\nMonty Python - The Meaning Of Life (1983)\nMonty Python and the Holy Grail (1975)\nMonty Python Live at the Hollywood Bowl (1982)\n\nThe 13 episodes of Season 1, 2, and 3. The 6 episodes of Season 4 as well. Also the 2 episodes of Monty Python&amp;#039;s Fliegender Zirkus.\n\nFor the love of God, seed this baby!","torrent":{"xt":"urn:btih:6665038d736862b66990b96613289629c1051bec","amp;dn":"Monty+Python+Collection","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6665038d736862b66990b96613289629c1051bec","infoHashBuffer":{"type":"Buffer","data":[102,101,3,141,115,104,98,182,105,144,185,102,19,40,150,41,193,5,27,236]},"announce":[],"urlList":[]}}
+{
+  "title": "Monty Python Collection",
+  "uid": 3977753,
+  "size": 16302562406,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:6665038d736862b66990b96613289629c1051bec&amp;dn=Monty+Python+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 9,
+  "uploader": "BESTinTEXAS",
+  "files": 53,
+  "time": 1200378396,
+  "description": "I grabbed this right before Demonoid went down. Good thing, and this thing is huge. The only thing I did to this is make it a bit more organized. I think the codec the person used was DivX, but I don&amp;#039;t know. Use VLC just to make sure!\n\nAll the Monty Python movies and all the Flying Circuses. All four seasons. Also the 2 episodes of Monty Python&amp;#039;s Fliegender Zirkus.  Hope you enjoy this monsterous Monty Python treat, I did! Kudos to who ever made it originally, it&amp;#039;s truly great work.\n\n\nMovies include:\n\nMonty Python - And Now For Something Completely Different (1971)\nMonty Python - Jabberwocky (1977)\nMonty Python - Life of Brian (1979)\nMonty Python - The Meaning Of Life (1983)\nMonty Python and the Holy Grail (1975)\nMonty Python Live at the Hollywood Bowl (1982)\n\nThe 13 episodes of Season 1, 2, and 3. The 6 episodes of Season 4 as well. Also the 2 episodes of Monty Python&amp;#039;s Fliegender Zirkus.\n\nFor the love of God, seed this baby!",
+  "parsed": {
+    "xt": "urn:btih:6665038d736862b66990b96613289629c1051bec",
+    "dn": "Monty Python Collection",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6665038d736862b66990b96613289629c1051bec",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        102,
+        101,
+        3,
+        141,
+        115,
+        104,
+        98,
+        182,
+        105,
+        144,
+        185,
+        102,
+        19,
+        40,
+        150,
+        41,
+        193,
+        5,
+        27,
+        236
+      ]
+    },
+    "name": "Monty Python Collection",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 65,
+  "last_updated": "2016-12-25T03:17:43.844Z"
+}

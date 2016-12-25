@@ -1,1 +1,61 @@
-{"title":"Euro Truck Simulator 2 PC","uid":7742954,"size":555076808,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:671747bb1a1e412e8d07f8369c24aed8b3ff500c&amp;dn=Euro+Truck+Simulator+2+PC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":3,"uploader":"wallitch","files":-1,"time":1350675149,"description":"OS: Windows XP / Windows Vista / Windows 7 \n\nProcessor: 2.4 GHz Intel Ã¢â€Â¬Ã‚Â« Core ÃŽâ€œÃƒÂ¤ÃƒÂ³ 2 Duo E4400 or 2.4 GHz AMD Athlon ÃŽâ€œÃƒÂ¤ÃƒÂ³ 64 X2 3800\n\nMemory: 2 GB RAM \n\nGraphics: 256 MB DirectX 9 / GeForce 7600 GT-class equivalent or better or ATI Radeon ÃŽâ€œÃƒÂ¤ÃƒÂ³ HD 2600 XT \n\nDirectX Ã¢â€Â¬Ã‚Â«: 9.0 \n\nHard Drive: 2 GB HD space \n\nSound: DirectX 9.0c-compliant \n\n\nTHWYR-Y553Q-71V7H-L8KLL-4KFXE","torrent":{"xt":"urn:btih:671747bb1a1e412e8d07f8369c24aed8b3ff500c","amp;dn":"Euro+Truck+Simulator+2+PC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"671747bb1a1e412e8d07f8369c24aed8b3ff500c","infoHashBuffer":{"type":"Buffer","data":[103,23,71,187,26,30,65,46,141,7,248,54,156,36,174,216,179,255,80,12]},"announce":[],"urlList":[]}}
+{
+  "title": "Euro Truck Simulator 2 PC",
+  "uid": 7742954,
+  "size": 555076808,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:671747bb1a1e412e8d07f8369c24aed8b3ff500c&amp;dn=Euro+Truck+Simulator+2+PC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 3,
+  "uploader": "wallitch",
+  "files": -1,
+  "time": 1350675149,
+  "description": "OS: Windows XP / Windows Vista / Windows 7 \n\nProcessor: 2.4 GHz Intel Ã¢â€Â¬Ã‚Â« Core ÃŽâ€œÃƒÂ¤ÃƒÂ³ 2 Duo E4400 or 2.4 GHz AMD Athlon ÃŽâ€œÃƒÂ¤ÃƒÂ³ 64 X2 3800\n\nMemory: 2 GB RAM \n\nGraphics: 256 MB DirectX 9 / GeForce 7600 GT-class equivalent or better or ATI Radeon ÃŽâ€œÃƒÂ¤ÃƒÂ³ HD 2600 XT \n\nDirectX Ã¢â€Â¬Ã‚Â«: 9.0 \n\nHard Drive: 2 GB HD space \n\nSound: DirectX 9.0c-compliant \n\n\nTHWYR-Y553Q-71V7H-L8KLL-4KFXE",
+  "parsed": {
+    "xt": "urn:btih:671747bb1a1e412e8d07f8369c24aed8b3ff500c",
+    "dn": "Euro Truck Simulator 2 PC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "671747bb1a1e412e8d07f8369c24aed8b3ff500c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        103,
+        23,
+        71,
+        187,
+        26,
+        30,
+        65,
+        46,
+        141,
+        7,
+        248,
+        54,
+        156,
+        36,
+        174,
+        216,
+        179,
+        255,
+        80,
+        12
+      ]
+    },
+    "name": "Euro Truck Simulator 2 PC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 44,
+  "last_updated": "2016-12-25T03:22:52.898Z"
+}

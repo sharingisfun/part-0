@@ -1,1 +1,61 @@
-{"title":"Stromae - Racine CarrÃ©e AMG 2013","uid":8810140,"size":111643490,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:66aa66d5bc1893bd798b904e63a3ac3f35705403&amp;dn=Stromae+-+Racine+Carr%26eacute%3Be+AMG+2013&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":763,"leechers":31,"uploader":"bmwm3du85","files":13,"time":1376438971,"description":"Stromae - Racine CarrÃƒÂ©e AMG 2013","torrent":{"xt":"urn:btih:66aa66d5bc1893bd798b904e63a3ac3f35705403","amp;dn":"Stromae+-+Racine+Carr%26eacute%3Be+AMG+2013","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"66aa66d5bc1893bd798b904e63a3ac3f35705403","infoHashBuffer":{"type":"Buffer","data":[102,170,102,213,188,24,147,189,121,139,144,78,99,163,172,63,53,112,84,3]},"announce":[],"urlList":[]}}
+{
+  "title": "Stromae - Racine CarrÃ©e AMG 2013",
+  "uid": 8810140,
+  "size": 111643490,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:66aa66d5bc1893bd798b904e63a3ac3f35705403&amp;dn=Stromae+-+Racine+Carr%26eacute%3Be+AMG+2013&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 763,
+  "leechers": 31,
+  "uploader": "bmwm3du85",
+  "files": 13,
+  "time": 1376438971,
+  "description": "Stromae - Racine CarrÃƒÂ©e AMG 2013",
+  "parsed": {
+    "xt": "urn:btih:66aa66d5bc1893bd798b904e63a3ac3f35705403",
+    "dn": "Stromae - Racine Carr&eacute;e AMG 2013",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "66aa66d5bc1893bd798b904e63a3ac3f35705403",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        102,
+        170,
+        102,
+        213,
+        188,
+        24,
+        147,
+        189,
+        121,
+        139,
+        144,
+        78,
+        99,
+        163,
+        172,
+        63,
+        53,
+        112,
+        84,
+        3
+      ]
+    },
+    "name": "Stromae - Racine Carr&eacute;e AMG 2013",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 794,
+  "peers": 50,
+  "last_updated": "2016-12-25T03:19:56.341Z"
+}

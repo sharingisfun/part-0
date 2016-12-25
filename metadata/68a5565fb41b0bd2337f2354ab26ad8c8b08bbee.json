@@ -1,1 +1,61 @@
-{"title":"Sons of Anarchy S06E09 HDTV x264-2HD[ettv]","uid":9152267,"size":437418703,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:68a5565fb41b0bd2337f2354ab26ad8c8b08bbee&amp;dn=Sons+of+Anarchy+S06E09+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":1,"uploader":"ettv","files":2,"time":1383714668,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:68a5565fb41b0bd2337f2354ab26ad8c8b08bbee","amp;dn":"Sons+of+Anarchy+S06E09+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"68a5565fb41b0bd2337f2354ab26ad8c8b08bbee","infoHashBuffer":{"type":"Buffer","data":[104,165,86,95,180,27,11,210,51,127,35,84,171,38,173,140,139,8,187,238]},"announce":[],"urlList":[]}}
+{
+  "title": "Sons of Anarchy S06E09 HDTV x264-2HD[ettv]",
+  "uid": 9152267,
+  "size": 437418703,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:68a5565fb41b0bd2337f2354ab26ad8c8b08bbee&amp;dn=Sons+of+Anarchy+S06E09+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1383714668,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:68a5565fb41b0bd2337f2354ab26ad8c8b08bbee",
+    "dn": "Sons of Anarchy S06E09 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "68a5565fb41b0bd2337f2354ab26ad8c8b08bbee",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        104,
+        165,
+        86,
+        95,
+        180,
+        27,
+        11,
+        210,
+        51,
+        127,
+        35,
+        84,
+        171,
+        38,
+        173,
+        140,
+        139,
+        8,
+        187,
+        238
+      ]
+    },
+    "name": "Sons of Anarchy S06E09 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 23,
+  "last_updated": "2016-12-25T03:32:04.499Z"
+}

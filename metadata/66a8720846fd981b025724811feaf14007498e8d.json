@@ -1,1 +1,61 @@
-{"title":"Mind Your Language - Complete Series (1, 2 &amp; 3)","uid":6268486,"size":5652051968,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:66a8720846fd981b025724811feaf14007498e8d&amp;dn=Mind+Your+Language+-+Complete+Series+%281%2C+2+%26+3%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":16,"uploader":"sibythomas500","files":29,"time":1300988973,"description":"Please seed when you have finished. Keep this class show alive. ","torrent":{"xt":"urn:btih:66a8720846fd981b025724811feaf14007498e8d","amp;dn":"Mind+Your+Language+-+Complete+Series+%281%2C+2+%26+3%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"66a8720846fd981b025724811feaf14007498e8d","infoHashBuffer":{"type":"Buffer","data":[102,168,114,8,70,253,152,27,2,87,36,129,31,234,241,64,7,73,142,141]},"announce":[],"urlList":[]}}
+{
+  "title": "Mind Your Language - Complete Series (1, 2 &amp; 3)",
+  "uid": 6268486,
+  "size": 5652051968,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:66a8720846fd981b025724811feaf14007498e8d&amp;dn=Mind+Your+Language+-+Complete+Series+%281%2C+2+%26+3%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 16,
+  "uploader": "sibythomas500",
+  "files": 29,
+  "time": 1300988973,
+  "description": "Please seed when you have finished. Keep this class show alive. ",
+  "parsed": {
+    "xt": "urn:btih:66a8720846fd981b025724811feaf14007498e8d",
+    "dn": "Mind Your Language - Complete Series (1, 2 & 3)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "66a8720846fd981b025724811feaf14007498e8d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        102,
+        168,
+        114,
+        8,
+        70,
+        253,
+        152,
+        27,
+        2,
+        87,
+        36,
+        129,
+        31,
+        234,
+        241,
+        64,
+        7,
+        73,
+        142,
+        141
+      ]
+    },
+    "name": "Mind Your Language - Complete Series (1, 2 & 3)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 26,
+  "last_updated": "2016-12-25T03:19:48.315Z"
+}

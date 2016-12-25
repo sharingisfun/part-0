@@ -1,1 +1,61 @@
-{"title":"New Avengers (001-033+Extras) (2013-2015) (Zone-Empire)","uid":11867162,"size":1456199875,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:688acd8c88add11aa218ac5026d43cb935b18972&amp;dn=New+Avengers+%28001-033%2BExtras%29+%282013-2015%29+%28Zone-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":18,"uploader":"jedi.jesse","files":50,"time":1430388664,"description":"New Avengers Vol 3","torrent":{"xt":"urn:btih:688acd8c88add11aa218ac5026d43cb935b18972","amp;dn":"New+Avengers+%28001-033%2BExtras%29+%282013-2015%29+%28Zone-Empire%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"688acd8c88add11aa218ac5026d43cb935b18972","infoHashBuffer":{"type":"Buffer","data":[104,138,205,140,136,173,209,26,162,24,172,80,38,212,60,185,53,177,137,114]},"announce":[],"urlList":[]}}
+{
+  "title": "New Avengers (001-033+Extras) (2013-2015) (Zone-Empire)",
+  "uid": 11867162,
+  "size": 1456199875,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:688acd8c88add11aa218ac5026d43cb935b18972&amp;dn=New+Avengers+%28001-033%2BExtras%29+%282013-2015%29+%28Zone-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 18,
+  "uploader": "jedi.jesse",
+  "files": 50,
+  "time": 1430388664,
+  "description": "New Avengers Vol 3",
+  "parsed": {
+    "xt": "urn:btih:688acd8c88add11aa218ac5026d43cb935b18972",
+    "dn": "New Avengers (001-033 Extras) (2013-2015) (Zone-Empire)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "688acd8c88add11aa218ac5026d43cb935b18972",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        104,
+        138,
+        205,
+        140,
+        136,
+        173,
+        209,
+        26,
+        162,
+        24,
+        172,
+        80,
+        38,
+        212,
+        60,
+        185,
+        53,
+        177,
+        137,
+        114
+      ]
+    },
+    "name": "New Avengers (001-033 Extras) (2013-2015) (Zone-Empire)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 7,
+  "last_updated": "2016-12-25T03:31:26.384Z"
+}

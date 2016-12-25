@@ -1,1 +1,61 @@
-{"title":"Suits.S02E04.HDTV.x264-ASAP.[VTV].mp4","uid":7438635,"size":283850225,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:66e104d2c66e6f7059b06595678889563610cc8a&amp;dn=Suits.S02E04.HDTV.x264-ASAP.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":16,"uploader":"VTV","files":1,"time":1342156853,"description":"Suits 2x04 (HDTV-x264-ASAP)[VTV]","torrent":{"xt":"urn:btih:66e104d2c66e6f7059b06595678889563610cc8a","amp;dn":"Suits.S02E04.HDTV.x264-ASAP.%5BVTV%5D.mp4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"66e104d2c66e6f7059b06595678889563610cc8a","infoHashBuffer":{"type":"Buffer","data":[102,225,4,210,198,110,111,112,89,176,101,149,103,136,137,86,54,16,204,138]},"announce":[],"urlList":[]}}
+{
+  "title": "Suits.S02E04.HDTV.x264-ASAP.[VTV].mp4",
+  "uid": 7438635,
+  "size": 283850225,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:66e104d2c66e6f7059b06595678889563610cc8a&amp;dn=Suits.S02E04.HDTV.x264-ASAP.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 16,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1342156853,
+  "description": "Suits 2x04 (HDTV-x264-ASAP)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:66e104d2c66e6f7059b06595678889563610cc8a",
+    "dn": "Suits.S02E04.HDTV.x264-ASAP.[VTV].mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "66e104d2c66e6f7059b06595678889563610cc8a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        102,
+        225,
+        4,
+        210,
+        198,
+        110,
+        111,
+        112,
+        89,
+        176,
+        101,
+        149,
+        103,
+        136,
+        137,
+        86,
+        54,
+        16,
+        204,
+        138
+      ]
+    },
+    "name": "Suits.S02E04.HDTV.x264-ASAP.[VTV].mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 14,
+  "last_updated": "2016-12-25T03:21:32.669Z"
+}

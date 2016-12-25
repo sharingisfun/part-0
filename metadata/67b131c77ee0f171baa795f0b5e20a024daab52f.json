@@ -1,1 +1,61 @@
-{"title":"THE DOOBIE BROTHERS - Greatest Hits - (Remastered) - [320Kbps]","uid":8637759,"size":183632731,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:67b131c77ee0f171baa795f0b5e20a024daab52f&amp;dn=THE+DOOBIE+BROTHERS+-+Greatest+Hits+-+%28Remastered%29+-+%5B320Kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":69,"leechers":10,"uploader":"Drebben","files":23,"time":1372805237,"description":"THE DOOBIE BROTHERS\n\nGREATEST HITS\n\n- Remastered\n\n\nCD\n- Rhino\n- 2001\n\n- Mp3      \n- 320Kbps\n\n- Click  FILES  to see tracklist\n\n- Discover, rediscover, enjoy and seed . . .   \n\n\n","torrent":{"xt":"urn:btih:67b131c77ee0f171baa795f0b5e20a024daab52f","amp;dn":"THE+DOOBIE+BROTHERS+-+Greatest+Hits+-+%28Remastered%29+-+%5B320Kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"67b131c77ee0f171baa795f0b5e20a024daab52f","infoHashBuffer":{"type":"Buffer","data":[103,177,49,199,126,224,241,113,186,167,149,240,181,226,10,2,77,170,181,47]},"announce":[],"urlList":[]}}
+{
+  "title": "THE DOOBIE BROTHERS - Greatest Hits - (Remastered) - [320Kbps]",
+  "uid": 8637759,
+  "size": 183632731,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:67b131c77ee0f171baa795f0b5e20a024daab52f&amp;dn=THE+DOOBIE+BROTHERS+-+Greatest+Hits+-+%28Remastered%29+-+%5B320Kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 69,
+  "leechers": 10,
+  "uploader": "Drebben",
+  "files": 23,
+  "time": 1372805237,
+  "description": "THE DOOBIE BROTHERS\n\nGREATEST HITS\n\n- Remastered\n\n\nCD\n- Rhino\n- 2001\n\n- Mp3      \n- 320Kbps\n\n- Click  FILES  to see tracklist\n\n- Discover, rediscover, enjoy and seed . . .   \n\n\n",
+  "parsed": {
+    "xt": "urn:btih:67b131c77ee0f171baa795f0b5e20a024daab52f",
+    "dn": "THE DOOBIE BROTHERS - Greatest Hits - (Remastered) - [320Kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "67b131c77ee0f171baa795f0b5e20a024daab52f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        103,
+        177,
+        49,
+        199,
+        126,
+        224,
+        241,
+        113,
+        186,
+        167,
+        149,
+        240,
+        181,
+        226,
+        10,
+        2,
+        77,
+        170,
+        181,
+        47
+      ]
+    },
+    "name": "THE DOOBIE BROTHERS - Greatest Hits - (Remastered) - [320Kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 81,
+  "last_updated": "2016-12-25T03:26:27.541Z"
+}

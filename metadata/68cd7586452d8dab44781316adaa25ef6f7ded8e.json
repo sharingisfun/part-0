@@ -1,1 +1,63 @@
-{"title":"Firewatch [Update 1] (2016) [R.G. Mechanics]","uid":15964298,"size":15301731,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:68cd7586452d8dab44781316adaa25ef6f7ded8e&amp;dn=Firewatch+%5BUpdate+1%5D+%282016%29+%5BR.G.+Mechanics%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":91,"leechers":57,"uploader":"trwetwr","files":6,"time":1475707357,"description":"Good Game","torrent":{"xt":"urn:btih:68cd7586452d8dab44781316adaa25ef6f7ded8e","amp;dn":"Firewatch+%5BUpdate+1%5D+%282016%29+%5BR.G.+Mechanics%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"68cd7586452d8dab44781316adaa25ef6f7ded8e","infoHashBuffer":{"type":"Buffer","data":[104,205,117,134,69,45,141,171,68,120,19,22,173,170,37,239,111,125,237,142]},"announce":[],"urlList":[]}}
+{
+  "title": "Firewatch [Update 1] (2016) [R.G. Mechanics]",
+  "uid": 15964298,
+  "size": 15301731,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:68cd7586452d8dab44781316adaa25ef6f7ded8e&amp;dn=Firewatch+%5BUpdate+1%5D+%282016%29+%5BR.G.+Mechanics%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 91,
+  "leechers": 57,
+  "uploader": "trwetwr",
+  "files": 6,
+  "time": 1475707357,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:68cd7586452d8dab44781316adaa25ef6f7ded8e",
+    "dn": "Firewatch [Update 1] (2016) [R.G. Mechanics]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "68cd7586452d8dab44781316adaa25ef6f7ded8e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        104,
+        205,
+        117,
+        134,
+        69,
+        45,
+        141,
+        171,
+        68,
+        120,
+        19,
+        22,
+        173,
+        170,
+        37,
+        239,
+        111,
+        125,
+        237,
+        142
+      ]
+    },
+    "name": "Firewatch [Update 1] (2016) [R.G. Mechanics]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 148,
+  "peers": 2,
+  "last_updated": "2016-12-25T03:33:06.684Z"
+}

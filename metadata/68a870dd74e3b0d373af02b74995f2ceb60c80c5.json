@@ -1,1 +1,63 @@
-{"title":"Younger.S03E01.HDTV.x264-FLEET","uid":15912481,"size":195619790,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:68a870dd74e3b0d373af02b74995f2ceb60c80c5&amp;dn=Younger.S03E01.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":222,"leechers":41,"uploader":"TvTeam","files":4,"time":1475124563,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:68a870dd74e3b0d373af02b74995f2ceb60c80c5","amp;dn":"Younger.S03E01.HDTV.x264-FLEET","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"68a870dd74e3b0d373af02b74995f2ceb60c80c5","infoHashBuffer":{"type":"Buffer","data":[104,168,112,221,116,227,176,211,115,175,2,183,73,149,242,206,182,12,128,197]},"announce":[],"urlList":[]}}
+{
+  "title": "Younger.S03E01.HDTV.x264-FLEET",
+  "uid": 15912481,
+  "size": 195619790,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:68a870dd74e3b0d373af02b74995f2ceb60c80c5&amp;dn=Younger.S03E01.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 222,
+  "leechers": 41,
+  "uploader": "TvTeam",
+  "files": 4,
+  "time": 1475124563,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:68a870dd74e3b0d373af02b74995f2ceb60c80c5",
+    "dn": "Younger.S03E01.HDTV.x264-FLEET",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "68a870dd74e3b0d373af02b74995f2ceb60c80c5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        104,
+        168,
+        112,
+        221,
+        116,
+        227,
+        176,
+        211,
+        115,
+        175,
+        2,
+        183,
+        73,
+        149,
+        242,
+        206,
+        182,
+        12,
+        128,
+        197
+      ]
+    },
+    "name": "Younger.S03E01.HDTV.x264-FLEET",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 263,
+  "peers": 102,
+  "last_updated": "2016-12-25T03:32:12.521Z"
+}

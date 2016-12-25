@@ -1,1 +1,61 @@
-{"title":"La vida de Pi","uid":8567958,"size":1895393571,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:66fcae2eef901118bc183b50af4b929c69e3142f&amp;dn=La+vida+de+Pi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":193,"leechers":10,"uploader":"Miguel223","files":2,"time":1371067297,"description":"La vida de Pi\n\n","torrent":{"xt":"urn:btih:66fcae2eef901118bc183b50af4b929c69e3142f","amp;dn":"La+vida+de+Pi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"66fcae2eef901118bc183b50af4b929c69e3142f","infoHashBuffer":{"type":"Buffer","data":[102,252,174,46,239,144,17,24,188,24,59,80,175,75,146,156,105,227,20,47]},"announce":[],"urlList":[]}}
+{
+  "title": "La vida de Pi",
+  "uid": 8567958,
+  "size": 1895393571,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:66fcae2eef901118bc183b50af4b929c69e3142f&amp;dn=La+vida+de+Pi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 193,
+  "leechers": 10,
+  "uploader": "Miguel223",
+  "files": 2,
+  "time": 1371067297,
+  "description": "La vida de Pi\n\n",
+  "parsed": {
+    "xt": "urn:btih:66fcae2eef901118bc183b50af4b929c69e3142f",
+    "dn": "La vida de Pi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "66fcae2eef901118bc183b50af4b929c69e3142f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        102,
+        252,
+        174,
+        46,
+        239,
+        144,
+        17,
+        24,
+        188,
+        24,
+        59,
+        80,
+        175,
+        75,
+        146,
+        156,
+        105,
+        227,
+        20,
+        47
+      ]
+    },
+    "name": "La vida de Pi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 203,
+  "peers": 174,
+  "last_updated": "2016-12-25T03:22:10.777Z"
+}
