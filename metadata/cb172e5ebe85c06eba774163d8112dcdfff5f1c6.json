@@ -1,1 +1,61 @@
-{"title":"Defiance S02E12E-13 HDTV x264-KILLERS[ettv]","uid":10913950,"size":719943599,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:cb172e5ebe85c06eba774163d8112dcdfff5f1c6&amp;dn=Defiance+S02E12E-13+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":6,"uploader":"ettv","files":2,"time":1409287340,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:cb172e5ebe85c06eba774163d8112dcdfff5f1c6","amp;dn":"Defiance+S02E12E-13+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cb172e5ebe85c06eba774163d8112dcdfff5f1c6","infoHashBuffer":{"type":"Buffer","data":[203,23,46,94,190,133,192,110,186,119,65,99,216,17,45,205,255,245,241,198]},"announce":[],"urlList":[]}}
+{
+  "title": "Defiance S02E12E-13 HDTV x264-KILLERS[ettv]",
+  "uid": 10913950,
+  "size": 719943599,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:cb172e5ebe85c06eba774163d8112dcdfff5f1c6&amp;dn=Defiance+S02E12E-13+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 6,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1409287340,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:cb172e5ebe85c06eba774163d8112dcdfff5f1c6",
+    "dn": "Defiance S02E12E-13 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cb172e5ebe85c06eba774163d8112dcdfff5f1c6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        203,
+        23,
+        46,
+        94,
+        190,
+        133,
+        192,
+        110,
+        186,
+        119,
+        65,
+        99,
+        216,
+        17,
+        45,
+        205,
+        255,
+        245,
+        241,
+        198
+      ]
+    },
+    "name": "Defiance S02E12E-13 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 15,
+  "last_updated": "2016-12-25T14:00:16.402Z"
+}

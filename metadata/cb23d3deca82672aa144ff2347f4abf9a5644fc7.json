@@ -1,1 +1,61 @@
-{"title":"Adele - Set Fire To The Rain","uid":7440611,"size":10016814,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:cb23d3deca82672aa144ff2347f4abf9a5644fc7&amp;dn=Adele+-+Set+Fire+To+The+Rain&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":0,"uploader":"Tuffnut","files":-1,"time":1342208323,"description":"Adele - Set Fire To The Rain\n\n\nArtist: Adele\nAlbum: 21\nGenre: Pop\nYear: 2011\nBitrate: 320 Kbps\n\n--------------------------------\n!!! Download, Seed and Enjoy !!!\n--------------------------------\n","torrent":{"xt":"urn:btih:cb23d3deca82672aa144ff2347f4abf9a5644fc7","amp;dn":"Adele+-+Set+Fire+To+The+Rain","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cb23d3deca82672aa144ff2347f4abf9a5644fc7","infoHashBuffer":{"type":"Buffer","data":[203,35,211,222,202,130,103,42,161,68,255,35,71,244,171,249,165,100,79,199]},"announce":[],"urlList":[]}}
+{
+  "title": "Adele - Set Fire To The Rain",
+  "uid": 7440611,
+  "size": 10016814,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:cb23d3deca82672aa144ff2347f4abf9a5644fc7&amp;dn=Adele+-+Set+Fire+To+The+Rain&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 0,
+  "uploader": "Tuffnut",
+  "files": -1,
+  "time": 1342208323,
+  "description": "Adele - Set Fire To The Rain\n\n\nArtist: Adele\nAlbum: 21\nGenre: Pop\nYear: 2011\nBitrate: 320 Kbps\n\n--------------------------------\n!!! Download, Seed and Enjoy !!!\n--------------------------------\n",
+  "parsed": {
+    "xt": "urn:btih:cb23d3deca82672aa144ff2347f4abf9a5644fc7",
+    "dn": "Adele - Set Fire To The Rain",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cb23d3deca82672aa144ff2347f4abf9a5644fc7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        203,
+        35,
+        211,
+        222,
+        202,
+        130,
+        103,
+        42,
+        161,
+        68,
+        255,
+        35,
+        71,
+        244,
+        171,
+        249,
+        165,
+        100,
+        79,
+        199
+      ]
+    },
+    "name": "Adele - Set Fire To The Rain",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 42,
+  "last_updated": "2016-12-25T14:00:38.462Z"
+}

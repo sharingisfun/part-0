@@ -1,1 +1,61 @@
-{"title":"Pretty Little Liars S04E21 HDTV x264-LOL[ettv]","uid":9666587,"size":244516897,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:cc7ea77c2a349ee83c4d78ffc441898424548d5d&amp;dn=Pretty+Little+Liars+S04E21+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":1,"uploader":"ettv","files":2,"time":1393383984,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:cc7ea77c2a349ee83c4d78ffc441898424548d5d","amp;dn":"Pretty+Little+Liars+S04E21+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cc7ea77c2a349ee83c4d78ffc441898424548d5d","infoHashBuffer":{"type":"Buffer","data":[204,126,167,124,42,52,158,232,60,77,120,255,196,65,137,132,36,84,141,93]},"announce":[],"urlList":[]}}
+{
+  "title": "Pretty Little Liars S04E21 HDTV x264-LOL[ettv]",
+  "uid": 9666587,
+  "size": 244516897,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:cc7ea77c2a349ee83c4d78ffc441898424548d5d&amp;dn=Pretty+Little+Liars+S04E21+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1393383984,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:cc7ea77c2a349ee83c4d78ffc441898424548d5d",
+    "dn": "Pretty Little Liars S04E21 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cc7ea77c2a349ee83c4d78ffc441898424548d5d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        204,
+        126,
+        167,
+        124,
+        42,
+        52,
+        158,
+        232,
+        60,
+        77,
+        120,
+        255,
+        196,
+        65,
+        137,
+        132,
+        36,
+        84,
+        141,
+        93
+      ]
+    },
+    "name": "Pretty Little Liars S04E21 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 14,
+  "last_updated": "2016-12-25T14:08:40.079Z"
+}

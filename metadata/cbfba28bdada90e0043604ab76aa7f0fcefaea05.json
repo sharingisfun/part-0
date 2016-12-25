@@ -1,1 +1,61 @@
-{"title":"Amazing Spider-Man 018 (2015) (Digital) (Zone-Empire)","uid":11890232,"size":46587337,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:cbfba28bdada90e0043604ab76aa7f0fcefaea05&amp;dn=Amazing+Spider-Man+018+%282015%29+%28Digital%29+%28Zone-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":5,"uploader":"jedi.jesse","files":1,"time":1430975008,"description":"A huge chapter in AMAZING SPIDER-MAN history comes to a close! Peter's choices as CEO of Parker Industries come home to roost!","torrent":{"xt":"urn:btih:cbfba28bdada90e0043604ab76aa7f0fcefaea05","amp;dn":"Amazing+Spider-Man+018+%282015%29+%28Digital%29+%28Zone-Empire%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cbfba28bdada90e0043604ab76aa7f0fcefaea05","infoHashBuffer":{"type":"Buffer","data":[203,251,162,139,218,218,144,224,4,54,4,171,118,170,127,15,206,250,234,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Amazing Spider-Man 018 (2015) (Digital) (Zone-Empire)",
+  "uid": 11890232,
+  "size": 46587337,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:cbfba28bdada90e0043604ab76aa7f0fcefaea05&amp;dn=Amazing+Spider-Man+018+%282015%29+%28Digital%29+%28Zone-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 5,
+  "uploader": "jedi.jesse",
+  "files": 1,
+  "time": 1430975008,
+  "description": "A huge chapter in AMAZING SPIDER-MAN history comes to a close! Peter's choices as CEO of Parker Industries come home to roost!",
+  "parsed": {
+    "xt": "urn:btih:cbfba28bdada90e0043604ab76aa7f0fcefaea05",
+    "dn": "Amazing Spider-Man 018 (2015) (Digital) (Zone-Empire)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cbfba28bdada90e0043604ab76aa7f0fcefaea05",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        203,
+        251,
+        162,
+        139,
+        218,
+        218,
+        144,
+        224,
+        4,
+        54,
+        4,
+        171,
+        118,
+        170,
+        127,
+        15,
+        206,
+        250,
+        234,
+        5
+      ]
+    },
+    "name": "Amazing Spider-Man 018 (2015) (Digital) (Zone-Empire)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 12,
+  "last_updated": "2016-12-25T14:05:55.484Z"
+}

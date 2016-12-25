@@ -1,1 +1,61 @@
-{"title":"The Eagles  Greatest Hits 2013","uid":8310600,"size":393458537,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ca94df10cd0c95a664af405f61537fd12abcbcfa&amp;dn=The+Eagles++Greatest+Hits+2013&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":132,"leechers":18,"uploader":"RoffeTheCoolMan","files":59,"time":1364469528,"description":"TRACKLIST - DISC 1:\n1. Take It Easy\n2. Witchy Woman\n3. Peaceful Easy Feeling\n4. Desperado\n5. Tequila Sunrise\n6. Doolin Dalton\n7. Already Gone\n8. Best Of My Love\n9. James Dean\n10. Ol' 55\n11. Midnight Flyer\n12. On The Border\n13. Lyin' Eyes\n14. One Of These Nights\n15. Take It To The Limit\n16. After The Thrill Is Gone\n17. Hotel California\n\nTRACKLIST - DISC 2:\n1. Life In The Fast Lane\n2. Wasted Time\n3. Victim Of Love\n4. Last Resort\n5. New Kid In Town\n6. Please Come Home For Christmas\n7. Heartache Tonight\n8. Sad Cafe\n9. I Can't Tell You Why\n10. Long Run\n11. In The City\n12. Those Shoes\n13. Seven Bridges Road (live)\n14. Love Will Keep Us Alive\n15. Get Over It\n16. Hole In The World","torrent":{"xt":"urn:btih:ca94df10cd0c95a664af405f61537fd12abcbcfa","amp;dn":"The+Eagles++Greatest+Hits+2013","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ca94df10cd0c95a664af405f61537fd12abcbcfa","infoHashBuffer":{"type":"Buffer","data":[202,148,223,16,205,12,149,166,100,175,64,95,97,83,127,209,42,188,188,250]},"announce":[],"urlList":[]}}
+{
+  "title": "The Eagles  Greatest Hits 2013",
+  "uid": 8310600,
+  "size": 393458537,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ca94df10cd0c95a664af405f61537fd12abcbcfa&amp;dn=The+Eagles++Greatest+Hits+2013&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 132,
+  "leechers": 18,
+  "uploader": "RoffeTheCoolMan",
+  "files": 59,
+  "time": 1364469528,
+  "description": "TRACKLIST - DISC 1:\n1. Take It Easy\n2. Witchy Woman\n3. Peaceful Easy Feeling\n4. Desperado\n5. Tequila Sunrise\n6. Doolin Dalton\n7. Already Gone\n8. Best Of My Love\n9. James Dean\n10. Ol' 55\n11. Midnight Flyer\n12. On The Border\n13. Lyin' Eyes\n14. One Of These Nights\n15. Take It To The Limit\n16. After The Thrill Is Gone\n17. Hotel California\n\nTRACKLIST - DISC 2:\n1. Life In The Fast Lane\n2. Wasted Time\n3. Victim Of Love\n4. Last Resort\n5. New Kid In Town\n6. Please Come Home For Christmas\n7. Heartache Tonight\n8. Sad Cafe\n9. I Can't Tell You Why\n10. Long Run\n11. In The City\n12. Those Shoes\n13. Seven Bridges Road (live)\n14. Love Will Keep Us Alive\n15. Get Over It\n16. Hole In The World",
+  "parsed": {
+    "xt": "urn:btih:ca94df10cd0c95a664af405f61537fd12abcbcfa",
+    "dn": "The Eagles  Greatest Hits 2013",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ca94df10cd0c95a664af405f61537fd12abcbcfa",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        202,
+        148,
+        223,
+        16,
+        205,
+        12,
+        149,
+        166,
+        100,
+        175,
+        64,
+        95,
+        97,
+        83,
+        127,
+        209,
+        42,
+        188,
+        188,
+        250
+      ]
+    },
+    "name": "The Eagles  Greatest Hits 2013",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 150,
+  "peers": 0,
+  "last_updated": "2016-12-25T13:56:25.724Z"
+}

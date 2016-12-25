@@ -1,1 +1,61 @@
-{"title":"Calvin Harris - Summer","uid":9762008,"size":8896541,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:cbfda722decd886cabd31e67e6f728c93fb48447&amp;dn=Calvin+Harris+-+Summer&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":0,"uploader":"yeahsx","files":-1,"time":1394824997,"description":"Label: Sony Music Entertainment UK\nArtist: Calvin Harris\nAudio Bit Rate: 320 Kbps\nDuration: 03:44 min\nBPM: 128\nGenre: Progressive House\nCover: Yes\nFormat/Codec: .mp3","torrent":{"xt":"urn:btih:cbfda722decd886cabd31e67e6f728c93fb48447","amp;dn":"Calvin+Harris+-+Summer","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cbfda722decd886cabd31e67e6f728c93fb48447","infoHashBuffer":{"type":"Buffer","data":[203,253,167,34,222,205,136,108,171,211,30,103,230,247,40,201,63,180,132,71]},"announce":[],"urlList":[]}}
+{
+  "title": "Calvin Harris - Summer",
+  "uid": 9762008,
+  "size": 8896541,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:cbfda722decd886cabd31e67e6f728c93fb48447&amp;dn=Calvin+Harris+-+Summer&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 0,
+  "uploader": "yeahsx",
+  "files": -1,
+  "time": 1394824997,
+  "description": "Label: Sony Music Entertainment UK\nArtist: Calvin Harris\nAudio Bit Rate: 320 Kbps\nDuration: 03:44 min\nBPM: 128\nGenre: Progressive House\nCover: Yes\nFormat/Codec: .mp3",
+  "parsed": {
+    "xt": "urn:btih:cbfda722decd886cabd31e67e6f728c93fb48447",
+    "dn": "Calvin Harris - Summer",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cbfda722decd886cabd31e67e6f728c93fb48447",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        203,
+        253,
+        167,
+        34,
+        222,
+        205,
+        136,
+        108,
+        171,
+        211,
+        30,
+        103,
+        230,
+        247,
+        40,
+        201,
+        63,
+        180,
+        132,
+        71
+      ]
+    },
+    "name": "Calvin Harris - Summer",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 33,
+  "last_updated": "2016-12-25T14:06:03.505Z"
+}

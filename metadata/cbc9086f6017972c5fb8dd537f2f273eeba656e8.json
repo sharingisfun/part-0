@@ -1,1 +1,63 @@
-{"title":"DAEMON Tools Ultra 4.0.0.0423 [32-64 bit]","uid":16016244,"size":29596619,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:cbc9086f6017972c5fb8dd537f2f273eeba656e8&amp;dn=DAEMON+Tools+Ultra+4.0.0.0423+%5B32-64+bit%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":160,"leechers":30,"uploader":"iKnickKnockf","files":3,"time":1476292721,"description":"DAEMON Tools Ultra 4\r\n\r\nAll you need for virtual drive emulation\r\n\r\nDAEMON Tools Ultra is the most powerful, ultimate and advanced imaging software weÃ¢â‚¬â„¢ve ever created. Get the immense list of possibilities to work with virtual drives, create bootable USB-sticks for operating system recovery, use RAM disks to speed up your PC and evaluate the unique iSCSI Initiator that allows connecting to USB devices.\r\n \nhttps://www.daemon-tools.cc/products/dtultra","torrent":{"xt":"urn:btih:cbc9086f6017972c5fb8dd537f2f273eeba656e8","amp;dn":"DAEMON+Tools+Ultra+4.0.0.0423+%5B32-64+bit%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cbc9086f6017972c5fb8dd537f2f273eeba656e8","infoHashBuffer":{"type":"Buffer","data":[203,201,8,111,96,23,151,44,95,184,221,83,127,47,39,62,235,166,86,232]},"announce":[],"urlList":[]}}
+{
+  "title": "DAEMON Tools Ultra 4.0.0.0423 [32-64 bit]",
+  "uid": 16016244,
+  "size": 29596619,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:cbc9086f6017972c5fb8dd537f2f273eeba656e8&amp;dn=DAEMON+Tools+Ultra+4.0.0.0423+%5B32-64+bit%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 160,
+  "leechers": 30,
+  "uploader": "iKnickKnockf",
+  "files": 3,
+  "time": 1476292721,
+  "description": "DAEMON Tools Ultra 4\r\n\r\nAll you need for virtual drive emulation\r\n\r\nDAEMON Tools Ultra is the most powerful, ultimate and advanced imaging software weÃ¢â‚¬â„¢ve ever created. Get the immense list of possibilities to work with virtual drives, create bootable USB-sticks for operating system recovery, use RAM disks to speed up your PC and evaluate the unique iSCSI Initiator that allows connecting to USB devices.\r\n \nhttps://www.daemon-tools.cc/products/dtultra",
+  "parsed": {
+    "xt": "urn:btih:cbc9086f6017972c5fb8dd537f2f273eeba656e8",
+    "dn": "DAEMON Tools Ultra 4.0.0.0423 [32-64 bit]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "cbc9086f6017972c5fb8dd537f2f273eeba656e8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        203,
+        201,
+        8,
+        111,
+        96,
+        23,
+        151,
+        44,
+        95,
+        184,
+        221,
+        83,
+        127,
+        47,
+        39,
+        62,
+        235,
+        166,
+        86,
+        232
+      ]
+    },
+    "name": "DAEMON Tools Ultra 4.0.0.0423 [32-64 bit]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 190,
+  "peers": 2,
+  "last_updated": "2016-12-25T14:04:53.240Z"
+}

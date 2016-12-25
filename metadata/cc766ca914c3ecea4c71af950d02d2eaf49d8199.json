@@ -1,1 +1,61 @@
-{"title":"Cazuza Discography MP3 Brazil MPB BarÃƒÆ’Ã‚Â£o Vermelho","uid":4724218,"size":307478758,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:cc766ca914c3ecea4c71af950d02d2eaf49d8199&amp;dn=Cazuza+Discography+MP3+Brazil+MPB+Bar%C3%83%C2%A3o+Vermelho&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":8,"uploader":"silentsprings","files":97,"time":1234659245,"description":" &lt;a href=&quot;http://en.wikipedia.org/wiki/Cazuza&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://en.wikipedia.org/wiki/Cazuza&lt;/a&gt;","torrent":{"xt":"urn:btih:cc766ca914c3ecea4c71af950d02d2eaf49d8199","amp;dn":"Cazuza+Discography+MP3+Brazil+MPB+Bar%C3%83%C2%A3o+Vermelho","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cc766ca914c3ecea4c71af950d02d2eaf49d8199","infoHashBuffer":{"type":"Buffer","data":[204,118,108,169,20,195,236,234,76,113,175,149,13,2,210,234,244,157,129,153]},"announce":[],"urlList":[]}}
+{
+  "title": "Cazuza Discography MP3 Brazil MPB BarÃƒÆ’Ã‚Â£o Vermelho",
+  "uid": 4724218,
+  "size": 307478758,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:cc766ca914c3ecea4c71af950d02d2eaf49d8199&amp;dn=Cazuza+Discography+MP3+Brazil+MPB+Bar%C3%83%C2%A3o+Vermelho&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 8,
+  "uploader": "silentsprings",
+  "files": 97,
+  "time": 1234659245,
+  "description": " &lt;a href=&quot;http://en.wikipedia.org/wiki/Cazuza&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://en.wikipedia.org/wiki/Cazuza&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:cc766ca914c3ecea4c71af950d02d2eaf49d8199",
+    "dn": "Cazuza Discography MP3 Brazil MPB BarÃ£o Vermelho",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cc766ca914c3ecea4c71af950d02d2eaf49d8199",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        204,
+        118,
+        108,
+        169,
+        20,
+        195,
+        236,
+        234,
+        76,
+        113,
+        175,
+        149,
+        13,
+        2,
+        210,
+        234,
+        244,
+        157,
+        129,
+        153
+      ]
+    },
+    "name": "Cazuza Discography MP3 Brazil MPB BarÃ£o Vermelho",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 82,
+  "peers": 174,
+  "last_updated": "2016-12-25T14:08:28.028Z"
+}

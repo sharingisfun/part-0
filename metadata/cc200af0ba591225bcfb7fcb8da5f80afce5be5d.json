@@ -1,1 +1,61 @@
-{"title":"R.E.M. - In Time-The Best Of REM 1988-2003","uid":3458619,"size":109841952,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:cc200af0ba591225bcfb7fcb8da5f80afce5be5d&amp;dn=R.E.M.+-+In+Time-The+Best+Of+REM+1988-2003&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":2,"uploader":"SkyDUbi","files":18,"time":1142594488,"description":"R.E.M, Simply the best songs.","torrent":{"xt":"urn:btih:cc200af0ba591225bcfb7fcb8da5f80afce5be5d","amp;dn":"R.E.M.+-+In+Time-The+Best+Of+REM+1988-2003","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cc200af0ba591225bcfb7fcb8da5f80afce5be5d","infoHashBuffer":{"type":"Buffer","data":[204,32,10,240,186,89,18,37,188,251,127,203,141,165,248,10,252,229,190,93]},"announce":[],"urlList":[]}}
+{
+  "title": "R.E.M. - In Time-The Best Of REM 1988-2003",
+  "uid": 3458619,
+  "size": 109841952,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:cc200af0ba591225bcfb7fcb8da5f80afce5be5d&amp;dn=R.E.M.+-+In+Time-The+Best+Of+REM+1988-2003&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 2,
+  "uploader": "SkyDUbi",
+  "files": 18,
+  "time": 1142594488,
+  "description": "R.E.M, Simply the best songs.",
+  "parsed": {
+    "xt": "urn:btih:cc200af0ba591225bcfb7fcb8da5f80afce5be5d",
+    "dn": "R.E.M. - In Time-The Best Of REM 1988-2003",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cc200af0ba591225bcfb7fcb8da5f80afce5be5d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        204,
+        32,
+        10,
+        240,
+        186,
+        89,
+        18,
+        37,
+        188,
+        251,
+        127,
+        203,
+        141,
+        165,
+        248,
+        10,
+        252,
+        229,
+        190,
+        93
+      ]
+    },
+    "name": "R.E.M. - In Time-The Best Of REM 1988-2003",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 230,
+  "last_updated": "2016-12-25T14:06:41.658Z"
+}

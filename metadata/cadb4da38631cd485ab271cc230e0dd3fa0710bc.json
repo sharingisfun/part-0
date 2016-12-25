@@ -1,1 +1,61 @@
-{"title":"Automation - The Car Company Tycoon Game (Build B150315)","uid":11764195,"size":1746967707,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:cadb4da38631cd485ab271cc230e0dd3fa0710bc&amp;dn=Automation+-+The+Car+Company+Tycoon+Game+%28Build+B150315%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":90,"leechers":2,"uploader":"dauphong","files":1,"time":1426679284,"description":"Fixes:\n\n    Fixed fullscreen Alt-Tab issues\n    Fixed mouse UI offset bug\n    Indirectly fixed one of the start-up crashes\n    Fixed body selection filter functionality, it now works as youÃ¢â‚¬â„¢d expect: Upon clicking an icon, all other icons in the same category are deselected. Clicking the same icon again re-selects all icons in the section. Right-clicking does the same but doesnÃ¢â‚¬â„¢t toggle all icons on/off.\n    Fixed Ã¢â‚¬Å“flow, manual testing benchÃ¢â‚¬ï¿½ showing in manual testing mode\n    Made tutorial subtitles area wider to stop them from cutting off\n    Fixed a bug where you got dropped to main menu when selecting an engine family from car manager to load, it now loads any available trim\n    Fixed graph rendering bug switching between wheels and brakes tab\n    Added emissions tool-tip to head &amp; valves and fixed its coloring\n    Temp fixed spray sound issue by removing it\n    Centered live data &amp; track stats buttons\n    Fixed timeline highlighting not working correctly\n    Fixed Lua error when changing from mid engine to front engine bodies\n    Fixed an issue if you tried to load a car where that engine variant had been deleted\n    Fixed economy stat in side-panel colouring wrong way\n    Fixed issue with 10Ã¢â‚¬â„¢s swoopy sedan having too high center of gravity\n\n\nContent:\n\n    Added 80Ã¢â‚¬â„¢s large pickup body","torrent":{"xt":"urn:btih:cadb4da38631cd485ab271cc230e0dd3fa0710bc","amp;dn":"Automation+-+The+Car+Company+Tycoon+Game+%28Build+B150315%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cadb4da38631cd485ab271cc230e0dd3fa0710bc","infoHashBuffer":{"type":"Buffer","data":[202,219,77,163,134,49,205,72,90,178,113,204,35,14,13,211,250,7,16,188]},"announce":[],"urlList":[]}}
+{
+  "title": "Automation - The Car Company Tycoon Game (Build B150315)",
+  "uid": 11764195,
+  "size": 1746967707,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:cadb4da38631cd485ab271cc230e0dd3fa0710bc&amp;dn=Automation+-+The+Car+Company+Tycoon+Game+%28Build+B150315%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 90,
+  "leechers": 2,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1426679284,
+  "description": "Fixes:\n\n    Fixed fullscreen Alt-Tab issues\n    Fixed mouse UI offset bug\n    Indirectly fixed one of the start-up crashes\n    Fixed body selection filter functionality, it now works as youÃ¢â‚¬â„¢d expect: Upon clicking an icon, all other icons in the same category are deselected. Clicking the same icon again re-selects all icons in the section. Right-clicking does the same but doesnÃ¢â‚¬â„¢t toggle all icons on/off.\n    Fixed Ã¢â‚¬Å“flow, manual testing benchÃ¢â‚¬ï¿½ showing in manual testing mode\n    Made tutorial subtitles area wider to stop them from cutting off\n    Fixed a bug where you got dropped to main menu when selecting an engine family from car manager to load, it now loads any available trim\n    Fixed graph rendering bug switching between wheels and brakes tab\n    Added emissions tool-tip to head &amp; valves and fixed its coloring\n    Temp fixed spray sound issue by removing it\n    Centered live data &amp; track stats buttons\n    Fixed timeline highlighting not working correctly\n    Fixed Lua error when changing from mid engine to front engine bodies\n    Fixed an issue if you tried to load a car where that engine variant had been deleted\n    Fixed economy stat in side-panel colouring wrong way\n    Fixed issue with 10Ã¢â‚¬â„¢s swoopy sedan having too high center of gravity\n\n\nContent:\n\n    Added 80Ã¢â‚¬â„¢s large pickup body",
+  "parsed": {
+    "xt": "urn:btih:cadb4da38631cd485ab271cc230e0dd3fa0710bc",
+    "dn": "Automation - The Car Company Tycoon Game (Build B150315)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cadb4da38631cd485ab271cc230e0dd3fa0710bc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        202,
+        219,
+        77,
+        163,
+        134,
+        49,
+        205,
+        72,
+        90,
+        178,
+        113,
+        204,
+        35,
+        14,
+        13,
+        211,
+        250,
+        7,
+        16,
+        188
+      ]
+    },
+    "name": "Automation - The Car Company Tycoon Game (Build B150315)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 92,
+  "peers": 31,
+  "last_updated": "2016-12-25T13:58:32.105Z"
+}

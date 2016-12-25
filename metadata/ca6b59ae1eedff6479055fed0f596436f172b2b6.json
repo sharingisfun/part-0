@@ -1,1 +1,61 @@
-{"title":"Huge For Dummies E-Book Collection","uid":10614759,"size":10129790925,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:ca6b59ae1eedff6479055fed0f596436f172b2b6&amp;dn=Huge+For+Dummies+E-Book+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":65,"leechers":63,"uploader":"jeff.barrett.VTpirate","files":979,"time":1406090080,"description":"Worth seeding a library on tpb. Please seed, I wont be able to forever!\n\nEnjoy, Download 1 or Download them all!\n\nwait for the torrent to load and select the files you want to see the full listing, or go here:\n","torrent":{"xt":"urn:btih:ca6b59ae1eedff6479055fed0f596436f172b2b6","amp;dn":"Huge+For+Dummies+E-Book+Collection","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ca6b59ae1eedff6479055fed0f596436f172b2b6","infoHashBuffer":{"type":"Buffer","data":[202,107,89,174,30,237,255,100,121,5,95,237,15,89,100,54,241,114,178,182]},"announce":[],"urlList":[]}}
+{
+  "title": "Huge For Dummies E-Book Collection",
+  "uid": 10614759,
+  "size": 10129790925,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:ca6b59ae1eedff6479055fed0f596436f172b2b6&amp;dn=Huge+For+Dummies+E-Book+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 65,
+  "leechers": 63,
+  "uploader": "jeff.barrett.VTpirate",
+  "files": 979,
+  "time": 1406090080,
+  "description": "Worth seeding a library on tpb. Please seed, I wont be able to forever!\n\nEnjoy, Download 1 or Download them all!\n\nwait for the torrent to load and select the files you want to see the full listing, or go here:\n",
+  "parsed": {
+    "xt": "urn:btih:ca6b59ae1eedff6479055fed0f596436f172b2b6",
+    "dn": "Huge For Dummies E-Book Collection",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ca6b59ae1eedff6479055fed0f596436f172b2b6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        202,
+        107,
+        89,
+        174,
+        30,
+        237,
+        255,
+        100,
+        121,
+        5,
+        95,
+        237,
+        15,
+        89,
+        100,
+        54,
+        241,
+        114,
+        178,
+        182
+      ]
+    },
+    "name": "Huge For Dummies E-Book Collection",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 128,
+  "peers": 108,
+  "last_updated": "2016-12-25T13:55:27.551Z"
+}

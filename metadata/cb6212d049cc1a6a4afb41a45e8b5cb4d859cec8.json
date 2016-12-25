@@ -1,1 +1,63 @@
-{"title":"Stephen Colbert 2016.09.29 Morgan Freeman WEB x264-SDI[state]","uid":15919125,"size":292036286,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:cb6212d049cc1a6a4afb41a45e8b5cb4d859cec8&amp;dn=Stephen+Colbert+2016.09.29+Morgan+Freeman+WEB+x264-SDI%5Bstate%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":19,"uploader":"stateofmind80","files":1,"time":1475233804,"description":"Format : MPEG-4\r\nFile size : 279 MiB\r\nDuration : 41mn 22s\r\nbit rate : 941 Kbps\r\nWidth : 720 pixels\r\nHeight : 406 pixels\r\naspect ratio : 16:9\r\nFrame rate : 29.970 fps\r\n\r\n\r\n\r\n2016 09 29 Morgan Freeman","torrent":{"xt":"urn:btih:cb6212d049cc1a6a4afb41a45e8b5cb4d859cec8","amp;dn":"Stephen+Colbert+2016.09.29+Morgan+Freeman+WEB+x264-SDI%5Bstate%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cb6212d049cc1a6a4afb41a45e8b5cb4d859cec8","infoHashBuffer":{"type":"Buffer","data":[203,98,18,208,73,204,26,106,74,251,65,164,94,139,92,180,216,89,206,200]},"announce":[],"urlList":[]}}
+{
+  "title": "Stephen Colbert 2016.09.29 Morgan Freeman WEB x264-SDI[state]",
+  "uid": 15919125,
+  "size": 292036286,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:cb6212d049cc1a6a4afb41a45e8b5cb4d859cec8&amp;dn=Stephen+Colbert+2016.09.29+Morgan+Freeman+WEB+x264-SDI%5Bstate%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 19,
+  "uploader": "stateofmind80",
+  "files": 1,
+  "time": 1475233804,
+  "description": "Format : MPEG-4\r\nFile size : 279 MiB\r\nDuration : 41mn 22s\r\nbit rate : 941 Kbps\r\nWidth : 720 pixels\r\nHeight : 406 pixels\r\naspect ratio : 16:9\r\nFrame rate : 29.970 fps\r\n\r\n\r\n\r\n2016 09 29 Morgan Freeman",
+  "parsed": {
+    "xt": "urn:btih:cb6212d049cc1a6a4afb41a45e8b5cb4d859cec8",
+    "dn": "Stephen Colbert 2016.09.29 Morgan Freeman WEB x264-SDI[state]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "cb6212d049cc1a6a4afb41a45e8b5cb4d859cec8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        203,
+        98,
+        18,
+        208,
+        73,
+        204,
+        26,
+        106,
+        74,
+        251,
+        65,
+        164,
+        94,
+        139,
+        92,
+        180,
+        216,
+        89,
+        206,
+        200
+      ]
+    },
+    "name": "Stephen Colbert 2016.09.29 Morgan Freeman WEB x264-SDI[state]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 30,
+  "last_updated": "2016-12-25T14:02:08.737Z"
+}

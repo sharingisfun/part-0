@@ -1,1 +1,61 @@
-{"title":"American.Horror.Story.S01E09.HDTV.XviD-P0W4.[VTV].avi","uid":6856462,"size":367272600,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:cb20054d82be88434a7469f70e2717474b8324ae&amp;dn=American.Horror.Story.S01E09.HDTV.XviD-P0W4.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":3,"uploader":"VTV","files":1,"time":1322719735,"description":"American Horror Story 1x09 (HDTV-P0W4)[VTV]","torrent":{"xt":"urn:btih:cb20054d82be88434a7469f70e2717474b8324ae","amp;dn":"American.Horror.Story.S01E09.HDTV.XviD-P0W4.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cb20054d82be88434a7469f70e2717474b8324ae","infoHashBuffer":{"type":"Buffer","data":[203,32,5,77,130,190,136,67,74,116,105,247,14,39,23,71,75,131,36,174]},"announce":[],"urlList":[]}}
+{
+  "title": "American.Horror.Story.S01E09.HDTV.XviD-P0W4.[VTV].avi",
+  "uid": 6856462,
+  "size": 367272600,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:cb20054d82be88434a7469f70e2717474b8324ae&amp;dn=American.Horror.Story.S01E09.HDTV.XviD-P0W4.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 3,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1322719735,
+  "description": "American Horror Story 1x09 (HDTV-P0W4)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:cb20054d82be88434a7469f70e2717474b8324ae",
+    "dn": "American.Horror.Story.S01E09.HDTV.XviD-P0W4.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cb20054d82be88434a7469f70e2717474b8324ae",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        203,
+        32,
+        5,
+        77,
+        130,
+        190,
+        136,
+        67,
+        74,
+        116,
+        105,
+        247,
+        14,
+        39,
+        23,
+        71,
+        75,
+        131,
+        36,
+        174
+      ]
+    },
+    "name": "American.Horror.Story.S01E09.HDTV.XviD-P0W4.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 10,
+  "last_updated": "2016-12-25T14:00:24.421Z"
+}

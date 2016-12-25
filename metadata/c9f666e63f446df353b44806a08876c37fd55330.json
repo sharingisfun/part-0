@@ -1,1 +1,61 @@
-{"title":"24 S09E06 HDTV x264-LOL [eztv]","uid":10285070,"size":294605956,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:c9f666e63f446df353b44806a08876c37fd55330&amp;dn=24+S09E06+HDTV+x264-LOL+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":6,"uploader":"eztv","files":1,"time":1401768856,"description":"Help us by donating with Bitcoin: 1EZTVaGQ6UsjYJ9fwqGnd45oZ6HGT7WKZd\n\n#EZTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by eztv.\n &lt;a href=&quot;\nhttps://eztv.it/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://eztv.it/&lt;/a&gt;\n\nEpisode: 24 S09E06 HDTV x264-LOL\nScreenshots:\n\n\n","torrent":{"xt":"urn:btih:c9f666e63f446df353b44806a08876c37fd55330","amp;dn":"24+S09E06+HDTV+x264-LOL+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c9f666e63f446df353b44806a08876c37fd55330","infoHashBuffer":{"type":"Buffer","data":[201,246,102,230,63,68,109,243,83,180,72,6,160,136,118,195,127,213,83,48]},"announce":[],"urlList":[]}}
+{
+  "title": "24 S09E06 HDTV x264-LOL [eztv]",
+  "uid": 10285070,
+  "size": 294605956,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:c9f666e63f446df353b44806a08876c37fd55330&amp;dn=24+S09E06+HDTV+x264-LOL+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 6,
+  "uploader": "eztv",
+  "files": 1,
+  "time": 1401768856,
+  "description": "Help us by donating with Bitcoin: 1EZTVaGQ6UsjYJ9fwqGnd45oZ6HGT7WKZd\n\n#EZTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by eztv.\n &lt;a href=&quot;\nhttps://eztv.it/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://eztv.it/&lt;/a&gt;\n\nEpisode: 24 S09E06 HDTV x264-LOL\nScreenshots:\n\n\n",
+  "parsed": {
+    "xt": "urn:btih:c9f666e63f446df353b44806a08876c37fd55330",
+    "dn": "24 S09E06 HDTV x264-LOL [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c9f666e63f446df353b44806a08876c37fd55330",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        201,
+        246,
+        102,
+        230,
+        63,
+        68,
+        109,
+        243,
+        83,
+        180,
+        72,
+        6,
+        160,
+        136,
+        118,
+        195,
+        127,
+        213,
+        83,
+        48
+      ]
+    },
+    "name": "24 S09E06 HDTV x264-LOL [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 6,
+  "last_updated": "2016-12-25T13:52:49.067Z"
+}

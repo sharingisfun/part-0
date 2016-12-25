@@ -1,1 +1,61 @@
-{"title":"Big.Brother.US.S17E39.HDTV.x264-[WRCR]","uid":12461559,"size":365734679,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ca7f2df064c271d40b7e3a71423911f4480d6a3a&amp;dn=Big.Brother.US.S17E39.HDTV.x264-%5BWRCR%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":1,"uploader":"xgimpyx","files":1,"time":1442809376,"description":"Big.Brother.US.S17E39.HDTV.x264-[WRCR]","torrent":{"xt":"urn:btih:ca7f2df064c271d40b7e3a71423911f4480d6a3a","amp;dn":"Big.Brother.US.S17E39.HDTV.x264-%5BWRCR%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ca7f2df064c271d40b7e3a71423911f4480d6a3a","infoHashBuffer":{"type":"Buffer","data":[202,127,45,240,100,194,113,212,11,126,58,113,66,57,17,244,72,13,106,58]},"announce":[],"urlList":[]}}
+{
+  "title": "Big.Brother.US.S17E39.HDTV.x264-[WRCR]",
+  "uid": 12461559,
+  "size": 365734679,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ca7f2df064c271d40b7e3a71423911f4480d6a3a&amp;dn=Big.Brother.US.S17E39.HDTV.x264-%5BWRCR%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 1,
+  "uploader": "xgimpyx",
+  "files": 1,
+  "time": 1442809376,
+  "description": "Big.Brother.US.S17E39.HDTV.x264-[WRCR]",
+  "parsed": {
+    "xt": "urn:btih:ca7f2df064c271d40b7e3a71423911f4480d6a3a",
+    "dn": "Big.Brother.US.S17E39.HDTV.x264-[WRCR]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ca7f2df064c271d40b7e3a71423911f4480d6a3a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        202,
+        127,
+        45,
+        240,
+        100,
+        194,
+        113,
+        212,
+        11,
+        126,
+        58,
+        113,
+        66,
+        57,
+        17,
+        244,
+        72,
+        13,
+        106,
+        58
+      ]
+    },
+    "name": "Big.Brother.US.S17E39.HDTV.x264-[WRCR]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 1,
+  "last_updated": "2016-12-25T13:56:03.654Z"
+}

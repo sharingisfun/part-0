@@ -1,1 +1,61 @@
-{"title":"Magic! - Rude (jax92003)","uid":9596685,"size":8473428,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:c9f75f24b1c883b67b07c6dfb95c53ff09d73d05&amp;dn=Magic%21+-+Rude+%28jax92003%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":97,"leechers":0,"uploader":"ty92003","files":1,"time":1391992195,"description":"Please Seed\n &lt;a href=&quot;\nhttp://daves-world.netai.net/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://daves-world.netai.net/&lt;/a&gt;","torrent":{"xt":"urn:btih:c9f75f24b1c883b67b07c6dfb95c53ff09d73d05","amp;dn":"Magic%21+-+Rude+%28jax92003%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c9f75f24b1c883b67b07c6dfb95c53ff09d73d05","infoHashBuffer":{"type":"Buffer","data":[201,247,95,36,177,200,131,182,123,7,198,223,185,92,83,255,9,215,61,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Magic! - Rude (jax92003)",
+  "uid": 9596685,
+  "size": 8473428,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:c9f75f24b1c883b67b07c6dfb95c53ff09d73d05&amp;dn=Magic%21+-+Rude+%28jax92003%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 97,
+  "leechers": 0,
+  "uploader": "ty92003",
+  "files": 1,
+  "time": 1391992195,
+  "description": "Please Seed\n &lt;a href=&quot;\nhttp://daves-world.netai.net/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://daves-world.netai.net/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:c9f75f24b1c883b67b07c6dfb95c53ff09d73d05",
+    "dn": "Magic! - Rude (jax92003)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c9f75f24b1c883b67b07c6dfb95c53ff09d73d05",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        201,
+        247,
+        95,
+        36,
+        177,
+        200,
+        131,
+        182,
+        123,
+        7,
+        198,
+        223,
+        185,
+        92,
+        83,
+        255,
+        9,
+        215,
+        61,
+        5
+      ]
+    },
+    "name": "Magic! - Rude (jax92003)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 97,
+  "peers": 9,
+  "last_updated": "2016-12-25T13:52:51.073Z"
+}

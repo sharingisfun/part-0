@@ -1,1 +1,63 @@
-{"title":"Planetbase (v1.2.0) GOG","uid":15478528,"size":360976700,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:cb39714c4cc82ffa50cde7a9d18a4ed2697ff08a&amp;dn=Planetbase+%28v1.2.0%29+GOG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":2,"uploader":"Itanium2","files":4,"time":1470217384,"description":"Version: 1.2.0 (24 June 2016)\r\nGenre: Strategy - Building - Sci-fi\r\nWorks on: Windows (7, 8, 10)\r\nLanguages: Text only: Deutsch, English, espaÃ±ol, franÃ§ais\r\nFeatures: single-player\r\nReleased: October 16, 2015\r\nSize: 285.4 MB\r\nCompany: Madruga Works / Madruga Works\r\n \nhttps://www.gog.com/game/planetbase\r\n\r\nAbout: \r\nPlanetbase is a strategy game where you guide a group of space settlers trying to establish an outpost on a remote planet.\r\nIn the game you play the role of the base architect and manager, telling your colonists where to build the structures they will need to survive. You will have to ensure that they have a constant supply of oxygen, food and water to stay alive.\r\nYou will get them to collect energy, extract water, mine metal, grow food, manufacture bots, and build a fully self-sufficient base in a harsh environment, where you are always one step away from total failure.\r\nEven if the game is not intended to be a simulator, all the mechanics are plausible, and based on what the expected challenges of establishing a colony in an new planet would be.\r\n\r\nInstall instructions:\r\n- Run &quot;setup_planetbase_2.1.0.3.exe&quot;\r\n- Play","torrent":{"xt":"urn:btih:cb39714c4cc82ffa50cde7a9d18a4ed2697ff08a","amp;dn":"Planetbase+%28v1.2.0%29+GOG","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cb39714c4cc82ffa50cde7a9d18a4ed2697ff08a","infoHashBuffer":{"type":"Buffer","data":[203,57,113,76,76,200,47,250,80,205,231,169,209,138,78,210,105,127,240,138]},"announce":[],"urlList":[]}}
+{
+  "title": "Planetbase (v1.2.0) GOG",
+  "uid": 15478528,
+  "size": 360976700,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:cb39714c4cc82ffa50cde7a9d18a4ed2697ff08a&amp;dn=Planetbase+%28v1.2.0%29+GOG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 2,
+  "uploader": "Itanium2",
+  "files": 4,
+  "time": 1470217384,
+  "description": "Version: 1.2.0 (24 June 2016)\r\nGenre: Strategy - Building - Sci-fi\r\nWorks on: Windows (7, 8, 10)\r\nLanguages: Text only: Deutsch, English, espaÃ±ol, franÃ§ais\r\nFeatures: single-player\r\nReleased: October 16, 2015\r\nSize: 285.4 MB\r\nCompany: Madruga Works / Madruga Works\r\n \nhttps://www.gog.com/game/planetbase\r\n\r\nAbout: \r\nPlanetbase is a strategy game where you guide a group of space settlers trying to establish an outpost on a remote planet.\r\nIn the game you play the role of the base architect and manager, telling your colonists where to build the structures they will need to survive. You will have to ensure that they have a constant supply of oxygen, food and water to stay alive.\r\nYou will get them to collect energy, extract water, mine metal, grow food, manufacture bots, and build a fully self-sufficient base in a harsh environment, where you are always one step away from total failure.\r\nEven if the game is not intended to be a simulator, all the mechanics are plausible, and based on what the expected challenges of establishing a colony in an new planet would be.\r\n\r\nInstall instructions:\r\n- Run &quot;setup_planetbase_2.1.0.3.exe&quot;\r\n- Play",
+  "parsed": {
+    "xt": "urn:btih:cb39714c4cc82ffa50cde7a9d18a4ed2697ff08a",
+    "dn": "Planetbase (v1.2.0) GOG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "cb39714c4cc82ffa50cde7a9d18a4ed2697ff08a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        203,
+        57,
+        113,
+        76,
+        76,
+        200,
+        47,
+        250,
+        80,
+        205,
+        231,
+        169,
+        209,
+        138,
+        78,
+        210,
+        105,
+        127,
+        240,
+        138
+      ]
+    },
+    "name": "Planetbase (v1.2.0) GOG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 235,
+  "last_updated": "2016-12-25T14:01:10.563Z"
+}
