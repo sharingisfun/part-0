@@ -1,1 +1,61 @@
-{"title":"Family Guy S13E09 HDTV x264-KILLERS [eztv]","uid":11672888,"size":84557447,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:72c6d8a79bf79fb66e753d68e028754db629d46d&amp;dn=Family+Guy+S13E09+HDTV+x264-KILLERS+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":241,"leechers":9,"uploader":"Mbb15","files":1,"time":1422738224,"description":"In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another","torrent":{"xt":"urn:btih:72c6d8a79bf79fb66e753d68e028754db629d46d","amp;dn":"Family+Guy+S13E09+HDTV+x264-KILLERS+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"72c6d8a79bf79fb66e753d68e028754db629d46d","infoHashBuffer":{"type":"Buffer","data":[114,198,216,167,155,247,159,182,110,117,61,104,224,40,117,77,182,41,212,109]},"announce":[],"urlList":[]}}
+{
+  "title": "Family Guy S13E09 HDTV x264-KILLERS [eztv]",
+  "uid": 11672888,
+  "size": 84557447,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:72c6d8a79bf79fb66e753d68e028754db629d46d&amp;dn=Family+Guy+S13E09+HDTV+x264-KILLERS+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 241,
+  "leechers": 9,
+  "uploader": "Mbb15",
+  "files": 1,
+  "time": 1422738224,
+  "description": "In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another",
+  "parsed": {
+    "xt": "urn:btih:72c6d8a79bf79fb66e753d68e028754db629d46d",
+    "dn": "Family Guy S13E09 HDTV x264-KILLERS [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "72c6d8a79bf79fb66e753d68e028754db629d46d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        114,
+        198,
+        216,
+        167,
+        155,
+        247,
+        159,
+        182,
+        110,
+        117,
+        61,
+        104,
+        224,
+        40,
+        117,
+        77,
+        182,
+        41,
+        212,
+        109
+      ]
+    },
+    "name": "Family Guy S13E09 HDTV x264-KILLERS [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 250,
+  "peers": 23,
+  "last_updated": "2016-12-25T04:38:43.674Z"
+}

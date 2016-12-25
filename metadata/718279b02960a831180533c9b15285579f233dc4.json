@@ -1,1 +1,61 @@
-{"title":"Castle Season 5","uid":8512886,"size":6968826626,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:718279b02960a831180533c9b15285579f233dc4&amp;dn=Castle+Season+5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":98,"leechers":58,"uploader":"smkwndw","files":25,"time":1369624686,"description":"Castle Season 5. Compiled from multiple sources for easy distribution. Multiple codecs, most are HD.","torrent":{"xt":"urn:btih:718279b02960a831180533c9b15285579f233dc4","amp;dn":"Castle+Season+5","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"718279b02960a831180533c9b15285579f233dc4","infoHashBuffer":{"type":"Buffer","data":[113,130,121,176,41,96,168,49,24,5,51,201,177,82,133,87,159,35,61,196]},"announce":[],"urlList":[]}}
+{
+  "title": "Castle Season 5",
+  "uid": 8512886,
+  "size": 6968826626,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:718279b02960a831180533c9b15285579f233dc4&amp;dn=Castle+Season+5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 98,
+  "leechers": 58,
+  "uploader": "smkwndw",
+  "files": 25,
+  "time": 1369624686,
+  "description": "Castle Season 5. Compiled from multiple sources for easy distribution. Multiple codecs, most are HD.",
+  "parsed": {
+    "xt": "urn:btih:718279b02960a831180533c9b15285579f233dc4",
+    "dn": "Castle Season 5",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "718279b02960a831180533c9b15285579f233dc4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        113,
+        130,
+        121,
+        176,
+        41,
+        96,
+        168,
+        49,
+        24,
+        5,
+        51,
+        201,
+        177,
+        82,
+        133,
+        87,
+        159,
+        35,
+        61,
+        196
+      ]
+    },
+    "name": "Castle Season 5",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 156,
+  "peers": 0,
+  "last_updated": "2016-12-25T04:30:28.036Z"
+}

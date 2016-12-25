@@ -1,1 +1,61 @@
-{"title":"Earl Sweatshirt - Doris","uid":8832963,"size":108578793,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:720842452ca64e61ad52d5a820c10da1a8bf3a67&amp;dn=Earl+Sweatshirt+-+Doris&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":0,"uploader":"la_musica1","files":17,"time":1377036257,"description":"Earl Sweatshirt - Doris. Released August 20 2013\n\n1.  Pre (feat. SK La' Flare)\n2.  Burgundy (feat. Vince Staples)\n3.  20 Wave Caps (feat. Domo Genesis)\n4.  Sunday (feat. Frank Ocean)\n5.  Hive (feat. Vince Staples &amp; Casey Veggies)\n6.  Chum\n7.  Sasquatch (feat. Tyler, The Creator)\n8.  Centurion (feat. Vince Staples)\n9.  523\n10. Uncle Al\n11. Guild (feat. Mac Miller)\n12. Molasses (feat. RZA)\n13. Whoa (feat. Tyler, The Creator)\n14. Hoarse\n15. Knight (feat. Domo Genesis)\n\ncloudhoppin.com","torrent":{"xt":"urn:btih:720842452ca64e61ad52d5a820c10da1a8bf3a67","amp;dn":"Earl+Sweatshirt+-+Doris","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"720842452ca64e61ad52d5a820c10da1a8bf3a67","infoHashBuffer":{"type":"Buffer","data":[114,8,66,69,44,166,78,97,173,82,213,168,32,193,13,161,168,191,58,103]},"announce":[],"urlList":[]}}
+{
+  "title": "Earl Sweatshirt - Doris",
+  "uid": 8832963,
+  "size": 108578793,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:720842452ca64e61ad52d5a820c10da1a8bf3a67&amp;dn=Earl+Sweatshirt+-+Doris&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 0,
+  "uploader": "la_musica1",
+  "files": 17,
+  "time": 1377036257,
+  "description": "Earl Sweatshirt - Doris. Released August 20 2013\n\n1.  Pre (feat. SK La' Flare)\n2.  Burgundy (feat. Vince Staples)\n3.  20 Wave Caps (feat. Domo Genesis)\n4.  Sunday (feat. Frank Ocean)\n5.  Hive (feat. Vince Staples &amp; Casey Veggies)\n6.  Chum\n7.  Sasquatch (feat. Tyler, The Creator)\n8.  Centurion (feat. Vince Staples)\n9.  523\n10. Uncle Al\n11. Guild (feat. Mac Miller)\n12. Molasses (feat. RZA)\n13. Whoa (feat. Tyler, The Creator)\n14. Hoarse\n15. Knight (feat. Domo Genesis)\n\ncloudhoppin.com",
+  "parsed": {
+    "xt": "urn:btih:720842452ca64e61ad52d5a820c10da1a8bf3a67",
+    "dn": "Earl Sweatshirt - Doris",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "720842452ca64e61ad52d5a820c10da1a8bf3a67",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        114,
+        8,
+        66,
+        69,
+        44,
+        166,
+        78,
+        97,
+        173,
+        82,
+        213,
+        168,
+        32,
+        193,
+        13,
+        161,
+        168,
+        191,
+        58,
+        103
+      ]
+    },
+    "name": "Earl Sweatshirt - Doris",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 17,
+  "last_updated": "2016-12-25T04:33:44.618Z"
+}

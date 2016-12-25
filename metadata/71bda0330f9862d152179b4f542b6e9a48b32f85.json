@@ -1,1 +1,61 @@
-{"title":"Worms Armageddon 3.6.31 [Windows 7][NoCD]","uid":7354594,"size":436312685,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:71bda0330f9862d152179b4f542b6e9a48b32f85&amp;dn=Worms+Armageddon+3.6.31+%5BWindows+7%5D%5BNoCD%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":"izoniazyd","files":1,"time":1339717724,"description":"This is the latest version of Worms Armageddon.\n\nNo Crack needed.\nWorks perfectly on Windows 7/Vista.\n\nI couldn't test it on Windows 8 - please let me know if it works (in the comments).\n\nShare and enjoy the game of 2000's :)\n","torrent":{"xt":"urn:btih:71bda0330f9862d152179b4f542b6e9a48b32f85","amp;dn":"Worms+Armageddon+3.6.31+%5BWindows+7%5D%5BNoCD%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"71bda0330f9862d152179b4f542b6e9a48b32f85","infoHashBuffer":{"type":"Buffer","data":[113,189,160,51,15,152,98,209,82,23,155,79,84,43,110,154,72,179,47,133]},"announce":[],"urlList":[]}}
+{
+  "title": "Worms Armageddon 3.6.31 [Windows 7][NoCD]",
+  "uid": 7354594,
+  "size": 436312685,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:71bda0330f9862d152179b4f542b6e9a48b32f85&amp;dn=Worms+Armageddon+3.6.31+%5BWindows+7%5D%5BNoCD%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": "izoniazyd",
+  "files": 1,
+  "time": 1339717724,
+  "description": "This is the latest version of Worms Armageddon.\n\nNo Crack needed.\nWorks perfectly on Windows 7/Vista.\n\nI couldn't test it on Windows 8 - please let me know if it works (in the comments).\n\nShare and enjoy the game of 2000's :)\n",
+  "parsed": {
+    "xt": "urn:btih:71bda0330f9862d152179b4f542b6e9a48b32f85",
+    "dn": "Worms Armageddon 3.6.31 [Windows 7][NoCD]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "71bda0330f9862d152179b4f542b6e9a48b32f85",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        113,
+        189,
+        160,
+        51,
+        15,
+        152,
+        98,
+        209,
+        82,
+        23,
+        155,
+        79,
+        84,
+        43,
+        110,
+        154,
+        72,
+        179,
+        47,
+        133
+      ]
+    },
+    "name": "Worms Armageddon 3.6.31 [Windows 7][NoCD]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 36,
+  "last_updated": "2016-12-25T04:32:00.325Z"
+}

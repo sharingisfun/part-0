@@ -1,1 +1,61 @@
-{"title":"Mean Girls [2004] ENG dvdrip","uid":3576270,"size":732708911,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:70ea3ce6f11da0b97e8a1d3a5187372ee5f75e0a&amp;dn=Mean+Girls+%5B2004%5D+ENG+dvdrip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":97,"leechers":0,"uploader":"maskotka6","files":2,"time":1166050803,"description":"Plot Outline: Cady Heron (Lindsay Lohan) is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels (Bennett), the ex-boyfriend of alpha Plastic Regina George (McAdams).\n\nMORE INFO: http://www.imdb.com/title/tt0377092/\n\nLanguage: ENG\nQuality: DVDRIP\n","torrent":{"xt":"urn:btih:70ea3ce6f11da0b97e8a1d3a5187372ee5f75e0a","amp;dn":"Mean+Girls+%5B2004%5D+ENG+dvdrip","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"70ea3ce6f11da0b97e8a1d3a5187372ee5f75e0a","infoHashBuffer":{"type":"Buffer","data":[112,234,60,230,241,29,160,185,126,138,29,58,81,135,55,46,229,247,94,10]},"announce":[],"urlList":[]}}
+{
+  "title": "Mean Girls [2004] ENG dvdrip",
+  "uid": 3576270,
+  "size": 732708911,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:70ea3ce6f11da0b97e8a1d3a5187372ee5f75e0a&amp;dn=Mean+Girls+%5B2004%5D+ENG+dvdrip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 97,
+  "leechers": 0,
+  "uploader": "maskotka6",
+  "files": 2,
+  "time": 1166050803,
+  "description": "Plot Outline: Cady Heron (Lindsay Lohan) is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels (Bennett), the ex-boyfriend of alpha Plastic Regina George (McAdams).\n\nMORE INFO: http://www.imdb.com/title/tt0377092/\n\nLanguage: ENG\nQuality: DVDRIP\n",
+  "parsed": {
+    "xt": "urn:btih:70ea3ce6f11da0b97e8a1d3a5187372ee5f75e0a",
+    "dn": "Mean Girls [2004] ENG dvdrip",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "70ea3ce6f11da0b97e8a1d3a5187372ee5f75e0a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        112,
+        234,
+        60,
+        230,
+        241,
+        29,
+        160,
+        185,
+        126,
+        138,
+        29,
+        58,
+        81,
+        135,
+        55,
+        46,
+        229,
+        247,
+        94,
+        10
+      ]
+    },
+    "name": "Mean Girls [2004] ENG dvdrip",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 97,
+  "peers": 64,
+  "last_updated": "2016-12-25T04:26:53.399Z"
+}

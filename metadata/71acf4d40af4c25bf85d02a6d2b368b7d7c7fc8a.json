@@ -1,1 +1,61 @@
-{"title":"Ed Sheeran - Thinking Out Loud","uid":11650478,"size":12644755,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:71acf4d40af4c25bf85d02a6d2b368b7d7c7fc8a&amp;dn=Ed+Sheeran+-+Thinking+Out+Loud&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":12,"uploader":"Arvind007","files":2,"time":1417824822,"description":"Ed Sheeran - Thinking Out Loud\n\n\n\nAudio\n\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nMode extension : MS Stereo\nDuration : 4mn 36s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nStream size : 10.5 MiB (93%)","torrent":{"xt":"urn:btih:71acf4d40af4c25bf85d02a6d2b368b7d7c7fc8a","amp;dn":"Ed+Sheeran+-+Thinking+Out+Loud","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"71acf4d40af4c25bf85d02a6d2b368b7d7c7fc8a","infoHashBuffer":{"type":"Buffer","data":[113,172,244,212,10,244,194,91,248,93,2,166,210,179,104,183,215,199,252,138]},"announce":[],"urlList":[]}}
+{
+  "title": "Ed Sheeran - Thinking Out Loud",
+  "uid": 11650478,
+  "size": 12644755,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:71acf4d40af4c25bf85d02a6d2b368b7d7c7fc8a&amp;dn=Ed+Sheeran+-+Thinking+Out+Loud&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 12,
+  "uploader": "Arvind007",
+  "files": 2,
+  "time": 1417824822,
+  "description": "Ed Sheeran - Thinking Out Loud\n\n\n\nAudio\n\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nMode extension : MS Stereo\nDuration : 4mn 36s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nStream size : 10.5 MiB (93%)",
+  "parsed": {
+    "xt": "urn:btih:71acf4d40af4c25bf85d02a6d2b368b7d7c7fc8a",
+    "dn": "Ed Sheeran - Thinking Out Loud",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "71acf4d40af4c25bf85d02a6d2b368b7d7c7fc8a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        113,
+        172,
+        244,
+        212,
+        10,
+        244,
+        194,
+        91,
+        248,
+        93,
+        2,
+        166,
+        210,
+        179,
+        104,
+        183,
+        215,
+        199,
+        252,
+        138
+      ]
+    },
+    "name": "Ed Sheeran - Thinking Out Loud",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 91,
+  "peers": 50,
+  "last_updated": "2016-12-25T04:31:36.243Z"
+}

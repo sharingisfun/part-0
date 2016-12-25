@@ -1,1 +1,61 @@
-{"title":"Outlander S01E01 PDTV XviD-FUM[ettv]","uid":10681132,"size":516299552,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:70f83f5dbd4e2ccd2d8389b5d0e1120263d7972f&amp;dn=Outlander+S01E01+PDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":2,"uploader":"ettv","files":2,"time":1407030948,"description":"FUM\nXviD Video : 1 124 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 624x350 &lt;a href=&quot;\nhttp://www.tvrage.com/shows/id-36202&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.tvrage.com/shows/id-36202&lt;/a&gt;","torrent":{"xt":"urn:btih:70f83f5dbd4e2ccd2d8389b5d0e1120263d7972f","amp;dn":"Outlander+S01E01+PDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"70f83f5dbd4e2ccd2d8389b5d0e1120263d7972f","infoHashBuffer":{"type":"Buffer","data":[112,248,63,93,189,78,44,205,45,131,137,181,208,225,18,2,99,215,151,47]},"announce":[],"urlList":[]}}
+{
+  "title": "Outlander S01E01 PDTV XviD-FUM[ettv]",
+  "uid": 10681132,
+  "size": 516299552,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:70f83f5dbd4e2ccd2d8389b5d0e1120263d7972f&amp;dn=Outlander+S01E01+PDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1407030948,
+  "description": "FUM\nXviD Video : 1 124 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 624x350 &lt;a href=&quot;\nhttp://www.tvrage.com/shows/id-36202&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.tvrage.com/shows/id-36202&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:70f83f5dbd4e2ccd2d8389b5d0e1120263d7972f",
+    "dn": "Outlander S01E01 PDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "70f83f5dbd4e2ccd2d8389b5d0e1120263d7972f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        112,
+        248,
+        63,
+        93,
+        189,
+        78,
+        44,
+        205,
+        45,
+        131,
+        137,
+        181,
+        208,
+        225,
+        18,
+        2,
+        99,
+        215,
+        151,
+        47
+      ]
+    },
+    "name": "Outlander S01E01 PDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 17,
+  "last_updated": "2016-12-25T04:27:19.482Z"
+}

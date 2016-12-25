@@ -1,1 +1,61 @@
-{"title":"One Tree Hill (Season 1) - 2003 - FDM7","uid":4625510,"size":8047607808,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:7133ca9353b66a09cee0b2cdcb6c37a319be70d1&amp;dn=One+Tree+Hill+%28Season+1%29+-+2003+-+FDM7&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":21,"uploader":"FDM7","files":22,"time":1231196072,"description":"This series follows the eventful lives of some high-school kids in Tree Hill, a small but not too quiet town in North Carolina.","torrent":{"xt":"urn:btih:7133ca9353b66a09cee0b2cdcb6c37a319be70d1","amp;dn":"One+Tree+Hill+%28Season+1%29+-+2003+-+FDM7","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7133ca9353b66a09cee0b2cdcb6c37a319be70d1","infoHashBuffer":{"type":"Buffer","data":[113,51,202,147,83,182,106,9,206,224,178,205,203,108,55,163,25,190,112,209]},"announce":[],"urlList":[]}}
+{
+  "title": "One Tree Hill (Season 1) - 2003 - FDM7",
+  "uid": 4625510,
+  "size": 8047607808,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:7133ca9353b66a09cee0b2cdcb6c37a319be70d1&amp;dn=One+Tree+Hill+%28Season+1%29+-+2003+-+FDM7&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 21,
+  "uploader": "FDM7",
+  "files": 22,
+  "time": 1231196072,
+  "description": "This series follows the eventful lives of some high-school kids in Tree Hill, a small but not too quiet town in North Carolina.",
+  "parsed": {
+    "xt": "urn:btih:7133ca9353b66a09cee0b2cdcb6c37a319be70d1",
+    "dn": "One Tree Hill (Season 1) - 2003 - FDM7",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7133ca9353b66a09cee0b2cdcb6c37a319be70d1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        113,
+        51,
+        202,
+        147,
+        83,
+        182,
+        106,
+        9,
+        206,
+        224,
+        178,
+        205,
+        203,
+        108,
+        55,
+        163,
+        25,
+        190,
+        112,
+        209
+      ]
+    },
+    "name": "One Tree Hill (Season 1) - 2003 - FDM7",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 99,
+  "last_updated": "2016-12-25T04:28:43.709Z"
+}

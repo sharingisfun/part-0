@@ -1,1 +1,63 @@
-{"title":"ESET NOD32 Antivirus-Smart Security v8.0.312.0","uid":15963911,"size":31626096,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:72f9f7cc9aebdc08b16b4801aeee1da3a105836e&amp;dn=ESET+NOD32+Antivirus-Smart+Security+v8.0.312.0&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":1945,"leechers":261,"uploader":"gDeinad","files":1,"time":1475703724,"description":"\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program","torrent":{"xt":"urn:btih:72f9f7cc9aebdc08b16b4801aeee1da3a105836e","amp;dn":"ESET+NOD32+Antivirus-Smart+Security+v8.0.312.0","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"72f9f7cc9aebdc08b16b4801aeee1da3a105836e","infoHashBuffer":{"type":"Buffer","data":[114,249,247,204,154,235,220,8,177,107,72,1,174,238,29,163,161,5,131,110]},"announce":[],"urlList":[]}}
+{
+  "title": "ESET NOD32 Antivirus-Smart Security v8.0.312.0",
+  "uid": 15963911,
+  "size": 31626096,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:72f9f7cc9aebdc08b16b4801aeee1da3a105836e&amp;dn=ESET+NOD32+Antivirus-Smart+Security+v8.0.312.0&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 1945,
+  "leechers": 261,
+  "uploader": "gDeinad",
+  "files": 1,
+  "time": 1475703724,
+  "description": "\n\r\n\r\n\r\n1) Unpack and install\r\n2) Use the key generator to generate a valid serial\r\n3) Enjoy this release!\r\n\r\nDon't Forget to buy the program",
+  "parsed": {
+    "xt": "urn:btih:72f9f7cc9aebdc08b16b4801aeee1da3a105836e",
+    "dn": "ESET NOD32 Antivirus-Smart Security v8.0.312.0",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "72f9f7cc9aebdc08b16b4801aeee1da3a105836e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        114,
+        249,
+        247,
+        204,
+        154,
+        235,
+        220,
+        8,
+        177,
+        107,
+        72,
+        1,
+        174,
+        238,
+        29,
+        163,
+        161,
+        5,
+        131,
+        110
+      ]
+    },
+    "name": "ESET NOD32 Antivirus-Smart Security v8.0.312.0",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 2206,
+  "peers": 2,
+  "last_updated": "2016-12-25T04:40:01.953Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Megadeth - Greatest Hits ( Back To The Start)","uid":5245995,"size":187762816,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:71cb0a99035604d97dd75d81ce7728b56e6f0635&amp;dn=Megadeth+-+Greatest+Hits+%28+Back+To+The+Start%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":3,"uploader":"fatika","files":17,"time":1261992983,"description":"Capitol Records (2005)\n\n\nQuality:320 Kbps - mp3\t\n\n\n 1. Holy Wars...The Punishment Due (6:32)\n 2. In My Darkest Hour (6:26)\n 3. Peace Sells (4:02)\n 4. Sweating Bullets (5:26)\n 5. Angry Again (3:47)\n 6. A Tout Le Monde (4:25)\n 7. Trust (5:12)\n 8. Kill The King (3:42)\n 9. Symphony Of Destruction (4:06)\n10. Mechanix (2002 remix) (4:21)\n11. Train of Consequences (3:32)\n12. Wake Up Dead (3:38)\n13. Hangar 18 (5:12)\n14. Dread And The Fugitive Mind (4:23)\n15. Skin O' My Teeth (3:15)\n16. She-Wolf (3:39)\n17. Prince Of Darkness (6:28)\n\nTotal time: 78:06","torrent":{"xt":"urn:btih:71cb0a99035604d97dd75d81ce7728b56e6f0635","amp;dn":"Megadeth+-+Greatest+Hits+%28+Back+To+The+Start%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"71cb0a99035604d97dd75d81ce7728b56e6f0635","infoHashBuffer":{"type":"Buffer","data":[113,203,10,153,3,86,4,217,125,215,93,129,206,119,40,181,110,111,6,53]},"announce":[],"urlList":[]}}
+{
+  "title": "Megadeth - Greatest Hits ( Back To The Start)",
+  "uid": 5245995,
+  "size": 187762816,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:71cb0a99035604d97dd75d81ce7728b56e6f0635&amp;dn=Megadeth+-+Greatest+Hits+%28+Back+To+The+Start%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 3,
+  "uploader": "fatika",
+  "files": 17,
+  "time": 1261992983,
+  "description": "Capitol Records (2005)\n\n\nQuality:320 Kbps - mp3\t\n\n\n 1. Holy Wars...The Punishment Due (6:32)\n 2. In My Darkest Hour (6:26)\n 3. Peace Sells (4:02)\n 4. Sweating Bullets (5:26)\n 5. Angry Again (3:47)\n 6. A Tout Le Monde (4:25)\n 7. Trust (5:12)\n 8. Kill The King (3:42)\n 9. Symphony Of Destruction (4:06)\n10. Mechanix (2002 remix) (4:21)\n11. Train of Consequences (3:32)\n12. Wake Up Dead (3:38)\n13. Hangar 18 (5:12)\n14. Dread And The Fugitive Mind (4:23)\n15. Skin O' My Teeth (3:15)\n16. She-Wolf (3:39)\n17. Prince Of Darkness (6:28)\n\nTotal time: 78:06",
+  "parsed": {
+    "xt": "urn:btih:71cb0a99035604d97dd75d81ce7728b56e6f0635",
+    "dn": "Megadeth - Greatest Hits ( Back To The Start)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "71cb0a99035604d97dd75d81ce7728b56e6f0635",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        113,
+        203,
+        10,
+        153,
+        3,
+        86,
+        4,
+        217,
+        125,
+        215,
+        93,
+        129,
+        206,
+        119,
+        40,
+        181,
+        110,
+        111,
+        6,
+        53
+      ]
+    },
+    "name": "Megadeth - Greatest Hits ( Back To The Start)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 18,
+  "last_updated": "2016-12-25T04:32:22.385Z"
+}

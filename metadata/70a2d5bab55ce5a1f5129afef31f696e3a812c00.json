@@ -1,1 +1,61 @@
-{"title":"Minecraft 1.6.4","uid":9185780,"size":66729528,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:70a2d5bab55ce5a1f5129afef31f696e3a812c00&amp;dn=Minecraft+1.6.4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":0,"uploader":"MrRem300","files":-1,"time":1384299130,"description":"Minecraft 1.6.4 launcher","torrent":{"xt":"urn:btih:70a2d5bab55ce5a1f5129afef31f696e3a812c00","amp;dn":"Minecraft+1.6.4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"70a2d5bab55ce5a1f5129afef31f696e3a812c00","infoHashBuffer":{"type":"Buffer","data":[112,162,213,186,181,92,229,161,245,18,154,254,243,31,105,110,58,129,44,0]},"announce":[],"urlList":[]}}
+{
+  "title": "Minecraft 1.6.4",
+  "uid": 9185780,
+  "size": 66729528,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:70a2d5bab55ce5a1f5129afef31f696e3a812c00&amp;dn=Minecraft+1.6.4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 0,
+  "uploader": "MrRem300",
+  "files": -1,
+  "time": 1384299130,
+  "description": "Minecraft 1.6.4 launcher",
+  "parsed": {
+    "xt": "urn:btih:70a2d5bab55ce5a1f5129afef31f696e3a812c00",
+    "dn": "Minecraft 1.6.4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "70a2d5bab55ce5a1f5129afef31f696e3a812c00",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        112,
+        162,
+        213,
+        186,
+        181,
+        92,
+        229,
+        161,
+        245,
+        18,
+        154,
+        254,
+        243,
+        31,
+        105,
+        110,
+        58,
+        129,
+        44,
+        0
+      ]
+    },
+    "name": "Minecraft 1.6.4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 3,
+  "last_updated": "2016-12-25T04:25:11.100Z"
+}

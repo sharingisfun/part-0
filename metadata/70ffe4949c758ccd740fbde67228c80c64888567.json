@@ -1,1 +1,61 @@
-{"title":"Pro.Evolution.Soccer.2014.PS2.PAL.MULTI 2.ITA.GRE.iso","uid":9498162,"size":1449656320,"categoryP":"games","categoryS":"psx","magnet":"?xt=urn:btih:70ffe4949c758ccd740fbde67228c80c64888567&amp;dn=Pro.Evolution.Soccer.2014.PS2.PAL.MULTI+2.ITA.GRE.iso&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":6,"uploader":"rai199807","files":1,"time":1390159073,"description":"Rated:\nRuntime:\nGenre: Sport\nDirector: Mark Estdale\nWriter:\nActors: Jon Champion, Mark\nLawrenson\nIMDB: 7.0 (322 Votes)","torrent":{"xt":"urn:btih:70ffe4949c758ccd740fbde67228c80c64888567","amp;dn":"Pro.Evolution.Soccer.2014.PS2.PAL.MULTI+2.ITA.GRE.iso","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"70ffe4949c758ccd740fbde67228c80c64888567","infoHashBuffer":{"type":"Buffer","data":[112,255,228,148,156,117,140,205,116,15,189,230,114,40,200,12,100,136,133,103]},"announce":[],"urlList":[]}}
+{
+  "title": "Pro.Evolution.Soccer.2014.PS2.PAL.MULTI 2.ITA.GRE.iso",
+  "uid": 9498162,
+  "size": 1449656320,
+  "categoryP": "games",
+  "categoryS": "psx",
+  "magnet": "?xt=urn:btih:70ffe4949c758ccd740fbde67228c80c64888567&amp;dn=Pro.Evolution.Soccer.2014.PS2.PAL.MULTI+2.ITA.GRE.iso&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 6,
+  "uploader": "rai199807",
+  "files": 1,
+  "time": 1390159073,
+  "description": "Rated:\nRuntime:\nGenre: Sport\nDirector: Mark Estdale\nWriter:\nActors: Jon Champion, Mark\nLawrenson\nIMDB: 7.0 (322 Votes)",
+  "parsed": {
+    "xt": "urn:btih:70ffe4949c758ccd740fbde67228c80c64888567",
+    "dn": "Pro.Evolution.Soccer.2014.PS2.PAL.MULTI 2.ITA.GRE.iso",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "70ffe4949c758ccd740fbde67228c80c64888567",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        112,
+        255,
+        228,
+        148,
+        156,
+        117,
+        140,
+        205,
+        116,
+        15,
+        189,
+        230,
+        114,
+        40,
+        200,
+        12,
+        100,
+        136,
+        133,
+        103
+      ]
+    },
+    "name": "Pro.Evolution.Soccer.2014.PS2.PAL.MULTI 2.ITA.GRE.iso",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 5,
+  "last_updated": "2016-12-25T04:27:35.527Z"
+}

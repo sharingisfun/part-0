@@ -1,1 +1,63 @@
-{"title":"Future - Project ET (Hosted by DJ Esco)","uid":15114144,"size":171978366,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:7251e123f5c42ca402516a79f00e07dfedb58918&amp;dn=Future+-+Project+ET+%28Hosted+by+DJ+Esco%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":6,"uploader":"drasticj","files":23,"time":1467033526,"description":"Future- DJ Esco New Mixtatp","torrent":{"xt":"urn:btih:7251e123f5c42ca402516a79f00e07dfedb58918","amp;dn":"Future+-+Project+ET+%28Hosted+by+DJ+Esco%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7251e123f5c42ca402516a79f00e07dfedb58918","infoHashBuffer":{"type":"Buffer","data":[114,81,225,35,245,196,44,164,2,81,106,121,240,14,7,223,237,181,137,24]},"announce":[],"urlList":[]}}
+{
+  "title": "Future - Project ET (Hosted by DJ Esco)",
+  "uid": 15114144,
+  "size": 171978366,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:7251e123f5c42ca402516a79f00e07dfedb58918&amp;dn=Future+-+Project+ET+%28Hosted+by+DJ+Esco%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 6,
+  "uploader": "drasticj",
+  "files": 23,
+  "time": 1467033526,
+  "description": "Future- DJ Esco New Mixtatp",
+  "parsed": {
+    "xt": "urn:btih:7251e123f5c42ca402516a79f00e07dfedb58918",
+    "dn": "Future - Project ET (Hosted by DJ Esco)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "7251e123f5c42ca402516a79f00e07dfedb58918",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        114,
+        81,
+        225,
+        35,
+        245,
+        196,
+        44,
+        164,
+        2,
+        81,
+        106,
+        121,
+        240,
+        14,
+        7,
+        223,
+        237,
+        181,
+        137,
+        24
+      ]
+    },
+    "name": "Future - Project ET (Hosted by DJ Esco)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 99,
+  "last_updated": "2016-12-25T04:35:49.003Z"
+}

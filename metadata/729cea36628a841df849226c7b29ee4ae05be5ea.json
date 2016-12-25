@@ -1,1 +1,61 @@
-{"title":"The Walking Dead 127 (2014) (Digital) (Zone-Empire)","uid":10150432,"size":79045868,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:729cea36628a841df849226c7b29ee4ae05be5ea&amp;dn=The+Walking+Dead+127+%282014%29+%28Digital%29+%28Zone-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":1,"uploader":".SceNe.","files":1,"time":1400097726,"description":"The Walking Dead 127 (2014) (Digital) (Zone-Empire)","torrent":{"xt":"urn:btih:729cea36628a841df849226c7b29ee4ae05be5ea","amp;dn":"The+Walking+Dead+127+%282014%29+%28Digital%29+%28Zone-Empire%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"729cea36628a841df849226c7b29ee4ae05be5ea","infoHashBuffer":{"type":"Buffer","data":[114,156,234,54,98,138,132,29,248,73,34,108,123,41,238,74,224,91,229,234]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead 127 (2014) (Digital) (Zone-Empire)",
+  "uid": 10150432,
+  "size": 79045868,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:729cea36628a841df849226c7b29ee4ae05be5ea&amp;dn=The+Walking+Dead+127+%282014%29+%28Digital%29+%28Zone-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 1,
+  "uploader": ".SceNe.",
+  "files": 1,
+  "time": 1400097726,
+  "description": "The Walking Dead 127 (2014) (Digital) (Zone-Empire)",
+  "parsed": {
+    "xt": "urn:btih:729cea36628a841df849226c7b29ee4ae05be5ea",
+    "dn": "The Walking Dead 127 (2014) (Digital) (Zone-Empire)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "729cea36628a841df849226c7b29ee4ae05be5ea",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        114,
+        156,
+        234,
+        54,
+        98,
+        138,
+        132,
+        29,
+        248,
+        73,
+        34,
+        108,
+        123,
+        41,
+        238,
+        74,
+        224,
+        91,
+        229,
+        234
+      ]
+    },
+    "name": "The Walking Dead 127 (2014) (Digital) (Zone-Empire)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 12,
+  "last_updated": "2016-12-25T04:37:59.512Z"
+}

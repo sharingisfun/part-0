@@ -1,1 +1,61 @@
-{"title":"The Walking Dead S05E06 HDTV x264-KILLERS","uid":11483246,"size":395791353,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:725c6483e871f2333e9f1a023b70ef1a31dad0df&amp;dn=The+Walking+Dead+S05E06+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":204,"leechers":14,"uploader":"beta2008x","files":1,"time":1416197351,"description":"The.Walking.Dead.S05E06.HDTV.x264-KILLERS\n\nDay: 2014-11-17\nResolution: 720x404\nSize: 377 MiB\nFrameRate: 23.976\nLength: 00:43:08.415\nBitrate: 1080 Kbps","torrent":{"xt":"urn:btih:725c6483e871f2333e9f1a023b70ef1a31dad0df","amp;dn":"The+Walking+Dead+S05E06+HDTV+x264-KILLERS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"725c6483e871f2333e9f1a023b70ef1a31dad0df","infoHashBuffer":{"type":"Buffer","data":[114,92,100,131,232,113,242,51,62,159,26,2,59,112,239,26,49,218,208,223]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead S05E06 HDTV x264-KILLERS",
+  "uid": 11483246,
+  "size": 395791353,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:725c6483e871f2333e9f1a023b70ef1a31dad0df&amp;dn=The+Walking+Dead+S05E06+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 204,
+  "leechers": 14,
+  "uploader": "beta2008x",
+  "files": 1,
+  "time": 1416197351,
+  "description": "The.Walking.Dead.S05E06.HDTV.x264-KILLERS\n\nDay: 2014-11-17\nResolution: 720x404\nSize: 377 MiB\nFrameRate: 23.976\nLength: 00:43:08.415\nBitrate: 1080 Kbps",
+  "parsed": {
+    "xt": "urn:btih:725c6483e871f2333e9f1a023b70ef1a31dad0df",
+    "dn": "The Walking Dead S05E06 HDTV x264-KILLERS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "725c6483e871f2333e9f1a023b70ef1a31dad0df",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        114,
+        92,
+        100,
+        131,
+        232,
+        113,
+        242,
+        51,
+        62,
+        159,
+        26,
+        2,
+        59,
+        112,
+        239,
+        26,
+        49,
+        218,
+        208,
+        223
+      ]
+    },
+    "name": "The Walking Dead S05E06 HDTV x264-KILLERS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 218,
+  "peers": 23,
+  "last_updated": "2016-12-25T04:36:03.049Z"
+}

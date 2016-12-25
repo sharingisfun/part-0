@@ -1,1 +1,61 @@
-{"title":"Calvin Harris Ft. Ellie Goulding - Outside [Mp3]","uid":11251414,"size":6698476,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:7293c37a71d9f2a83f530a934c147d6a2b354316&amp;dn=Calvin+Harris+Ft.+Ellie+Goulding+-+Outside+%5BMp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":0,"uploader":"Faddie.k","files":1,"time":1413837891,"description":"New Single From Calvin Harris!","torrent":{"xt":"urn:btih:7293c37a71d9f2a83f530a934c147d6a2b354316","amp;dn":"Calvin+Harris+Ft.+Ellie+Goulding+-+Outside+%5BMp3%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7293c37a71d9f2a83f530a934c147d6a2b354316","infoHashBuffer":{"type":"Buffer","data":[114,147,195,122,113,217,242,168,63,83,10,147,76,20,125,106,43,53,67,22]},"announce":[],"urlList":[]}}
+{
+  "title": "Calvin Harris Ft. Ellie Goulding - Outside [Mp3]",
+  "uid": 11251414,
+  "size": 6698476,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:7293c37a71d9f2a83f530a934c147d6a2b354316&amp;dn=Calvin+Harris+Ft.+Ellie+Goulding+-+Outside+%5BMp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 0,
+  "uploader": "Faddie.k",
+  "files": 1,
+  "time": 1413837891,
+  "description": "New Single From Calvin Harris!",
+  "parsed": {
+    "xt": "urn:btih:7293c37a71d9f2a83f530a934c147d6a2b354316",
+    "dn": "Calvin Harris Ft. Ellie Goulding - Outside [Mp3]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7293c37a71d9f2a83f530a934c147d6a2b354316",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        114,
+        147,
+        195,
+        122,
+        113,
+        217,
+        242,
+        168,
+        63,
+        83,
+        10,
+        147,
+        76,
+        20,
+        125,
+        106,
+        43,
+        53,
+        67,
+        22
+      ]
+    },
+    "name": "Calvin Harris Ft. Ellie Goulding - Outside [Mp3]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 15,
+  "last_updated": "2016-12-25T04:37:39.425Z"
+}

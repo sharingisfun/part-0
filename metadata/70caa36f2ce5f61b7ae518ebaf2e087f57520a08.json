@@ -1,1 +1,61 @@
-{"title":"The Office Season 4 DvDrip-McTav","uid":4762342,"size":3487025415,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:70caa36f2ce5f61b7ae518ebaf2e087f57520a08&amp;dn=The+Office+Season+4+DvDrip-McTav&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":18,"uploader":"McTav","files":15,"time":1236740931,"description":"The Office Season 4 DvDrip-McTav","torrent":{"xt":"urn:btih:70caa36f2ce5f61b7ae518ebaf2e087f57520a08","amp;dn":"The+Office+Season+4+DvDrip-McTav","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"70caa36f2ce5f61b7ae518ebaf2e087f57520a08","infoHashBuffer":{"type":"Buffer","data":[112,202,163,111,44,229,246,27,122,229,24,235,175,46,8,127,87,82,10,8]},"announce":[],"urlList":[]}}
+{
+  "title": "The Office Season 4 DvDrip-McTav",
+  "uid": 4762342,
+  "size": 3487025415,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:70caa36f2ce5f61b7ae518ebaf2e087f57520a08&amp;dn=The+Office+Season+4+DvDrip-McTav&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 18,
+  "uploader": "McTav",
+  "files": 15,
+  "time": 1236740931,
+  "description": "The Office Season 4 DvDrip-McTav",
+  "parsed": {
+    "xt": "urn:btih:70caa36f2ce5f61b7ae518ebaf2e087f57520a08",
+    "dn": "The Office Season 4 DvDrip-McTav",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "70caa36f2ce5f61b7ae518ebaf2e087f57520a08",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        112,
+        202,
+        163,
+        111,
+        44,
+        229,
+        246,
+        27,
+        122,
+        229,
+        24,
+        235,
+        175,
+        46,
+        8,
+        127,
+        87,
+        82,
+        10,
+        8
+      ]
+    },
+    "name": "The Office Season 4 DvDrip-McTav",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 77,
+  "peers": 134,
+  "last_updated": "2016-12-25T04:26:03.245Z"
+}

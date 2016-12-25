@@ -1,1 +1,63 @@
-{"title":"RimWorld Alpha 15c (Windows) [ENG-RUS] Repack","uid":15738430,"size":104760048,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:71aece47dd221bb60f945a0a94e1d6897660f44d&amp;dn=RimWorld+Alpha+15c+%28Windows%29+%5BENG-RUS%5D+Repack&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":224,"leechers":3,"uploader":"sovietrussia","files":1,"time":1472866393,"description":"Alpha15c is currently on Steam's 'unstable' branch for public testing. This update fixes some important bugs and yield significant CPU usage optimizations. It also adjusts a few balance points for a better experience. I invite everyone willing to choose the unstable branch and test it out! I invite feedback in this forum thread[ludeon.com] and in the comments here.\r\n\r\nSave compatibility: Savegames from the unmodded game will be compatible from earlier Alpha 15 versions.\r\n\r\nMods compatibility: Data and XML mods will be 100% compatible from earlier Alpha 15 version. The API for code mods is also unchanged, and so should remain compatible. However, since the core game has been recompiled, some mods may need to be recompiled as well before they work again. Mod authors may want to look at Alpha15c to check and prepare compatibility. (This shouldn't require any actual code or data changes, but may require recompiling your code).\r\n\r\nOnce Alpha15c is confirmed stable, I will release it to all users. Hopefully within a day or two.\r\n\r\nDetailed change list:\r\n\r\n    Fix: Luciferium is not addictive; it gives the positive effect forever with no downside.\r\n    Fix: Malari-block high never goes away.\r\n    Optimized a bunch of pawn ticking code to be much, much faster.\r\n    Rebalanced drugs to be a bit more profitable and a bit more more dangerous.\r\n    Food selection algorithm prefers meals by 16 cells instead of 7.\r\n    Fix: Game doesn't assign short hashes if you subclass any Def class. This makes many mods impossible.\r\n    Fix: Standing lamps and sun lamps are available without research.\r\n    Fix 2618: On Linux, system language can break the game.\r\n    Fix: Raiders can steal during tutorial.\r\n    Fix 2620: Learning Helper: Items remain after save-scum.\r\n    Fix 2611: Scenario 'Can't Hunt' etc doesn't work.\r\n    Translations update.\r\n    Some other misc minor fixes, rebalancings and text changes","torrent":{"xt":"urn:btih:71aece47dd221bb60f945a0a94e1d6897660f44d","amp;dn":"RimWorld+Alpha+15c+%28Windows%29+%5BENG-RUS%5D+Repack","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"71aece47dd221bb60f945a0a94e1d6897660f44d","infoHashBuffer":{"type":"Buffer","data":[113,174,206,71,221,34,27,182,15,148,90,10,148,225,214,137,118,96,244,77]},"announce":[],"urlList":[]}}
+{
+  "title": "RimWorld Alpha 15c (Windows) [ENG-RUS] Repack",
+  "uid": 15738430,
+  "size": 104760048,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:71aece47dd221bb60f945a0a94e1d6897660f44d&amp;dn=RimWorld+Alpha+15c+%28Windows%29+%5BENG-RUS%5D+Repack&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 224,
+  "leechers": 3,
+  "uploader": "sovietrussia",
+  "files": 1,
+  "time": 1472866393,
+  "description": "Alpha15c is currently on Steam's 'unstable' branch for public testing. This update fixes some important bugs and yield significant CPU usage optimizations. It also adjusts a few balance points for a better experience. I invite everyone willing to choose the unstable branch and test it out! I invite feedback in this forum thread[ludeon.com] and in the comments here.\r\n\r\nSave compatibility: Savegames from the unmodded game will be compatible from earlier Alpha 15 versions.\r\n\r\nMods compatibility: Data and XML mods will be 100% compatible from earlier Alpha 15 version. The API for code mods is also unchanged, and so should remain compatible. However, since the core game has been recompiled, some mods may need to be recompiled as well before they work again. Mod authors may want to look at Alpha15c to check and prepare compatibility. (This shouldn't require any actual code or data changes, but may require recompiling your code).\r\n\r\nOnce Alpha15c is confirmed stable, I will release it to all users. Hopefully within a day or two.\r\n\r\nDetailed change list:\r\n\r\n    Fix: Luciferium is not addictive; it gives the positive effect forever with no downside.\r\n    Fix: Malari-block high never goes away.\r\n    Optimized a bunch of pawn ticking code to be much, much faster.\r\n    Rebalanced drugs to be a bit more profitable and a bit more more dangerous.\r\n    Food selection algorithm prefers meals by 16 cells instead of 7.\r\n    Fix: Game doesn't assign short hashes if you subclass any Def class. This makes many mods impossible.\r\n    Fix: Standing lamps and sun lamps are available without research.\r\n    Fix 2618: On Linux, system language can break the game.\r\n    Fix: Raiders can steal during tutorial.\r\n    Fix 2620: Learning Helper: Items remain after save-scum.\r\n    Fix 2611: Scenario 'Can't Hunt' etc doesn't work.\r\n    Translations update.\r\n    Some other misc minor fixes, rebalancings and text changes",
+  "parsed": {
+    "xt": "urn:btih:71aece47dd221bb60f945a0a94e1d6897660f44d",
+    "dn": "RimWorld Alpha 15c (Windows) [ENG-RUS] Repack",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "71aece47dd221bb60f945a0a94e1d6897660f44d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        113,
+        174,
+        206,
+        71,
+        221,
+        34,
+        27,
+        182,
+        15,
+        148,
+        90,
+        10,
+        148,
+        225,
+        214,
+        137,
+        118,
+        96,
+        244,
+        77
+      ]
+    },
+    "name": "RimWorld Alpha 15c (Windows) [ENG-RUS] Repack",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 227,
+  "peers": 100,
+  "last_updated": "2016-12-25T04:31:40.256Z"
+}

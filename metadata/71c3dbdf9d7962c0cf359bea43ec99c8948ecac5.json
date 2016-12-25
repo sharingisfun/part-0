@@ -1,1 +1,63 @@
-{"title":"AM2R V1.1","uid":15573756,"size":75312263,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:71c3dbdf9d7962c0cf359bea43ec99c8948ecac5&amp;dn=AM2R+V1.1&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":165,"leechers":1,"uploader":"Mysterion3201","files":1,"time":1471297007,"description":"New in this version:\r\n- Fixed gravity suit not being rendered in certain systems\r\n- Fixed room transition in area 3 entrance\r\n- Fixed language file detection, the game can be fully translated now\r\n- Added transport pipe to final area\r\n- Balanced Omega fights a bit\r\n- Other minor fixes\r\n\r\nExisting save files should be detected automatically.\r\nYou'll find the latest version at the forums.\r\nHave fun!","torrent":{"xt":"urn:btih:71c3dbdf9d7962c0cf359bea43ec99c8948ecac5","amp;dn":"AM2R+V1.1","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"71c3dbdf9d7962c0cf359bea43ec99c8948ecac5","infoHashBuffer":{"type":"Buffer","data":[113,195,219,223,157,121,98,192,207,53,155,234,67,236,153,200,148,142,202,197]},"announce":[],"urlList":[]}}
+{
+  "title": "AM2R V1.1",
+  "uid": 15573756,
+  "size": 75312263,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:71c3dbdf9d7962c0cf359bea43ec99c8948ecac5&amp;dn=AM2R+V1.1&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 165,
+  "leechers": 1,
+  "uploader": "Mysterion3201",
+  "files": 1,
+  "time": 1471297007,
+  "description": "New in this version:\r\n- Fixed gravity suit not being rendered in certain systems\r\n- Fixed room transition in area 3 entrance\r\n- Fixed language file detection, the game can be fully translated now\r\n- Added transport pipe to final area\r\n- Balanced Omega fights a bit\r\n- Other minor fixes\r\n\r\nExisting save files should be detected automatically.\r\nYou'll find the latest version at the forums.\r\nHave fun!",
+  "parsed": {
+    "xt": "urn:btih:71c3dbdf9d7962c0cf359bea43ec99c8948ecac5",
+    "dn": "AM2R V1.1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "71c3dbdf9d7962c0cf359bea43ec99c8948ecac5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        113,
+        195,
+        219,
+        223,
+        157,
+        121,
+        98,
+        192,
+        207,
+        53,
+        155,
+        234,
+        67,
+        236,
+        153,
+        200,
+        148,
+        142,
+        202,
+        197
+      ]
+    },
+    "name": "AM2R V1.1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 166,
+  "peers": 282,
+  "last_updated": "2016-12-25T04:32:12.358Z"
+}

@@ -1,1 +1,61 @@
-{"title":"One.Big.Happy.S01E06.HDTV.x264-LOL[ettv]","uid":11861026,"size":150957038,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:72941a3b302a05ec3a2ce32b65823048aaef0265&amp;dn=One.Big.Happy.S01E06.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":1,"uploader":"ettv","files":3,"time":1430279996,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:72941a3b302a05ec3a2ce32b65823048aaef0265","amp;dn":"One.Big.Happy.S01E06.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"72941a3b302a05ec3a2ce32b65823048aaef0265","infoHashBuffer":{"type":"Buffer","data":[114,148,26,59,48,42,5,236,58,44,227,43,101,130,48,72,170,239,2,101]},"announce":[],"urlList":[]}}
+{
+  "title": "One.Big.Happy.S01E06.HDTV.x264-LOL[ettv]",
+  "uid": 11861026,
+  "size": 150957038,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:72941a3b302a05ec3a2ce32b65823048aaef0265&amp;dn=One.Big.Happy.S01E06.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1430279996,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:72941a3b302a05ec3a2ce32b65823048aaef0265",
+    "dn": "One.Big.Happy.S01E06.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "72941a3b302a05ec3a2ce32b65823048aaef0265",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        114,
+        148,
+        26,
+        59,
+        48,
+        42,
+        5,
+        236,
+        58,
+        44,
+        227,
+        43,
+        101,
+        130,
+        48,
+        72,
+        170,
+        239,
+        2,
+        101
+      ]
+    },
+    "name": "One.Big.Happy.S01E06.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 3,
+  "last_updated": "2016-12-25T04:37:41.431Z"
+}
