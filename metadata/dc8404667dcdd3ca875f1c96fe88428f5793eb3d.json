@@ -1,1 +1,61 @@
-{"title":"The Tallest Man On Earth - Dark Bird Is Home (2015)","uid":11792243,"size":102803198,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:dc8404667dcdd3ca875f1c96fe88428f5793eb3d&amp;dn=The+Tallest+Man+On+Earth+-+Dark+Bird+Is+Home+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":82,"leechers":2,"uploader":"RoffeTheCoolMan","files":11,"time":1427996760,"description":"\n\nBand: The Tallest Man on Earth\n\nGenre: Indie-Rock / Folk\nCountry: Sweden\nYear: 2015\nAudio codec: MP3\nRiptype: tracks\nBitrate: 320 kbps\nPlaytime: 35:21\nSize: 98 MB\nSite: plixid.com\nTracklist:\n01. Fields Of Our Home\n02. Darkness Of The Dream\n03. Singers\n04. Slow Dance\n05. Little Nowhere Towns\n06. Sagres\n07. Timothy\n08. Beginners\n09. Seventeen\n10. Dark Bird Is Home","torrent":{"xt":"urn:btih:dc8404667dcdd3ca875f1c96fe88428f5793eb3d","amp;dn":"The+Tallest+Man+On+Earth+-+Dark+Bird+Is+Home+%282015%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dc8404667dcdd3ca875f1c96fe88428f5793eb3d","infoHashBuffer":{"type":"Buffer","data":[220,132,4,102,125,205,211,202,135,95,28,150,254,136,66,143,87,147,235,61]},"announce":[],"urlList":[]}}
+{
+  "title": "The Tallest Man On Earth - Dark Bird Is Home (2015)",
+  "uid": 11792243,
+  "size": 102803198,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:dc8404667dcdd3ca875f1c96fe88428f5793eb3d&amp;dn=The+Tallest+Man+On+Earth+-+Dark+Bird+Is+Home+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 82,
+  "leechers": 2,
+  "uploader": "RoffeTheCoolMan",
+  "files": 11,
+  "time": 1427996760,
+  "description": "\n\nBand: The Tallest Man on Earth\n\nGenre: Indie-Rock / Folk\nCountry: Sweden\nYear: 2015\nAudio codec: MP3\nRiptype: tracks\nBitrate: 320 kbps\nPlaytime: 35:21\nSize: 98 MB\nSite: plixid.com\nTracklist:\n01. Fields Of Our Home\n02. Darkness Of The Dream\n03. Singers\n04. Slow Dance\n05. Little Nowhere Towns\n06. Sagres\n07. Timothy\n08. Beginners\n09. Seventeen\n10. Dark Bird Is Home",
+  "parsed": {
+    "xt": "urn:btih:dc8404667dcdd3ca875f1c96fe88428f5793eb3d",
+    "dn": "The Tallest Man On Earth - Dark Bird Is Home (2015)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dc8404667dcdd3ca875f1c96fe88428f5793eb3d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        220,
+        132,
+        4,
+        102,
+        125,
+        205,
+        211,
+        202,
+        135,
+        95,
+        28,
+        150,
+        254,
+        136,
+        66,
+        143,
+        87,
+        147,
+        235,
+        61
+      ]
+    },
+    "name": "The Tallest Man On Earth - Dark Bird Is Home (2015)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 84,
+  "peers": 19,
+  "last_updated": "2016-12-25T15:45:24.402Z"
+}

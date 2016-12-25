@@ -1,1 +1,63 @@
-{"title":"Geometry Dash v2.0.1","uid":12497388,"size":71744636,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:da5ae1884b5a1d5c7e2a6f7c43233b631cb07009&amp;dn=Geometry+Dash+v2.0.1&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":2,"uploader":"dauphong","files":1,"time":1443302940,"description":"Jump and fly your way through danger in this rhythm-based action platformer!\r\n\r\nPrepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles","torrent":{"xt":"urn:btih:da5ae1884b5a1d5c7e2a6f7c43233b631cb07009","amp;dn":"Geometry+Dash+v2.0.1","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"da5ae1884b5a1d5c7e2a6f7c43233b631cb07009","infoHashBuffer":{"type":"Buffer","data":[218,90,225,136,75,90,29,92,126,42,111,124,67,35,59,99,28,176,112,9]},"announce":[],"urlList":[]}}
+{
+  "title": "Geometry Dash v2.0.1",
+  "uid": 12497388,
+  "size": 71744636,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:da5ae1884b5a1d5c7e2a6f7c43233b631cb07009&amp;dn=Geometry+Dash+v2.0.1&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 2,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1443302940,
+  "description": "Jump and fly your way through danger in this rhythm-based action platformer!\r\n\r\nPrepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles",
+  "parsed": {
+    "xt": "urn:btih:da5ae1884b5a1d5c7e2a6f7c43233b631cb07009",
+    "dn": "Geometry Dash v2.0.1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "da5ae1884b5a1d5c7e2a6f7c43233b631cb07009",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        218,
+        90,
+        225,
+        136,
+        75,
+        90,
+        29,
+        92,
+        126,
+        42,
+        111,
+        124,
+        67,
+        35,
+        59,
+        99,
+        28,
+        176,
+        112,
+        9
+      ]
+    },
+    "name": "Geometry Dash v2.0.1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 100,
+  "last_updated": "2016-12-25T15:33:19.228Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Guitar Pro 5.2 with RSE","uid":3768546,"size":329678848,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:dc98a9769c686dfe248ab654aae6bfd1e670f18d&amp;dn=Guitar+Pro+5.2+with+RSE&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":314,"leechers":2,"uploader":"electroacoustic","files":1,"time":1186741403,"description":"Guitar Pro 5, all you need if you are guitarist. In this torrent you can find:\n- Guitar Pro 5.2 (of course multilanguage),\n- Realistic Sound Engine (full package with guitars, drums and basses),\n- licence generator (it is my modification of keygen by ZWT),\n- user guide (only English),\n- tutorial (it showing how to create own tablature).\n\nEverything is available through esthetic cd browser (this launcher is my work).","torrent":{"xt":"urn:btih:dc98a9769c686dfe248ab654aae6bfd1e670f18d","amp;dn":"Guitar+Pro+5.2+with+RSE","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dc98a9769c686dfe248ab654aae6bfd1e670f18d","infoHashBuffer":{"type":"Buffer","data":[220,152,169,118,156,104,109,254,36,138,182,84,170,230,191,209,230,112,241,141]},"announce":[],"urlList":[]}}
+{
+  "title": "Guitar Pro 5.2 with RSE",
+  "uid": 3768546,
+  "size": 329678848,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:dc98a9769c686dfe248ab654aae6bfd1e670f18d&amp;dn=Guitar+Pro+5.2+with+RSE&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 314,
+  "leechers": 2,
+  "uploader": "electroacoustic",
+  "files": 1,
+  "time": 1186741403,
+  "description": "Guitar Pro 5, all you need if you are guitarist. In this torrent you can find:\n- Guitar Pro 5.2 (of course multilanguage),\n- Realistic Sound Engine (full package with guitars, drums and basses),\n- licence generator (it is my modification of keygen by ZWT),\n- user guide (only English),\n- tutorial (it showing how to create own tablature).\n\nEverything is available through esthetic cd browser (this launcher is my work).",
+  "parsed": {
+    "xt": "urn:btih:dc98a9769c686dfe248ab654aae6bfd1e670f18d",
+    "dn": "Guitar Pro 5.2 with RSE",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dc98a9769c686dfe248ab654aae6bfd1e670f18d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        220,
+        152,
+        169,
+        118,
+        156,
+        104,
+        109,
+        254,
+        36,
+        138,
+        182,
+        84,
+        170,
+        230,
+        191,
+        209,
+        230,
+        112,
+        241,
+        141
+      ]
+    },
+    "name": "Guitar Pro 5.2 with RSE",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 316,
+  "peers": 163,
+  "last_updated": "2016-12-25T15:45:54.503Z"
+}

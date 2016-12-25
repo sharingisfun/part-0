@@ -1,1 +1,63 @@
-{"title":"Bobs.Burgers.S07E01.720p.HEVC.x265-MeGusta","uid":15907253,"size":153328559,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:dcd8af6c14c2405154a61730b00534e2bf025241&amp;dn=Bobs.Burgers.S07E01.720p.HEVC.x265-MeGusta&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":15,"uploader":"TvTeam","files":7,"time":1475057671,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:dcd8af6c14c2405154a61730b00534e2bf025241","amp;dn":"Bobs.Burgers.S07E01.720p.HEVC.x265-MeGusta","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dcd8af6c14c2405154a61730b00534e2bf025241","infoHashBuffer":{"type":"Buffer","data":[220,216,175,108,20,194,64,81,84,166,23,48,176,5,52,226,191,2,82,65]},"announce":[],"urlList":[]}}
+{
+  "title": "Bobs.Burgers.S07E01.720p.HEVC.x265-MeGusta",
+  "uid": 15907253,
+  "size": 153328559,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:dcd8af6c14c2405154a61730b00534e2bf025241&amp;dn=Bobs.Burgers.S07E01.720p.HEVC.x265-MeGusta&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 15,
+  "uploader": "TvTeam",
+  "files": 7,
+  "time": 1475057671,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:dcd8af6c14c2405154a61730b00534e2bf025241",
+    "dn": "Bobs.Burgers.S07E01.720p.HEVC.x265-MeGusta",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "dcd8af6c14c2405154a61730b00534e2bf025241",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        220,
+        216,
+        175,
+        108,
+        20,
+        194,
+        64,
+        81,
+        84,
+        166,
+        23,
+        48,
+        176,
+        5,
+        52,
+        226,
+        191,
+        2,
+        82,
+        65
+      ]
+    },
+    "name": "Bobs.Burgers.S07E01.720p.HEVC.x265-MeGusta",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 85,
+  "peers": 177,
+  "last_updated": "2016-12-25T15:47:14.793Z"
+}

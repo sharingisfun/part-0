@@ -1,1 +1,61 @@
-{"title":"The Boondocks Season 3 Uncut dvdrip","uid":6040958,"size":2753624064,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:dc47ac87ee8851c56053e6d3dae5af715a356778&amp;dn=The+Boondocks+Season+3+Uncut+dvdrip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":5,"uploader":"gunbike","files":-1,"time":1292386636,"description":"\nThe Boondocks takes place in the fictional suburb of Woodcrest, where the Freeman family settle after recently moving from the South-side of Chicago. The family consists of Huey, the intellectual, Riley, who desperatly wants to be the gangster rappers he idolizes, and Granddad, who is looking for love in his old age.","torrent":{"xt":"urn:btih:dc47ac87ee8851c56053e6d3dae5af715a356778","amp;dn":"The+Boondocks+Season+3+Uncut+dvdrip","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dc47ac87ee8851c56053e6d3dae5af715a356778","infoHashBuffer":{"type":"Buffer","data":[220,71,172,135,238,136,81,197,96,83,230,211,218,229,175,113,90,53,103,120]},"announce":[],"urlList":[]}}
+{
+  "title": "The Boondocks Season 3 Uncut dvdrip",
+  "uid": 6040958,
+  "size": 2753624064,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:dc47ac87ee8851c56053e6d3dae5af715a356778&amp;dn=The+Boondocks+Season+3+Uncut+dvdrip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 5,
+  "uploader": "gunbike",
+  "files": -1,
+  "time": 1292386636,
+  "description": "\nThe Boondocks takes place in the fictional suburb of Woodcrest, where the Freeman family settle after recently moving from the South-side of Chicago. The family consists of Huey, the intellectual, Riley, who desperatly wants to be the gangster rappers he idolizes, and Granddad, who is looking for love in his old age.",
+  "parsed": {
+    "xt": "urn:btih:dc47ac87ee8851c56053e6d3dae5af715a356778",
+    "dn": "The Boondocks Season 3 Uncut dvdrip",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dc47ac87ee8851c56053e6d3dae5af715a356778",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        220,
+        71,
+        172,
+        135,
+        238,
+        136,
+        81,
+        197,
+        96,
+        83,
+        230,
+        211,
+        218,
+        229,
+        175,
+        113,
+        90,
+        53,
+        103,
+        120
+      ]
+    },
+    "name": "The Boondocks Season 3 Uncut dvdrip",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 13,
+  "last_updated": "2016-12-25T15:44:01.985Z"
+}

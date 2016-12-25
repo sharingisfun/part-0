@@ -1,1 +1,61 @@
-{"title":"Sid.Meiers.Civilization.Beyond.Earth-RELOADED","uid":11271933,"size":2873759570,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:dd1cd59f34165eb35ba5c3ab44aeed837b9b6bcd&amp;dn=Sid.Meiers.Civilization.Beyond.Earth-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":331,"leechers":10,"uploader":"Drarbg","files":3,"time":1414092628,"description":" &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nSid.Meiers.Civilization.Beyond.Earth-RELOADED","torrent":{"xt":"urn:btih:dd1cd59f34165eb35ba5c3ab44aeed837b9b6bcd","amp;dn":"Sid.Meiers.Civilization.Beyond.Earth-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dd1cd59f34165eb35ba5c3ab44aeed837b9b6bcd","infoHashBuffer":{"type":"Buffer","data":[221,28,213,159,52,22,94,179,91,165,195,171,68,174,237,131,123,155,107,205]},"announce":[],"urlList":[]}}
+{
+  "title": "Sid.Meiers.Civilization.Beyond.Earth-RELOADED",
+  "uid": 11271933,
+  "size": 2873759570,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:dd1cd59f34165eb35ba5c3ab44aeed837b9b6bcd&amp;dn=Sid.Meiers.Civilization.Beyond.Earth-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 331,
+  "leechers": 10,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1414092628,
+  "description": " &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nSid.Meiers.Civilization.Beyond.Earth-RELOADED",
+  "parsed": {
+    "xt": "urn:btih:dd1cd59f34165eb35ba5c3ab44aeed837b9b6bcd",
+    "dn": "Sid.Meiers.Civilization.Beyond.Earth-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dd1cd59f34165eb35ba5c3ab44aeed837b9b6bcd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        221,
+        28,
+        213,
+        159,
+        52,
+        22,
+        94,
+        179,
+        91,
+        165,
+        195,
+        171,
+        68,
+        174,
+        237,
+        131,
+        123,
+        155,
+        107,
+        205
+      ]
+    },
+    "name": "Sid.Meiers.Civilization.Beyond.Earth-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 341,
+  "peers": 251,
+  "last_updated": "2016-12-25T15:48:49.138Z"
+}

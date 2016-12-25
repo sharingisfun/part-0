@@ -1,1 +1,61 @@
-{"title":"NCIS.S12E23.HDTV.x264-LOL[ettv]","uid":11887409,"size":239379160,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:dd1737a03e94a764d295cf808b2bdde4a47f3af4&amp;dn=NCIS.S12E23.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":268,"leechers":10,"uploader":"ettv","files":3,"time":1430880938,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:dd1737a03e94a764d295cf808b2bdde4a47f3af4","amp;dn":"NCIS.S12E23.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dd1737a03e94a764d295cf808b2bdde4a47f3af4","infoHashBuffer":{"type":"Buffer","data":[221,23,55,160,62,148,167,100,210,149,207,128,139,43,221,228,164,127,58,244]},"announce":[],"urlList":[]}}
+{
+  "title": "NCIS.S12E23.HDTV.x264-LOL[ettv]",
+  "uid": 11887409,
+  "size": 239379160,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:dd1737a03e94a764d295cf808b2bdde4a47f3af4&amp;dn=NCIS.S12E23.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 268,
+  "leechers": 10,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1430880938,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:dd1737a03e94a764d295cf808b2bdde4a47f3af4",
+    "dn": "NCIS.S12E23.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dd1737a03e94a764d295cf808b2bdde4a47f3af4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        221,
+        23,
+        55,
+        160,
+        62,
+        148,
+        167,
+        100,
+        210,
+        149,
+        207,
+        128,
+        139,
+        43,
+        221,
+        228,
+        164,
+        127,
+        58,
+        244
+      ]
+    },
+    "name": "NCIS.S12E23.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 278,
+  "peers": 18,
+  "last_updated": "2016-12-25T15:48:37.106Z"
+}

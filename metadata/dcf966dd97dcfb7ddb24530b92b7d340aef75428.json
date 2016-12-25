@@ -1,1 +1,63 @@
-{"title":"ADELE 25 CD FLAC 2015 PERFECT","uid":12862238,"size":306617135,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:dcf966dd97dcfb7ddb24530b92b7d340aef75428&amp;dn=ADELE+25+CD+FLAC+2015+PERFECT&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":1,"uploader":"Capajebo","files":15,"time":1448750811,"description":"http://imgur.com/BSPO8zo : A 25 CD FLAC 2015 PERFECT : In Scene We Trust (C) 1914","torrent":{"xt":"urn:btih:dcf966dd97dcfb7ddb24530b92b7d340aef75428","amp;dn":"ADELE+25+CD+FLAC+2015+PERFECT","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dcf966dd97dcfb7ddb24530b92b7d340aef75428","infoHashBuffer":{"type":"Buffer","data":[220,249,102,221,151,220,251,125,219,36,83,11,146,183,211,64,174,247,84,40]},"announce":[],"urlList":[]}}
+{
+  "title": "ADELE 25 CD FLAC 2015 PERFECT",
+  "uid": 12862238,
+  "size": 306617135,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:dcf966dd97dcfb7ddb24530b92b7d340aef75428&amp;dn=ADELE+25+CD+FLAC+2015+PERFECT&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 1,
+  "uploader": "Capajebo",
+  "files": 15,
+  "time": 1448750811,
+  "description": "http://imgur.com/BSPO8zo : A 25 CD FLAC 2015 PERFECT : In Scene We Trust (C) 1914",
+  "parsed": {
+    "xt": "urn:btih:dcf966dd97dcfb7ddb24530b92b7d340aef75428",
+    "dn": "ADELE 25 CD FLAC 2015 PERFECT",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "dcf966dd97dcfb7ddb24530b92b7d340aef75428",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        220,
+        249,
+        102,
+        221,
+        151,
+        220,
+        251,
+        125,
+        219,
+        36,
+        83,
+        11,
+        146,
+        183,
+        211,
+        64,
+        174,
+        247,
+        84,
+        40
+      ]
+    },
+    "name": "ADELE 25 CD FLAC 2015 PERFECT",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 144,
+  "last_updated": "2016-12-25T15:47:58.960Z"
+}

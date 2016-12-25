@@ -1,1 +1,61 @@
-{"title":"Don Omar - Danza Kuduro (feat. Lucenzo)","uid":6770626,"size":7774040,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:da3673f7405450cef966d4ddae9a170e70995a18&amp;dn=Don+Omar+-+Danza+Kuduro+%28feat.+Lucenzo%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":1,"uploader":null,"files":1,"time":1319562543,"description":"Don Omar - Danza Kuduro (feat. Lucenzo)","torrent":{"xt":"urn:btih:da3673f7405450cef966d4ddae9a170e70995a18","amp;dn":"Don+Omar+-+Danza+Kuduro+%28feat.+Lucenzo%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"da3673f7405450cef966d4ddae9a170e70995a18","infoHashBuffer":{"type":"Buffer","data":[218,54,115,247,64,84,80,206,249,102,212,221,174,154,23,14,112,153,90,24]},"announce":[],"urlList":[]}}
+{
+  "title": "Don Omar - Danza Kuduro (feat. Lucenzo)",
+  "uid": 6770626,
+  "size": 7774040,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:da3673f7405450cef966d4ddae9a170e70995a18&amp;dn=Don+Omar+-+Danza+Kuduro+%28feat.+Lucenzo%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 1,
+  "uploader": null,
+  "files": 1,
+  "time": 1319562543,
+  "description": "Don Omar - Danza Kuduro (feat. Lucenzo)",
+  "parsed": {
+    "xt": "urn:btih:da3673f7405450cef966d4ddae9a170e70995a18",
+    "dn": "Don Omar - Danza Kuduro (feat. Lucenzo)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "da3673f7405450cef966d4ddae9a170e70995a18",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        218,
+        54,
+        115,
+        247,
+        64,
+        84,
+        80,
+        206,
+        249,
+        102,
+        212,
+        221,
+        174,
+        154,
+        23,
+        14,
+        112,
+        153,
+        90,
+        24
+      ]
+    },
+    "name": "Don Omar - Danza Kuduro (feat. Lucenzo)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 110,
+  "last_updated": "2016-12-25T15:32:35.109Z"
+}

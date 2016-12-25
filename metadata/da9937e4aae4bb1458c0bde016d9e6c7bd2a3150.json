@@ -1,1 +1,61 @@
-{"title":"Com Truise - In Decay (2012)","uid":8567166,"size":103982518,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:da9937e4aae4bb1458c0bde016d9e6c7bd2a3150&amp;dn=Com+Truise+-+In+Decay+%282012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":0,"uploader":"imperspective","files":-1,"time":1371052243,"description":"Mp3 196 - 260 kbps\n\nTrack List:\n\n1. Open\n2. 84' Dreamin\n3. Dreambender\n4. Controlpop\n5. Colorvision\n6. Alfa Beach\n7. Stop\n8. Klymaxx\n9. Yxes\n10. Smily Cyclops\n11. Video Arkade\n12. Data Kiss\n13. Closed\n\nEnjoy and such\n\nSeeds are nice","torrent":{"xt":"urn:btih:da9937e4aae4bb1458c0bde016d9e6c7bd2a3150","amp;dn":"Com+Truise+-+In+Decay+%282012%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"da9937e4aae4bb1458c0bde016d9e6c7bd2a3150","infoHashBuffer":{"type":"Buffer","data":[218,153,55,228,170,228,187,20,88,192,189,224,22,217,230,199,189,42,49,80]},"announce":[],"urlList":[]}}
+{
+  "title": "Com Truise - In Decay (2012)",
+  "uid": 8567166,
+  "size": 103982518,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:da9937e4aae4bb1458c0bde016d9e6c7bd2a3150&amp;dn=Com+Truise+-+In+Decay+%282012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 0,
+  "uploader": "imperspective",
+  "files": -1,
+  "time": 1371052243,
+  "description": "Mp3 196 - 260 kbps\n\nTrack List:\n\n1. Open\n2. 84' Dreamin\n3. Dreambender\n4. Controlpop\n5. Colorvision\n6. Alfa Beach\n7. Stop\n8. Klymaxx\n9. Yxes\n10. Smily Cyclops\n11. Video Arkade\n12. Data Kiss\n13. Closed\n\nEnjoy and such\n\nSeeds are nice",
+  "parsed": {
+    "xt": "urn:btih:da9937e4aae4bb1458c0bde016d9e6c7bd2a3150",
+    "dn": "Com Truise - In Decay (2012)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "da9937e4aae4bb1458c0bde016d9e6c7bd2a3150",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        218,
+        153,
+        55,
+        228,
+        170,
+        228,
+        187,
+        20,
+        88,
+        192,
+        189,
+        224,
+        22,
+        217,
+        230,
+        199,
+        189,
+        42,
+        49,
+        80
+      ]
+    },
+    "name": "Com Truise - In Decay (2012)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 3,
+  "last_updated": "2016-12-25T15:34:41.867Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Foo Fighters - Discography (7 Albums)","uid":3946222,"size":579560052,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:dcb0807f068b99ee9ee2c6454b2ca0b30519b4b0&amp;dn=Foo+Fighters+-+Discography+%287+Albums%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":8,"uploader":"madhouse76","files":97,"time":1198456118,"description":"All the studio albums by the Foo Fighters (7albums)\n\n\nFoo Fighters\nOne by One\nSkin and Bones\nThe Colour and the Shape\nThere&amp;#039;s Nothing Left to Lose\nIn Your Honor (2 discs)\nEchoes, Silence, Patience &amp; Grace","torrent":{"xt":"urn:btih:dcb0807f068b99ee9ee2c6454b2ca0b30519b4b0","amp;dn":"Foo+Fighters+-+Discography+%287+Albums%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dcb0807f068b99ee9ee2c6454b2ca0b30519b4b0","infoHashBuffer":{"type":"Buffer","data":[220,176,128,127,6,139,153,238,158,226,198,69,75,44,160,179,5,25,180,176]},"announce":[],"urlList":[]}}
+{
+  "title": "Foo Fighters - Discography (7 Albums)",
+  "uid": 3946222,
+  "size": 579560052,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:dcb0807f068b99ee9ee2c6454b2ca0b30519b4b0&amp;dn=Foo+Fighters+-+Discography+%287+Albums%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 8,
+  "uploader": "madhouse76",
+  "files": 97,
+  "time": 1198456118,
+  "description": "All the studio albums by the Foo Fighters (7albums)\n\n\nFoo Fighters\nOne by One\nSkin and Bones\nThe Colour and the Shape\nThere&amp;#039;s Nothing Left to Lose\nIn Your Honor (2 discs)\nEchoes, Silence, Patience &amp; Grace",
+  "parsed": {
+    "xt": "urn:btih:dcb0807f068b99ee9ee2c6454b2ca0b30519b4b0",
+    "dn": "Foo Fighters - Discography (7 Albums)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dcb0807f068b99ee9ee2c6454b2ca0b30519b4b0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        220,
+        176,
+        128,
+        127,
+        6,
+        139,
+        153,
+        238,
+        158,
+        226,
+        198,
+        69,
+        75,
+        44,
+        160,
+        179,
+        5,
+        25,
+        180,
+        176
+      ]
+    },
+    "name": "Foo Fighters - Discography (7 Albums)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 4,
+  "last_updated": "2016-12-25T15:46:22.612Z"
+}

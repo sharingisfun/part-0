@@ -1,1 +1,61 @@
-{"title":"Train - Drive By","uid":7349578,"size":6361465,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:daa8051b95a0f13afa5d4b0cc5cd501f0dd8fb30&amp;dn=Train+-+Drive+By&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":1,"uploader":"Tuffnut","files":-1,"time":1339546697,"description":"Train - Drive By\n\nArtist: Train\nAlbum: Drive By - Single\nGenre: Rock\nYear: 2012\nBitrate: 320 Kbps\n\nPlease continue seeding the torrent.\n\nDon't forget to leave your feedback.\n\nCheck out my uploads for more music.","torrent":{"xt":"urn:btih:daa8051b95a0f13afa5d4b0cc5cd501f0dd8fb30","amp;dn":"Train+-+Drive+By","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"daa8051b95a0f13afa5d4b0cc5cd501f0dd8fb30","infoHashBuffer":{"type":"Buffer","data":[218,168,5,27,149,160,241,58,250,93,75,12,197,205,80,31,13,216,251,48]},"announce":[],"urlList":[]}}
+{
+  "title": "Train - Drive By",
+  "uid": 7349578,
+  "size": 6361465,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:daa8051b95a0f13afa5d4b0cc5cd501f0dd8fb30&amp;dn=Train+-+Drive+By&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 1,
+  "uploader": "Tuffnut",
+  "files": -1,
+  "time": 1339546697,
+  "description": "Train - Drive By\n\nArtist: Train\nAlbum: Drive By - Single\nGenre: Rock\nYear: 2012\nBitrate: 320 Kbps\n\nPlease continue seeding the torrent.\n\nDon't forget to leave your feedback.\n\nCheck out my uploads for more music.",
+  "parsed": {
+    "xt": "urn:btih:daa8051b95a0f13afa5d4b0cc5cd501f0dd8fb30",
+    "dn": "Train - Drive By",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "daa8051b95a0f13afa5d4b0cc5cd501f0dd8fb30",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        218,
+        168,
+        5,
+        27,
+        149,
+        160,
+        241,
+        58,
+        250,
+        93,
+        75,
+        12,
+        197,
+        205,
+        80,
+        31,
+        13,
+        216,
+        251,
+        48
+      ]
+    },
+    "name": "Train - Drive By",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 13,
+  "last_updated": "2016-12-25T15:35:09.959Z"
+}

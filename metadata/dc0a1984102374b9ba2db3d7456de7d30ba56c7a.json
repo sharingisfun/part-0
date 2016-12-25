@@ -1,1 +1,61 @@
-{"title":"Audioslave - Discography","uid":7428249,"size":354395909,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:dc0a1984102374b9ba2db3d7456de7d30ba56c7a&amp;dn=Audioslave+-+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":151,"leechers":21,"uploader":"Fuckpresidents","files":52,"time":1341869550,"description":"                             Audioslave - Discography\n\n* 2001 - Civilian Demo\n\n* 2002 - Audioslave\n\n* 2005 - Out Of Exile\n\n* 2006 - Revelations","torrent":{"xt":"urn:btih:dc0a1984102374b9ba2db3d7456de7d30ba56c7a","amp;dn":"Audioslave+-+Discography","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dc0a1984102374b9ba2db3d7456de7d30ba56c7a","infoHashBuffer":{"type":"Buffer","data":[220,10,25,132,16,35,116,185,186,45,179,215,69,109,231,211,11,165,108,122]},"announce":[],"urlList":[]}}
+{
+  "title": "Audioslave - Discography",
+  "uid": 7428249,
+  "size": 354395909,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:dc0a1984102374b9ba2db3d7456de7d30ba56c7a&amp;dn=Audioslave+-+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 151,
+  "leechers": 21,
+  "uploader": "Fuckpresidents",
+  "files": 52,
+  "time": 1341869550,
+  "description": "                             Audioslave - Discography\n\n* 2001 - Civilian Demo\n\n* 2002 - Audioslave\n\n* 2005 - Out Of Exile\n\n* 2006 - Revelations",
+  "parsed": {
+    "xt": "urn:btih:dc0a1984102374b9ba2db3d7456de7d30ba56c7a",
+    "dn": "Audioslave - Discography",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dc0a1984102374b9ba2db3d7456de7d30ba56c7a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        220,
+        10,
+        25,
+        132,
+        16,
+        35,
+        116,
+        185,
+        186,
+        45,
+        179,
+        215,
+        69,
+        109,
+        231,
+        211,
+        11,
+        165,
+        108,
+        122
+      ]
+    },
+    "name": "Audioslave - Discography",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 172,
+  "peers": 0,
+  "last_updated": "2016-12-25T15:42:53.750Z"
+}

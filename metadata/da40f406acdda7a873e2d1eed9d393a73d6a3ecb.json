@@ -1,1 +1,61 @@
-{"title":"[MV] Mark Ronson ft. Bruno Mars - Uptown Funk (1080P)","uid":11520239,"size":145041605,"categoryP":"video","categoryS":"music_videos","magnet":"?xt=urn:btih:da40f406acdda7a873e2d1eed9d393a73d6a3ecb&amp;dn=%5BMV%5D+Mark+Ronson+ft.+Bruno+Mars+-+Uptown+Funk+%281080P%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":2,"uploader":null,"files":1,"time":1416443359,"description":"Mark Ronson ft. Bruno Mars - Uptown Funk (Webrip 1080P).mp4\nVideo\nWidth                                    : 1 920 pixels\nHeight                                   : 1 080 pixels\n\nAudio\nBit rate                                 : 254 Kbps\n\nThumbnail: http://i.imgur.com/tfqf2J3.jpg","torrent":{"xt":"urn:btih:da40f406acdda7a873e2d1eed9d393a73d6a3ecb","amp;dn":"%5BMV%5D+Mark+Ronson+ft.+Bruno+Mars+-+Uptown+Funk+%281080P%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"da40f406acdda7a873e2d1eed9d393a73d6a3ecb","infoHashBuffer":{"type":"Buffer","data":[218,64,244,6,172,221,167,168,115,226,209,238,217,211,147,167,61,106,62,203]},"announce":[],"urlList":[]}}
+{
+  "title": "[MV] Mark Ronson ft. Bruno Mars - Uptown Funk (1080P)",
+  "uid": 11520239,
+  "size": 145041605,
+  "categoryP": "video",
+  "categoryS": "music_videos",
+  "magnet": "?xt=urn:btih:da40f406acdda7a873e2d1eed9d393a73d6a3ecb&amp;dn=%5BMV%5D+Mark+Ronson+ft.+Bruno+Mars+-+Uptown+Funk+%281080P%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 2,
+  "uploader": null,
+  "files": 1,
+  "time": 1416443359,
+  "description": "Mark Ronson ft. Bruno Mars - Uptown Funk (Webrip 1080P).mp4\nVideo\nWidth                                    : 1 920 pixels\nHeight                                   : 1 080 pixels\n\nAudio\nBit rate                                 : 254 Kbps\n\nThumbnail: http://i.imgur.com/tfqf2J3.jpg",
+  "parsed": {
+    "xt": "urn:btih:da40f406acdda7a873e2d1eed9d393a73d6a3ecb",
+    "dn": "[MV] Mark Ronson ft. Bruno Mars - Uptown Funk (1080P)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "da40f406acdda7a873e2d1eed9d393a73d6a3ecb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        218,
+        64,
+        244,
+        6,
+        172,
+        221,
+        167,
+        168,
+        115,
+        226,
+        209,
+        238,
+        217,
+        211,
+        147,
+        167,
+        61,
+        106,
+        62,
+        203
+      ]
+    },
+    "name": "[MV] Mark Ronson ft. Bruno Mars - Uptown Funk (1080P)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 16,
+  "last_updated": "2016-12-25T15:32:45.137Z"
+}

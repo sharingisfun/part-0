@@ -1,1 +1,61 @@
-{"title":"Zoo.S01E11E12.HDTV.x264-LOL[ettv]","uid":12381563,"size":692911649,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:dcb92023f971a43d611c8358429372ab6a0ad1b4&amp;dn=Zoo.S01E11E12.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":219,"leechers":15,"uploader":"ettv","files":3,"time":1441768213,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:dcb92023f971a43d611c8358429372ab6a0ad1b4","amp;dn":"Zoo.S01E11E12.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dcb92023f971a43d611c8358429372ab6a0ad1b4","infoHashBuffer":{"type":"Buffer","data":[220,185,32,35,249,113,164,61,97,28,131,88,66,147,114,171,106,10,209,180]},"announce":[],"urlList":[]}}
+{
+  "title": "Zoo.S01E11E12.HDTV.x264-LOL[ettv]",
+  "uid": 12381563,
+  "size": 692911649,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:dcb92023f971a43d611c8358429372ab6a0ad1b4&amp;dn=Zoo.S01E11E12.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 219,
+  "leechers": 15,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1441768213,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:dcb92023f971a43d611c8358429372ab6a0ad1b4",
+    "dn": "Zoo.S01E11E12.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dcb92023f971a43d611c8358429372ab6a0ad1b4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        220,
+        185,
+        32,
+        35,
+        249,
+        113,
+        164,
+        61,
+        97,
+        28,
+        131,
+        88,
+        66,
+        147,
+        114,
+        171,
+        106,
+        10,
+        209,
+        180
+      ]
+    },
+    "name": "Zoo.S01E11E12.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 234,
+  "peers": 73,
+  "last_updated": "2016-12-25T15:46:34.649Z"
+}

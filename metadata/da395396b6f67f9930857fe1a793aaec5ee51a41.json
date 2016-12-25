@@ -1,1 +1,61 @@
-{"title":"San Cisco - San Cisco [Album - 2012]","uid":7856979,"size":92226393,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:da395396b6f67f9930857fe1a793aaec5ee51a41&amp;dn=San+Cisco+-+San+Cisco+%5BAlbum+-+2012%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":1,"uploader":"l3endik","files":-1,"time":1353793486,"description":"Artist: San Cisco\nAlbum: San Cisco\nGenre: Alternative\nBitrate: 320 kbps CBR\nRelease date: November 23, 2012\nSource:  &lt;a href=&quot;\nhttps://itunes.apple.com/au/album/san-cisco/id571524780&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://itunes.apple.com/au/album/san-cisco/id571524780&lt;/a&gt;\n\n\nT R A C K L I S T\n*****************\n01 Beach\n02 Fred Astaire\n03 Hunter\n04 Wild Things\n05 No Friends\n06 Lyall\n07 Metaphors\n08 Mission Failed\n09 Stella\n10 Toast\n11 Nepal\n12 Outro\n13 John's Song (Bonus Track)\n*****************\nPlease support the artist!","torrent":{"xt":"urn:btih:da395396b6f67f9930857fe1a793aaec5ee51a41","amp;dn":"San+Cisco+-+San+Cisco+%5BAlbum+-+2012%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"da395396b6f67f9930857fe1a793aaec5ee51a41","infoHashBuffer":{"type":"Buffer","data":[218,57,83,150,182,246,127,153,48,133,127,225,167,147,170,236,94,229,26,65]},"announce":[],"urlList":[]}}
+{
+  "title": "San Cisco - San Cisco [Album - 2012]",
+  "uid": 7856979,
+  "size": 92226393,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:da395396b6f67f9930857fe1a793aaec5ee51a41&amp;dn=San+Cisco+-+San+Cisco+%5BAlbum+-+2012%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 1,
+  "uploader": "l3endik",
+  "files": -1,
+  "time": 1353793486,
+  "description": "Artist: San Cisco\nAlbum: San Cisco\nGenre: Alternative\nBitrate: 320 kbps CBR\nRelease date: November 23, 2012\nSource:  &lt;a href=&quot;\nhttps://itunes.apple.com/au/album/san-cisco/id571524780&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://itunes.apple.com/au/album/san-cisco/id571524780&lt;/a&gt;\n\n\nT R A C K L I S T\n*****************\n01 Beach\n02 Fred Astaire\n03 Hunter\n04 Wild Things\n05 No Friends\n06 Lyall\n07 Metaphors\n08 Mission Failed\n09 Stella\n10 Toast\n11 Nepal\n12 Outro\n13 John's Song (Bonus Track)\n*****************\nPlease support the artist!",
+  "parsed": {
+    "xt": "urn:btih:da395396b6f67f9930857fe1a793aaec5ee51a41",
+    "dn": "San Cisco - San Cisco [Album - 2012]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "da395396b6f67f9930857fe1a793aaec5ee51a41",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        218,
+        57,
+        83,
+        150,
+        182,
+        246,
+        127,
+        153,
+        48,
+        133,
+        127,
+        225,
+        167,
+        147,
+        170,
+        236,
+        94,
+        229,
+        26,
+        65
+      ]
+    },
+    "name": "San Cisco - San Cisco [Album - 2012]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 72,
+  "peers": 11,
+  "last_updated": "2016-12-25T15:32:39.120Z"
+}

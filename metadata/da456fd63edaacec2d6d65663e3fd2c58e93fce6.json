@@ -1,1 +1,61 @@
-{"title":"Angra - Secret Garden","uid":11844866,"size":117776572,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:da456fd63edaacec2d6d65663e3fd2c58e93fce6&amp;dn=Angra+-+Secret+Garden&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":1,"uploader":"jooeudes23","files":10,"time":1429924491,"description":"MÃƒÂºsicas:\n1. Newborn Me\n2. Black Hearted Soul\n3. Final Light\n4. Storm Of Emotions\n5. Violet Sky\n6. Secret Garden\n7. Upper Levels\n8. Crushing Room\n9. Perfect Symmetry\n10. Silent Call","torrent":{"xt":"urn:btih:da456fd63edaacec2d6d65663e3fd2c58e93fce6","amp;dn":"Angra+-+Secret+Garden","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"da456fd63edaacec2d6d65663e3fd2c58e93fce6","infoHashBuffer":{"type":"Buffer","data":[218,69,111,214,62,218,172,236,45,109,101,102,62,63,210,197,142,147,252,230]},"announce":[],"urlList":[]}}
+{
+  "title": "Angra - Secret Garden",
+  "uid": 11844866,
+  "size": 117776572,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:da456fd63edaacec2d6d65663e3fd2c58e93fce6&amp;dn=Angra+-+Secret+Garden&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 1,
+  "uploader": "jooeudes23",
+  "files": 10,
+  "time": 1429924491,
+  "description": "MÃƒÂºsicas:\n1. Newborn Me\n2. Black Hearted Soul\n3. Final Light\n4. Storm Of Emotions\n5. Violet Sky\n6. Secret Garden\n7. Upper Levels\n8. Crushing Room\n9. Perfect Symmetry\n10. Silent Call",
+  "parsed": {
+    "xt": "urn:btih:da456fd63edaacec2d6d65663e3fd2c58e93fce6",
+    "dn": "Angra - Secret Garden",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "da456fd63edaacec2d6d65663e3fd2c58e93fce6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        218,
+        69,
+        111,
+        214,
+        62,
+        218,
+        172,
+        236,
+        45,
+        109,
+        101,
+        102,
+        62,
+        63,
+        210,
+        197,
+        142,
+        147,
+        252,
+        230
+      ]
+    },
+    "name": "Angra - Secret Garden",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 21,
+  "last_updated": "2016-12-25T15:32:49.148Z"
+}

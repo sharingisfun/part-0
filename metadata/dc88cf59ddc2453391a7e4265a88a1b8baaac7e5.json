@@ -1,1 +1,61 @@
-{"title":"Ed Sheeran - Lego House 2011 Stumpie1971","uid":6781989,"size":3931774,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:dc88cf59ddc2453391a7e4265a88a1b8baaac7e5&amp;dn=Ed+Sheeran+-+Lego+House+2011+Stumpie1971&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":0,"uploader":"stumpie1971","files":-1,"time":1319935699,"description":"ED SHEERAN - LEGO HOUSE ITUNES RIP\n\nENJOY &amp; SEED\n\nRIPPED BY Stumpie1971","torrent":{"xt":"urn:btih:dc88cf59ddc2453391a7e4265a88a1b8baaac7e5","amp;dn":"Ed+Sheeran+-+Lego+House+2011+Stumpie1971","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dc88cf59ddc2453391a7e4265a88a1b8baaac7e5","infoHashBuffer":{"type":"Buffer","data":[220,136,207,89,221,194,69,51,145,167,228,38,90,136,161,184,186,170,199,229]},"announce":[],"urlList":[]}}
+{
+  "title": "Ed Sheeran - Lego House 2011 Stumpie1971",
+  "uid": 6781989,
+  "size": 3931774,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:dc88cf59ddc2453391a7e4265a88a1b8baaac7e5&amp;dn=Ed+Sheeran+-+Lego+House+2011+Stumpie1971&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 0,
+  "uploader": "stumpie1971",
+  "files": -1,
+  "time": 1319935699,
+  "description": "ED SHEERAN - LEGO HOUSE ITUNES RIP\n\nENJOY &amp; SEED\n\nRIPPED BY Stumpie1971",
+  "parsed": {
+    "xt": "urn:btih:dc88cf59ddc2453391a7e4265a88a1b8baaac7e5",
+    "dn": "Ed Sheeran - Lego House 2011 Stumpie1971",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dc88cf59ddc2453391a7e4265a88a1b8baaac7e5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        220,
+        136,
+        207,
+        89,
+        221,
+        194,
+        69,
+        51,
+        145,
+        167,
+        228,
+        38,
+        90,
+        136,
+        161,
+        184,
+        186,
+        170,
+        199,
+        229
+      ]
+    },
+    "name": "Ed Sheeran - Lego House 2011 Stumpie1971",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 17,
+  "last_updated": "2016-12-25T15:45:32.434Z"
+}

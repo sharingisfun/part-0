@@ -1,1 +1,61 @@
-{"title":"Guns and Roses Discography","uid":5245641,"size":763852371,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:dc406104cce8cbf7ab2fff769f81a147df2693c1&amp;dn=Guns+and+Roses+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":174,"leechers":33,"uploader":"dlbioacid","files":116,"time":1261971589,"description":"Guns N Roses - 1987 - Appetite For Destruction\nGuns N Roses - 1988 - Lies\nGuns N Roses - 1991 - Use Your Illusion I\nGuns N Roses - 1991 - Use Your Illusion II\nGuns N Roses - 1991 Make My Day Rare Tracks\nGuns N Roses - 1993 - The Spaghetti Incident\nGuns N Roses - 1999 - Live Era '87-'93 (CD 1)\nGuns N Roses - 1999 - Live Era '87-'93 (CD 2)\nGuns N Roses - Welcome To Destruction","torrent":{"xt":"urn:btih:dc406104cce8cbf7ab2fff769f81a147df2693c1","amp;dn":"Guns+and+Roses+Discography","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dc406104cce8cbf7ab2fff769f81a147df2693c1","infoHashBuffer":{"type":"Buffer","data":[220,64,97,4,204,232,203,247,171,47,255,118,159,129,161,71,223,38,147,193]},"announce":[],"urlList":[]}}
+{
+  "title": "Guns and Roses Discography",
+  "uid": 5245641,
+  "size": 763852371,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:dc406104cce8cbf7ab2fff769f81a147df2693c1&amp;dn=Guns+and+Roses+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 174,
+  "leechers": 33,
+  "uploader": "dlbioacid",
+  "files": 116,
+  "time": 1261971589,
+  "description": "Guns N Roses - 1987 - Appetite For Destruction\nGuns N Roses - 1988 - Lies\nGuns N Roses - 1991 - Use Your Illusion I\nGuns N Roses - 1991 - Use Your Illusion II\nGuns N Roses - 1991 Make My Day Rare Tracks\nGuns N Roses - 1993 - The Spaghetti Incident\nGuns N Roses - 1999 - Live Era '87-'93 (CD 1)\nGuns N Roses - 1999 - Live Era '87-'93 (CD 2)\nGuns N Roses - Welcome To Destruction",
+  "parsed": {
+    "xt": "urn:btih:dc406104cce8cbf7ab2fff769f81a147df2693c1",
+    "dn": "Guns and Roses Discography",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dc406104cce8cbf7ab2fff769f81a147df2693c1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        220,
+        64,
+        97,
+        4,
+        204,
+        232,
+        203,
+        247,
+        171,
+        47,
+        255,
+        118,
+        159,
+        129,
+        161,
+        71,
+        223,
+        38,
+        147,
+        193
+      ]
+    },
+    "name": "Guns and Roses Discography",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 207,
+  "peers": 0,
+  "last_updated": "2016-12-25T15:43:47.932Z"
+}
