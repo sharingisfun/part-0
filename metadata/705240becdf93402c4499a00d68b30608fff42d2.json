@@ -1,1 +1,61 @@
-{"title":"Lynda - Up and Running with AngularJS (2014)","uid":9865492,"size":243712040,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:705240becdf93402c4499a00d68b30608fff42d2&amp;dn=Lynda+-+Up+and+Running+with+AngularJS+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":4,"uploader":"yousef86","files":346,"time":1396344375,"description":"Up and Running with AngularJS (2014)\n====================================\n1h 19m | Intermediate | Mar 25, 2014 | Exercise Files |232 MB\nAudio: aac, 44100 Hz, 2 channels, s16, 160 kb/s (eng)\nVideo: h264, yuv420p, 1280x720, 2498 kb/s, 23,98\n\n\n\nGet a fresh look at AngularJS, a &quot;superheroic&quot; framework for building single-page web applications fast. Ray Villalobos shows you how to understand the practical uses of AngularJS with a directory search project-a traditional type of web app you can add to your existing sites. He defines the MVC architecture underlying AngularJS: the model (your data), views (how data is flowed into your template), and controllers (the javascript that links the two together). You then learn how to divide your project into modules; work with services like $http, $routeProvider, and animation; and set up deep linking and navigation. Start now, and learn the simple way to build your own complex web application.\n\nTopics include:\n===============\n*What is AngularJS?\n*Working with complex models\n*Using a the $http service to read a JSON file\n*Binding data\n*Dividing your app into partials\n*Creating a details template\n*Using AngularJS animation events\n\n\nIntroduction 3m 11s\n-------------------\nWelcome 1m 13s\nWhat you should know 1m 14s\nUsing the exercise files 44s\n\n1. Getting Started 24m 9s\n-------------------------\nWhat is AngularJS? 8m 20s\nInstalling and running a basic application 7m 29s\nUnderstanding the Model-View-Controller architecture 4m 14s\nUsing modules and scope 4m 6s\n\n2. Working with Models 23m 18s\n------------------------------\nWorking with complex models 7m 48s\nUsing the $http service to read a JSON file 6m 56s\nFiltering content using directives 1m 37s\nBinding to input fields through filters 6m 57s\n\n3. Dividing your App into Partials 27m 48s\n------------------------------------------\nSetting up deep linking 5m 13s\nWorking with the $routeProvider service 3m 46s\nWiring up a second partial 5m 36s\nCreating our details template 2m 56s\nAdding navigation to our details page 4m 0s\nUsing Angular animation events 6m 17s\n\nConclusion 1m 1s\n----------------\nNext steps 1m 1s ","torrent":{"xt":"urn:btih:705240becdf93402c4499a00d68b30608fff42d2","amp;dn":"Lynda+-+Up+and+Running+with+AngularJS+%282014%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"705240becdf93402c4499a00d68b30608fff42d2","infoHashBuffer":{"type":"Buffer","data":[112,82,64,190,205,249,52,2,196,73,154,0,214,139,48,96,143,255,66,210]},"announce":[],"urlList":[]}}
+{
+  "title": "Lynda - Up and Running with AngularJS (2014)",
+  "uid": 9865492,
+  "size": 243712040,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:705240becdf93402c4499a00d68b30608fff42d2&amp;dn=Lynda+-+Up+and+Running+with+AngularJS+%282014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 4,
+  "uploader": "yousef86",
+  "files": 346,
+  "time": 1396344375,
+  "description": "Up and Running with AngularJS (2014)\n====================================\n1h 19m | Intermediate | Mar 25, 2014 | Exercise Files |232 MB\nAudio: aac, 44100 Hz, 2 channels, s16, 160 kb/s (eng)\nVideo: h264, yuv420p, 1280x720, 2498 kb/s, 23,98\n\n\n\nGet a fresh look at AngularJS, a &quot;superheroic&quot; framework for building single-page web applications fast. Ray Villalobos shows you how to understand the practical uses of AngularJS with a directory search project-a traditional type of web app you can add to your existing sites. He defines the MVC architecture underlying AngularJS: the model (your data), views (how data is flowed into your template), and controllers (the javascript that links the two together). You then learn how to divide your project into modules; work with services like $http, $routeProvider, and animation; and set up deep linking and navigation. Start now, and learn the simple way to build your own complex web application.\n\nTopics include:\n===============\n*What is AngularJS?\n*Working with complex models\n*Using a the $http service to read a JSON file\n*Binding data\n*Dividing your app into partials\n*Creating a details template\n*Using AngularJS animation events\n\n\nIntroduction 3m 11s\n-------------------\nWelcome 1m 13s\nWhat you should know 1m 14s\nUsing the exercise files 44s\n\n1. Getting Started 24m 9s\n-------------------------\nWhat is AngularJS? 8m 20s\nInstalling and running a basic application 7m 29s\nUnderstanding the Model-View-Controller architecture 4m 14s\nUsing modules and scope 4m 6s\n\n2. Working with Models 23m 18s\n------------------------------\nWorking with complex models 7m 48s\nUsing the $http service to read a JSON file 6m 56s\nFiltering content using directives 1m 37s\nBinding to input fields through filters 6m 57s\n\n3. Dividing your App into Partials 27m 48s\n------------------------------------------\nSetting up deep linking 5m 13s\nWorking with the $routeProvider service 3m 46s\nWiring up a second partial 5m 36s\nCreating our details template 2m 56s\nAdding navigation to our details page 4m 0s\nUsing Angular animation events 6m 17s\n\nConclusion 1m 1s\n----------------\nNext steps 1m 1s ",
+  "parsed": {
+    "xt": "urn:btih:705240becdf93402c4499a00d68b30608fff42d2",
+    "dn": "Lynda - Up and Running with AngularJS (2014)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "705240becdf93402c4499a00d68b30608fff42d2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        112,
+        82,
+        64,
+        190,
+        205,
+        249,
+        52,
+        2,
+        196,
+        73,
+        154,
+        0,
+        214,
+        139,
+        48,
+        96,
+        143,
+        255,
+        66,
+        210
+      ]
+    },
+    "name": "Lynda - Up and Running with AngularJS (2014)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 6,
+  "last_updated": "2016-12-25T04:22:56.697Z"
+}

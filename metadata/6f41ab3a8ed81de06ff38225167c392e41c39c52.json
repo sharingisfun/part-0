@@ -1,1 +1,61 @@
-{"title":"HYPERSONIC 2","uid":10606587,"size":1695662080,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:6f41ab3a8ed81de06ff38225167c392e41c39c52&amp;dn=HYPERSONIC+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":132,"leechers":5,"uploader":"josuehandrade","files":1,"time":1405988230,"description":"Hypersonic 2 - Funcionando Blz!","torrent":{"xt":"urn:btih:6f41ab3a8ed81de06ff38225167c392e41c39c52","amp;dn":"HYPERSONIC+2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6f41ab3a8ed81de06ff38225167c392e41c39c52","infoHashBuffer":{"type":"Buffer","data":[111,65,171,58,142,216,29,224,111,243,130,37,22,124,57,46,65,195,156,82]},"announce":[],"urlList":[]}}
+{
+  "title": "HYPERSONIC 2",
+  "uid": 10606587,
+  "size": 1695662080,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:6f41ab3a8ed81de06ff38225167c392e41c39c52&amp;dn=HYPERSONIC+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 132,
+  "leechers": 5,
+  "uploader": "josuehandrade",
+  "files": 1,
+  "time": 1405988230,
+  "description": "Hypersonic 2 - Funcionando Blz!",
+  "parsed": {
+    "xt": "urn:btih:6f41ab3a8ed81de06ff38225167c392e41c39c52",
+    "dn": "HYPERSONIC 2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6f41ab3a8ed81de06ff38225167c392e41c39c52",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        111,
+        65,
+        171,
+        58,
+        142,
+        216,
+        29,
+        224,
+        111,
+        243,
+        130,
+        37,
+        22,
+        124,
+        57,
+        46,
+        65,
+        195,
+        156,
+        82
+      ]
+    },
+    "name": "HYPERSONIC 2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 137,
+  "peers": 66,
+  "last_updated": "2016-12-25T04:16:07.221Z"
+}

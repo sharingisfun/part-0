@@ -1,1 +1,61 @@
-{"title":"Birdman.2014.720p.BluRay.x264-SPARKS","uid":11710552,"size":5933430482,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:6df988a0c5efabe84b91b625c6d1f54156f04f1b&amp;dn=Birdman.2014.720p.BluRay.x264-SPARKS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":128,"leechers":14,"uploader":"GoodFilms","files":7,"time":1424321313,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt2562232/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt2562232/&lt;/a&gt;","torrent":{"xt":"urn:btih:6df988a0c5efabe84b91b625c6d1f54156f04f1b","amp;dn":"Birdman.2014.720p.BluRay.x264-SPARKS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6df988a0c5efabe84b91b625c6d1f54156f04f1b","infoHashBuffer":{"type":"Buffer","data":[109,249,136,160,197,239,171,232,75,145,182,37,198,209,245,65,86,240,79,27]},"announce":[],"urlList":[]}}
+{
+  "title": "Birdman.2014.720p.BluRay.x264-SPARKS",
+  "uid": 11710552,
+  "size": 5933430482,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:6df988a0c5efabe84b91b625c6d1f54156f04f1b&amp;dn=Birdman.2014.720p.BluRay.x264-SPARKS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 128,
+  "leechers": 14,
+  "uploader": "GoodFilms",
+  "files": 7,
+  "time": 1424321313,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt2562232/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt2562232/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:6df988a0c5efabe84b91b625c6d1f54156f04f1b",
+    "dn": "Birdman.2014.720p.BluRay.x264-SPARKS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6df988a0c5efabe84b91b625c6d1f54156f04f1b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        109,
+        249,
+        136,
+        160,
+        197,
+        239,
+        171,
+        232,
+        75,
+        145,
+        182,
+        37,
+        198,
+        209,
+        245,
+        65,
+        86,
+        240,
+        79,
+        27
+      ]
+    },
+    "name": "Birdman.2014.720p.BluRay.x264-SPARKS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 142,
+  "peers": 17,
+  "last_updated": "2016-12-25T04:07:55.660Z"
+}

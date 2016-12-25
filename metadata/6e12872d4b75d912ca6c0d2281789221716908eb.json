@@ -1,1 +1,61 @@
-{"title":"Asgeir - In the Silence [2013] 320kbps","uid":10016351,"size":76259915,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:6e12872d4b75d912ca6c0d2281789221716908eb&amp;dn=Asgeir+-+In+the+Silence+%5B2013%5D+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":1,"uploader":"Zebrac","files":11,"time":1398149485,"description":"Asgeir - In the Silence [2013] 320kbps\nFUll ALBUM (MP3)\n\nÃƒï¿½sgeir - In the Silence\n\nLabel: One Little Indian Records\nYear: 2013\n\nTracklisting:\n1. Higher (03:22)\n2. In the Silence (03:54)\n3. Summer Guest (03:44)\n4. King and Cross (03:32)\n5. Was There Nothing? (03:49)\n6. Torrent (03:35)\n7. Going Home (04:50)\n8. Head in the Snow (04:14)\n9. In Harmony (04:18)\n10. On That Day (03:45)\nTotal runtime: 39:03\n","torrent":{"xt":"urn:btih:6e12872d4b75d912ca6c0d2281789221716908eb","amp;dn":"Asgeir+-+In+the+Silence+%5B2013%5D+320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6e12872d4b75d912ca6c0d2281789221716908eb","infoHashBuffer":{"type":"Buffer","data":[110,18,135,45,75,117,217,18,202,108,13,34,129,120,146,33,113,105,8,235]},"announce":[],"urlList":[]}}
+{
+  "title": "Asgeir - In the Silence [2013] 320kbps",
+  "uid": 10016351,
+  "size": 76259915,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:6e12872d4b75d912ca6c0d2281789221716908eb&amp;dn=Asgeir+-+In+the+Silence+%5B2013%5D+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 1,
+  "uploader": "Zebrac",
+  "files": 11,
+  "time": 1398149485,
+  "description": "Asgeir - In the Silence [2013] 320kbps\nFUll ALBUM (MP3)\n\nÃƒï¿½sgeir - In the Silence\n\nLabel: One Little Indian Records\nYear: 2013\n\nTracklisting:\n1. Higher (03:22)\n2. In the Silence (03:54)\n3. Summer Guest (03:44)\n4. King and Cross (03:32)\n5. Was There Nothing? (03:49)\n6. Torrent (03:35)\n7. Going Home (04:50)\n8. Head in the Snow (04:14)\n9. In Harmony (04:18)\n10. On That Day (03:45)\nTotal runtime: 39:03\n",
+  "parsed": {
+    "xt": "urn:btih:6e12872d4b75d912ca6c0d2281789221716908eb",
+    "dn": "Asgeir - In the Silence [2013] 320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6e12872d4b75d912ca6c0d2281789221716908eb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        110,
+        18,
+        135,
+        45,
+        75,
+        117,
+        217,
+        18,
+        202,
+        108,
+        13,
+        34,
+        129,
+        120,
+        146,
+        33,
+        113,
+        105,
+        8,
+        235
+      ]
+    },
+    "name": "Asgeir - In the Silence [2013] 320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 7,
+  "last_updated": "2016-12-25T04:08:45.811Z"
+}

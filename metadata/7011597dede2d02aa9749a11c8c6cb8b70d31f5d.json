@@ -1,1 +1,61 @@
-{"title":"Trapcode Particular v2.1 + serials","uid":6989254,"size":22543985,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:7011597dede2d02aa9749a11c8c6cb8b70d31f5d&amp;dn=Trapcode+Particular+v2.1+%2B+serials&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":1,"uploader":"Vasilex","files":1,"time":1327653555,"description":"Trapcode Particular v2.1 + serials (Windows version)\n","torrent":{"xt":"urn:btih:7011597dede2d02aa9749a11c8c6cb8b70d31f5d","amp;dn":"Trapcode+Particular+v2.1+%2B+serials","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7011597dede2d02aa9749a11c8c6cb8b70d31f5d","infoHashBuffer":{"type":"Buffer","data":[112,17,89,125,237,226,208,42,169,116,154,17,200,198,203,139,112,211,31,93]},"announce":[],"urlList":[]}}
+{
+  "title": "Trapcode Particular v2.1 + serials",
+  "uid": 6989254,
+  "size": 22543985,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:7011597dede2d02aa9749a11c8c6cb8b70d31f5d&amp;dn=Trapcode+Particular+v2.1+%2B+serials&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 1,
+  "uploader": "Vasilex",
+  "files": 1,
+  "time": 1327653555,
+  "description": "Trapcode Particular v2.1 + serials (Windows version)\n",
+  "parsed": {
+    "xt": "urn:btih:7011597dede2d02aa9749a11c8c6cb8b70d31f5d",
+    "dn": "Trapcode Particular v2.1   serials",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7011597dede2d02aa9749a11c8c6cb8b70d31f5d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        112,
+        17,
+        89,
+        125,
+        237,
+        226,
+        208,
+        42,
+        169,
+        116,
+        154,
+        17,
+        200,
+        198,
+        203,
+        139,
+        112,
+        211,
+        31,
+        93
+      ]
+    },
+    "name": "Trapcode Particular v2.1   serials",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 40,
+  "last_updated": "2016-12-25T04:21:24.367Z"
+}

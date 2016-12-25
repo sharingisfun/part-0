@@ -1,1 +1,61 @@
-{"title":"OBD2","uid":4208103,"size":111583443,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:6fd7a33f49c87488138f709ff9970d320b281110&amp;dn=OBD2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":0,"uploader":"MGZS180","files":18,"time":1211913285,"description":"OBD2/EOBD APPS for reading error codes,1/4 mile runs &amp; much more","torrent":{"xt":"urn:btih:6fd7a33f49c87488138f709ff9970d320b281110","amp;dn":"OBD2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6fd7a33f49c87488138f709ff9970d320b281110","infoHashBuffer":{"type":"Buffer","data":[111,215,163,63,73,200,116,136,19,143,112,159,249,151,13,50,11,40,17,16]},"announce":[],"urlList":[]}}
+{
+  "title": "OBD2",
+  "uid": 4208103,
+  "size": 111583443,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:6fd7a33f49c87488138f709ff9970d320b281110&amp;dn=OBD2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 0,
+  "uploader": "MGZS180",
+  "files": 18,
+  "time": 1211913285,
+  "description": "OBD2/EOBD APPS for reading error codes,1/4 mile runs &amp; much more",
+  "parsed": {
+    "xt": "urn:btih:6fd7a33f49c87488138f709ff9970d320b281110",
+    "dn": "OBD2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6fd7a33f49c87488138f709ff9970d320b281110",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        111,
+        215,
+        163,
+        63,
+        73,
+        200,
+        116,
+        136,
+        19,
+        143,
+        112,
+        159,
+        249,
+        151,
+        13,
+        50,
+        11,
+        40,
+        17,
+        16
+      ]
+    },
+    "name": "OBD2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 28,
+  "last_updated": "2016-12-25T04:19:36.000Z"
+}

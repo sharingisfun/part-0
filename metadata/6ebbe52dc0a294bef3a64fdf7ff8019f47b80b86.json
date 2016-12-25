@@ -1,1 +1,61 @@
-{"title":"Passenger-All_The_Little_Lights-Limited_Deluxe_Edition-2CD-2013-","uid":8618135,"size":118591075,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:6ebbe52dc0a294bef3a64fdf7ff8019f47b80b86&amp;dn=Passenger-All_The_Little_Lights-Limited_Deluxe_Edition-2CD-2013-&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":2,"uploader":"-wxm-","files":24,"time":1372296344,"description":"Passenger-All_The_Little_Lights-Limited_Deluxe_Edition-2CD-2013-C4\n &lt;a href=&quot;\nhttp://i.imgur.com/7YmqyhO.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/7YmqyhO.jpg&lt;/a&gt;","torrent":{"xt":"urn:btih:6ebbe52dc0a294bef3a64fdf7ff8019f47b80b86","amp;dn":"Passenger-All_The_Little_Lights-Limited_Deluxe_Edition-2CD-2013-","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6ebbe52dc0a294bef3a64fdf7ff8019f47b80b86","infoHashBuffer":{"type":"Buffer","data":[110,187,229,45,192,162,148,190,243,166,79,223,127,248,1,159,71,184,11,134]},"announce":[],"urlList":[]}}
+{
+  "title": "Passenger-All_The_Little_Lights-Limited_Deluxe_Edition-2CD-2013-",
+  "uid": 8618135,
+  "size": 118591075,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:6ebbe52dc0a294bef3a64fdf7ff8019f47b80b86&amp;dn=Passenger-All_The_Little_Lights-Limited_Deluxe_Edition-2CD-2013-&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 2,
+  "uploader": "-wxm-",
+  "files": 24,
+  "time": 1372296344,
+  "description": "Passenger-All_The_Little_Lights-Limited_Deluxe_Edition-2CD-2013-C4\n &lt;a href=&quot;\nhttp://i.imgur.com/7YmqyhO.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/7YmqyhO.jpg&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:6ebbe52dc0a294bef3a64fdf7ff8019f47b80b86",
+    "dn": "Passenger-All_The_Little_Lights-Limited_Deluxe_Edition-2CD-2013-",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6ebbe52dc0a294bef3a64fdf7ff8019f47b80b86",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        110,
+        187,
+        229,
+        45,
+        192,
+        162,
+        148,
+        190,
+        243,
+        166,
+        79,
+        223,
+        127,
+        248,
+        1,
+        159,
+        71,
+        184,
+        11,
+        134
+      ]
+    },
+    "name": "Passenger-All_The_Little_Lights-Limited_Deluxe_Edition-2CD-2013-",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 76,
+  "peers": 15,
+  "last_updated": "2016-12-25T04:12:28.458Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Roxette 2014 XXX The 30 Biggest Hits 2 CD","uid":11831843,"size":295532447,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:70112af984b11e49dd54fc08108497cac4b04deb&amp;dn=Roxette+2014+XXX+The+30+Biggest+Hits+2+CD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":130,"leechers":19,"uploader":"Capajebo","files":32,"time":1429623782,"description":" &lt;a href=&quot;http://imgur.com/1morFT0&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/1morFT0&lt;/a&gt; ... Roxette 2014 XXX The 30 Biggest Hits 2CD .:. 1389","torrent":{"xt":"urn:btih:70112af984b11e49dd54fc08108497cac4b04deb","amp;dn":"Roxette+2014+XXX+The+30+Biggest+Hits+2+CD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"70112af984b11e49dd54fc08108497cac4b04deb","infoHashBuffer":{"type":"Buffer","data":[112,17,42,249,132,177,30,73,221,84,252,8,16,132,151,202,196,176,77,235]},"announce":[],"urlList":[]}}
+{
+  "title": "Roxette 2014 XXX The 30 Biggest Hits 2 CD",
+  "uid": 11831843,
+  "size": 295532447,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:70112af984b11e49dd54fc08108497cac4b04deb&amp;dn=Roxette+2014+XXX+The+30+Biggest+Hits+2+CD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 130,
+  "leechers": 19,
+  "uploader": "Capajebo",
+  "files": 32,
+  "time": 1429623782,
+  "description": " &lt;a href=&quot;http://imgur.com/1morFT0&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://imgur.com/1morFT0&lt;/a&gt; ... Roxette 2014 XXX The 30 Biggest Hits 2CD .:. 1389",
+  "parsed": {
+    "xt": "urn:btih:70112af984b11e49dd54fc08108497cac4b04deb",
+    "dn": "Roxette 2014 XXX The 30 Biggest Hits 2 CD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "70112af984b11e49dd54fc08108497cac4b04deb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        112,
+        17,
+        42,
+        249,
+        132,
+        177,
+        30,
+        73,
+        221,
+        84,
+        252,
+        8,
+        16,
+        132,
+        151,
+        202,
+        196,
+        176,
+        77,
+        235
+      ]
+    },
+    "name": "Roxette 2014 XXX The 30 Biggest Hits 2 CD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 149,
+  "peers": 8,
+  "last_updated": "2016-12-25T04:21:22.363Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Calle 13 Multiviral","uid":9713609,"size":143081697,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:6de202bd1f77ca52cbbec27195a4508e0e6dba63&amp;dn=Calle+13+Multiviral&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":129,"leechers":7,"uploader":"chicox37","files":16,"time":1394133147,"description":"El nuevo disco de Calle 13","torrent":{"xt":"urn:btih:6de202bd1f77ca52cbbec27195a4508e0e6dba63","amp;dn":"Calle+13+Multiviral","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6de202bd1f77ca52cbbec27195a4508e0e6dba63","infoHashBuffer":{"type":"Buffer","data":[109,226,2,189,31,119,202,82,203,190,194,113,149,164,80,142,14,109,186,99]},"announce":[],"urlList":[]}}
+{
+  "title": "Calle 13 Multiviral",
+  "uid": 9713609,
+  "size": 143081697,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:6de202bd1f77ca52cbbec27195a4508e0e6dba63&amp;dn=Calle+13+Multiviral&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 129,
+  "leechers": 7,
+  "uploader": "chicox37",
+  "files": 16,
+  "time": 1394133147,
+  "description": "El nuevo disco de Calle 13",
+  "parsed": {
+    "xt": "urn:btih:6de202bd1f77ca52cbbec27195a4508e0e6dba63",
+    "dn": "Calle 13 Multiviral",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6de202bd1f77ca52cbbec27195a4508e0e6dba63",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        109,
+        226,
+        2,
+        189,
+        31,
+        119,
+        202,
+        82,
+        203,
+        190,
+        194,
+        113,
+        149,
+        164,
+        80,
+        142,
+        14,
+        109,
+        186,
+        99
+      ]
+    },
+    "name": "Calle 13 Multiviral",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 136,
+  "peers": 35,
+  "last_updated": "2016-12-25T04:07:25.569Z"
+}

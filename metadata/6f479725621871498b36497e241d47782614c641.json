@@ -1,1 +1,61 @@
-{"title":"Suits.S01E03.Inside.Track.HDTV.XviD-FQM.[VTV].avi","uid":6524162,"size":367451272,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:6f479725621871498b36497e241d47782614c641&amp;dn=Suits.S01E03.Inside.Track.HDTV.XviD-FQM.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":136,"leechers":43,"uploader":"VTV","files":1,"time":1310103167,"description":"Suits 1x03 (HDTV-FQM)[VTV]","torrent":{"xt":"urn:btih:6f479725621871498b36497e241d47782614c641","amp;dn":"Suits.S01E03.Inside.Track.HDTV.XviD-FQM.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6f479725621871498b36497e241d47782614c641","infoHashBuffer":{"type":"Buffer","data":[111,71,151,37,98,24,113,73,139,54,73,126,36,29,71,120,38,20,198,65]},"announce":[],"urlList":[]}}
+{
+  "title": "Suits.S01E03.Inside.Track.HDTV.XviD-FQM.[VTV].avi",
+  "uid": 6524162,
+  "size": 367451272,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:6f479725621871498b36497e241d47782614c641&amp;dn=Suits.S01E03.Inside.Track.HDTV.XviD-FQM.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 136,
+  "leechers": 43,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1310103167,
+  "description": "Suits 1x03 (HDTV-FQM)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:6f479725621871498b36497e241d47782614c641",
+    "dn": "Suits.S01E03.Inside.Track.HDTV.XviD-FQM.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6f479725621871498b36497e241d47782614c641",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        111,
+        71,
+        151,
+        37,
+        98,
+        24,
+        113,
+        73,
+        139,
+        54,
+        73,
+        126,
+        36,
+        29,
+        71,
+        120,
+        38,
+        20,
+        198,
+        65
+      ]
+    },
+    "name": "Suits.S01E03.Inside.Track.HDTV.XviD-FQM.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 179,
+  "peers": 126,
+  "last_updated": "2016-12-25T04:16:13.244Z"
+}

@@ -1,1 +1,61 @@
-{"title":"The Mentalist 480p BluRay x264 S01 Season 1-GAnGSteR","uid":9475701,"size":5691318401,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:6fbffb1d2cd3420ade4dc958b60f98b8c608693d&amp;dn=The+Mentalist+480p+BluRay+x264+S01+Season+1-GAnGSteR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":40,"uploader":"LOoTerAa","files":23,"time":1389689925,"description":"info:","torrent":{"xt":"urn:btih:6fbffb1d2cd3420ade4dc958b60f98b8c608693d","amp;dn":"The+Mentalist+480p+BluRay+x264+S01+Season+1-GAnGSteR","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6fbffb1d2cd3420ade4dc958b60f98b8c608693d","infoHashBuffer":{"type":"Buffer","data":[111,191,251,29,44,211,66,10,222,77,201,88,182,15,152,184,198,8,105,61]},"announce":[],"urlList":[]}}
+{
+  "title": "The Mentalist 480p BluRay x264 S01 Season 1-GAnGSteR",
+  "uid": 9475701,
+  "size": 5691318401,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:6fbffb1d2cd3420ade4dc958b60f98b8c608693d&amp;dn=The+Mentalist+480p+BluRay+x264+S01+Season+1-GAnGSteR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 40,
+  "uploader": "LOoTerAa",
+  "files": 23,
+  "time": 1389689925,
+  "description": "info:",
+  "parsed": {
+    "xt": "urn:btih:6fbffb1d2cd3420ade4dc958b60f98b8c608693d",
+    "dn": "The Mentalist 480p BluRay x264 S01 Season 1-GAnGSteR",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6fbffb1d2cd3420ade4dc958b60f98b8c608693d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        111,
+        191,
+        251,
+        29,
+        44,
+        211,
+        66,
+        10,
+        222,
+        77,
+        201,
+        88,
+        182,
+        15,
+        152,
+        184,
+        198,
+        8,
+        105,
+        61
+      ]
+    },
+    "name": "The Mentalist 480p BluRay x264 S01 Season 1-GAnGSteR",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 111,
+  "peers": 22,
+  "last_updated": "2016-12-25T04:19:03.856Z"
+}

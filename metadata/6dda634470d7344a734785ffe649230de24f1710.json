@@ -1,1 +1,61 @@
-{"title":"Hex-Rays IDA Pro v6.6 Incl Decompiler SDK Utils And Patch Repack","uid":11686855,"size":219132635,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:6dda634470d7344a734785ffe649230de24f1710&amp;dn=Hex-Rays+IDA+Pro+v6.6+Incl+Decompiler+SDK+Utils+And+Patch+Repack&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":1,"uploader":"allofit","files":1,"time":1423351853,"description":"Hex-Rays IDA 6.6.141224 with x86 and ARM Decompiler v2.0.0.140605\n\n1.) Install IDA 6.6.140604 using the installer and password in Setup/IDA_PRO_SETUP\n2.) Upgrade to IDA 6.6.141224 by replacing install files with the ones in Patch/Patch\n3.) Enjoy!\n\nNotes:\nYou can open old databases by installing the plugin in Patch/IDA DB Fix\nThe full SDK for IDA development is in SDK\nOptional python plugins are located in Plugins/IDAPython-1.7.0_IDA6.6_py2.7_win32\nOptional BinDiff and WinDbg are also included in Setup","torrent":{"xt":"urn:btih:6dda634470d7344a734785ffe649230de24f1710","amp;dn":"Hex-Rays+IDA+Pro+v6.6+Incl+Decompiler+SDK+Utils+And+Patch+Repack","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6dda634470d7344a734785ffe649230de24f1710","infoHashBuffer":{"type":"Buffer","data":[109,218,99,68,112,215,52,74,115,71,133,255,230,73,35,13,226,79,23,16]},"announce":[],"urlList":[]}}
+{
+  "title": "Hex-Rays IDA Pro v6.6 Incl Decompiler SDK Utils And Patch Repack",
+  "uid": 11686855,
+  "size": 219132635,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:6dda634470d7344a734785ffe649230de24f1710&amp;dn=Hex-Rays+IDA+Pro+v6.6+Incl+Decompiler+SDK+Utils+And+Patch+Repack&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 1,
+  "uploader": "allofit",
+  "files": 1,
+  "time": 1423351853,
+  "description": "Hex-Rays IDA 6.6.141224 with x86 and ARM Decompiler v2.0.0.140605\n\n1.) Install IDA 6.6.140604 using the installer and password in Setup/IDA_PRO_SETUP\n2.) Upgrade to IDA 6.6.141224 by replacing install files with the ones in Patch/Patch\n3.) Enjoy!\n\nNotes:\nYou can open old databases by installing the plugin in Patch/IDA DB Fix\nThe full SDK for IDA development is in SDK\nOptional python plugins are located in Plugins/IDAPython-1.7.0_IDA6.6_py2.7_win32\nOptional BinDiff and WinDbg are also included in Setup",
+  "parsed": {
+    "xt": "urn:btih:6dda634470d7344a734785ffe649230de24f1710",
+    "dn": "Hex-Rays IDA Pro v6.6 Incl Decompiler SDK Utils And Patch Repack",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6dda634470d7344a734785ffe649230de24f1710",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        109,
+        218,
+        99,
+        68,
+        112,
+        215,
+        52,
+        74,
+        115,
+        71,
+        133,
+        255,
+        230,
+        73,
+        35,
+        13,
+        226,
+        79,
+        23,
+        16
+      ]
+    },
+    "name": "Hex-Rays IDA Pro v6.6 Incl Decompiler SDK Utils And Patch Repack",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 27,
+  "last_updated": "2016-12-25T04:07:05.506Z"
+}

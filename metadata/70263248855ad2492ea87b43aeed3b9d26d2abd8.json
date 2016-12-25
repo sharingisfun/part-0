@@ -1,1 +1,61 @@
-{"title":"Hackintosh Yosemite Zone Version 10.10","uid":11413159,"size":5489696256,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:70263248855ad2492ea87b43aeed3b9d26d2abd8&amp;dn=Hackintosh+Yosemite+Zone+Version+10.10&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":7,"uploader":"zerocoolroot","files":1,"time":1415549014,"description":"Intel Only\n\nFew Notes about this OSX Yosemite Zone 10.10 (Intel Only)\nStandalone Installer\nMBR Patched\nTrim Patched Installation and Post Installation\nXPCM Patch\nRTC Patch\nAuto Install Audio Kexts\nAuto Install Network Kexts\nInstalls Clover &amp; Chameleon Boot-loader\nMany more patches fixes etc, etc you'll love it :)\nIf this helped you please consider a contribution to support further developments.\n\nBy Niresh - Hackintosh Zone","torrent":{"xt":"urn:btih:70263248855ad2492ea87b43aeed3b9d26d2abd8","amp;dn":"Hackintosh+Yosemite+Zone+Version+10.10","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"70263248855ad2492ea87b43aeed3b9d26d2abd8","infoHashBuffer":{"type":"Buffer","data":[112,38,50,72,133,90,210,73,46,168,123,67,174,237,59,157,38,210,171,216]},"announce":[],"urlList":[]}}
+{
+  "title": "Hackintosh Yosemite Zone Version 10.10",
+  "uid": 11413159,
+  "size": 5489696256,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:70263248855ad2492ea87b43aeed3b9d26d2abd8&amp;dn=Hackintosh+Yosemite+Zone+Version+10.10&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 7,
+  "uploader": "zerocoolroot",
+  "files": 1,
+  "time": 1415549014,
+  "description": "Intel Only\n\nFew Notes about this OSX Yosemite Zone 10.10 (Intel Only)\nStandalone Installer\nMBR Patched\nTrim Patched Installation and Post Installation\nXPCM Patch\nRTC Patch\nAuto Install Audio Kexts\nAuto Install Network Kexts\nInstalls Clover &amp; Chameleon Boot-loader\nMany more patches fixes etc, etc you'll love it :)\nIf this helped you please consider a contribution to support further developments.\n\nBy Niresh - Hackintosh Zone",
+  "parsed": {
+    "xt": "urn:btih:70263248855ad2492ea87b43aeed3b9d26d2abd8",
+    "dn": "Hackintosh Yosemite Zone Version 10.10",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "70263248855ad2492ea87b43aeed3b9d26d2abd8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        112,
+        38,
+        50,
+        72,
+        133,
+        90,
+        210,
+        73,
+        46,
+        168,
+        123,
+        67,
+        174,
+        237,
+        59,
+        157,
+        38,
+        210,
+        171,
+        216
+      ]
+    },
+    "name": "Hackintosh Yosemite Zone Version 10.10",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 45,
+  "last_updated": "2016-12-25T04:21:54.474Z"
+}

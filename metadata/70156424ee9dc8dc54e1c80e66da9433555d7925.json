@@ -1,1 +1,61 @@
-{"title":"Sublime Text 3 Build 3062 (Mac OSX) + Activation","uid":10414961,"size":9754188,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:70156424ee9dc8dc54e1c80e66da9433555d7925&amp;dn=Sublime+Text+3+Build+3062+%28Mac+OSX%29+%2B+Activation&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":1,"uploader":"Inter95","files":1,"time":1403576801,"description":"Sublime Text is a cross-platform text and source code editor, with a Python application programming interface (API). Sublime Text is proprietary software. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained.\n\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n\nLanguage support\n\nSublime Text supports a number of different programming languages and is able to highlight syntax for ActionScript, AppleScript, ASP, batch files, C, C++, C#, Clojure, CSS, D, Diff, Erlang, Go, Graphviz (DOT), Groovy, Haskell, HTML, Java, JSP, JavaScript, JSON, LaTeX, Lisp, Lua, Makefiles, Markdown, MATLAB, Objective-C, OCaml, Perl, PHP, Python, R, Rails, Regular Expressions, reStructuredText, Ruby, Scala, shell scripts (Bash), SQL, Tcl, Textile, XML, XSL, and YAML. In addition to those that are included with the initial package, users are able to download add-ons to support other languages/syntaxes.","torrent":{"xt":"urn:btih:70156424ee9dc8dc54e1c80e66da9433555d7925","amp;dn":"Sublime+Text+3+Build+3062+%28Mac+OSX%29+%2B+Activation","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"70156424ee9dc8dc54e1c80e66da9433555d7925","infoHashBuffer":{"type":"Buffer","data":[112,21,100,36,238,157,200,220,84,225,200,14,102,218,148,51,85,93,121,37]},"announce":[],"urlList":[]}}
+{
+  "title": "Sublime Text 3 Build 3062 (Mac OSX) + Activation",
+  "uid": 10414961,
+  "size": 9754188,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:70156424ee9dc8dc54e1c80e66da9433555d7925&amp;dn=Sublime+Text+3+Build+3062+%28Mac+OSX%29+%2B+Activation&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 1,
+  "uploader": "Inter95",
+  "files": 1,
+  "time": 1403576801,
+  "description": "Sublime Text is a cross-platform text and source code editor, with a Python application programming interface (API). Sublime Text is proprietary software. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained.\n\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\n\nLanguage support\n\nSublime Text supports a number of different programming languages and is able to highlight syntax for ActionScript, AppleScript, ASP, batch files, C, C++, C#, Clojure, CSS, D, Diff, Erlang, Go, Graphviz (DOT), Groovy, Haskell, HTML, Java, JSP, JavaScript, JSON, LaTeX, Lisp, Lua, Makefiles, Markdown, MATLAB, Objective-C, OCaml, Perl, PHP, Python, R, Rails, Regular Expressions, reStructuredText, Ruby, Scala, shell scripts (Bash), SQL, Tcl, Textile, XML, XSL, and YAML. In addition to those that are included with the initial package, users are able to download add-ons to support other languages/syntaxes.",
+  "parsed": {
+    "xt": "urn:btih:70156424ee9dc8dc54e1c80e66da9433555d7925",
+    "dn": "Sublime Text 3 Build 3062 (Mac OSX)   Activation",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "70156424ee9dc8dc54e1c80e66da9433555d7925",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        112,
+        21,
+        100,
+        36,
+        238,
+        157,
+        200,
+        220,
+        84,
+        225,
+        200,
+        14,
+        102,
+        218,
+        148,
+        51,
+        85,
+        93,
+        121,
+        37
+      ]
+    },
+    "name": "Sublime Text 3 Build 3062 (Mac OSX)   Activation",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 49,
+  "last_updated": "2016-12-25T04:21:32.390Z"
+}

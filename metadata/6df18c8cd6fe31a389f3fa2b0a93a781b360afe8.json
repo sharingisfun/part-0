@@ -1,1 +1,61 @@
-{"title":"Opeth - Pale Communion (2014) [Deluxe Edition]","uid":10833180,"size":165705181,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:6df18c8cd6fe31a389f3fa2b0a93a781b360afe8&amp;dn=Opeth+-+Pale+Communion+%282014%29+%5BDeluxe+Edition%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":86,"leechers":1,"uploader":"santicaz","files":10,"time":1408646811,"description":"Artist: Opeth\nTitle: Pale Communion [Deluxe Edition]\nYear: 2014\nGenre: Progressive Rock/Metal\nOrigin: Sweden\nSize/Quality: 158 mb | mp3, CBR 320 kbps [CD-Rip]\n\nTracklist:\n01. Eternal Rains Will Come\n02. Cusp of Eternity\n03. Moon Above, Sun Below\n04. Elysian Woes\n05. Goblin\n06. River\n07. Voice of Treason\n08. Faith In Others\n09. Solitude (Live)\n10. Var Kommer Barnen In (Live)","torrent":{"xt":"urn:btih:6df18c8cd6fe31a389f3fa2b0a93a781b360afe8","amp;dn":"Opeth+-+Pale+Communion+%282014%29+%5BDeluxe+Edition%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6df18c8cd6fe31a389f3fa2b0a93a781b360afe8","infoHashBuffer":{"type":"Buffer","data":[109,241,140,140,214,254,49,163,137,243,250,43,10,147,167,129,179,96,175,232]},"announce":[],"urlList":[]}}
+{
+  "title": "Opeth - Pale Communion (2014) [Deluxe Edition]",
+  "uid": 10833180,
+  "size": 165705181,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:6df18c8cd6fe31a389f3fa2b0a93a781b360afe8&amp;dn=Opeth+-+Pale+Communion+%282014%29+%5BDeluxe+Edition%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 86,
+  "leechers": 1,
+  "uploader": "santicaz",
+  "files": 10,
+  "time": 1408646811,
+  "description": "Artist: Opeth\nTitle: Pale Communion [Deluxe Edition]\nYear: 2014\nGenre: Progressive Rock/Metal\nOrigin: Sweden\nSize/Quality: 158 mb | mp3, CBR 320 kbps [CD-Rip]\n\nTracklist:\n01. Eternal Rains Will Come\n02. Cusp of Eternity\n03. Moon Above, Sun Below\n04. Elysian Woes\n05. Goblin\n06. River\n07. Voice of Treason\n08. Faith In Others\n09. Solitude (Live)\n10. Var Kommer Barnen In (Live)",
+  "parsed": {
+    "xt": "urn:btih:6df18c8cd6fe31a389f3fa2b0a93a781b360afe8",
+    "dn": "Opeth - Pale Communion (2014) [Deluxe Edition]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6df18c8cd6fe31a389f3fa2b0a93a781b360afe8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        109,
+        241,
+        140,
+        140,
+        214,
+        254,
+        49,
+        163,
+        137,
+        243,
+        250,
+        43,
+        10,
+        147,
+        167,
+        129,
+        179,
+        96,
+        175,
+        232
+      ]
+    },
+    "name": "Opeth - Pale Communion (2014) [Deluxe Edition]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 87,
+  "peers": 12,
+  "last_updated": "2016-12-25T04:07:49.645Z"
+}

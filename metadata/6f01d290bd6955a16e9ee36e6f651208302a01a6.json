@@ -1,1 +1,61 @@
-{"title":"Red Hat Enterprise Linux (RHEL) Server 7.0 x86-64 Multilingual","uid":11586396,"size":10487887275,"categoryP":"applications","categoryS":"other_os","magnet":"?xt=urn:btih:6f01d290bd6955a16e9ee36e6f651208302a01a6&amp;dn=Red+Hat+Enterprise+Linux+%28RHEL%29+Server+7.0+x86-64+Multilingual&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":20,"uploader":"Tyr3ll","files":-1,"time":1417135461,"description":"Red Hat Enterprise Linux (RHEL) Server 7.0 x86-64 Multilingual  \n\nTotal Size : 9.77 GB\n\n\nRed Hat has announced the release of the distribution Red Hat Enterprise Linux 7, the release of updates for which will be made ??within 10 years. \nAmong the most significant changes include: the delivery of a new version of Red Hat Enterprise Linux Atomic Host, waiver the formation of 32-bit builds for architecture x86, use the default XFS filesystem with optional support for btrfs and ext4, delivery mode GNOME 3 classic desktop, activation of the system manager systemd and service logging systemd-journald, switch to the GRUB boot loader 2 c support GPT, EFI and OpenFirmware, experimental support for UEFI Secure Boot, mount / tmp with tmpfs, delivery default MariaDB instead of MySQL, the integration of dynamic firewall firewalld, including kpatch system to upgrade the kernel on the fly, integration tools Docker, delivery of the full implementation of a domain controller Service and Active Directory-based Samba 4.1, a new interface in the installer.\n\n\nAdditional images:\n KVM Guest Image\n rhel-guest-image-7.0-20140506.1.x86_64.qcow2 396MB\n\n Boot ISO\n rhel-server-7.0-x86_64-boot.iso 344MB\n\n RHEL 7.0 Supplementary DVD\n supp-server-7.0-rhel-7-x86_64-dvd.iso 246MB\n\n RHEL 7.0 Source DVD 1\n rhel-server-7.0-source-dvd1.iso 4.36GB\n\n RHEL 7.0 Source DVD 2\n rhel-server-7.0-source-dvd2.iso 836MB\n\n------------------------------------------------------------------------------\n\nmd5sum:\n d015ee1002bb2b2c00eaf4873cc76ddf rhel-server-7.0-source-dvd1.iso\n 2c72ffb487713eff8a9e1c544c7abcb8 rhel-server-7.0-source-dvd2.iso\n\n 147b42e8def1cc86cffc148e72d68733 rhel-server-7.0-x86_64-boot.iso\n\n 08961a5cb32d2cdf72026bec43876b7f rhel-server-7.0-x86_64-dvd.iso\n\n 2677d64e5a9cbb961853c7ac8cfb3157 supp-server-7.0-rhel-7-x86_64-dvd.iso\n\n 8317111a51459ff4d0cf36326b132719 rhel-guest-image-7.0-20140506.1.x86_64.qcow2\n\n------------------------------------------------------------------------------\n\nsha256sum:\n cb456e1bbbf5c583b1439868810b5febfd834d72d074a89ad33cf0c88bddbb4b rhel-server-7.0-source-dvd1.iso\n\n 902bc04416a461c142a2e55c125c0e58a8b63516e95266eb1c5a1b643b690f71 rhel-server-7.0-source-dvd2.iso\n\n b7a4f8b4d0132776ea20147abbb0a605d1a506ece92c704af5ab50796edc9a9b rhel-server-7.0-x86_64-boot.iso\n\n 85a9fedc2bf0fc825cc7817056aa00b3ea87d7e111e0cf8de77d3ba643f8646c rhel-server-7.0-x86_64-dvd.iso\n\n 75177a35b0c4e55086bdddc9e820d88a14ceef0b4e1ca0f2181df1c94020035f supp-server-7.0-rhel-7-x86_64-dvd.iso\n\n 8725f66d03ec062a702386b40ebf45efc72a319bab3c3989b289387163987bf1 rhel-guest-image-7.0-20140506.1.x86_64.qcow2 \n\n-----------------------------------------------------------------------------\n\n\nEnjoy and seed as long as you can, please.\n\nTy\n\nBest regards","torrent":{"xt":"urn:btih:6f01d290bd6955a16e9ee36e6f651208302a01a6","amp;dn":"Red+Hat+Enterprise+Linux+%28RHEL%29+Server+7.0+x86-64+Multilingual","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6f01d290bd6955a16e9ee36e6f651208302a01a6","infoHashBuffer":{"type":"Buffer","data":[111,1,210,144,189,105,85,161,110,158,227,110,111,101,18,8,48,42,1,166]},"announce":[],"urlList":[]}}
+{
+  "title": "Red Hat Enterprise Linux (RHEL) Server 7.0 x86-64 Multilingual",
+  "uid": 11586396,
+  "size": 10487887275,
+  "categoryP": "applications",
+  "categoryS": "other_os",
+  "magnet": "?xt=urn:btih:6f01d290bd6955a16e9ee36e6f651208302a01a6&amp;dn=Red+Hat+Enterprise+Linux+%28RHEL%29+Server+7.0+x86-64+Multilingual&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 20,
+  "uploader": "Tyr3ll",
+  "files": -1,
+  "time": 1417135461,
+  "description": "Red Hat Enterprise Linux (RHEL) Server 7.0 x86-64 Multilingual  \n\nTotal Size : 9.77 GB\n\n\nRed Hat has announced the release of the distribution Red Hat Enterprise Linux 7, the release of updates for which will be made ??within 10 years. \nAmong the most significant changes include: the delivery of a new version of Red Hat Enterprise Linux Atomic Host, waiver the formation of 32-bit builds for architecture x86, use the default XFS filesystem with optional support for btrfs and ext4, delivery mode GNOME 3 classic desktop, activation of the system manager systemd and service logging systemd-journald, switch to the GRUB boot loader 2 c support GPT, EFI and OpenFirmware, experimental support for UEFI Secure Boot, mount / tmp with tmpfs, delivery default MariaDB instead of MySQL, the integration of dynamic firewall firewalld, including kpatch system to upgrade the kernel on the fly, integration tools Docker, delivery of the full implementation of a domain controller Service and Active Directory-based Samba 4.1, a new interface in the installer.\n\n\nAdditional images:\n KVM Guest Image\n rhel-guest-image-7.0-20140506.1.x86_64.qcow2 396MB\n\n Boot ISO\n rhel-server-7.0-x86_64-boot.iso 344MB\n\n RHEL 7.0 Supplementary DVD\n supp-server-7.0-rhel-7-x86_64-dvd.iso 246MB\n\n RHEL 7.0 Source DVD 1\n rhel-server-7.0-source-dvd1.iso 4.36GB\n\n RHEL 7.0 Source DVD 2\n rhel-server-7.0-source-dvd2.iso 836MB\n\n------------------------------------------------------------------------------\n\nmd5sum:\n d015ee1002bb2b2c00eaf4873cc76ddf rhel-server-7.0-source-dvd1.iso\n 2c72ffb487713eff8a9e1c544c7abcb8 rhel-server-7.0-source-dvd2.iso\n\n 147b42e8def1cc86cffc148e72d68733 rhel-server-7.0-x86_64-boot.iso\n\n 08961a5cb32d2cdf72026bec43876b7f rhel-server-7.0-x86_64-dvd.iso\n\n 2677d64e5a9cbb961853c7ac8cfb3157 supp-server-7.0-rhel-7-x86_64-dvd.iso\n\n 8317111a51459ff4d0cf36326b132719 rhel-guest-image-7.0-20140506.1.x86_64.qcow2\n\n------------------------------------------------------------------------------\n\nsha256sum:\n cb456e1bbbf5c583b1439868810b5febfd834d72d074a89ad33cf0c88bddbb4b rhel-server-7.0-source-dvd1.iso\n\n 902bc04416a461c142a2e55c125c0e58a8b63516e95266eb1c5a1b643b690f71 rhel-server-7.0-source-dvd2.iso\n\n b7a4f8b4d0132776ea20147abbb0a605d1a506ece92c704af5ab50796edc9a9b rhel-server-7.0-x86_64-boot.iso\n\n 85a9fedc2bf0fc825cc7817056aa00b3ea87d7e111e0cf8de77d3ba643f8646c rhel-server-7.0-x86_64-dvd.iso\n\n 75177a35b0c4e55086bdddc9e820d88a14ceef0b4e1ca0f2181df1c94020035f supp-server-7.0-rhel-7-x86_64-dvd.iso\n\n 8725f66d03ec062a702386b40ebf45efc72a319bab3c3989b289387163987bf1 rhel-guest-image-7.0-20140506.1.x86_64.qcow2 \n\n-----------------------------------------------------------------------------\n\n\nEnjoy and seed as long as you can, please.\n\nTy\n\nBest regards",
+  "parsed": {
+    "xt": "urn:btih:6f01d290bd6955a16e9ee36e6f651208302a01a6",
+    "dn": "Red Hat Enterprise Linux (RHEL) Server 7.0 x86-64 Multilingual",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6f01d290bd6955a16e9ee36e6f651208302a01a6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        111,
+        1,
+        210,
+        144,
+        189,
+        105,
+        85,
+        161,
+        110,
+        158,
+        227,
+        110,
+        111,
+        101,
+        18,
+        8,
+        48,
+        42,
+        1,
+        166
+      ]
+    },
+    "name": "Red Hat Enterprise Linux (RHEL) Server 7.0 x86-64 Multilingual",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 165,
+  "last_updated": "2016-12-25T04:14:30.886Z"
+}

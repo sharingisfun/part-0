@@ -1,1 +1,61 @@
-{"title":"Andromeda (Complete)","uid":5088379,"size":40162767664,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:6f498b1624719b2b8f09ba122cba89c792d81929&amp;dn=Andromeda+%28Complete%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":57,"uploader":"Kirothius","files":110,"time":1252914405,"description":"Please don't upload any of these files to streaming sites likeGoogle Video, Yahoo, Hulu, etc.\n\nSharing is caring; please seed until you have at least a 1.000 share ratio.\n\nIf you need a good video player; go here for Zoom Player (CCP):\n \n\nAlso, I'm not the only person using this computer; if the seed drops, be patient. It will be up again in a few hours.","torrent":{"xt":"urn:btih:6f498b1624719b2b8f09ba122cba89c792d81929","amp;dn":"Andromeda+%28Complete%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6f498b1624719b2b8f09ba122cba89c792d81929","infoHashBuffer":{"type":"Buffer","data":[111,73,139,22,36,113,155,43,143,9,186,18,44,186,137,199,146,216,25,41]},"announce":[],"urlList":[]}}
+{
+  "title": "Andromeda (Complete)",
+  "uid": 5088379,
+  "size": 40162767664,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:6f498b1624719b2b8f09ba122cba89c792d81929&amp;dn=Andromeda+%28Complete%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 57,
+  "uploader": "Kirothius",
+  "files": 110,
+  "time": 1252914405,
+  "description": "Please don't upload any of these files to streaming sites likeGoogle Video, Yahoo, Hulu, etc.\n\nSharing is caring; please seed until you have at least a 1.000 share ratio.\n\nIf you need a good video player; go here for Zoom Player (CCP):\n \n\nAlso, I'm not the only person using this computer; if the seed drops, be patient. It will be up again in a few hours.",
+  "parsed": {
+    "xt": "urn:btih:6f498b1624719b2b8f09ba122cba89c792d81929",
+    "dn": "Andromeda (Complete)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6f498b1624719b2b8f09ba122cba89c792d81929",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        111,
+        73,
+        139,
+        22,
+        36,
+        113,
+        155,
+        43,
+        143,
+        9,
+        186,
+        18,
+        44,
+        186,
+        137,
+        199,
+        146,
+        216,
+        25,
+        41
+      ]
+    },
+    "name": "Andromeda (Complete)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 108,
+  "peers": 29,
+  "last_updated": "2016-12-25T04:16:15.252Z"
+}
