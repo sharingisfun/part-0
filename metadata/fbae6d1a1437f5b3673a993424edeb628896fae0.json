@@ -1,1 +1,63 @@
-{"title":"The Binding of Isaac Afterbirth","uid":16026749,"size":471417072,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:fbae6d1a1437f5b3673a993424edeb628896fae0&amp;dn=The+Binding+of+Isaac+Afterbirth&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":1282,"leechers":183,"uploader":"8alex2041","files":1,"time":1476393245,"description":"\n\r\nWhen Isaacï¿½s mother starts hearing the voice of God demanding a sacrifice be made to prove her faith, Isaac escapes into the basement facing droves of deranged enemies, lost brothers and sisters, his fears, and eventually his mother.\r\nThe Binding of Isaac is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaacï¿½s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety","torrent":{"xt":"urn:btih:fbae6d1a1437f5b3673a993424edeb628896fae0","amp;dn":"The+Binding+of+Isaac+Afterbirth","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fbae6d1a1437f5b3673a993424edeb628896fae0","infoHashBuffer":{"type":"Buffer","data":[251,174,109,26,20,55,245,179,103,58,153,52,36,237,235,98,136,150,250,224]},"announce":[],"urlList":[]}}
+{
+  "title": "The Binding of Isaac Afterbirth",
+  "uid": 16026749,
+  "size": 471417072,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:fbae6d1a1437f5b3673a993424edeb628896fae0&amp;dn=The+Binding+of+Isaac+Afterbirth&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 1282,
+  "leechers": 183,
+  "uploader": "8alex2041",
+  "files": 1,
+  "time": 1476393245,
+  "description": "\n\r\nWhen Isaacï¿½s mother starts hearing the voice of God demanding a sacrifice be made to prove her faith, Isaac escapes into the basement facing droves of deranged enemies, lost brothers and sisters, his fears, and eventually his mother.\r\nThe Binding of Isaac is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaacï¿½s form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety",
+  "parsed": {
+    "xt": "urn:btih:fbae6d1a1437f5b3673a993424edeb628896fae0",
+    "dn": "The Binding of Isaac Afterbirth",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "fbae6d1a1437f5b3673a993424edeb628896fae0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        251,
+        174,
+        109,
+        26,
+        20,
+        55,
+        245,
+        179,
+        103,
+        58,
+        153,
+        52,
+        36,
+        237,
+        235,
+        98,
+        136,
+        150,
+        250,
+        224
+      ]
+    },
+    "name": "The Binding of Isaac Afterbirth",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 1465,
+  "peers": 1,
+  "last_updated": "2016-12-25T18:48:32.840Z"
+}

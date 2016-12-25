@@ -1,1 +1,63 @@
-{"title":"Kali Linux -Wireless Penetration Testing Beginner's Guide (2015)","uid":14645977,"size":13369261,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:fc4967b830b8285503ae6d93ba8be4c3179e354f&amp;dn=Kali+Linux+-Wireless+Penetration+Testing+Beginner%27s+Guide+%282015%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":94,"leechers":1,"uploader":"GoonerTPB","files":1,"time":1463587008,"description":"Kali Linux - Wireless Penetration Testing Beginner's Guide (2015).pdf Gooner\r\n\r\nPublisher: Packt Publishing (30 Mar. 2015)\r\nLanguage: English\r\nISBN-10: 1783280417\r\nISBN-13: 978-1783280414\r\n\r\nBook Description\r\n\r\nAs wireless networks become ubiquitous in our lives, wireless penetration testing has become a key skill in the repertoire of the professional penetration tester. The Kali Linux security distribution comes with a myriad of tools used for networking attacks and detecting security loopholes.\r\n\r\nKali Linux Wireless Penetration Testing Beginner's Guide presents wireless pentesting from the ground up, introducing all elements of penetration testing with each new technology. Learn various wireless testing methodologies by example, from the basics of wireless routing and encryption through to detailed coverage of hacking methods and attacks such as the Hirte and Caffe Latte.\r\n\r\nKey Features\r\n\r\n* Learn wireless penetration testing with Kali Linux, the latest iteration of Backtrack\r\n\r\n* Detect hidden wireless networks and discover their names\r\n\r\n* Explore advanced Wi-Fi hacking techniques including rogue access point hosting and probe sniffing\r\n\r\n* Develop your encryption cracking skills and gain an insight into the methods used by attackers and the underlying technologies that facilitate these attacks\r\n\r\nWhat you will learn\r\n\r\nCreate a wireless lab for your experiments\r\nSniff out wireless packets and hidden networks\r\nCapture and crack WPA-2 keys\r\nDiscover hidden SSIDs\r\nExplore the ins and outs of wireless technologies\r\nSniff probe requests and track users through SSID history\r\nAttack radius authentication systems\r\nSniff wireless traffic and collect interesting data\r\nDecrypt encrypted traffic with stolen keys\r\nAbout the Authors\r\nVivek Ramachandran has been working in Wireless Security since 2003. He discovered the Caffe Latte attack and also broke WEP Cloaking, a WEP protection schema, publicly in 2007 at DEF CON. In 2011, he was the first to demonstrate how malware could use Wi-Fi to create backdoors, worms, and even botnets. Earlier, he was one of the programmers of the 802.1x protocol and Port Security in Cisco's 6500 Catalyst series of switches and was also one of the winners of the Microsoft Security Shootout contest held in India among a reported 65,000 participants. He is best known in the hacker community as the founder of SecurityTube.net, where he routinely posts videos on Wi-Fi Security and exploitation techniques.\r\n\r\nCameron Buchanan is an experienced penetration tester, having worked in a huge range of industries. He is also the author of Packt's Kali Linux CTF Blueprints.\r\n\r\nTable of Contents\r\n\r\n1. Wireless Lab Setup\r\n2. WLAN and its Inherent Insecurities\r\n3. Bypassing WLAN Authentication\r\n4. WLAN Encryption Flaws\r\n5. Attacks on the WLAN Infrastructure\r\n6. Attacking the Client\r\n7. Advanced WLAN Attacks\r\n8. Attacking WPA-Enterprise and Radius\r\n9. WLAN Penetration Testing Methodology\r\n10. WPS and Probes","torrent":{"xt":"urn:btih:fc4967b830b8285503ae6d93ba8be4c3179e354f","amp;dn":"Kali+Linux+-Wireless+Penetration+Testing+Beginner%27s+Guide+%282015%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fc4967b830b8285503ae6d93ba8be4c3179e354f","infoHashBuffer":{"type":"Buffer","data":[252,73,103,184,48,184,40,85,3,174,109,147,186,139,228,195,23,158,53,79]},"announce":[],"urlList":[]}}
+{
+  "title": "Kali Linux -Wireless Penetration Testing Beginner's Guide (2015)",
+  "uid": 14645977,
+  "size": 13369261,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:fc4967b830b8285503ae6d93ba8be4c3179e354f&amp;dn=Kali+Linux+-Wireless+Penetration+Testing+Beginner%27s+Guide+%282015%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 94,
+  "leechers": 1,
+  "uploader": "GoonerTPB",
+  "files": 1,
+  "time": 1463587008,
+  "description": "Kali Linux - Wireless Penetration Testing Beginner's Guide (2015).pdf Gooner\r\n\r\nPublisher: Packt Publishing (30 Mar. 2015)\r\nLanguage: English\r\nISBN-10: 1783280417\r\nISBN-13: 978-1783280414\r\n\r\nBook Description\r\n\r\nAs wireless networks become ubiquitous in our lives, wireless penetration testing has become a key skill in the repertoire of the professional penetration tester. The Kali Linux security distribution comes with a myriad of tools used for networking attacks and detecting security loopholes.\r\n\r\nKali Linux Wireless Penetration Testing Beginner's Guide presents wireless pentesting from the ground up, introducing all elements of penetration testing with each new technology. Learn various wireless testing methodologies by example, from the basics of wireless routing and encryption through to detailed coverage of hacking methods and attacks such as the Hirte and Caffe Latte.\r\n\r\nKey Features\r\n\r\n* Learn wireless penetration testing with Kali Linux, the latest iteration of Backtrack\r\n\r\n* Detect hidden wireless networks and discover their names\r\n\r\n* Explore advanced Wi-Fi hacking techniques including rogue access point hosting and probe sniffing\r\n\r\n* Develop your encryption cracking skills and gain an insight into the methods used by attackers and the underlying technologies that facilitate these attacks\r\n\r\nWhat you will learn\r\n\r\nCreate a wireless lab for your experiments\r\nSniff out wireless packets and hidden networks\r\nCapture and crack WPA-2 keys\r\nDiscover hidden SSIDs\r\nExplore the ins and outs of wireless technologies\r\nSniff probe requests and track users through SSID history\r\nAttack radius authentication systems\r\nSniff wireless traffic and collect interesting data\r\nDecrypt encrypted traffic with stolen keys\r\nAbout the Authors\r\nVivek Ramachandran has been working in Wireless Security since 2003. He discovered the Caffe Latte attack and also broke WEP Cloaking, a WEP protection schema, publicly in 2007 at DEF CON. In 2011, he was the first to demonstrate how malware could use Wi-Fi to create backdoors, worms, and even botnets. Earlier, he was one of the programmers of the 802.1x protocol and Port Security in Cisco's 6500 Catalyst series of switches and was also one of the winners of the Microsoft Security Shootout contest held in India among a reported 65,000 participants. He is best known in the hacker community as the founder of SecurityTube.net, where he routinely posts videos on Wi-Fi Security and exploitation techniques.\r\n\r\nCameron Buchanan is an experienced penetration tester, having worked in a huge range of industries. He is also the author of Packt's Kali Linux CTF Blueprints.\r\n\r\nTable of Contents\r\n\r\n1. Wireless Lab Setup\r\n2. WLAN and its Inherent Insecurities\r\n3. Bypassing WLAN Authentication\r\n4. WLAN Encryption Flaws\r\n5. Attacks on the WLAN Infrastructure\r\n6. Attacking the Client\r\n7. Advanced WLAN Attacks\r\n8. Attacking WPA-Enterprise and Radius\r\n9. WLAN Penetration Testing Methodology\r\n10. WPS and Probes",
+  "parsed": {
+    "xt": "urn:btih:fc4967b830b8285503ae6d93ba8be4c3179e354f",
+    "dn": "Kali Linux -Wireless Penetration Testing Beginner's Guide (2015)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "fc4967b830b8285503ae6d93ba8be4c3179e354f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        252,
+        73,
+        103,
+        184,
+        48,
+        184,
+        40,
+        85,
+        3,
+        174,
+        109,
+        147,
+        186,
+        139,
+        228,
+        195,
+        23,
+        158,
+        53,
+        79
+      ]
+    },
+    "name": "Kali Linux -Wireless Penetration Testing Beginner's Guide (2015)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 95,
+  "peers": 554,
+  "last_updated": "2016-12-25T18:52:07.667Z"
+}

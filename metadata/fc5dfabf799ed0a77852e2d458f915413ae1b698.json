@@ -1,1 +1,63 @@
-{"title":"South Park Season 20 Episode 1","uid":15881012,"size":211934433,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:fc5dfabf799ed0a77852e2d458f915413ae1b698&amp;dn=South+Park+Season+20+Episode+1+&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":6,"uploader":"iateall","files":1,"time":1474600638,"description":"Downloaded from the Internet to the Internet \r\nEnjoy !","torrent":{"xt":"urn:btih:fc5dfabf799ed0a77852e2d458f915413ae1b698","amp;dn":"South+Park+Season+20+Episode+1+","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fc5dfabf799ed0a77852e2d458f915413ae1b698","infoHashBuffer":{"type":"Buffer","data":[252,93,250,191,121,158,208,167,120,82,226,212,88,249,21,65,58,225,182,152]},"announce":[],"urlList":[]}}
+{
+  "title": "South Park Season 20 Episode 1",
+  "uid": 15881012,
+  "size": 211934433,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:fc5dfabf799ed0a77852e2d458f915413ae1b698&amp;dn=South+Park+Season+20+Episode+1+&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 6,
+  "uploader": "iateall",
+  "files": 1,
+  "time": 1474600638,
+  "description": "Downloaded from the Internet to the Internet \r\nEnjoy !",
+  "parsed": {
+    "xt": "urn:btih:fc5dfabf799ed0a77852e2d458f915413ae1b698",
+    "dn": "South Park Season 20 Episode 1 ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "fc5dfabf799ed0a77852e2d458f915413ae1b698",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        252,
+        93,
+        250,
+        191,
+        121,
+        158,
+        208,
+        167,
+        120,
+        82,
+        226,
+        212,
+        88,
+        249,
+        21,
+        65,
+        58,
+        225,
+        182,
+        152
+      ]
+    },
+    "name": "South Park Season 20 Episode 1 ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 100,
+  "last_updated": "2016-12-25T18:52:15.695Z"
+}

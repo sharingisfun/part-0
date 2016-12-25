@@ -1,1 +1,61 @@
-{"title":"The Simpsons - Season 1 [Complete]","uid":3949216,"size":684519436,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:fb35482696c79b1e55651536ac366db9f50021f6&amp;dn=The+Simpsons+-+Season+1+%5BComplete%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":6,"uploader":"killerdemon","files":13,"time":1198728204,"description":"Complete Season 1 of The Simpsons","torrent":{"xt":"urn:btih:fb35482696c79b1e55651536ac366db9f50021f6","amp;dn":"The+Simpsons+-+Season+1+%5BComplete%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fb35482696c79b1e55651536ac366db9f50021f6","infoHashBuffer":{"type":"Buffer","data":[251,53,72,38,150,199,155,30,85,101,21,54,172,54,109,185,245,0,33,246]},"announce":[],"urlList":[]}}
+{
+  "title": "The Simpsons - Season 1 [Complete]",
+  "uid": 3949216,
+  "size": 684519436,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:fb35482696c79b1e55651536ac366db9f50021f6&amp;dn=The+Simpsons+-+Season+1+%5BComplete%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 6,
+  "uploader": "killerdemon",
+  "files": 13,
+  "time": 1198728204,
+  "description": "Complete Season 1 of The Simpsons",
+  "parsed": {
+    "xt": "urn:btih:fb35482696c79b1e55651536ac366db9f50021f6",
+    "dn": "The Simpsons - Season 1 [Complete]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fb35482696c79b1e55651536ac366db9f50021f6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        251,
+        53,
+        72,
+        38,
+        150,
+        199,
+        155,
+        30,
+        85,
+        101,
+        21,
+        54,
+        172,
+        54,
+        109,
+        185,
+        245,
+        0,
+        33,
+        246
+      ]
+    },
+    "name": "The Simpsons - Season 1 [Complete]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 34,
+  "last_updated": "2016-12-25T18:45:47.985Z"
+}

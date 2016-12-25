@@ -1,1 +1,61 @@
-{"title":"Meditation - Music for Dreaming and Relaxation (mp3)","uid":4324978,"size":88201033,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:fadba2dfc47d39c4c99f26db08f8a79aa3cf7132&amp;dn=Meditation+-+Music+for+Dreaming+and+Relaxation+%28mp3%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":2,"uploader":"fastacy20","files":12,"time":1217707513,"description":"Very nice collection of music in mp3\n\n1 Jules Massenet - Thais\n2 Felix Mendelssohn - A Midsummer Night&amp;#039;s Dream\n3 Wolfgang A Mozart - Piano Concerto No. 21 in C major\n4 Johann Sebastian Bach - Orchestral Suite No 3 in D major\n5 Edvard Grieg - Solveig&amp;#039;s Song\n6 Pietro Mascagni - Cavalleria Rusticana\n7 Johann Pachelbel - Canon\n8 Gustav Mahler - Symphony No 5 in C sharp minor\n9 Gabriel Faure - Pavane, op 50\n10 Wolfgang Amadeus Mozart - Clarinet Concerto in A major\n11 Erik Satie - Gymnopedie II (Orch. Claude Debussy)\n12 Samuel Barber - Adagio for strings","torrent":{"xt":"urn:btih:fadba2dfc47d39c4c99f26db08f8a79aa3cf7132","amp;dn":"Meditation+-+Music+for+Dreaming+and+Relaxation+%28mp3%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fadba2dfc47d39c4c99f26db08f8a79aa3cf7132","infoHashBuffer":{"type":"Buffer","data":[250,219,162,223,196,125,57,196,201,159,38,219,8,248,167,154,163,207,113,50]},"announce":[],"urlList":[]}}
+{
+  "title": "Meditation - Music for Dreaming and Relaxation (mp3)",
+  "uid": 4324978,
+  "size": 88201033,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:fadba2dfc47d39c4c99f26db08f8a79aa3cf7132&amp;dn=Meditation+-+Music+for+Dreaming+and+Relaxation+%28mp3%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 2,
+  "uploader": "fastacy20",
+  "files": 12,
+  "time": 1217707513,
+  "description": "Very nice collection of music in mp3\n\n1 Jules Massenet - Thais\n2 Felix Mendelssohn - A Midsummer Night&amp;#039;s Dream\n3 Wolfgang A Mozart - Piano Concerto No. 21 in C major\n4 Johann Sebastian Bach - Orchestral Suite No 3 in D major\n5 Edvard Grieg - Solveig&amp;#039;s Song\n6 Pietro Mascagni - Cavalleria Rusticana\n7 Johann Pachelbel - Canon\n8 Gustav Mahler - Symphony No 5 in C sharp minor\n9 Gabriel Faure - Pavane, op 50\n10 Wolfgang Amadeus Mozart - Clarinet Concerto in A major\n11 Erik Satie - Gymnopedie II (Orch. Claude Debussy)\n12 Samuel Barber - Adagio for strings",
+  "parsed": {
+    "xt": "urn:btih:fadba2dfc47d39c4c99f26db08f8a79aa3cf7132",
+    "dn": "Meditation - Music for Dreaming and Relaxation (mp3)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fadba2dfc47d39c4c99f26db08f8a79aa3cf7132",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        250,
+        219,
+        162,
+        223,
+        196,
+        125,
+        57,
+        196,
+        201,
+        159,
+        38,
+        219,
+        8,
+        248,
+        167,
+        154,
+        163,
+        207,
+        113,
+        50
+      ]
+    },
+    "name": "Meditation - Music for Dreaming and Relaxation (mp3)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 31,
+  "last_updated": "2016-12-25T18:43:15.457Z"
+}

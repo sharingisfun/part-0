@@ -1,1 +1,63 @@
-{"title":"This.Is.Us.S01E03.XviD-AFG","uid":16012011,"size":382657941,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:fa1dc55fc78a2d295489c7ccb443f27d13747e43&amp;dn=This.Is.Us.S01E03.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":398,"leechers":222,"uploader":"TvTeam","files":7,"time":1476245700,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:fa1dc55fc78a2d295489c7ccb443f27d13747e43","amp;dn":"This.Is.Us.S01E03.XviD-AFG","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fa1dc55fc78a2d295489c7ccb443f27d13747e43","infoHashBuffer":{"type":"Buffer","data":[250,29,197,95,199,138,45,41,84,137,199,204,180,67,242,125,19,116,126,67]},"announce":[],"urlList":[]}}
+{
+  "title": "This.Is.Us.S01E03.XviD-AFG",
+  "uid": 16012011,
+  "size": 382657941,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:fa1dc55fc78a2d295489c7ccb443f27d13747e43&amp;dn=This.Is.Us.S01E03.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 398,
+  "leechers": 222,
+  "uploader": "TvTeam",
+  "files": 7,
+  "time": 1476245700,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:fa1dc55fc78a2d295489c7ccb443f27d13747e43",
+    "dn": "This.Is.Us.S01E03.XviD-AFG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "fa1dc55fc78a2d295489c7ccb443f27d13747e43",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        250,
+        29,
+        197,
+        95,
+        199,
+        138,
+        45,
+        41,
+        84,
+        137,
+        199,
+        204,
+        180,
+        67,
+        242,
+        125,
+        19,
+        116,
+        126,
+        67
+      ]
+    },
+    "name": "This.Is.Us.S01E03.XviD-AFG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 620,
+  "peers": 100,
+  "last_updated": "2016-12-25T18:39:04.442Z"
+}

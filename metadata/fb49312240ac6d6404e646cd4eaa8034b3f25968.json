@@ -1,1 +1,61 @@
-{"title":"Sam Smith - Stay With Me","uid":10742149,"size":4127120,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:fb49312240ac6d6404e646cd4eaa8034b3f25968&amp;dn=Sam+Smith+-+Stay+With+Me&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":0,"uploader":"DaRistas","files":1,"time":1407766634,"description":"Sam Smith - Stay With Me\n\nquality:..........192kbps [HQ]\ndate released:....14 April 2014\nlength:...........2:52\nLabel:............Capitol\nWriter(s):........Sam Smith, James Napier, William Phillips\n\nEnjoy!\t","torrent":{"xt":"urn:btih:fb49312240ac6d6404e646cd4eaa8034b3f25968","amp;dn":"Sam+Smith+-+Stay+With+Me","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fb49312240ac6d6404e646cd4eaa8034b3f25968","infoHashBuffer":{"type":"Buffer","data":[251,73,49,34,64,172,109,100,4,230,70,205,78,170,128,52,179,242,89,104]},"announce":[],"urlList":[]}}
+{
+  "title": "Sam Smith - Stay With Me",
+  "uid": 10742149,
+  "size": 4127120,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:fb49312240ac6d6404e646cd4eaa8034b3f25968&amp;dn=Sam+Smith+-+Stay+With+Me&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 0,
+  "uploader": "DaRistas",
+  "files": 1,
+  "time": 1407766634,
+  "description": "Sam Smith - Stay With Me\n\nquality:..........192kbps [HQ]\ndate released:....14 April 2014\nlength:...........2:52\nLabel:............Capitol\nWriter(s):........Sam Smith, James Napier, William Phillips\n\nEnjoy!\t",
+  "parsed": {
+    "xt": "urn:btih:fb49312240ac6d6404e646cd4eaa8034b3f25968",
+    "dn": "Sam Smith - Stay With Me",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fb49312240ac6d6404e646cd4eaa8034b3f25968",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        251,
+        73,
+        49,
+        34,
+        64,
+        172,
+        109,
+        100,
+        4,
+        230,
+        70,
+        205,
+        78,
+        170,
+        128,
+        52,
+        179,
+        242,
+        89,
+        104
+      ]
+    },
+    "name": "Sam Smith - Stay With Me",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 74,
+  "peers": 22,
+  "last_updated": "2016-12-25T18:46:06.057Z"
+}

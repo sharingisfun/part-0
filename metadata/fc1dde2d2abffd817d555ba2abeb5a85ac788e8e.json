@@ -1,1 +1,61 @@
-{"title":"Hercules Game","uid":4621884,"size":19233680,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:fc1dde2d2abffd817d555ba2abeb5a85ac788e8e&amp;dn=Hercules+Game&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":77,"leechers":1,"uploader":"praveen08","files":1,"time":1231070112,"description":"This is a Hercules Game.......... Super\n\n\n\nUploaded \t\t\t\t\n                By\n                     E.Praveen &lt;a href=&quot;\nhttp://about4all.blogspot.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://about4all.blogspot.com&lt;/a&gt; &lt;a href=&quot;\nhttp://groups.google.com/group/fun2funs?hl=en&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://groups.google.com/group/fun2funs?hl=en&lt;/a&gt;","torrent":{"xt":"urn:btih:fc1dde2d2abffd817d555ba2abeb5a85ac788e8e","amp;dn":"Hercules+Game","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fc1dde2d2abffd817d555ba2abeb5a85ac788e8e","infoHashBuffer":{"type":"Buffer","data":[252,29,222,45,42,191,253,129,125,85,91,162,171,235,90,133,172,120,142,142]},"announce":[],"urlList":[]}}
+{
+  "title": "Hercules Game",
+  "uid": 4621884,
+  "size": 19233680,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:fc1dde2d2abffd817d555ba2abeb5a85ac788e8e&amp;dn=Hercules+Game&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 77,
+  "leechers": 1,
+  "uploader": "praveen08",
+  "files": 1,
+  "time": 1231070112,
+  "description": "This is a Hercules Game.......... Super\n\n\n\nUploaded \t\t\t\t\n                By\n                     E.Praveen &lt;a href=&quot;\nhttp://about4all.blogspot.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://about4all.blogspot.com&lt;/a&gt; &lt;a href=&quot;\nhttp://groups.google.com/group/fun2funs?hl=en&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://groups.google.com/group/fun2funs?hl=en&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:fc1dde2d2abffd817d555ba2abeb5a85ac788e8e",
+    "dn": "Hercules Game",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fc1dde2d2abffd817d555ba2abeb5a85ac788e8e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        252,
+        29,
+        222,
+        45,
+        42,
+        191,
+        253,
+        129,
+        125,
+        85,
+        91,
+        162,
+        171,
+        235,
+        90,
+        133,
+        172,
+        120,
+        142,
+        142
+      ]
+    },
+    "name": "Hercules Game",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 78,
+  "peers": 86,
+  "last_updated": "2016-12-25T18:51:09.406Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Batman Episode 1 (no iso)","uid":15705288,"size":2260114954,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:fa97a7a5e3f007bdcfbfca057f826f5d7b19e5da&amp;dn=Batman+Episode+1+%28no+iso%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":138,"leechers":43,"uploader":"rads0702","files":12,"time":1472519360,"description":"Enter the fractured psyche of Bruce Wayne and\r\ndiscover the powerful and far-reaching consequences of your choices\r\nas the Dark Knight. In this gritty and violent new story from the\r\naward-winning creators of The Walking Dead A Telltale Games\r\nSeries you ll make discoveries that will shatter Bruce Wayne s\r\nworld and the already fragile stability of a corrupt Gotham City","torrent":{"xt":"urn:btih:fa97a7a5e3f007bdcfbfca057f826f5d7b19e5da","amp;dn":"Batman+Episode+1+%28no+iso%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fa97a7a5e3f007bdcfbfca057f826f5d7b19e5da","infoHashBuffer":{"type":"Buffer","data":[250,151,167,165,227,240,7,189,207,191,202,5,127,130,111,93,123,25,229,218]},"announce":[],"urlList":[]}}
+{
+  "title": "Batman Episode 1 (no iso)",
+  "uid": 15705288,
+  "size": 2260114954,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:fa97a7a5e3f007bdcfbfca057f826f5d7b19e5da&amp;dn=Batman+Episode+1+%28no+iso%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 138,
+  "leechers": 43,
+  "uploader": "rads0702",
+  "files": 12,
+  "time": 1472519360,
+  "description": "Enter the fractured psyche of Bruce Wayne and\r\ndiscover the powerful and far-reaching consequences of your choices\r\nas the Dark Knight. In this gritty and violent new story from the\r\naward-winning creators of The Walking Dead A Telltale Games\r\nSeries you ll make discoveries that will shatter Bruce Wayne s\r\nworld and the already fragile stability of a corrupt Gotham City",
+  "parsed": {
+    "xt": "urn:btih:fa97a7a5e3f007bdcfbfca057f826f5d7b19e5da",
+    "dn": "Batman Episode 1 (no iso)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "fa97a7a5e3f007bdcfbfca057f826f5d7b19e5da",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        250,
+        151,
+        167,
+        165,
+        227,
+        240,
+        7,
+        189,
+        207,
+        191,
+        202,
+        5,
+        127,
+        130,
+        111,
+        93,
+        123,
+        25,
+        229,
+        218
+      ]
+    },
+    "name": "Batman Episode 1 (no iso)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 181,
+  "peers": 104,
+  "last_updated": "2016-12-25T18:41:49.098Z"
+}

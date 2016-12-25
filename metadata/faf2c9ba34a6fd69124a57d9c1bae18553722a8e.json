@@ -1,1 +1,61 @@
-{"title":"Wentworth S03E12 HDTV XviD-FUM[ettv]","uid":12053826,"size":399537788,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:faf2c9ba34a6fd69124a57d9c1bae18553722a8e&amp;dn=Wentworth+S03E12+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":1,"uploader":"ettv","files":2,"time":1435072138,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:faf2c9ba34a6fd69124a57d9c1bae18553722a8e","amp;dn":"Wentworth+S03E12+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"faf2c9ba34a6fd69124a57d9c1bae18553722a8e","infoHashBuffer":{"type":"Buffer","data":[250,242,201,186,52,166,253,105,18,74,87,217,193,186,225,133,83,114,42,142]},"announce":[],"urlList":[]}}
+{
+  "title": "Wentworth S03E12 HDTV XviD-FUM[ettv]",
+  "uid": 12053826,
+  "size": 399537788,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:faf2c9ba34a6fd69124a57d9c1bae18553722a8e&amp;dn=Wentworth+S03E12+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1435072138,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:faf2c9ba34a6fd69124a57d9c1bae18553722a8e",
+    "dn": "Wentworth S03E12 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "faf2c9ba34a6fd69124a57d9c1bae18553722a8e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        250,
+        242,
+        201,
+        186,
+        52,
+        166,
+        253,
+        105,
+        18,
+        74,
+        87,
+        217,
+        193,
+        186,
+        225,
+        133,
+        83,
+        114,
+        42,
+        142
+      ]
+    },
+    "name": "Wentworth S03E12 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 45,
+  "last_updated": "2016-12-25T18:43:37.528Z"
+}

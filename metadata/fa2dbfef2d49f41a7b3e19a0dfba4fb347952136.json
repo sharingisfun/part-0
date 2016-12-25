@@ -1,1 +1,63 @@
-{"title":"Beginning Java Programming","uid":15400294,"size":69118108,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:fa2dbfef2d49f41a7b3e19a0dfba4fb347952136&amp;dn=Beginning+Java+Programming&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":0,"uploader":"5c4lLY349","files":1,"time":1469448247,"description":"Beginning Java Programming: The Object Oriented Approach is a straightforward resource for getting started with one of the world's most enduringly popular programming languages. Based on classes taught by the authors, the book starts with the basics and gradually builds into more advanced concepts. The approach utilizes an integrated development environment that allows readers to immediately apply what they learn, and includes step-by-step instruction with plenty of sample programs. Each chapter contains exercises based on real-world business and educational scenarios, and the final chapter uses case studies to combine several concepts and put readers' new skills to the test.\r\n\r\nBeginning Java Programming: The Object Oriented Approach provides both the information and the tools beginners need to develop Java skills, from the general concepts of object-oriented programming","torrent":{"xt":"urn:btih:fa2dbfef2d49f41a7b3e19a0dfba4fb347952136","amp;dn":"Beginning+Java+Programming","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fa2dbfef2d49f41a7b3e19a0dfba4fb347952136","infoHashBuffer":{"type":"Buffer","data":[250,45,191,239,45,73,244,26,123,62,25,160,223,186,79,179,71,149,33,54]},"announce":[],"urlList":[]}}
+{
+  "title": "Beginning Java Programming",
+  "uid": 15400294,
+  "size": 69118108,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:fa2dbfef2d49f41a7b3e19a0dfba4fb347952136&amp;dn=Beginning+Java+Programming&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 0,
+  "uploader": "5c4lLY349",
+  "files": 1,
+  "time": 1469448247,
+  "description": "Beginning Java Programming: The Object Oriented Approach is a straightforward resource for getting started with one of the world's most enduringly popular programming languages. Based on classes taught by the authors, the book starts with the basics and gradually builds into more advanced concepts. The approach utilizes an integrated development environment that allows readers to immediately apply what they learn, and includes step-by-step instruction with plenty of sample programs. Each chapter contains exercises based on real-world business and educational scenarios, and the final chapter uses case studies to combine several concepts and put readers' new skills to the test.\r\n\r\nBeginning Java Programming: The Object Oriented Approach provides both the information and the tools beginners need to develop Java skills, from the general concepts of object-oriented programming",
+  "parsed": {
+    "xt": "urn:btih:fa2dbfef2d49f41a7b3e19a0dfba4fb347952136",
+    "dn": "Beginning Java Programming",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "fa2dbfef2d49f41a7b3e19a0dfba4fb347952136",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        250,
+        45,
+        191,
+        239,
+        45,
+        73,
+        244,
+        26,
+        123,
+        62,
+        25,
+        160,
+        223,
+        186,
+        79,
+        179,
+        71,
+        149,
+        33,
+        54
+      ]
+    },
+    "name": "Beginning Java Programming",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 77,
+  "last_updated": "2016-12-25T18:39:20.510Z"
+}

@@ -1,1 +1,61 @@
-{"title":"FL Studio Producer Edition 11.0.3 Final R2R [ChingLiu]","uid":8851390,"size":312600160,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:fb872b61247d8932c22976c09ee503d9df657f1b&amp;dn=FL+Studio+Producer+Edition+11.0.3+Final+R2R+%5BChingLiu%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":110,"leechers":3,"uploader":"Ching_Liu","files":-1,"time":1377536668,"description":"Changes in version 11.0.3\n\nAdditions:\n- ReWired: added CC parameters\n- new CoolStuff demo songs: &quot;RadioactiveSandwich - Homunculus&quot;, &quot;Fuego96 - SayWhat&quot;, &quot;Fuego96 - TimeFlies&quot;\n\nBugfixes:\n- fixed color change of &quot;remove conflicts&quot; label when linking conflicting controllers \n- fixed &quot;next by char&quot; in browser\n - fixed running FL as other user than the one it was installed as\n - updated url used by &quot;Register access to website&quot; Help menu item\n - re-implemented installation of ogg vorbis codec for both 32bit and 64bit\n - small fix in event editor \n- most templates now have 'Play truncated notes in clips' on\n- fixed freeze changing sample rate with some ASIO drivers\n - Harmor: fixed bug related to ribbon saturation. \nIMPORTANT: the sound will be different now if you use ribbon saturation! \n- Wrapper: fixed access violation loading WaveShellVST in Patcher\n - Wrapper: fixed bug loading bridged plugins from FL10 as bridged\n - fixed crash after deleting a second instance for these plugins: \nConvolver, Granulizer, Edison, Fruity Slicer, Harmor and Slicex \n- Newtone: jump to last start position upon stop\n - Newtone: disappearing selected regions when zooming out fixed\n - Newtone: changed glue mode to ALT\n - Newtone: new Snap Downbeat command (warp mode only)\n - Newtone: lowered precision of tempo display in wave properties window\n - FPC: random trigger option is now saved in pad preset\n - FPC: fixed 'save all samples'\n - FPC: fixed plugin database preset\n - Video Player: fixed visibility of start and end handles\n - Video Player: fixed video position when starting from random position in playlist\n - ReWired, FL ReWire: fixed location that ReWire dll is loaded from \n- DrumSynth Live: fixed default patch indication in key popup menu \n- Wave Traveller: improvements in Windows XP compatibility\n - Patcher: don't show module connection popup if all items are disabled\n - Patcher: fixed label position jitter\n - Patcher: fixed loading VST3 effect plugin from favorite list\n - Patcher: fixed latency label positions\n- Patcher: fixed song position for plugins after relocating to random position\n - Control Surface: fixed import of old floating point values\n - Control Surface: fixed slider size when pasting colors\n - Control Surface: fixed control position when loading settings (mostly XY) \n- DirectWave: fixed export of 16bit int sample to FLM .instr file\n - DirectWave: fixed import of sustain loop from FLM .instr file\n - DirectWave: now sets multitimbral flag in exported FLM .instr file\n - GMS: fixed Dirty Horse TE preset\n - Drumaxx: fixed freeze at 100% when rendering\n\nFL Studio system requirements:\n\n* 2Ghz Intel Pentium 4 / AMD Athlon 64 (or later) compatible CPU with full SSE2 support. The faster your CPU and more cores it has the more you will be able to do simultaneously. Download and test the demo!\n* 32 or 64 Bit versions of Windows 8, Windows 7, Vista, XP (with service pack 3)\n* (or) Intel Mac with Boot Camp / Windows. Running XP (with service pack 3), Vista or Windows 7 (in 32 or 64 Bit)\n* 1 Gb or more RAM recommended\n* 1 Gb free disk space\n* Soundcard with DirectSound drivers. ASIO/ASIO2 compatible required for audio recording (FL Studio installs with generic ASIO4ALL drivers","torrent":{"xt":"urn:btih:fb872b61247d8932c22976c09ee503d9df657f1b","amp;dn":"FL+Studio+Producer+Edition+11.0.3+Final+R2R+%5BChingLiu%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fb872b61247d8932c22976c09ee503d9df657f1b","infoHashBuffer":{"type":"Buffer","data":[251,135,43,97,36,125,137,50,194,41,118,192,158,229,3,217,223,101,127,27]},"announce":[],"urlList":[]}}
+{
+  "title": "FL Studio Producer Edition 11.0.3 Final R2R [ChingLiu]",
+  "uid": 8851390,
+  "size": 312600160,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:fb872b61247d8932c22976c09ee503d9df657f1b&amp;dn=FL+Studio+Producer+Edition+11.0.3+Final+R2R+%5BChingLiu%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 110,
+  "leechers": 3,
+  "uploader": "Ching_Liu",
+  "files": -1,
+  "time": 1377536668,
+  "description": "Changes in version 11.0.3\n\nAdditions:\n- ReWired: added CC parameters\n- new CoolStuff demo songs: &quot;RadioactiveSandwich - Homunculus&quot;, &quot;Fuego96 - SayWhat&quot;, &quot;Fuego96 - TimeFlies&quot;\n\nBugfixes:\n- fixed color change of &quot;remove conflicts&quot; label when linking conflicting controllers \n- fixed &quot;next by char&quot; in browser\n - fixed running FL as other user than the one it was installed as\n - updated url used by &quot;Register access to website&quot; Help menu item\n - re-implemented installation of ogg vorbis codec for both 32bit and 64bit\n - small fix in event editor \n- most templates now have 'Play truncated notes in clips' on\n- fixed freeze changing sample rate with some ASIO drivers\n - Harmor: fixed bug related to ribbon saturation. \nIMPORTANT: the sound will be different now if you use ribbon saturation! \n- Wrapper: fixed access violation loading WaveShellVST in Patcher\n - Wrapper: fixed bug loading bridged plugins from FL10 as bridged\n - fixed crash after deleting a second instance for these plugins: \nConvolver, Granulizer, Edison, Fruity Slicer, Harmor and Slicex \n- Newtone: jump to last start position upon stop\n - Newtone: disappearing selected regions when zooming out fixed\n - Newtone: changed glue mode to ALT\n - Newtone: new Snap Downbeat command (warp mode only)\n - Newtone: lowered precision of tempo display in wave properties window\n - FPC: random trigger option is now saved in pad preset\n - FPC: fixed 'save all samples'\n - FPC: fixed plugin database preset\n - Video Player: fixed visibility of start and end handles\n - Video Player: fixed video position when starting from random position in playlist\n - ReWired, FL ReWire: fixed location that ReWire dll is loaded from \n- DrumSynth Live: fixed default patch indication in key popup menu \n- Wave Traveller: improvements in Windows XP compatibility\n - Patcher: don't show module connection popup if all items are disabled\n - Patcher: fixed label position jitter\n - Patcher: fixed loading VST3 effect plugin from favorite list\n - Patcher: fixed latency label positions\n- Patcher: fixed song position for plugins after relocating to random position\n - Control Surface: fixed import of old floating point values\n - Control Surface: fixed slider size when pasting colors\n - Control Surface: fixed control position when loading settings (mostly XY) \n- DirectWave: fixed export of 16bit int sample to FLM .instr file\n - DirectWave: fixed import of sustain loop from FLM .instr file\n - DirectWave: now sets multitimbral flag in exported FLM .instr file\n - GMS: fixed Dirty Horse TE preset\n - Drumaxx: fixed freeze at 100% when rendering\n\nFL Studio system requirements:\n\n* 2Ghz Intel Pentium 4 / AMD Athlon 64 (or later) compatible CPU with full SSE2 support. The faster your CPU and more cores it has the more you will be able to do simultaneously. Download and test the demo!\n* 32 or 64 Bit versions of Windows 8, Windows 7, Vista, XP (with service pack 3)\n* (or) Intel Mac with Boot Camp / Windows. Running XP (with service pack 3), Vista or Windows 7 (in 32 or 64 Bit)\n* 1 Gb or more RAM recommended\n* 1 Gb free disk space\n* Soundcard with DirectSound drivers. ASIO/ASIO2 compatible required for audio recording (FL Studio installs with generic ASIO4ALL drivers",
+  "parsed": {
+    "xt": "urn:btih:fb872b61247d8932c22976c09ee503d9df657f1b",
+    "dn": "FL Studio Producer Edition 11.0.3 Final R2R [ChingLiu]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fb872b61247d8932c22976c09ee503d9df657f1b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        251,
+        135,
+        43,
+        97,
+        36,
+        125,
+        137,
+        50,
+        194,
+        41,
+        118,
+        192,
+        158,
+        229,
+        3,
+        217,
+        223,
+        101,
+        127,
+        27
+      ]
+    },
+    "name": "FL Studio Producer Edition 11.0.3 Final R2R [ChingLiu]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 113,
+  "peers": 7,
+  "last_updated": "2016-12-25T18:47:32.394Z"
+}

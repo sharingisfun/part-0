@@ -1,1 +1,61 @@
-{"title":"Lucy DVDRip","uid":11558050,"size":1605677056,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:f9e46da970ebdc61448aa6852a6cb31df7ffbfed&amp;dn=Lucy+DVDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":228,"leechers":1,"uploader":"goldenz0","files":1,"time":1416849474,"description":"Calidad DVDRip\nEspaÃƒÂ±ol\n &lt;a href=&quot;\nhttp://www.peliculasentorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.peliculasentorrent.com/&lt;/a&gt;","torrent":{"xt":"urn:btih:f9e46da970ebdc61448aa6852a6cb31df7ffbfed","amp;dn":"Lucy+DVDRip","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f9e46da970ebdc61448aa6852a6cb31df7ffbfed","infoHashBuffer":{"type":"Buffer","data":[249,228,109,169,112,235,220,97,68,138,166,133,42,108,179,29,247,255,191,237]},"announce":[],"urlList":[]}}
+{
+  "title": "Lucy DVDRip",
+  "uid": 11558050,
+  "size": 1605677056,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:f9e46da970ebdc61448aa6852a6cb31df7ffbfed&amp;dn=Lucy+DVDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 228,
+  "leechers": 1,
+  "uploader": "goldenz0",
+  "files": 1,
+  "time": 1416849474,
+  "description": "Calidad DVDRip\nEspaÃƒÂ±ol\n &lt;a href=&quot;\nhttp://www.peliculasentorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.peliculasentorrent.com/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:f9e46da970ebdc61448aa6852a6cb31df7ffbfed",
+    "dn": "Lucy DVDRip",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f9e46da970ebdc61448aa6852a6cb31df7ffbfed",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        249,
+        228,
+        109,
+        169,
+        112,
+        235,
+        220,
+        97,
+        68,
+        138,
+        166,
+        133,
+        42,
+        108,
+        179,
+        29,
+        247,
+        255,
+        191,
+        237
+      ]
+    },
+    "name": "Lucy DVDRip",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 229,
+  "peers": 1,
+  "last_updated": "2016-12-25T18:37:42.194Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Cars[2006]DvDrip[Eng]-aXXo","uid":4321598,"size":736218252,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:f9bcde0b742384c457c9955ed4110b9f6c4f3273&amp;dn=Cars%5B2006%5DDvDrip%5BEng%5D-aXXo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":2,"uploader":"circlensess","files":2,"time":1217516661,"description":"Cars[2006]DvDrip[Eng]\t\n     \nVISIT : http://www.imdb.com/title/tt0317219/ OROR DL .nfo","torrent":{"xt":"urn:btih:f9bcde0b742384c457c9955ed4110b9f6c4f3273","amp;dn":"Cars%5B2006%5DDvDrip%5BEng%5D-aXXo","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f9bcde0b742384c457c9955ed4110b9f6c4f3273","infoHashBuffer":{"type":"Buffer","data":[249,188,222,11,116,35,132,196,87,201,149,94,212,17,11,159,108,79,50,115]},"announce":[],"urlList":[]}}
+{
+  "title": "Cars[2006]DvDrip[Eng]-aXXo",
+  "uid": 4321598,
+  "size": 736218252,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:f9bcde0b742384c457c9955ed4110b9f6c4f3273&amp;dn=Cars%5B2006%5DDvDrip%5BEng%5D-aXXo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 2,
+  "uploader": "circlensess",
+  "files": 2,
+  "time": 1217516661,
+  "description": "Cars[2006]DvDrip[Eng]\t\n     \nVISIT : http://www.imdb.com/title/tt0317219/ OROR DL .nfo",
+  "parsed": {
+    "xt": "urn:btih:f9bcde0b742384c457c9955ed4110b9f6c4f3273",
+    "dn": "Cars[2006]DvDrip[Eng]-aXXo",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f9bcde0b742384c457c9955ed4110b9f6c4f3273",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        249,
+        188,
+        222,
+        11,
+        116,
+        35,
+        132,
+        196,
+        87,
+        201,
+        149,
+        94,
+        212,
+        17,
+        11,
+        159,
+        108,
+        79,
+        50,
+        115
+      ]
+    },
+    "name": "Cars[2006]DvDrip[Eng]-aXXo",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 7,
+  "last_updated": "2016-12-25T18:36:56.041Z"
+}

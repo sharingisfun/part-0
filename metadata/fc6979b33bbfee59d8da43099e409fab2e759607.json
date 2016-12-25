@@ -1,1 +1,61 @@
-{"title":"Crusader.Kings.II.Way.of.Life-SKIDROW","uid":11672786,"size":959951850,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:fc6979b33bbfee59d8da43099e409fab2e759607&amp;dn=Crusader.Kings.II.Way.of.Life-SKIDROW&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":116,"leechers":2,"uploader":"Mbb15","files":2,"time":1422737449,"description":"Crusader.Kings.II.Way.of.Life-SKIDROW","torrent":{"xt":"urn:btih:fc6979b33bbfee59d8da43099e409fab2e759607","amp;dn":"Crusader.Kings.II.Way.of.Life-SKIDROW","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fc6979b33bbfee59d8da43099e409fab2e759607","infoHashBuffer":{"type":"Buffer","data":[252,105,121,179,59,191,238,89,216,218,67,9,158,64,159,171,46,117,150,7]},"announce":[],"urlList":[]}}
+{
+  "title": "Crusader.Kings.II.Way.of.Life-SKIDROW",
+  "uid": 11672786,
+  "size": 959951850,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:fc6979b33bbfee59d8da43099e409fab2e759607&amp;dn=Crusader.Kings.II.Way.of.Life-SKIDROW&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 116,
+  "leechers": 2,
+  "uploader": "Mbb15",
+  "files": 2,
+  "time": 1422737449,
+  "description": "Crusader.Kings.II.Way.of.Life-SKIDROW",
+  "parsed": {
+    "xt": "urn:btih:fc6979b33bbfee59d8da43099e409fab2e759607",
+    "dn": "Crusader.Kings.II.Way.of.Life-SKIDROW",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fc6979b33bbfee59d8da43099e409fab2e759607",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        252,
+        105,
+        121,
+        179,
+        59,
+        191,
+        238,
+        89,
+        216,
+        218,
+        67,
+        9,
+        158,
+        64,
+        159,
+        171,
+        46,
+        117,
+        150,
+        7
+      ]
+    },
+    "name": "Crusader.Kings.II.Way.of.Life-SKIDROW",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 118,
+  "peers": 19,
+  "last_updated": "2016-12-25T18:52:31.746Z"
+}

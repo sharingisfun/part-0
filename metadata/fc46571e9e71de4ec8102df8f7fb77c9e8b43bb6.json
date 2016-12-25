@@ -1,1 +1,61 @@
-{"title":"Shawn Mendes - Shawn Mendes-EP[Mp3-320kbps-2014]","uid":10648438,"size":31825796,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:fc46571e9e71de4ec8102df8f7fb77c9e8b43bb6&amp;dn=Shawn+Mendes+-+Shawn+Mendes-EP%5BMp3-320kbps-2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":5,"uploader":"simpsonrony","files":-1,"time":1406576638,"description":"Source: https://itunes.apple.com/us/album/shawn-mendes-ep/id898439080\n\n\nTrack List:\n***********\n01 Life of the Party\n02 Show You\n03 One of Those Nights\n04 The Weight\n\nAudio Info:\n***********\n\nAudio\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nWriting library : LAME3.99.5\n","torrent":{"xt":"urn:btih:fc46571e9e71de4ec8102df8f7fb77c9e8b43bb6","amp;dn":"Shawn+Mendes+-+Shawn+Mendes-EP%5BMp3-320kbps-2014%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fc46571e9e71de4ec8102df8f7fb77c9e8b43bb6","infoHashBuffer":{"type":"Buffer","data":[252,70,87,30,158,113,222,78,200,16,45,248,247,251,119,201,232,180,59,182]},"announce":[],"urlList":[]}}
+{
+  "title": "Shawn Mendes - Shawn Mendes-EP[Mp3-320kbps-2014]",
+  "uid": 10648438,
+  "size": 31825796,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:fc46571e9e71de4ec8102df8f7fb77c9e8b43bb6&amp;dn=Shawn+Mendes+-+Shawn+Mendes-EP%5BMp3-320kbps-2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 5,
+  "uploader": "simpsonrony",
+  "files": -1,
+  "time": 1406576638,
+  "description": "Source: https://itunes.apple.com/us/album/shawn-mendes-ep/id898439080\n\n\nTrack List:\n***********\n01 Life of the Party\n02 Show You\n03 One of Those Nights\n04 The Weight\n\nAudio Info:\n***********\n\nAudio\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\nWriting library : LAME3.99.5\n",
+  "parsed": {
+    "xt": "urn:btih:fc46571e9e71de4ec8102df8f7fb77c9e8b43bb6",
+    "dn": "Shawn Mendes - Shawn Mendes-EP[Mp3-320kbps-2014]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fc46571e9e71de4ec8102df8f7fb77c9e8b43bb6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        252,
+        70,
+        87,
+        30,
+        158,
+        113,
+        222,
+        78,
+        200,
+        16,
+        45,
+        248,
+        247,
+        251,
+        119,
+        201,
+        232,
+        180,
+        59,
+        182
+      ]
+    },
+    "name": "Shawn Mendes - Shawn Mendes-EP[Mp3-320kbps-2014]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 9,
+  "last_updated": "2016-12-25T18:52:03.644Z"
+}

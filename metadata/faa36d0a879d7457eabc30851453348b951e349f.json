@@ -1,1 +1,63 @@
-{"title":"Quantum: A Guide for the Perplexed - Jim Al-Khalili 2016","uid":15826228,"size":113691536,"categoryP":"audio","categoryS":"audio_books","magnet":"?xt=urn:btih:faa36d0a879d7457eabc30851453348b951e349f&amp;dn=Quantum%3A+A+Guide+for+the+Perplexed+-+Jim+Al-Khalili+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":1,"uploader":"Horisarte","files":15,"time":1473848007,"description":"https://www.amazon.co.uk/Quantum-Guide-Perplexed/dp/B01B231DNQ","torrent":{"xt":"urn:btih:faa36d0a879d7457eabc30851453348b951e349f","amp;dn":"Quantum%3A+A+Guide+for+the+Perplexed+-+Jim+Al-Khalili+2016","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"faa36d0a879d7457eabc30851453348b951e349f","infoHashBuffer":{"type":"Buffer","data":[250,163,109,10,135,157,116,87,234,188,48,133,20,83,52,139,149,30,52,159]},"announce":[],"urlList":[]}}
+{
+  "title": "Quantum: A Guide for the Perplexed - Jim Al-Khalili 2016",
+  "uid": 15826228,
+  "size": 113691536,
+  "categoryP": "audio",
+  "categoryS": "audio_books",
+  "magnet": "?xt=urn:btih:faa36d0a879d7457eabc30851453348b951e349f&amp;dn=Quantum%3A+A+Guide+for+the+Perplexed+-+Jim+Al-Khalili+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 1,
+  "uploader": "Horisarte",
+  "files": 15,
+  "time": 1473848007,
+  "description": "https://www.amazon.co.uk/Quantum-Guide-Perplexed/dp/B01B231DNQ",
+  "parsed": {
+    "xt": "urn:btih:faa36d0a879d7457eabc30851453348b951e349f",
+    "dn": "Quantum: A Guide for the Perplexed - Jim Al-Khalili 2016",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "faa36d0a879d7457eabc30851453348b951e349f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        250,
+        163,
+        109,
+        10,
+        135,
+        157,
+        116,
+        87,
+        234,
+        188,
+        48,
+        133,
+        20,
+        83,
+        52,
+        139,
+        149,
+        30,
+        52,
+        159
+      ]
+    },
+    "name": "Quantum: A Guide for the Perplexed - Jim Al-Khalili 2016",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 49,
+  "last_updated": "2016-12-25T18:42:05.154Z"
+}

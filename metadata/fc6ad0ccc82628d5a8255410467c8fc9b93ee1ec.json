@@ -1,1 +1,61 @@
-{"title":"[PC]Call Of Duty Black Ops 2 {PRATYOUSH} [nosTEAM]","uid":8976325,"size":18693771821,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:fc6ad0ccc82628d5a8255410467c8fc9b93ee1ec&amp;dn=%5BPC%5DCall+Of+Duty+Black+Ops+2+%7BPRATYOUSH%7D+%5BnosTEAM%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":50,"uploader":"FADU123","files":9,"time":1380451818,"description":"PLEASE SEED THE TORRENT\n\nIT INCLUDES MULTIPLAYER, SINGLEPLAYER AND ZOMBIE MOD\n\n[ U CAN PLAY MULTI ONLY WITH BOTS W8 UNTILL NEW UPDATE COMES]\n\nTHANKS","torrent":{"xt":"urn:btih:fc6ad0ccc82628d5a8255410467c8fc9b93ee1ec","amp;dn":"%5BPC%5DCall+Of+Duty+Black+Ops+2+%7BPRATYOUSH%7D+%5BnosTEAM%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fc6ad0ccc82628d5a8255410467c8fc9b93ee1ec","infoHashBuffer":{"type":"Buffer","data":[252,106,208,204,200,38,40,213,168,37,84,16,70,124,143,201,185,62,225,236]},"announce":[],"urlList":[]}}
+{
+  "title": "[PC]Call Of Duty Black Ops 2 {PRATYOUSH} [nosTEAM]",
+  "uid": 8976325,
+  "size": 18693771821,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:fc6ad0ccc82628d5a8255410467c8fc9b93ee1ec&amp;dn=%5BPC%5DCall+Of+Duty+Black+Ops+2+%7BPRATYOUSH%7D+%5BnosTEAM%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 50,
+  "uploader": "FADU123",
+  "files": 9,
+  "time": 1380451818,
+  "description": "PLEASE SEED THE TORRENT\n\nIT INCLUDES MULTIPLAYER, SINGLEPLAYER AND ZOMBIE MOD\n\n[ U CAN PLAY MULTI ONLY WITH BOTS W8 UNTILL NEW UPDATE COMES]\n\nTHANKS",
+  "parsed": {
+    "xt": "urn:btih:fc6ad0ccc82628d5a8255410467c8fc9b93ee1ec",
+    "dn": "[PC]Call Of Duty Black Ops 2 {PRATYOUSH} [nosTEAM]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fc6ad0ccc82628d5a8255410467c8fc9b93ee1ec",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        252,
+        106,
+        208,
+        204,
+        200,
+        38,
+        40,
+        213,
+        168,
+        37,
+        84,
+        16,
+        70,
+        124,
+        143,
+        201,
+        185,
+        62,
+        225,
+        236
+      ]
+    },
+    "name": "[PC]Call Of Duty Black Ops 2 {PRATYOUSH} [nosTEAM]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 90,
+  "peers": 29,
+  "last_updated": "2016-12-25T18:52:33.752Z"
+}

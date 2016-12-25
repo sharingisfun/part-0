@@ -1,1 +1,61 @@
-{"title":"UnReal.S01E02.HDTV.x264-BATV[ettv]","uid":11999821,"size":421972684,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:f9b7f60db45f15921ee449ff97948b95063bde45&amp;dn=UnReal.S01E02.HDTV.x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":6,"uploader":"ettv","files":3,"time":1433746228,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW","torrent":{"xt":"urn:btih:f9b7f60db45f15921ee449ff97948b95063bde45","amp;dn":"UnReal.S01E02.HDTV.x264-BATV%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"f9b7f60db45f15921ee449ff97948b95063bde45","infoHashBuffer":{"type":"Buffer","data":[249,183,246,13,180,95,21,146,30,228,73,255,151,148,139,149,6,59,222,69]},"announce":[],"urlList":[]}}
+{
+  "title": "UnReal.S01E02.HDTV.x264-BATV[ettv]",
+  "uid": 11999821,
+  "size": 421972684,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:f9b7f60db45f15921ee449ff97948b95063bde45&amp;dn=UnReal.S01E02.HDTV.x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 6,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1433746228,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW",
+  "parsed": {
+    "xt": "urn:btih:f9b7f60db45f15921ee449ff97948b95063bde45",
+    "dn": "UnReal.S01E02.HDTV.x264-BATV[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "f9b7f60db45f15921ee449ff97948b95063bde45",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        249,
+        183,
+        246,
+        13,
+        180,
+        95,
+        21,
+        146,
+        30,
+        228,
+        73,
+        255,
+        151,
+        148,
+        139,
+        149,
+        6,
+        59,
+        222,
+        69
+      ]
+    },
+    "name": "UnReal.S01E02.HDTV.x264-BATV[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 32,
+  "last_updated": "2016-12-25T18:36:44.001Z"
+}

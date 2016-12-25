@@ -1,1 +1,61 @@
-{"title":"This.War.of.Mine-RELOADED","uid":11461409,"size":785879746,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:fa891b869e892ce3183c89857badeced7fb1ce75&amp;dn=This.War.of.Mine-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":227,"leechers":7,"uploader":"Drarbg","files":-1,"time":1415992189,"description":" &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nThis.War.of.Mine-RELOADED\n\n- Burn or mount the image.\n- Install the game.\n- Play","torrent":{"xt":"urn:btih:fa891b869e892ce3183c89857badeced7fb1ce75","amp;dn":"This.War.of.Mine-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fa891b869e892ce3183c89857badeced7fb1ce75","infoHashBuffer":{"type":"Buffer","data":[250,137,27,134,158,137,44,227,24,60,137,133,123,173,236,237,127,177,206,117]},"announce":[],"urlList":[]}}
+{
+  "title": "This.War.of.Mine-RELOADED",
+  "uid": 11461409,
+  "size": 785879746,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:fa891b869e892ce3183c89857badeced7fb1ce75&amp;dn=This.War.of.Mine-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 227,
+  "leechers": 7,
+  "uploader": "Drarbg",
+  "files": -1,
+  "time": 1415992189,
+  "description": " &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nThis.War.of.Mine-RELOADED\n\n- Burn or mount the image.\n- Install the game.\n- Play",
+  "parsed": {
+    "xt": "urn:btih:fa891b869e892ce3183c89857badeced7fb1ce75",
+    "dn": "This.War.of.Mine-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fa891b869e892ce3183c89857badeced7fb1ce75",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        250,
+        137,
+        27,
+        134,
+        158,
+        137,
+        44,
+        227,
+        24,
+        60,
+        137,
+        133,
+        123,
+        173,
+        236,
+        237,
+        127,
+        177,
+        206,
+        117
+      ]
+    },
+    "name": "This.War.of.Mine-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 234,
+  "peers": 23,
+  "last_updated": "2016-12-25T18:41:22.970Z"
+}
