@@ -1,1 +1,61 @@
-{"title":"Rudimental feat. Ella Eyre - Waiting All Night (Original Version","uid":9223826,"size":11749782,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:978c122f1a7fd56d8b6b6e41ecb9517c27a23b0c&amp;dn=Rudimental+feat.+Ella+Eyre+-+Waiting+All+Night+%28Original+Version&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":0,"uploader":"AngelDiMaria","files":1,"time":1384976661,"description":"Artist: Rudimental\n\nTitle: Waiting All Night (feat. Ella Eyre)\n\nFrom the Album: Home (Deluxe Edition)\n\nFormat: Mp3 320 Kbps\n\nMusic Genre: Drum and Bass/Dance\n\nReleased: 07 March 2013","torrent":{"xt":"urn:btih:978c122f1a7fd56d8b6b6e41ecb9517c27a23b0c","amp;dn":"Rudimental+feat.+Ella+Eyre+-+Waiting+All+Night+%28Original+Version","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"978c122f1a7fd56d8b6b6e41ecb9517c27a23b0c","infoHashBuffer":{"type":"Buffer","data":[151,140,18,47,26,127,213,109,139,107,110,65,236,185,81,124,39,162,59,12]},"announce":[],"urlList":[]}}
+{
+  "title": "Rudimental feat. Ella Eyre - Waiting All Night (Original Version",
+  "uid": 9223826,
+  "size": 11749782,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:978c122f1a7fd56d8b6b6e41ecb9517c27a23b0c&amp;dn=Rudimental+feat.+Ella+Eyre+-+Waiting+All+Night+%28Original+Version&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 0,
+  "uploader": "AngelDiMaria",
+  "files": 1,
+  "time": 1384976661,
+  "description": "Artist: Rudimental\n\nTitle: Waiting All Night (feat. Ella Eyre)\n\nFrom the Album: Home (Deluxe Edition)\n\nFormat: Mp3 320 Kbps\n\nMusic Genre: Drum and Bass/Dance\n\nReleased: 07 March 2013",
+  "parsed": {
+    "xt": "urn:btih:978c122f1a7fd56d8b6b6e41ecb9517c27a23b0c",
+    "dn": "Rudimental feat. Ella Eyre - Waiting All Night (Original Version",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "978c122f1a7fd56d8b6b6e41ecb9517c27a23b0c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        151,
+        140,
+        18,
+        47,
+        26,
+        127,
+        213,
+        109,
+        139,
+        107,
+        110,
+        65,
+        236,
+        185,
+        81,
+        124,
+        39,
+        162,
+        59,
+        12
+      ]
+    },
+    "name": "Rudimental feat. Ella Eyre - Waiting All Night (Original Version",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 12,
+  "last_updated": "2016-12-25T08:34:13.292Z"
+}

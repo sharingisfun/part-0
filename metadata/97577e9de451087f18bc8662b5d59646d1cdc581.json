@@ -1,1 +1,61 @@
-{"title":"The Tallest Man on Earth collection (4 albums)","uid":6077428,"size":211903979,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:97577e9de451087f18bc8662b5d59646d1cdc581&amp;dn=The+Tallest+Man+on+Earth+collection+%284+albums%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":5,"uploader":"FiReCRoW","files":30,"time":1293936850,"description":"\nAt the time of posting this torrent includes all albums by The Tallest Man on Earth\n\nThe Tallest Man on Earth (EP) (2006)\nShallow Grave (2008)\nThe Wild Hunt (2010)\nSometimes the Blues Is Just a Passing Bird (EP) (2010)\n\nvarious bitrates mostly 320kbps\nfront cover album art integrated in mp3 files\nnot my own rips .. dont remember who ripped what just gathered them from different sources\nalbum art gathered via google\nenjoy\n","torrent":{"xt":"urn:btih:97577e9de451087f18bc8662b5d59646d1cdc581","amp;dn":"The+Tallest+Man+on+Earth+collection+%284+albums%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"97577e9de451087f18bc8662b5d59646d1cdc581","infoHashBuffer":{"type":"Buffer","data":[151,87,126,157,228,81,8,127,24,188,134,98,181,213,150,70,209,205,197,129]},"announce":[],"urlList":[]}}
+{
+  "title": "The Tallest Man on Earth collection (4 albums)",
+  "uid": 6077428,
+  "size": 211903979,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:97577e9de451087f18bc8662b5d59646d1cdc581&amp;dn=The+Tallest+Man+on+Earth+collection+%284+albums%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 5,
+  "uploader": "FiReCRoW",
+  "files": 30,
+  "time": 1293936850,
+  "description": "\nAt the time of posting this torrent includes all albums by The Tallest Man on Earth\n\nThe Tallest Man on Earth (EP) (2006)\nShallow Grave (2008)\nThe Wild Hunt (2010)\nSometimes the Blues Is Just a Passing Bird (EP) (2010)\n\nvarious bitrates mostly 320kbps\nfront cover album art integrated in mp3 files\nnot my own rips .. dont remember who ripped what just gathered them from different sources\nalbum art gathered via google\nenjoy\n",
+  "parsed": {
+    "xt": "urn:btih:97577e9de451087f18bc8662b5d59646d1cdc581",
+    "dn": "The Tallest Man on Earth collection (4 albums)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "97577e9de451087f18bc8662b5d59646d1cdc581",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        151,
+        87,
+        126,
+        157,
+        228,
+        81,
+        8,
+        127,
+        24,
+        188,
+        134,
+        98,
+        181,
+        213,
+        150,
+        70,
+        209,
+        205,
+        197,
+        129
+      ]
+    },
+    "name": "The Tallest Man on Earth collection (4 albums)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 28,
+  "last_updated": "2016-12-25T08:32:59.008Z"
+}

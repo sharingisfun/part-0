@@ -1,1 +1,61 @@
-{"title":"The Sandman Collection","uid":8734008,"size":5320574443,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:97873d4456cf4ecdc6dffaab9e9bb7b72ed8d1be&amp;dn=The+Sandman+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":113,"leechers":24,"uploader":"nmv_mmt","files":84,"time":1374650650,"description":"This collection consists of:\n- Sandman Complete Series (#1 - #75).\n- Sandman Special - The Song of Orpheus.\n- Death - The High Cost of Living Complete Series (#1 - #3).\n- Death - The Deluxe Edition.\n\nThanks to Empire Scans.\n\n\nNote: Not my scans, only collected them and put them all together.","torrent":{"xt":"urn:btih:97873d4456cf4ecdc6dffaab9e9bb7b72ed8d1be","amp;dn":"The+Sandman+Collection","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"97873d4456cf4ecdc6dffaab9e9bb7b72ed8d1be","infoHashBuffer":{"type":"Buffer","data":[151,135,61,68,86,207,78,205,198,223,250,171,158,155,183,183,46,216,209,190]},"announce":[],"urlList":[]}}
+{
+  "title": "The Sandman Collection",
+  "uid": 8734008,
+  "size": 5320574443,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:97873d4456cf4ecdc6dffaab9e9bb7b72ed8d1be&amp;dn=The+Sandman+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 113,
+  "leechers": 24,
+  "uploader": "nmv_mmt",
+  "files": 84,
+  "time": 1374650650,
+  "description": "This collection consists of:\n- Sandman Complete Series (#1 - #75).\n- Sandman Special - The Song of Orpheus.\n- Death - The High Cost of Living Complete Series (#1 - #3).\n- Death - The Deluxe Edition.\n\nThanks to Empire Scans.\n\n\nNote: Not my scans, only collected them and put them all together.",
+  "parsed": {
+    "xt": "urn:btih:97873d4456cf4ecdc6dffaab9e9bb7b72ed8d1be",
+    "dn": "The Sandman Collection",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "97873d4456cf4ecdc6dffaab9e9bb7b72ed8d1be",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        151,
+        135,
+        61,
+        68,
+        86,
+        207,
+        78,
+        205,
+        198,
+        223,
+        250,
+        171,
+        158,
+        155,
+        183,
+        183,
+        46,
+        216,
+        209,
+        190
+      ]
+    },
+    "name": "The Sandman Collection",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 137,
+  "peers": 0,
+  "last_updated": "2016-12-25T08:34:05.254Z"
+}

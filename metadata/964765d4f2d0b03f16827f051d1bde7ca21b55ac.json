@@ -1,1 +1,61 @@
-{"title":"Hunting Unlimited 2010 [English] PC ISO","uid":5022460,"size":677056402,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:964765d4f2d0b03f16827f051d1bde7ca21b55ac&amp;dn=Hunting+Unlimited+2010+%5BEnglish%5D+PC+ISO&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":4,"uploader":"extremezone","files":48,"time":1248535430,"description":"Hunting Unlimited 2010 [English] PC ISO\n\n","torrent":{"xt":"urn:btih:964765d4f2d0b03f16827f051d1bde7ca21b55ac","amp;dn":"Hunting+Unlimited+2010+%5BEnglish%5D+PC+ISO","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"964765d4f2d0b03f16827f051d1bde7ca21b55ac","infoHashBuffer":{"type":"Buffer","data":[150,71,101,212,242,208,176,63,22,130,127,5,29,27,222,124,162,27,85,172]},"announce":[],"urlList":[]}}
+{
+  "title": "Hunting Unlimited 2010 [English] PC ISO",
+  "uid": 5022460,
+  "size": 677056402,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:964765d4f2d0b03f16827f051d1bde7ca21b55ac&amp;dn=Hunting+Unlimited+2010+%5BEnglish%5D+PC+ISO&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 4,
+  "uploader": "extremezone",
+  "files": 48,
+  "time": 1248535430,
+  "description": "Hunting Unlimited 2010 [English] PC ISO\n\n",
+  "parsed": {
+    "xt": "urn:btih:964765d4f2d0b03f16827f051d1bde7ca21b55ac",
+    "dn": "Hunting Unlimited 2010 [English] PC ISO",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "964765d4f2d0b03f16827f051d1bde7ca21b55ac",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        150,
+        71,
+        101,
+        212,
+        242,
+        208,
+        176,
+        63,
+        22,
+        130,
+        127,
+        5,
+        29,
+        27,
+        222,
+        124,
+        162,
+        27,
+        85,
+        172
+      ]
+    },
+    "name": "Hunting Unlimited 2010 [English] PC ISO",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 91,
+  "peers": 200,
+  "last_updated": "2016-12-25T08:26:01.654Z"
+}

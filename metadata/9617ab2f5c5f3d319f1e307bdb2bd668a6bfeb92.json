@@ -1,1 +1,61 @@
-{"title":"VSCO Film 01 02 03 04","uid":8906917,"size":137742432,"categoryP":"applications","categoryS":"other_os","magnet":"?xt=urn:btih:9617ab2f5c5f3d319f1e307bdb2bd668a6bfeb92&amp;dn=VSCO+Film+01+02+03+04&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":1,"uploader":"dptrumpeter91","files":1,"time":1378930081,"description":"Here is the latest update of VSCO Film with packs 01-04. It comes with all Canon 6D camera profiles, but unfortunately does not come with the Fuji Profiles for Film 01 and Film 02. \n\nHope these help you.\n\n~DPTRUMPETER~","torrent":{"xt":"urn:btih:9617ab2f5c5f3d319f1e307bdb2bd668a6bfeb92","amp;dn":"VSCO+Film+01+02+03+04","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9617ab2f5c5f3d319f1e307bdb2bd668a6bfeb92","infoHashBuffer":{"type":"Buffer","data":[150,23,171,47,92,95,61,49,159,30,48,123,219,43,214,104,166,191,235,146]},"announce":[],"urlList":[]}}
+{
+  "title": "VSCO Film 01 02 03 04",
+  "uid": 8906917,
+  "size": 137742432,
+  "categoryP": "applications",
+  "categoryS": "other_os",
+  "magnet": "?xt=urn:btih:9617ab2f5c5f3d319f1e307bdb2bd668a6bfeb92&amp;dn=VSCO+Film+01+02+03+04&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 1,
+  "uploader": "dptrumpeter91",
+  "files": 1,
+  "time": 1378930081,
+  "description": "Here is the latest update of VSCO Film with packs 01-04. It comes with all Canon 6D camera profiles, but unfortunately does not come with the Fuji Profiles for Film 01 and Film 02. \n\nHope these help you.\n\n~DPTRUMPETER~",
+  "parsed": {
+    "xt": "urn:btih:9617ab2f5c5f3d319f1e307bdb2bd668a6bfeb92",
+    "dn": "VSCO Film 01 02 03 04",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9617ab2f5c5f3d319f1e307bdb2bd668a6bfeb92",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        150,
+        23,
+        171,
+        47,
+        92,
+        95,
+        61,
+        49,
+        159,
+        30,
+        48,
+        123,
+        219,
+        43,
+        214,
+        104,
+        166,
+        191,
+        235,
+        146
+      ]
+    },
+    "name": "VSCO Film 01 02 03 04",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 75,
+  "peers": 50,
+  "last_updated": "2016-12-25T08:24:47.418Z"
+}

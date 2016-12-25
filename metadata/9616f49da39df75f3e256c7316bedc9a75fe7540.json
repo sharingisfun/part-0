@@ -1,1 +1,61 @@
-{"title":"Limitless.S01E01.HDTV.x264-LOL[ettv]","uid":12475542,"size":345125448,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:9616f49da39df75f3e256c7316bedc9a75fe7540&amp;dn=Limitless.S01E01.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":550,"leechers":304,"uploader":"ettv","files":4,"time":1442975128,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:9616f49da39df75f3e256c7316bedc9a75fe7540","amp;dn":"Limitless.S01E01.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9616f49da39df75f3e256c7316bedc9a75fe7540","infoHashBuffer":{"type":"Buffer","data":[150,22,244,157,163,157,247,95,62,37,108,115,22,190,220,154,117,254,117,64]},"announce":[],"urlList":[]}}
+{
+  "title": "Limitless.S01E01.HDTV.x264-LOL[ettv]",
+  "uid": 12475542,
+  "size": 345125448,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:9616f49da39df75f3e256c7316bedc9a75fe7540&amp;dn=Limitless.S01E01.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 550,
+  "leechers": 304,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1442975128,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:9616f49da39df75f3e256c7316bedc9a75fe7540",
+    "dn": "Limitless.S01E01.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9616f49da39df75f3e256c7316bedc9a75fe7540",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        150,
+        22,
+        244,
+        157,
+        163,
+        157,
+        247,
+        95,
+        62,
+        37,
+        108,
+        115,
+        22,
+        190,
+        220,
+        154,
+        117,
+        254,
+        117,
+        64
+      ]
+    },
+    "name": "Limitless.S01E01.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 854,
+  "peers": 92,
+  "last_updated": "2016-12-25T08:24:41.397Z"
+}

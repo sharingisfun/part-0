@@ -1,1 +1,61 @@
-{"title":"River.Monsters.S07E01.Canadian.Horror.HDTV.x264-FUM[ettv]","uid":11799137,"size":427709966,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:95b7f6daa8fb59bdaf50d268cf5cf8b7f9603030&amp;dn=River.Monsters.S07E01.Canadian.Horror.HDTV.x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":4,"uploader":"ettv","files":2,"time":1428309576,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:95b7f6daa8fb59bdaf50d268cf5cf8b7f9603030","amp;dn":"River.Monsters.S07E01.Canadian.Horror.HDTV.x264-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"95b7f6daa8fb59bdaf50d268cf5cf8b7f9603030","infoHashBuffer":{"type":"Buffer","data":[149,183,246,218,168,251,89,189,175,80,210,104,207,92,248,183,249,96,48,48]},"announce":[],"urlList":[]}}
+{
+  "title": "River.Monsters.S07E01.Canadian.Horror.HDTV.x264-FUM[ettv]",
+  "uid": 11799137,
+  "size": 427709966,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:95b7f6daa8fb59bdaf50d268cf5cf8b7f9603030&amp;dn=River.Monsters.S07E01.Canadian.Horror.HDTV.x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1428309576,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:95b7f6daa8fb59bdaf50d268cf5cf8b7f9603030",
+    "dn": "River.Monsters.S07E01.Canadian.Horror.HDTV.x264-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "95b7f6daa8fb59bdaf50d268cf5cf8b7f9603030",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        149,
+        183,
+        246,
+        218,
+        168,
+        251,
+        89,
+        189,
+        175,
+        80,
+        210,
+        104,
+        207,
+        92,
+        248,
+        183,
+        249,
+        96,
+        48,
+        48
+      ]
+    },
+    "name": "River.Monsters.S07E01.Canadian.Horror.HDTV.x264-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 7,
+  "last_updated": "2016-12-25T08:21:42.891Z"
+}

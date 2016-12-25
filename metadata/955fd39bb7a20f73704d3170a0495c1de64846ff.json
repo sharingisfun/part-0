@@ -1,1 +1,61 @@
-{"title":"YG - My Nigga (ft. Jeezy, Rich Homie Quan)","uid":9048317,"size":9427996,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:955fd39bb7a20f73704d3170a0495c1de64846ff&amp;dn=YG+-+My+Nigga+%28ft.+Jeezy%2C+Rich+Homie+Quan%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":84,"leechers":1,"uploader":"mindcrasher","files":-1,"time":1381807498,"description":"YG - My Nigga (ft. Jeezy, Rich Homie Quan)\n\nmindcrasher\n\nEnjoy MY NIGGA!","torrent":{"xt":"urn:btih:955fd39bb7a20f73704d3170a0495c1de64846ff","amp;dn":"YG+-+My+Nigga+%28ft.+Jeezy%2C+Rich+Homie+Quan%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"955fd39bb7a20f73704d3170a0495c1de64846ff","infoHashBuffer":{"type":"Buffer","data":[149,95,211,155,183,162,15,115,112,77,49,112,160,73,92,29,230,72,70,255]},"announce":[],"urlList":[]}}
+{
+  "title": "YG - My Nigga (ft. Jeezy, Rich Homie Quan)",
+  "uid": 9048317,
+  "size": 9427996,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:955fd39bb7a20f73704d3170a0495c1de64846ff&amp;dn=YG+-+My+Nigga+%28ft.+Jeezy%2C+Rich+Homie+Quan%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 84,
+  "leechers": 1,
+  "uploader": "mindcrasher",
+  "files": -1,
+  "time": 1381807498,
+  "description": "YG - My Nigga (ft. Jeezy, Rich Homie Quan)\n\nmindcrasher\n\nEnjoy MY NIGGA!",
+  "parsed": {
+    "xt": "urn:btih:955fd39bb7a20f73704d3170a0495c1de64846ff",
+    "dn": "YG - My Nigga (ft. Jeezy, Rich Homie Quan)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "955fd39bb7a20f73704d3170a0495c1de64846ff",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        149,
+        95,
+        211,
+        155,
+        183,
+        162,
+        15,
+        115,
+        112,
+        77,
+        49,
+        112,
+        160,
+        73,
+        92,
+        29,
+        230,
+        72,
+        70,
+        255
+      ]
+    },
+    "name": "YG - My Nigga (ft. Jeezy, Rich Homie Quan)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 85,
+  "peers": 21,
+  "last_updated": "2016-12-25T08:19:44.537Z"
+}

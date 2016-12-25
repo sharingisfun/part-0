@@ -1,1 +1,61 @@
-{"title":"Close.Combat.Gateway.to.Caen-CODEX","uid":10306119,"size":2698918095,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:96e35a97f64c5f03a210447beebe116601c796cd&amp;dn=Close.Combat.Gateway.to.Caen-CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":2,"uploader":"Drarbg","files":3,"time":1402133286,"description":"Close.Combat.Gateway.to.Caen-CODEX\n","torrent":{"xt":"urn:btih:96e35a97f64c5f03a210447beebe116601c796cd","amp;dn":"Close.Combat.Gateway.to.Caen-CODEX","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"96e35a97f64c5f03a210447beebe116601c796cd","infoHashBuffer":{"type":"Buffer","data":[150,227,90,151,246,76,95,3,162,16,68,123,238,190,17,102,1,199,150,205]},"announce":[],"urlList":[]}}
+{
+  "title": "Close.Combat.Gateway.to.Caen-CODEX",
+  "uid": 10306119,
+  "size": 2698918095,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:96e35a97f64c5f03a210447beebe116601c796cd&amp;dn=Close.Combat.Gateway.to.Caen-CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 2,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1402133286,
+  "description": "Close.Combat.Gateway.to.Caen-CODEX\n",
+  "parsed": {
+    "xt": "urn:btih:96e35a97f64c5f03a210447beebe116601c796cd",
+    "dn": "Close.Combat.Gateway.to.Caen-CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "96e35a97f64c5f03a210447beebe116601c796cd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        150,
+        227,
+        90,
+        151,
+        246,
+        76,
+        95,
+        3,
+        162,
+        16,
+        68,
+        123,
+        238,
+        190,
+        17,
+        102,
+        1,
+        199,
+        150,
+        205
+      ]
+    },
+    "name": "Close.Combat.Gateway.to.Caen-CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 10,
+  "last_updated": "2016-12-25T08:30:08.401Z"
+}

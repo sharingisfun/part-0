@@ -1,1 +1,61 @@
-{"title":"Oliver Heldens - Gecko (Original Mix)","uid":9430556,"size":11400458,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:95ba8234578238fdff9ddeb814d2880eff54ee55&amp;dn=Oliver+Heldens+-+Gecko+%28Original+Mix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":1,"uploader":"yeahsx","files":-1,"time":1388791465,"description":"Label: Musical Freedom\nArtist: Oliver Heldens\nAudio Bit Rate: 320 Kbps\nDuration: 04:42 min\nBPM: 125\nGenre: Deep House\nCatalog # MF067\nCover: Yes\nFormat/Codec: .mp3","torrent":{"xt":"urn:btih:95ba8234578238fdff9ddeb814d2880eff54ee55","amp;dn":"Oliver+Heldens+-+Gecko+%28Original+Mix%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"95ba8234578238fdff9ddeb814d2880eff54ee55","infoHashBuffer":{"type":"Buffer","data":[149,186,130,52,87,130,56,253,255,157,222,184,20,210,136,14,255,84,238,85]},"announce":[],"urlList":[]}}
+{
+  "title": "Oliver Heldens - Gecko (Original Mix)",
+  "uid": 9430556,
+  "size": 11400458,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:95ba8234578238fdff9ddeb814d2880eff54ee55&amp;dn=Oliver+Heldens+-+Gecko+%28Original+Mix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 1,
+  "uploader": "yeahsx",
+  "files": -1,
+  "time": 1388791465,
+  "description": "Label: Musical Freedom\nArtist: Oliver Heldens\nAudio Bit Rate: 320 Kbps\nDuration: 04:42 min\nBPM: 125\nGenre: Deep House\nCatalog # MF067\nCover: Yes\nFormat/Codec: .mp3",
+  "parsed": {
+    "xt": "urn:btih:95ba8234578238fdff9ddeb814d2880eff54ee55",
+    "dn": "Oliver Heldens - Gecko (Original Mix)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "95ba8234578238fdff9ddeb814d2880eff54ee55",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        149,
+        186,
+        130,
+        52,
+        87,
+        130,
+        56,
+        253,
+        255,
+        157,
+        222,
+        184,
+        20,
+        210,
+        136,
+        14,
+        255,
+        84,
+        238,
+        85
+      ]
+    },
+    "name": "Oliver Heldens - Gecko (Original Mix)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 12,
+  "last_updated": "2016-12-25T08:21:48.905Z"
+}

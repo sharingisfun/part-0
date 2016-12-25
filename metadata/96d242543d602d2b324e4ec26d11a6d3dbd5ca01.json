@@ -1,1 +1,61 @@
-{"title":"[PC ITA] GTA San Andreas","uid":3415999,"size":4198387712,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:96d242543d602d2b324e4ec26d11a6d3dbd5ca01&amp;dn=%5BPC+ITA%5D+GTA+San+Andreas&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":4,"uploader":"HoochieMamma","files":1,"time":1133422507,"description":"Italian version of GTA San Andreas\n\nDO NOT RELY ON THEPIRATEBAY'S TRACKER.\n\nUse &amp;micro;Torrent to download and enable the DHT network. www.utorrent.com","torrent":{"xt":"urn:btih:96d242543d602d2b324e4ec26d11a6d3dbd5ca01","amp;dn":"%5BPC+ITA%5D+GTA+San+Andreas","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"96d242543d602d2b324e4ec26d11a6d3dbd5ca01","infoHashBuffer":{"type":"Buffer","data":[150,210,66,84,61,96,45,43,50,78,78,194,109,17,166,211,219,213,202,1]},"announce":[],"urlList":[]}}
+{
+  "title": "[PC ITA] GTA San Andreas",
+  "uid": 3415999,
+  "size": 4198387712,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:96d242543d602d2b324e4ec26d11a6d3dbd5ca01&amp;dn=%5BPC+ITA%5D+GTA+San+Andreas&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 4,
+  "uploader": "HoochieMamma",
+  "files": 1,
+  "time": 1133422507,
+  "description": "Italian version of GTA San Andreas\n\nDO NOT RELY ON THEPIRATEBAY'S TRACKER.\n\nUse &amp;micro;Torrent to download and enable the DHT network. www.utorrent.com",
+  "parsed": {
+    "xt": "urn:btih:96d242543d602d2b324e4ec26d11a6d3dbd5ca01",
+    "dn": "[PC ITA] GTA San Andreas",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "96d242543d602d2b324e4ec26d11a6d3dbd5ca01",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        150,
+        210,
+        66,
+        84,
+        61,
+        96,
+        45,
+        43,
+        50,
+        78,
+        78,
+        194,
+        109,
+        17,
+        166,
+        211,
+        219,
+        213,
+        202,
+        1
+      ]
+    },
+    "name": "[PC ITA] GTA San Andreas",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 0,
+  "last_updated": "2016-12-25T08:29:46.319Z"
+}

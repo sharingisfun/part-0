@@ -1,1 +1,61 @@
-{"title":"American Pie &amp;ndash; ColeÃ§Ã£o 1,2,3,4,5,6,7,8 DVDRi","uid":7632364,"size":5615936851,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:974419772fc4a51f44a3aa87a9f779353ab4a16f&amp;dn=American+Pie+%26ndash%3B+Cole%26ccedil%3B%26atilde%3Bo+1%2C2%2C3%2C4%2C5%2C6%2C7%2C8+DVDRi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":28,"uploader":"bobifb","files":9,"time":1347566348,"description":"TODOS DUBLADO PT BR\nQualidade DVDRip","torrent":{"xt":"urn:btih:974419772fc4a51f44a3aa87a9f779353ab4a16f","amp;dn":"American+Pie+%26ndash%3B+Cole%26ccedil%3B%26atilde%3Bo+1%2C2%2C3%2C4%2C5%2C6%2C7%2C8+DVDRi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"974419772fc4a51f44a3aa87a9f779353ab4a16f","infoHashBuffer":{"type":"Buffer","data":[151,68,25,119,47,196,165,31,68,163,170,135,169,247,121,53,58,180,161,111]},"announce":[],"urlList":[]}}
+{
+  "title": "American Pie &amp;ndash; ColeÃ§Ã£o 1,2,3,4,5,6,7,8 DVDRi",
+  "uid": 7632364,
+  "size": 5615936851,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:974419772fc4a51f44a3aa87a9f779353ab4a16f&amp;dn=American+Pie+%26ndash%3B+Cole%26ccedil%3B%26atilde%3Bo+1%2C2%2C3%2C4%2C5%2C6%2C7%2C8+DVDRi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 28,
+  "uploader": "bobifb",
+  "files": 9,
+  "time": 1347566348,
+  "description": "TODOS DUBLADO PT BR\nQualidade DVDRip",
+  "parsed": {
+    "xt": "urn:btih:974419772fc4a51f44a3aa87a9f779353ab4a16f",
+    "dn": "American Pie &ndash; Cole&ccedil;&atilde;o 1,2,3,4,5,6,7,8 DVDRi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "974419772fc4a51f44a3aa87a9f779353ab4a16f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        151,
+        68,
+        25,
+        119,
+        47,
+        196,
+        165,
+        31,
+        68,
+        163,
+        170,
+        135,
+        169,
+        247,
+        121,
+        53,
+        58,
+        180,
+        161,
+        111
+      ]
+    },
+    "name": "American Pie &ndash; Cole&ccedil;&atilde;o 1,2,3,4,5,6,7,8 DVDRi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 77,
+  "peers": 15,
+  "last_updated": "2016-12-25T08:32:24.891Z"
+}

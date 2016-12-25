@@ -1,1 +1,61 @@
-{"title":"Windows 7 Loader v1.7.9 [ Windows 7 Activation For all versions","uid":5541849,"size":2460971,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:95ac27ac76a3d0e1f2a0c8bddb6bb07dfec70dd9&amp;dn=Windows+7+Loader+v1.7.9+%5B+Windows+7+Activation+For+all+versions+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":0,"uploader":"IIsuperIVIanII","files":11,"time":1273258992,"description":"Features\n* Can be run as a standalone, just move the executable to wherever you like\n\n* Maintain your own list of serials, future or current (comes with allot of preset keys)\n\n* Add your own certificates and SLIC's\n\n* Automatically finds an available drive letter (if required)\n\n* Installer and uninstaller built in as standard\n\n* Checks your Windows version and build before install\n\n* Automatically finds your active boot partition\n\n* Works on all languages\n\nWorks alongside hidden partitions\n\n* Works on Windows 7, Vista and Server 2008 editions\n\n* Support for bios modded users\n\n* Argument support for silent installs\n\n* You can use this tool to activate your Windows 7/Vista ISO by editing setupcomplete.cmd\n\n* Improves Windows 7 boot time on a Mac\n\n* Encrypted SLIC support\n\nAdvantages\n\n* Encryption and randomization for your security\n\n* Byte differences - Everyones GRLDR won't be byte for byte the same\n\n* Profile matchups - SLIC, certificate and serial that best suits your system\n\n* Arguments - Can be used to pre-activate your OS\n\n* Uses custom error checking on near every function making the application much more reliable instead of spitting out files and failing\n\n* Frankenbuild checking\n\n* Integrity checking with useful info on screen so the user can verify it\n\n* External Keys.ini support for all OS versions\n\n* External file support for both SLIC's and certificates\n\n* Newer GRLDR versions before other applications, thus a greater chance of a successful activation\n\n* In short this is now the only application based loader or loader period that has encryption and some randomization going on to help protect you from MS. And on top of that it's using a much newer GRLDR with some bug's fixed\n\nOK so how do I run it?\n\nIn general you simply press Install!","torrent":{"xt":"urn:btih:95ac27ac76a3d0e1f2a0c8bddb6bb07dfec70dd9","amp;dn":"Windows+7+Loader+v1.7.9+%5B+Windows+7+Activation+For+all+versions+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"95ac27ac76a3d0e1f2a0c8bddb6bb07dfec70dd9","infoHashBuffer":{"type":"Buffer","data":[149,172,39,172,118,163,208,225,242,160,200,189,219,107,176,125,254,199,13,217]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows 7 Loader v1.7.9 [ Windows 7 Activation For all versions",
+  "uid": 5541849,
+  "size": 2460971,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:95ac27ac76a3d0e1f2a0c8bddb6bb07dfec70dd9&amp;dn=Windows+7+Loader+v1.7.9+%5B+Windows+7+Activation+For+all+versions+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 0,
+  "uploader": "IIsuperIVIanII",
+  "files": 11,
+  "time": 1273258992,
+  "description": "Features\n* Can be run as a standalone, just move the executable to wherever you like\n\n* Maintain your own list of serials, future or current (comes with allot of preset keys)\n\n* Add your own certificates and SLIC's\n\n* Automatically finds an available drive letter (if required)\n\n* Installer and uninstaller built in as standard\n\n* Checks your Windows version and build before install\n\n* Automatically finds your active boot partition\n\n* Works on all languages\n\nWorks alongside hidden partitions\n\n* Works on Windows 7, Vista and Server 2008 editions\n\n* Support for bios modded users\n\n* Argument support for silent installs\n\n* You can use this tool to activate your Windows 7/Vista ISO by editing setupcomplete.cmd\n\n* Improves Windows 7 boot time on a Mac\n\n* Encrypted SLIC support\n\nAdvantages\n\n* Encryption and randomization for your security\n\n* Byte differences - Everyones GRLDR won't be byte for byte the same\n\n* Profile matchups - SLIC, certificate and serial that best suits your system\n\n* Arguments - Can be used to pre-activate your OS\n\n* Uses custom error checking on near every function making the application much more reliable instead of spitting out files and failing\n\n* Frankenbuild checking\n\n* Integrity checking with useful info on screen so the user can verify it\n\n* External Keys.ini support for all OS versions\n\n* External file support for both SLIC's and certificates\n\n* Newer GRLDR versions before other applications, thus a greater chance of a successful activation\n\n* In short this is now the only application based loader or loader period that has encryption and some randomization going on to help protect you from MS. And on top of that it's using a much newer GRLDR with some bug's fixed\n\nOK so how do I run it?\n\nIn general you simply press Install!",
+  "parsed": {
+    "xt": "urn:btih:95ac27ac76a3d0e1f2a0c8bddb6bb07dfec70dd9",
+    "dn": "Windows 7 Loader v1.7.9 [ Windows 7 Activation For all versions ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "95ac27ac76a3d0e1f2a0c8bddb6bb07dfec70dd9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        149,
+        172,
+        39,
+        172,
+        118,
+        163,
+        208,
+        225,
+        242,
+        160,
+        200,
+        189,
+        219,
+        107,
+        176,
+        125,
+        254,
+        199,
+        13,
+        217
+      ]
+    },
+    "name": "Windows 7 Loader v1.7.9 [ Windows 7 Activation For all versions ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 13,
+  "last_updated": "2016-12-25T08:21:22.834Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Ne-Yo - Let Me Love You [2012-Single][SW]","uid":7433276,"size":10262303,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9666a50bc7ae8283b733bc6c1a87769db66c08c5&amp;dn=Ne-Yo+-+Let+Me+Love+You+%5B2012-Single%5D%5BSW%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":1,"uploader":"FatFreddy473","files":-1,"time":1342003007,"description":"320kbps CBR itunesrip\n\nripped by SW\n","torrent":{"xt":"urn:btih:9666a50bc7ae8283b733bc6c1a87769db66c08c5","amp;dn":"Ne-Yo+-+Let+Me+Love+You+%5B2012-Single%5D%5BSW%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9666a50bc7ae8283b733bc6c1a87769db66c08c5","infoHashBuffer":{"type":"Buffer","data":[150,102,165,11,199,174,130,131,183,51,188,108,26,135,118,157,182,108,8,197]},"announce":[],"urlList":[]}}
+{
+  "title": "Ne-Yo - Let Me Love You [2012-Single][SW]",
+  "uid": 7433276,
+  "size": 10262303,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9666a50bc7ae8283b733bc6c1a87769db66c08c5&amp;dn=Ne-Yo+-+Let+Me+Love+You+%5B2012-Single%5D%5BSW%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 1,
+  "uploader": "FatFreddy473",
+  "files": -1,
+  "time": 1342003007,
+  "description": "320kbps CBR itunesrip\n\nripped by SW\n",
+  "parsed": {
+    "xt": "urn:btih:9666a50bc7ae8283b733bc6c1a87769db66c08c5",
+    "dn": "Ne-Yo - Let Me Love You [2012-Single][SW]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9666a50bc7ae8283b733bc6c1a87769db66c08c5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        150,
+        102,
+        165,
+        11,
+        199,
+        174,
+        130,
+        131,
+        183,
+        51,
+        188,
+        108,
+        26,
+        135,
+        118,
+        157,
+        182,
+        108,
+        8,
+        197
+      ]
+    },
+    "name": "Ne-Yo - Let Me Love You [2012-Single][SW]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 13,
+  "last_updated": "2016-12-25T08:26:51.805Z"
+}
