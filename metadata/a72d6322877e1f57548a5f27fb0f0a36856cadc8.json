@@ -1,1 +1,61 @@
-{"title":"Slipknot Discography (9 Albums)","uid":6317016,"size":993055138,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a72d6322877e1f57548a5f27fb0f0a36856cadc8&amp;dn=Slipknot+Discography+%289+Albums%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":67,"leechers":11,"uploader":"snowsquirrel","files":153,"time":1302739915,"description":"Self Titled [EP] [1989]\nMate.Feed.Kill.Repeat [1996]\nCrowz (Unreleased) [1997]\nSlipknot (10th Anniversary Edition) [1999]\nIowa [2001]\nClan [2001]\nVol. 3 - The Subliminal Verses (Australian Tour Edition) (2 CDs) [2004]\n9.0 Live [2005]\nAll Hope is Gone (Special Edition) [2008]\n","torrent":{"xt":"urn:btih:a72d6322877e1f57548a5f27fb0f0a36856cadc8","amp;dn":"Slipknot+Discography+%289+Albums%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a72d6322877e1f57548a5f27fb0f0a36856cadc8","infoHashBuffer":{"type":"Buffer","data":[167,45,99,34,135,126,31,87,84,138,95,39,251,15,10,54,133,108,173,200]},"announce":[],"urlList":[]}}
+{
+  "title": "Slipknot Discography (9 Albums)",
+  "uid": 6317016,
+  "size": 993055138,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a72d6322877e1f57548a5f27fb0f0a36856cadc8&amp;dn=Slipknot+Discography+%289+Albums%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 67,
+  "leechers": 11,
+  "uploader": "snowsquirrel",
+  "files": 153,
+  "time": 1302739915,
+  "description": "Self Titled [EP] [1989]\nMate.Feed.Kill.Repeat [1996]\nCrowz (Unreleased) [1997]\nSlipknot (10th Anniversary Edition) [1999]\nIowa [2001]\nClan [2001]\nVol. 3 - The Subliminal Verses (Australian Tour Edition) (2 CDs) [2004]\n9.0 Live [2005]\nAll Hope is Gone (Special Edition) [2008]\n",
+  "parsed": {
+    "xt": "urn:btih:a72d6322877e1f57548a5f27fb0f0a36856cadc8",
+    "dn": "Slipknot Discography (9 Albums)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a72d6322877e1f57548a5f27fb0f0a36856cadc8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        167,
+        45,
+        99,
+        34,
+        135,
+        126,
+        31,
+        87,
+        84,
+        138,
+        95,
+        39,
+        251,
+        15,
+        10,
+        54,
+        133,
+        108,
+        173,
+        200
+      ]
+    },
+    "name": "Slipknot Discography (9 Albums)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 78,
+  "peers": 9,
+  "last_updated": "2016-12-25T10:15:17.229Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Breaking Bad S02E06 HDTV XviD-0TV [eztv]","uid":4843754,"size":366998638,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a96a54cf0a8eda5726d16eacb78299c8aca8dc71&amp;dn=Breaking+Bad+S02E06+HDTV+XviD-0TV+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":22,"uploader":"eztv","files":1,"time":1239601558,"description":"#EZTV @ EFNet -&gt; http://eztv.it/\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW","torrent":{"xt":"urn:btih:a96a54cf0a8eda5726d16eacb78299c8aca8dc71","amp;dn":"Breaking+Bad+S02E06+HDTV+XviD-0TV+%5Beztv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a96a54cf0a8eda5726d16eacb78299c8aca8dc71","infoHashBuffer":{"type":"Buffer","data":[169,106,84,207,10,142,218,87,38,209,110,172,183,130,153,200,172,168,220,113]},"announce":[],"urlList":[]}}
+{
+  "title": "Breaking Bad S02E06 HDTV XviD-0TV [eztv]",
+  "uid": 4843754,
+  "size": 366998638,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a96a54cf0a8eda5726d16eacb78299c8aca8dc71&amp;dn=Breaking+Bad+S02E06+HDTV+XviD-0TV+%5Beztv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 22,
+  "uploader": "eztv",
+  "files": 1,
+  "time": 1239601558,
+  "description": "#EZTV @ EFNet -&gt; http://eztv.it/\n\nWant to help us out? BitCoin: 1Fw4sRdZYFwULfeE7oQ91GLYKy8j5EcuFW",
+  "parsed": {
+    "xt": "urn:btih:a96a54cf0a8eda5726d16eacb78299c8aca8dc71",
+    "dn": "Breaking Bad S02E06 HDTV XviD-0TV [eztv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a96a54cf0a8eda5726d16eacb78299c8aca8dc71",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        169,
+        106,
+        84,
+        207,
+        10,
+        142,
+        218,
+        87,
+        38,
+        209,
+        110,
+        172,
+        183,
+        130,
+        153,
+        200,
+        172,
+        168,
+        220,
+        113
+      ]
+    },
+    "name": "Breaking Bad S02E06 HDTV XviD-0TV [eztv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 74,
+  "peers": 26,
+  "last_updated": "2016-12-25T10:29:40.148Z"
+}

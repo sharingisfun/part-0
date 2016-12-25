@@ -1,1 +1,61 @@
-{"title":"Merlin Seasons 1-2-3-4 Complete","uid":7026985,"size":19056010790,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a76b97d662510c2dd11c640afbd8da3655446db3&amp;dn=Merlin+Seasons+1-2-3-4+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":92,"uploader":"cad40","files":52,"time":1329054244,"description":"merlin compleate all seasons","torrent":{"xt":"urn:btih:a76b97d662510c2dd11c640afbd8da3655446db3","amp;dn":"Merlin+Seasons+1-2-3-4+Complete","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a76b97d662510c2dd11c640afbd8da3655446db3","infoHashBuffer":{"type":"Buffer","data":[167,107,151,214,98,81,12,45,209,28,100,10,251,216,218,54,85,68,109,179]},"announce":[],"urlList":[]}}
+{
+  "title": "Merlin Seasons 1-2-3-4 Complete",
+  "uid": 7026985,
+  "size": 19056010790,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a76b97d662510c2dd11c640afbd8da3655446db3&amp;dn=Merlin+Seasons+1-2-3-4+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 92,
+  "uploader": "cad40",
+  "files": 52,
+  "time": 1329054244,
+  "description": "merlin compleate all seasons",
+  "parsed": {
+    "xt": "urn:btih:a76b97d662510c2dd11c640afbd8da3655446db3",
+    "dn": "Merlin Seasons 1-2-3-4 Complete",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a76b97d662510c2dd11c640afbd8da3655446db3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        167,
+        107,
+        151,
+        214,
+        98,
+        81,
+        12,
+        45,
+        209,
+        28,
+        100,
+        10,
+        251,
+        216,
+        218,
+        54,
+        85,
+        68,
+        109,
+        179
+      ]
+    },
+    "name": "Merlin Seasons 1-2-3-4 Complete",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 130,
+  "peers": 110,
+  "last_updated": "2016-12-25T10:17:03.671Z"
+}

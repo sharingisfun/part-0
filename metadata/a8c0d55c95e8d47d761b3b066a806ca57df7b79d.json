@@ -1,1 +1,61 @@
-{"title":"Top.Gear.S22E06.HDTV.x264-ORGANiC[ettv]","uid":11729818,"size":478353308,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a8c0d55c95e8d47d761b3b066a806ca57df7b79d&amp;dn=Top.Gear.S22E06.HDTV.x264-ORGANiC%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":242,"leechers":7,"uploader":"ettv","files":3,"time":1425247413,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                     &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:a8c0d55c95e8d47d761b3b066a806ca57df7b79d","amp;dn":"Top.Gear.S22E06.HDTV.x264-ORGANiC%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a8c0d55c95e8d47d761b3b066a806ca57df7b79d","infoHashBuffer":{"type":"Buffer","data":[168,192,213,92,149,232,212,125,118,27,59,6,106,128,108,165,125,247,183,157]},"announce":[],"urlList":[]}}
+{
+  "title": "Top.Gear.S22E06.HDTV.x264-ORGANiC[ettv]",
+  "uid": 11729818,
+  "size": 478353308,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a8c0d55c95e8d47d761b3b066a806ca57df7b79d&amp;dn=Top.Gear.S22E06.HDTV.x264-ORGANiC%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 242,
+  "leechers": 7,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1425247413,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                     &lt;a href=&quot;\nhttp://extratorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.com/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:a8c0d55c95e8d47d761b3b066a806ca57df7b79d",
+    "dn": "Top.Gear.S22E06.HDTV.x264-ORGANiC[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a8c0d55c95e8d47d761b3b066a806ca57df7b79d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        168,
+        192,
+        213,
+        92,
+        149,
+        232,
+        212,
+        125,
+        118,
+        27,
+        59,
+        6,
+        106,
+        128,
+        108,
+        165,
+        125,
+        247,
+        183,
+        157
+      ]
+    },
+    "name": "Top.Gear.S22E06.HDTV.x264-ORGANiC[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 249,
+  "peers": 64,
+  "last_updated": "2016-12-25T10:25:07.333Z"
+}

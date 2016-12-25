@@ -1,1 +1,61 @@
-{"title":"The Strain S01E12 HDTV x264-KILLERS","uid":11125925,"size":338967887,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a92f683be48c0a4ff9acad29ad09b757592f5aea&amp;dn=The+Strain+S01E12+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":"beta2008x","files":1,"time":1411967340,"description":"The.Strain.S01E12.HDTV.x264-KILLERS\n\nDay: 2014-09-29\nResolution: 720x404\nSize: 323 MiB\nFrameRate: 23.976\nLength: 00:43:29.067\nBitrate: 902 Kbps","torrent":{"xt":"urn:btih:a92f683be48c0a4ff9acad29ad09b757592f5aea","amp;dn":"The+Strain+S01E12+HDTV+x264-KILLERS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a92f683be48c0a4ff9acad29ad09b757592f5aea","infoHashBuffer":{"type":"Buffer","data":[169,47,104,59,228,140,10,79,249,172,173,41,173,9,183,87,89,47,90,234]},"announce":[],"urlList":[]}}
+{
+  "title": "The Strain S01E12 HDTV x264-KILLERS",
+  "uid": 11125925,
+  "size": 338967887,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a92f683be48c0a4ff9acad29ad09b757592f5aea&amp;dn=The+Strain+S01E12+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": "beta2008x",
+  "files": 1,
+  "time": 1411967340,
+  "description": "The.Strain.S01E12.HDTV.x264-KILLERS\n\nDay: 2014-09-29\nResolution: 720x404\nSize: 323 MiB\nFrameRate: 23.976\nLength: 00:43:29.067\nBitrate: 902 Kbps",
+  "parsed": {
+    "xt": "urn:btih:a92f683be48c0a4ff9acad29ad09b757592f5aea",
+    "dn": "The Strain S01E12 HDTV x264-KILLERS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a92f683be48c0a4ff9acad29ad09b757592f5aea",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        169,
+        47,
+        104,
+        59,
+        228,
+        140,
+        10,
+        79,
+        249,
+        172,
+        173,
+        41,
+        173,
+        9,
+        183,
+        87,
+        89,
+        47,
+        90,
+        234
+      ]
+    },
+    "name": "The Strain S01E12 HDTV x264-KILLERS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 25,
+  "last_updated": "2016-12-25T10:27:49.825Z"
+}

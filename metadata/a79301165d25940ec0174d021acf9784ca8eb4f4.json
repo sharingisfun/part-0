@@ -1,1 +1,63 @@
-{"title":"Usher â€“ Crash MP3 Download, 2016","uid":14892794,"size":8787366,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a79301165d25940ec0174d021acf9784ca8eb4f4&amp;dn=Usher+%26ndash%3B+Crash+MP3+Download%2C+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":1,"uploader":"NikiPink","files":1,"time":1465768863,"description":"Crash\r\n\r\nRelease Date:\r\nJune 2016","torrent":{"xt":"urn:btih:a79301165d25940ec0174d021acf9784ca8eb4f4","amp;dn":"Usher+%26ndash%3B+Crash+MP3+Download%2C+2016","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a79301165d25940ec0174d021acf9784ca8eb4f4","infoHashBuffer":{"type":"Buffer","data":[167,147,1,22,93,37,148,14,192,23,77,2,26,207,151,132,202,142,180,244]},"announce":[],"urlList":[]}}
+{
+  "title": "Usher â€“ Crash MP3 Download, 2016",
+  "uid": 14892794,
+  "size": 8787366,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a79301165d25940ec0174d021acf9784ca8eb4f4&amp;dn=Usher+%26ndash%3B+Crash+MP3+Download%2C+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 1,
+  "uploader": "NikiPink",
+  "files": 1,
+  "time": 1465768863,
+  "description": "Crash\r\n\r\nRelease Date:\r\nJune 2016",
+  "parsed": {
+    "xt": "urn:btih:a79301165d25940ec0174d021acf9784ca8eb4f4",
+    "dn": "Usher &ndash; Crash MP3 Download, 2016",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "a79301165d25940ec0174d021acf9784ca8eb4f4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        167,
+        147,
+        1,
+        22,
+        93,
+        37,
+        148,
+        14,
+        192,
+        23,
+        77,
+        2,
+        26,
+        207,
+        151,
+        132,
+        202,
+        142,
+        180,
+        244
+      ]
+    },
+    "name": "Usher &ndash; Crash MP3 Download, 2016",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 57,
+  "last_updated": "2016-12-25T10:17:53.834Z"
+}

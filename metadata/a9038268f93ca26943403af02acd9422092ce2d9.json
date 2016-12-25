@@ -1,1 +1,61 @@
-{"title":"Panic! At the Disco - Too Weird To Live, Too Rare To Die! [iTune","uid":8997077,"size":70551467,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:a9038268f93ca26943403af02acd9422092ce2d9&amp;dn=Panic%21+At+the+Disco+-+Too+Weird+To+Live%2C+Too+Rare+To+Die%21+%5BiTune&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":85,"uploader":"phcm4a","files":-1,"time":1380887730,"description":"Artist: Panic! At the Disco\nAlbum: Too Weird To Live, Too Rare To Die!\nYear: 2013\nGenre: Alternative\nSource: iTunes Store (256kbps AAC)\n\nTracklist:\n01 This Is Gospel\n02 Miss Jackson (feat. Lolo)\n03 Vegas Lights\n04 Girl That You Love\n05 Nicotine\n06 Girls/Girls/Boys\n07 Casual Affair\n08 Far Too Young To Die\n09 Collar Full\n10 The End of All Things","torrent":{"xt":"urn:btih:a9038268f93ca26943403af02acd9422092ce2d9","amp;dn":"Panic%21+At+the+Disco+-+Too+Weird+To+Live%2C+Too+Rare+To+Die%21+%5BiTune","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a9038268f93ca26943403af02acd9422092ce2d9","infoHashBuffer":{"type":"Buffer","data":[169,3,130,104,249,60,162,105,67,64,58,240,42,205,148,34,9,44,226,217]},"announce":[],"urlList":[]}}
+{
+  "title": "Panic! At the Disco - Too Weird To Live, Too Rare To Die! [iTune",
+  "uid": 8997077,
+  "size": 70551467,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:a9038268f93ca26943403af02acd9422092ce2d9&amp;dn=Panic%21+At+the+Disco+-+Too+Weird+To+Live%2C+Too+Rare+To+Die%21+%5BiTune&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 85,
+  "uploader": "phcm4a",
+  "files": -1,
+  "time": 1380887730,
+  "description": "Artist: Panic! At the Disco\nAlbum: Too Weird To Live, Too Rare To Die!\nYear: 2013\nGenre: Alternative\nSource: iTunes Store (256kbps AAC)\n\nTracklist:\n01 This Is Gospel\n02 Miss Jackson (feat. Lolo)\n03 Vegas Lights\n04 Girl That You Love\n05 Nicotine\n06 Girls/Girls/Boys\n07 Casual Affair\n08 Far Too Young To Die\n09 Collar Full\n10 The End of All Things",
+  "parsed": {
+    "xt": "urn:btih:a9038268f93ca26943403af02acd9422092ce2d9",
+    "dn": "Panic! At the Disco - Too Weird To Live, Too Rare To Die! [iTune",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a9038268f93ca26943403af02acd9422092ce2d9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        169,
+        3,
+        130,
+        104,
+        249,
+        60,
+        162,
+        105,
+        67,
+        64,
+        58,
+        240,
+        42,
+        205,
+        148,
+        34,
+        9,
+        44,
+        226,
+        217
+      ]
+    },
+    "name": "Panic! At the Disco - Too Weird To Live, Too Rare To Die! [iTune",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 158,
+  "peers": 22,
+  "last_updated": "2016-12-25T10:26:41.619Z"
+}

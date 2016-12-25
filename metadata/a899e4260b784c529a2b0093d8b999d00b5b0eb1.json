@@ -1,1 +1,61 @@
-{"title":"Father John Misty - I Love You, Hunnybear","uid":11711101,"size":109103668,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a899e4260b784c529a2b0093d8b999d00b5b0eb1&amp;dn=Father+John+Misty+-+I+Love+You%2C+Hunnybear&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":0,"uploader":"KerrDa","files":11,"time":1424345411,"description":"Father John Misty - I Love You Hunnybear 2/10/15\nFolk rock  320k MP3\nEnjoy and youre welcome","torrent":{"xt":"urn:btih:a899e4260b784c529a2b0093d8b999d00b5b0eb1","amp;dn":"Father+John+Misty+-+I+Love+You%2C+Hunnybear","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a899e4260b784c529a2b0093d8b999d00b5b0eb1","infoHashBuffer":{"type":"Buffer","data":[168,153,228,38,11,120,76,82,154,43,0,147,216,185,153,208,11,91,14,177]},"announce":[],"urlList":[]}}
+{
+  "title": "Father John Misty - I Love You, Hunnybear",
+  "uid": 11711101,
+  "size": 109103668,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a899e4260b784c529a2b0093d8b999d00b5b0eb1&amp;dn=Father+John+Misty+-+I+Love+You%2C+Hunnybear&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 0,
+  "uploader": "KerrDa",
+  "files": 11,
+  "time": 1424345411,
+  "description": "Father John Misty - I Love You Hunnybear 2/10/15\nFolk rock  320k MP3\nEnjoy and youre welcome",
+  "parsed": {
+    "xt": "urn:btih:a899e4260b784c529a2b0093d8b999d00b5b0eb1",
+    "dn": "Father John Misty - I Love You, Hunnybear",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a899e4260b784c529a2b0093d8b999d00b5b0eb1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        168,
+        153,
+        228,
+        38,
+        11,
+        120,
+        76,
+        82,
+        154,
+        43,
+        0,
+        147,
+        216,
+        185,
+        153,
+        208,
+        11,
+        91,
+        14,
+        177
+      ]
+    },
+    "name": "Father John Misty - I Love You, Hunnybear",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 70,
+  "last_updated": "2016-12-25T10:24:25.218Z"
+}

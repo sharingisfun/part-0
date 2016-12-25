@@ -1,1 +1,61 @@
-{"title":"Big Sean - Control [CDQ- Dirty] Feat. Kendrick Lamar &amp; Jay E","uid":8807978,"size":10848385,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a9893744de8eb58eb8ec173525a8971f4a862e0c&amp;dn=Big+Sean+-+Control+%5BCDQ-+Dirty%5D+Feat.+Kendrick+Lamar+%26amp%3B+Jay+E&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":1,"uploader":"gargig","files":1,"time":1376386330,"description":"Big Sean - Control [CDQ- Dirty] Feat. Kendrick Lamar &amp; Jay Electronica\n\n192kbps","torrent":{"xt":"urn:btih:a9893744de8eb58eb8ec173525a8971f4a862e0c","amp;dn":"Big+Sean+-+Control+%5BCDQ-+Dirty%5D+Feat.+Kendrick+Lamar+%26amp%3B+Jay+E","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a9893744de8eb58eb8ec173525a8971f4a862e0c","infoHashBuffer":{"type":"Buffer","data":[169,137,55,68,222,142,181,142,184,236,23,53,37,168,151,31,74,134,46,12]},"announce":[],"urlList":[]}}
+{
+  "title": "Big Sean - Control [CDQ- Dirty] Feat. Kendrick Lamar &amp; Jay E",
+  "uid": 8807978,
+  "size": 10848385,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a9893744de8eb58eb8ec173525a8971f4a862e0c&amp;dn=Big+Sean+-+Control+%5BCDQ-+Dirty%5D+Feat.+Kendrick+Lamar+%26amp%3B+Jay+E&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 1,
+  "uploader": "gargig",
+  "files": 1,
+  "time": 1376386330,
+  "description": "Big Sean - Control [CDQ- Dirty] Feat. Kendrick Lamar &amp; Jay Electronica\n\n192kbps",
+  "parsed": {
+    "xt": "urn:btih:a9893744de8eb58eb8ec173525a8971f4a862e0c",
+    "dn": "Big Sean - Control [CDQ- Dirty] Feat. Kendrick Lamar &amp; Jay E",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a9893744de8eb58eb8ec173525a8971f4a862e0c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        169,
+        137,
+        55,
+        68,
+        222,
+        142,
+        181,
+        142,
+        184,
+        236,
+        23,
+        53,
+        37,
+        168,
+        151,
+        31,
+        74,
+        134,
+        46,
+        12
+      ]
+    },
+    "name": "Big Sean - Control [CDQ- Dirty] Feat. Kendrick Lamar &amp; Jay E",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 67,
+  "peers": 32,
+  "last_updated": "2016-12-25T10:30:34.332Z"
+}

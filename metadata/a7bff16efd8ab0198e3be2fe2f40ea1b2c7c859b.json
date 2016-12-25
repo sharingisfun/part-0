@@ -1,1 +1,61 @@
-{"title":"Greys Anatomy S11E02 HDTV x264-LOL[ettv]","uid":11149248,"size":230242565,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a7bff16efd8ab0198e3be2fe2f40ea1b2c7c859b&amp;dn=Greys+Anatomy+S11E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":96,"leechers":3,"uploader":"ettv","files":2,"time":1412305069,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:a7bff16efd8ab0198e3be2fe2f40ea1b2c7c859b","amp;dn":"Greys+Anatomy+S11E02+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a7bff16efd8ab0198e3be2fe2f40ea1b2c7c859b","infoHashBuffer":{"type":"Buffer","data":[167,191,241,110,253,138,176,25,142,59,226,254,47,64,234,27,44,124,133,155]},"announce":[],"urlList":[]}}
+{
+  "title": "Greys Anatomy S11E02 HDTV x264-LOL[ettv]",
+  "uid": 11149248,
+  "size": 230242565,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a7bff16efd8ab0198e3be2fe2f40ea1b2c7c859b&amp;dn=Greys+Anatomy+S11E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 96,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1412305069,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:a7bff16efd8ab0198e3be2fe2f40ea1b2c7c859b",
+    "dn": "Greys Anatomy S11E02 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a7bff16efd8ab0198e3be2fe2f40ea1b2c7c859b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        167,
+        191,
+        241,
+        110,
+        253,
+        138,
+        176,
+        25,
+        142,
+        59,
+        226,
+        254,
+        47,
+        64,
+        234,
+        27,
+        44,
+        124,
+        133,
+        155
+      ]
+    },
+    "name": "Greys Anatomy S11E02 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 99,
+  "peers": 5,
+  "last_updated": "2016-12-25T10:19:12.103Z"
+}

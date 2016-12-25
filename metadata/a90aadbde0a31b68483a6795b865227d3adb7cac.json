@@ -1,1 +1,61 @@
-{"title":"hotline miami 2 by fanisco (Hassan)","uid":11753934,"size":655652767,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:a90aadbde0a31b68483a6795b865227d3adb7cac&amp;dn=hotline+miami+2+by+fanisco+%28Hassan%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":132,"leechers":0,"uploader":"herohassan304","files":2,"time":1426302775,"description":"repack of Fanisco\n100% working torrent.........\nrelease date : 10 march 2015\nseed to download","torrent":{"xt":"urn:btih:a90aadbde0a31b68483a6795b865227d3adb7cac","amp;dn":"hotline+miami+2+by+fanisco+%28Hassan%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a90aadbde0a31b68483a6795b865227d3adb7cac","infoHashBuffer":{"type":"Buffer","data":[169,10,173,189,224,163,27,104,72,58,103,149,184,101,34,125,58,219,124,172]},"announce":[],"urlList":[]}}
+{
+  "title": "hotline miami 2 by fanisco (Hassan)",
+  "uid": 11753934,
+  "size": 655652767,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:a90aadbde0a31b68483a6795b865227d3adb7cac&amp;dn=hotline+miami+2+by+fanisco+%28Hassan%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 132,
+  "leechers": 0,
+  "uploader": "herohassan304",
+  "files": 2,
+  "time": 1426302775,
+  "description": "repack of Fanisco\n100% working torrent.........\nrelease date : 10 march 2015\nseed to download",
+  "parsed": {
+    "xt": "urn:btih:a90aadbde0a31b68483a6795b865227d3adb7cac",
+    "dn": "hotline miami 2 by fanisco (Hassan)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a90aadbde0a31b68483a6795b865227d3adb7cac",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        169,
+        10,
+        173,
+        189,
+        224,
+        163,
+        27,
+        104,
+        72,
+        58,
+        103,
+        149,
+        184,
+        101,
+        34,
+        125,
+        58,
+        219,
+        124,
+        172
+      ]
+    },
+    "name": "hotline miami 2 by fanisco (Hassan)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 132,
+  "peers": 31,
+  "last_updated": "2016-12-25T10:26:53.663Z"
+}

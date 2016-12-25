@@ -1,1 +1,63 @@
-{"title":"Fossil Echo [v2.0.0.1] [GOG]","uid":15964384,"size":12316220,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:a7c4b16b30d1ca788fe30fb504340b9626b7d623&amp;dn=Fossil+Echo+%5Bv2.0.0.1%5D+%5BGOG%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":126,"leechers":86,"uploader":"trwetwr","files":3,"time":1475708487,"description":"Good Game","torrent":{"xt":"urn:btih:a7c4b16b30d1ca788fe30fb504340b9626b7d623","amp;dn":"Fossil+Echo+%5Bv2.0.0.1%5D+%5BGOG%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a7c4b16b30d1ca788fe30fb504340b9626b7d623","infoHashBuffer":{"type":"Buffer","data":[167,196,177,107,48,209,202,120,143,227,15,181,4,52,11,150,38,183,214,35]},"announce":[],"urlList":[]}}
+{
+  "title": "Fossil Echo [v2.0.0.1] [GOG]",
+  "uid": 15964384,
+  "size": 12316220,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:a7c4b16b30d1ca788fe30fb504340b9626b7d623&amp;dn=Fossil+Echo+%5Bv2.0.0.1%5D+%5BGOG%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 126,
+  "leechers": 86,
+  "uploader": "trwetwr",
+  "files": 3,
+  "time": 1475708487,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:a7c4b16b30d1ca788fe30fb504340b9626b7d623",
+    "dn": "Fossil Echo [v2.0.0.1] [GOG]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "a7c4b16b30d1ca788fe30fb504340b9626b7d623",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        167,
+        196,
+        177,
+        107,
+        48,
+        209,
+        202,
+        120,
+        143,
+        227,
+        15,
+        181,
+        4,
+        52,
+        11,
+        150,
+        38,
+        183,
+        214,
+        35
+      ]
+    },
+    "name": "Fossil Echo [v2.0.0.1] [GOG]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 212,
+  "peers": 2,
+  "last_updated": "2016-12-25T10:19:20.133Z"
+}

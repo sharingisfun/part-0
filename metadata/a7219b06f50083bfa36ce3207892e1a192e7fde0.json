@@ -1,1 +1,61 @@
-{"title":"Mr Robot S01E01 HDTV XviD-FUM[ettv]","uid":11969745,"size":548494402,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a7219b06f50083bfa36ce3207892e1a192e7fde0&amp;dn=Mr+Robot+S01E01+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":292,"leechers":5,"uploader":"ettv","files":2,"time":1432783184,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:a7219b06f50083bfa36ce3207892e1a192e7fde0","amp;dn":"Mr+Robot+S01E01+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a7219b06f50083bfa36ce3207892e1a192e7fde0","infoHashBuffer":{"type":"Buffer","data":[167,33,155,6,245,0,131,191,163,108,227,32,120,146,225,161,146,231,253,224]},"announce":[],"urlList":[]}}
+{
+  "title": "Mr Robot S01E01 HDTV XviD-FUM[ettv]",
+  "uid": 11969745,
+  "size": 548494402,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a7219b06f50083bfa36ce3207892e1a192e7fde0&amp;dn=Mr+Robot+S01E01+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 292,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1432783184,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:a7219b06f50083bfa36ce3207892e1a192e7fde0",
+    "dn": "Mr Robot S01E01 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a7219b06f50083bfa36ce3207892e1a192e7fde0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        167,
+        33,
+        155,
+        6,
+        245,
+        0,
+        131,
+        191,
+        163,
+        108,
+        227,
+        32,
+        120,
+        146,
+        225,
+        161,
+        146,
+        231,
+        253,
+        224
+      ]
+    },
+    "name": "Mr Robot S01E01 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 297,
+  "peers": 21,
+  "last_updated": "2016-12-25T10:14:55.137Z"
+}

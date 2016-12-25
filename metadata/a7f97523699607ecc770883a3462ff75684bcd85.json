@@ -1,1 +1,61 @@
-{"title":"The Ultimate Christmas Music Compilation - 300 Songs","uid":6798366,"size":2218472618,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a7f97523699607ecc770883a3462ff75684bcd85&amp;dn=The+Ultimate+Christmas+Music+Compilation+-+300+Songs&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":3,"uploader":"piratetorrent1989","files":300,"time":1320551988,"description":"A compilation of 300 Christmas songs. Includes perennial favorites such as John Lennon, Mariah Carey, Bing Crosby etc, as well as many other less known songs and artists.\n\nAll songs are in mp3 format, bit rates range from 160 - 320.\n\nMerry Christmas.......:)","torrent":{"xt":"urn:btih:a7f97523699607ecc770883a3462ff75684bcd85","amp;dn":"The+Ultimate+Christmas+Music+Compilation+-+300+Songs","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a7f97523699607ecc770883a3462ff75684bcd85","infoHashBuffer":{"type":"Buffer","data":[167,249,117,35,105,150,7,236,199,112,136,58,52,98,255,117,104,75,205,133]},"announce":[],"urlList":[]}}
+{
+  "title": "The Ultimate Christmas Music Compilation - 300 Songs",
+  "uid": 6798366,
+  "size": 2218472618,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a7f97523699607ecc770883a3462ff75684bcd85&amp;dn=The+Ultimate+Christmas+Music+Compilation+-+300+Songs&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 3,
+  "uploader": "piratetorrent1989",
+  "files": 300,
+  "time": 1320551988,
+  "description": "A compilation of 300 Christmas songs. Includes perennial favorites such as John Lennon, Mariah Carey, Bing Crosby etc, as well as many other less known songs and artists.\n\nAll songs are in mp3 format, bit rates range from 160 - 320.\n\nMerry Christmas.......:)",
+  "parsed": {
+    "xt": "urn:btih:a7f97523699607ecc770883a3462ff75684bcd85",
+    "dn": "The Ultimate Christmas Music Compilation - 300 Songs",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a7f97523699607ecc770883a3462ff75684bcd85",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        167,
+        249,
+        117,
+        35,
+        105,
+        150,
+        7,
+        236,
+        199,
+        112,
+        136,
+        58,
+        52,
+        98,
+        255,
+        117,
+        104,
+        75,
+        205,
+        133
+      ]
+    },
+    "name": "The Ultimate Christmas Music Compilation - 300 Songs",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 50,
+  "last_updated": "2016-12-25T10:20:36.412Z"
+}

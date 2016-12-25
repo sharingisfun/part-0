@@ -1,1 +1,61 @@
-{"title":"Si fuera facil","uid":8552754,"size":1946875904,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:a769e0a2cb27f97fc531c95e6b09df63d23d5060&amp;dn=Si+fuera+facil&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":3,"uploader":"Miguel223","files":1,"time":1370691574,"description":"Si fuera facil\n\nwww.peliculasytorrent.com","torrent":{"xt":"urn:btih:a769e0a2cb27f97fc531c95e6b09df63d23d5060","amp;dn":"Si+fuera+facil","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a769e0a2cb27f97fc531c95e6b09df63d23d5060","infoHashBuffer":{"type":"Buffer","data":[167,105,224,162,203,39,249,127,197,49,201,94,107,9,223,99,210,61,80,96]},"announce":[],"urlList":[]}}
+{
+  "title": "Si fuera facil",
+  "uid": 8552754,
+  "size": 1946875904,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:a769e0a2cb27f97fc531c95e6b09df63d23d5060&amp;dn=Si+fuera+facil&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 3,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1370691574,
+  "description": "Si fuera facil\n\nwww.peliculasytorrent.com",
+  "parsed": {
+    "xt": "urn:btih:a769e0a2cb27f97fc531c95e6b09df63d23d5060",
+    "dn": "Si fuera facil",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a769e0a2cb27f97fc531c95e6b09df63d23d5060",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        167,
+        105,
+        224,
+        162,
+        203,
+        39,
+        249,
+        127,
+        197,
+        49,
+        201,
+        94,
+        107,
+        9,
+        223,
+        99,
+        210,
+        61,
+        80,
+        96
+      ]
+    },
+    "name": "Si fuera facil",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 38,
+  "last_updated": "2016-12-25T10:16:59.659Z"
+}
