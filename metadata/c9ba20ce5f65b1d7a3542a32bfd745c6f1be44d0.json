@@ -1,1 +1,63 @@
-{"title":"Shadwen-RELOADED","uid":15964415,"size":24024585,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:c9ba20ce5f65b1d7a3542a32bfd745c6f1be44d0&amp;dn=Shadwen-RELOADED&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":111,"leechers":76,"uploader":"trwetwr","files":4,"time":1475708850,"description":"Good Game","torrent":{"xt":"urn:btih:c9ba20ce5f65b1d7a3542a32bfd745c6f1be44d0","amp;dn":"Shadwen-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c9ba20ce5f65b1d7a3542a32bfd745c6f1be44d0","infoHashBuffer":{"type":"Buffer","data":[201,186,32,206,95,101,177,215,163,84,42,50,191,215,69,198,241,190,68,208]},"announce":[],"urlList":[]}}
+{
+  "title": "Shadwen-RELOADED",
+  "uid": 15964415,
+  "size": 24024585,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:c9ba20ce5f65b1d7a3542a32bfd745c6f1be44d0&amp;dn=Shadwen-RELOADED&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 111,
+  "leechers": 76,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475708850,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:c9ba20ce5f65b1d7a3542a32bfd745c6f1be44d0",
+    "dn": "Shadwen-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "c9ba20ce5f65b1d7a3542a32bfd745c6f1be44d0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        201,
+        186,
+        32,
+        206,
+        95,
+        101,
+        177,
+        215,
+        163,
+        84,
+        42,
+        50,
+        191,
+        215,
+        69,
+        198,
+        241,
+        190,
+        68,
+        208
+      ]
+    },
+    "name": "Shadwen-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 187,
+  "peers": 1,
+  "last_updated": "2016-12-25T13:51:36.858Z"
+}

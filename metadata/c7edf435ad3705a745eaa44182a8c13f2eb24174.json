@@ -1,1 +1,61 @@
-{"title":"Cool Runnings (1993) DVDRIP","uid":4644125,"size":734009344,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:c7edf435ad3705a745eaa44182a8c13f2eb24174&amp;dn=Cool+Runnings+%281993%29+DVDRIP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":4,"uploader":".BONE.","files":1,"time":1231819861,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt0106611/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt0106611/&lt;/a&gt;","torrent":{"xt":"urn:btih:c7edf435ad3705a745eaa44182a8c13f2eb24174","amp;dn":"Cool+Runnings+%281993%29+DVDRIP","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c7edf435ad3705a745eaa44182a8c13f2eb24174","infoHashBuffer":{"type":"Buffer","data":[199,237,244,53,173,55,5,167,69,234,164,65,130,168,193,63,46,178,65,116]},"announce":[],"urlList":[]}}
+{
+  "title": "Cool Runnings (1993) DVDRIP",
+  "uid": 4644125,
+  "size": 734009344,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:c7edf435ad3705a745eaa44182a8c13f2eb24174&amp;dn=Cool+Runnings+%281993%29+DVDRIP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 4,
+  "uploader": ".BONE.",
+  "files": 1,
+  "time": 1231819861,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt0106611/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt0106611/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:c7edf435ad3705a745eaa44182a8c13f2eb24174",
+    "dn": "Cool Runnings (1993) DVDRIP",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c7edf435ad3705a745eaa44182a8c13f2eb24174",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        199,
+        237,
+        244,
+        53,
+        173,
+        55,
+        5,
+        167,
+        69,
+        234,
+        164,
+        65,
+        130,
+        168,
+        193,
+        63,
+        46,
+        178,
+        65,
+        116
+      ]
+    },
+    "name": "Cool Runnings (1993) DVDRIP",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 50,
+  "last_updated": "2016-12-25T13:40:04.538Z"
+}

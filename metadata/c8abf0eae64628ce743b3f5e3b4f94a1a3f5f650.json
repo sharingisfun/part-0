@@ -1,1 +1,63 @@
-{"title":"Kerbal Space Program v1.2","uid":15862137,"size":1011165929,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:c8abf0eae64628ce743b3f5e3b4f94a1a3f5f650&amp;dn=Kerbal+Space+Program+v1.2&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":12,"uploader":"dauphong","files":1,"time":1474312852,"description":"In KSP you must build a space-worthy craft, capable of flying its crew out into space without killing them. At your disposal is a collection of parts, which must be assembled to create a functional ship. Each part has its own function and will affect the way a ship flies (or doesn't). So strap yourself in, and get ready to try some Rocket Science!\r\n\r\nThe game offers three gameplay modes: Sandbox, in which you are free to build anything you can think of; Science Mode, which lets you perform Scientific experiments to advance the knowledge of Kerbalkind and further the available technology; and Career Mode, in which you must manage every aspect of your Space Program, including administration strategies, Crew Management, Reputation, as well as taking up Contracts to earn Funds and upgrade your Space Center Facilities (or repair them).\r\n\r\nAdd to this the ability to capture asteroids (a feature done in collaboration with NASA), Mining for resources out across the furthest reaches of the Solar System, Constructing Bases and Space Stations in and around other worlds; plus literally thousands of mods from a huge active modding community, all add up into the award-winning game that has taken the space sim genre by storm","torrent":{"xt":"urn:btih:c8abf0eae64628ce743b3f5e3b4f94a1a3f5f650","amp;dn":"Kerbal+Space+Program+v1.2","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c8abf0eae64628ce743b3f5e3b4f94a1a3f5f650","infoHashBuffer":{"type":"Buffer","data":[200,171,240,234,230,70,40,206,116,59,63,94,59,79,148,161,163,245,246,80]},"announce":[],"urlList":[]}}
+{
+  "title": "Kerbal Space Program v1.2",
+  "uid": 15862137,
+  "size": 1011165929,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:c8abf0eae64628ce743b3f5e3b4f94a1a3f5f650&amp;dn=Kerbal+Space+Program+v1.2&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 12,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1474312852,
+  "description": "In KSP you must build a space-worthy craft, capable of flying its crew out into space without killing them. At your disposal is a collection of parts, which must be assembled to create a functional ship. Each part has its own function and will affect the way a ship flies (or doesn't). So strap yourself in, and get ready to try some Rocket Science!\r\n\r\nThe game offers three gameplay modes: Sandbox, in which you are free to build anything you can think of; Science Mode, which lets you perform Scientific experiments to advance the knowledge of Kerbalkind and further the available technology; and Career Mode, in which you must manage every aspect of your Space Program, including administration strategies, Crew Management, Reputation, as well as taking up Contracts to earn Funds and upgrade your Space Center Facilities (or repair them).\r\n\r\nAdd to this the ability to capture asteroids (a feature done in collaboration with NASA), Mining for resources out across the furthest reaches of the Solar System, Constructing Bases and Space Stations in and around other worlds; plus literally thousands of mods from a huge active modding community, all add up into the award-winning game that has taken the space sim genre by storm",
+  "parsed": {
+    "xt": "urn:btih:c8abf0eae64628ce743b3f5e3b4f94a1a3f5f650",
+    "dn": "Kerbal Space Program v1.2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "c8abf0eae64628ce743b3f5e3b4f94a1a3f5f650",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        200,
+        171,
+        240,
+        234,
+        230,
+        70,
+        40,
+        206,
+        116,
+        59,
+        63,
+        94,
+        59,
+        79,
+        148,
+        161,
+        163,
+        245,
+        246,
+        80
+      ]
+    },
+    "name": "Kerbal Space Program v1.2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 75,
+  "peers": 71,
+  "last_updated": "2016-12-25T13:44:49.659Z"
+}

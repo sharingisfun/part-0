@@ -1,1 +1,61 @@
-{"title":"The Decemberists &amp;ndash; What a Terrible World, What a Beautiful","uid":11601243,"size":130404094,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:c810e73d1a8da1941596a3a64a89d05a32dfad7b&amp;dn=The+Decemberists+%26ndash%3B+What+a+Terrible+World%2C+What+a+Beautiful&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":0,"uploader":"santicaz","files":14,"time":1417356780,"description":"Artist: The Decemberists\nTitle: What a Terrible World, What a Beautiful World\nYear: 2015\nGenre: Alternative/Indie Rock/Pop/Folk\nOrigin: USA\nSize/Quality: 124 mb | Mp3, CBR 320 kbps\n\n\nTracklist:\n01. The Singer Addresses His Audience (04:45)\n02. Cavalry Captain (03:19)\n03. Philomena (03:06)\n04. Make You Better (05:10)\n05. Lake Song (05:54)\n06. Till the Water Is All Long Gone (05:03)\n07. The Wrong Year (03:55)\n08. Carolina Low (03:26)\n09. Better Not Wake the Baby (01:46)\n10. Anti-Summersong (02:14)\n11. Easy Come, Easy Go (02:24)\n12. Mistral (03:56)\n13. 12-17-12 (03:05)\n14. A Beginning Song (05:24)","torrent":{"xt":"urn:btih:c810e73d1a8da1941596a3a64a89d05a32dfad7b","amp;dn":"The+Decemberists+%26ndash%3B+What+a+Terrible+World%2C+What+a+Beautiful","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c810e73d1a8da1941596a3a64a89d05a32dfad7b","infoHashBuffer":{"type":"Buffer","data":[200,16,231,61,26,141,161,148,21,150,163,166,74,137,208,90,50,223,173,123]},"announce":[],"urlList":[]}}
+{
+  "title": "The Decemberists &amp;ndash; What a Terrible World, What a Beautiful",
+  "uid": 11601243,
+  "size": 130404094,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:c810e73d1a8da1941596a3a64a89d05a32dfad7b&amp;dn=The+Decemberists+%26ndash%3B+What+a+Terrible+World%2C+What+a+Beautiful&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 0,
+  "uploader": "santicaz",
+  "files": 14,
+  "time": 1417356780,
+  "description": "Artist: The Decemberists\nTitle: What a Terrible World, What a Beautiful World\nYear: 2015\nGenre: Alternative/Indie Rock/Pop/Folk\nOrigin: USA\nSize/Quality: 124 mb | Mp3, CBR 320 kbps\n\n\nTracklist:\n01. The Singer Addresses His Audience (04:45)\n02. Cavalry Captain (03:19)\n03. Philomena (03:06)\n04. Make You Better (05:10)\n05. Lake Song (05:54)\n06. Till the Water Is All Long Gone (05:03)\n07. The Wrong Year (03:55)\n08. Carolina Low (03:26)\n09. Better Not Wake the Baby (01:46)\n10. Anti-Summersong (02:14)\n11. Easy Come, Easy Go (02:24)\n12. Mistral (03:56)\n13. 12-17-12 (03:05)\n14. A Beginning Song (05:24)",
+  "parsed": {
+    "xt": "urn:btih:c810e73d1a8da1941596a3a64a89d05a32dfad7b",
+    "dn": "The Decemberists &ndash; What a Terrible World, What a Beautiful",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c810e73d1a8da1941596a3a64a89d05a32dfad7b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        200,
+        16,
+        231,
+        61,
+        26,
+        141,
+        161,
+        148,
+        21,
+        150,
+        163,
+        166,
+        74,
+        137,
+        208,
+        90,
+        50,
+        223,
+        173,
+        123
+      ]
+    },
+    "name": "The Decemberists &ndash; What a Terrible World, What a Beautiful",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 16,
+  "last_updated": "2016-12-25T13:41:02.779Z"
+}

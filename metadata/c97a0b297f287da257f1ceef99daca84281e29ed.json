@@ -1,1 +1,61 @@
-{"title":"Teen Wolf S04E12 HDTV x264-KILLERS[ettv]","uid":11006335,"size":308182632,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:c97a0b297f287da257f1ceef99daca84281e29ed&amp;dn=Teen+Wolf+S04E12+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":122,"leechers":10,"uploader":"ettv","files":2,"time":1410240218,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:c97a0b297f287da257f1ceef99daca84281e29ed","amp;dn":"Teen+Wolf+S04E12+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c97a0b297f287da257f1ceef99daca84281e29ed","infoHashBuffer":{"type":"Buffer","data":[201,122,11,41,127,40,125,162,87,241,206,239,153,218,202,132,40,30,41,237]},"announce":[],"urlList":[]}}
+{
+  "title": "Teen Wolf S04E12 HDTV x264-KILLERS[ettv]",
+  "uid": 11006335,
+  "size": 308182632,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:c97a0b297f287da257f1ceef99daca84281e29ed&amp;dn=Teen+Wolf+S04E12+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 122,
+  "leechers": 10,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1410240218,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:c97a0b297f287da257f1ceef99daca84281e29ed",
+    "dn": "Teen Wolf S04E12 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c97a0b297f287da257f1ceef99daca84281e29ed",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        201,
+        122,
+        11,
+        41,
+        127,
+        40,
+        125,
+        162,
+        87,
+        241,
+        206,
+        239,
+        153,
+        218,
+        202,
+        132,
+        40,
+        30,
+        41,
+        237
+      ]
+    },
+    "name": "Teen Wolf S04E12 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 132,
+  "peers": 76,
+  "last_updated": "2016-12-25T13:50:06.589Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Arrow S02E07 HDTV x264-LOL[ettv]","uid":9225345,"size":306191721,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:c8ad3d1b144080df44b18525f3ae668f8509caa7&amp;dn=Arrow+S02E07+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":85,"leechers":9,"uploader":"ettv","files":2,"time":1385002712,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:c8ad3d1b144080df44b18525f3ae668f8509caa7","amp;dn":"Arrow+S02E07+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c8ad3d1b144080df44b18525f3ae668f8509caa7","infoHashBuffer":{"type":"Buffer","data":[200,173,61,27,20,64,128,223,68,177,133,37,243,174,102,143,133,9,202,167]},"announce":[],"urlList":[]}}
+{
+  "title": "Arrow S02E07 HDTV x264-LOL[ettv]",
+  "uid": 9225345,
+  "size": 306191721,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:c8ad3d1b144080df44b18525f3ae668f8509caa7&amp;dn=Arrow+S02E07+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 85,
+  "leechers": 9,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1385002712,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:c8ad3d1b144080df44b18525f3ae668f8509caa7",
+    "dn": "Arrow S02E07 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c8ad3d1b144080df44b18525f3ae668f8509caa7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        200,
+        173,
+        61,
+        27,
+        20,
+        64,
+        128,
+        223,
+        68,
+        177,
+        133,
+        37,
+        243,
+        174,
+        102,
+        143,
+        133,
+        9,
+        202,
+        167
+      ]
+    },
+    "name": "Arrow S02E07 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 94,
+  "peers": 45,
+  "last_updated": "2016-12-25T13:44:51.668Z"
+}

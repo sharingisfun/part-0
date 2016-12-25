@@ -1,1 +1,61 @@
-{"title":"The.Secret.Of.Monkey.Island.Special.Edition-RELOADED","uid":5005267,"size":1448661954,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:c759b00ddd2544b4a74e715ec284273156af39cf&amp;dn=The.Secret.Of.Monkey.Island.Special.Edition-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":6,"uploader":"AiTB","files":31,"time":1247694231,"description":" &lt;a href=&quot;http://www.btarena.org/games/the-secret-of-monkey-island-special-edition-reloaded&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.btarena.org/games/the-secret-of-monkey-island-special-edition-reloaded&lt;/a&gt;","torrent":{"xt":"urn:btih:c759b00ddd2544b4a74e715ec284273156af39cf","amp;dn":"The.Secret.Of.Monkey.Island.Special.Edition-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c759b00ddd2544b4a74e715ec284273156af39cf","infoHashBuffer":{"type":"Buffer","data":[199,89,176,13,221,37,68,180,167,78,113,94,194,132,39,49,86,175,57,207]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Secret.Of.Monkey.Island.Special.Edition-RELOADED",
+  "uid": 5005267,
+  "size": 1448661954,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:c759b00ddd2544b4a74e715ec284273156af39cf&amp;dn=The.Secret.Of.Monkey.Island.Special.Edition-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 6,
+  "uploader": "AiTB",
+  "files": 31,
+  "time": 1247694231,
+  "description": " &lt;a href=&quot;http://www.btarena.org/games/the-secret-of-monkey-island-special-edition-reloaded&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.btarena.org/games/the-secret-of-monkey-island-special-edition-reloaded&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:c759b00ddd2544b4a74e715ec284273156af39cf",
+    "dn": "The.Secret.Of.Monkey.Island.Special.Edition-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c759b00ddd2544b4a74e715ec284273156af39cf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        199,
+        89,
+        176,
+        13,
+        221,
+        37,
+        68,
+        180,
+        167,
+        78,
+        113,
+        94,
+        194,
+        132,
+        39,
+        49,
+        86,
+        175,
+        57,
+        207
+      ]
+    },
+    "name": "The.Secret.Of.Monkey.Island.Special.Edition-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 33,
+  "last_updated": "2016-12-25T13:36:33.706Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Ghostbusters.2016.1080p.BluRay.x264.Plex","uid":16041623,"size":2185099772,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:c7282108ff4a20e69cac76535605ae9017b79537&amp;dn=Ghostbusters.2016.1080p.BluRay.x264.Plex&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":21,"uploader":"TvTeam","files":2,"time":1476514672,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~~~~  \nhttps://www.torrenting.com\r\n\r\nJoin and become part of the BIG family! Yarrrrrrrrrrrrrr!!!!!!!!!!","torrent":{"xt":"urn:btih:c7282108ff4a20e69cac76535605ae9017b79537","amp;dn":"Ghostbusters.2016.1080p.BluRay.x264.Plex","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c7282108ff4a20e69cac76535605ae9017b79537","infoHashBuffer":{"type":"Buffer","data":[199,40,33,8,255,74,32,230,156,172,118,83,86,5,174,144,23,183,149,55]},"announce":[],"urlList":[]}}
+{
+  "title": "Ghostbusters.2016.1080p.BluRay.x264.Plex",
+  "uid": 16041623,
+  "size": 2185099772,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:c7282108ff4a20e69cac76535605ae9017b79537&amp;dn=Ghostbusters.2016.1080p.BluRay.x264.Plex&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 21,
+  "uploader": "TvTeam",
+  "files": 2,
+  "time": 1476514672,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~~~~  \nhttps://www.torrenting.com\r\n\r\nJoin and become part of the BIG family! Yarrrrrrrrrrrrrr!!!!!!!!!!",
+  "parsed": {
+    "xt": "urn:btih:c7282108ff4a20e69cac76535605ae9017b79537",
+    "dn": "Ghostbusters.2016.1080p.BluRay.x264.Plex",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "c7282108ff4a20e69cac76535605ae9017b79537",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        199,
+        40,
+        33,
+        8,
+        255,
+        74,
+        32,
+        230,
+        156,
+        172,
+        118,
+        83,
+        86,
+        5,
+        174,
+        144,
+        23,
+        183,
+        149,
+        55
+      ]
+    },
+    "name": "Ghostbusters.2016.1080p.BluRay.x264.Plex",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 19,
+  "last_updated": "2016-12-25T13:35:35.417Z"
+}

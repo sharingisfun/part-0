@@ -1,1 +1,63 @@
-{"title":"Aragami-CODEX","uid":15954487,"size":2723911882,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:c762da07e832f4aa6a8f7ae8135d29cd3f5a15a8&amp;dn=Aragami-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":29,"uploader":"dauphong","files":5,"time":1475605116,"description":"You are Aragami, a vengeful spirit with the power to control the shadows. Youâ€™ve been summoned by Yamiko, a girl imprisoned in the city fortress of Kyuryu. Embark on a dark journey full of blood and secrets to discover the truth about aragami. Infiltrate the occupied city of Kyuryu with your supernatural powers and fight Light with Shadow. Uncover a story about twin souls bound together by destiny that surpasses time and memory","torrent":{"xt":"urn:btih:c762da07e832f4aa6a8f7ae8135d29cd3f5a15a8","amp;dn":"Aragami-CODEX","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c762da07e832f4aa6a8f7ae8135d29cd3f5a15a8","infoHashBuffer":{"type":"Buffer","data":[199,98,218,7,232,50,244,170,106,143,122,232,19,93,41,205,63,90,21,168]},"announce":[],"urlList":[]}}
+{
+  "title": "Aragami-CODEX",
+  "uid": 15954487,
+  "size": 2723911882,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:c762da07e832f4aa6a8f7ae8135d29cd3f5a15a8&amp;dn=Aragami-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 29,
+  "uploader": "dauphong",
+  "files": 5,
+  "time": 1475605116,
+  "description": "You are Aragami, a vengeful spirit with the power to control the shadows. Youâ€™ve been summoned by Yamiko, a girl imprisoned in the city fortress of Kyuryu. Embark on a dark journey full of blood and secrets to discover the truth about aragami. Infiltrate the occupied city of Kyuryu with your supernatural powers and fight Light with Shadow. Uncover a story about twin souls bound together by destiny that surpasses time and memory",
+  "parsed": {
+    "xt": "urn:btih:c762da07e832f4aa6a8f7ae8135d29cd3f5a15a8",
+    "dn": "Aragami-CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "c762da07e832f4aa6a8f7ae8135d29cd3f5a15a8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        199,
+        98,
+        218,
+        7,
+        232,
+        50,
+        244,
+        170,
+        106,
+        143,
+        122,
+        232,
+        19,
+        93,
+        41,
+        205,
+        63,
+        90,
+        21,
+        168
+      ]
+    },
+    "name": "Aragami-CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 67,
+  "peers": 7,
+  "last_updated": "2016-12-25T13:36:47.759Z"
+}

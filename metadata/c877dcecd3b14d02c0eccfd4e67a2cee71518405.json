@@ -1,1 +1,61 @@
-{"title":"OS X Mavericks 10.9 Retail VMware Image","uid":9012642,"size":5169299214,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:c877dcecd3b14d02c0eccfd4e67a2cee71518405&amp;dn=OS+X+Mavericks+10.9+Retail+VMware+Image&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":245,"leechers":23,"uploader":"SoulUploader","files":5,"time":1381135897,"description":"Full release notes can be found on the site.\n\nFirst version of the OS X Mavericks Retail VMware Image. Contains OS X Mavericks GM, and is compiled entirely from stock. Boots on average around a minute although it can be in as little as 25 seconds sometimes., but make sure to give up to 10 just in case. Recommended you watch the setup video contained in the download to get it working properly and avoid unobvious mistakes, anything covered in that won't be addressed in the comments. First boot will be slower compared to future startups.\n\nXcode can be installed via the App Store, as it functions *perfectly* as a Mac. AMD users should consult the setup guide beforehand as only certain models work so it's your call if you want to try it or not, however it's always worth a shot.\n\nWorks with Player, Workstation and Fusion, both old and new versions. Watch the Setup Guide to set it all up properly (it'll help you to no end). Without following the setup guide it's more than likely you'll have no luck.\n\nPlease note: The Hardware Bypasser included was created using Tola's Patching Engine 2.03b and packaged using UPX 3.07, which results in false reports from certain virus scanners. All it does is reconstruct the vmware-vmx.exe file in the VMware Program Files folder when run. If you're unwilling to take my word for it, just open the archive in 7zip (before you extract) and delete &quot;vmware-vmx-patch.exe&quot;, which will remove it. \n\nIf you wanna follow my work/releases follow us at http://souldevteam.net/blog.","torrent":{"xt":"urn:btih:c877dcecd3b14d02c0eccfd4e67a2cee71518405","amp;dn":"OS+X+Mavericks+10.9+Retail+VMware+Image","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c877dcecd3b14d02c0eccfd4e67a2cee71518405","infoHashBuffer":{"type":"Buffer","data":[200,119,220,236,211,177,77,2,192,236,207,212,230,122,44,238,113,81,132,5]},"announce":[],"urlList":[]}}
+{
+  "title": "OS X Mavericks 10.9 Retail VMware Image",
+  "uid": 9012642,
+  "size": 5169299214,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:c877dcecd3b14d02c0eccfd4e67a2cee71518405&amp;dn=OS+X+Mavericks+10.9+Retail+VMware+Image&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 245,
+  "leechers": 23,
+  "uploader": "SoulUploader",
+  "files": 5,
+  "time": 1381135897,
+  "description": "Full release notes can be found on the site.\n\nFirst version of the OS X Mavericks Retail VMware Image. Contains OS X Mavericks GM, and is compiled entirely from stock. Boots on average around a minute although it can be in as little as 25 seconds sometimes., but make sure to give up to 10 just in case. Recommended you watch the setup video contained in the download to get it working properly and avoid unobvious mistakes, anything covered in that won't be addressed in the comments. First boot will be slower compared to future startups.\n\nXcode can be installed via the App Store, as it functions *perfectly* as a Mac. AMD users should consult the setup guide beforehand as only certain models work so it's your call if you want to try it or not, however it's always worth a shot.\n\nWorks with Player, Workstation and Fusion, both old and new versions. Watch the Setup Guide to set it all up properly (it'll help you to no end). Without following the setup guide it's more than likely you'll have no luck.\n\nPlease note: The Hardware Bypasser included was created using Tola's Patching Engine 2.03b and packaged using UPX 3.07, which results in false reports from certain virus scanners. All it does is reconstruct the vmware-vmx.exe file in the VMware Program Files folder when run. If you're unwilling to take my word for it, just open the archive in 7zip (before you extract) and delete &quot;vmware-vmx-patch.exe&quot;, which will remove it. \n\nIf you wanna follow my work/releases follow us at http://souldevteam.net/blog.",
+  "parsed": {
+    "xt": "urn:btih:c877dcecd3b14d02c0eccfd4e67a2cee71518405",
+    "dn": "OS X Mavericks 10.9 Retail VMware Image",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c877dcecd3b14d02c0eccfd4e67a2cee71518405",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        200,
+        119,
+        220,
+        236,
+        211,
+        177,
+        77,
+        2,
+        192,
+        236,
+        207,
+        212,
+        230,
+        122,
+        44,
+        238,
+        113,
+        81,
+        132,
+        5
+      ]
+    },
+    "name": "OS X Mavericks 10.9 Retail VMware Image",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 268,
+  "peers": 83,
+  "last_updated": "2016-12-25T13:43:35.355Z"
+}

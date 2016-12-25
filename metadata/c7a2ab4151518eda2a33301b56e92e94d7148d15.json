@@ -1,1 +1,61 @@
-{"title":"SUPERHOT (Beta - 08/01/2015)","uid":12189678,"size":449758794,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:c7a2ab4151518eda2a33301b56e92e94d7148d15&amp;dn=SUPERHOT+%28Beta+-+08%2F01%2F2015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":101,"leechers":3,"uploader":"dauphong","files":1,"time":1438627994,"description":"SUPERHOT is an FPS game where time moves only when you move. The innovative time control mechanics create gameplay never seen before. TAKE YOUR TIME! Get rid of aggressive enemies with grace, style and the intense satisfaction. Watch them fall while you're dancing in a hail of bullets. With limited ammunition and unforgiving foes every level of SUPERHOT becomes a deadly puzzle.\n\nShort and intense action scenes. Dodging bullets. Taking down armed enemies with your bare hands. ThatÃ¢â‚¬â„¢s the essence of SUPER. HOT. SUPER. HOT","torrent":{"xt":"urn:btih:c7a2ab4151518eda2a33301b56e92e94d7148d15","amp;dn":"SUPERHOT+%28Beta+-+08%2F01%2F2015%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c7a2ab4151518eda2a33301b56e92e94d7148d15","infoHashBuffer":{"type":"Buffer","data":[199,162,171,65,81,81,142,218,42,51,48,27,86,233,46,148,215,20,141,21]},"announce":[],"urlList":[]}}
+{
+  "title": "SUPERHOT (Beta - 08/01/2015)",
+  "uid": 12189678,
+  "size": 449758794,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:c7a2ab4151518eda2a33301b56e92e94d7148d15&amp;dn=SUPERHOT+%28Beta+-+08%2F01%2F2015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 101,
+  "leechers": 3,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1438627994,
+  "description": "SUPERHOT is an FPS game where time moves only when you move. The innovative time control mechanics create gameplay never seen before. TAKE YOUR TIME! Get rid of aggressive enemies with grace, style and the intense satisfaction. Watch them fall while you're dancing in a hail of bullets. With limited ammunition and unforgiving foes every level of SUPERHOT becomes a deadly puzzle.\n\nShort and intense action scenes. Dodging bullets. Taking down armed enemies with your bare hands. ThatÃ¢â‚¬â„¢s the essence of SUPER. HOT. SUPER. HOT",
+  "parsed": {
+    "xt": "urn:btih:c7a2ab4151518eda2a33301b56e92e94d7148d15",
+    "dn": "SUPERHOT (Beta - 08/01/2015)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c7a2ab4151518eda2a33301b56e92e94d7148d15",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        199,
+        162,
+        171,
+        65,
+        81,
+        81,
+        142,
+        218,
+        42,
+        51,
+        48,
+        27,
+        86,
+        233,
+        46,
+        148,
+        215,
+        20,
+        141,
+        21
+      ]
+    },
+    "name": "SUPERHOT (Beta - 08/01/2015)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 104,
+  "peers": 98,
+  "last_updated": "2016-12-25T13:38:20.105Z"
+}

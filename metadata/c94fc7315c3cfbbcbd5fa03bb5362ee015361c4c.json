@@ -1,1 +1,61 @@
-{"title":"Harry Potter - Complete 8 Film Collection","uid":8505790,"size":20249143486,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:c94fc7315c3cfbbcbd5fa03bb5362ee015361c4c&amp;dn=Harry+Potter+-+Complete+8+Film+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":67,"leechers":30,"uploader":"Miguel223","files":9,"time":1369416615,"description":"Harry Potter - Complete 8 Film Collection","torrent":{"xt":"urn:btih:c94fc7315c3cfbbcbd5fa03bb5362ee015361c4c","amp;dn":"Harry+Potter+-+Complete+8+Film+Collection","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c94fc7315c3cfbbcbd5fa03bb5362ee015361c4c","infoHashBuffer":{"type":"Buffer","data":[201,79,199,49,92,60,251,188,189,95,160,59,181,54,46,224,21,54,28,76]},"announce":[],"urlList":[]}}
+{
+  "title": "Harry Potter - Complete 8 Film Collection",
+  "uid": 8505790,
+  "size": 20249143486,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:c94fc7315c3cfbbcbd5fa03bb5362ee015361c4c&amp;dn=Harry+Potter+-+Complete+8+Film+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 67,
+  "leechers": 30,
+  "uploader": "Miguel223",
+  "files": 9,
+  "time": 1369416615,
+  "description": "Harry Potter - Complete 8 Film Collection",
+  "parsed": {
+    "xt": "urn:btih:c94fc7315c3cfbbcbd5fa03bb5362ee015361c4c",
+    "dn": "Harry Potter - Complete 8 Film Collection",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c94fc7315c3cfbbcbd5fa03bb5362ee015361c4c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        201,
+        79,
+        199,
+        49,
+        92,
+        60,
+        251,
+        188,
+        189,
+        95,
+        160,
+        59,
+        181,
+        54,
+        46,
+        224,
+        21,
+        54,
+        28,
+        76
+      ]
+    },
+    "name": "Harry Potter - Complete 8 Film Collection",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 97,
+  "peers": 148,
+  "last_updated": "2016-12-25T13:49:04.385Z"
+}

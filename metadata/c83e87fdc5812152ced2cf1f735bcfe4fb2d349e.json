@@ -1,1 +1,63 @@
-{"title":"AM2R -- Another Metroid 2 Remake FULL V1.0 Release","uid":15502255,"size":92400817,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:c83e87fdc5812152ced2cf1f735bcfe4fb2d349e&amp;dn=AM2R+--+Another+Metroid+2+Remake+FULL+V1.0+Release&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":0,"uploader":"Mysterion3201","files":47,"time":1470528996,"description":"Just in case Nintendo decides to crack down on this beautiful project done by amazing people I will not name, I thought I'd reupload it here so I and many others can keep it alive without worry of it being removed. Thanks and much love to the creators of this project for their awesome work with this!!","torrent":{"xt":"urn:btih:c83e87fdc5812152ced2cf1f735bcfe4fb2d349e","amp;dn":"AM2R+--+Another+Metroid+2+Remake+FULL+V1.0+Release","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c83e87fdc5812152ced2cf1f735bcfe4fb2d349e","infoHashBuffer":{"type":"Buffer","data":[200,62,135,253,197,129,33,82,206,210,207,31,115,91,207,228,251,45,52,158]},"announce":[],"urlList":[]}}
+{
+  "title": "AM2R -- Another Metroid 2 Remake FULL V1.0 Release",
+  "uid": 15502255,
+  "size": 92400817,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:c83e87fdc5812152ced2cf1f735bcfe4fb2d349e&amp;dn=AM2R+--+Another+Metroid+2+Remake+FULL+V1.0+Release&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 0,
+  "uploader": "Mysterion3201",
+  "files": 47,
+  "time": 1470528996,
+  "description": "Just in case Nintendo decides to crack down on this beautiful project done by amazing people I will not name, I thought I'd reupload it here so I and many others can keep it alive without worry of it being removed. Thanks and much love to the creators of this project for their awesome work with this!!",
+  "parsed": {
+    "xt": "urn:btih:c83e87fdc5812152ced2cf1f735bcfe4fb2d349e",
+    "dn": "AM2R -- Another Metroid 2 Remake FULL V1.0 Release",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "c83e87fdc5812152ced2cf1f735bcfe4fb2d349e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        200,
+        62,
+        135,
+        253,
+        197,
+        129,
+        33,
+        82,
+        206,
+        210,
+        207,
+        31,
+        115,
+        91,
+        207,
+        228,
+        251,
+        45,
+        52,
+        158
+      ]
+    },
+    "name": "AM2R -- Another Metroid 2 Remake FULL V1.0 Release",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 52,
+  "last_updated": "2016-12-25T13:42:07.029Z"
+}

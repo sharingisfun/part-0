@@ -1,1 +1,61 @@
-{"title":"Orange Is The New Black S02E12 WEBRip XviD-FUM[ettv]","uid":10311112,"size":471688399,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:c8cc979b558fc8270c0244d86eafacc27dce40f2&amp;dn=Orange+Is+The+New+Black+S02E12+WEBRip+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":77,"leechers":11,"uploader":"ettv","files":2,"time":1402183825,"description":"\nFUM\nXviD Video : 1 124 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 624x350\n","torrent":{"xt":"urn:btih:c8cc979b558fc8270c0244d86eafacc27dce40f2","amp;dn":"Orange+Is+The+New+Black+S02E12+WEBRip+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c8cc979b558fc8270c0244d86eafacc27dce40f2","infoHashBuffer":{"type":"Buffer","data":[200,204,151,155,85,143,200,39,12,2,68,216,110,175,172,194,125,206,64,242]},"announce":[],"urlList":[]}}
+{
+  "title": "Orange Is The New Black S02E12 WEBRip XviD-FUM[ettv]",
+  "uid": 10311112,
+  "size": 471688399,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:c8cc979b558fc8270c0244d86eafacc27dce40f2&amp;dn=Orange+Is+The+New+Black+S02E12+WEBRip+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 77,
+  "leechers": 11,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1402183825,
+  "description": "\nFUM\nXviD Video : 1 124 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 624x350\n",
+  "parsed": {
+    "xt": "urn:btih:c8cc979b558fc8270c0244d86eafacc27dce40f2",
+    "dn": "Orange Is The New Black S02E12 WEBRip XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c8cc979b558fc8270c0244d86eafacc27dce40f2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        200,
+        204,
+        151,
+        155,
+        85,
+        143,
+        200,
+        39,
+        12,
+        2,
+        68,
+        216,
+        110,
+        175,
+        172,
+        194,
+        125,
+        206,
+        64,
+        242
+      ]
+    },
+    "name": "Orange Is The New Black S02E12 WEBRip XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 88,
+  "peers": 19,
+  "last_updated": "2016-12-25T13:45:39.811Z"
+}

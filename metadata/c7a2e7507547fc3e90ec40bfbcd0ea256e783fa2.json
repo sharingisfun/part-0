@@ -1,1 +1,61 @@
-{"title":"The Walking Dead S05E14 HDTV x264-KILLERS","uid":11757645,"size":421670047,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:c7a2e7507547fc3e90ec40bfbcd0ea256e783fa2&amp;dn=The+Walking+Dead+S05E14+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":262,"leechers":29,"uploader":"beta2008x","files":1,"time":1426475089,"description":"The.Walking.Dead.S05E14.HDTV.x264-KILLERS\n\nDay: 2015-03-16\nResolution: 720x404\nSize: 402 MiB\nFrameRate: 23.976\nLength: 00:42:43.135\nBitrate: 1174 Kbps","torrent":{"xt":"urn:btih:c7a2e7507547fc3e90ec40bfbcd0ea256e783fa2","amp;dn":"The+Walking+Dead+S05E14+HDTV+x264-KILLERS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c7a2e7507547fc3e90ec40bfbcd0ea256e783fa2","infoHashBuffer":{"type":"Buffer","data":[199,162,231,80,117,71,252,62,144,236,64,191,188,208,234,37,110,120,63,162]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead S05E14 HDTV x264-KILLERS",
+  "uid": 11757645,
+  "size": 421670047,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:c7a2e7507547fc3e90ec40bfbcd0ea256e783fa2&amp;dn=The+Walking+Dead+S05E14+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 262,
+  "leechers": 29,
+  "uploader": "beta2008x",
+  "files": 1,
+  "time": 1426475089,
+  "description": "The.Walking.Dead.S05E14.HDTV.x264-KILLERS\n\nDay: 2015-03-16\nResolution: 720x404\nSize: 402 MiB\nFrameRate: 23.976\nLength: 00:42:43.135\nBitrate: 1174 Kbps",
+  "parsed": {
+    "xt": "urn:btih:c7a2e7507547fc3e90ec40bfbcd0ea256e783fa2",
+    "dn": "The Walking Dead S05E14 HDTV x264-KILLERS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c7a2e7507547fc3e90ec40bfbcd0ea256e783fa2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        199,
+        162,
+        231,
+        80,
+        117,
+        71,
+        252,
+        62,
+        144,
+        236,
+        64,
+        191,
+        188,
+        208,
+        234,
+        37,
+        110,
+        120,
+        63,
+        162
+      ]
+    },
+    "name": "The Walking Dead S05E14 HDTV x264-KILLERS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 291,
+  "peers": 41,
+  "last_updated": "2016-12-25T13:38:22.116Z"
+}

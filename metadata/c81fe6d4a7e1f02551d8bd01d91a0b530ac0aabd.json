@@ -1,1 +1,61 @@
-{"title":"A Song of Ice and Fire eBooks (Game of Thrones Books 1 - 5)","uid":7663893,"size":20622973,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:c81fe6d4a7e1f02551d8bd01d91a0b530ac0aabd&amp;dn=A+Song+of+Ice+and+Fire+eBooks+%28Game+of+Thrones+Books+1+-+5%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":244,"leechers":2,"uploader":"jesusman82","files":1,"time":1348384879,"description":"George R.R. Martin's 'Song of Ice and Fire' series as listed below: \n\n\nA Game of Thrones \nA Clash of Kings \nA Storm of Swords \nA Feast for Crows \nA Dance with Dragons \n\nRetail/Untouched eBooks (Only DRM Removed) \nEPUB &amp; MOBI Formats","torrent":{"xt":"urn:btih:c81fe6d4a7e1f02551d8bd01d91a0b530ac0aabd","amp;dn":"A+Song+of+Ice+and+Fire+eBooks+%28Game+of+Thrones+Books+1+-+5%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c81fe6d4a7e1f02551d8bd01d91a0b530ac0aabd","infoHashBuffer":{"type":"Buffer","data":[200,31,230,212,167,225,240,37,81,216,189,1,217,26,11,83,10,192,170,189]},"announce":[],"urlList":[]}}
+{
+  "title": "A Song of Ice and Fire eBooks (Game of Thrones Books 1 - 5)",
+  "uid": 7663893,
+  "size": 20622973,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:c81fe6d4a7e1f02551d8bd01d91a0b530ac0aabd&amp;dn=A+Song+of+Ice+and+Fire+eBooks+%28Game+of+Thrones+Books+1+-+5%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 244,
+  "leechers": 2,
+  "uploader": "jesusman82",
+  "files": 1,
+  "time": 1348384879,
+  "description": "George R.R. Martin's 'Song of Ice and Fire' series as listed below: \n\n\nA Game of Thrones \nA Clash of Kings \nA Storm of Swords \nA Feast for Crows \nA Dance with Dragons \n\nRetail/Untouched eBooks (Only DRM Removed) \nEPUB &amp; MOBI Formats",
+  "parsed": {
+    "xt": "urn:btih:c81fe6d4a7e1f02551d8bd01d91a0b530ac0aabd",
+    "dn": "A Song of Ice and Fire eBooks (Game of Thrones Books 1 - 5)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c81fe6d4a7e1f02551d8bd01d91a0b530ac0aabd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        200,
+        31,
+        230,
+        212,
+        167,
+        225,
+        240,
+        37,
+        81,
+        216,
+        189,
+        1,
+        217,
+        26,
+        11,
+        83,
+        10,
+        192,
+        170,
+        189
+      ]
+    },
+    "name": "A Song of Ice and Fire eBooks (Game of Thrones Books 1 - 5)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 246,
+  "peers": 50,
+  "last_updated": "2016-12-25T13:41:28.874Z"
+}

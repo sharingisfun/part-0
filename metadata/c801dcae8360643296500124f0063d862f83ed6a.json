@@ -1,1 +1,61 @@
-{"title":"The Good Wife S04 720p WEB-DL DD5.1 H.264-NFHD","uid":11201549,"size":32015479170,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:c801dcae8360643296500124f0063d862f83ed6a&amp;dn=The+Good+Wife+S04+720p+WEB-DL+DD5.1+H.264-NFHD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":69,"leechers":119,"uploader":"HolyRoses","files":22,"time":1413174207,"description":"good show.","torrent":{"xt":"urn:btih:c801dcae8360643296500124f0063d862f83ed6a","amp;dn":"The+Good+Wife+S04+720p+WEB-DL+DD5.1+H.264-NFHD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c801dcae8360643296500124f0063d862f83ed6a","infoHashBuffer":{"type":"Buffer","data":[200,1,220,174,131,96,100,50,150,80,1,36,240,6,61,134,47,131,237,106]},"announce":[],"urlList":[]}}
+{
+  "title": "The Good Wife S04 720p WEB-DL DD5.1 H.264-NFHD",
+  "uid": 11201549,
+  "size": 32015479170,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:c801dcae8360643296500124f0063d862f83ed6a&amp;dn=The+Good+Wife+S04+720p+WEB-DL+DD5.1+H.264-NFHD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 69,
+  "leechers": 119,
+  "uploader": "HolyRoses",
+  "files": 22,
+  "time": 1413174207,
+  "description": "good show.",
+  "parsed": {
+    "xt": "urn:btih:c801dcae8360643296500124f0063d862f83ed6a",
+    "dn": "The Good Wife S04 720p WEB-DL DD5.1 H.264-NFHD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c801dcae8360643296500124f0063d862f83ed6a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        200,
+        1,
+        220,
+        174,
+        131,
+        96,
+        100,
+        50,
+        150,
+        80,
+        1,
+        36,
+        240,
+        6,
+        61,
+        134,
+        47,
+        131,
+        237,
+        106
+      ]
+    },
+    "name": "The Good Wife S04 720p WEB-DL DD5.1 H.264-NFHD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 188,
+  "peers": 107,
+  "last_updated": "2016-12-25T13:40:32.654Z"
+}
