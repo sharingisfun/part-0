@@ -1,1 +1,61 @@
-{"title":"Black Sails S01E04 HDTV x264-KILLERS[ettv]","uid":9622283,"size":514932986,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:7df9332f36297a21f8ef859d11e9261abc471d39&amp;dn=Black+Sails+S01E04+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":5,"uploader":"ettv","files":2,"time":1392523797,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps","torrent":{"xt":"urn:btih:7df9332f36297a21f8ef859d11e9261abc471d39","amp;dn":"Black+Sails+S01E04+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7df9332f36297a21f8ef859d11e9261abc471d39","infoHashBuffer":{"type":"Buffer","data":[125,249,51,47,54,41,122,33,248,239,133,157,17,233,38,26,188,71,29,57]},"announce":[],"urlList":[]}}
+{
+  "title": "Black Sails S01E04 HDTV x264-KILLERS[ettv]",
+  "uid": 9622283,
+  "size": 514932986,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:7df9332f36297a21f8ef859d11e9261abc471d39&amp;dn=Black+Sails+S01E04+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1392523797,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:7df9332f36297a21f8ef859d11e9261abc471d39",
+    "dn": "Black Sails S01E04 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7df9332f36297a21f8ef859d11e9261abc471d39",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        125,
+        249,
+        51,
+        47,
+        54,
+        41,
+        122,
+        33,
+        248,
+        239,
+        133,
+        157,
+        17,
+        233,
+        38,
+        26,
+        188,
+        71,
+        29,
+        57
+      ]
+    },
+    "name": "Black Sails S01E04 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 6,
+  "last_updated": "2016-12-25T05:50:15.854Z"
+}

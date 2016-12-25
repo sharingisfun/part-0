@@ -1,1 +1,63 @@
-{"title":"Rosetta Stone TOTALe - v8.1.37 Build 43113 + Language Packs","uid":15914625,"size":26417592,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:7de46ea074e4b33f320f0d7460b1715e92c53ce2&amp;dn=Rosetta+Stone+TOTALe+-+v8.1.37+Build+43113+%2B+Language+Packs&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":30,"uploader":"gerardpmorris","files":3,"time":1475188701,"description":"very....good","torrent":{"xt":"urn:btih:7de46ea074e4b33f320f0d7460b1715e92c53ce2","amp;dn":"Rosetta+Stone+TOTALe+-+v8.1.37+Build+43113+%2B+Language+Packs","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7de46ea074e4b33f320f0d7460b1715e92c53ce2","infoHashBuffer":{"type":"Buffer","data":[125,228,110,160,116,228,179,63,50,15,13,116,96,177,113,94,146,197,60,226]},"announce":[],"urlList":[]}}
+{
+  "title": "Rosetta Stone TOTALe - v8.1.37 Build 43113 + Language Packs",
+  "uid": 15914625,
+  "size": 26417592,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:7de46ea074e4b33f320f0d7460b1715e92c53ce2&amp;dn=Rosetta+Stone+TOTALe+-+v8.1.37+Build+43113+%2B+Language+Packs&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 30,
+  "uploader": "gerardpmorris",
+  "files": 3,
+  "time": 1475188701,
+  "description": "very....good",
+  "parsed": {
+    "xt": "urn:btih:7de46ea074e4b33f320f0d7460b1715e92c53ce2",
+    "dn": "Rosetta Stone TOTALe - v8.1.37 Build 43113   Language Packs",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "7de46ea074e4b33f320f0d7460b1715e92c53ce2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        125,
+        228,
+        110,
+        160,
+        116,
+        228,
+        179,
+        63,
+        50,
+        15,
+        13,
+        116,
+        96,
+        177,
+        113,
+        94,
+        146,
+        197,
+        60,
+        226
+      ]
+    },
+    "name": "Rosetta Stone TOTALe - v8.1.37 Build 43113   Language Packs",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 1,
+  "last_updated": "2016-12-25T05:49:45.769Z"
+}

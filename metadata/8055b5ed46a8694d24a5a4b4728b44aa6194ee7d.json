@@ -1,1 +1,63 @@
-{"title":"DAEMON Tools Ultra 4.1.0.0489+Patch","uid":16035660,"size":30924387,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:8055b5ed46a8694d24a5a4b4728b44aa6194ee7d&amp;dn=DAEMON+Tools+Ultra+4.1.0.0489%2BPatch&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":158,"leechers":21,"uploader":"0Fallen173c","files":5,"time":1476480277,"description":"DAEMON Tools Ultra 4.1.0.0489+Patch","torrent":{"xt":"urn:btih:8055b5ed46a8694d24a5a4b4728b44aa6194ee7d","amp;dn":"DAEMON+Tools+Ultra+4.1.0.0489%2BPatch","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8055b5ed46a8694d24a5a4b4728b44aa6194ee7d","infoHashBuffer":{"type":"Buffer","data":[128,85,181,237,70,168,105,77,36,165,164,180,114,139,68,170,97,148,238,125]},"announce":[],"urlList":[]}}
+{
+  "title": "DAEMON Tools Ultra 4.1.0.0489+Patch",
+  "uid": 16035660,
+  "size": 30924387,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:8055b5ed46a8694d24a5a4b4728b44aa6194ee7d&amp;dn=DAEMON+Tools+Ultra+4.1.0.0489%2BPatch&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 158,
+  "leechers": 21,
+  "uploader": "0Fallen173c",
+  "files": 5,
+  "time": 1476480277,
+  "description": "DAEMON Tools Ultra 4.1.0.0489+Patch",
+  "parsed": {
+    "xt": "urn:btih:8055b5ed46a8694d24a5a4b4728b44aa6194ee7d",
+    "dn": "DAEMON Tools Ultra 4.1.0.0489 Patch",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "8055b5ed46a8694d24a5a4b4728b44aa6194ee7d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        128,
+        85,
+        181,
+        237,
+        70,
+        168,
+        105,
+        77,
+        36,
+        165,
+        164,
+        180,
+        114,
+        139,
+        68,
+        170,
+        97,
+        148,
+        238,
+        125
+      ]
+    },
+    "name": "DAEMON Tools Ultra 4.1.0.0489 Patch",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 179,
+  "peers": 2,
+  "last_updated": "2016-12-25T06:03:54.447Z"
+}

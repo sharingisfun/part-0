@@ -1,1 +1,63 @@
-{"title":"War Truck Simulator (2016) - PLAZA","uid":15964372,"size":11682529,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:7ec2dd4691c4d16361ef2025004003844918b06c&amp;dn=War+Truck+Simulator+%282016%29+-+PLAZA&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":99,"leechers":65,"uploader":"trwetwr","files":5,"time":1475708351,"description":"Good Game","torrent":{"xt":"urn:btih:7ec2dd4691c4d16361ef2025004003844918b06c","amp;dn":"War+Truck+Simulator+%282016%29+-+PLAZA","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7ec2dd4691c4d16361ef2025004003844918b06c","infoHashBuffer":{"type":"Buffer","data":[126,194,221,70,145,196,209,99,97,239,32,37,0,64,3,132,73,24,176,108]},"announce":[],"urlList":[]}}
+{
+  "title": "War Truck Simulator (2016) - PLAZA",
+  "uid": 15964372,
+  "size": 11682529,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:7ec2dd4691c4d16361ef2025004003844918b06c&amp;dn=War+Truck+Simulator+%282016%29+-+PLAZA&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 99,
+  "leechers": 65,
+  "uploader": "trwetwr",
+  "files": 5,
+  "time": 1475708351,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:7ec2dd4691c4d16361ef2025004003844918b06c",
+    "dn": "War Truck Simulator (2016) - PLAZA",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "7ec2dd4691c4d16361ef2025004003844918b06c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        126,
+        194,
+        221,
+        70,
+        145,
+        196,
+        209,
+        99,
+        97,
+        239,
+        32,
+        37,
+        0,
+        64,
+        3,
+        132,
+        73,
+        24,
+        176,
+        108
+      ]
+    },
+    "name": "War Truck Simulator (2016) - PLAZA",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 164,
+  "peers": 2,
+  "last_updated": "2016-12-25T05:55:00.676Z"
+}

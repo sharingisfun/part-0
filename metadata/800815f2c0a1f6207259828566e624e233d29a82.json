@@ -1,1 +1,61 @@
-{"title":"Shrek.2001.RUS.BDRip.XviD.AC3.-HQ-ViDEO","uid":10800695,"size":1563056128,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:800815f2c0a1f6207259828566e624e233d29a82&amp;dn=Shrek.2001.RUS.BDRip.XviD.AC3.-HQ-ViDEO&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":528,"leechers":17,"uploader":"ilove1994","files":1,"time":1408344606,"description":"Shrek 1  (2001) Russian BDRip please seed &amp; share thank you.","torrent":{"xt":"urn:btih:800815f2c0a1f6207259828566e624e233d29a82","amp;dn":"Shrek.2001.RUS.BDRip.XviD.AC3.-HQ-ViDEO","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"800815f2c0a1f6207259828566e624e233d29a82","infoHashBuffer":{"type":"Buffer","data":[128,8,21,242,192,161,246,32,114,89,130,133,102,230,36,226,51,210,154,130]},"announce":[],"urlList":[]}}
+{
+  "title": "Shrek.2001.RUS.BDRip.XviD.AC3.-HQ-ViDEO",
+  "uid": 10800695,
+  "size": 1563056128,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:800815f2c0a1f6207259828566e624e233d29a82&amp;dn=Shrek.2001.RUS.BDRip.XviD.AC3.-HQ-ViDEO&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 528,
+  "leechers": 17,
+  "uploader": "ilove1994",
+  "files": 1,
+  "time": 1408344606,
+  "description": "Shrek 1  (2001) Russian BDRip please seed &amp; share thank you.",
+  "parsed": {
+    "xt": "urn:btih:800815f2c0a1f6207259828566e624e233d29a82",
+    "dn": "Shrek.2001.RUS.BDRip.XviD.AC3.-HQ-ViDEO",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "800815f2c0a1f6207259828566e624e233d29a82",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        128,
+        8,
+        21,
+        242,
+        192,
+        161,
+        246,
+        32,
+        114,
+        89,
+        130,
+        133,
+        102,
+        230,
+        36,
+        226,
+        51,
+        210,
+        154,
+        130
+      ]
+    },
+    "name": "Shrek.2001.RUS.BDRip.XviD.AC3.-HQ-ViDEO",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 545,
+  "peers": 254,
+  "last_updated": "2016-12-25T06:02:22.090Z"
+}

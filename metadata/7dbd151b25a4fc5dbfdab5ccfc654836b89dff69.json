@@ -1,1 +1,61 @@
-{"title":"Dead.Rising.Watchtower.2015.WEBRip.XViD-ETRG","uid":11779941,"size":741817619,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:7dbd151b25a4fc5dbfdab5ccfc654836b89dff69&amp;dn=Dead.Rising.Watchtower.2015.WEBRip.XViD-ETRG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":171,"leechers":31,"uploader":"makintos13","files":5,"time":1427535790,"description":"screens:\n &lt;a href=&quot;\nhttp://i.imgur.com/DGIhocT.png&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/DGIhocT.png&lt;/a&gt;\n &lt;a href=&quot;\nhttp://i.imgur.com/bYV0RCE.png&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/bYV0RCE.png&lt;/a&gt;\n &lt;a href=&quot;\nhttp://i.imgur.com/mMOELgs.png&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/mMOELgs.png&lt;/a&gt;\n &lt;a href=&quot;\nhttp://i.imgur.com/ffRncN5.png&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/ffRncN5.png&lt;/a&gt;","torrent":{"xt":"urn:btih:7dbd151b25a4fc5dbfdab5ccfc654836b89dff69","amp;dn":"Dead.Rising.Watchtower.2015.WEBRip.XViD-ETRG","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7dbd151b25a4fc5dbfdab5ccfc654836b89dff69","infoHashBuffer":{"type":"Buffer","data":[125,189,21,27,37,164,252,93,191,218,181,204,252,101,72,54,184,157,255,105]},"announce":[],"urlList":[]}}
+{
+  "title": "Dead.Rising.Watchtower.2015.WEBRip.XViD-ETRG",
+  "uid": 11779941,
+  "size": 741817619,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:7dbd151b25a4fc5dbfdab5ccfc654836b89dff69&amp;dn=Dead.Rising.Watchtower.2015.WEBRip.XViD-ETRG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 171,
+  "leechers": 31,
+  "uploader": "makintos13",
+  "files": 5,
+  "time": 1427535790,
+  "description": "screens:\n &lt;a href=&quot;\nhttp://i.imgur.com/DGIhocT.png&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/DGIhocT.png&lt;/a&gt;\n &lt;a href=&quot;\nhttp://i.imgur.com/bYV0RCE.png&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/bYV0RCE.png&lt;/a&gt;\n &lt;a href=&quot;\nhttp://i.imgur.com/mMOELgs.png&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/mMOELgs.png&lt;/a&gt;\n &lt;a href=&quot;\nhttp://i.imgur.com/ffRncN5.png&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://i.imgur.com/ffRncN5.png&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:7dbd151b25a4fc5dbfdab5ccfc654836b89dff69",
+    "dn": "Dead.Rising.Watchtower.2015.WEBRip.XViD-ETRG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7dbd151b25a4fc5dbfdab5ccfc654836b89dff69",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        125,
+        189,
+        21,
+        27,
+        37,
+        164,
+        252,
+        93,
+        191,
+        218,
+        181,
+        204,
+        252,
+        101,
+        72,
+        54,
+        184,
+        157,
+        255,
+        105
+      ]
+    },
+    "name": "Dead.Rising.Watchtower.2015.WEBRip.XViD-ETRG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 202,
+  "peers": 36,
+  "last_updated": "2016-12-25T05:48:29.556Z"
+}

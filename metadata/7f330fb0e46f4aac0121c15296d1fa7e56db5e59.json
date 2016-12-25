@@ -1,1 +1,61 @@
-{"title":"The Antlers &amp;ndash; Familiars (2014) 320kbps","uid":9988072,"size":130118364,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:7f330fb0e46f4aac0121c15296d1fa7e56db5e59&amp;dn=The+Antlers+%26ndash%3B+Familiars+%282014%29+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":2,"uploader":"santicaz","files":9,"time":1397813310,"description":"Artist: The Antlers\nTitle Of Album: Familiars\nYear Of Release: 2014\nGenre: Indie Rock\nQuality: mp3\nBitrate: 320Kbps\nTotal Time: 53:26\nTotal Size: 124 Mb\n\nTracklist:\n\n01 Ã¢â‚¬â€œ Palace\n02 Ã¢â‚¬â€œ Doppelganger\n03 Ã¢â‚¬â€œ Hotel\n04 Ã¢â‚¬â€œ Intruders\n05 Ã¢â‚¬â€œ Director\n06 Ã¢â‚¬â€œ Revisited\n07 Ã¢â‚¬â€œ Parade\n08 Ã¢â‚¬â€œ Surrender\n09 Ã¢â‚¬â€œ Refuge","torrent":{"xt":"urn:btih:7f330fb0e46f4aac0121c15296d1fa7e56db5e59","amp;dn":"The+Antlers+%26ndash%3B+Familiars+%282014%29+320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7f330fb0e46f4aac0121c15296d1fa7e56db5e59","infoHashBuffer":{"type":"Buffer","data":[127,51,15,176,228,111,74,172,1,33,193,82,150,209,250,126,86,219,94,89]},"announce":[],"urlList":[]}}
+{
+  "title": "The Antlers &amp;ndash; Familiars (2014) 320kbps",
+  "uid": 9988072,
+  "size": 130118364,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:7f330fb0e46f4aac0121c15296d1fa7e56db5e59&amp;dn=The+Antlers+%26ndash%3B+Familiars+%282014%29+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 2,
+  "uploader": "santicaz",
+  "files": 9,
+  "time": 1397813310,
+  "description": "Artist: The Antlers\nTitle Of Album: Familiars\nYear Of Release: 2014\nGenre: Indie Rock\nQuality: mp3\nBitrate: 320Kbps\nTotal Time: 53:26\nTotal Size: 124 Mb\n\nTracklist:\n\n01 Ã¢â‚¬â€œ Palace\n02 Ã¢â‚¬â€œ Doppelganger\n03 Ã¢â‚¬â€œ Hotel\n04 Ã¢â‚¬â€œ Intruders\n05 Ã¢â‚¬â€œ Director\n06 Ã¢â‚¬â€œ Revisited\n07 Ã¢â‚¬â€œ Parade\n08 Ã¢â‚¬â€œ Surrender\n09 Ã¢â‚¬â€œ Refuge",
+  "parsed": {
+    "xt": "urn:btih:7f330fb0e46f4aac0121c15296d1fa7e56db5e59",
+    "dn": "The Antlers &ndash; Familiars (2014) 320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7f330fb0e46f4aac0121c15296d1fa7e56db5e59",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        127,
+        51,
+        15,
+        176,
+        228,
+        111,
+        74,
+        172,
+        1,
+        33,
+        193,
+        82,
+        150,
+        209,
+        250,
+        126,
+        86,
+        219,
+        94,
+        89
+      ]
+    },
+    "name": "The Antlers &ndash; Familiars (2014) 320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 72,
+  "peers": 15,
+  "last_updated": "2016-12-25T05:57:31.100Z"
+}

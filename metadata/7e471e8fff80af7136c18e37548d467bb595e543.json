@@ -1,1 +1,63 @@
-{"title":"Howard Stern Show AUG 17 2016 Wed","uid":15587744,"size":258039693,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:7e471e8fff80af7136c18e37548d467bb595e543&amp;dn=Howard+Stern+Show+AUG+17+2016+Wed&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":2,"uploader":"mc_gregor","files":3,"time":1471482531,"description":"The Howard Stern Show (+ The Wrap-Up Show)\r\n2016-08-17 - LIVE\r\n\r\nRemembering John McLaughlin And Star Trek. 08/17/16. 7:00am\r\nRio Olympics Discussions. 08/17/16. 7:10am\r\nGary Caught Watching Porn. 08/17/16. 7:25am\r\nHigh Pitch Erik Pet Update. 08/17/16. 7:35am\r\nPhony Arnold Schwarzenegger Calls In. 08/17/16. 7:50am\r\nHoward Takes Some Calls. 08/17/16. 8:05am\r\nMarfan Mike - In Or Out Of The Wack Pack? 08/17/16. 8:30am\r\nJonah Hill Visits. 08/17/16. 9:00am\r\nRobin's News. 08/17/16. 10:20am","torrent":{"xt":"urn:btih:7e471e8fff80af7136c18e37548d467bb595e543","amp;dn":"Howard+Stern+Show+AUG+17+2016+Wed","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7e471e8fff80af7136c18e37548d467bb595e543","infoHashBuffer":{"type":"Buffer","data":[126,71,30,143,255,128,175,113,54,193,142,55,84,141,70,123,181,149,229,67]},"announce":[],"urlList":[]}}
+{
+  "title": "Howard Stern Show AUG 17 2016 Wed",
+  "uid": 15587744,
+  "size": 258039693,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:7e471e8fff80af7136c18e37548d467bb595e543&amp;dn=Howard+Stern+Show+AUG+17+2016+Wed&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 2,
+  "uploader": "mc_gregor",
+  "files": 3,
+  "time": 1471482531,
+  "description": "The Howard Stern Show (+ The Wrap-Up Show)\r\n2016-08-17 - LIVE\r\n\r\nRemembering John McLaughlin And Star Trek. 08/17/16. 7:00am\r\nRio Olympics Discussions. 08/17/16. 7:10am\r\nGary Caught Watching Porn. 08/17/16. 7:25am\r\nHigh Pitch Erik Pet Update. 08/17/16. 7:35am\r\nPhony Arnold Schwarzenegger Calls In. 08/17/16. 7:50am\r\nHoward Takes Some Calls. 08/17/16. 8:05am\r\nMarfan Mike - In Or Out Of The Wack Pack? 08/17/16. 8:30am\r\nJonah Hill Visits. 08/17/16. 9:00am\r\nRobin's News. 08/17/16. 10:20am",
+  "parsed": {
+    "xt": "urn:btih:7e471e8fff80af7136c18e37548d467bb595e543",
+    "dn": "Howard Stern Show AUG 17 2016 Wed",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "7e471e8fff80af7136c18e37548d467bb595e543",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        126,
+        71,
+        30,
+        143,
+        255,
+        128,
+        175,
+        113,
+        54,
+        193,
+        142,
+        55,
+        84,
+        141,
+        70,
+        123,
+        181,
+        149,
+        229,
+        67
+      ]
+    },
+    "name": "Howard Stern Show AUG 17 2016 Wed",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 16,
+  "last_updated": "2016-12-25T05:51:42.108Z"
+}

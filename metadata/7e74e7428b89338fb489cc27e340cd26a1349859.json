@@ -1,1 +1,61 @@
-{"title":"Disclosure - Latch [iTunes] (2012-Single) [STumPZ-ReleaSe]","uid":7929514,"size":10446509,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:7e74e7428b89338fb489cc27e340cd26a1349859&amp;dn=+Disclosure+-+Latch+%5BiTunes%5D+%282012-Single%29+%5BSTumPZ-ReleaSe%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":31,"uploader":"stumpie1971","files":-1,"time":1355682971,"description":"Quality 320kbps [iTunes]\n\nArtist: Disclosure\n\nTrack: Latch\n\nRelease Date: 2012\n\nGenre: Electronic\n\n\n[STumPZ-ReleaSe]","torrent":{"xt":"urn:btih:7e74e7428b89338fb489cc27e340cd26a1349859","amp;dn":"+Disclosure+-+Latch+%5BiTunes%5D+%282012-Single%29+%5BSTumPZ-ReleaSe%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"7e74e7428b89338fb489cc27e340cd26a1349859","infoHashBuffer":{"type":"Buffer","data":[126,116,231,66,139,137,51,143,180,137,204,39,227,64,205,38,161,52,152,89]},"announce":[],"urlList":[]}}
+{
+  "title": "Disclosure - Latch [iTunes] (2012-Single) [STumPZ-ReleaSe]",
+  "uid": 7929514,
+  "size": 10446509,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:7e74e7428b89338fb489cc27e340cd26a1349859&amp;dn=+Disclosure+-+Latch+%5BiTunes%5D+%282012-Single%29+%5BSTumPZ-ReleaSe%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 31,
+  "uploader": "stumpie1971",
+  "files": -1,
+  "time": 1355682971,
+  "description": "Quality 320kbps [iTunes]\n\nArtist: Disclosure\n\nTrack: Latch\n\nRelease Date: 2012\n\nGenre: Electronic\n\n\n[STumPZ-ReleaSe]",
+  "parsed": {
+    "xt": "urn:btih:7e74e7428b89338fb489cc27e340cd26a1349859",
+    "dn": " Disclosure - Latch [iTunes] (2012-Single) [STumPZ-ReleaSe]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "7e74e7428b89338fb489cc27e340cd26a1349859",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        126,
+        116,
+        231,
+        66,
+        139,
+        137,
+        51,
+        143,
+        180,
+        137,
+        204,
+        39,
+        227,
+        64,
+        205,
+        38,
+        161,
+        52,
+        152,
+        89
+      ]
+    },
+    "name": " Disclosure - Latch [iTunes] (2012-Single) [STumPZ-ReleaSe]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 103,
+  "peers": 19,
+  "last_updated": "2016-12-25T05:53:06.344Z"
+}

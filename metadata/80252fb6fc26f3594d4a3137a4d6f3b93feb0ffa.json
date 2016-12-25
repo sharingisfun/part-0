@@ -1,1 +1,63 @@
-{"title":"Chicago.Med.S02E02.HDTV.x264-FLEET","uid":15912432,"size":307979014,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:80252fb6fc26f3594d4a3137a4d6f3b93feb0ffa&amp;dn=Chicago.Med.S02E02.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":145,"leechers":40,"uploader":"TvTeam","files":4,"time":1475123675,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:80252fb6fc26f3594d4a3137a4d6f3b93feb0ffa","amp;dn":"Chicago.Med.S02E02.HDTV.x264-FLEET","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"80252fb6fc26f3594d4a3137a4d6f3b93feb0ffa","infoHashBuffer":{"type":"Buffer","data":[128,37,47,182,252,38,243,89,77,74,49,55,164,214,243,185,63,235,15,250]},"announce":[],"urlList":[]}}
+{
+  "title": "Chicago.Med.S02E02.HDTV.x264-FLEET",
+  "uid": 15912432,
+  "size": 307979014,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:80252fb6fc26f3594d4a3137a4d6f3b93feb0ffa&amp;dn=Chicago.Med.S02E02.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 145,
+  "leechers": 40,
+  "uploader": "TvTeam",
+  "files": 4,
+  "time": 1475123675,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:80252fb6fc26f3594d4a3137a4d6f3b93feb0ffa",
+    "dn": "Chicago.Med.S02E02.HDTV.x264-FLEET",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "80252fb6fc26f3594d4a3137a4d6f3b93feb0ffa",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        128,
+        37,
+        47,
+        182,
+        252,
+        38,
+        243,
+        89,
+        77,
+        74,
+        49,
+        55,
+        164,
+        214,
+        243,
+        185,
+        63,
+        235,
+        15,
+        250
+      ]
+    },
+    "name": "Chicago.Med.S02E02.HDTV.x264-FLEET",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 185,
+  "peers": 44,
+  "last_updated": "2016-12-25T06:02:50.198Z"
+}
