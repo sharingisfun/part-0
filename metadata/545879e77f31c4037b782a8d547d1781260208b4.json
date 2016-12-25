@@ -1,1 +1,61 @@
-{"title":"Blindspot-Pilot HDTV XviD-FUM[ettv]","uid":12213985,"size":364780351,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:545879e77f31c4037b782a8d547d1781260208b4&amp;dn=Blindspot-Pilot+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":127,"leechers":8,"uploader":"ettv","files":2,"time":1439194939,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:545879e77f31c4037b782a8d547d1781260208b4","amp;dn":"Blindspot-Pilot+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"545879e77f31c4037b782a8d547d1781260208b4","infoHashBuffer":{"type":"Buffer","data":[84,88,121,231,127,49,196,3,123,120,42,141,84,125,23,129,38,2,8,180]},"announce":[],"urlList":[]}}
+{
+  "title": "Blindspot-Pilot HDTV XviD-FUM[ettv]",
+  "uid": 12213985,
+  "size": 364780351,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:545879e77f31c4037b782a8d547d1781260208b4&amp;dn=Blindspot-Pilot+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 127,
+  "leechers": 8,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1439194939,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:545879e77f31c4037b782a8d547d1781260208b4",
+    "dn": "Blindspot-Pilot HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "545879e77f31c4037b782a8d547d1781260208b4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        84,
+        88,
+        121,
+        231,
+        127,
+        49,
+        196,
+        3,
+        123,
+        120,
+        42,
+        141,
+        84,
+        125,
+        23,
+        129,
+        38,
+        2,
+        8,
+        180
+      ]
+    },
+    "name": "Blindspot-Pilot HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 135,
+  "peers": 3,
+  "last_updated": "2016-12-25T01:20:19.839Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Guitar Hero III (3) PC","uid":5310380,"size":3429087232,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:55300811f54bf5a7dbd1ad026135aac656c691bf&amp;dn=Guitar+Hero+III+%283%29+PC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":13,"uploader":"zanko14","files":1,"time":1264540140,"description":"This is my first torrent..hope u like it. :D\n\nIts Guitar Hero 3 for PC.","torrent":{"xt":"urn:btih:55300811f54bf5a7dbd1ad026135aac656c691bf","amp;dn":"Guitar+Hero+III+%283%29+PC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"55300811f54bf5a7dbd1ad026135aac656c691bf","infoHashBuffer":{"type":"Buffer","data":[85,48,8,17,245,75,245,167,219,209,173,2,97,53,170,198,86,198,145,191]},"announce":[],"urlList":[]}}
+{
+  "title": "Guitar Hero III (3) PC",
+  "uid": 5310380,
+  "size": 3429087232,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:55300811f54bf5a7dbd1ad026135aac656c691bf&amp;dn=Guitar+Hero+III+%283%29+PC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 13,
+  "uploader": "zanko14",
+  "files": 1,
+  "time": 1264540140,
+  "description": "This is my first torrent..hope u like it. :D\n\nIts Guitar Hero 3 for PC.",
+  "parsed": {
+    "xt": "urn:btih:55300811f54bf5a7dbd1ad026135aac656c691bf",
+    "dn": "Guitar Hero III (3) PC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "55300811f54bf5a7dbd1ad026135aac656c691bf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        85,
+        48,
+        8,
+        17,
+        245,
+        75,
+        245,
+        167,
+        219,
+        209,
+        173,
+        2,
+        97,
+        53,
+        170,
+        198,
+        86,
+        198,
+        145,
+        191
+      ]
+    },
+    "name": "Guitar Hero III (3) PC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 100,
+  "peers": 4,
+  "last_updated": "2016-12-25T01:26:05.123Z"
+}

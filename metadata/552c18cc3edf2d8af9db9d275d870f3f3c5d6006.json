@@ -1,1 +1,61 @@
-{"title":"Windows 8.1 Professional VL PT BR Original MSDN","uid":9131913,"size":3851034624,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:552c18cc3edf2d8af9db9d275d870f3f3c5d6006&amp;dn=Windows+8.1+Professional+VL+PT+BR+Original+MSDN&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":122,"leechers":17,"uploader":"PEERBLOCK","files":1,"time":1383336784,"description":"Windows 8.1 Professional VL PT BR Original MSDN\n\n(Portuguese-Brazil DVD)\n\n'pt_windows_8_1_pro_vl_x64_dvd_2972028.iso'","torrent":{"xt":"urn:btih:552c18cc3edf2d8af9db9d275d870f3f3c5d6006","amp;dn":"Windows+8.1+Professional+VL+PT+BR+Original+MSDN","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"552c18cc3edf2d8af9db9d275d870f3f3c5d6006","infoHashBuffer":{"type":"Buffer","data":[85,44,24,204,62,223,45,138,249,219,157,39,93,135,15,63,60,93,96,6]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows 8.1 Professional VL PT BR Original MSDN",
+  "uid": 9131913,
+  "size": 3851034624,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:552c18cc3edf2d8af9db9d275d870f3f3c5d6006&amp;dn=Windows+8.1+Professional+VL+PT+BR+Original+MSDN&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 122,
+  "leechers": 17,
+  "uploader": "PEERBLOCK",
+  "files": 1,
+  "time": 1383336784,
+  "description": "Windows 8.1 Professional VL PT BR Original MSDN\n\n(Portuguese-Brazil DVD)\n\n'pt_windows_8_1_pro_vl_x64_dvd_2972028.iso'",
+  "parsed": {
+    "xt": "urn:btih:552c18cc3edf2d8af9db9d275d870f3f3c5d6006",
+    "dn": "Windows 8.1 Professional VL PT BR Original MSDN",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "552c18cc3edf2d8af9db9d275d870f3f3c5d6006",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        85,
+        44,
+        24,
+        204,
+        62,
+        223,
+        45,
+        138,
+        249,
+        219,
+        157,
+        39,
+        93,
+        135,
+        15,
+        63,
+        60,
+        93,
+        96,
+        6
+      ]
+    },
+    "name": "Windows 8.1 Professional VL PT BR Original MSDN",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 139,
+  "peers": 2,
+  "last_updated": "2016-12-25T01:25:51.083Z"
+}

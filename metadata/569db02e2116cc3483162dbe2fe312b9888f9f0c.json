@@ -1,1 +1,63 @@
-{"title":"Frank Ocean - Visual Album - Endless (2016)","uid":15597513,"size":165109900,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:569db02e2116cc3483162dbe2fe312b9888f9f0c&amp;dn=Frank+Ocean+-+Visual+Album+-+Endless+%282016%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":391,"leechers":3,"uploader":"twozdae","files":1,"time":1471592406,"description":"Frank Ocean's Visual Album Endless released 19/08/2016 saved as an MP4\r\n(Not my rip, simply redistributing)\r\n \nhttps://itunes.apple.com/us/music-video/endless/id1143705097","torrent":{"xt":"urn:btih:569db02e2116cc3483162dbe2fe312b9888f9f0c","amp;dn":"Frank+Ocean+-+Visual+Album+-+Endless+%282016%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"569db02e2116cc3483162dbe2fe312b9888f9f0c","infoHashBuffer":{"type":"Buffer","data":[86,157,176,46,33,22,204,52,131,22,45,190,47,227,18,185,136,143,159,12]},"announce":[],"urlList":[]}}
+{
+  "title": "Frank Ocean - Visual Album - Endless (2016)",
+  "uid": 15597513,
+  "size": 165109900,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:569db02e2116cc3483162dbe2fe312b9888f9f0c&amp;dn=Frank+Ocean+-+Visual+Album+-+Endless+%282016%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 391,
+  "leechers": 3,
+  "uploader": "twozdae",
+  "files": 1,
+  "time": 1471592406,
+  "description": "Frank Ocean's Visual Album Endless released 19/08/2016 saved as an MP4\r\n(Not my rip, simply redistributing)\r\n \nhttps://itunes.apple.com/us/music-video/endless/id1143705097",
+  "parsed": {
+    "xt": "urn:btih:569db02e2116cc3483162dbe2fe312b9888f9f0c",
+    "dn": "Frank Ocean - Visual Album - Endless (2016)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "569db02e2116cc3483162dbe2fe312b9888f9f0c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        86,
+        157,
+        176,
+        46,
+        33,
+        22,
+        204,
+        52,
+        131,
+        22,
+        45,
+        190,
+        47,
+        227,
+        18,
+        185,
+        136,
+        143,
+        159,
+        12
+      ]
+    },
+    "name": "Frank Ocean - Visual Album - Endless (2016)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 394,
+  "peers": 154,
+  "last_updated": "2016-12-25T01:35:20.716Z"
+}

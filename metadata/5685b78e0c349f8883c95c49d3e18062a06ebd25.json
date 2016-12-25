@@ -1,1 +1,61 @@
-{"title":"Scandal S04E07 HDTV x264-LOL[ettv]","uid":11391486,"size":241341856,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:5685b78e0c349f8883c95c49d3e18062a06ebd25&amp;dn=Scandal+S04E07+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":1,"uploader":"ettv","files":2,"time":1415332704,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:5685b78e0c349f8883c95c49d3e18062a06ebd25","amp;dn":"Scandal+S04E07+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5685b78e0c349f8883c95c49d3e18062a06ebd25","infoHashBuffer":{"type":"Buffer","data":[86,133,183,142,12,52,159,136,131,201,92,73,211,225,128,98,160,110,189,37]},"announce":[],"urlList":[]}}
+{
+  "title": "Scandal S04E07 HDTV x264-LOL[ettv]",
+  "uid": 11391486,
+  "size": 241341856,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:5685b78e0c349f8883c95c49d3e18062a06ebd25&amp;dn=Scandal+S04E07+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 1,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1415332704,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:5685b78e0c349f8883c95c49d3e18062a06ebd25",
+    "dn": "Scandal S04E07 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5685b78e0c349f8883c95c49d3e18062a06ebd25",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        86,
+        133,
+        183,
+        142,
+        12,
+        52,
+        159,
+        136,
+        131,
+        201,
+        92,
+        73,
+        211,
+        225,
+        128,
+        98,
+        160,
+        110,
+        189,
+        37
+      ]
+    },
+    "name": "Scandal S04E07 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 20,
+  "last_updated": "2016-12-25T01:34:44.619Z"
+}

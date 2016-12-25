@@ -1,1 +1,61 @@
-{"title":"The Rocky Horror Picture Show","uid":3293239,"size":711880704,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:55dbbbdc9925ed0130aa139fece7d4de621d9898&amp;dn=The+Rocky+Horror+Picture+Show&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":1,"uploader":"mank-x","files":1,"time":1109014778,"description":"Title: The Rocky Horror Picture Show\nYear: 1975\nDirected by: Jim Sharman\nGenre: Comedy / Horror / Musical / Sci-Fi\nSize: 678.9 MB\nFormat: dvdrip.divx.avi\nResolution: 640 x 352\nDuration: 1:35:59\nDescription: ]After Janet accepts Brad's marriage proposal, the happy couple drive away from Denton, Ohio, only to get lost in the rain. They stumble upon the castle of Dr. Frank-N-Furter, a transvestite who is holding the annual convention of visitors from the planet Transsexual. Frank-N-Furter unveils his creation, a young man named Rocky Horror, who fears the doctor and rejects his sexual advances. When Frank-N-Furter announces that he is returning to the galaxy Transylvania, Riff Raff the butler and Magenta the maid declare that they have plans of their own.","torrent":{"xt":"urn:btih:55dbbbdc9925ed0130aa139fece7d4de621d9898","amp;dn":"The+Rocky+Horror+Picture+Show","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"55dbbbdc9925ed0130aa139fece7d4de621d9898","infoHashBuffer":{"type":"Buffer","data":[85,219,187,220,153,37,237,1,48,170,19,159,236,231,212,222,98,29,152,152]},"announce":[],"urlList":[]}}
+{
+  "title": "The Rocky Horror Picture Show",
+  "uid": 3293239,
+  "size": 711880704,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:55dbbbdc9925ed0130aa139fece7d4de621d9898&amp;dn=The+Rocky+Horror+Picture+Show&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 1,
+  "uploader": "mank-x",
+  "files": 1,
+  "time": 1109014778,
+  "description": "Title: The Rocky Horror Picture Show\nYear: 1975\nDirected by: Jim Sharman\nGenre: Comedy / Horror / Musical / Sci-Fi\nSize: 678.9 MB\nFormat: dvdrip.divx.avi\nResolution: 640 x 352\nDuration: 1:35:59\nDescription: ]After Janet accepts Brad's marriage proposal, the happy couple drive away from Denton, Ohio, only to get lost in the rain. They stumble upon the castle of Dr. Frank-N-Furter, a transvestite who is holding the annual convention of visitors from the planet Transsexual. Frank-N-Furter unveils his creation, a young man named Rocky Horror, who fears the doctor and rejects his sexual advances. When Frank-N-Furter announces that he is returning to the galaxy Transylvania, Riff Raff the butler and Magenta the maid declare that they have plans of their own.",
+  "parsed": {
+    "xt": "urn:btih:55dbbbdc9925ed0130aa139fece7d4de621d9898",
+    "dn": "The Rocky Horror Picture Show",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "55dbbbdc9925ed0130aa139fece7d4de621d9898",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        85,
+        219,
+        187,
+        220,
+        153,
+        37,
+        237,
+        1,
+        48,
+        170,
+        19,
+        159,
+        236,
+        231,
+        212,
+        222,
+        98,
+        29,
+        152,
+        152
+      ]
+    },
+    "name": "The Rocky Horror Picture Show",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 8,
+  "last_updated": "2016-12-25T01:30:09.873Z"
+}

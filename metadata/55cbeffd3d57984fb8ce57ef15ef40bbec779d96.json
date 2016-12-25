@@ -1,1 +1,61 @@
-{"title":"Deadmau5 Discography (2013)","uid":8799652,"size":3308649836,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:55cbeffd3d57984fb8ce57ef15ef40bbec779d96&amp;dn=Deadmau5+Discography+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":13,"uploader":"mindcrasher","files":-1,"time":1376165917,"description":"this is my torrent with deadmau5 I hope you guys like it I wanted to make a updated deadmau5 collection, and I did just for every pirate that likes deadmau5 and hard core beats.\n\n","torrent":{"xt":"urn:btih:55cbeffd3d57984fb8ce57ef15ef40bbec779d96","amp;dn":"Deadmau5+Discography+%282013%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"55cbeffd3d57984fb8ce57ef15ef40bbec779d96","infoHashBuffer":{"type":"Buffer","data":[85,203,239,253,61,87,152,79,184,206,87,239,21,239,64,187,236,119,157,150]},"announce":[],"urlList":[]}}
+{
+  "title": "Deadmau5 Discography (2013)",
+  "uid": 8799652,
+  "size": 3308649836,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:55cbeffd3d57984fb8ce57ef15ef40bbec779d96&amp;dn=Deadmau5+Discography+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 13,
+  "uploader": "mindcrasher",
+  "files": -1,
+  "time": 1376165917,
+  "description": "this is my torrent with deadmau5 I hope you guys like it I wanted to make a updated deadmau5 collection, and I did just for every pirate that likes deadmau5 and hard core beats.\n\n",
+  "parsed": {
+    "xt": "urn:btih:55cbeffd3d57984fb8ce57ef15ef40bbec779d96",
+    "dn": "Deadmau5 Discography (2013)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "55cbeffd3d57984fb8ce57ef15ef40bbec779d96",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        85,
+        203,
+        239,
+        253,
+        61,
+        87,
+        152,
+        79,
+        184,
+        206,
+        87,
+        239,
+        21,
+        239,
+        64,
+        187,
+        236,
+        119,
+        157,
+        150
+      ]
+    },
+    "name": "Deadmau5 Discography (2013)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 37,
+  "last_updated": "2016-12-25T01:29:41.806Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Helvetica Typeface Family","uid":4680874,"size":10629040,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:5554aedc55a80366b8f8f1e7cc1ac92c34cf9c43&amp;dn=Helvetica+Typeface+Family&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":1,"uploader":"frame08","files":83,"time":1233069929,"description":"Helvetica, Helvetica Neue &amp; Helvetica World\n\nenjoy!","torrent":{"xt":"urn:btih:5554aedc55a80366b8f8f1e7cc1ac92c34cf9c43","amp;dn":"Helvetica+Typeface+Family","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5554aedc55a80366b8f8f1e7cc1ac92c34cf9c43","infoHashBuffer":{"type":"Buffer","data":[85,84,174,220,85,168,3,102,184,248,241,231,204,26,201,44,52,207,156,67]},"announce":[],"urlList":[]}}
+{
+  "title": "Helvetica Typeface Family",
+  "uid": 4680874,
+  "size": 10629040,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:5554aedc55a80366b8f8f1e7cc1ac92c34cf9c43&amp;dn=Helvetica+Typeface+Family&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 1,
+  "uploader": "frame08",
+  "files": 83,
+  "time": 1233069929,
+  "description": "Helvetica, Helvetica Neue &amp; Helvetica World\n\nenjoy!",
+  "parsed": {
+    "xt": "urn:btih:5554aedc55a80366b8f8f1e7cc1ac92c34cf9c43",
+    "dn": "Helvetica Typeface Family",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5554aedc55a80366b8f8f1e7cc1ac92c34cf9c43",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        85,
+        84,
+        174,
+        220,
+        85,
+        168,
+        3,
+        102,
+        184,
+        248,
+        241,
+        231,
+        204,
+        26,
+        201,
+        44,
+        52,
+        207,
+        156,
+        67
+      ]
+    },
+    "name": "Helvetica Typeface Family",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 42,
+  "last_updated": "2016-12-25T01:26:49.263Z"
+}

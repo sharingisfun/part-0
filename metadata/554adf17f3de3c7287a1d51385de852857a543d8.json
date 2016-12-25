@@ -1,1 +1,61 @@
-{"title":"VSO ConvertXtoDVD 5.1.0.12 Final","uid":9506891,"size":31830526,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:554adf17f3de3c7287a1d51385de852857a543d8&amp;dn=VSO+ConvertXtoDVD+5.1.0.12+Final&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":1,"uploader":"nikita200","files":-1,"time":1390331241,"description":"ConvertXtoDVD, video conversion software, you can convert and burn all your videos and convert Avi to DVD! Backup and transfer your movies to DVD and enjoy watching them on any home DVD player. All in one conversion and burning software. This award-winning divx to dvd video converter software supports most video and audio formats for video conversion (avi, mpg, mov, wmv, mkv, ogm and more) and even handles DVD to DVD copy! Backup and transfer your movies to DVD and enjoy watching them on any home DVD player.\n\nOperating Systems: Windows XP, Vista, Windows 7, Windows 8, Windows 8.1 (32-bit &amp; 64-bit).\n\nChanges in ConvertXtoDVD 5.1.0.11 (Released 2014-01-16):\n - 0007484: [Bug] conversion failed (cedric) Ã¢â‚¬â€œ resolved.\n - 0007482: [Suggestion] only ejects when you press ok on dialogue after successful burn (cedric) Ã¢â‚¬â€œ resolved.\n - 0006880: [Feature Request] Restore Output and Image Setting info lines in log (cedric) Ã¢â‚¬â€œ resolved.\n - 0007296: [Bug] Source folder not deleted after burn process even if option is enabled (cedric) Ã¢â‚¬â€œ resolved.\n - 0007438: [Bug] Ã¢â‚¬Ëœdo not convert dts to ac-3Ã¢â‚¬Â² setting not respected (cedric) Ã¢â‚¬â€œ resolved.\n - 0007447: [Bug] 2 pass conversions do not work and 2pass does not appear in log (cedric) Ã¢â‚¬â€œ resolved.\n - 0007461: [Information] unnecessary parenthesis in log file (cedric) Ã¢â‚¬â€œ resolved.\n - 0007437: [Bug] output folder created in default location instead of custom working folder set by user (cedric) Ã¢â‚¬â€œ resolved.\n - 0007385: [Bug] problems in Output tab (cedric) Ã¢â‚¬â€œ resolved.\n - 0007478: [Suggestion] change default shadow color of subtitles to black (cedric) Ã¢â‚¬â€œ resolved\n\nInterface: Multilang\n\nHome Page www.vso-software.fr","torrent":{"xt":"urn:btih:554adf17f3de3c7287a1d51385de852857a543d8","amp;dn":"VSO+ConvertXtoDVD+5.1.0.12+Final","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"554adf17f3de3c7287a1d51385de852857a543d8","infoHashBuffer":{"type":"Buffer","data":[85,74,223,23,243,222,60,114,135,161,213,19,133,222,133,40,87,165,67,216]},"announce":[],"urlList":[]}}
+{
+  "title": "VSO ConvertXtoDVD 5.1.0.12 Final",
+  "uid": 9506891,
+  "size": 31830526,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:554adf17f3de3c7287a1d51385de852857a543d8&amp;dn=VSO+ConvertXtoDVD+5.1.0.12+Final&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 1,
+  "uploader": "nikita200",
+  "files": -1,
+  "time": 1390331241,
+  "description": "ConvertXtoDVD, video conversion software, you can convert and burn all your videos and convert Avi to DVD! Backup and transfer your movies to DVD and enjoy watching them on any home DVD player. All in one conversion and burning software. This award-winning divx to dvd video converter software supports most video and audio formats for video conversion (avi, mpg, mov, wmv, mkv, ogm and more) and even handles DVD to DVD copy! Backup and transfer your movies to DVD and enjoy watching them on any home DVD player.\n\nOperating Systems: Windows XP, Vista, Windows 7, Windows 8, Windows 8.1 (32-bit &amp; 64-bit).\n\nChanges in ConvertXtoDVD 5.1.0.11 (Released 2014-01-16):\n - 0007484: [Bug] conversion failed (cedric) Ã¢â‚¬â€œ resolved.\n - 0007482: [Suggestion] only ejects when you press ok on dialogue after successful burn (cedric) Ã¢â‚¬â€œ resolved.\n - 0006880: [Feature Request] Restore Output and Image Setting info lines in log (cedric) Ã¢â‚¬â€œ resolved.\n - 0007296: [Bug] Source folder not deleted after burn process even if option is enabled (cedric) Ã¢â‚¬â€œ resolved.\n - 0007438: [Bug] Ã¢â‚¬Ëœdo not convert dts to ac-3Ã¢â‚¬Â² setting not respected (cedric) Ã¢â‚¬â€œ resolved.\n - 0007447: [Bug] 2 pass conversions do not work and 2pass does not appear in log (cedric) Ã¢â‚¬â€œ resolved.\n - 0007461: [Information] unnecessary parenthesis in log file (cedric) Ã¢â‚¬â€œ resolved.\n - 0007437: [Bug] output folder created in default location instead of custom working folder set by user (cedric) Ã¢â‚¬â€œ resolved.\n - 0007385: [Bug] problems in Output tab (cedric) Ã¢â‚¬â€œ resolved.\n - 0007478: [Suggestion] change default shadow color of subtitles to black (cedric) Ã¢â‚¬â€œ resolved\n\nInterface: Multilang\n\nHome Page www.vso-software.fr",
+  "parsed": {
+    "xt": "urn:btih:554adf17f3de3c7287a1d51385de852857a543d8",
+    "dn": "VSO ConvertXtoDVD 5.1.0.12 Final",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "554adf17f3de3c7287a1d51385de852857a543d8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        85,
+        74,
+        223,
+        23,
+        243,
+        222,
+        60,
+        114,
+        135,
+        161,
+        213,
+        19,
+        133,
+        222,
+        133,
+        40,
+        87,
+        165,
+        67,
+        216
+      ]
+    },
+    "name": "VSO ConvertXtoDVD 5.1.0.12 Final",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 28,
+  "last_updated": "2016-12-25T01:26:39.230Z"
+}

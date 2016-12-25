@@ -1,1 +1,61 @@
-{"title":"Oblivion.2013.DVDRip.XviD-PTpOWeR","uid":8741668,"size":796713019,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:56510a159547cf485c223675d8b8bfdc636153c0&amp;dn=Oblivion.2013.DVDRip.XviD-PTpOWeR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":0,"uploader":"Drarbg","files":2,"time":1374806192,"description":"Oblivion.2013.DVDRip.XviD-PTpOWeR\n","torrent":{"xt":"urn:btih:56510a159547cf485c223675d8b8bfdc636153c0","amp;dn":"Oblivion.2013.DVDRip.XviD-PTpOWeR","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"56510a159547cf485c223675d8b8bfdc636153c0","infoHashBuffer":{"type":"Buffer","data":[86,81,10,21,149,71,207,72,92,34,54,117,216,184,191,220,99,97,83,192]},"announce":[],"urlList":[]}}
+{
+  "title": "Oblivion.2013.DVDRip.XviD-PTpOWeR",
+  "uid": 8741668,
+  "size": 796713019,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:56510a159547cf485c223675d8b8bfdc636153c0&amp;dn=Oblivion.2013.DVDRip.XviD-PTpOWeR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 0,
+  "uploader": "Drarbg",
+  "files": 2,
+  "time": 1374806192,
+  "description": "Oblivion.2013.DVDRip.XviD-PTpOWeR\n",
+  "parsed": {
+    "xt": "urn:btih:56510a159547cf485c223675d8b8bfdc636153c0",
+    "dn": "Oblivion.2013.DVDRip.XviD-PTpOWeR",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "56510a159547cf485c223675d8b8bfdc636153c0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        86,
+        81,
+        10,
+        21,
+        149,
+        71,
+        207,
+        72,
+        92,
+        34,
+        54,
+        117,
+        216,
+        184,
+        191,
+        220,
+        99,
+        97,
+        83,
+        192
+      ]
+    },
+    "name": "Oblivion.2013.DVDRip.XviD-PTpOWeR",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 1,
+  "last_updated": "2016-12-25T01:33:26.411Z"
+}

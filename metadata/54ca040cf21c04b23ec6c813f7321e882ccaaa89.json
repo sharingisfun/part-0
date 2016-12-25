@@ -1,1 +1,63 @@
-{"title":"Ghost.Adventures.S13E01.Colorado.Gold.Mine.HDTV.x264-SPASM","uid":15894569,"size":350666006,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:54ca040cf21c04b23ec6c813f7321e882ccaaa89&amp;dn=Ghost.Adventures.S13E01.Colorado.Gold.Mine.HDTV.x264-SPASM&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":267,"leechers":23,"uploader":"LegendET","files":2,"time":1474780297,"description":"Video\r\nFormat: x264/AVC\r\nDimensions: 852,480\r\nBit rate: Variable\r\n\r\nAudio\r\nFormat: AAC-LC\r\nChannels: Stereo\r\nBit rate: Variable\r\n\r\nSource\r\n720p DHD","torrent":{"xt":"urn:btih:54ca040cf21c04b23ec6c813f7321e882ccaaa89","amp;dn":"Ghost.Adventures.S13E01.Colorado.Gold.Mine.HDTV.x264-SPASM","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"54ca040cf21c04b23ec6c813f7321e882ccaaa89","infoHashBuffer":{"type":"Buffer","data":[84,202,4,12,242,28,4,178,62,198,200,19,247,50,30,136,44,202,170,137]},"announce":[],"urlList":[]}}
+{
+  "title": "Ghost.Adventures.S13E01.Colorado.Gold.Mine.HDTV.x264-SPASM",
+  "uid": 15894569,
+  "size": 350666006,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:54ca040cf21c04b23ec6c813f7321e882ccaaa89&amp;dn=Ghost.Adventures.S13E01.Colorado.Gold.Mine.HDTV.x264-SPASM&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 267,
+  "leechers": 23,
+  "uploader": "LegendET",
+  "files": 2,
+  "time": 1474780297,
+  "description": "Video\r\nFormat: x264/AVC\r\nDimensions: 852,480\r\nBit rate: Variable\r\n\r\nAudio\r\nFormat: AAC-LC\r\nChannels: Stereo\r\nBit rate: Variable\r\n\r\nSource\r\n720p DHD",
+  "parsed": {
+    "xt": "urn:btih:54ca040cf21c04b23ec6c813f7321e882ccaaa89",
+    "dn": "Ghost.Adventures.S13E01.Colorado.Gold.Mine.HDTV.x264-SPASM",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "54ca040cf21c04b23ec6c813f7321e882ccaaa89",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        84,
+        202,
+        4,
+        12,
+        242,
+        28,
+        4,
+        178,
+        62,
+        198,
+        200,
+        19,
+        247,
+        50,
+        30,
+        136,
+        44,
+        202,
+        170,
+        137
+      ]
+    },
+    "name": "Ghost.Adventures.S13E01.Colorado.Gold.Mine.HDTV.x264-SPASM",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 290,
+  "peers": 54,
+  "last_updated": "2016-12-25T01:23:20.477Z"
+}

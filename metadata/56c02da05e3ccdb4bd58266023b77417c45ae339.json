@@ -1,1 +1,61 @@
-{"title":"The Walking Dead S05E14 1080p HDTV Dual Audio 5.1","uid":11760574,"size":1923661452,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:56c02da05e3ccdb4bd58266023b77417c45ae339&amp;dn=The+Walking+Dead+S05E14+1080p+HDTV+Dual+Audio+5.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":104,"leechers":20,"uploader":"jefffalcao","files":4,"time":1426568668,"description":"BRSHARES","torrent":{"xt":"urn:btih:56c02da05e3ccdb4bd58266023b77417c45ae339","amp;dn":"The+Walking+Dead+S05E14+1080p+HDTV+Dual+Audio+5.1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"56c02da05e3ccdb4bd58266023b77417c45ae339","infoHashBuffer":{"type":"Buffer","data":[86,192,45,160,94,60,205,180,189,88,38,96,35,183,116,23,196,90,227,57]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead S05E14 1080p HDTV Dual Audio 5.1",
+  "uid": 11760574,
+  "size": 1923661452,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:56c02da05e3ccdb4bd58266023b77417c45ae339&amp;dn=The+Walking+Dead+S05E14+1080p+HDTV+Dual+Audio+5.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 104,
+  "leechers": 20,
+  "uploader": "jefffalcao",
+  "files": 4,
+  "time": 1426568668,
+  "description": "BRSHARES",
+  "parsed": {
+    "xt": "urn:btih:56c02da05e3ccdb4bd58266023b77417c45ae339",
+    "dn": "The Walking Dead S05E14 1080p HDTV Dual Audio 5.1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "56c02da05e3ccdb4bd58266023b77417c45ae339",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        86,
+        192,
+        45,
+        160,
+        94,
+        60,
+        205,
+        180,
+        189,
+        88,
+        38,
+        96,
+        35,
+        183,
+        116,
+        23,
+        196,
+        90,
+        227,
+        57
+      ]
+    },
+    "name": "The Walking Dead S05E14 1080p HDTV Dual Audio 5.1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 124,
+  "peers": 15,
+  "last_updated": "2016-12-25T01:36:14.866Z"
+}

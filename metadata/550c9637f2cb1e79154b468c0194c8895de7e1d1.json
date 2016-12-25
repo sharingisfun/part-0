@@ -1,1 +1,63 @@
-{"title":"VA Running Music Top 100 Hits 2015","uid":12688969,"size":2931431934,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:550c9637f2cb1e79154b468c0194c8895de7e1d1&amp;dn=VA+Running+Music+Top+100+Hits+2015&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":2,"uploader":"Capajebo","files":101,"time":1446649786,"description":"VA Running Music Top 100 Hits 2015..alternativeCD","torrent":{"xt":"urn:btih:550c9637f2cb1e79154b468c0194c8895de7e1d1","amp;dn":"VA+Running+Music+Top+100+Hits+2015","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"550c9637f2cb1e79154b468c0194c8895de7e1d1","infoHashBuffer":{"type":"Buffer","data":[85,12,150,55,242,203,30,121,21,75,70,140,1,148,200,137,93,231,225,209]},"announce":[],"urlList":[]}}
+{
+  "title": "VA Running Music Top 100 Hits 2015",
+  "uid": 12688969,
+  "size": 2931431934,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:550c9637f2cb1e79154b468c0194c8895de7e1d1&amp;dn=VA+Running+Music+Top+100+Hits+2015&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 2,
+  "uploader": "Capajebo",
+  "files": 101,
+  "time": 1446649786,
+  "description": "VA Running Music Top 100 Hits 2015..alternativeCD",
+  "parsed": {
+    "xt": "urn:btih:550c9637f2cb1e79154b468c0194c8895de7e1d1",
+    "dn": "VA Running Music Top 100 Hits 2015",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "550c9637f2cb1e79154b468c0194c8895de7e1d1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        85,
+        12,
+        150,
+        55,
+        242,
+        203,
+        30,
+        121,
+        21,
+        75,
+        70,
+        140,
+        1,
+        148,
+        200,
+        137,
+        93,
+        231,
+        225,
+        209
+      ]
+    },
+    "name": "VA Running Music Top 100 Hits 2015",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 0,
+  "last_updated": "2016-12-25T01:24:52.906Z"
+}

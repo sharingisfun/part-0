@@ -1,1 +1,61 @@
-{"title":"Keith Jarrett &amp; Charlie Haden - Last Dance (2014) [mp3@320]","uid":10411138,"size":182699901,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:546dff655826eeefb7dd97be9d8a7844f906279d&amp;dn=Keith+Jarrett+%26amp%3B+Charlie+Haden+-+Last+Dance+%282014%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":0,"uploader":"qculfj","files":10,"time":1403536829,"description":"1. My Old Flame\n2. My Ship\n3. Round Midnight\n4. Dance Of The Infidels\n5. It Might As Well Be Spring\n6. Everything Happens To Me\n7. Where Can I Go Without You\n8. Every Time We Say Goodbye\n9. Goodbye","torrent":{"xt":"urn:btih:546dff655826eeefb7dd97be9d8a7844f906279d","amp;dn":"Keith+Jarrett+%26amp%3B+Charlie+Haden+-+Last+Dance+%282014%29+%5Bmp3%40320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"546dff655826eeefb7dd97be9d8a7844f906279d","infoHashBuffer":{"type":"Buffer","data":[84,109,255,101,88,38,238,239,183,221,151,190,157,138,120,68,249,6,39,157]},"announce":[],"urlList":[]}}
+{
+  "title": "Keith Jarrett &amp; Charlie Haden - Last Dance (2014) [mp3@320]",
+  "uid": 10411138,
+  "size": 182699901,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:546dff655826eeefb7dd97be9d8a7844f906279d&amp;dn=Keith+Jarrett+%26amp%3B+Charlie+Haden+-+Last+Dance+%282014%29+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 0,
+  "uploader": "qculfj",
+  "files": 10,
+  "time": 1403536829,
+  "description": "1. My Old Flame\n2. My Ship\n3. Round Midnight\n4. Dance Of The Infidels\n5. It Might As Well Be Spring\n6. Everything Happens To Me\n7. Where Can I Go Without You\n8. Every Time We Say Goodbye\n9. Goodbye",
+  "parsed": {
+    "xt": "urn:btih:546dff655826eeefb7dd97be9d8a7844f906279d",
+    "dn": "Keith Jarrett &amp; Charlie Haden - Last Dance (2014) [mp3@320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "546dff655826eeefb7dd97be9d8a7844f906279d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        84,
+        109,
+        255,
+        101,
+        88,
+        38,
+        238,
+        239,
+        183,
+        221,
+        151,
+        190,
+        157,
+        138,
+        120,
+        68,
+        249,
+        6,
+        39,
+        157
+      ]
+    },
+    "name": "Keith Jarrett &amp; Charlie Haden - Last Dance (2014) [mp3@320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 7,
+  "last_updated": "2016-12-25T01:20:51.962Z"
+}

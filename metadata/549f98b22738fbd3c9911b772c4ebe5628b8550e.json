@@ -1,1 +1,61 @@
-{"title":"Charlie Puth - One Call Away 2015 {MP3 Single}~{VBUc}","uid":12257442,"size":7843865,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:549f98b22738fbd3c9911b772c4ebe5628b8550e&amp;dn=Charlie+Puth+-+One+Call+Away+2015+%7BMP3+Single%7D%7E%7BVBUc%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":2,"uploader":"VBUc","files":1,"time":1440115740,"description":"Artist: Charlie Puth\nTitle: One Call Away\nAlbum: Nine Track Mind\nGenre: Pop, Music\nReleased: 06 November 2015\nAudio Format: MP3\nAudio Bitrate: 320kbps\n\nTrack Info:\n***********\nAudio\nFormat : MPEG-1 Layer III\nMode : Joint stereo\nTime: 3mn 12s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nFrequency : 44.1 KHz\nCompression mode : Lossy\nÃ¢â€žâ€” 2015 Artist Partner Group, Inc\n\nSeed and Enjoy","torrent":{"xt":"urn:btih:549f98b22738fbd3c9911b772c4ebe5628b8550e","amp;dn":"Charlie+Puth+-+One+Call+Away+2015+%7BMP3+Single%7D%7E%7BVBUc%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"549f98b22738fbd3c9911b772c4ebe5628b8550e","infoHashBuffer":{"type":"Buffer","data":[84,159,152,178,39,56,251,211,201,145,27,119,44,78,190,86,40,184,85,14]},"announce":[],"urlList":[]}}
+{
+  "title": "Charlie Puth - One Call Away 2015 {MP3 Single}~{VBUc}",
+  "uid": 12257442,
+  "size": 7843865,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:549f98b22738fbd3c9911b772c4ebe5628b8550e&amp;dn=Charlie+Puth+-+One+Call+Away+2015+%7BMP3+Single%7D%7E%7BVBUc%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 2,
+  "uploader": "VBUc",
+  "files": 1,
+  "time": 1440115740,
+  "description": "Artist: Charlie Puth\nTitle: One Call Away\nAlbum: Nine Track Mind\nGenre: Pop, Music\nReleased: 06 November 2015\nAudio Format: MP3\nAudio Bitrate: 320kbps\n\nTrack Info:\n***********\nAudio\nFormat : MPEG-1 Layer III\nMode : Joint stereo\nTime: 3mn 12s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nFrequency : 44.1 KHz\nCompression mode : Lossy\nÃ¢â€žâ€” 2015 Artist Partner Group, Inc\n\nSeed and Enjoy",
+  "parsed": {
+    "xt": "urn:btih:549f98b22738fbd3c9911b772c4ebe5628b8550e",
+    "dn": "Charlie Puth - One Call Away 2015 {MP3 Single}~{VBUc}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "549f98b22738fbd3c9911b772c4ebe5628b8550e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        84,
+        159,
+        152,
+        178,
+        39,
+        56,
+        251,
+        211,
+        201,
+        145,
+        27,
+        119,
+        44,
+        78,
+        190,
+        86,
+        40,
+        184,
+        85,
+        14
+      ]
+    },
+    "name": "Charlie Puth - One Call Away 2015 {MP3 Single}~{VBUc}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 1,
+  "last_updated": "2016-12-25T01:22:24.298Z"
+}

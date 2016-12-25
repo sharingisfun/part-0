@@ -1,1 +1,61 @@
-{"title":"Wild.2014.720p.BluRay.x264-SPARKS","uid":11751506,"size":5879952062,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:54a7415623082ef11195cb99f0f0c8d86e4a3221&amp;dn=Wild.2014.720p.BluRay.x264-SPARKS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":88,"leechers":16,"uploader":"GoodFilms","files":6,"time":1426236150,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt2305051/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt2305051/&lt;/a&gt;\n\nVideo.......: X264 5252Kbps\nFrame.Rate..: 23.976\nResolution..: 1280x536\nAudio.......: DTS 1509Kbps 6ch\nLanguage....: English\nLength......: 1h 55mn\nSource......: Retail BluRay\nSize........: 5592MB","torrent":{"xt":"urn:btih:54a7415623082ef11195cb99f0f0c8d86e4a3221","amp;dn":"Wild.2014.720p.BluRay.x264-SPARKS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"54a7415623082ef11195cb99f0f0c8d86e4a3221","infoHashBuffer":{"type":"Buffer","data":[84,167,65,86,35,8,46,241,17,149,203,153,240,240,200,216,110,74,50,33]},"announce":[],"urlList":[]}}
+{
+  "title": "Wild.2014.720p.BluRay.x264-SPARKS",
+  "uid": 11751506,
+  "size": 5879952062,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:54a7415623082ef11195cb99f0f0c8d86e4a3221&amp;dn=Wild.2014.720p.BluRay.x264-SPARKS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 88,
+  "leechers": 16,
+  "uploader": "GoodFilms",
+  "files": 6,
+  "time": 1426236150,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt2305051/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt2305051/&lt;/a&gt;\n\nVideo.......: X264 5252Kbps\nFrame.Rate..: 23.976\nResolution..: 1280x536\nAudio.......: DTS 1509Kbps 6ch\nLanguage....: English\nLength......: 1h 55mn\nSource......: Retail BluRay\nSize........: 5592MB",
+  "parsed": {
+    "xt": "urn:btih:54a7415623082ef11195cb99f0f0c8d86e4a3221",
+    "dn": "Wild.2014.720p.BluRay.x264-SPARKS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "54a7415623082ef11195cb99f0f0c8d86e4a3221",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        84,
+        167,
+        65,
+        86,
+        35,
+        8,
+        46,
+        241,
+        17,
+        149,
+        203,
+        153,
+        240,
+        240,
+        200,
+        216,
+        110,
+        74,
+        50,
+        33
+      ]
+    },
+    "name": "Wild.2014.720p.BluRay.x264-SPARKS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 104,
+  "peers": 19,
+  "last_updated": "2016-12-25T01:22:34.324Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Swat.4-RELOADED","uid":9447394,"size":1052346368,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:564b228c1271dcf271578028b4360cac6b115312&amp;dn=Swat.4-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":1,"uploader":"sonywo","files":-1,"time":1389115011,"description":"1. Burn or mount the image.\n2. Use cd-key from the /Crack dir\n3. Install the game.\n4. Copy over crack from the /Crack dir on the disc to your install dir.\n5. Play the game. \n","torrent":{"xt":"urn:btih:564b228c1271dcf271578028b4360cac6b115312","amp;dn":"Swat.4-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"564b228c1271dcf271578028b4360cac6b115312","infoHashBuffer":{"type":"Buffer","data":[86,75,34,140,18,113,220,242,113,87,128,40,180,54,12,172,107,17,83,18]},"announce":[],"urlList":[]}}
+{
+  "title": "Swat.4-RELOADED",
+  "uid": 9447394,
+  "size": 1052346368,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:564b228c1271dcf271578028b4360cac6b115312&amp;dn=Swat.4-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 1,
+  "uploader": "sonywo",
+  "files": -1,
+  "time": 1389115011,
+  "description": "1. Burn or mount the image.\n2. Use cd-key from the /Crack dir\n3. Install the game.\n4. Copy over crack from the /Crack dir on the disc to your install dir.\n5. Play the game. \n",
+  "parsed": {
+    "xt": "urn:btih:564b228c1271dcf271578028b4360cac6b115312",
+    "dn": "Swat.4-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "564b228c1271dcf271578028b4360cac6b115312",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        86,
+        75,
+        34,
+        140,
+        18,
+        113,
+        220,
+        242,
+        113,
+        87,
+        128,
+        40,
+        180,
+        54,
+        12,
+        172,
+        107,
+        17,
+        83,
+        18
+      ]
+    },
+    "name": "Swat.4-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 5,
+  "last_updated": "2016-12-25T01:33:12.374Z"
+}
