@@ -1,1 +1,63 @@
-{"title":"Better.Things.S01E06.HDTV.x264-FLEET","uid":16030884,"size":183111775,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8e4bd9dcfde8766234f6e170d00b05571a9472ca&amp;dn=Better.Things.S01E06.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":114,"leechers":31,"uploader":"TvTeam","files":5,"time":1476420114,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:8e4bd9dcfde8766234f6e170d00b05571a9472ca","amp;dn":"Better.Things.S01E06.HDTV.x264-FLEET","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8e4bd9dcfde8766234f6e170d00b05571a9472ca","infoHashBuffer":{"type":"Buffer","data":[142,75,217,220,253,232,118,98,52,246,225,112,208,11,5,87,26,148,114,202]},"announce":[],"urlList":[]}}
+{
+  "title": "Better.Things.S01E06.HDTV.x264-FLEET",
+  "uid": 16030884,
+  "size": 183111775,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8e4bd9dcfde8766234f6e170d00b05571a9472ca&amp;dn=Better.Things.S01E06.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 114,
+  "leechers": 31,
+  "uploader": "TvTeam",
+  "files": 5,
+  "time": 1476420114,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:8e4bd9dcfde8766234f6e170d00b05571a9472ca",
+    "dn": "Better.Things.S01E06.HDTV.x264-FLEET",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "8e4bd9dcfde8766234f6e170d00b05571a9472ca",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        142,
+        75,
+        217,
+        220,
+        253,
+        232,
+        118,
+        98,
+        52,
+        246,
+        225,
+        112,
+        208,
+        11,
+        5,
+        87,
+        26,
+        148,
+        114,
+        202
+      ]
+    },
+    "name": "Better.Things.S01E06.HDTV.x264-FLEET",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 145,
+  "peers": 46,
+  "last_updated": "2016-12-25T07:33:59.803Z"
+}

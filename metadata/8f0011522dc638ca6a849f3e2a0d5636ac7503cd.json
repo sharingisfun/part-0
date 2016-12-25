@@ -1,1 +1,61 @@
-{"title":"Subway surfer PC","uid":8798253,"size":30654410,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:8f0011522dc638ca6a849f3e2a0d5636ac7503cd&amp;dn=Subway+surfer+PC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":0,"uploader":"ifeelnopain","files":1,"time":1376129624,"description":"just extract n play","torrent":{"xt":"urn:btih:8f0011522dc638ca6a849f3e2a0d5636ac7503cd","amp;dn":"Subway+surfer+PC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8f0011522dc638ca6a849f3e2a0d5636ac7503cd","infoHashBuffer":{"type":"Buffer","data":[143,0,17,82,45,198,56,202,106,132,159,62,42,13,86,54,172,117,3,205]},"announce":[],"urlList":[]}}
+{
+  "title": "Subway surfer PC",
+  "uid": 8798253,
+  "size": 30654410,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:8f0011522dc638ca6a849f3e2a0d5636ac7503cd&amp;dn=Subway+surfer+PC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 0,
+  "uploader": "ifeelnopain",
+  "files": 1,
+  "time": 1376129624,
+  "description": "just extract n play",
+  "parsed": {
+    "xt": "urn:btih:8f0011522dc638ca6a849f3e2a0d5636ac7503cd",
+    "dn": "Subway surfer PC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8f0011522dc638ca6a849f3e2a0d5636ac7503cd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        143,
+        0,
+        17,
+        82,
+        45,
+        198,
+        56,
+        202,
+        106,
+        132,
+        159,
+        62,
+        42,
+        13,
+        86,
+        54,
+        172,
+        117,
+        3,
+        205
+      ]
+    },
+    "name": "Subway surfer PC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 4,
+  "last_updated": "2016-12-25T07:38:14.557Z"
+}

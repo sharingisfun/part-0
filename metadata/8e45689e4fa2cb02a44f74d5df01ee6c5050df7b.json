@@ -1,1 +1,61 @@
-{"title":"PMDG  777-200LRF","uid":8886019,"size":816057955,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:8e45689e4fa2cb02a44f74d5df01ee6c5050df7b&amp;dn=PMDG++777-200LRF&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":2,"uploader":"gzc007","files":1,"time":1378462619,"description":"Hello my friends,\n\nThis is the PMDG 777 as recently released!!\nThis is the first upload it's not been cracked since i've bought it.\n\nLet me give the cracker a little headstart, the licening is done by an external application called LC Certificate if i remember correctly,\nit only asks for a serial key when selecting this beauty from the menu. that's the activation part of it.\n\nI've been downloading pmdg's software for quite a while now, decided to start supporting them. but also you guys helped me out numerous times so let me help you out a bit.\n\nHave fun!\n\n-","torrent":{"xt":"urn:btih:8e45689e4fa2cb02a44f74d5df01ee6c5050df7b","amp;dn":"PMDG++777-200LRF","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8e45689e4fa2cb02a44f74d5df01ee6c5050df7b","infoHashBuffer":{"type":"Buffer","data":[142,69,104,158,79,162,203,2,164,79,116,213,223,1,238,108,80,80,223,123]},"announce":[],"urlList":[]}}
+{
+  "title": "PMDG  777-200LRF",
+  "uid": 8886019,
+  "size": 816057955,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:8e45689e4fa2cb02a44f74d5df01ee6c5050df7b&amp;dn=PMDG++777-200LRF&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 2,
+  "uploader": "gzc007",
+  "files": 1,
+  "time": 1378462619,
+  "description": "Hello my friends,\n\nThis is the PMDG 777 as recently released!!\nThis is the first upload it's not been cracked since i've bought it.\n\nLet me give the cracker a little headstart, the licening is done by an external application called LC Certificate if i remember correctly,\nit only asks for a serial key when selecting this beauty from the menu. that's the activation part of it.\n\nI've been downloading pmdg's software for quite a while now, decided to start supporting them. but also you guys helped me out numerous times so let me help you out a bit.\n\nHave fun!\n\n-",
+  "parsed": {
+    "xt": "urn:btih:8e45689e4fa2cb02a44f74d5df01ee6c5050df7b",
+    "dn": "PMDG  777-200LRF",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8e45689e4fa2cb02a44f74d5df01ee6c5050df7b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        142,
+        69,
+        104,
+        158,
+        79,
+        162,
+        203,
+        2,
+        164,
+        79,
+        116,
+        213,
+        223,
+        1,
+        238,
+        108,
+        80,
+        80,
+        223,
+        123
+      ]
+    },
+    "name": "PMDG  777-200LRF",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 29,
+  "last_updated": "2016-12-25T07:33:51.779Z"
+}

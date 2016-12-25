@@ -1,1 +1,61 @@
-{"title":"Ryan Adams &amp;bull; Ryan Adams [2014] 320","uid":10948972,"size":103186693,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:8e2392099e25a005a4fb323859f028f8fc13dbd1&amp;dn=Ryan+Adams+%26bull%3B+Ryan+Adams+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":92,"leechers":1,"uploader":"Capajebo","files":-1,"time":1409613979,"description":"=====================================\nRyan Adams Ã¢â‚¬Â¢ Ryan Adams [2014] 320 CD\n.....................................\n=====================================\n\niTunes Info : https://itunes.apple.com/us/album/ryan-adams/id891501013","torrent":{"xt":"urn:btih:8e2392099e25a005a4fb323859f028f8fc13dbd1","amp;dn":"Ryan+Adams+%26bull%3B+Ryan+Adams+%5B2014%5D+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8e2392099e25a005a4fb323859f028f8fc13dbd1","infoHashBuffer":{"type":"Buffer","data":[142,35,146,9,158,37,160,5,164,251,50,56,89,240,40,248,252,19,219,209]},"announce":[],"urlList":[]}}
+{
+  "title": "Ryan Adams &amp;bull; Ryan Adams [2014] 320",
+  "uid": 10948972,
+  "size": 103186693,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:8e2392099e25a005a4fb323859f028f8fc13dbd1&amp;dn=Ryan+Adams+%26bull%3B+Ryan+Adams+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 92,
+  "leechers": 1,
+  "uploader": "Capajebo",
+  "files": -1,
+  "time": 1409613979,
+  "description": "=====================================\nRyan Adams Ã¢â‚¬Â¢ Ryan Adams [2014] 320 CD\n.....................................\n=====================================\n\niTunes Info : https://itunes.apple.com/us/album/ryan-adams/id891501013",
+  "parsed": {
+    "xt": "urn:btih:8e2392099e25a005a4fb323859f028f8fc13dbd1",
+    "dn": "Ryan Adams &bull; Ryan Adams [2014] 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8e2392099e25a005a4fb323859f028f8fc13dbd1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        142,
+        35,
+        146,
+        9,
+        158,
+        37,
+        160,
+        5,
+        164,
+        251,
+        50,
+        56,
+        89,
+        240,
+        40,
+        248,
+        252,
+        19,
+        219,
+        209
+      ]
+    },
+    "name": "Ryan Adams &bull; Ryan Adams [2014] 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 93,
+  "peers": 47,
+  "last_updated": "2016-12-25T07:32:59.633Z"
+}

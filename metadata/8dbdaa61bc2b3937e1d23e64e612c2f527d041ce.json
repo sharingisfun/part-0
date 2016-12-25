@@ -1,1 +1,61 @@
-{"title":"Narcos S01 WEBRip XviD-FUM[ettv]","uid":12309154,"size":4159233583,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8dbdaa61bc2b3937e1d23e64e612c2f527d041ce&amp;dn=Narcos+S01+WEBRip+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":485,"leechers":153,"uploader":"ettv","files":11,"time":1440848518,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:8dbdaa61bc2b3937e1d23e64e612c2f527d041ce","amp;dn":"Narcos+S01+WEBRip+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8dbdaa61bc2b3937e1d23e64e612c2f527d041ce","infoHashBuffer":{"type":"Buffer","data":[141,189,170,97,188,43,57,55,225,210,62,100,230,18,194,245,39,208,65,206]},"announce":[],"urlList":[]}}
+{
+  "title": "Narcos S01 WEBRip XviD-FUM[ettv]",
+  "uid": 12309154,
+  "size": 4159233583,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8dbdaa61bc2b3937e1d23e64e612c2f527d041ce&amp;dn=Narcos+S01+WEBRip+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 485,
+  "leechers": 153,
+  "uploader": "ettv",
+  "files": 11,
+  "time": 1440848518,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:8dbdaa61bc2b3937e1d23e64e612c2f527d041ce",
+    "dn": "Narcos S01 WEBRip XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8dbdaa61bc2b3937e1d23e64e612c2f527d041ce",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        141,
+        189,
+        170,
+        97,
+        188,
+        43,
+        57,
+        55,
+        225,
+        210,
+        62,
+        100,
+        230,
+        18,
+        194,
+        245,
+        39,
+        208,
+        65,
+        206
+      ]
+    },
+    "name": "Narcos S01 WEBRip XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 638,
+  "peers": 74,
+  "last_updated": "2016-12-25T07:30:39.243Z"
+}

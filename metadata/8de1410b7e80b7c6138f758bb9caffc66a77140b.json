@@ -1,1 +1,63 @@
-{"title":"Documentary.Now.S02E02.HDTV.x264-MiNDTHEGAP","uid":15878085,"size":216403359,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8de1410b7e80b7c6138f758bb9caffc66a77140b&amp;dn=Documentary.Now.S02E02.HDTV.x264-MiNDTHEGAP&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":6,"uploader":"TvTeam","files":5,"time":1474552892,"description":"Torrent from:\r\n~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:8de1410b7e80b7c6138f758bb9caffc66a77140b","amp;dn":"Documentary.Now.S02E02.HDTV.x264-MiNDTHEGAP","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8de1410b7e80b7c6138f758bb9caffc66a77140b","infoHashBuffer":{"type":"Buffer","data":[141,225,65,11,126,128,183,198,19,143,117,139,185,202,255,198,106,119,20,11]},"announce":[],"urlList":[]}}
+{
+  "title": "Documentary.Now.S02E02.HDTV.x264-MiNDTHEGAP",
+  "uid": 15878085,
+  "size": 216403359,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8de1410b7e80b7c6138f758bb9caffc66a77140b&amp;dn=Documentary.Now.S02E02.HDTV.x264-MiNDTHEGAP&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 6,
+  "uploader": "TvTeam",
+  "files": 5,
+  "time": 1474552892,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:8de1410b7e80b7c6138f758bb9caffc66a77140b",
+    "dn": "Documentary.Now.S02E02.HDTV.x264-MiNDTHEGAP",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "8de1410b7e80b7c6138f758bb9caffc66a77140b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        141,
+        225,
+        65,
+        11,
+        126,
+        128,
+        183,
+        198,
+        19,
+        143,
+        117,
+        139,
+        185,
+        202,
+        255,
+        198,
+        106,
+        119,
+        20,
+        11
+      ]
+    },
+    "name": "Documentary.Now.S02E02.HDTV.x264-MiNDTHEGAP",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 78,
+  "last_updated": "2016-12-25T07:31:25.370Z"
+}

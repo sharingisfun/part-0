@@ -1,1 +1,61 @@
-{"title":"Nickelback - No Fixed Address {MP3-2014}","uid":11484749,"size":107469275,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:8df36d67bfabd3a249e1d2318b0f88e6574defda&amp;dn=Nickelback+-+No+Fixed+Address+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":30,"uploader":"simpsonrony","files":-1,"time":1416212087,"description":"Source: https://itunes.apple.com/us/album/no-fixed-address/id933315696\n\nArtist: Nickelback\n\nAlbum: No Fixed Address\n\nGenre: Rock, Hard Rock\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\n\n\nTracklist:\n**********\n\n01 Million Miles an Hour\n02 Edge of a Revolution\n03 What Are You Waiting For?\n04 She Keeps Me Up\n05 Make Me Believe Again\n06 Satellite\n07 Get 'Em Up\n08 The Hammer's Coming Down\n09 Miss You\n10 Got Me Runnin' Round (feat. Flo Rida)\n11 Sister Sin","torrent":{"xt":"urn:btih:8df36d67bfabd3a249e1d2318b0f88e6574defda","amp;dn":"Nickelback+-+No+Fixed+Address+%7BMP3-2014%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8df36d67bfabd3a249e1d2318b0f88e6574defda","infoHashBuffer":{"type":"Buffer","data":[141,243,109,103,191,171,211,162,73,225,210,49,139,15,136,230,87,77,239,218]},"announce":[],"urlList":[]}}
+{
+  "title": "Nickelback - No Fixed Address {MP3-2014}",
+  "uid": 11484749,
+  "size": 107469275,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:8df36d67bfabd3a249e1d2318b0f88e6574defda&amp;dn=Nickelback+-+No+Fixed+Address+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 30,
+  "uploader": "simpsonrony",
+  "files": -1,
+  "time": 1416212087,
+  "description": "Source: https://itunes.apple.com/us/album/no-fixed-address/id933315696\n\nArtist: Nickelback\n\nAlbum: No Fixed Address\n\nGenre: Rock, Hard Rock\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\n\n\nTracklist:\n**********\n\n01 Million Miles an Hour\n02 Edge of a Revolution\n03 What Are You Waiting For?\n04 She Keeps Me Up\n05 Make Me Believe Again\n06 Satellite\n07 Get 'Em Up\n08 The Hammer's Coming Down\n09 Miss You\n10 Got Me Runnin' Round (feat. Flo Rida)\n11 Sister Sin",
+  "parsed": {
+    "xt": "urn:btih:8df36d67bfabd3a249e1d2318b0f88e6574defda",
+    "dn": "Nickelback - No Fixed Address {MP3-2014}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8df36d67bfabd3a249e1d2318b0f88e6574defda",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        141,
+        243,
+        109,
+        103,
+        191,
+        171,
+        211,
+        162,
+        73,
+        225,
+        210,
+        49,
+        139,
+        15,
+        136,
+        230,
+        87,
+        77,
+        239,
+        218
+      ]
+    },
+    "name": "Nickelback - No Fixed Address {MP3-2014}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 5,
+  "last_updated": "2016-12-25T07:32:01.471Z"
+}

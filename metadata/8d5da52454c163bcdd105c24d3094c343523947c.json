@@ -1,1 +1,61 @@
-{"title":"Black Sails - S01 Season 1 Complete (HDTV)","uid":10469912,"size":3926340358,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8d5da52454c163bcdd105c24d3094c343523947c&amp;dn=Black+Sails+-+S01+Season+1+Complete+%28HDTV%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":107,"leechers":25,"uploader":"matsuleh","files":8,"time":1404244193,"description":"Black Sails Season 1 Complete (HDTV)\n\nInformations:\nFormat : Mp4\nWidth : 720 pixels\nHeight : 404 pixels\nAudio\nFormat : AAC\nBit rate mode : Variable\nChannel(s) : 2 channels\nSampling rate : 48.0 KHz\nLanguage : English\n\n**************************PLEASE SHARE, SEED, ENJOY*********************************","torrent":{"xt":"urn:btih:8d5da52454c163bcdd105c24d3094c343523947c","amp;dn":"Black+Sails+-+S01+Season+1+Complete+%28HDTV%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8d5da52454c163bcdd105c24d3094c343523947c","infoHashBuffer":{"type":"Buffer","data":[141,93,165,36,84,193,99,188,221,16,92,36,211,9,76,52,53,35,148,124]},"announce":[],"urlList":[]}}
+{
+  "title": "Black Sails - S01 Season 1 Complete (HDTV)",
+  "uid": 10469912,
+  "size": 3926340358,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8d5da52454c163bcdd105c24d3094c343523947c&amp;dn=Black+Sails+-+S01+Season+1+Complete+%28HDTV%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 107,
+  "leechers": 25,
+  "uploader": "matsuleh",
+  "files": 8,
+  "time": 1404244193,
+  "description": "Black Sails Season 1 Complete (HDTV)\n\nInformations:\nFormat : Mp4\nWidth : 720 pixels\nHeight : 404 pixels\nAudio\nFormat : AAC\nBit rate mode : Variable\nChannel(s) : 2 channels\nSampling rate : 48.0 KHz\nLanguage : English\n\n**************************PLEASE SHARE, SEED, ENJOY*********************************",
+  "parsed": {
+    "xt": "urn:btih:8d5da52454c163bcdd105c24d3094c343523947c",
+    "dn": "Black Sails - S01 Season 1 Complete (HDTV)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8d5da52454c163bcdd105c24d3094c343523947c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        141,
+        93,
+        165,
+        36,
+        84,
+        193,
+        99,
+        188,
+        221,
+        16,
+        92,
+        36,
+        211,
+        9,
+        76,
+        52,
+        53,
+        35,
+        148,
+        124
+      ]
+    },
+    "name": "Black Sails - S01 Season 1 Complete (HDTV)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 132,
+  "peers": 124,
+  "last_updated": "2016-12-25T07:28:02.794Z"
+}

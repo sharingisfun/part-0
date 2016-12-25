@@ -1,1 +1,61 @@
-{"title":"Flume - Flume [DELUXE] [iTunes]","uid":9176149,"size":253959519,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:8f44216b9746beb0928d89fe8551e7762d095f32&amp;dn=Flume+-+Flume+%5BDELUXE%5D+%5BiTunes%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":0,"uploader":"NewSky004","files":-1,"time":1384154386,"description":"Deluxe iTunes Edition from Australia with mixtape and remixes.\n\nFlume Mixtape:\n1. Intro [feat. Stalley]\n2. Space Cadet [feat. Ghostface Killah &amp; Autre Ne Veut]\n3. Insane [feat. Killer Mike &amp; Moon Holiday]\n4. Stay Close [feat. Boldy James, Alexander Spit &amp; Aaron Cohen]\n5. Holdin On [feat. Freddie Gibbs]\n6. Change [feat. How To Dress Well]\n7. Warm Thoughts [feat. Grande Marshall &amp; Goldie Glo]\n8. Sleepless [feat. Twin Shadow &amp; Jezzabell Doran]\n9. Hermitude: HyperParadise [feat. M.O.P.] (Flume Mixtape Version)\n\nFlume Remixes:\n10. Disclosure: You &amp; Me [ft. Eliza Doolittle] (Flume Remix)\n11. Hermitude: HyperParadise (Flume Remix)\n12. Yolanda Be Cool &amp; Gurrumul: A Baru in New York (Flume Soundtrack Version)\n13. New Navy: Zimbabwe (Flume Remix)\n\nFlume Remixed:\n14. Flume: Sleepless [ft. Jezzabell Doran] (Shlohmo Remix)\n15. Flume: Holdin On (123MRK Remix)\n16. Flume: Left Alone [ft. Chet Faker] (Ta-Ku Remix)\n17. Flume: Holdin On (Hermitude Remix)\n18. Flume: Insane [ft. Moon Holiday] (L D R U Remix)\n\n19. The Greatest View [feat. Isabella Manfredi]","torrent":{"xt":"urn:btih:8f44216b9746beb0928d89fe8551e7762d095f32","amp;dn":"Flume+-+Flume+%5BDELUXE%5D+%5BiTunes%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8f44216b9746beb0928d89fe8551e7762d095f32","infoHashBuffer":{"type":"Buffer","data":[143,68,33,107,151,70,190,176,146,141,137,254,133,81,231,118,45,9,95,50]},"announce":[],"urlList":[]}}
+{
+  "title": "Flume - Flume [DELUXE] [iTunes]",
+  "uid": 9176149,
+  "size": 253959519,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:8f44216b9746beb0928d89fe8551e7762d095f32&amp;dn=Flume+-+Flume+%5BDELUXE%5D+%5BiTunes%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 0,
+  "uploader": "NewSky004",
+  "files": -1,
+  "time": 1384154386,
+  "description": "Deluxe iTunes Edition from Australia with mixtape and remixes.\n\nFlume Mixtape:\n1. Intro [feat. Stalley]\n2. Space Cadet [feat. Ghostface Killah &amp; Autre Ne Veut]\n3. Insane [feat. Killer Mike &amp; Moon Holiday]\n4. Stay Close [feat. Boldy James, Alexander Spit &amp; Aaron Cohen]\n5. Holdin On [feat. Freddie Gibbs]\n6. Change [feat. How To Dress Well]\n7. Warm Thoughts [feat. Grande Marshall &amp; Goldie Glo]\n8. Sleepless [feat. Twin Shadow &amp; Jezzabell Doran]\n9. Hermitude: HyperParadise [feat. M.O.P.] (Flume Mixtape Version)\n\nFlume Remixes:\n10. Disclosure: You &amp; Me [ft. Eliza Doolittle] (Flume Remix)\n11. Hermitude: HyperParadise (Flume Remix)\n12. Yolanda Be Cool &amp; Gurrumul: A Baru in New York (Flume Soundtrack Version)\n13. New Navy: Zimbabwe (Flume Remix)\n\nFlume Remixed:\n14. Flume: Sleepless [ft. Jezzabell Doran] (Shlohmo Remix)\n15. Flume: Holdin On (123MRK Remix)\n16. Flume: Left Alone [ft. Chet Faker] (Ta-Ku Remix)\n17. Flume: Holdin On (Hermitude Remix)\n18. Flume: Insane [ft. Moon Holiday] (L D R U Remix)\n\n19. The Greatest View [feat. Isabella Manfredi]",
+  "parsed": {
+    "xt": "urn:btih:8f44216b9746beb0928d89fe8551e7762d095f32",
+    "dn": "Flume - Flume [DELUXE] [iTunes]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8f44216b9746beb0928d89fe8551e7762d095f32",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        143,
+        68,
+        33,
+        107,
+        151,
+        70,
+        190,
+        176,
+        146,
+        141,
+        137,
+        254,
+        133,
+        81,
+        231,
+        118,
+        45,
+        9,
+        95,
+        50
+      ]
+    },
+    "name": "Flume - Flume [DELUXE] [iTunes]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 8,
+  "last_updated": "2016-12-25T07:40:00.903Z"
+}

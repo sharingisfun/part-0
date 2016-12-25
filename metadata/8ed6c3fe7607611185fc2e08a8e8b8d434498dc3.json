@@ -1,1 +1,61 @@
-{"title":"American.Horror.Story.S01E07.HDTV.XviD-ASAP.[VTV].avi","uid":6824130,"size":367043712,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8ed6c3fe7607611185fc2e08a8e8b8d434498dc3&amp;dn=American.Horror.Story.S01E07.HDTV.XviD-ASAP.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":5,"uploader":"VTV","files":1,"time":1321506831,"description":"American Horror Story 1x07 (HDTV-ASAP)[VTV]","torrent":{"xt":"urn:btih:8ed6c3fe7607611185fc2e08a8e8b8d434498dc3","amp;dn":"American.Horror.Story.S01E07.HDTV.XviD-ASAP.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8ed6c3fe7607611185fc2e08a8e8b8d434498dc3","infoHashBuffer":{"type":"Buffer","data":[142,214,195,254,118,7,97,17,133,252,46,8,168,232,184,212,52,73,141,195]},"announce":[],"urlList":[]}}
+{
+  "title": "American.Horror.Story.S01E07.HDTV.XviD-ASAP.[VTV].avi",
+  "uid": 6824130,
+  "size": 367043712,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8ed6c3fe7607611185fc2e08a8e8b8d434498dc3&amp;dn=American.Horror.Story.S01E07.HDTV.XviD-ASAP.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 5,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1321506831,
+  "description": "American Horror Story 1x07 (HDTV-ASAP)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:8ed6c3fe7607611185fc2e08a8e8b8d434498dc3",
+    "dn": "American.Horror.Story.S01E07.HDTV.XviD-ASAP.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8ed6c3fe7607611185fc2e08a8e8b8d434498dc3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        142,
+        214,
+        195,
+        254,
+        118,
+        7,
+        97,
+        17,
+        133,
+        252,
+        46,
+        8,
+        168,
+        232,
+        184,
+        212,
+        52,
+        73,
+        141,
+        195
+      ]
+    },
+    "name": "American.Horror.Story.S01E07.HDTV.XviD-ASAP.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 35,
+  "last_updated": "2016-12-25T07:37:32.415Z"
+}

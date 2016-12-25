@@ -1,1 +1,61 @@
-{"title":"5 Seconds of Summer - She's Kinda Hot 2015 {MP3 Single}~{VBUc}","uid":12134604,"size":9266623,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:8fd6c7f4c94b43c104215015a5bb7680aa536899&amp;dn=5+Seconds+of+Summer+-+She%27s+Kinda+Hot+2015+%7BMP3+Single%7D%7E%7BVBUc%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":101,"leechers":6,"uploader":"VBUc","files":1,"time":1437149396,"description":"Artist: 5 Seconds of Summer\nTitle: She's Kinda Hot\nAlbum: She's Kinda Hot - Single\nGenre: Pop, Music\nReleased: Jul 17, 2015\nAudio Format: MP3\nAudio Bitrate: 320kbps\n\nTrack Info:\n***********\nAudio\nFormat : MPEG-1 Layer III\nMode : Joint stereo\nTime: 3mn 38s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nFrequency : 44.1 KHz\nCompression mode : Lossy\nÃ¢â€žâ€” 2015 Capitol Records Ltd.\n\nSeed and Enjoy","torrent":{"xt":"urn:btih:8fd6c7f4c94b43c104215015a5bb7680aa536899","amp;dn":"5+Seconds+of+Summer+-+She%27s+Kinda+Hot+2015+%7BMP3+Single%7D%7E%7BVBUc%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8fd6c7f4c94b43c104215015a5bb7680aa536899","infoHashBuffer":{"type":"Buffer","data":[143,214,199,244,201,75,67,193,4,33,80,21,165,187,118,128,170,83,104,153]},"announce":[],"urlList":[]}}
+{
+  "title": "5 Seconds of Summer - She's Kinda Hot 2015 {MP3 Single}~{VBUc}",
+  "uid": 12134604,
+  "size": 9266623,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:8fd6c7f4c94b43c104215015a5bb7680aa536899&amp;dn=5+Seconds+of+Summer+-+She%27s+Kinda+Hot+2015+%7BMP3+Single%7D%7E%7BVBUc%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 101,
+  "leechers": 6,
+  "uploader": "VBUc",
+  "files": 1,
+  "time": 1437149396,
+  "description": "Artist: 5 Seconds of Summer\nTitle: She's Kinda Hot\nAlbum: She's Kinda Hot - Single\nGenre: Pop, Music\nReleased: Jul 17, 2015\nAudio Format: MP3\nAudio Bitrate: 320kbps\n\nTrack Info:\n***********\nAudio\nFormat : MPEG-1 Layer III\nMode : Joint stereo\nTime: 3mn 38s\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nFrequency : 44.1 KHz\nCompression mode : Lossy\nÃ¢â€žâ€” 2015 Capitol Records Ltd.\n\nSeed and Enjoy",
+  "parsed": {
+    "xt": "urn:btih:8fd6c7f4c94b43c104215015a5bb7680aa536899",
+    "dn": "5 Seconds of Summer - She's Kinda Hot 2015 {MP3 Single}~{VBUc}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8fd6c7f4c94b43c104215015a5bb7680aa536899",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        143,
+        214,
+        199,
+        244,
+        201,
+        75,
+        67,
+        193,
+        4,
+        33,
+        80,
+        21,
+        165,
+        187,
+        118,
+        128,
+        170,
+        83,
+        104,
+        153
+      ]
+    },
+    "name": "5 Seconds of Summer - She's Kinda Hot 2015 {MP3 Single}~{VBUc}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 107,
+  "peers": 0,
+  "last_updated": "2016-12-25T07:44:13.776Z"
+}

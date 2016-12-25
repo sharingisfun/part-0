@@ -1,1 +1,61 @@
-{"title":"Assassins Creed","uid":4653454,"size":6899040256,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:8ed869d030b35a48d02c3060b9b4ab3d300bb7bd&amp;dn=Assassins+Creed&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":18,"uploader":"zemz","files":1,"time":1232130078,"description":"Assassins Creed","torrent":{"xt":"urn:btih:8ed869d030b35a48d02c3060b9b4ab3d300bb7bd","amp;dn":"Assassins+Creed","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8ed869d030b35a48d02c3060b9b4ab3d300bb7bd","infoHashBuffer":{"type":"Buffer","data":[142,216,105,208,48,179,90,72,208,44,48,96,185,180,171,61,48,11,183,189]},"announce":[],"urlList":[]}}
+{
+  "title": "Assassins Creed",
+  "uid": 4653454,
+  "size": 6899040256,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:8ed869d030b35a48d02c3060b9b4ab3d300bb7bd&amp;dn=Assassins+Creed&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 18,
+  "uploader": "zemz",
+  "files": 1,
+  "time": 1232130078,
+  "description": "Assassins Creed",
+  "parsed": {
+    "xt": "urn:btih:8ed869d030b35a48d02c3060b9b4ab3d300bb7bd",
+    "dn": "Assassins Creed",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8ed869d030b35a48d02c3060b9b4ab3d300bb7bd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        142,
+        216,
+        105,
+        208,
+        48,
+        179,
+        90,
+        72,
+        208,
+        44,
+        48,
+        96,
+        185,
+        180,
+        171,
+        61,
+        48,
+        11,
+        183,
+        189
+      ]
+    },
+    "name": "Assassins Creed",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 51,
+  "last_updated": "2016-12-25T07:37:36.427Z"
+}

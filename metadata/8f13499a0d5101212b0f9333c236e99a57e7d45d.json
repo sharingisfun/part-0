@@ -1,1 +1,61 @@
-{"title":"The Walking Dead S05E05 HDTV XviD-FUM[ettv]","uid":11417405,"size":364426173,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8f13499a0d5101212b0f9333c236e99a57e7d45d&amp;dn=The+Walking+Dead+S05E05+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":3,"uploader":"ettv","files":2,"time":1415594368,"description":"FUM\nXviD Video : 1 124 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 624x350","torrent":{"xt":"urn:btih:8f13499a0d5101212b0f9333c236e99a57e7d45d","amp;dn":"The+Walking+Dead+S05E05+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8f13499a0d5101212b0f9333c236e99a57e7d45d","infoHashBuffer":{"type":"Buffer","data":[143,19,73,154,13,81,1,33,43,15,147,51,194,54,233,154,87,231,212,93]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead S05E05 HDTV XviD-FUM[ettv]",
+  "uid": 11417405,
+  "size": 364426173,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8f13499a0d5101212b0f9333c236e99a57e7d45d&amp;dn=The+Walking+Dead+S05E05+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1415594368,
+  "description": "FUM\nXviD Video : 1 124 Kbps\nFrameRate : 23.976\nMP3 2ch CBR : 128 Kbps\nResolution (AR) : 624x350",
+  "parsed": {
+    "xt": "urn:btih:8f13499a0d5101212b0f9333c236e99a57e7d45d",
+    "dn": "The Walking Dead S05E05 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8f13499a0d5101212b0f9333c236e99a57e7d45d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        143,
+        19,
+        73,
+        154,
+        13,
+        81,
+        1,
+        33,
+        43,
+        15,
+        147,
+        51,
+        194,
+        54,
+        233,
+        154,
+        87,
+        231,
+        212,
+        93
+      ]
+    },
+    "name": "The Walking Dead S05E05 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 4,
+  "last_updated": "2016-12-25T07:38:52.684Z"
+}

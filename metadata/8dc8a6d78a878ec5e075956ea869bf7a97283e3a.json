@@ -1,1 +1,61 @@
-{"title":"EViews 8 Enterprise Edition","uid":10849765,"size":184720749,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:8dc8a6d78a878ec5e075956ea869bf7a97283e3a&amp;dn=EViews+8+Enterprise+Edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":0,"uploader":"moneymakestheworldgoround","files":-1,"time":1408802368,"description":"EViews 8 offers academic researchers, corporations, government agencies, and students access to powerful statistical, forecasting, and modeling tools through an innovative, easy-to-use object-oriented interface.\n\nEViews blends the best of modern software technology with cutting edge features. The result is a state-of-the art program that offers unprecedented power within a flexible, easy-to-use interface.\n\nExplore the world of EViews and discover why it's the worldwide leader in Windows-based econometric software and the choice of those who demand the very best.","torrent":{"xt":"urn:btih:8dc8a6d78a878ec5e075956ea869bf7a97283e3a","amp;dn":"EViews+8+Enterprise+Edition","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8dc8a6d78a878ec5e075956ea869bf7a97283e3a","infoHashBuffer":{"type":"Buffer","data":[141,200,166,215,138,135,142,197,224,117,149,110,168,105,191,122,151,40,62,58]},"announce":[],"urlList":[]}}
+{
+  "title": "EViews 8 Enterprise Edition",
+  "uid": 10849765,
+  "size": 184720749,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:8dc8a6d78a878ec5e075956ea869bf7a97283e3a&amp;dn=EViews+8+Enterprise+Edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 0,
+  "uploader": "moneymakestheworldgoround",
+  "files": -1,
+  "time": 1408802368,
+  "description": "EViews 8 offers academic researchers, corporations, government agencies, and students access to powerful statistical, forecasting, and modeling tools through an innovative, easy-to-use object-oriented interface.\n\nEViews blends the best of modern software technology with cutting edge features. The result is a state-of-the art program that offers unprecedented power within a flexible, easy-to-use interface.\n\nExplore the world of EViews and discover why it's the worldwide leader in Windows-based econometric software and the choice of those who demand the very best.",
+  "parsed": {
+    "xt": "urn:btih:8dc8a6d78a878ec5e075956ea869bf7a97283e3a",
+    "dn": "EViews 8 Enterprise Edition",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8dc8a6d78a878ec5e075956ea869bf7a97283e3a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        141,
+        200,
+        166,
+        215,
+        138,
+        135,
+        142,
+        197,
+        224,
+        117,
+        149,
+        110,
+        168,
+        105,
+        191,
+        122,
+        151,
+        40,
+        62,
+        58
+      ]
+    },
+    "name": "EViews 8 Enterprise Edition",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 21,
+  "last_updated": "2016-12-25T07:30:53.281Z"
+}

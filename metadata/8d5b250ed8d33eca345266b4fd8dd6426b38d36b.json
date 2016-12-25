@@ -1,1 +1,61 @@
-{"title":"The.Devil.Wears.Prada[2006]DvDrip[Eng]-aXXo","uid":4472875,"size":734881580,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:8d5b250ed8d33eca345266b4fd8dd6426b38d36b&amp;dn=The.Devil.Wears.Prada%5B2006%5DDvDrip%5BEng%5D-aXXo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":150,"leechers":2,"uploader":"circlensess","files":2,"time":1225210884,"description":"              ","torrent":{"xt":"urn:btih:8d5b250ed8d33eca345266b4fd8dd6426b38d36b","amp;dn":"The.Devil.Wears.Prada%5B2006%5DDvDrip%5BEng%5D-aXXo","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8d5b250ed8d33eca345266b4fd8dd6426b38d36b","infoHashBuffer":{"type":"Buffer","data":[141,91,37,14,216,211,62,202,52,82,102,180,253,141,214,66,107,56,211,107]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Devil.Wears.Prada[2006]DvDrip[Eng]-aXXo",
+  "uid": 4472875,
+  "size": 734881580,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:8d5b250ed8d33eca345266b4fd8dd6426b38d36b&amp;dn=The.Devil.Wears.Prada%5B2006%5DDvDrip%5BEng%5D-aXXo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 150,
+  "leechers": 2,
+  "uploader": "circlensess",
+  "files": 2,
+  "time": 1225210884,
+  "description": "              ",
+  "parsed": {
+    "xt": "urn:btih:8d5b250ed8d33eca345266b4fd8dd6426b38d36b",
+    "dn": "The.Devil.Wears.Prada[2006]DvDrip[Eng]-aXXo",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8d5b250ed8d33eca345266b4fd8dd6426b38d36b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        141,
+        91,
+        37,
+        14,
+        216,
+        211,
+        62,
+        202,
+        52,
+        82,
+        102,
+        180,
+        253,
+        141,
+        214,
+        66,
+        107,
+        56,
+        211,
+        107
+      ]
+    },
+    "name": "The.Devil.Wears.Prada[2006]DvDrip[Eng]-aXXo",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 152,
+  "peers": 10,
+  "last_updated": "2016-12-25T07:27:54.768Z"
+}

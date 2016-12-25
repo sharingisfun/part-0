@@ -1,1 +1,61 @@
-{"title":"MTV Video Music Awards 2014 HDTV x264-2HD[ettv]","uid":10868560,"size":889886203,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8d88b5ff2b565e242f6825577990db35aae3ec6f&amp;dn=MTV+Video+Music+Awards+2014+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":5,"uploader":"ettv","files":2,"time":1408944967,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:8d88b5ff2b565e242f6825577990db35aae3ec6f","amp;dn":"MTV+Video+Music+Awards+2014+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8d88b5ff2b565e242f6825577990db35aae3ec6f","infoHashBuffer":{"type":"Buffer","data":[141,136,181,255,43,86,94,36,47,104,37,87,121,144,219,53,170,227,236,111]},"announce":[],"urlList":[]}}
+{
+  "title": "MTV Video Music Awards 2014 HDTV x264-2HD[ettv]",
+  "uid": 10868560,
+  "size": 889886203,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8d88b5ff2b565e242f6825577990db35aae3ec6f&amp;dn=MTV+Video+Music+Awards+2014+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1408944967,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:8d88b5ff2b565e242f6825577990db35aae3ec6f",
+    "dn": "MTV Video Music Awards 2014 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8d88b5ff2b565e242f6825577990db35aae3ec6f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        141,
+        136,
+        181,
+        255,
+        43,
+        86,
+        94,
+        36,
+        47,
+        104,
+        37,
+        87,
+        121,
+        144,
+        219,
+        53,
+        170,
+        227,
+        236,
+        111
+      ]
+    },
+    "name": "MTV Video Music Awards 2014 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 5,
+  "last_updated": "2016-12-25T07:29:10.980Z"
+}

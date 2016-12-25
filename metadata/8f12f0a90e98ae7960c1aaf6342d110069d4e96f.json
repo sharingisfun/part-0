@@ -1,1 +1,61 @@
-{"title":"My Morning Jacket - Z (2005)","uid":5522180,"size":113648823,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:8f12f0a90e98ae7960c1aaf6342d110069d4e96f&amp;dn=My+Morning+Jacket+-+Z+%282005%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":0,"uploader":"CanadaJoe","files":11,"time":1272645025,"description":" &lt;a href=&quot;\nhttp://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:wjfwxqlsldde&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:wjfwxqlsldde&lt;/a&gt;\n\nCountry-Rock mp3@320kbps","torrent":{"xt":"urn:btih:8f12f0a90e98ae7960c1aaf6342d110069d4e96f","amp;dn":"My+Morning+Jacket+-+Z+%282005%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8f12f0a90e98ae7960c1aaf6342d110069d4e96f","infoHashBuffer":{"type":"Buffer","data":[143,18,240,169,14,152,174,121,96,193,170,246,52,45,17,0,105,212,233,111]},"announce":[],"urlList":[]}}
+{
+  "title": "My Morning Jacket - Z (2005)",
+  "uid": 5522180,
+  "size": 113648823,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:8f12f0a90e98ae7960c1aaf6342d110069d4e96f&amp;dn=My+Morning+Jacket+-+Z+%282005%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 0,
+  "uploader": "CanadaJoe",
+  "files": 11,
+  "time": 1272645025,
+  "description": " &lt;a href=&quot;\nhttp://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:wjfwxqlsldde&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.allmusic.com/cg/amg.dll?p=amg&amp;sql=10:wjfwxqlsldde&lt;/a&gt;\n\nCountry-Rock mp3@320kbps",
+  "parsed": {
+    "xt": "urn:btih:8f12f0a90e98ae7960c1aaf6342d110069d4e96f",
+    "dn": "My Morning Jacket - Z (2005)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8f12f0a90e98ae7960c1aaf6342d110069d4e96f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        143,
+        18,
+        240,
+        169,
+        14,
+        152,
+        174,
+        121,
+        96,
+        193,
+        170,
+        246,
+        52,
+        45,
+        17,
+        0,
+        105,
+        212,
+        233,
+        111
+      ]
+    },
+    "name": "My Morning Jacket - Z (2005)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 27,
+  "last_updated": "2016-12-25T07:38:50.677Z"
+}

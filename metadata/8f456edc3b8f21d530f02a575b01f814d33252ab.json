@@ -1,1 +1,61 @@
-{"title":"Family Guy S13E09 720p HDTV x264-KILLERS","uid":11672882,"size":362438852,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:8f456edc3b8f21d530f02a575b01f814d33252ab&amp;dn=Family+Guy+S13E09+720p+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":191,"leechers":7,"uploader":"Mbb15","files":3,"time":1422738189,"description":"In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another","torrent":{"xt":"urn:btih:8f456edc3b8f21d530f02a575b01f814d33252ab","amp;dn":"Family+Guy+S13E09+720p+HDTV+x264-KILLERS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8f456edc3b8f21d530f02a575b01f814d33252ab","infoHashBuffer":{"type":"Buffer","data":[143,69,110,220,59,143,33,213,48,240,42,87,91,1,248,20,211,50,82,171]},"announce":[],"urlList":[]}}
+{
+  "title": "Family Guy S13E09 720p HDTV x264-KILLERS",
+  "uid": 11672882,
+  "size": 362438852,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:8f456edc3b8f21d530f02a575b01f814d33252ab&amp;dn=Family+Guy+S13E09+720p+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 191,
+  "leechers": 7,
+  "uploader": "Mbb15",
+  "files": 3,
+  "time": 1422738189,
+  "description": "In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another",
+  "parsed": {
+    "xt": "urn:btih:8f456edc3b8f21d530f02a575b01f814d33252ab",
+    "dn": "Family Guy S13E09 720p HDTV x264-KILLERS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8f456edc3b8f21d530f02a575b01f814d33252ab",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        143,
+        69,
+        110,
+        220,
+        59,
+        143,
+        33,
+        213,
+        48,
+        240,
+        42,
+        87,
+        91,
+        1,
+        248,
+        20,
+        211,
+        50,
+        82,
+        171
+      ]
+    },
+    "name": "Family Guy S13E09 720p HDTV x264-KILLERS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 198,
+  "peers": 11,
+  "last_updated": "2016-12-25T07:40:04.918Z"
+}
