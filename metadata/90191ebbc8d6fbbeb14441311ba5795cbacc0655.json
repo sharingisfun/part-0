@@ -1,1 +1,61 @@
-{"title":"MAGIC! - Rude (Acoustic) [iTunes Plus AAC M4A]","uid":10574526,"size":8254061,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:90191ebbc8d6fbbeb14441311ba5795cbacc0655&amp;dn=MAGIC%21+-+Rude+%28Acoustic%29+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":0,"uploader":"Music_Blitz","files":-1,"time":1405626344,"description":"MAGIC! - Rude (Acoustic) [iTunes Plus AAC M4A]\n\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes \nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Monday 14th July 2014","torrent":{"xt":"urn:btih:90191ebbc8d6fbbeb14441311ba5795cbacc0655","amp;dn":"MAGIC%21+-+Rude+%28Acoustic%29+%5BiTunes+Plus+AAC+M4A%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"90191ebbc8d6fbbeb14441311ba5795cbacc0655","infoHashBuffer":{"type":"Buffer","data":[144,25,30,187,200,214,251,190,177,68,65,49,27,165,121,92,186,204,6,85]},"announce":[],"urlList":[]}}
+{
+  "title": "MAGIC! - Rude (Acoustic) [iTunes Plus AAC M4A]",
+  "uid": 10574526,
+  "size": 8254061,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:90191ebbc8d6fbbeb14441311ba5795cbacc0655&amp;dn=MAGIC%21+-+Rude+%28Acoustic%29+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 0,
+  "uploader": "Music_Blitz",
+  "files": -1,
+  "time": 1405626344,
+  "description": "MAGIC! - Rude (Acoustic) [iTunes Plus AAC M4A]\n\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes \nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Monday 14th July 2014",
+  "parsed": {
+    "xt": "urn:btih:90191ebbc8d6fbbeb14441311ba5795cbacc0655",
+    "dn": "MAGIC! - Rude (Acoustic) [iTunes Plus AAC M4A]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "90191ebbc8d6fbbeb14441311ba5795cbacc0655",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        144,
+        25,
+        30,
+        187,
+        200,
+        214,
+        251,
+        190,
+        177,
+        68,
+        65,
+        49,
+        27,
+        165,
+        121,
+        92,
+        186,
+        204,
+        6,
+        85
+      ]
+    },
+    "name": "MAGIC! - Rude (Acoustic) [iTunes Plus AAC M4A]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 4,
+  "last_updated": "2016-12-25T07:45:36.077Z"
+}

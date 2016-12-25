@@ -1,1 +1,61 @@
-{"title":"Jay-Z Feat. Alicia Keys - Empire State Of Mind [.mp3]","uid":5150409,"size":11078976,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:90a5d4c3f52c5256deb2f0a6946dd9c9bacda19f&amp;dn=Jay-Z+Feat.+Alicia+Keys+-+Empire+State+Of+Mind+%5B.mp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":5,"uploader":"the-steward","files":1,"time":1257523175,"description":"Jay-Z Feat. Alicia Keys - Empire State Of Mind\n320 kb/s","torrent":{"xt":"urn:btih:90a5d4c3f52c5256deb2f0a6946dd9c9bacda19f","amp;dn":"Jay-Z+Feat.+Alicia+Keys+-+Empire+State+Of+Mind+%5B.mp3%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"90a5d4c3f52c5256deb2f0a6946dd9c9bacda19f","infoHashBuffer":{"type":"Buffer","data":[144,165,212,195,245,44,82,86,222,178,240,166,148,109,217,201,186,205,161,159]},"announce":[],"urlList":[]}}
+{
+  "title": "Jay-Z Feat. Alicia Keys - Empire State Of Mind [.mp3]",
+  "uid": 5150409,
+  "size": 11078976,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:90a5d4c3f52c5256deb2f0a6946dd9c9bacda19f&amp;dn=Jay-Z+Feat.+Alicia+Keys+-+Empire+State+Of+Mind+%5B.mp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 5,
+  "uploader": "the-steward",
+  "files": 1,
+  "time": 1257523175,
+  "description": "Jay-Z Feat. Alicia Keys - Empire State Of Mind\n320 kb/s",
+  "parsed": {
+    "xt": "urn:btih:90a5d4c3f52c5256deb2f0a6946dd9c9bacda19f",
+    "dn": "Jay-Z Feat. Alicia Keys - Empire State Of Mind [.mp3]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "90a5d4c3f52c5256deb2f0a6946dd9c9bacda19f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        144,
+        165,
+        212,
+        195,
+        245,
+        44,
+        82,
+        86,
+        222,
+        178,
+        240,
+        166,
+        148,
+        109,
+        217,
+        201,
+        186,
+        205,
+        161,
+        159
+      ]
+    },
+    "name": "Jay-Z Feat. Alicia Keys - Empire State Of Mind [.mp3]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 76,
+  "peers": 42,
+  "last_updated": "2016-12-25T07:49:20.759Z"
+}

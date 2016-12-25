@@ -1,1 +1,61 @@
-{"title":"The Simpsons - Season 3 [Complete]","uid":3959147,"size":3535417344,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:90d16faae1a230ff82fc5c28c6e5b557083d3b88&amp;dn=The+Simpsons+-+Season+3+%5BComplete%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":82,"leechers":24,"uploader":"killerdemon","files":24,"time":1199334428,"description":"Complete Season 3 of The Simpsons","torrent":{"xt":"urn:btih:90d16faae1a230ff82fc5c28c6e5b557083d3b88","amp;dn":"The+Simpsons+-+Season+3+%5BComplete%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"90d16faae1a230ff82fc5c28c6e5b557083d3b88","infoHashBuffer":{"type":"Buffer","data":[144,209,111,170,225,162,48,255,130,252,92,40,198,229,181,87,8,61,59,136]},"announce":[],"urlList":[]}}
+{
+  "title": "The Simpsons - Season 3 [Complete]",
+  "uid": 3959147,
+  "size": 3535417344,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:90d16faae1a230ff82fc5c28c6e5b557083d3b88&amp;dn=The+Simpsons+-+Season+3+%5BComplete%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 82,
+  "leechers": 24,
+  "uploader": "killerdemon",
+  "files": 24,
+  "time": 1199334428,
+  "description": "Complete Season 3 of The Simpsons",
+  "parsed": {
+    "xt": "urn:btih:90d16faae1a230ff82fc5c28c6e5b557083d3b88",
+    "dn": "The Simpsons - Season 3 [Complete]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "90d16faae1a230ff82fc5c28c6e5b557083d3b88",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        144,
+        209,
+        111,
+        170,
+        225,
+        162,
+        48,
+        255,
+        130,
+        252,
+        92,
+        40,
+        198,
+        229,
+        181,
+        87,
+        8,
+        61,
+        59,
+        136
+      ]
+    },
+    "name": "The Simpsons - Season 3 [Complete]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 106,
+  "peers": 152,
+  "last_updated": "2016-12-25T07:50:16.911Z"
+}

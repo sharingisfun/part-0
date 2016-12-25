@@ -1,1 +1,61 @@
-{"title":"Dr House - Saison 3 HDTV FR - ComplÃƒÆ’Ã‚Â¨te","uid":4849511,"size":8931258104,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:9009c0e730e49256f295d36b470bdd70e79cd87b&amp;dn=Dr+House+-+Saison+3+HDTV+FR+-+Compl%C3%83%C2%A8te&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":23,"uploader":"lebonprince","files":24,"time":1239819270,"description":"La Suite en HDTV FR\n\nDr House Saison 3 - 24 E - Final\n\nSEED\n\nSEED\n\nSEED","torrent":{"xt":"urn:btih:9009c0e730e49256f295d36b470bdd70e79cd87b","amp;dn":"Dr+House+-+Saison+3+HDTV+FR+-+Compl%C3%83%C2%A8te","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9009c0e730e49256f295d36b470bdd70e79cd87b","infoHashBuffer":{"type":"Buffer","data":[144,9,192,231,48,228,146,86,242,149,211,107,71,11,221,112,231,156,216,123]},"announce":[],"urlList":[]}}
+{
+  "title": "Dr House - Saison 3 HDTV FR - ComplÃƒÆ’Ã‚Â¨te",
+  "uid": 4849511,
+  "size": 8931258104,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:9009c0e730e49256f295d36b470bdd70e79cd87b&amp;dn=Dr+House+-+Saison+3+HDTV+FR+-+Compl%C3%83%C2%A8te&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 23,
+  "uploader": "lebonprince",
+  "files": 24,
+  "time": 1239819270,
+  "description": "La Suite en HDTV FR\n\nDr House Saison 3 - 24 E - Final\n\nSEED\n\nSEED\n\nSEED",
+  "parsed": {
+    "xt": "urn:btih:9009c0e730e49256f295d36b470bdd70e79cd87b",
+    "dn": "Dr House - Saison 3 HDTV FR - ComplÃ¨te",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9009c0e730e49256f295d36b470bdd70e79cd87b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        144,
+        9,
+        192,
+        231,
+        48,
+        228,
+        146,
+        86,
+        242,
+        149,
+        211,
+        107,
+        71,
+        11,
+        221,
+        112,
+        231,
+        156,
+        216,
+        123
+      ]
+    },
+    "name": "Dr House - Saison 3 HDTV FR - ComplÃ¨te",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 102,
+  "peers": 50,
+  "last_updated": "2016-12-25T07:45:15.999Z"
+}

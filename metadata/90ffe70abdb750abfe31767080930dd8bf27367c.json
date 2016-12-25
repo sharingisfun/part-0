@@ -1,1 +1,61 @@
-{"title":"Foo Fighters - Sonic Highways [2014 album @320kbps] Seed_Master","uid":11537952,"size":101302965,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:90ffe70abdb750abfe31767080930dd8bf27367c&amp;dn=Foo+Fighters+-+Sonic+Highways+%5B2014+album+%40320kbps%5D+Seed_Master&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":0,"uploader":"Seed_Master","files":-1,"time":1416639405,"description":"****************\nTracklist: \n\n1.Something From Nothing\n2.The Feast And The Famine\n3. Congregation\n4. What Did I do? God As My Witness\n5. Outside\n6. In The Clear\n7. Subterranean\n8. I Am A River\n*****************\n\nCheck Out All My Uploads on Kickass.so &lt;a href=&quot;\nhttps://kickass.so/user/Seed_Master/uploads/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://kickass.so/user/Seed_Master/uploads/&lt;/a&gt;\n\nEnjoy the torrent? Then buy the album to support the artist.\n\n\n*Seed_Master*","torrent":{"xt":"urn:btih:90ffe70abdb750abfe31767080930dd8bf27367c","amp;dn":"Foo+Fighters+-+Sonic+Highways+%5B2014+album+%40320kbps%5D+Seed_Master","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"90ffe70abdb750abfe31767080930dd8bf27367c","infoHashBuffer":{"type":"Buffer","data":[144,255,231,10,189,183,80,171,254,49,118,112,128,147,13,216,191,39,54,124]},"announce":[],"urlList":[]}}
+{
+  "title": "Foo Fighters - Sonic Highways [2014 album @320kbps] Seed_Master",
+  "uid": 11537952,
+  "size": 101302965,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:90ffe70abdb750abfe31767080930dd8bf27367c&amp;dn=Foo+Fighters+-+Sonic+Highways+%5B2014+album+%40320kbps%5D+Seed_Master&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 0,
+  "uploader": "Seed_Master",
+  "files": -1,
+  "time": 1416639405,
+  "description": "****************\nTracklist: \n\n1.Something From Nothing\n2.The Feast And The Famine\n3. Congregation\n4. What Did I do? God As My Witness\n5. Outside\n6. In The Clear\n7. Subterranean\n8. I Am A River\n*****************\n\nCheck Out All My Uploads on Kickass.so &lt;a href=&quot;\nhttps://kickass.so/user/Seed_Master/uploads/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://kickass.so/user/Seed_Master/uploads/&lt;/a&gt;\n\nEnjoy the torrent? Then buy the album to support the artist.\n\n\n*Seed_Master*",
+  "parsed": {
+    "xt": "urn:btih:90ffe70abdb750abfe31767080930dd8bf27367c",
+    "dn": "Foo Fighters - Sonic Highways [2014 album @320kbps] Seed_Master",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "90ffe70abdb750abfe31767080930dd8bf27367c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        144,
+        255,
+        231,
+        10,
+        189,
+        183,
+        80,
+        171,
+        254,
+        49,
+        118,
+        112,
+        128,
+        147,
+        13,
+        216,
+        191,
+        39,
+        54,
+        124
+      ]
+    },
+    "name": "Foo Fighters - Sonic Highways [2014 album @320kbps] Seed_Master",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 14,
+  "last_updated": "2016-12-25T07:51:49.160Z"
+}

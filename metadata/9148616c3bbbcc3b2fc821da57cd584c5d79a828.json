@@ -1,1 +1,61 @@
-{"title":"Dr. Dre - I Need a Doctor (feat. Eminem) [2011-Single][MJN]","uid":6142546,"size":11470643,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9148616c3bbbcc3b2fc821da57cd584c5d79a828&amp;dn=Dr.+Dre+-+I+Need+a+Doctor+%28feat.+Eminem%29+%5B2011-Single%5D%5BMJN%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":0,"uploader":"jainmehul","files":-1,"time":1296555186,"description":"\nDr. Dre, Skylar Grey &amp; Eminem - I Need a Doctor [2011-Single][MJN]\n\n320 Kbps Constant - iTunesRip \n\nENJOY.","torrent":{"xt":"urn:btih:9148616c3bbbcc3b2fc821da57cd584c5d79a828","amp;dn":"Dr.+Dre+-+I+Need+a+Doctor+%28feat.+Eminem%29+%5B2011-Single%5D%5BMJN%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9148616c3bbbcc3b2fc821da57cd584c5d79a828","infoHashBuffer":{"type":"Buffer","data":[145,72,97,108,59,187,204,59,47,200,33,218,87,205,88,76,93,121,168,40]},"announce":[],"urlList":[]}}
+{
+  "title": "Dr. Dre - I Need a Doctor (feat. Eminem) [2011-Single][MJN]",
+  "uid": 6142546,
+  "size": 11470643,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9148616c3bbbcc3b2fc821da57cd584c5d79a828&amp;dn=Dr.+Dre+-+I+Need+a+Doctor+%28feat.+Eminem%29+%5B2011-Single%5D%5BMJN%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 0,
+  "uploader": "jainmehul",
+  "files": -1,
+  "time": 1296555186,
+  "description": "\nDr. Dre, Skylar Grey &amp; Eminem - I Need a Doctor [2011-Single][MJN]\n\n320 Kbps Constant - iTunesRip \n\nENJOY.",
+  "parsed": {
+    "xt": "urn:btih:9148616c3bbbcc3b2fc821da57cd584c5d79a828",
+    "dn": "Dr. Dre - I Need a Doctor (feat. Eminem) [2011-Single][MJN]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9148616c3bbbcc3b2fc821da57cd584c5d79a828",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        145,
+        72,
+        97,
+        108,
+        59,
+        187,
+        204,
+        59,
+        47,
+        200,
+        33,
+        218,
+        87,
+        205,
+        88,
+        76,
+        93,
+        121,
+        168,
+        40
+      ]
+    },
+    "name": "Dr. Dre - I Need a Doctor (feat. Eminem) [2011-Single][MJN]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 39,
+  "last_updated": "2016-12-25T07:53:43.507Z"
+}

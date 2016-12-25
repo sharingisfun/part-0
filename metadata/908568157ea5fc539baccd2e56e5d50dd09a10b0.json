@@ -1,1 +1,63 @@
-{"title":"Serato.DJ.1.9.0.23.53","uid":14356020,"size":282655350,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:908568157ea5fc539baccd2e56e5d50dd09a10b0&amp;dn=Serato.DJ.1.9.0.23.53&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":4,"uploader":null,"files":5,"time":1461044881,"description":"- Instructions - \r\n\r\n1. Disable internet connection, install the app running as Admin.\r\n2. Open it after installed, you should see &quot;Activation / Buy&quot; on the right if you have made a clean installation.\r\n3. Close it completely. Copy and replace cracked files in default location.\r\n4. Block outgoing connections in firewall","torrent":{"xt":"urn:btih:908568157ea5fc539baccd2e56e5d50dd09a10b0","amp;dn":"Serato.DJ.1.9.0.23.53","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"908568157ea5fc539baccd2e56e5d50dd09a10b0","infoHashBuffer":{"type":"Buffer","data":[144,133,104,21,126,165,252,83,155,172,205,46,86,229,213,13,208,154,16,176]},"announce":[],"urlList":[]}}
+{
+  "title": "Serato.DJ.1.9.0.23.53",
+  "uid": 14356020,
+  "size": 282655350,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:908568157ea5fc539baccd2e56e5d50dd09a10b0&amp;dn=Serato.DJ.1.9.0.23.53&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 4,
+  "uploader": null,
+  "files": 5,
+  "time": 1461044881,
+  "description": "- Instructions - \r\n\r\n1. Disable internet connection, install the app running as Admin.\r\n2. Open it after installed, you should see &quot;Activation / Buy&quot; on the right if you have made a clean installation.\r\n3. Close it completely. Copy and replace cracked files in default location.\r\n4. Block outgoing connections in firewall",
+  "parsed": {
+    "xt": "urn:btih:908568157ea5fc539baccd2e56e5d50dd09a10b0",
+    "dn": "Serato.DJ.1.9.0.23.53",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "908568157ea5fc539baccd2e56e5d50dd09a10b0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        144,
+        133,
+        104,
+        21,
+        126,
+        165,
+        252,
+        83,
+        155,
+        172,
+        205,
+        46,
+        86,
+        229,
+        213,
+        13,
+        208,
+        154,
+        16,
+        176
+      ]
+    },
+    "name": "Serato.DJ.1.9.0.23.53",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 100,
+  "last_updated": "2016-12-25T07:48:12.563Z"
+}

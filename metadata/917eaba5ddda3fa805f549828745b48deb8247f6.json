@@ -1,1 +1,61 @@
-{"title":"Orphan Black S02E08 HDTV x264-KILLERS[ettv]","uid":10312450,"size":312412655,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:917eaba5ddda3fa805f549828745b48deb8247f6&amp;dn=Orphan+Black+S02E08+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":76,"leechers":3,"uploader":"ettv","files":2,"time":1402200409,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:917eaba5ddda3fa805f549828745b48deb8247f6","amp;dn":"Orphan+Black+S02E08+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"917eaba5ddda3fa805f549828745b48deb8247f6","infoHashBuffer":{"type":"Buffer","data":[145,126,171,165,221,218,63,168,5,245,73,130,135,69,180,141,235,130,71,246]},"announce":[],"urlList":[]}}
+{
+  "title": "Orphan Black S02E08 HDTV x264-KILLERS[ettv]",
+  "uid": 10312450,
+  "size": 312412655,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:917eaba5ddda3fa805f549828745b48deb8247f6&amp;dn=Orphan+Black+S02E08+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 76,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1402200409,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:917eaba5ddda3fa805f549828745b48deb8247f6",
+    "dn": "Orphan Black S02E08 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "917eaba5ddda3fa805f549828745b48deb8247f6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        145,
+        126,
+        171,
+        165,
+        221,
+        218,
+        63,
+        168,
+        5,
+        245,
+        73,
+        130,
+        135,
+        69,
+        180,
+        141,
+        235,
+        130,
+        71,
+        246
+      ]
+    },
+    "name": "Orphan Black S02E08 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 1,
+  "last_updated": "2016-12-25T07:54:57.723Z"
+}

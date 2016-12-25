@@ -1,1 +1,63 @@
-{"title":"Windows 10 - 8 Books (gnv64)","uid":15832426,"size":41011592,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:9148021a3b4b5b5dfc3724dd511a5272c6f6e2ef&amp;dn=Windows+10+-+8+Books+%28gnv64%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":101,"leechers":5,"uploader":"gnv65","files":11,"time":1473932457,"description":"A collection of books for learning the intricacies of Windows 10. \r\nAll books except the last one are in ePUB format:\r\n\r\n1. Windows 10 Troubleshooting by Mike Halsey\r\n2. Windows 10 -The Ultimate Guide for Brginners by Malcolm Schwartz\r\n3. Windows 10 Survival Guide for Genealogists by Thomas MacEntee\r\n4. Windows 10 For Dummies (2nd Ed, 2016) by Andy Rathbone\r\n5. Windows 10 - The Ultimate User Guide by Steven Jones\r\n6. Windows 10 - The Stress Free Way by IT Academy\r\n7. Windows 10 - The Beginner's Guide by Matthew Sanderson\r\n8. Windows 10 - Learn IT the Easy Way\r\n \nhttps://s16.postimg.io/jx2sh31rp/Windows_10_8_Books.jpg","torrent":{"xt":"urn:btih:9148021a3b4b5b5dfc3724dd511a5272c6f6e2ef","amp;dn":"Windows+10+-+8+Books+%28gnv64%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9148021a3b4b5b5dfc3724dd511a5272c6f6e2ef","infoHashBuffer":{"type":"Buffer","data":[145,72,2,26,59,75,91,93,252,55,36,221,81,26,82,114,198,246,226,239]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows 10 - 8 Books (gnv64)",
+  "uid": 15832426,
+  "size": 41011592,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:9148021a3b4b5b5dfc3724dd511a5272c6f6e2ef&amp;dn=Windows+10+-+8+Books+%28gnv64%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 101,
+  "leechers": 5,
+  "uploader": "gnv65",
+  "files": 11,
+  "time": 1473932457,
+  "description": "A collection of books for learning the intricacies of Windows 10. \r\nAll books except the last one are in ePUB format:\r\n\r\n1. Windows 10 Troubleshooting by Mike Halsey\r\n2. Windows 10 -The Ultimate Guide for Brginners by Malcolm Schwartz\r\n3. Windows 10 Survival Guide for Genealogists by Thomas MacEntee\r\n4. Windows 10 For Dummies (2nd Ed, 2016) by Andy Rathbone\r\n5. Windows 10 - The Ultimate User Guide by Steven Jones\r\n6. Windows 10 - The Stress Free Way by IT Academy\r\n7. Windows 10 - The Beginner's Guide by Matthew Sanderson\r\n8. Windows 10 - Learn IT the Easy Way\r\n \nhttps://s16.postimg.io/jx2sh31rp/Windows_10_8_Books.jpg",
+  "parsed": {
+    "xt": "urn:btih:9148021a3b4b5b5dfc3724dd511a5272c6f6e2ef",
+    "dn": "Windows 10 - 8 Books (gnv64)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "9148021a3b4b5b5dfc3724dd511a5272c6f6e2ef",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        145,
+        72,
+        2,
+        26,
+        59,
+        75,
+        91,
+        93,
+        252,
+        55,
+        36,
+        221,
+        81,
+        26,
+        82,
+        114,
+        198,
+        246,
+        226,
+        239
+      ]
+    },
+    "name": "Windows 10 - 8 Books (gnv64)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 106,
+  "peers": 34,
+  "last_updated": "2016-12-25T07:53:41.501Z"
+}

@@ -1,1 +1,61 @@
-{"title":"50 tons de cinza dublado portugues","uid":11865685,"size":375982570,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:9048e60d79ee23ffdb6ff26782032243926fead8&amp;dn=50+tons+de+cinza+dublado+portugues&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":145,"leechers":24,"uploader":"carlosqzs","files":3,"time":1430342596,"description":"filme dublado em portugues com imagem boa","torrent":{"xt":"urn:btih:9048e60d79ee23ffdb6ff26782032243926fead8","amp;dn":"50+tons+de+cinza+dublado+portugues","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9048e60d79ee23ffdb6ff26782032243926fead8","infoHashBuffer":{"type":"Buffer","data":[144,72,230,13,121,238,35,255,219,111,242,103,130,3,34,67,146,111,234,216]},"announce":[],"urlList":[]}}
+{
+  "title": "50 tons de cinza dublado portugues",
+  "uid": 11865685,
+  "size": 375982570,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:9048e60d79ee23ffdb6ff26782032243926fead8&amp;dn=50+tons+de+cinza+dublado+portugues&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 145,
+  "leechers": 24,
+  "uploader": "carlosqzs",
+  "files": 3,
+  "time": 1430342596,
+  "description": "filme dublado em portugues com imagem boa",
+  "parsed": {
+    "xt": "urn:btih:9048e60d79ee23ffdb6ff26782032243926fead8",
+    "dn": "50 tons de cinza dublado portugues",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9048e60d79ee23ffdb6ff26782032243926fead8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        144,
+        72,
+        230,
+        13,
+        121,
+        238,
+        35,
+        255,
+        219,
+        111,
+        242,
+        103,
+        130,
+        3,
+        34,
+        67,
+        146,
+        111,
+        234,
+        216
+      ]
+    },
+    "name": "50 tons de cinza dublado portugues",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 169,
+  "peers": 22,
+  "last_updated": "2016-12-25T07:46:28.224Z"
+}

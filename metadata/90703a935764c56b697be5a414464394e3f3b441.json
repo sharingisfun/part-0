@@ -1,1 +1,61 @@
-{"title":"PARTYNEXTDOOR - PARTYNEXTDOOR TWO(Explicit)[Mp3-320kbps-2014]","uid":10652505,"size":110330061,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:90703a935764c56b697be5a414464394e3f3b441&amp;dn=PARTYNEXTDOOR+-+PARTYNEXTDOOR+TWO%28Explicit%29%5BMp3-320kbps-2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":130,"leechers":10,"uploader":"simpsonrony","files":-1,"time":1406630233,"description":"Source: https://itunes.apple.com/us/album/partynextdoor-two/id897733410\n\n\nTrack List:\n***********\n\n01 East Liberty\n02 Sls\n03 Sex On the Beach\n04 Her Way\n05 Belong To the City\n06 Grown Woman\n07 Fwu\n08 Recognize (feat. Drake)\n09 Options\n10 Thirsty\n11 Bout It\n12 Muse\n+Digital Booklet\n\n\nAudio Info:\n************\nAudio\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy","torrent":{"xt":"urn:btih:90703a935764c56b697be5a414464394e3f3b441","amp;dn":"PARTYNEXTDOOR+-+PARTYNEXTDOOR+TWO%28Explicit%29%5BMp3-320kbps-2014%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"90703a935764c56b697be5a414464394e3f3b441","infoHashBuffer":{"type":"Buffer","data":[144,112,58,147,87,100,197,107,105,123,229,164,20,70,67,148,227,243,180,65]},"announce":[],"urlList":[]}}
+{
+  "title": "PARTYNEXTDOOR - PARTYNEXTDOOR TWO(Explicit)[Mp3-320kbps-2014]",
+  "uid": 10652505,
+  "size": 110330061,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:90703a935764c56b697be5a414464394e3f3b441&amp;dn=PARTYNEXTDOOR+-+PARTYNEXTDOOR+TWO%28Explicit%29%5BMp3-320kbps-2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 130,
+  "leechers": 10,
+  "uploader": "simpsonrony",
+  "files": -1,
+  "time": 1406630233,
+  "description": "Source: https://itunes.apple.com/us/album/partynextdoor-two/id897733410\n\n\nTrack List:\n***********\n\n01 East Liberty\n02 Sls\n03 Sex On the Beach\n04 Her Way\n05 Belong To the City\n06 Grown Woman\n07 Fwu\n08 Recognize (feat. Drake)\n09 Options\n10 Thirsty\n11 Bout It\n12 Muse\n+Digital Booklet\n\n\nAudio Info:\n************\nAudio\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy",
+  "parsed": {
+    "xt": "urn:btih:90703a935764c56b697be5a414464394e3f3b441",
+    "dn": "PARTYNEXTDOOR - PARTYNEXTDOOR TWO(Explicit)[Mp3-320kbps-2014]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "90703a935764c56b697be5a414464394e3f3b441",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        144,
+        112,
+        58,
+        147,
+        87,
+        100,
+        197,
+        107,
+        105,
+        123,
+        229,
+        164,
+        20,
+        70,
+        67,
+        148,
+        227,
+        243,
+        180,
+        65
+      ]
+    },
+    "name": "PARTYNEXTDOOR - PARTYNEXTDOOR TWO(Explicit)[Mp3-320kbps-2014]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 140,
+  "peers": 50,
+  "last_updated": "2016-12-25T07:47:36.452Z"
+}

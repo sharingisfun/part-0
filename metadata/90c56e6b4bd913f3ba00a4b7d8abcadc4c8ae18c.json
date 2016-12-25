@@ -1,1 +1,61 @@
-{"title":"The.Walking.Dead.S02E09.HDTV.XviD-ASAP.[VTV].avi","uid":7045024,"size":366991856,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:90c56e6b4bd913f3ba00a4b7d8abcadc4c8ae18c&amp;dn=The.Walking.Dead.S02E09.HDTV.XviD-ASAP.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":7,"uploader":"VTV","files":1,"time":1329712167,"description":"The Walking Dead 2x09 (HDTV-ASAP)[VTV]","torrent":{"xt":"urn:btih:90c56e6b4bd913f3ba00a4b7d8abcadc4c8ae18c","amp;dn":"The.Walking.Dead.S02E09.HDTV.XviD-ASAP.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"90c56e6b4bd913f3ba00a4b7d8abcadc4c8ae18c","infoHashBuffer":{"type":"Buffer","data":[144,197,110,107,75,217,19,243,186,0,164,183,216,171,202,220,76,138,225,140]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Walking.Dead.S02E09.HDTV.XviD-ASAP.[VTV].avi",
+  "uid": 7045024,
+  "size": 366991856,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:90c56e6b4bd913f3ba00a4b7d8abcadc4c8ae18c&amp;dn=The.Walking.Dead.S02E09.HDTV.XviD-ASAP.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 7,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1329712167,
+  "description": "The Walking Dead 2x09 (HDTV-ASAP)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:90c56e6b4bd913f3ba00a4b7d8abcadc4c8ae18c",
+    "dn": "The.Walking.Dead.S02E09.HDTV.XviD-ASAP.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "90c56e6b4bd913f3ba00a4b7d8abcadc4c8ae18c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        144,
+        197,
+        110,
+        107,
+        75,
+        217,
+        19,
+        243,
+        186,
+        0,
+        164,
+        183,
+        216,
+        171,
+        202,
+        220,
+        76,
+        138,
+        225,
+        140
+      ]
+    },
+    "name": "The.Walking.Dead.S02E09.HDTV.XviD-ASAP.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 29,
+  "last_updated": "2016-12-25T07:50:06.883Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Nils Frahm - Discography (2005-2013)","uid":10149091,"size":1805906683,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:90eb852891cbcb3189eb1b7ebb5c09354757e911&amp;dn=Nils+Frahm+-+Discography+%282005-2013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":9,"uploader":"qculfj","files":170,"time":1400082593,"description":"Nils Frahm - Discography (2005-2013)","torrent":{"xt":"urn:btih:90eb852891cbcb3189eb1b7ebb5c09354757e911","amp;dn":"Nils+Frahm+-+Discography+%282005-2013%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"90eb852891cbcb3189eb1b7ebb5c09354757e911","infoHashBuffer":{"type":"Buffer","data":[144,235,133,40,145,203,203,49,137,235,27,126,187,92,9,53,71,87,233,17]},"announce":[],"urlList":[]}}
+{
+  "title": "Nils Frahm - Discography (2005-2013)",
+  "uid": 10149091,
+  "size": 1805906683,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:90eb852891cbcb3189eb1b7ebb5c09354757e911&amp;dn=Nils+Frahm+-+Discography+%282005-2013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 9,
+  "uploader": "qculfj",
+  "files": 170,
+  "time": 1400082593,
+  "description": "Nils Frahm - Discography (2005-2013)",
+  "parsed": {
+    "xt": "urn:btih:90eb852891cbcb3189eb1b7ebb5c09354757e911",
+    "dn": "Nils Frahm - Discography (2005-2013)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "90eb852891cbcb3189eb1b7ebb5c09354757e911",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        144,
+        235,
+        133,
+        40,
+        145,
+        203,
+        203,
+        49,
+        137,
+        235,
+        27,
+        126,
+        187,
+        92,
+        9,
+        53,
+        71,
+        87,
+        233,
+        17
+      ]
+    },
+    "name": "Nils Frahm - Discography (2005-2013)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 40,
+  "last_updated": "2016-12-25T07:51:09.057Z"
+}

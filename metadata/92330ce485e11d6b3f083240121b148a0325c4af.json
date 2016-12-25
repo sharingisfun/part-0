@@ -1,1 +1,61 @@
-{"title":"VICE.2015.ENGLISH.BRRIP.XVID.AC3.AVI","uid":11743706,"size":1466474496,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:92330ce485e11d6b3f083240121b148a0325c4af&amp;dn=VICE.2015.ENGLISH.BRRIP.XVID.AC3.AVI&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":2082,"leechers":31,"uploader":"mbtorrents","files":1,"time":1425907214,"description":"Vice.2015.english.BRRip.XviD.AC3.avi  \n\n\nEnjoy!","torrent":{"xt":"urn:btih:92330ce485e11d6b3f083240121b148a0325c4af","amp;dn":"VICE.2015.ENGLISH.BRRIP.XVID.AC3.AVI","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"92330ce485e11d6b3f083240121b148a0325c4af","infoHashBuffer":{"type":"Buffer","data":[146,51,12,228,133,225,29,107,63,8,50,64,18,27,20,138,3,37,196,175]},"announce":[],"urlList":[]}}
+{
+  "title": "VICE.2015.ENGLISH.BRRIP.XVID.AC3.AVI",
+  "uid": 11743706,
+  "size": 1466474496,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:92330ce485e11d6b3f083240121b148a0325c4af&amp;dn=VICE.2015.ENGLISH.BRRIP.XVID.AC3.AVI&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 2082,
+  "leechers": 31,
+  "uploader": "mbtorrents",
+  "files": 1,
+  "time": 1425907214,
+  "description": "Vice.2015.english.BRRip.XviD.AC3.avi  \n\n\nEnjoy!",
+  "parsed": {
+    "xt": "urn:btih:92330ce485e11d6b3f083240121b148a0325c4af",
+    "dn": "VICE.2015.ENGLISH.BRRIP.XVID.AC3.AVI",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "92330ce485e11d6b3f083240121b148a0325c4af",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        146,
+        51,
+        12,
+        228,
+        133,
+        225,
+        29,
+        107,
+        63,
+        8,
+        50,
+        64,
+        18,
+        27,
+        20,
+        138,
+        3,
+        37,
+        196,
+        175
+      ]
+    },
+    "name": "VICE.2015.ENGLISH.BRRIP.XVID.AC3.AVI",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 2113,
+  "peers": 54,
+  "last_updated": "2016-12-25T07:59:12.438Z"
+}

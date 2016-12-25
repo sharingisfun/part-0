@@ -1,1 +1,61 @@
-{"title":"REVision Effects Twixtor Pro for AE 6.0.4 (cracked VR) [ChingLiu","uid":9410837,"size":9623307,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:906ee49ffd79edf158dbafa3891c30acfd3dbd19&amp;dn=REVision+Effects+Twixtor+Pro+for+AE+6.0.4+%28cracked+VR%29+%5BChingLiu&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":0,"uploader":"Ching_Liu","files":-1,"time":1388286724,"description":"Twixtor raises the bar in motion estimation. Twixtor is much more accurate, tracks objects farther, and exhibits fewer artifacts when there are objects crossing in the scene. This means less tearing and stretching of objects as they cross or go out of the frame.\n\nTwixtor Features\n-Warping and interpolation of frames to &quot;time warp&quot; input footage.\n-Smart processing of interlaced material\n-Stretching of a sequence using a single scaling parameter.\n-Keyframable retiming for complete control on a frame by frame basis.\n-Frame rate conversions made easy (Important Note: frame rate conversions are supported only from within After Effects and Combustion ).\n-8 and 16 bits per channel processing. Unclamped floating point image support in After Effects 7.0 or later\n-Option to automatically enhance dark imagery or imagery with poorly defined edges. In many cases, footage that was difficult to track becomes much more well-behaved upon retiming.\n-Contains an option to add or remove motion motion blur, as appropriate.\n-Support for marking material so that Twixtor does not motion-interpolate across a cut.\n-After Effects only: ability to remap audio and video using AE's time remapping tools but using Twixtor &quot;under the hood&quot;\n\nTwixtor Pro Features\n\nObject separation. Support for foreground and background separation using a specified matte. Twixtor then tracks each layer separately for improved results. This feature uses proprietary filling and tracking techniques when working on the background layer even when it is obscured by the foreground! Support for up to 3 foreground layers.\n\nTrack Point Guidance. Up to 12 user-defined points can be specified to help guide Twixtor's motion estimation. By using the tracking points you can explicitly tell Twixtor where a pixel moves from one frame to the next in order to guide Twixtor's calculation of motion vectors. You can set the position of each point at each frame by hand, but more importantly, In After Effects and combustion these points can be positioned from frame-to-frame using the host application's point-tracking features. \n\nSpline Guidance. When Twixtor exhibits tracking problems, you can guide Twixtor by simply creating and animating shapes to show Twixtor where objects are actually moving. Interactive feature registration is directed through the host program's drawing and roto tools (splines and polylines), not through a grid of mesh points! As such, there is no new interface to learn! This feature only available within After Effects 5.0 (and later) and combustion 3.0 (and later).\n\nMotion Vector Import. Give Twixtor motion vectors generated elsewhere (like from a 3D system) to time remap footage, including adding motion-interpolated fields to otherwise progressive material. Only supported in apps that work in 16bpc or higher.\n\nMotion Vectors Export. You can now output the motion vectors that Twixtor generates internally. This powerful feature comes with visual debugging modes to more intuitively assess and tune the quality of the motion estimation. The motion vectors can then be used elsewhere in the pipeline (including the Twixtor plugin that imports motion vectors). Only supported in apps that work in 16bpc or higher.\n\nWhat's new in version 6.0.4? \n\n-Fixes a bug in Premiere Pro CC 7.0.1 and later where changing the in point can reference incorrect frames in the source material. This is actually a bug introduced by Premiere Pro CC, and in order to workaround this bug, we have removed the option to select Color Source Video track (and you can only retime using the clip or sequence that Twixtor is directly applied to). Projects that are saved in CS6 referencing another video track as Color Source than the current one where the effect is applied will not work properly.\n-added in v6.0.3: Fixes some crashing bugs in certain situations when using GPU mode. Crashing bugs were particularly seen in the Macintosh version.\n-added in v6.0.3: Fixes incorrect results in certain situations in Twixtor Pro when using GPU mode.\n-added in v6.0.3: support for Intel HD 4000 and Intel HD 5000 graphics GPUs on Macintosh OS 10.9. Intel graphics still not supported on Windows.\n\nCompatibility\n\nAdobe After Effects 7.0 and up, including 64-bit support for CS5 and up.\n\nLanguage : English\n\nHomepage :  &lt;a href=&quot;\nhttp://revisionfx.com/products/twixtor/overview/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://revisionfx.com/products/twixtor/overview/&lt;/a&gt;","torrent":{"xt":"urn:btih:906ee49ffd79edf158dbafa3891c30acfd3dbd19","amp;dn":"REVision+Effects+Twixtor+Pro+for+AE+6.0.4+%28cracked+VR%29+%5BChingLiu","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"906ee49ffd79edf158dbafa3891c30acfd3dbd19","infoHashBuffer":{"type":"Buffer","data":[144,110,228,159,253,121,237,241,88,219,175,163,137,28,48,172,253,61,189,25]},"announce":[],"urlList":[]}}
+{
+  "title": "REVision Effects Twixtor Pro for AE 6.0.4 (cracked VR) [ChingLiu",
+  "uid": 9410837,
+  "size": 9623307,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:906ee49ffd79edf158dbafa3891c30acfd3dbd19&amp;dn=REVision+Effects+Twixtor+Pro+for+AE+6.0.4+%28cracked+VR%29+%5BChingLiu&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 0,
+  "uploader": "Ching_Liu",
+  "files": -1,
+  "time": 1388286724,
+  "description": "Twixtor raises the bar in motion estimation. Twixtor is much more accurate, tracks objects farther, and exhibits fewer artifacts when there are objects crossing in the scene. This means less tearing and stretching of objects as they cross or go out of the frame.\n\nTwixtor Features\n-Warping and interpolation of frames to &quot;time warp&quot; input footage.\n-Smart processing of interlaced material\n-Stretching of a sequence using a single scaling parameter.\n-Keyframable retiming for complete control on a frame by frame basis.\n-Frame rate conversions made easy (Important Note: frame rate conversions are supported only from within After Effects and Combustion ).\n-8 and 16 bits per channel processing. Unclamped floating point image support in After Effects 7.0 or later\n-Option to automatically enhance dark imagery or imagery with poorly defined edges. In many cases, footage that was difficult to track becomes much more well-behaved upon retiming.\n-Contains an option to add or remove motion motion blur, as appropriate.\n-Support for marking material so that Twixtor does not motion-interpolate across a cut.\n-After Effects only: ability to remap audio and video using AE's time remapping tools but using Twixtor &quot;under the hood&quot;\n\nTwixtor Pro Features\n\nObject separation. Support for foreground and background separation using a specified matte. Twixtor then tracks each layer separately for improved results. This feature uses proprietary filling and tracking techniques when working on the background layer even when it is obscured by the foreground! Support for up to 3 foreground layers.\n\nTrack Point Guidance. Up to 12 user-defined points can be specified to help guide Twixtor's motion estimation. By using the tracking points you can explicitly tell Twixtor where a pixel moves from one frame to the next in order to guide Twixtor's calculation of motion vectors. You can set the position of each point at each frame by hand, but more importantly, In After Effects and combustion these points can be positioned from frame-to-frame using the host application's point-tracking features. \n\nSpline Guidance. When Twixtor exhibits tracking problems, you can guide Twixtor by simply creating and animating shapes to show Twixtor where objects are actually moving. Interactive feature registration is directed through the host program's drawing and roto tools (splines and polylines), not through a grid of mesh points! As such, there is no new interface to learn! This feature only available within After Effects 5.0 (and later) and combustion 3.0 (and later).\n\nMotion Vector Import. Give Twixtor motion vectors generated elsewhere (like from a 3D system) to time remap footage, including adding motion-interpolated fields to otherwise progressive material. Only supported in apps that work in 16bpc or higher.\n\nMotion Vectors Export. You can now output the motion vectors that Twixtor generates internally. This powerful feature comes with visual debugging modes to more intuitively assess and tune the quality of the motion estimation. The motion vectors can then be used elsewhere in the pipeline (including the Twixtor plugin that imports motion vectors). Only supported in apps that work in 16bpc or higher.\n\nWhat's new in version 6.0.4? \n\n-Fixes a bug in Premiere Pro CC 7.0.1 and later where changing the in point can reference incorrect frames in the source material. This is actually a bug introduced by Premiere Pro CC, and in order to workaround this bug, we have removed the option to select Color Source Video track (and you can only retime using the clip or sequence that Twixtor is directly applied to). Projects that are saved in CS6 referencing another video track as Color Source than the current one where the effect is applied will not work properly.\n-added in v6.0.3: Fixes some crashing bugs in certain situations when using GPU mode. Crashing bugs were particularly seen in the Macintosh version.\n-added in v6.0.3: Fixes incorrect results in certain situations in Twixtor Pro when using GPU mode.\n-added in v6.0.3: support for Intel HD 4000 and Intel HD 5000 graphics GPUs on Macintosh OS 10.9. Intel graphics still not supported on Windows.\n\nCompatibility\n\nAdobe After Effects 7.0 and up, including 64-bit support for CS5 and up.\n\nLanguage : English\n\nHomepage :  &lt;a href=&quot;\nhttp://revisionfx.com/products/twixtor/overview/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://revisionfx.com/products/twixtor/overview/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:906ee49ffd79edf158dbafa3891c30acfd3dbd19",
+    "dn": "REVision Effects Twixtor Pro for AE 6.0.4 (cracked VR) [ChingLiu",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "906ee49ffd79edf158dbafa3891c30acfd3dbd19",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        144,
+        110,
+        228,
+        159,
+        253,
+        121,
+        237,
+        241,
+        88,
+        219,
+        175,
+        163,
+        137,
+        28,
+        48,
+        172,
+        253,
+        61,
+        189,
+        25
+      ]
+    },
+    "name": "REVision Effects Twixtor Pro for AE 6.0.4 (cracked VR) [ChingLiu",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 4,
+  "last_updated": "2016-12-25T07:47:34.445Z"
+}

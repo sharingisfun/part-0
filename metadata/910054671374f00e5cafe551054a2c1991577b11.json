@@ -1,1 +1,63 @@
-{"title":"Gmail Password Finder v2.2","uid":16016303,"size":12309452,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:910054671374f00e5cafe551054a2c1991577b11&amp;dn=Gmail+Password+Finder+v2.2&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":160,"leechers":31,"uploader":"iKnickKnockf","files":4,"time":1476293074,"description":"Gmail Password Finder v2.2","torrent":{"xt":"urn:btih:910054671374f00e5cafe551054a2c1991577b11","amp;dn":"Gmail+Password+Finder+v2.2","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"910054671374f00e5cafe551054a2c1991577b11","infoHashBuffer":{"type":"Buffer","data":[145,0,84,103,19,116,240,14,92,175,229,81,5,74,44,25,145,87,123,17]},"announce":[],"urlList":[]}}
+{
+  "title": "Gmail Password Finder v2.2",
+  "uid": 16016303,
+  "size": 12309452,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:910054671374f00e5cafe551054a2c1991577b11&amp;dn=Gmail+Password+Finder+v2.2&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 160,
+  "leechers": 31,
+  "uploader": "iKnickKnockf",
+  "files": 4,
+  "time": 1476293074,
+  "description": "Gmail Password Finder v2.2",
+  "parsed": {
+    "xt": "urn:btih:910054671374f00e5cafe551054a2c1991577b11",
+    "dn": "Gmail Password Finder v2.2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "910054671374f00e5cafe551054a2c1991577b11",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        145,
+        0,
+        84,
+        103,
+        19,
+        116,
+        240,
+        14,
+        92,
+        175,
+        229,
+        81,
+        5,
+        74,
+        44,
+        25,
+        145,
+        87,
+        123,
+        17
+      ]
+    },
+    "name": "Gmail Password Finder v2.2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 191,
+  "peers": 2,
+  "last_updated": "2016-12-25T07:51:51.165Z"
+}

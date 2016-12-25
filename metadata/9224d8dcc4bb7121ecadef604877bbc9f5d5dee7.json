@@ -1,1 +1,61 @@
-{"title":"Pursuit of Happiness [Steve Aoki Remix]  - Kid Cudi (feat. MGMT","uid":7410251,"size":6020316,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9224d8dcc4bb7121ecadef604877bbc9f5d5dee7&amp;dn=Pursuit+of+Happiness+%5BSteve+Aoki+Remix%5D++-+Kid+Cudi+%28feat.+MGMT+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":2,"uploader":"Teckno94","files":-1,"time":1341360027,"description":"Pursuit of Happiness Dubstep version remixed by Steve Aoki, Featured in Project x as the the theme song.","torrent":{"xt":"urn:btih:9224d8dcc4bb7121ecadef604877bbc9f5d5dee7","amp;dn":"Pursuit+of+Happiness+%5BSteve+Aoki+Remix%5D++-+Kid+Cudi+%28feat.+MGMT+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9224d8dcc4bb7121ecadef604877bbc9f5d5dee7","infoHashBuffer":{"type":"Buffer","data":[146,36,216,220,196,187,113,33,236,173,239,96,72,119,187,201,245,213,222,231]},"announce":[],"urlList":[]}}
+{
+  "title": "Pursuit of Happiness [Steve Aoki Remix]  - Kid Cudi (feat. MGMT",
+  "uid": 7410251,
+  "size": 6020316,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9224d8dcc4bb7121ecadef604877bbc9f5d5dee7&amp;dn=Pursuit+of+Happiness+%5BSteve+Aoki+Remix%5D++-+Kid+Cudi+%28feat.+MGMT+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 2,
+  "uploader": "Teckno94",
+  "files": -1,
+  "time": 1341360027,
+  "description": "Pursuit of Happiness Dubstep version remixed by Steve Aoki, Featured in Project x as the the theme song.",
+  "parsed": {
+    "xt": "urn:btih:9224d8dcc4bb7121ecadef604877bbc9f5d5dee7",
+    "dn": "Pursuit of Happiness [Steve Aoki Remix]  - Kid Cudi (feat. MGMT ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9224d8dcc4bb7121ecadef604877bbc9f5d5dee7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        146,
+        36,
+        216,
+        220,
+        196,
+        187,
+        113,
+        33,
+        236,
+        173,
+        239,
+        96,
+        72,
+        119,
+        187,
+        201,
+        245,
+        213,
+        222,
+        231
+      ]
+    },
+    "name": "Pursuit of Happiness [Steve Aoki Remix]  - Kid Cudi (feat. MGMT ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 42,
+  "last_updated": "2016-12-25T07:58:58.400Z"
+}

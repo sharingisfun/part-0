@@ -1,1 +1,61 @@
-{"title":"Keith Sweat Discography 320kbps","uid":8301674,"size":2147745644,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:917488b59b055721243b1f5b6f3620bf6d44c984&amp;dn=Keith+Sweat+Discography+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":79,"uploader":"gotfw","files":-1,"time":1364279596,"description":"This is Keith Sweat's Discography. Info is as followed\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\n\n\nStudio Albums\n\n(1990)I'll Give All My Love to You\n(1990)Make It Last Forever\n(1991)Keep It Comin'\n(1994)Get Up on It\n(1996)Keith Sweat\n(1998)Still in the Game\n(2000)Didn't See Me Coming\n(2002)Rebirth\n(2008)Just Me\n(2010)Ridin' Solo\n(2011)'Til the Morning\n\nLive Albums\n(2003)Keith Sweat Live\n(2007)Sweat Hotel Live\n\n\nCompilation Albums\n\n(1997)Just a touch\n(2004)The Best of Keith Sweat- Make You Sweat\n(2007)A Christmas of Love","torrent":{"xt":"urn:btih:917488b59b055721243b1f5b6f3620bf6d44c984","amp;dn":"Keith+Sweat+Discography+320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"917488b59b055721243b1f5b6f3620bf6d44c984","infoHashBuffer":{"type":"Buffer","data":[145,116,136,181,155,5,87,33,36,59,31,91,111,54,32,191,109,68,201,132]},"announce":[],"urlList":[]}}
+{
+  "title": "Keith Sweat Discography 320kbps",
+  "uid": 8301674,
+  "size": 2147745644,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:917488b59b055721243b1f5b6f3620bf6d44c984&amp;dn=Keith+Sweat+Discography+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 79,
+  "uploader": "gotfw",
+  "files": -1,
+  "time": 1364279596,
+  "description": "This is Keith Sweat's Discography. Info is as followed\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\n\n\nStudio Albums\n\n(1990)I'll Give All My Love to You\n(1990)Make It Last Forever\n(1991)Keep It Comin'\n(1994)Get Up on It\n(1996)Keith Sweat\n(1998)Still in the Game\n(2000)Didn't See Me Coming\n(2002)Rebirth\n(2008)Just Me\n(2010)Ridin' Solo\n(2011)'Til the Morning\n\nLive Albums\n(2003)Keith Sweat Live\n(2007)Sweat Hotel Live\n\n\nCompilation Albums\n\n(1997)Just a touch\n(2004)The Best of Keith Sweat- Make You Sweat\n(2007)A Christmas of Love",
+  "parsed": {
+    "xt": "urn:btih:917488b59b055721243b1f5b6f3620bf6d44c984",
+    "dn": "Keith Sweat Discography 320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "917488b59b055721243b1f5b6f3620bf6d44c984",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        145,
+        116,
+        136,
+        181,
+        155,
+        5,
+        87,
+        33,
+        36,
+        59,
+        31,
+        91,
+        111,
+        54,
+        32,
+        191,
+        109,
+        68,
+        201,
+        132
+      ]
+    },
+    "name": "Keith Sweat Discography 320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 129,
+  "peers": 75,
+  "last_updated": "2016-12-25T07:54:45.687Z"
+}
