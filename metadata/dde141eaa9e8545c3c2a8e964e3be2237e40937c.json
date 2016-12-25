@@ -1,1 +1,61 @@
-{"title":"stronghold","uid":3515160,"size":668928177,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:dde141eaa9e8545c3c2a8e964e3be2237e40937c&amp;dn=stronghold&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":4,"uploader":"monty1234","files":25,"time":1156290687,"description":"Stronghold game requirer neither crack nor cd-key to play. You may even play online with it.","torrent":{"xt":"urn:btih:dde141eaa9e8545c3c2a8e964e3be2237e40937c","amp;dn":"stronghold","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dde141eaa9e8545c3c2a8e964e3be2237e40937c","infoHashBuffer":{"type":"Buffer","data":[221,225,65,234,169,232,84,92,60,42,142,150,78,59,226,35,126,64,147,124]},"announce":[],"urlList":[]}}
+{
+  "title": "stronghold",
+  "uid": 3515160,
+  "size": 668928177,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:dde141eaa9e8545c3c2a8e964e3be2237e40937c&amp;dn=stronghold&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 4,
+  "uploader": "monty1234",
+  "files": 25,
+  "time": 1156290687,
+  "description": "Stronghold game requirer neither crack nor cd-key to play. You may even play online with it.",
+  "parsed": {
+    "xt": "urn:btih:dde141eaa9e8545c3c2a8e964e3be2237e40937c",
+    "dn": "stronghold",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dde141eaa9e8545c3c2a8e964e3be2237e40937c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        221,
+        225,
+        65,
+        234,
+        169,
+        232,
+        84,
+        92,
+        60,
+        42,
+        142,
+        150,
+        78,
+        59,
+        226,
+        35,
+        126,
+        64,
+        147,
+        124
+      ]
+    },
+    "name": "stronghold",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 82,
+  "peers": 38,
+  "last_updated": "2016-12-25T15:53:41.946Z"
+}

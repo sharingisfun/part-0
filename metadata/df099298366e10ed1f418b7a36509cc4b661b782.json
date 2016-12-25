@@ -1,1 +1,61 @@
-{"title":"VLC Media Player 2.1.5 Final RePack (&amp; Portable) by D!akov","uid":10685232,"size":31739558,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:df099298366e10ed1f418b7a36509cc4b661b782&amp;dn=VLC+Media+Player+2.1.5+Final+RePack+%28%26amp%3B+Portable%29+by+D%21akov&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":326,"leechers":5,"uploader":"yfjfrj","files":3,"time":1407073906,"description":"VLC Media Player 2.1.5 Final RePack (&amp; Portable) by D!akov\n\nVLC media player is a highly portable multimedia player for various audio and video formats (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, ogg, ...) as well as DVDs, VCDs, and various streaming protocols. It can also be used as a server to stream in unicast or multicast in IPv4 or IPv6 on a high-bandwidth network. It doesn't need any external codec or program to work.","torrent":{"xt":"urn:btih:df099298366e10ed1f418b7a36509cc4b661b782","amp;dn":"VLC+Media+Player+2.1.5+Final+RePack+%28%26amp%3B+Portable%29+by+D%21akov","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"df099298366e10ed1f418b7a36509cc4b661b782","infoHashBuffer":{"type":"Buffer","data":[223,9,146,152,54,110,16,237,31,65,139,122,54,80,156,196,182,97,183,130]},"announce":[],"urlList":[]}}
+{
+  "title": "VLC Media Player 2.1.5 Final RePack (&amp; Portable) by D!akov",
+  "uid": 10685232,
+  "size": 31739558,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:df099298366e10ed1f418b7a36509cc4b661b782&amp;dn=VLC+Media+Player+2.1.5+Final+RePack+%28%26amp%3B+Portable%29+by+D%21akov&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 326,
+  "leechers": 5,
+  "uploader": "yfjfrj",
+  "files": 3,
+  "time": 1407073906,
+  "description": "VLC Media Player 2.1.5 Final RePack (&amp; Portable) by D!akov\n\nVLC media player is a highly portable multimedia player for various audio and video formats (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, ogg, ...) as well as DVDs, VCDs, and various streaming protocols. It can also be used as a server to stream in unicast or multicast in IPv4 or IPv6 on a high-bandwidth network. It doesn't need any external codec or program to work.",
+  "parsed": {
+    "xt": "urn:btih:df099298366e10ed1f418b7a36509cc4b661b782",
+    "dn": "VLC Media Player 2.1.5 Final RePack (&amp; Portable) by D!akov",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "df099298366e10ed1f418b7a36509cc4b661b782",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        223,
+        9,
+        146,
+        152,
+        54,
+        110,
+        16,
+        237,
+        31,
+        65,
+        139,
+        122,
+        54,
+        80,
+        156,
+        196,
+        182,
+        97,
+        183,
+        130
+      ]
+    },
+    "name": "VLC Media Player 2.1.5 Final RePack (&amp; Portable) by D!akov",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 331,
+  "peers": 26,
+  "last_updated": "2016-12-25T16:00:29.107Z"
+}

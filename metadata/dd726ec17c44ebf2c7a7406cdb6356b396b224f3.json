@@ -1,1 +1,61 @@
-{"title":"Maroon 5 (feat. Wiz Khalifa) - Payphone","uid":7354798,"size":9366630,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:dd726ec17c44ebf2c7a7406cdb6356b396b224f3&amp;dn=Maroon+5+%28feat.+Wiz+Khalifa%29+-+Payphone&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":0,"uploader":"Tuffnut","files":-1,"time":1339723332,"description":"Maroon 5 (feat. Wiz Khalifa) - Payphone\n\n\nArtist: Maroon5 (feat. Wiz Khalifa)\nAlbum: Payphone\nGenre: Rock\nYear: 2012\nBitrate: 320 Kbps\n\nPlease continue seeding the torrent.\n\nDon't forget to leave your feedback.\n\nCheck out my uploads for more music.\n","torrent":{"xt":"urn:btih:dd726ec17c44ebf2c7a7406cdb6356b396b224f3","amp;dn":"Maroon+5+%28feat.+Wiz+Khalifa%29+-+Payphone","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dd726ec17c44ebf2c7a7406cdb6356b396b224f3","infoHashBuffer":{"type":"Buffer","data":[221,114,110,193,124,68,235,242,199,167,64,108,219,99,86,179,150,178,36,243]},"announce":[],"urlList":[]}}
+{
+  "title": "Maroon 5 (feat. Wiz Khalifa) - Payphone",
+  "uid": 7354798,
+  "size": 9366630,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:dd726ec17c44ebf2c7a7406cdb6356b396b224f3&amp;dn=Maroon+5+%28feat.+Wiz+Khalifa%29+-+Payphone&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 0,
+  "uploader": "Tuffnut",
+  "files": -1,
+  "time": 1339723332,
+  "description": "Maroon 5 (feat. Wiz Khalifa) - Payphone\n\n\nArtist: Maroon5 (feat. Wiz Khalifa)\nAlbum: Payphone\nGenre: Rock\nYear: 2012\nBitrate: 320 Kbps\n\nPlease continue seeding the torrent.\n\nDon't forget to leave your feedback.\n\nCheck out my uploads for more music.\n",
+  "parsed": {
+    "xt": "urn:btih:dd726ec17c44ebf2c7a7406cdb6356b396b224f3",
+    "dn": "Maroon 5 (feat. Wiz Khalifa) - Payphone",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dd726ec17c44ebf2c7a7406cdb6356b396b224f3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        221,
+        114,
+        110,
+        193,
+        124,
+        68,
+        235,
+        242,
+        199,
+        167,
+        64,
+        108,
+        219,
+        99,
+        86,
+        179,
+        150,
+        178,
+        36,
+        243
+      ]
+    },
+    "name": "Maroon 5 (feat. Wiz Khalifa) - Payphone",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 70,
+  "peers": 32,
+  "last_updated": "2016-12-25T15:51:07.517Z"
+}

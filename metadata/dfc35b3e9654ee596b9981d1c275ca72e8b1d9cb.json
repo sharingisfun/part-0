@@ -1,1 +1,61 @@
-{"title":"DraStic DS Emulator vr2.2.1.2a Android","uid":10999967,"size":10538750,"categoryP":"applications","categoryS":"android","magnet":"?xt=urn:btih:dfc35b3e9654ee596b9981d1c275ca72e8b1d9cb&amp;dn=DraStic+DS+Emulator+vr2.2.1.2a+Android&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":3,"uploader":".BONE.","files":-1,"time":1410125364,"description":"DraStic is a fast Nintendo DS emulator for Android. In addition to being able to play Nintendo DS games full speed on many Android devices it has the following features:\n- Customize the placement and size of the DS screens, for portrait and landscape modes\n- Fully supports add-on controllers, and physical controls in devices like nVidia Shield and Xperia Play\n- Save and resume your progress anywhere with save states\n- Tweak your gaming experience with a database of thousands of cheat codes\n- Synchronize your save games with your online Google Drive space\n- Increase emulation speed with fast-forward\nIf you have any uncertainties about the emulator please check out the demo version first, which will let you evaluate how the emulator works on your device.\nDraStic is only intended for play of private backups of legally acquired Nintendo DS games. This product is not affiliated with or endorsed by Nintendo in any way. Do not ask us for ROMs or help getting them - any request will be ignored.\nNOTE: WiFi/multiplayer emulation is not supported at this time.\nIf you need assistance please e-mail us at\nFor complete documentation and change log read here:\nFor more information see http://drastic-ds.com/drastic_readme.txt\n\nWhat's New\nVersion 2.2.1.2a:\n- Fix for protected RAR archives\n- Added option to always sync RTC to system time\n- Games can be deleted\n- Game database update\n- Improved Help section","torrent":{"xt":"urn:btih:dfc35b3e9654ee596b9981d1c275ca72e8b1d9cb","amp;dn":"DraStic+DS+Emulator+vr2.2.1.2a+Android","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dfc35b3e9654ee596b9981d1c275ca72e8b1d9cb","infoHashBuffer":{"type":"Buffer","data":[223,195,91,62,150,84,238,89,107,153,129,209,194,117,202,114,232,177,217,203]},"announce":[],"urlList":[]}}
+{
+  "title": "DraStic DS Emulator vr2.2.1.2a Android",
+  "uid": 10999967,
+  "size": 10538750,
+  "categoryP": "applications",
+  "categoryS": "android",
+  "magnet": "?xt=urn:btih:dfc35b3e9654ee596b9981d1c275ca72e8b1d9cb&amp;dn=DraStic+DS+Emulator+vr2.2.1.2a+Android&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 3,
+  "uploader": ".BONE.",
+  "files": -1,
+  "time": 1410125364,
+  "description": "DraStic is a fast Nintendo DS emulator for Android. In addition to being able to play Nintendo DS games full speed on many Android devices it has the following features:\n- Customize the placement and size of the DS screens, for portrait and landscape modes\n- Fully supports add-on controllers, and physical controls in devices like nVidia Shield and Xperia Play\n- Save and resume your progress anywhere with save states\n- Tweak your gaming experience with a database of thousands of cheat codes\n- Synchronize your save games with your online Google Drive space\n- Increase emulation speed with fast-forward\nIf you have any uncertainties about the emulator please check out the demo version first, which will let you evaluate how the emulator works on your device.\nDraStic is only intended for play of private backups of legally acquired Nintendo DS games. This product is not affiliated with or endorsed by Nintendo in any way. Do not ask us for ROMs or help getting them - any request will be ignored.\nNOTE: WiFi/multiplayer emulation is not supported at this time.\nIf you need assistance please e-mail us at\nFor complete documentation and change log read here:\nFor more information see http://drastic-ds.com/drastic_readme.txt\n\nWhat's New\nVersion 2.2.1.2a:\n- Fix for protected RAR archives\n- Added option to always sync RTC to system time\n- Games can be deleted\n- Game database update\n- Improved Help section",
+  "parsed": {
+    "xt": "urn:btih:dfc35b3e9654ee596b9981d1c275ca72e8b1d9cb",
+    "dn": "DraStic DS Emulator vr2.2.1.2a Android",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dfc35b3e9654ee596b9981d1c275ca72e8b1d9cb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        223,
+        195,
+        91,
+        62,
+        150,
+        84,
+        238,
+        89,
+        107,
+        153,
+        129,
+        209,
+        194,
+        117,
+        202,
+        114,
+        232,
+        177,
+        217,
+        203
+      ]
+    },
+    "name": "DraStic DS Emulator vr2.2.1.2a Android",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 75,
+  "peers": 6,
+  "last_updated": "2016-12-25T16:04:37.865Z"
+}

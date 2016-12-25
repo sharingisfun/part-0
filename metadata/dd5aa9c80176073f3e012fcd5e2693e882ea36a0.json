@@ -1,1 +1,61 @@
-{"title":"GRID.Autosport-RELOADED","uid":10422456,"size":9934524450,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:dd5aa9c80176073f3e012fcd5e2693e882ea36a0&amp;dn=GRID.Autosport-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":121,"leechers":18,"uploader":"Drarbg","files":2,"time":1403659924,"description":" &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nGRID.Autosport-RELOADED\n","torrent":{"xt":"urn:btih:dd5aa9c80176073f3e012fcd5e2693e882ea36a0","amp;dn":"GRID.Autosport-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dd5aa9c80176073f3e012fcd5e2693e882ea36a0","infoHashBuffer":{"type":"Buffer","data":[221,90,169,200,1,118,7,63,62,1,47,205,94,38,147,232,130,234,54,160]},"announce":[],"urlList":[]}}
+{
+  "title": "GRID.Autosport-RELOADED",
+  "uid": 10422456,
+  "size": 9934524450,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:dd5aa9c80176073f3e012fcd5e2693e882ea36a0&amp;dn=GRID.Autosport-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 121,
+  "leechers": 18,
+  "uploader": "Drarbg",
+  "files": 2,
+  "time": 1403659924,
+  "description": " &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nGRID.Autosport-RELOADED\n",
+  "parsed": {
+    "xt": "urn:btih:dd5aa9c80176073f3e012fcd5e2693e882ea36a0",
+    "dn": "GRID.Autosport-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dd5aa9c80176073f3e012fcd5e2693e882ea36a0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        221,
+        90,
+        169,
+        200,
+        1,
+        118,
+        7,
+        63,
+        62,
+        1,
+        47,
+        205,
+        94,
+        38,
+        147,
+        232,
+        130,
+        234,
+        54,
+        160
+      ]
+    },
+    "name": "GRID.Autosport-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 139,
+  "peers": 131,
+  "last_updated": "2016-12-25T15:50:25.404Z"
+}

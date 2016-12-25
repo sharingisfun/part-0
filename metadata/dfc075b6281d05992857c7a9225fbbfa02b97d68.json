@@ -1,1 +1,63 @@
-{"title":"Quantico.S02E01.HDTV.XviD-FUM[ettv]","uid":15897253,"size":365687137,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:dfc075b6281d05992857c7a9225fbbfa02b97d68&amp;dn=Quantico.S02E01.HDTV.XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":304,"leechers":98,"uploader":"ettv","files":2,"time":1474972762,"description":"ettv - ExtraTorrent TV Shows\r\n\r\n[Format]:    AVI\r\n[Resolution]:  624 x 352 pixels\r\n[Display aspect ratio]:    16:9\r\n[Frame rate]:    23.976 fps\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n \nhttp://extratorrent.cc/\r\n\r\n                       \r\nHelp us by donating with Bitcoin: 1MbtePmWNM13SEkQgmxF6RSvfaXugF7rpz","torrent":{"xt":"urn:btih:dfc075b6281d05992857c7a9225fbbfa02b97d68","amp;dn":"Quantico.S02E01.HDTV.XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dfc075b6281d05992857c7a9225fbbfa02b97d68","infoHashBuffer":{"type":"Buffer","data":[223,192,117,182,40,29,5,153,40,87,199,169,34,95,187,250,2,185,125,104]},"announce":[],"urlList":[]}}
+{
+  "title": "Quantico.S02E01.HDTV.XviD-FUM[ettv]",
+  "uid": 15897253,
+  "size": 365687137,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:dfc075b6281d05992857c7a9225fbbfa02b97d68&amp;dn=Quantico.S02E01.HDTV.XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 304,
+  "leechers": 98,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1474972762,
+  "description": "ettv - ExtraTorrent TV Shows\r\n\r\n[Format]:    AVI\r\n[Resolution]:  624 x 352 pixels\r\n[Display aspect ratio]:    16:9\r\n[Frame rate]:    23.976 fps\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n \nhttp://extratorrent.cc/\r\n\r\n                       \r\nHelp us by donating with Bitcoin: 1MbtePmWNM13SEkQgmxF6RSvfaXugF7rpz",
+  "parsed": {
+    "xt": "urn:btih:dfc075b6281d05992857c7a9225fbbfa02b97d68",
+    "dn": "Quantico.S02E01.HDTV.XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "dfc075b6281d05992857c7a9225fbbfa02b97d68",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        223,
+        192,
+        117,
+        182,
+        40,
+        29,
+        5,
+        153,
+        40,
+        87,
+        199,
+        169,
+        34,
+        95,
+        187,
+        250,
+        2,
+        185,
+        125,
+        104
+      ]
+    },
+    "name": "Quantico.S02E01.HDTV.XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 402,
+  "peers": 117,
+  "last_updated": "2016-12-25T16:04:33.852Z"
+}

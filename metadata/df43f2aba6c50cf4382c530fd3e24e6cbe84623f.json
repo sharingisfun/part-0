@@ -1,1 +1,61 @@
-{"title":"Let it Go - Idina Menzel (2013)","uid":9625619,"size":8118941,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:df43f2aba6c50cf4382c530fd3e24e6cbe84623f&amp;dn=Let+it+Go+-+Idina+Menzel+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":0,"uploader":"tunnelsunshine","files":1,"time":1392587363,"description":"Let it Go by Idina Menzel. iTunes quality. Please seed!","torrent":{"xt":"urn:btih:df43f2aba6c50cf4382c530fd3e24e6cbe84623f","amp;dn":"Let+it+Go+-+Idina+Menzel+%282013%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"df43f2aba6c50cf4382c530fd3e24e6cbe84623f","infoHashBuffer":{"type":"Buffer","data":[223,67,242,171,166,197,12,244,56,44,83,15,211,226,78,108,190,132,98,63]},"announce":[],"urlList":[]}}
+{
+  "title": "Let it Go - Idina Menzel (2013)",
+  "uid": 9625619,
+  "size": 8118941,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:df43f2aba6c50cf4382c530fd3e24e6cbe84623f&amp;dn=Let+it+Go+-+Idina+Menzel+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 0,
+  "uploader": "tunnelsunshine",
+  "files": 1,
+  "time": 1392587363,
+  "description": "Let it Go by Idina Menzel. iTunes quality. Please seed!",
+  "parsed": {
+    "xt": "urn:btih:df43f2aba6c50cf4382c530fd3e24e6cbe84623f",
+    "dn": "Let it Go - Idina Menzel (2013)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "df43f2aba6c50cf4382c530fd3e24e6cbe84623f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        223,
+        67,
+        242,
+        171,
+        166,
+        197,
+        12,
+        244,
+        56,
+        44,
+        83,
+        15,
+        211,
+        226,
+        78,
+        108,
+        190,
+        132,
+        98,
+        63
+      ]
+    },
+    "name": "Let it Go - Idina Menzel (2013)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 9,
+  "last_updated": "2016-12-25T16:01:33.302Z"
+}

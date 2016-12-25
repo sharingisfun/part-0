@@ -1,1 +1,63 @@
-{"title":"Frequency.S01E02.XviD-AFG","uid":16021175,"size":297180755,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:de727adc981a6a79b4d3c8362e65f50d04aad5de&amp;dn=Frequency.S01E02.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":11,"uploader":"TvTeam","files":7,"time":1476332152,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:de727adc981a6a79b4d3c8362e65f50d04aad5de","amp;dn":"Frequency.S01E02.XviD-AFG","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"de727adc981a6a79b4d3c8362e65f50d04aad5de","infoHashBuffer":{"type":"Buffer","data":[222,114,122,220,152,26,106,121,180,211,200,54,46,101,245,13,4,170,213,222]},"announce":[],"urlList":[]}}
+{
+  "title": "Frequency.S01E02.XviD-AFG",
+  "uid": 16021175,
+  "size": 297180755,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:de727adc981a6a79b4d3c8362e65f50d04aad5de&amp;dn=Frequency.S01E02.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 11,
+  "uploader": "TvTeam",
+  "files": 7,
+  "time": 1476332152,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:de727adc981a6a79b4d3c8362e65f50d04aad5de",
+    "dn": "Frequency.S01E02.XviD-AFG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "de727adc981a6a79b4d3c8362e65f50d04aad5de",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        222,
+        114,
+        122,
+        220,
+        152,
+        26,
+        106,
+        121,
+        180,
+        211,
+        200,
+        54,
+        46,
+        101,
+        245,
+        13,
+        4,
+        170,
+        213,
+        222
+      ]
+    },
+    "name": "Frequency.S01E02.XviD-AFG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 15,
+  "last_updated": "2016-12-25T15:57:08.549Z"
+}

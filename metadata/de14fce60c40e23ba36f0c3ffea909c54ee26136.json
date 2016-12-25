@@ -1,1 +1,61 @@
-{"title":"Criminal Minds Season 5","uid":6497260,"size":8447979978,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:de14fce60c40e23ba36f0c3ffea909c54ee26136&amp;dn=Criminal+Minds+Season+5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":68,"leechers":60,"uploader":"ddaviey3","files":23,"time":1309117248,"description":"Season 5 complete in AVI format","torrent":{"xt":"urn:btih:de14fce60c40e23ba36f0c3ffea909c54ee26136","amp;dn":"Criminal+Minds+Season+5","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"de14fce60c40e23ba36f0c3ffea909c54ee26136","infoHashBuffer":{"type":"Buffer","data":[222,20,252,230,12,64,226,59,163,111,12,63,254,169,9,197,78,226,97,54]},"announce":[],"urlList":[]}}
+{
+  "title": "Criminal Minds Season 5",
+  "uid": 6497260,
+  "size": 8447979978,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:de14fce60c40e23ba36f0c3ffea909c54ee26136&amp;dn=Criminal+Minds+Season+5&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 68,
+  "leechers": 60,
+  "uploader": "ddaviey3",
+  "files": 23,
+  "time": 1309117248,
+  "description": "Season 5 complete in AVI format",
+  "parsed": {
+    "xt": "urn:btih:de14fce60c40e23ba36f0c3ffea909c54ee26136",
+    "dn": "Criminal Minds Season 5",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "de14fce60c40e23ba36f0c3ffea909c54ee26136",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        222,
+        20,
+        252,
+        230,
+        12,
+        64,
+        226,
+        59,
+        163,
+        111,
+        12,
+        63,
+        254,
+        169,
+        9,
+        197,
+        78,
+        226,
+        97,
+        54
+      ]
+    },
+    "name": "Criminal Minds Season 5",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 128,
+  "peers": 160,
+  "last_updated": "2016-12-25T15:54:58.167Z"
+}

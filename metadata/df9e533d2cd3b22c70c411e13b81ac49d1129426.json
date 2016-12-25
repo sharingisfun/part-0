@@ -1,1 +1,61 @@
-{"title":"Little Snitch 3.3.2 + Activation (MAC OSX)","uid":10411532,"size":22933288,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:df9e533d2cd3b22c70c411e13b81ac49d1129426&amp;dn=Little+Snitch+3.3.2+%2B+Activation+%28MAC+OSX%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":1,"uploader":"Inter95","files":-1,"time":1403542700,"description":"Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection. You can allow or deny these connections, or define rules to handle future attempts automatically. Little Snitch reliably prevents your private data from being sent out to the Internet without your knowledge.\n\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\nNOTE: Many users are complaining that these instruction is working for Maverick only. mine is Mavericks 10.9.3 and it's working perfect so I dont know if it going to work with you OSX version.","torrent":{"xt":"urn:btih:df9e533d2cd3b22c70c411e13b81ac49d1129426","amp;dn":"Little+Snitch+3.3.2+%2B+Activation+%28MAC+OSX%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"df9e533d2cd3b22c70c411e13b81ac49d1129426","infoHashBuffer":{"type":"Buffer","data":[223,158,83,61,44,211,178,44,112,196,17,225,59,129,172,73,209,18,148,38]},"announce":[],"urlList":[]}}
+{
+  "title": "Little Snitch 3.3.2 + Activation (MAC OSX)",
+  "uid": 10411532,
+  "size": 22933288,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:df9e533d2cd3b22c70c411e13b81ac49d1129426&amp;dn=Little+Snitch+3.3.2+%2B+Activation+%28MAC+OSX%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 1,
+  "uploader": "Inter95",
+  "files": -1,
+  "time": 1403542700,
+  "description": "Little Snitch informs you whenever a program attempts to establish an outgoing Internet connection. You can allow or deny these connections, or define rules to handle future attempts automatically. Little Snitch reliably prevents your private data from being sent out to the Internet without your knowledge.\n\n++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\nNOTE: Many users are complaining that these instruction is working for Maverick only. mine is Mavericks 10.9.3 and it's working perfect so I dont know if it going to work with you OSX version.",
+  "parsed": {
+    "xt": "urn:btih:df9e533d2cd3b22c70c411e13b81ac49d1129426",
+    "dn": "Little Snitch 3.3.2   Activation (MAC OSX)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "df9e533d2cd3b22c70c411e13b81ac49d1129426",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        223,
+        158,
+        83,
+        61,
+        44,
+        211,
+        178,
+        44,
+        112,
+        196,
+        17,
+        225,
+        59,
+        129,
+        172,
+        73,
+        209,
+        18,
+        148,
+        38
+      ]
+    },
+    "name": "Little Snitch 3.3.2   Activation (MAC OSX)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 6,
+  "last_updated": "2016-12-25T16:03:29.672Z"
+}

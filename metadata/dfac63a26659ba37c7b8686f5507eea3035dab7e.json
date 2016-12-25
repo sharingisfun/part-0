@@ -1,1 +1,61 @@
-{"title":"The Jetsons Complete Series","uid":7923211,"size":16949843811,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:dfac63a26659ba37c7b8686f5507eea3035dab7e&amp;dn=The+Jetsons+Complete+Series&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":30,"uploader":"ninjakat2010","files":73,"time":1355517686,"description":"Full Jetsons cartoon managed to find them and piece them to gather enjoy sorry about repeats my first torrent and have hopefully got it right","torrent":{"xt":"urn:btih:dfac63a26659ba37c7b8686f5507eea3035dab7e","amp;dn":"The+Jetsons+Complete+Series","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dfac63a26659ba37c7b8686f5507eea3035dab7e","infoHashBuffer":{"type":"Buffer","data":[223,172,99,162,102,89,186,55,199,184,104,111,85,7,238,163,3,93,171,126]},"announce":[],"urlList":[]}}
+{
+  "title": "The Jetsons Complete Series",
+  "uid": 7923211,
+  "size": 16949843811,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:dfac63a26659ba37c7b8686f5507eea3035dab7e&amp;dn=The+Jetsons+Complete+Series&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 30,
+  "uploader": "ninjakat2010",
+  "files": 73,
+  "time": 1355517686,
+  "description": "Full Jetsons cartoon managed to find them and piece them to gather enjoy sorry about repeats my first torrent and have hopefully got it right",
+  "parsed": {
+    "xt": "urn:btih:dfac63a26659ba37c7b8686f5507eea3035dab7e",
+    "dn": "The Jetsons Complete Series",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dfac63a26659ba37c7b8686f5507eea3035dab7e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        223,
+        172,
+        99,
+        162,
+        102,
+        89,
+        186,
+        55,
+        199,
+        184,
+        104,
+        111,
+        85,
+        7,
+        238,
+        163,
+        3,
+        93,
+        171,
+        126
+      ]
+    },
+    "name": "The Jetsons Complete Series",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 76,
+  "peers": 29,
+  "last_updated": "2016-12-25T16:03:57.745Z"
+}

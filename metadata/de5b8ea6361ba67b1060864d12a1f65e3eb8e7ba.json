@@ -1,1 +1,61 @@
-{"title":"Traktor Pro 2 for MAC v2.0.3","uid":6534105,"size":240155549,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:de5b8ea6361ba67b1060864d12a1f65e3eb8e7ba&amp;dn=Traktor+Pro+2+for+MAC+v2.0.3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":0,"uploader":"nt74","files":4,"time":1310458634,"description":"This is the latest version of the popular dj tool Traktor Pro 2.\n\nEnjoy!","torrent":{"xt":"urn:btih:de5b8ea6361ba67b1060864d12a1f65e3eb8e7ba","amp;dn":"Traktor+Pro+2+for+MAC+v2.0.3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"de5b8ea6361ba67b1060864d12a1f65e3eb8e7ba","infoHashBuffer":{"type":"Buffer","data":[222,91,142,166,54,27,166,123,16,96,134,77,18,161,246,94,62,184,231,186]},"announce":[],"urlList":[]}}
+{
+  "title": "Traktor Pro 2 for MAC v2.0.3",
+  "uid": 6534105,
+  "size": 240155549,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:de5b8ea6361ba67b1060864d12a1f65e3eb8e7ba&amp;dn=Traktor+Pro+2+for+MAC+v2.0.3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 0,
+  "uploader": "nt74",
+  "files": 4,
+  "time": 1310458634,
+  "description": "This is the latest version of the popular dj tool Traktor Pro 2.\n\nEnjoy!",
+  "parsed": {
+    "xt": "urn:btih:de5b8ea6361ba67b1060864d12a1f65e3eb8e7ba",
+    "dn": "Traktor Pro 2 for MAC v2.0.3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "de5b8ea6361ba67b1060864d12a1f65e3eb8e7ba",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        222,
+        91,
+        142,
+        166,
+        54,
+        27,
+        166,
+        123,
+        16,
+        96,
+        134,
+        77,
+        18,
+        161,
+        246,
+        94,
+        62,
+        184,
+        231,
+        186
+      ]
+    },
+    "name": "Traktor Pro 2 for MAC v2.0.3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 63,
+  "peers": 42,
+  "last_updated": "2016-12-25T15:56:44.484Z"
+}

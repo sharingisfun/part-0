@@ -1,1 +1,61 @@
-{"title":"MotoGP 14-CODEX","uid":10397275,"size":21297246659,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:de4631c4d08850c7114be2253d9d13c4dec0e6f3&amp;dn=MotoGP+14-CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":48,"uploader":"Drarbg","files":3,"time":1403282899,"description":"MotoGP 14-CODEX\n","torrent":{"xt":"urn:btih:de4631c4d08850c7114be2253d9d13c4dec0e6f3","amp;dn":"MotoGP+14-CODEX","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"de4631c4d08850c7114be2253d9d13c4dec0e6f3","infoHashBuffer":{"type":"Buffer","data":[222,70,49,196,208,136,80,199,17,75,226,37,61,157,19,196,222,192,230,243]},"announce":[],"urlList":[]}}
+{
+  "title": "MotoGP 14-CODEX",
+  "uid": 10397275,
+  "size": 21297246659,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:de4631c4d08850c7114be2253d9d13c4dec0e6f3&amp;dn=MotoGP+14-CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 48,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1403282899,
+  "description": "MotoGP 14-CODEX\n",
+  "parsed": {
+    "xt": "urn:btih:de4631c4d08850c7114be2253d9d13c4dec0e6f3",
+    "dn": "MotoGP 14-CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "de4631c4d08850c7114be2253d9d13c4dec0e6f3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        222,
+        70,
+        49,
+        196,
+        208,
+        136,
+        80,
+        199,
+        17,
+        75,
+        226,
+        37,
+        61,
+        157,
+        19,
+        196,
+        222,
+        192,
+        230,
+        243
+      ]
+    },
+    "name": "MotoGP 14-CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 109,
+  "peers": 41,
+  "last_updated": "2016-12-25T15:56:10.383Z"
+}

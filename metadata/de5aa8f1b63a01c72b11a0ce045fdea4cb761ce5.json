@@ -1,1 +1,61 @@
-{"title":"The Walking Dead S05 1080p HDTV Dual Audio 5.1","uid":11791316,"size":29257943416,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:de5aa8f1b63a01c72b11a0ce045fdea4cb761ce5&amp;dn=The+Walking+Dead+S05+1080p+HDTV+Dual+Audio+5.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":28,"uploader":"jefffalcao","files":35,"time":1427951653,"description":"The Walking Dead S05 1080p HDTV Dual Audio 5.1","torrent":{"xt":"urn:btih:de5aa8f1b63a01c72b11a0ce045fdea4cb761ce5","amp;dn":"The+Walking+Dead+S05+1080p+HDTV+Dual+Audio+5.1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"de5aa8f1b63a01c72b11a0ce045fdea4cb761ce5","infoHashBuffer":{"type":"Buffer","data":[222,90,168,241,182,58,1,199,43,17,160,206,4,95,222,164,203,118,28,229]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead S05 1080p HDTV Dual Audio 5.1",
+  "uid": 11791316,
+  "size": 29257943416,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:de5aa8f1b63a01c72b11a0ce045fdea4cb761ce5&amp;dn=The+Walking+Dead+S05+1080p+HDTV+Dual+Audio+5.1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 28,
+  "uploader": "jefffalcao",
+  "files": 35,
+  "time": 1427951653,
+  "description": "The Walking Dead S05 1080p HDTV Dual Audio 5.1",
+  "parsed": {
+    "xt": "urn:btih:de5aa8f1b63a01c72b11a0ce045fdea4cb761ce5",
+    "dn": "The Walking Dead S05 1080p HDTV Dual Audio 5.1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "de5aa8f1b63a01c72b11a0ce045fdea4cb761ce5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        222,
+        90,
+        168,
+        241,
+        182,
+        58,
+        1,
+        199,
+        43,
+        17,
+        160,
+        206,
+        4,
+        95,
+        222,
+        164,
+        203,
+        118,
+        28,
+        229
+      ]
+    },
+    "name": "The Walking Dead S05 1080p HDTV Dual Audio 5.1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 12,
+  "last_updated": "2016-12-25T15:56:40.472Z"
+}

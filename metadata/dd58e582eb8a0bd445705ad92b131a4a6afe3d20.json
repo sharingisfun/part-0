@@ -1,1 +1,61 @@
-{"title":"Windows 7 SP1 Hebrew All Versions 32-64 bit","uid":7037412,"size":4005414819,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:dd58e582eb8a0bd445705ad92b131a4a6afe3d20&amp;dn=Windows+7+SP1+Hebrew+All+Versions+32-64+bit&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":1,"uploader":"mikedongs","files":2,"time":1329433555,"description":"Windows 7 SP1 All Versions Hebrew\n\nWindows 7 Starter\n\nWindows 7 Home Basic\n\nWindows 7 Home Premium\n\nWindows 7 Professional\n\nWindows 7 Enterprise\n\nWindows 7 Ultimate\n\n32&amp;64 bit ","torrent":{"xt":"urn:btih:dd58e582eb8a0bd445705ad92b131a4a6afe3d20","amp;dn":"Windows+7+SP1+Hebrew+All+Versions+32-64+bit","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"dd58e582eb8a0bd445705ad92b131a4a6afe3d20","infoHashBuffer":{"type":"Buffer","data":[221,88,229,130,235,138,11,212,69,112,90,217,43,19,26,74,106,254,61,32]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows 7 SP1 Hebrew All Versions 32-64 bit",
+  "uid": 7037412,
+  "size": 4005414819,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:dd58e582eb8a0bd445705ad92b131a4a6afe3d20&amp;dn=Windows+7+SP1+Hebrew+All+Versions+32-64+bit&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 1,
+  "uploader": "mikedongs",
+  "files": 2,
+  "time": 1329433555,
+  "description": "Windows 7 SP1 All Versions Hebrew\n\nWindows 7 Starter\n\nWindows 7 Home Basic\n\nWindows 7 Home Premium\n\nWindows 7 Professional\n\nWindows 7 Enterprise\n\nWindows 7 Ultimate\n\n32&amp;64 bit ",
+  "parsed": {
+    "xt": "urn:btih:dd58e582eb8a0bd445705ad92b131a4a6afe3d20",
+    "dn": "Windows 7 SP1 Hebrew All Versions 32-64 bit",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "dd58e582eb8a0bd445705ad92b131a4a6afe3d20",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        221,
+        88,
+        229,
+        130,
+        235,
+        138,
+        11,
+        212,
+        69,
+        112,
+        90,
+        217,
+        43,
+        19,
+        26,
+        74,
+        106,
+        254,
+        61,
+        32
+      ]
+    },
+    "name": "Windows 7 SP1 Hebrew All Versions 32-64 bit",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 42,
+  "last_updated": "2016-12-25T15:50:19.391Z"
+}

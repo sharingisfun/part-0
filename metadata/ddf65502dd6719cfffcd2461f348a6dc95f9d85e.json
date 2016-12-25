@@ -1,1 +1,61 @@
-{"title":"Spy.2015.720p.BRRip.x264-YIFY","uid":12439849,"size":917582481,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:ddf65502dd6719cfffcd2461f348a6dc95f9d85e&amp;dn=Spy.2015.720p.BRRip.x264-YIFY&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":5529,"leechers":1615,"uploader":"Dell_boy","files":2,"time":1442566926,"description":"Runtime.........: 2h 10mn\nVideo...........: x264\nVideo Bitrate...: 840 Kbps\nResolution......: 1280x536\nFrame Rate......: 23.976 fps\nAudio...........: AAC/93.8 Kbps\nSubtitles.......: N/A\nLanguages.......: English","torrent":{"xt":"urn:btih:ddf65502dd6719cfffcd2461f348a6dc95f9d85e","amp;dn":"Spy.2015.720p.BRRip.x264-YIFY","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ddf65502dd6719cfffcd2461f348a6dc95f9d85e","infoHashBuffer":{"type":"Buffer","data":[221,246,85,2,221,103,25,207,255,205,36,97,243,72,166,220,149,249,216,94]},"announce":[],"urlList":[]}}
+{
+  "title": "Spy.2015.720p.BRRip.x264-YIFY",
+  "uid": 12439849,
+  "size": 917582481,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:ddf65502dd6719cfffcd2461f348a6dc95f9d85e&amp;dn=Spy.2015.720p.BRRip.x264-YIFY&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 5529,
+  "leechers": 1615,
+  "uploader": "Dell_boy",
+  "files": 2,
+  "time": 1442566926,
+  "description": "Runtime.........: 2h 10mn\nVideo...........: x264\nVideo Bitrate...: 840 Kbps\nResolution......: 1280x536\nFrame Rate......: 23.976 fps\nAudio...........: AAC/93.8 Kbps\nSubtitles.......: N/A\nLanguages.......: English",
+  "parsed": {
+    "xt": "urn:btih:ddf65502dd6719cfffcd2461f348a6dc95f9d85e",
+    "dn": "Spy.2015.720p.BRRip.x264-YIFY",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ddf65502dd6719cfffcd2461f348a6dc95f9d85e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        221,
+        246,
+        85,
+        2,
+        221,
+        103,
+        25,
+        207,
+        255,
+        205,
+        36,
+        97,
+        243,
+        72,
+        166,
+        220,
+        149,
+        249,
+        216,
+        94
+      ]
+    },
+    "name": "Spy.2015.720p.BRRip.x264-YIFY",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 7144,
+  "peers": 52,
+  "last_updated": "2016-12-25T15:54:14.039Z"
+}
