@@ -1,1 +1,61 @@
-{"title":"Eric Clapton Discography, 28 albums","uid":3358852,"size":2615328618,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:bae774ff2d4fd1a9f704d8707bfbc336834a2064&amp;dn=Eric+Clapton+Discography%2C+28+albums&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":8,"uploader":"slimslider","files":428,"time":1121915586,"description":"Eric Clapton Discography, 28 albums","torrent":{"xt":"urn:btih:bae774ff2d4fd1a9f704d8707bfbc336834a2064","amp;dn":"Eric+Clapton+Discography%2C+28+albums","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bae774ff2d4fd1a9f704d8707bfbc336834a2064","infoHashBuffer":{"type":"Buffer","data":[186,231,116,255,45,79,209,169,247,4,216,112,123,251,195,54,131,74,32,100]},"announce":[],"urlList":[]}}
+{
+  "title": "Eric Clapton Discography, 28 albums",
+  "uid": 3358852,
+  "size": 2615328618,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:bae774ff2d4fd1a9f704d8707bfbc336834a2064&amp;dn=Eric+Clapton+Discography%2C+28+albums&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 8,
+  "uploader": "slimslider",
+  "files": 428,
+  "time": 1121915586,
+  "description": "Eric Clapton Discography, 28 albums",
+  "parsed": {
+    "xt": "urn:btih:bae774ff2d4fd1a9f704d8707bfbc336834a2064",
+    "dn": "Eric Clapton Discography, 28 albums",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bae774ff2d4fd1a9f704d8707bfbc336834a2064",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        186,
+        231,
+        116,
+        255,
+        45,
+        79,
+        209,
+        169,
+        247,
+        4,
+        216,
+        112,
+        123,
+        251,
+        195,
+        54,
+        131,
+        74,
+        32,
+        100
+      ]
+    },
+    "name": "Eric Clapton Discography, 28 albums",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 44,
+  "last_updated": "2016-12-25T12:17:45.903Z"
+}

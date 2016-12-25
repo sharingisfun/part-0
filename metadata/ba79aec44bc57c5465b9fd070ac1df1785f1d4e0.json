@@ -1,1 +1,61 @@
-{"title":"Arrow S03E04 HDTV x264-LOL[ettv]","uid":11327029,"size":239172239,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ba79aec44bc57c5465b9fd070ac1df1785f1d4e0&amp;dn=Arrow+S03E04+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":6,"uploader":"ettv","files":2,"time":1414634341,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:ba79aec44bc57c5465b9fd070ac1df1785f1d4e0","amp;dn":"Arrow+S03E04+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ba79aec44bc57c5465b9fd070ac1df1785f1d4e0","infoHashBuffer":{"type":"Buffer","data":[186,121,174,196,75,197,124,84,101,185,253,7,10,193,223,23,133,241,212,224]},"announce":[],"urlList":[]}}
+{
+  "title": "Arrow S03E04 HDTV x264-LOL[ettv]",
+  "uid": 11327029,
+  "size": 239172239,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ba79aec44bc57c5465b9fd070ac1df1785f1d4e0&amp;dn=Arrow+S03E04+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 6,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1414634341,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:ba79aec44bc57c5465b9fd070ac1df1785f1d4e0",
+    "dn": "Arrow S03E04 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ba79aec44bc57c5465b9fd070ac1df1785f1d4e0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        186,
+        121,
+        174,
+        196,
+        75,
+        197,
+        124,
+        84,
+        101,
+        185,
+        253,
+        7,
+        10,
+        193,
+        223,
+        23,
+        133,
+        241,
+        212,
+        224
+      ]
+    },
+    "name": "Arrow S03E04 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 14,
+  "last_updated": "2016-12-25T12:15:07.308Z"
+}

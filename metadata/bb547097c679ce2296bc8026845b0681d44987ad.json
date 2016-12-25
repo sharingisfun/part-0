@@ -1,1 +1,63 @@
-{"title":"Scania Truck Driving Simulator Extended 2016","uid":15964250,"size":10103228,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:bb547097c679ce2296bc8026845b0681d44987ad&amp;dn=Scania+Truck+Driving+Simulator+Extended+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":118,"leechers":68,"uploader":"trwetwr","files":2,"time":1475707186,"description":"Good Game","torrent":{"xt":"urn:btih:bb547097c679ce2296bc8026845b0681d44987ad","amp;dn":"Scania+Truck+Driving+Simulator+Extended+2016","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bb547097c679ce2296bc8026845b0681d44987ad","infoHashBuffer":{"type":"Buffer","data":[187,84,112,151,198,121,206,34,150,188,128,38,132,91,6,129,212,73,135,173]},"announce":[],"urlList":[]}}
+{
+  "title": "Scania Truck Driving Simulator Extended 2016",
+  "uid": 15964250,
+  "size": 10103228,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:bb547097c679ce2296bc8026845b0681d44987ad&amp;dn=Scania+Truck+Driving+Simulator+Extended+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 118,
+  "leechers": 68,
+  "uploader": "trwetwr",
+  "files": 2,
+  "time": 1475707186,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:bb547097c679ce2296bc8026845b0681d44987ad",
+    "dn": "Scania Truck Driving Simulator Extended 2016",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "bb547097c679ce2296bc8026845b0681d44987ad",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        187,
+        84,
+        112,
+        151,
+        198,
+        121,
+        206,
+        34,
+        150,
+        188,
+        128,
+        38,
+        132,
+        91,
+        6,
+        129,
+        212,
+        73,
+        135,
+        173
+      ]
+    },
+    "name": "Scania Truck Driving Simulator Extended 2016",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 186,
+  "peers": 2,
+  "last_updated": "2016-12-25T12:20:56.509Z"
+}

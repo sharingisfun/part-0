@@ -1,1 +1,63 @@
-{"title":"0-Day Week of 2016.09.14","uid":15872447,"size":9459713542,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:baffdde77a843b88b627d7e58857fcce265851dd&amp;dn=0-Day+Week+of+2016.09.14&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":40,"uploader":"shipjolly","files":169,"time":1474452400,"description":"comics, 0-day,0day,hitlist,scat","torrent":{"xt":"urn:btih:baffdde77a843b88b627d7e58857fcce265851dd","amp;dn":"0-Day+Week+of+2016.09.14","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"baffdde77a843b88b627d7e58857fcce265851dd","infoHashBuffer":{"type":"Buffer","data":[186,255,221,231,122,132,59,136,182,39,215,229,136,87,252,206,38,88,81,221]},"announce":[],"urlList":[]}}
+{
+  "title": "0-Day Week of 2016.09.14",
+  "uid": 15872447,
+  "size": 9459713542,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:baffdde77a843b88b627d7e58857fcce265851dd&amp;dn=0-Day+Week+of+2016.09.14&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 40,
+  "uploader": "shipjolly",
+  "files": 169,
+  "time": 1474452400,
+  "description": "comics, 0-day,0day,hitlist,scat",
+  "parsed": {
+    "xt": "urn:btih:baffdde77a843b88b627d7e58857fcce265851dd",
+    "dn": "0-Day Week of 2016.09.14",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "baffdde77a843b88b627d7e58857fcce265851dd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        186,
+        255,
+        221,
+        231,
+        122,
+        132,
+        59,
+        136,
+        182,
+        39,
+        215,
+        229,
+        136,
+        87,
+        252,
+        206,
+        38,
+        88,
+        81,
+        221
+      ]
+    },
+    "name": "0-Day Week of 2016.09.14",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 84,
+  "peers": 17,
+  "last_updated": "2016-12-25T12:18:40.136Z"
+}

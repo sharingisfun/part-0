@@ -1,1 +1,61 @@
-{"title":"Dolor y dinero (BR-Screener) ESPAÃ‘OL","uid":8865412,"size":1717004288,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:bbc7854c00d0dc3602601d9e43e2f99b3380cce8&amp;dn=Dolor+y+dinero+%28BR-Screener%29+ESPA%26Ntilde%3BOL&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":0,"uploader":"Miguel223","files":1,"time":1377894841,"description":" &lt;a href=&quot;http://www.peliculasytorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.peliculasytorrent.com/&lt;/a&gt;","torrent":{"xt":"urn:btih:bbc7854c00d0dc3602601d9e43e2f99b3380cce8","amp;dn":"Dolor+y+dinero+%28BR-Screener%29+ESPA%26Ntilde%3BOL","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bbc7854c00d0dc3602601d9e43e2f99b3380cce8","infoHashBuffer":{"type":"Buffer","data":[187,199,133,76,0,208,220,54,2,96,29,158,67,226,249,155,51,128,204,232]},"announce":[],"urlList":[]}}
+{
+  "title": "Dolor y dinero (BR-Screener) ESPAÃ‘OL",
+  "uid": 8865412,
+  "size": 1717004288,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:bbc7854c00d0dc3602601d9e43e2f99b3380cce8&amp;dn=Dolor+y+dinero+%28BR-Screener%29+ESPA%26Ntilde%3BOL&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 0,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1377894841,
+  "description": " &lt;a href=&quot;http://www.peliculasytorrent.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.peliculasytorrent.com/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:bbc7854c00d0dc3602601d9e43e2f99b3380cce8",
+    "dn": "Dolor y dinero (BR-Screener) ESPA&Ntilde;OL",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bbc7854c00d0dc3602601d9e43e2f99b3380cce8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        187,
+        199,
+        133,
+        76,
+        0,
+        208,
+        220,
+        54,
+        2,
+        96,
+        29,
+        158,
+        67,
+        226,
+        249,
+        155,
+        51,
+        128,
+        204,
+        232
+      ]
+    },
+    "name": "Dolor y dinero (BR-Screener) ESPA&Ntilde;OL",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 1,
+  "last_updated": "2016-12-25T12:23:44.989Z"
+}

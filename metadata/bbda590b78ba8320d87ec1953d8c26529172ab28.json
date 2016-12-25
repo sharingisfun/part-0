@@ -1,1 +1,61 @@
-{"title":"Gogol Bordello Discography (6 Albums)","uid":3930387,"size":397034475,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:bbda590b78ba8320d87ec1953d8c26529172ab28&amp;dn=Gogol+Bordello+Discography+%286+Albums%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":5,"uploader":"jotun_82","files":73,"time":1197418000,"description":"Gogol Bordello Discography (6 Albums)\n     \n      --All Albums In 192kbit--\n\n\nGogol Bordello - East Infection (EP)\nGogol Bordello - Gypsy Punks (Underdog World Strike)\nGogol Bordello - Multi Kontra Culti vs. Irony\nGogol Bordello - Super Taranta!\nGogol Bordello - Voi-La Intruder\nGogol Bordello vs. Tamir Muskat - J.U.F","torrent":{"xt":"urn:btih:bbda590b78ba8320d87ec1953d8c26529172ab28","amp;dn":"Gogol+Bordello+Discography+%286+Albums%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bbda590b78ba8320d87ec1953d8c26529172ab28","infoHashBuffer":{"type":"Buffer","data":[187,218,89,11,120,186,131,32,216,126,193,149,61,140,38,82,145,114,171,40]},"announce":[],"urlList":[]}}
+{
+  "title": "Gogol Bordello Discography (6 Albums)",
+  "uid": 3930387,
+  "size": 397034475,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:bbda590b78ba8320d87ec1953d8c26529172ab28&amp;dn=Gogol+Bordello+Discography+%286+Albums%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 5,
+  "uploader": "jotun_82",
+  "files": 73,
+  "time": 1197418000,
+  "description": "Gogol Bordello Discography (6 Albums)\n     \n      --All Albums In 192kbit--\n\n\nGogol Bordello - East Infection (EP)\nGogol Bordello - Gypsy Punks (Underdog World Strike)\nGogol Bordello - Multi Kontra Culti vs. Irony\nGogol Bordello - Super Taranta!\nGogol Bordello - Voi-La Intruder\nGogol Bordello vs. Tamir Muskat - J.U.F",
+  "parsed": {
+    "xt": "urn:btih:bbda590b78ba8320d87ec1953d8c26529172ab28",
+    "dn": "Gogol Bordello Discography (6 Albums)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bbda590b78ba8320d87ec1953d8c26529172ab28",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        187,
+        218,
+        89,
+        11,
+        120,
+        186,
+        131,
+        32,
+        216,
+        126,
+        193,
+        149,
+        61,
+        140,
+        38,
+        82,
+        145,
+        114,
+        171,
+        40
+      ]
+    },
+    "name": "Gogol Bordello Discography (6 Albums)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 66,
+  "peers": 54,
+  "last_updated": "2016-12-25T12:24:11.065Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Louis Armstrong Greatest Hits","uid":10921945,"size":38411874,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:bb707877c7ee8344dff5f77c2dbbf1c9eb0f02e0&amp;dn=Louis+Armstrong+Greatest+Hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":65,"leechers":2,"uploader":"Pat_mat123","files":10,"time":1409340788,"description":"10Best Songs By Louis Armstrong :\n\n-Dream a Little Dream by Louis Armstrong\n\n-Georgia on My Mind By Louis Armstrong\n\n-Saint Louis Blues By Louis Armstrong\n\n-When You're Smiling By Louis Armstrong\n\n-West End Blues By Louis Armstrong\n\n-Moon River By Louis Armstrong\n\n-Hello Dolly Live By Louis Armstrong\n\n-When The Saints Go Marching In By Louis Armstrong\n\n-Go Down Moses By Louis Armstrong\n\n-What a wonderful world By Louis Armstong\n\n","torrent":{"xt":"urn:btih:bb707877c7ee8344dff5f77c2dbbf1c9eb0f02e0","amp;dn":"Louis+Armstrong+Greatest+Hits","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bb707877c7ee8344dff5f77c2dbbf1c9eb0f02e0","infoHashBuffer":{"type":"Buffer","data":[187,112,120,119,199,238,131,68,223,245,247,124,45,187,241,201,235,15,2,224]},"announce":[],"urlList":[]}}
+{
+  "title": "Louis Armstrong Greatest Hits",
+  "uid": 10921945,
+  "size": 38411874,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:bb707877c7ee8344dff5f77c2dbbf1c9eb0f02e0&amp;dn=Louis+Armstrong+Greatest+Hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 65,
+  "leechers": 2,
+  "uploader": "Pat_mat123",
+  "files": 10,
+  "time": 1409340788,
+  "description": "10Best Songs By Louis Armstrong :\n\n-Dream a Little Dream by Louis Armstrong\n\n-Georgia on My Mind By Louis Armstrong\n\n-Saint Louis Blues By Louis Armstrong\n\n-When You're Smiling By Louis Armstrong\n\n-West End Blues By Louis Armstrong\n\n-Moon River By Louis Armstrong\n\n-Hello Dolly Live By Louis Armstrong\n\n-When The Saints Go Marching In By Louis Armstrong\n\n-Go Down Moses By Louis Armstrong\n\n-What a wonderful world By Louis Armstong\n\n",
+  "parsed": {
+    "xt": "urn:btih:bb707877c7ee8344dff5f77c2dbbf1c9eb0f02e0",
+    "dn": "Louis Armstrong Greatest Hits",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bb707877c7ee8344dff5f77c2dbbf1c9eb0f02e0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        187,
+        112,
+        120,
+        119,
+        199,
+        238,
+        131,
+        68,
+        223,
+        245,
+        247,
+        124,
+        45,
+        187,
+        241,
+        201,
+        235,
+        15,
+        2,
+        224
+      ]
+    },
+    "name": "Louis Armstrong Greatest Hits",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 67,
+  "peers": 26,
+  "last_updated": "2016-12-25T12:21:42.660Z"
+}

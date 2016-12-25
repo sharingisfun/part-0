@@ -1,1 +1,61 @@
-{"title":"2Pac - Me Against The World [1995]","uid":8622442,"size":95947710,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:bb84f989f3e1585bb6f9899bc8c220cc2741c8b1&amp;dn=2Pac+-+Me+Against+The+World+%5B1995%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":5,"uploader":"jonah9100","files":-1,"time":1372412797,"description":"good album. mp3 format. seed seed seed. \ntracklist: \n1\tIntro\t1:40\n2\tIf I Die 2Nite\t4:02\n3\tMe Against the World\t4:41\n4\tSo Many Tears\t3:59\n5\tTemptations\t5:01\n6\tYoung Niggaz\t4:53\n7\tHeavy in the Game\t4:24\n8\tLord Knows\t4:32\n9\tDear Mama\t4:39\n10\tIt Ain't Easy\t4:54\n11\tCan U Get Away\t5:46\n12\tOld School\t4:40\n13\tFuck the World\t4:14\n14\tDeath Around the Corner\t4:07\n15\tOutlaw\t4:33\n\n-jonah9100","torrent":{"xt":"urn:btih:bb84f989f3e1585bb6f9899bc8c220cc2741c8b1","amp;dn":"2Pac+-+Me+Against+The+World+%5B1995%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bb84f989f3e1585bb6f9899bc8c220cc2741c8b1","infoHashBuffer":{"type":"Buffer","data":[187,132,249,137,243,225,88,91,182,249,137,155,200,194,32,204,39,65,200,177]},"announce":[],"urlList":[]}}
+{
+  "title": "2Pac - Me Against The World [1995]",
+  "uid": 8622442,
+  "size": 95947710,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:bb84f989f3e1585bb6f9899bc8c220cc2741c8b1&amp;dn=2Pac+-+Me+Against+The+World+%5B1995%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 5,
+  "uploader": "jonah9100",
+  "files": -1,
+  "time": 1372412797,
+  "description": "good album. mp3 format. seed seed seed. \ntracklist: \n1\tIntro\t1:40\n2\tIf I Die 2Nite\t4:02\n3\tMe Against the World\t4:41\n4\tSo Many Tears\t3:59\n5\tTemptations\t5:01\n6\tYoung Niggaz\t4:53\n7\tHeavy in the Game\t4:24\n8\tLord Knows\t4:32\n9\tDear Mama\t4:39\n10\tIt Ain't Easy\t4:54\n11\tCan U Get Away\t5:46\n12\tOld School\t4:40\n13\tFuck the World\t4:14\n14\tDeath Around the Corner\t4:07\n15\tOutlaw\t4:33\n\n-jonah9100",
+  "parsed": {
+    "xt": "urn:btih:bb84f989f3e1585bb6f9899bc8c220cc2741c8b1",
+    "dn": "2Pac - Me Against The World [1995]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bb84f989f3e1585bb6f9899bc8c220cc2741c8b1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        187,
+        132,
+        249,
+        137,
+        243,
+        225,
+        88,
+        91,
+        182,
+        249,
+        137,
+        155,
+        200,
+        194,
+        32,
+        204,
+        39,
+        65,
+        200,
+        177
+      ]
+    },
+    "name": "2Pac - Me Against The World [1995]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 61,
+  "last_updated": "2016-12-25T12:22:14.750Z"
+}

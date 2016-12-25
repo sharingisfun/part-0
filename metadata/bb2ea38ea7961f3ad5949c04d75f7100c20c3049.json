@@ -1,1 +1,61 @@
-{"title":"Windows 8.1 x64 [PL] [Listopad.2014-NiKKA]","uid":11562821,"size":4655253570,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:bb2ea38ea7961f3ad5949c04d75f7100c20c3049&amp;dn=Windows+8.1+x64+%5BPL%5D+%5BListopad.2014-NiKKA%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":1,"uploader":"erektor2","files":6,"time":1416911506,"description":"NiKKA p r e s e n t s :    \n                   \nWindows.8.1.PL.x64.Listopad.2014-NiKKA\n\n64bit - Core, Pro, Pro z programem Media Center\n\n-------------------------------------------------------------------------------------\nOpis systemu:\n\nInfo: https://pl.wikipedia.org/wiki/Windows_8.1\n\n-------------------------------------------------------------------------------------\nInfo:\n\nSource: Ostatnie wersje ESD (2014.09)\n\nType: System, x64 - 64bit\nLanguage: Polish, Polski\nVolume: 1xDVD5, bootable ISO, bootable USB\nCreate Date: 2014.11.23\nRelease Date: 2014.11.25\nBy: NiKKA\n\n\nContents:\n\n- Zintegrowane latki od M$ wydane do 2014.11 (November rollup included)\n- Zintegrowany .NET 3.5 (zawiera .NET 2.0 i 3.0)\n- Uaktualniony DirectX\n- Mozliwosc instalacji wersji 64bit:\n  Core, Pro, Pro z programem Media Center\n- Wsparcie dla UEFI Boot\n- Mozna instalowac ze swoim oryginalnym kluczem\n- Klucz OEM czy Retail/Box - czytaj aktywacja.txt\n\n\nInstruction:\n\nRozmiar ISO: 4,33 GB (bajtÃƒÂ³w: 4Ã‚Â 655Ã‚Â 249Ã‚Â 408)\nSHA1 ISO: 3643a94284e1ff82725aa0f5dbcee26d211cb7d7\n\nWypaliÃ„â€¡ ISO na DVD (DVD5) albo montowaÃ„â€¡ w demonie albo VMware albo nagraÃ„â€¡ odpowiednio na pendrive (8GB minimum):\nUÃ…Â¼yÃ„â€¡ programu: Rufus, lub innego, lub przygotowaÃ„â€¡ rÃ„â„¢cznie USB:\n\nPrzygotowanie bootowalnego pendrive do instalacji Windows Vista, 7, 8, 8.1:\n\nUWAGA! Robisz to na wÃ…â€šasnÃ„â€¦ odpowiedzialnoÃ…â€ºÃ„â€¡! Dalsze czynnoÃ…â€ºci kasujÃ„â€¦ zawartoÃ…â€ºÃ„â€¡ wybranego napÃ„â„¢du USB!\nZrÃƒÂ³b wczesniej kopiÃ„â„¢, jeÃ…â€ºli potrzeba!\n\nkonsola =&gt; cmd [enter]\ndiskpart [enter...]\n\nlist disk\nselect disk [wybierz_numer_dysku_USB - nie pomyliÃ„â€¡ siÃ„â„¢!]\nclean\ncreate partition primary\nselect partition 1\nactive [jeÃ…â€ºli ma byÃ„â€¡ bootowalny]\nformat fs=fat32 quick [max rozmiary: fat (4GB rozmiar partycji i 2GB rozmiar pliku), fat32 (2TB rozmiar partycji i 4GB rozmiar pliku) lub ntfs (16TB rozmiar partycji i pliku) - ntfs wybraÃ„â€¡ jeÃ…â€ºli pliki bÃ„â„¢dÃ„â€¦ wiÃ„â„¢ksze niÃ…Â¼ 4GB]\nassign\n\nexit\nexit\n\nskopiowaÃ„â€¡ zawartoÃ…â€ºÃ„â€¡ DVD/.ISO na USB\ninstalujemy system\n\n\nAktywacja - przeczytaj info zawarte w pliku aktywacja.txt\n\nUWAGA!\nJeÃ…â€ºli masz klucz OEM, podmieÃ…â€ž/wyedytuj ISO i zastÃ„â€¦p plik EI.CFG w katalogu ISO/sources/ plikiem EI.CFG z katalogu /ISO_OEM/\n\n\nScreeny: &lt;a href=&quot;\nhttp://www.turboimagehost.com/p/21233040/Win8.1_PL_2014.11_64bit_result1.png.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.turboimagehost.com/p/21233040/Win8.1_PL_2014.11_64bit_result1.png.html&lt;/a&gt; &lt;a href=&quot;\nhttp://www.turboimagehost.com/p/21233041/Win8.1_PL_2014.11_64bit_result2.png.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.turboimagehost.com/p/21233041/Win8.1_PL_2014.11_64bit_result2.png.html&lt;/a&gt; (WMC)\n\n\nWykonane czyszczenie WinSxS:\n\nDism.exe /online /Cleanup-Image /AnalyzeComponentStore\nDism.exe /online /Cleanup-Image /StartComponentCleanup (bez /ResetBase - decyzja naleÃ…Â¼y do Ciebie)\n\n\nInstall.esd\n\nPlik install.wim zostaÃ…â€š wyeksportowany(mocno skompresowany) do install.esd (/compress:recovery, przez co plik zmniejszyÃ…â€š siÃ„â„¢ z 4.95GB do 3.73GB)\n\n\nBrak ingerencji w ustawienia systemowe. Integrowane via Slipstream&amp;Sysprep. Mastering via skrypty (DISM, IMAGEX, OSCDIMG, CMD)","torrent":{"xt":"urn:btih:bb2ea38ea7961f3ad5949c04d75f7100c20c3049","amp;dn":"Windows+8.1+x64+%5BPL%5D+%5BListopad.2014-NiKKA%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bb2ea38ea7961f3ad5949c04d75f7100c20c3049","infoHashBuffer":{"type":"Buffer","data":[187,46,163,142,167,150,31,58,213,148,156,4,215,95,113,0,194,12,48,73]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows 8.1 x64 [PL] [Listopad.2014-NiKKA]",
+  "uid": 11562821,
+  "size": 4655253570,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:bb2ea38ea7961f3ad5949c04d75f7100c20c3049&amp;dn=Windows+8.1+x64+%5BPL%5D+%5BListopad.2014-NiKKA%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 1,
+  "uploader": "erektor2",
+  "files": 6,
+  "time": 1416911506,
+  "description": "NiKKA p r e s e n t s :    \n                   \nWindows.8.1.PL.x64.Listopad.2014-NiKKA\n\n64bit - Core, Pro, Pro z programem Media Center\n\n-------------------------------------------------------------------------------------\nOpis systemu:\n\nInfo: https://pl.wikipedia.org/wiki/Windows_8.1\n\n-------------------------------------------------------------------------------------\nInfo:\n\nSource: Ostatnie wersje ESD (2014.09)\n\nType: System, x64 - 64bit\nLanguage: Polish, Polski\nVolume: 1xDVD5, bootable ISO, bootable USB\nCreate Date: 2014.11.23\nRelease Date: 2014.11.25\nBy: NiKKA\n\n\nContents:\n\n- Zintegrowane latki od M$ wydane do 2014.11 (November rollup included)\n- Zintegrowany .NET 3.5 (zawiera .NET 2.0 i 3.0)\n- Uaktualniony DirectX\n- Mozliwosc instalacji wersji 64bit:\n  Core, Pro, Pro z programem Media Center\n- Wsparcie dla UEFI Boot\n- Mozna instalowac ze swoim oryginalnym kluczem\n- Klucz OEM czy Retail/Box - czytaj aktywacja.txt\n\n\nInstruction:\n\nRozmiar ISO: 4,33 GB (bajtÃƒÂ³w: 4Ã‚Â 655Ã‚Â 249Ã‚Â 408)\nSHA1 ISO: 3643a94284e1ff82725aa0f5dbcee26d211cb7d7\n\nWypaliÃ„â€¡ ISO na DVD (DVD5) albo montowaÃ„â€¡ w demonie albo VMware albo nagraÃ„â€¡ odpowiednio na pendrive (8GB minimum):\nUÃ…Â¼yÃ„â€¡ programu: Rufus, lub innego, lub przygotowaÃ„â€¡ rÃ„â„¢cznie USB:\n\nPrzygotowanie bootowalnego pendrive do instalacji Windows Vista, 7, 8, 8.1:\n\nUWAGA! Robisz to na wÃ…â€šasnÃ„â€¦ odpowiedzialnoÃ…â€ºÃ„â€¡! Dalsze czynnoÃ…â€ºci kasujÃ„â€¦ zawartoÃ…â€ºÃ„â€¡ wybranego napÃ„â„¢du USB!\nZrÃƒÂ³b wczesniej kopiÃ„â„¢, jeÃ…â€ºli potrzeba!\n\nkonsola =&gt; cmd [enter]\ndiskpart [enter...]\n\nlist disk\nselect disk [wybierz_numer_dysku_USB - nie pomyliÃ„â€¡ siÃ„â„¢!]\nclean\ncreate partition primary\nselect partition 1\nactive [jeÃ…â€ºli ma byÃ„â€¡ bootowalny]\nformat fs=fat32 quick [max rozmiary: fat (4GB rozmiar partycji i 2GB rozmiar pliku), fat32 (2TB rozmiar partycji i 4GB rozmiar pliku) lub ntfs (16TB rozmiar partycji i pliku) - ntfs wybraÃ„â€¡ jeÃ…â€ºli pliki bÃ„â„¢dÃ„â€¦ wiÃ„â„¢ksze niÃ…Â¼ 4GB]\nassign\n\nexit\nexit\n\nskopiowaÃ„â€¡ zawartoÃ…â€ºÃ„â€¡ DVD/.ISO na USB\ninstalujemy system\n\n\nAktywacja - przeczytaj info zawarte w pliku aktywacja.txt\n\nUWAGA!\nJeÃ…â€ºli masz klucz OEM, podmieÃ…â€ž/wyedytuj ISO i zastÃ„â€¦p plik EI.CFG w katalogu ISO/sources/ plikiem EI.CFG z katalogu /ISO_OEM/\n\n\nScreeny: &lt;a href=&quot;\nhttp://www.turboimagehost.com/p/21233040/Win8.1_PL_2014.11_64bit_result1.png.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.turboimagehost.com/p/21233040/Win8.1_PL_2014.11_64bit_result1.png.html&lt;/a&gt; &lt;a href=&quot;\nhttp://www.turboimagehost.com/p/21233041/Win8.1_PL_2014.11_64bit_result2.png.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.turboimagehost.com/p/21233041/Win8.1_PL_2014.11_64bit_result2.png.html&lt;/a&gt; (WMC)\n\n\nWykonane czyszczenie WinSxS:\n\nDism.exe /online /Cleanup-Image /AnalyzeComponentStore\nDism.exe /online /Cleanup-Image /StartComponentCleanup (bez /ResetBase - decyzja naleÃ…Â¼y do Ciebie)\n\n\nInstall.esd\n\nPlik install.wim zostaÃ…â€š wyeksportowany(mocno skompresowany) do install.esd (/compress:recovery, przez co plik zmniejszyÃ…â€š siÃ„â„¢ z 4.95GB do 3.73GB)\n\n\nBrak ingerencji w ustawienia systemowe. Integrowane via Slipstream&amp;Sysprep. Mastering via skrypty (DISM, IMAGEX, OSCDIMG, CMD)",
+  "parsed": {
+    "xt": "urn:btih:bb2ea38ea7961f3ad5949c04d75f7100c20c3049",
+    "dn": "Windows 8.1 x64 [PL] [Listopad.2014-NiKKA]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bb2ea38ea7961f3ad5949c04d75f7100c20c3049",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        187,
+        46,
+        163,
+        142,
+        167,
+        150,
+        31,
+        58,
+        213,
+        148,
+        156,
+        4,
+        215,
+        95,
+        113,
+        0,
+        194,
+        12,
+        48,
+        73
+      ]
+    },
+    "name": "Windows 8.1 x64 [PL] [Listopad.2014-NiKKA]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 1,
+  "last_updated": "2016-12-25T12:19:58.347Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Criolo e Emicida (2013 - Ao Vivo)","uid":8748060,"size":80534887,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:bab2b83a21c7fd59e0b469ffebb8e2a0d45b0fdf&amp;dn=Criolo+e+Emicida+%282013+-+Ao+Vivo%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":4,"uploader":"radioraupp","files":22,"time":1374972946,"description":"Rap e Hip Hop, do Brasil!\n\n\nSEED!\n\nSEMEIE!\n\n\nFB: Filho da Ada\n\nfilhodaada.blogspot.com","torrent":{"xt":"urn:btih:bab2b83a21c7fd59e0b469ffebb8e2a0d45b0fdf","amp;dn":"Criolo+e+Emicida+%282013+-+Ao+Vivo%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bab2b83a21c7fd59e0b469ffebb8e2a0d45b0fdf","infoHashBuffer":{"type":"Buffer","data":[186,178,184,58,33,199,253,89,224,180,105,255,235,184,226,160,212,91,15,223]},"announce":[],"urlList":[]}}
+{
+  "title": "Criolo e Emicida (2013 - Ao Vivo)",
+  "uid": 8748060,
+  "size": 80534887,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:bab2b83a21c7fd59e0b469ffebb8e2a0d45b0fdf&amp;dn=Criolo+e+Emicida+%282013+-+Ao+Vivo%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 4,
+  "uploader": "radioraupp",
+  "files": 22,
+  "time": 1374972946,
+  "description": "Rap e Hip Hop, do Brasil!\n\n\nSEED!\n\nSEMEIE!\n\n\nFB: Filho da Ada\n\nfilhodaada.blogspot.com",
+  "parsed": {
+    "xt": "urn:btih:bab2b83a21c7fd59e0b469ffebb8e2a0d45b0fdf",
+    "dn": "Criolo e Emicida (2013 - Ao Vivo)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bab2b83a21c7fd59e0b469ffebb8e2a0d45b0fdf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        186,
+        178,
+        184,
+        58,
+        33,
+        199,
+        253,
+        89,
+        224,
+        180,
+        105,
+        255,
+        235,
+        184,
+        226,
+        160,
+        212,
+        91,
+        15,
+        223
+      ]
+    },
+    "name": "Criolo e Emicida (2013 - Ao Vivo)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 33,
+  "last_updated": "2016-12-25T12:16:31.632Z"
+}

@@ -1,1 +1,61 @@
-{"title":"PES 2014 PAL / NTSC","uid":9441505,"size":1488617472,"categoryP":"games","categoryS":"psx","magnet":"?xt=urn:btih:bb20f0b9128ea370fa600faf266fceb12feb94e2&amp;dn=PES+2014+PAL+%2F+NTSC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":112,"leechers":2,"uploader":"rai199807","files":1,"time":1389016611,"description":"please seed torrent","torrent":{"xt":"urn:btih:bb20f0b9128ea370fa600faf266fceb12feb94e2","amp;dn":"PES+2014+PAL+%2F+NTSC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bb20f0b9128ea370fa600faf266fceb12feb94e2","infoHashBuffer":{"type":"Buffer","data":[187,32,240,185,18,142,163,112,250,96,15,175,38,111,206,177,47,235,148,226]},"announce":[],"urlList":[]}}
+{
+  "title": "PES 2014 PAL / NTSC",
+  "uid": 9441505,
+  "size": 1488617472,
+  "categoryP": "games",
+  "categoryS": "psx",
+  "magnet": "?xt=urn:btih:bb20f0b9128ea370fa600faf266fceb12feb94e2&amp;dn=PES+2014+PAL+%2F+NTSC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 112,
+  "leechers": 2,
+  "uploader": "rai199807",
+  "files": 1,
+  "time": 1389016611,
+  "description": "please seed torrent",
+  "parsed": {
+    "xt": "urn:btih:bb20f0b9128ea370fa600faf266fceb12feb94e2",
+    "dn": "PES 2014 PAL / NTSC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bb20f0b9128ea370fa600faf266fceb12feb94e2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        187,
+        32,
+        240,
+        185,
+        18,
+        142,
+        163,
+        112,
+        250,
+        96,
+        15,
+        175,
+        38,
+        111,
+        206,
+        177,
+        47,
+        235,
+        148,
+        226
+      ]
+    },
+    "name": "PES 2014 PAL / NTSC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 114,
+  "peers": 21,
+  "last_updated": "2016-12-25T12:19:32.276Z"
+}

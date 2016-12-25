@@ -1,1 +1,61 @@
-{"title":"Homeland S04E03 WEBRip x264-KYR[ettv]","uid":11196044,"size":316461847,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:b9f489671661ace6d1716a4b329da13de5c54f92&amp;dn=Homeland+S04E03+WEBRip+x264-KYR%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":103,"leechers":5,"uploader":"ettv","files":2,"time":1413088344,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:b9f489671661ace6d1716a4b329da13de5c54f92","amp;dn":"Homeland+S04E03+WEBRip+x264-KYR%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"b9f489671661ace6d1716a4b329da13de5c54f92","infoHashBuffer":{"type":"Buffer","data":[185,244,137,103,22,97,172,230,209,113,106,75,50,157,161,61,229,197,79,146]},"announce":[],"urlList":[]}}
+{
+  "title": "Homeland S04E03 WEBRip x264-KYR[ettv]",
+  "uid": 11196044,
+  "size": 316461847,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:b9f489671661ace6d1716a4b329da13de5c54f92&amp;dn=Homeland+S04E03+WEBRip+x264-KYR%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 103,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1413088344,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:b9f489671661ace6d1716a4b329da13de5c54f92",
+    "dn": "Homeland S04E03 WEBRip x264-KYR[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "b9f489671661ace6d1716a4b329da13de5c54f92",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        185,
+        244,
+        137,
+        103,
+        22,
+        97,
+        172,
+        230,
+        209,
+        113,
+        106,
+        75,
+        50,
+        157,
+        161,
+        61,
+        229,
+        197,
+        79,
+        146
+      ]
+    },
+    "name": "Homeland S04E03 WEBRip x264-KYR[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 108,
+  "peers": 2,
+  "last_updated": "2016-12-25T12:11:50.567Z"
+}

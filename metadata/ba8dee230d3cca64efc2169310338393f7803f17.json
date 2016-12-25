@@ -1,1 +1,61 @@
-{"title":"Gotham.Season.1.S01.Complete.1080p.HD.WEB-DL","uid":11909303,"size":42140904867,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:ba8dee230d3cca64efc2169310338393f7803f17&amp;dn=Gotham.Season.1.S01.Complete.1080p.HD.WEB-DL&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":63,"uploader":"CakeMonster","files":23,"time":1431442124,"description":"Gotham.Season.1.S01.Complete.1080p.HD.WEB-DL","torrent":{"xt":"urn:btih:ba8dee230d3cca64efc2169310338393f7803f17","amp;dn":"Gotham.Season.1.S01.Complete.1080p.HD.WEB-DL","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ba8dee230d3cca64efc2169310338393f7803f17","infoHashBuffer":{"type":"Buffer","data":[186,141,238,35,13,60,202,100,239,194,22,147,16,51,131,147,247,128,63,23]},"announce":[],"urlList":[]}}
+{
+  "title": "Gotham.Season.1.S01.Complete.1080p.HD.WEB-DL",
+  "uid": 11909303,
+  "size": 42140904867,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:ba8dee230d3cca64efc2169310338393f7803f17&amp;dn=Gotham.Season.1.S01.Complete.1080p.HD.WEB-DL&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 63,
+  "uploader": "CakeMonster",
+  "files": 23,
+  "time": 1431442124,
+  "description": "Gotham.Season.1.S01.Complete.1080p.HD.WEB-DL",
+  "parsed": {
+    "xt": "urn:btih:ba8dee230d3cca64efc2169310338393f7803f17",
+    "dn": "Gotham.Season.1.S01.Complete.1080p.HD.WEB-DL",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ba8dee230d3cca64efc2169310338393f7803f17",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        186,
+        141,
+        238,
+        35,
+        13,
+        60,
+        202,
+        100,
+        239,
+        194,
+        22,
+        147,
+        16,
+        51,
+        131,
+        147,
+        247,
+        128,
+        63,
+        23
+      ]
+    },
+    "name": "Gotham.Season.1.S01.Complete.1080p.HD.WEB-DL",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 101,
+  "peers": 16,
+  "last_updated": "2016-12-25T12:15:45.485Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Gta - San Andreas (Full version)","uid":6772859,"size":4085497893,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:ba267b9a42ab241ad89c4ef180cfe8136257de73&amp;dn=Gta+-+San+Andreas+%28Full+version%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":305,"leechers":61,"uploader":"ruudje227","files":402,"time":1319634888,"description":"Gta - San Andreas (Full version)\n\nNl : \n\n1. Download Gta \n2. Klik op het bestand *gta_sa*\n3. En je bent klaar \n\nEng :\n\n1. download Gta\n2. Click on the file *gta_sa*\n3. And you're done","torrent":{"xt":"urn:btih:ba267b9a42ab241ad89c4ef180cfe8136257de73","amp;dn":"Gta+-+San+Andreas+%28Full+version%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ba267b9a42ab241ad89c4ef180cfe8136257de73","infoHashBuffer":{"type":"Buffer","data":[186,38,123,154,66,171,36,26,216,156,78,241,128,207,232,19,98,87,222,115]},"announce":[],"urlList":[]}}
+{
+  "title": "Gta - San Andreas (Full version)",
+  "uid": 6772859,
+  "size": 4085497893,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:ba267b9a42ab241ad89c4ef180cfe8136257de73&amp;dn=Gta+-+San+Andreas+%28Full+version%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 305,
+  "leechers": 61,
+  "uploader": "ruudje227",
+  "files": 402,
+  "time": 1319634888,
+  "description": "Gta - San Andreas (Full version)\n\nNl : \n\n1. Download Gta \n2. Klik op het bestand *gta_sa*\n3. En je bent klaar \n\nEng :\n\n1. download Gta\n2. Click on the file *gta_sa*\n3. And you're done",
+  "parsed": {
+    "xt": "urn:btih:ba267b9a42ab241ad89c4ef180cfe8136257de73",
+    "dn": "Gta - San Andreas (Full version)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ba267b9a42ab241ad89c4ef180cfe8136257de73",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        186,
+        38,
+        123,
+        154,
+        66,
+        171,
+        36,
+        26,
+        216,
+        156,
+        78,
+        241,
+        128,
+        207,
+        232,
+        19,
+        98,
+        87,
+        222,
+        115
+      ]
+    },
+    "name": "Gta - San Andreas (Full version)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 366,
+  "peers": 7,
+  "last_updated": "2016-12-25T12:13:08.845Z"
+}

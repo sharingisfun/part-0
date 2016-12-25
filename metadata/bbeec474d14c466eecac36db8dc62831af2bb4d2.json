@@ -1,1 +1,61 @@
-{"title":"Darkest Dungeon Build 8116","uid":11816021,"size":941961028,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:bbeec474d14c466eecac36db8dc62831af2bb4d2&amp;dn=Darkest+Dungeon+Build+8116&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":1,"uploader":"dauphong","files":1,"time":1429098686,"description":"Build Update #8116 (PC and Mac) - Hero Color Variants, Roster Sorting, and Party Combos!\n\t\nFeatures\n\n    Color Variations: All heroes have 4 different color palettes available for you to choose from! You can find the button to switch color palettes on the bottom left corner of the hero panel. We will be adding the matching heroic/afflicted poses in soon.\n    Roster Sorting: Sort by stress, resolve level, hero class and town activity.\n    Party Combo Names 1.0: Certain party combos will be named! When assembling your group, watch for the popup and see if you've uncovered a named combo. We're starting with only a few, but more combo names will be added as we continue development. \n\n\nTrinket Tuning / Fixes\n\n    Increased most Trinket ACC, DODGE, STUN, BLIGHT, BLEED, MOVE, DISEASE, and DEBUFF buffs to make them more meaningful\n    Slightly decreased most Trinket negative effects to strengthen overall Trinket value\n    Overall tuning pass on many specific Trinkets, often to increase value\n    All HP healing buffs should now be working correctly \n\n\nGeneral Bug Fixes\n\n    Fixed bug where you could change the selected hero during a curio interaction act out\n    Fixed max HP buffs causing damage bars to show up\n    Stage Coach random hero barks will now only play when no other hero is barking\n    Fixed bug with taking objects with single click on the loot box\n    Added ability to drag and drop items from the loot box\n    Added ability to use items in the loot box\n    Updated indicators so the hero using the skill will be the heal target when they can heal or buff themselves\n    Tutorial dungeon name is now saved as Old Road\n    No longer able to select heroes in town activities for parties","torrent":{"xt":"urn:btih:bbeec474d14c466eecac36db8dc62831af2bb4d2","amp;dn":"Darkest+Dungeon+Build+8116","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bbeec474d14c466eecac36db8dc62831af2bb4d2","infoHashBuffer":{"type":"Buffer","data":[187,238,196,116,209,76,70,110,236,172,54,219,141,198,40,49,175,43,180,210]},"announce":[],"urlList":[]}}
+{
+  "title": "Darkest Dungeon Build 8116",
+  "uid": 11816021,
+  "size": 941961028,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:bbeec474d14c466eecac36db8dc62831af2bb4d2&amp;dn=Darkest+Dungeon+Build+8116&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 1,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1429098686,
+  "description": "Build Update #8116 (PC and Mac) - Hero Color Variants, Roster Sorting, and Party Combos!\n\t\nFeatures\n\n    Color Variations: All heroes have 4 different color palettes available for you to choose from! You can find the button to switch color palettes on the bottom left corner of the hero panel. We will be adding the matching heroic/afflicted poses in soon.\n    Roster Sorting: Sort by stress, resolve level, hero class and town activity.\n    Party Combo Names 1.0: Certain party combos will be named! When assembling your group, watch for the popup and see if you've uncovered a named combo. We're starting with only a few, but more combo names will be added as we continue development. \n\n\nTrinket Tuning / Fixes\n\n    Increased most Trinket ACC, DODGE, STUN, BLIGHT, BLEED, MOVE, DISEASE, and DEBUFF buffs to make them more meaningful\n    Slightly decreased most Trinket negative effects to strengthen overall Trinket value\n    Overall tuning pass on many specific Trinkets, often to increase value\n    All HP healing buffs should now be working correctly \n\n\nGeneral Bug Fixes\n\n    Fixed bug where you could change the selected hero during a curio interaction act out\n    Fixed max HP buffs causing damage bars to show up\n    Stage Coach random hero barks will now only play when no other hero is barking\n    Fixed bug with taking objects with single click on the loot box\n    Added ability to drag and drop items from the loot box\n    Added ability to use items in the loot box\n    Updated indicators so the hero using the skill will be the heal target when they can heal or buff themselves\n    Tutorial dungeon name is now saved as Old Road\n    No longer able to select heroes in town activities for parties",
+  "parsed": {
+    "xt": "urn:btih:bbeec474d14c466eecac36db8dc62831af2bb4d2",
+    "dn": "Darkest Dungeon Build 8116",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bbeec474d14c466eecac36db8dc62831af2bb4d2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        187,
+        238,
+        196,
+        116,
+        209,
+        76,
+        70,
+        110,
+        236,
+        172,
+        54,
+        219,
+        141,
+        198,
+        40,
+        49,
+        175,
+        43,
+        180,
+        210
+      ]
+    },
+    "name": "Darkest Dungeon Build 8116",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 2,
+  "last_updated": "2016-12-25T12:24:43.161Z"
+}

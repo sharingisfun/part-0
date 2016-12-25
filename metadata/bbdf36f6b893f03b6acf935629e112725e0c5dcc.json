@@ -1,1 +1,63 @@
-{"title":"Acoustica Mixcraft Pro Studio 7.7.311 Multilingual","uid":15914633,"size":23700204,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:bbdf36f6b893f03b6acf935629e112725e0c5dcc&amp;dn=Acoustica+Mixcraft+Pro+Studio+7.7.311+Multilingual&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":30,"uploader":"gerardpmorris","files":2,"time":1475188849,"description":"very....good","torrent":{"xt":"urn:btih:bbdf36f6b893f03b6acf935629e112725e0c5dcc","amp;dn":"Acoustica+Mixcraft+Pro+Studio+7.7.311+Multilingual","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bbdf36f6b893f03b6acf935629e112725e0c5dcc","infoHashBuffer":{"type":"Buffer","data":[187,223,54,246,184,147,240,59,106,207,147,86,41,225,18,114,94,12,93,204]},"announce":[],"urlList":[]}}
+{
+  "title": "Acoustica Mixcraft Pro Studio 7.7.311 Multilingual",
+  "uid": 15914633,
+  "size": 23700204,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:bbdf36f6b893f03b6acf935629e112725e0c5dcc&amp;dn=Acoustica+Mixcraft+Pro+Studio+7.7.311+Multilingual&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 30,
+  "uploader": "gerardpmorris",
+  "files": 2,
+  "time": 1475188849,
+  "description": "very....good",
+  "parsed": {
+    "xt": "urn:btih:bbdf36f6b893f03b6acf935629e112725e0c5dcc",
+    "dn": "Acoustica Mixcraft Pro Studio 7.7.311 Multilingual",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "bbdf36f6b893f03b6acf935629e112725e0c5dcc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        187,
+        223,
+        54,
+        246,
+        184,
+        147,
+        240,
+        59,
+        106,
+        207,
+        147,
+        86,
+        41,
+        225,
+        18,
+        114,
+        94,
+        12,
+        93,
+        204
+      ]
+    },
+    "name": "Acoustica Mixcraft Pro Studio 7.7.311 Multilingual",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 6,
+  "last_updated": "2016-12-25T12:24:23.108Z"
+}
