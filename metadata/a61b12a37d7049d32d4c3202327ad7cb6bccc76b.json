@@ -1,1 +1,61 @@
-{"title":"Gorillaz - Greatest Hits","uid":11892985,"size":186249626,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a61b12a37d7049d32d4c3202327ad7cb6bccc76b&amp;dn=Gorillaz+-+Greatest+Hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":253,"leechers":88,"uploader":null,"files":18,"time":1431050005,"description":"Gorillaz - Greatest Hits","torrent":{"xt":"urn:btih:a61b12a37d7049d32d4c3202327ad7cb6bccc76b","amp;dn":"Gorillaz+-+Greatest+Hits","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a61b12a37d7049d32d4c3202327ad7cb6bccc76b","infoHashBuffer":{"type":"Buffer","data":[166,27,18,163,125,112,73,211,45,76,50,2,50,122,215,203,107,204,199,107]},"announce":[],"urlList":[]}}
+{
+  "title": "Gorillaz - Greatest Hits",
+  "uid": 11892985,
+  "size": 186249626,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a61b12a37d7049d32d4c3202327ad7cb6bccc76b&amp;dn=Gorillaz+-+Greatest+Hits&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 253,
+  "leechers": 88,
+  "uploader": null,
+  "files": 18,
+  "time": 1431050005,
+  "description": "Gorillaz - Greatest Hits",
+  "parsed": {
+    "xt": "urn:btih:a61b12a37d7049d32d4c3202327ad7cb6bccc76b",
+    "dn": "Gorillaz - Greatest Hits",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a61b12a37d7049d32d4c3202327ad7cb6bccc76b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        166,
+        27,
+        18,
+        163,
+        125,
+        112,
+        73,
+        211,
+        45,
+        76,
+        50,
+        2,
+        50,
+        122,
+        215,
+        203,
+        107,
+        204,
+        199,
+        107
+      ]
+    },
+    "name": "Gorillaz - Greatest Hits",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 341,
+  "peers": 50,
+  "last_updated": "2016-12-25T10:08:37.898Z"
+}

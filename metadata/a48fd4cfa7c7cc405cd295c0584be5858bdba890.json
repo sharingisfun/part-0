@@ -1,1 +1,61 @@
-{"title":"The.Legend.of.Korra-FLT","uid":11257409,"size":2959707375,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:a48fd4cfa7c7cc405cd295c0584be5858bdba890&amp;dn=The.Legend.of.Korra-FLT&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":188,"leechers":16,"uploader":"Drarbg","files":3,"time":1413919431,"description":" &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nThe_Legend_of_Korra-FLT","torrent":{"xt":"urn:btih:a48fd4cfa7c7cc405cd295c0584be5858bdba890","amp;dn":"The.Legend.of.Korra-FLT","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a48fd4cfa7c7cc405cd295c0584be5858bdba890","infoHashBuffer":{"type":"Buffer","data":[164,143,212,207,167,199,204,64,92,210,149,192,88,75,229,133,139,219,168,144]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Legend.of.Korra-FLT",
+  "uid": 11257409,
+  "size": 2959707375,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:a48fd4cfa7c7cc405cd295c0584be5858bdba890&amp;dn=The.Legend.of.Korra-FLT&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 188,
+  "leechers": 16,
+  "uploader": "Drarbg",
+  "files": 3,
+  "time": 1413919431,
+  "description": " &lt;a href=&quot;https://rarbg.com&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;https://rarbg.com&lt;/a&gt;\n\nThe_Legend_of_Korra-FLT",
+  "parsed": {
+    "xt": "urn:btih:a48fd4cfa7c7cc405cd295c0584be5858bdba890",
+    "dn": "The.Legend.of.Korra-FLT",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a48fd4cfa7c7cc405cd295c0584be5858bdba890",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        164,
+        143,
+        212,
+        207,
+        167,
+        199,
+        204,
+        64,
+        92,
+        210,
+        149,
+        192,
+        88,
+        75,
+        229,
+        133,
+        139,
+        219,
+        168,
+        144
+      ]
+    },
+    "name": "The.Legend.of.Korra-FLT",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 204,
+  "peers": 29,
+  "last_updated": "2016-12-25T09:59:18.249Z"
+}

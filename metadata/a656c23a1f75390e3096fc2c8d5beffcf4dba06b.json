@@ -1,1 +1,61 @@
-{"title":"CadSoft Eagle Professional 6.5.0 + patch","uid":9398054,"size":46421497,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:a656c23a1f75390e3096fc2c8d5beffcf4dba06b&amp;dn=CadSoft+Eagle+Professional+6.5.0+%2B+patch&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":2,"uploader":"rarvolt","files":-1,"time":1388018296,"description":"01. Run eagle-win-6.5.0.exe. (same file from official website)\n02. Click &quot;Setup&quot; and the installer will start.\n03. Run the installation and then select to &quot;Run as Freeware&quot;. Installation completes.\n04. Start Cadsoft Eagle software. (Select &quot;Run as Freeware&quot; again if asked)\n    You will see &quot;Control Panel - EAGLE 6.5.0 Light&quot; as the title of the window.\n05. Open Cadsoft Eagle installtion directory and look for 'eagle.exe'\n    (example: C:Program Files (x86)EAGLE-6.5.0bin)\n06. Make a copy of &quot;cadsoft.eagle.professional.6.5.0-patch.exe&quot; in the directory in which 'eagle.exe' was found.\n07. Run &quot;cadsoft.eagle.professional.6.5.0-patch.exe&quot; as administrator.\n08. Click 'Patch' and you're done! You will receive a message in the patch software saying &quot;---PATCHING DONE---&quot;\n09. You can now delete &quot;cadsoft.eagle.professional.6.5.0-patch.exe&quot; from the Cadsoft Eagle installation directory.\n10. Start Cadsoft Eagle.\n    You will see &quot;Control Panel - EAGLE 6.5.0 Professional&quot; as the title of the window.\n","torrent":{"xt":"urn:btih:a656c23a1f75390e3096fc2c8d5beffcf4dba06b","amp;dn":"CadSoft+Eagle+Professional+6.5.0+%2B+patch","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a656c23a1f75390e3096fc2c8d5beffcf4dba06b","infoHashBuffer":{"type":"Buffer","data":[166,86,194,58,31,117,57,14,48,150,252,44,141,91,239,252,244,219,160,107]},"announce":[],"urlList":[]}}
+{
+  "title": "CadSoft Eagle Professional 6.5.0 + patch",
+  "uid": 9398054,
+  "size": 46421497,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:a656c23a1f75390e3096fc2c8d5beffcf4dba06b&amp;dn=CadSoft+Eagle+Professional+6.5.0+%2B+patch&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 2,
+  "uploader": "rarvolt",
+  "files": -1,
+  "time": 1388018296,
+  "description": "01. Run eagle-win-6.5.0.exe. (same file from official website)\n02. Click &quot;Setup&quot; and the installer will start.\n03. Run the installation and then select to &quot;Run as Freeware&quot;. Installation completes.\n04. Start Cadsoft Eagle software. (Select &quot;Run as Freeware&quot; again if asked)\n    You will see &quot;Control Panel - EAGLE 6.5.0 Light&quot; as the title of the window.\n05. Open Cadsoft Eagle installtion directory and look for 'eagle.exe'\n    (example: C:Program Files (x86)EAGLE-6.5.0bin)\n06. Make a copy of &quot;cadsoft.eagle.professional.6.5.0-patch.exe&quot; in the directory in which 'eagle.exe' was found.\n07. Run &quot;cadsoft.eagle.professional.6.5.0-patch.exe&quot; as administrator.\n08. Click 'Patch' and you're done! You will receive a message in the patch software saying &quot;---PATCHING DONE---&quot;\n09. You can now delete &quot;cadsoft.eagle.professional.6.5.0-patch.exe&quot; from the Cadsoft Eagle installation directory.\n10. Start Cadsoft Eagle.\n    You will see &quot;Control Panel - EAGLE 6.5.0 Professional&quot; as the title of the window.\n",
+  "parsed": {
+    "xt": "urn:btih:a656c23a1f75390e3096fc2c8d5beffcf4dba06b",
+    "dn": "CadSoft Eagle Professional 6.5.0   patch",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a656c23a1f75390e3096fc2c8d5beffcf4dba06b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        166,
+        86,
+        194,
+        58,
+        31,
+        117,
+        57,
+        14,
+        48,
+        150,
+        252,
+        44,
+        141,
+        91,
+        239,
+        252,
+        244,
+        219,
+        160,
+        107
+      ]
+    },
+    "name": "CadSoft Eagle Professional 6.5.0   patch",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 11,
+  "last_updated": "2016-12-25T10:10:02.153Z"
+}

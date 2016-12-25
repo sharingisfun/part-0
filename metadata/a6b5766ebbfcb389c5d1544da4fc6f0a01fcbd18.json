@@ -1,1 +1,61 @@
-{"title":"Grimm.S04E18.HDTV.x264-LOL[ettv]","uid":11822502,"size":281494418,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a6b5766ebbfcb389c5d1544da4fc6f0a01fcbd18&amp;dn=Grimm.S04E18.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":430,"leechers":79,"uploader":"ettv","files":4,"time":1429325851,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:a6b5766ebbfcb389c5d1544da4fc6f0a01fcbd18","amp;dn":"Grimm.S04E18.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a6b5766ebbfcb389c5d1544da4fc6f0a01fcbd18","infoHashBuffer":{"type":"Buffer","data":[166,181,118,110,187,252,179,137,197,209,84,77,164,252,111,10,1,252,189,24]},"announce":[],"urlList":[]}}
+{
+  "title": "Grimm.S04E18.HDTV.x264-LOL[ettv]",
+  "uid": 11822502,
+  "size": 281494418,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a6b5766ebbfcb389c5d1544da4fc6f0a01fcbd18&amp;dn=Grimm.S04E18.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 430,
+  "leechers": 79,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1429325851,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:a6b5766ebbfcb389c5d1544da4fc6f0a01fcbd18",
+    "dn": "Grimm.S04E18.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a6b5766ebbfcb389c5d1544da4fc6f0a01fcbd18",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        166,
+        181,
+        118,
+        110,
+        187,
+        252,
+        179,
+        137,
+        197,
+        209,
+        84,
+        77,
+        164,
+        252,
+        111,
+        10,
+        1,
+        252,
+        189,
+        24
+      ]
+    },
+    "name": "Grimm.S04E18.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 509,
+  "peers": 8,
+  "last_updated": "2016-12-25T10:12:08.514Z"
+}

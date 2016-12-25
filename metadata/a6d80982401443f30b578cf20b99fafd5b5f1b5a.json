@@ -1,1 +1,61 @@
-{"title":"Train - Drops of Jupiter","uid":3929951,"size":46424064,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a6d80982401443f30b578cf20b99fafd5b5f1b5a&amp;dn=Train+-+Drops+of+Jupiter&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":16,"uploader":"Amd64User","files":11,"time":1197395019,"description":"This Is The Full Cd\nMp3 Format 128Kbs.\nNo Thanks Needed, Just Keep On Seedin.\n\n&lt;!Amd64User!&gt;","torrent":{"xt":"urn:btih:a6d80982401443f30b578cf20b99fafd5b5f1b5a","amp;dn":"Train+-+Drops+of+Jupiter","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a6d80982401443f30b578cf20b99fafd5b5f1b5a","infoHashBuffer":{"type":"Buffer","data":[166,216,9,130,64,20,67,243,11,87,140,242,11,153,250,253,91,95,27,90]},"announce":[],"urlList":[]}}
+{
+  "title": "Train - Drops of Jupiter",
+  "uid": 3929951,
+  "size": 46424064,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a6d80982401443f30b578cf20b99fafd5b5f1b5a&amp;dn=Train+-+Drops+of+Jupiter&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 16,
+  "uploader": "Amd64User",
+  "files": 11,
+  "time": 1197395019,
+  "description": "This Is The Full Cd\nMp3 Format 128Kbs.\nNo Thanks Needed, Just Keep On Seedin.\n\n&lt;!Amd64User!&gt;",
+  "parsed": {
+    "xt": "urn:btih:a6d80982401443f30b578cf20b99fafd5b5f1b5a",
+    "dn": "Train - Drops of Jupiter",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a6d80982401443f30b578cf20b99fafd5b5f1b5a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        166,
+        216,
+        9,
+        130,
+        64,
+        20,
+        67,
+        243,
+        11,
+        87,
+        140,
+        242,
+        11,
+        153,
+        250,
+        253,
+        91,
+        95,
+        27,
+        90
+      ]
+    },
+    "name": "Train - Drops of Jupiter",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 82,
+  "peers": 22,
+  "last_updated": "2016-12-25T10:12:46.626Z"
+}

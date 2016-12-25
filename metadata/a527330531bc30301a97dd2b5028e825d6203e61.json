@@ -1,1 +1,61 @@
-{"title":"Unleashed - Discography (1991 - 2012)","uid":7218522,"size":1089755123,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:a527330531bc30301a97dd2b5028e825d6203e61&amp;dn=Unleashed+-+Discography+%281991+-+2012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":2,"uploader":"Lord1975","files":134,"time":1335454010,"description":"Sweden\nDeath Metal\nMp3, 320 kbps\n\nWhere No Life Dwells (1991)\nShadows in the Deep (1992) \nAcross the Open Sea (1993) \nVictory (1995)\nWarrior (1997)\nHell's Unleashed (2002)\nSworn Allegiance (2004)\nMidvinterblot (2006)\nHammer Battalion (2008)\nAs Yggdrasil Trembles (2010) \nOdalheim (2012)\n\n","torrent":{"xt":"urn:btih:a527330531bc30301a97dd2b5028e825d6203e61","amp;dn":"Unleashed+-+Discography+%281991+-+2012%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a527330531bc30301a97dd2b5028e825d6203e61","infoHashBuffer":{"type":"Buffer","data":[165,39,51,5,49,188,48,48,26,151,221,43,80,40,232,37,214,32,62,97]},"announce":[],"urlList":[]}}
+{
+  "title": "Unleashed - Discography (1991 - 2012)",
+  "uid": 7218522,
+  "size": 1089755123,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:a527330531bc30301a97dd2b5028e825d6203e61&amp;dn=Unleashed+-+Discography+%281991+-+2012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 2,
+  "uploader": "Lord1975",
+  "files": 134,
+  "time": 1335454010,
+  "description": "Sweden\nDeath Metal\nMp3, 320 kbps\n\nWhere No Life Dwells (1991)\nShadows in the Deep (1992) \nAcross the Open Sea (1993) \nVictory (1995)\nWarrior (1997)\nHell's Unleashed (2002)\nSworn Allegiance (2004)\nMidvinterblot (2006)\nHammer Battalion (2008)\nAs Yggdrasil Trembles (2010) \nOdalheim (2012)\n\n",
+  "parsed": {
+    "xt": "urn:btih:a527330531bc30301a97dd2b5028e825d6203e61",
+    "dn": "Unleashed - Discography (1991 - 2012)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a527330531bc30301a97dd2b5028e825d6203e61",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        165,
+        39,
+        51,
+        5,
+        49,
+        188,
+        48,
+        48,
+        26,
+        151,
+        221,
+        43,
+        80,
+        40,
+        232,
+        37,
+        214,
+        32,
+        62,
+        97
+      ]
+    },
+    "name": "Unleashed - Discography (1991 - 2012)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 8,
+  "last_updated": "2016-12-25T10:02:34.832Z"
+}

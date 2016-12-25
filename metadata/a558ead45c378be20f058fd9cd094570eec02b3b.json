@@ -1,1 +1,61 @@
-{"title":"El ultimo desafio","uid":8522553,"size":1866504193,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:a558ead45c378be20f058fd9cd094570eec02b3b&amp;dn=El+ultimo+desafio&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":2,"uploader":"Miguel223","files":1,"time":1369948303,"description":"El ultimo desafio\n\nwww.peliculasytorrent.com","torrent":{"xt":"urn:btih:a558ead45c378be20f058fd9cd094570eec02b3b","amp;dn":"El+ultimo+desafio","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a558ead45c378be20f058fd9cd094570eec02b3b","infoHashBuffer":{"type":"Buffer","data":[165,88,234,212,92,55,139,226,15,5,143,217,205,9,69,112,238,192,43,59]},"announce":[],"urlList":[]}}
+{
+  "title": "El ultimo desafio",
+  "uid": 8522553,
+  "size": 1866504193,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:a558ead45c378be20f058fd9cd094570eec02b3b&amp;dn=El+ultimo+desafio&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 2,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1369948303,
+  "description": "El ultimo desafio\n\nwww.peliculasytorrent.com",
+  "parsed": {
+    "xt": "urn:btih:a558ead45c378be20f058fd9cd094570eec02b3b",
+    "dn": "El ultimo desafio",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a558ead45c378be20f058fd9cd094570eec02b3b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        165,
+        88,
+        234,
+        212,
+        92,
+        55,
+        139,
+        226,
+        15,
+        5,
+        143,
+        217,
+        205,
+        9,
+        69,
+        112,
+        238,
+        192,
+        43,
+        59
+      ]
+    },
+    "name": "El ultimo desafio",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 23,
+  "last_updated": "2016-12-25T10:03:49.037Z"
+}

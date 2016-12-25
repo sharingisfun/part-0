@@ -1,1 +1,63 @@
-{"title":"Hybrid.Wars-RELOADED","uid":15964407,"size":9564133,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:a62cc9e480979528d2d962f3b2fcf045351c6dc7&amp;dn=Hybrid.Wars-RELOADED&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":96,"leechers":68,"uploader":"trwetwr","files":4,"time":1475708782,"description":"Good Game","torrent":{"xt":"urn:btih:a62cc9e480979528d2d962f3b2fcf045351c6dc7","amp;dn":"Hybrid.Wars-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a62cc9e480979528d2d962f3b2fcf045351c6dc7","infoHashBuffer":{"type":"Buffer","data":[166,44,201,228,128,151,149,40,210,217,98,243,178,252,240,69,53,28,109,199]},"announce":[],"urlList":[]}}
+{
+  "title": "Hybrid.Wars-RELOADED",
+  "uid": 15964407,
+  "size": 9564133,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:a62cc9e480979528d2d962f3b2fcf045351c6dc7&amp;dn=Hybrid.Wars-RELOADED&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 96,
+  "leechers": 68,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475708782,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:a62cc9e480979528d2d962f3b2fcf045351c6dc7",
+    "dn": "Hybrid.Wars-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "a62cc9e480979528d2d962f3b2fcf045351c6dc7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        166,
+        44,
+        201,
+        228,
+        128,
+        151,
+        149,
+        40,
+        210,
+        217,
+        98,
+        243,
+        178,
+        252,
+        240,
+        69,
+        53,
+        28,
+        109,
+        199
+      ]
+    },
+    "name": "Hybrid.Wars-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 164,
+  "peers": 2,
+  "last_updated": "2016-12-25T10:08:59.971Z"
+}

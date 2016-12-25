@@ -1,1 +1,61 @@
-{"title":"Edith Piaf.The Absolute Best Of Edith Piaf","uid":6008441,"size":106055635,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a7109d78a34de04a7aa5c860bb5a58cf8e140412&amp;dn=Edith+Piaf.The+Absolute+Best+Of+Edith+Piaf&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":108,"leechers":2,"uploader":"fanclubt","files":24,"time":1291399187,"description":"Edith Piaf.The Absolute Best Of Edith Piaf\n\n 01 Padam Padam\n 02 Mon Dieu\n 03 Avant Nous\n 04 La Croix\n 05 Toujours Aimers\n 06 L'Effet Que Tu Me Fais\n 07 La Vie en Rose\n 08 Non Je Ne Regrette Rien\n 09 Sous Le Ciel de Paris\n 10 Polichinelle\n 11 Le Bleu de Tes Yeux\n 12 Notre Dame de Paris\n 13 Bravo Pour le Clown!\n 14 L' Accordeoniste\n 15 T'es Beau, Tu Sais\n 16 Le Goulante De Pauvre Jean\n 17 Comme Moi\n 18 Milord\n 19 Le Vieux Piano\n 20 Hymne a l'Amour\n 21 Mon Manege A Moi\n 22 La Vie, L'amour\n 23 C'est L'amour","torrent":{"xt":"urn:btih:a7109d78a34de04a7aa5c860bb5a58cf8e140412","amp;dn":"Edith+Piaf.The+Absolute+Best+Of+Edith+Piaf","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a7109d78a34de04a7aa5c860bb5a58cf8e140412","infoHashBuffer":{"type":"Buffer","data":[167,16,157,120,163,77,224,74,122,165,200,96,187,90,88,207,142,20,4,18]},"announce":[],"urlList":[]}}
+{
+  "title": "Edith Piaf.The Absolute Best Of Edith Piaf",
+  "uid": 6008441,
+  "size": 106055635,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a7109d78a34de04a7aa5c860bb5a58cf8e140412&amp;dn=Edith+Piaf.The+Absolute+Best+Of+Edith+Piaf&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 108,
+  "leechers": 2,
+  "uploader": "fanclubt",
+  "files": 24,
+  "time": 1291399187,
+  "description": "Edith Piaf.The Absolute Best Of Edith Piaf\n\n 01 Padam Padam\n 02 Mon Dieu\n 03 Avant Nous\n 04 La Croix\n 05 Toujours Aimers\n 06 L'Effet Que Tu Me Fais\n 07 La Vie en Rose\n 08 Non Je Ne Regrette Rien\n 09 Sous Le Ciel de Paris\n 10 Polichinelle\n 11 Le Bleu de Tes Yeux\n 12 Notre Dame de Paris\n 13 Bravo Pour le Clown!\n 14 L' Accordeoniste\n 15 T'es Beau, Tu Sais\n 16 Le Goulante De Pauvre Jean\n 17 Comme Moi\n 18 Milord\n 19 Le Vieux Piano\n 20 Hymne a l'Amour\n 21 Mon Manege A Moi\n 22 La Vie, L'amour\n 23 C'est L'amour",
+  "parsed": {
+    "xt": "urn:btih:a7109d78a34de04a7aa5c860bb5a58cf8e140412",
+    "dn": "Edith Piaf.The Absolute Best Of Edith Piaf",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a7109d78a34de04a7aa5c860bb5a58cf8e140412",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        167,
+        16,
+        157,
+        120,
+        163,
+        77,
+        224,
+        74,
+        122,
+        165,
+        200,
+        96,
+        187,
+        90,
+        88,
+        207,
+        142,
+        20,
+        4,
+        18
+      ]
+    },
+    "name": "Edith Piaf.The Absolute Best Of Edith Piaf",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 110,
+  "peers": 81,
+  "last_updated": "2016-12-25T10:14:16.982Z"
+}

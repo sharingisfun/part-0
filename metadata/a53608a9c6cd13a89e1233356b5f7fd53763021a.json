@@ -1,1 +1,61 @@
-{"title":"The Winery Dogs - The Winery Dogs (2013) - 320kbps MP3","uid":8547094,"size":145798499,"categoryP":"audio","categoryS":"audio_books","magnet":"?xt=urn:btih:a53608a9c6cd13a89e1233356b5f7fd53763021a&amp;dn=The+Winery+Dogs+-+The+Winery+Dogs+%282013%29+-+320kbps+MP3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":1,"uploader":"RayC1","files":-1,"time":1370550916,"description":"(2013) The Winery Dogs - Self Titled\n\nBilly Sheehan, Richie Kotzen and Mike Portnoy\n\nSetlist:\n\n01 - Elevate\n02 - Desire\n03 - We Are One\n04 - I'm No Angel\n05 - The Other Side\n06 - You Saved Me\n07 - Not Hopeless\n08 - One More Time\n09 - Damaged\n10 - Six Feet Deeper\n11 - Criminal\n12 - The Dying\n13 - Regret\n\nFormat: MP3\nBitrate: 320kbps","torrent":{"xt":"urn:btih:a53608a9c6cd13a89e1233356b5f7fd53763021a","amp;dn":"The+Winery+Dogs+-+The+Winery+Dogs+%282013%29+-+320kbps+MP3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a53608a9c6cd13a89e1233356b5f7fd53763021a","infoHashBuffer":{"type":"Buffer","data":[165,54,8,169,198,205,19,168,158,18,51,53,107,95,127,213,55,99,2,26]},"announce":[],"urlList":[]}}
+{
+  "title": "The Winery Dogs - The Winery Dogs (2013) - 320kbps MP3",
+  "uid": 8547094,
+  "size": 145798499,
+  "categoryP": "audio",
+  "categoryS": "audio_books",
+  "magnet": "?xt=urn:btih:a53608a9c6cd13a89e1233356b5f7fd53763021a&amp;dn=The+Winery+Dogs+-+The+Winery+Dogs+%282013%29+-+320kbps+MP3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 1,
+  "uploader": "RayC1",
+  "files": -1,
+  "time": 1370550916,
+  "description": "(2013) The Winery Dogs - Self Titled\n\nBilly Sheehan, Richie Kotzen and Mike Portnoy\n\nSetlist:\n\n01 - Elevate\n02 - Desire\n03 - We Are One\n04 - I'm No Angel\n05 - The Other Side\n06 - You Saved Me\n07 - Not Hopeless\n08 - One More Time\n09 - Damaged\n10 - Six Feet Deeper\n11 - Criminal\n12 - The Dying\n13 - Regret\n\nFormat: MP3\nBitrate: 320kbps",
+  "parsed": {
+    "xt": "urn:btih:a53608a9c6cd13a89e1233356b5f7fd53763021a",
+    "dn": "The Winery Dogs - The Winery Dogs (2013) - 320kbps MP3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a53608a9c6cd13a89e1233356b5f7fd53763021a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        165,
+        54,
+        8,
+        169,
+        198,
+        205,
+        19,
+        168,
+        158,
+        18,
+        51,
+        53,
+        107,
+        95,
+        127,
+        213,
+        55,
+        99,
+        2,
+        26
+      ]
+    },
+    "name": "The Winery Dogs - The Winery Dogs (2013) - 320kbps MP3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 0,
+  "last_updated": "2016-12-25T10:02:56.898Z"
+}

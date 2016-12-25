@@ -1,1 +1,61 @@
-{"title":"Constantine Season 1 Complete","uid":11700103,"size":3348721474,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a6f5dbdf688083993fc066b889f7c7d718a3c4d5&amp;dn=Constantine+Season+1+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":140,"leechers":63,"uploader":"Mishuiancu","files":13,"time":1423902518,"description":"   Constantine features the supernatural adventures of John Constantine, a shady exorcist and self-proclaimed master of the mystic arts. After retiring to an insane asylum after getting a young girl banished to Hell, Constantine emerges to help the daughter of an old friend. He soon becomes involved in the machinations of Heaven and Hell and tries to stop the rising of the Great Darkness","torrent":{"xt":"urn:btih:a6f5dbdf688083993fc066b889f7c7d718a3c4d5","amp;dn":"Constantine+Season+1+Complete","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a6f5dbdf688083993fc066b889f7c7d718a3c4d5","infoHashBuffer":{"type":"Buffer","data":[166,245,219,223,104,128,131,153,63,192,102,184,137,247,199,215,24,163,196,213]},"announce":[],"urlList":[]}}
+{
+  "title": "Constantine Season 1 Complete",
+  "uid": 11700103,
+  "size": 3348721474,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a6f5dbdf688083993fc066b889f7c7d718a3c4d5&amp;dn=Constantine+Season+1+Complete&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 140,
+  "leechers": 63,
+  "uploader": "Mishuiancu",
+  "files": 13,
+  "time": 1423902518,
+  "description": "   Constantine features the supernatural adventures of John Constantine, a shady exorcist and self-proclaimed master of the mystic arts. After retiring to an insane asylum after getting a young girl banished to Hell, Constantine emerges to help the daughter of an old friend. He soon becomes involved in the machinations of Heaven and Hell and tries to stop the rising of the Great Darkness",
+  "parsed": {
+    "xt": "urn:btih:a6f5dbdf688083993fc066b889f7c7d718a3c4d5",
+    "dn": "Constantine Season 1 Complete",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a6f5dbdf688083993fc066b889f7c7d718a3c4d5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        166,
+        245,
+        219,
+        223,
+        104,
+        128,
+        131,
+        153,
+        63,
+        192,
+        102,
+        184,
+        137,
+        247,
+        199,
+        215,
+        24,
+        163,
+        196,
+        213
+      ]
+    },
+    "name": "Constantine Season 1 Complete",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 203,
+  "peers": 161,
+  "last_updated": "2016-12-25T10:13:46.835Z"
+}

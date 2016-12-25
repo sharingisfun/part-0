@@ -1,1 +1,61 @@
-{"title":"Jake Bugg - Jake Bugg (Album) [2012] {MP3 256 kbps}","uid":7765876,"size":76045617,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a5681a8f464c188a6ebe0b69756d94df33da8254&amp;dn=Jake+Bugg+-+Jake+Bugg+%28Album%29+%5B2012%5D+%7BMP3+256+kbps%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":2,"uploader":"mrmilky","files":15,"time":1351372161,"description":"Artist: Jake Bugg\nAlbum: Jake Bugg\nReleased: 2012-OCT\nGenre: Indie Folk\nFormat: MP3 256Kbps (Proper ID3v2.3 tags including album cover)\n\nTracklist:\n\n01  Lighting Bolt\n02  Two Fingers\n03  Taste It\n04  Seen It All\n05  Simple As This\n06  Country Song\n07  Broken\n08  Trouble Town\n09  Ballad Of Mr Jones\n10  Slide\n11  Someone Told Me\n12  Note To Self\n13  Someplace\n14  Fire\n\nEnjoy!\n\nPD. Sorry for the old torrent, seems to be odd.","torrent":{"xt":"urn:btih:a5681a8f464c188a6ebe0b69756d94df33da8254","amp;dn":"Jake+Bugg+-+Jake+Bugg+%28Album%29+%5B2012%5D+%7BMP3+256+kbps%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a5681a8f464c188a6ebe0b69756d94df33da8254","infoHashBuffer":{"type":"Buffer","data":[165,104,26,143,70,76,24,138,110,190,11,105,117,109,148,223,51,218,130,84]},"announce":[],"urlList":[]}}
+{
+  "title": "Jake Bugg - Jake Bugg (Album) [2012] {MP3 256 kbps}",
+  "uid": 7765876,
+  "size": 76045617,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a5681a8f464c188a6ebe0b69756d94df33da8254&amp;dn=Jake+Bugg+-+Jake+Bugg+%28Album%29+%5B2012%5D+%7BMP3+256+kbps%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 2,
+  "uploader": "mrmilky",
+  "files": 15,
+  "time": 1351372161,
+  "description": "Artist: Jake Bugg\nAlbum: Jake Bugg\nReleased: 2012-OCT\nGenre: Indie Folk\nFormat: MP3 256Kbps (Proper ID3v2.3 tags including album cover)\n\nTracklist:\n\n01  Lighting Bolt\n02  Two Fingers\n03  Taste It\n04  Seen It All\n05  Simple As This\n06  Country Song\n07  Broken\n08  Trouble Town\n09  Ballad Of Mr Jones\n10  Slide\n11  Someone Told Me\n12  Note To Self\n13  Someplace\n14  Fire\n\nEnjoy!\n\nPD. Sorry for the old torrent, seems to be odd.",
+  "parsed": {
+    "xt": "urn:btih:a5681a8f464c188a6ebe0b69756d94df33da8254",
+    "dn": "Jake Bugg - Jake Bugg (Album) [2012] {MP3 256 kbps}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a5681a8f464c188a6ebe0b69756d94df33da8254",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        165,
+        104,
+        26,
+        143,
+        70,
+        76,
+        24,
+        138,
+        110,
+        190,
+        11,
+        105,
+        117,
+        109,
+        148,
+        223,
+        51,
+        218,
+        130,
+        84
+      ]
+    },
+    "name": "Jake Bugg - Jake Bugg (Album) [2012] {MP3 256 kbps}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 81,
+  "peers": 33,
+  "last_updated": "2016-12-25T10:04:11.097Z"
+}

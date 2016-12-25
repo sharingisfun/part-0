@@ -1,1 +1,61 @@
-{"title":"Troye Sivan &amp;ndash; Trxye &amp;ndash; EP [iTunes Plus AAC M4A]","uid":10766088,"size":37168203,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:a6cb74e969224dc8ddb48cd981f47c5cc5e1905e&amp;dn=Troye+Sivan+%26ndash%3B+Trxye+%26ndash%3B+EP+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":1,"uploader":"Music_Blitz","files":-1,"time":1408029288,"description":"Troye Sivan Ã¢â‚¬â€œ Trxye Ã¢â‚¬â€œ EP [iTunes Plus AAC M4A]\n\n\n\nTracklist:\n\n1. Happy Little Pill \n2. Touch \n3. Fun \n4. Gasoline \n5. The Fault In Our Stars (MMXIV)\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes\nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Friday 15th August 2014\n","torrent":{"xt":"urn:btih:a6cb74e969224dc8ddb48cd981f47c5cc5e1905e","amp;dn":"Troye+Sivan+%26ndash%3B+Trxye+%26ndash%3B+EP+%5BiTunes+Plus+AAC+M4A%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a6cb74e969224dc8ddb48cd981f47c5cc5e1905e","infoHashBuffer":{"type":"Buffer","data":[166,203,116,233,105,34,77,200,221,180,140,217,129,244,124,92,197,225,144,94]},"announce":[],"urlList":[]}}
+{
+  "title": "Troye Sivan &amp;ndash; Trxye &amp;ndash; EP [iTunes Plus AAC M4A]",
+  "uid": 10766088,
+  "size": 37168203,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:a6cb74e969224dc8ddb48cd981f47c5cc5e1905e&amp;dn=Troye+Sivan+%26ndash%3B+Trxye+%26ndash%3B+EP+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 1,
+  "uploader": "Music_Blitz",
+  "files": -1,
+  "time": 1408029288,
+  "description": "Troye Sivan Ã¢â‚¬â€œ Trxye Ã¢â‚¬â€œ EP [iTunes Plus AAC M4A]\n\n\n\nTracklist:\n\n1. Happy Little Pill \n2. Touch \n3. Fun \n4. Gasoline \n5. The Fault In Our Stars (MMXIV)\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes\nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Friday 15th August 2014\n",
+  "parsed": {
+    "xt": "urn:btih:a6cb74e969224dc8ddb48cd981f47c5cc5e1905e",
+    "dn": "Troye Sivan &ndash; Trxye &ndash; EP [iTunes Plus AAC M4A]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a6cb74e969224dc8ddb48cd981f47c5cc5e1905e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        166,
+        203,
+        116,
+        233,
+        105,
+        34,
+        77,
+        200,
+        221,
+        180,
+        140,
+        217,
+        129,
+        244,
+        124,
+        92,
+        197,
+        225,
+        144,
+        94
+      ]
+    },
+    "name": "Troye Sivan &ndash; Trxye &ndash; EP [iTunes Plus AAC M4A]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 51,
+  "last_updated": "2016-12-25T10:12:26.567Z"
+}

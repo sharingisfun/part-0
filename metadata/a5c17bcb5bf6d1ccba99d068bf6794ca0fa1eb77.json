@@ -1,1 +1,61 @@
-{"title":"Seinfeld - Season 2","uid":11897929,"size":1131288467,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a5c17bcb5bf6d1ccba99d068bf6794ca0fa1eb77&amp;dn=Seinfeld+-+Season+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":5,"uploader":"rowsol","files":12,"time":1431217824,"description":"yea","torrent":{"xt":"urn:btih:a5c17bcb5bf6d1ccba99d068bf6794ca0fa1eb77","amp;dn":"Seinfeld+-+Season+2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a5c17bcb5bf6d1ccba99d068bf6794ca0fa1eb77","infoHashBuffer":{"type":"Buffer","data":[165,193,123,203,91,246,209,204,186,153,208,104,191,103,148,202,15,161,235,119]},"announce":[],"urlList":[]}}
+{
+  "title": "Seinfeld - Season 2",
+  "uid": 11897929,
+  "size": 1131288467,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a5c17bcb5bf6d1ccba99d068bf6794ca0fa1eb77&amp;dn=Seinfeld+-+Season+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 5,
+  "uploader": "rowsol",
+  "files": 12,
+  "time": 1431217824,
+  "description": "yea",
+  "parsed": {
+    "xt": "urn:btih:a5c17bcb5bf6d1ccba99d068bf6794ca0fa1eb77",
+    "dn": "Seinfeld - Season 2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a5c17bcb5bf6d1ccba99d068bf6794ca0fa1eb77",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        165,
+        193,
+        123,
+        203,
+        91,
+        246,
+        209,
+        204,
+        186,
+        153,
+        208,
+        104,
+        191,
+        103,
+        148,
+        202,
+        15,
+        161,
+        235,
+        119
+      ]
+    },
+    "name": "Seinfeld - Season 2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 15,
+  "last_updated": "2016-12-25T10:06:19.490Z"
+}

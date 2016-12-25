@@ -1,1 +1,63 @@
-{"title":"South.Park.S20E03.HDTV.x264-FLEET","uid":15912473,"size":112969440,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a67b58fd0b02af2ba8fa7250c04d5d5364b19775&amp;dn=South.Park.S20E03.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":152,"leechers":22,"uploader":"TvTeam","files":4,"time":1475124442,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:a67b58fd0b02af2ba8fa7250c04d5d5364b19775","amp;dn":"South.Park.S20E03.HDTV.x264-FLEET","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a67b58fd0b02af2ba8fa7250c04d5d5364b19775","infoHashBuffer":{"type":"Buffer","data":[166,123,88,253,11,2,175,43,168,250,114,80,192,77,93,83,100,177,151,117]},"announce":[],"urlList":[]}}
+{
+  "title": "South.Park.S20E03.HDTV.x264-FLEET",
+  "uid": 15912473,
+  "size": 112969440,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a67b58fd0b02af2ba8fa7250c04d5d5364b19775&amp;dn=South.Park.S20E03.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 152,
+  "leechers": 22,
+  "uploader": "TvTeam",
+  "files": 4,
+  "time": 1475124442,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:a67b58fd0b02af2ba8fa7250c04d5d5364b19775",
+    "dn": "South.Park.S20E03.HDTV.x264-FLEET",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "a67b58fd0b02af2ba8fa7250c04d5d5364b19775",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        166,
+        123,
+        88,
+        253,
+        11,
+        2,
+        175,
+        43,
+        168,
+        250,
+        114,
+        80,
+        192,
+        77,
+        93,
+        83,
+        100,
+        177,
+        151,
+        117
+      ]
+    },
+    "name": "South.Park.S20E03.HDTV.x264-FLEET",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 174,
+  "peers": 29,
+  "last_updated": "2016-12-25T10:10:50.293Z"
+}
