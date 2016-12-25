@@ -1,1 +1,61 @@
-{"title":"Rick Ross - Port of Miami","uid":3901520,"size":111202200,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:856e1e4ca100dd0f80d46cc9f7c83007d7114705&amp;dn=Rick+Ross+-+Port+of+Miami&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":2,"uploader":"smithologikal","files":19,"time":1195592361,"description":"Rick Ross - Port of Miami\n\nI have plenty of more and WILL SEED great quality music!!","torrent":{"xt":"urn:btih:856e1e4ca100dd0f80d46cc9f7c83007d7114705","amp;dn":"Rick+Ross+-+Port+of+Miami","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"856e1e4ca100dd0f80d46cc9f7c83007d7114705","infoHashBuffer":{"type":"Buffer","data":[133,110,30,76,161,0,221,15,128,212,108,201,247,200,48,7,215,17,71,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Rick Ross - Port of Miami",
+  "uid": 3901520,
+  "size": 111202200,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:856e1e4ca100dd0f80d46cc9f7c83007d7114705&amp;dn=Rick+Ross+-+Port+of+Miami&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 2,
+  "uploader": "smithologikal",
+  "files": 19,
+  "time": 1195592361,
+  "description": "Rick Ross - Port of Miami\n\nI have plenty of more and WILL SEED great quality music!!",
+  "parsed": {
+    "xt": "urn:btih:856e1e4ca100dd0f80d46cc9f7c83007d7114705",
+    "dn": "Rick Ross - Port of Miami",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "856e1e4ca100dd0f80d46cc9f7c83007d7114705",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        133,
+        110,
+        30,
+        76,
+        161,
+        0,
+        221,
+        15,
+        128,
+        212,
+        108,
+        201,
+        247,
+        200,
+        48,
+        7,
+        215,
+        17,
+        71,
+        5
+      ]
+    },
+    "name": "Rick Ross - Port of Miami",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 44,
+  "last_updated": "2016-12-25T06:36:14.759Z"
+}

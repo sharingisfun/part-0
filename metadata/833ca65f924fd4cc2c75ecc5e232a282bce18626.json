@@ -1,1 +1,61 @@
-{"title":"Meghan Trainor - All About That Bass","uid":11056056,"size":8838760,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:833ca65f924fd4cc2c75ecc5e232a282bce18626&amp;dn=Meghan+Trainor+-+All+About+That+Bass&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":4,"uploader":"Arvind007","files":1,"time":1411111574,"description":"Meghan Trainor - All About That Bass\n\nFormat             : MPEG Audio\nMode               : Joint stereo\nBit rate mode      : Constant\nBit rate           : 320 Kbps\nChannel(s)         : 2 channels\nSampling rate      : 44.1 KHz\nCompression mode   : Lossy\nStream size        : 7.17 MiB\n\nUploaded and encoded by Arvind","torrent":{"xt":"urn:btih:833ca65f924fd4cc2c75ecc5e232a282bce18626","amp;dn":"Meghan+Trainor+-+All+About+That+Bass","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"833ca65f924fd4cc2c75ecc5e232a282bce18626","infoHashBuffer":{"type":"Buffer","data":[131,60,166,95,146,79,212,204,44,117,236,197,226,50,162,130,188,225,134,38]},"announce":[],"urlList":[]}}
+{
+  "title": "Meghan Trainor - All About That Bass",
+  "uid": 11056056,
+  "size": 8838760,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:833ca65f924fd4cc2c75ecc5e232a282bce18626&amp;dn=Meghan+Trainor+-+All+About+That+Bass&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 4,
+  "uploader": "Arvind007",
+  "files": 1,
+  "time": 1411111574,
+  "description": "Meghan Trainor - All About That Bass\n\nFormat             : MPEG Audio\nMode               : Joint stereo\nBit rate mode      : Constant\nBit rate           : 320 Kbps\nChannel(s)         : 2 channels\nSampling rate      : 44.1 KHz\nCompression mode   : Lossy\nStream size        : 7.17 MiB\n\nUploaded and encoded by Arvind",
+  "parsed": {
+    "xt": "urn:btih:833ca65f924fd4cc2c75ecc5e232a282bce18626",
+    "dn": "Meghan Trainor - All About That Bass",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "833ca65f924fd4cc2c75ecc5e232a282bce18626",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        131,
+        60,
+        166,
+        95,
+        146,
+        79,
+        212,
+        204,
+        44,
+        117,
+        236,
+        197,
+        226,
+        50,
+        162,
+        130,
+        188,
+        225,
+        134,
+        38
+      ]
+    },
+    "name": "Meghan Trainor - All About That Bass",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 50,
+  "last_updated": "2016-12-25T06:22:46.022Z"
+}

@@ -1,1 +1,63 @@
-{"title":"South Park 20x04 (720p-HDTV-x264-AVS)[VTV]","uid":16021384,"size":350638652,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:84b49f05dd06a1229d98bf86bf2e5fd3590ef12e&amp;dn=South+Park+20x04+%28720p-HDTV-x264-AVS%29%5BVTV%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":104,"leechers":23,"uploader":"realVTV","files":1,"time":1476335985,"description":"South.Park.S20E04.720p.HDTV.x264-AVS\r\ndate: Thu Oct 13 2016\r\n\r\n&quot;Wieners Out&quot;","torrent":{"xt":"urn:btih:84b49f05dd06a1229d98bf86bf2e5fd3590ef12e","amp;dn":"South+Park+20x04+%28720p-HDTV-x264-AVS%29%5BVTV%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"84b49f05dd06a1229d98bf86bf2e5fd3590ef12e","infoHashBuffer":{"type":"Buffer","data":[132,180,159,5,221,6,161,34,157,152,191,134,191,46,95,211,89,14,241,46]},"announce":[],"urlList":[]}}
+{
+  "title": "South Park 20x04 (720p-HDTV-x264-AVS)[VTV]",
+  "uid": 16021384,
+  "size": 350638652,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:84b49f05dd06a1229d98bf86bf2e5fd3590ef12e&amp;dn=South+Park+20x04+%28720p-HDTV-x264-AVS%29%5BVTV%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 104,
+  "leechers": 23,
+  "uploader": "realVTV",
+  "files": 1,
+  "time": 1476335985,
+  "description": "South.Park.S20E04.720p.HDTV.x264-AVS\r\ndate: Thu Oct 13 2016\r\n\r\n&quot;Wieners Out&quot;",
+  "parsed": {
+    "xt": "urn:btih:84b49f05dd06a1229d98bf86bf2e5fd3590ef12e",
+    "dn": "South Park 20x04 (720p-HDTV-x264-AVS)[VTV]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "84b49f05dd06a1229d98bf86bf2e5fd3590ef12e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        132,
+        180,
+        159,
+        5,
+        221,
+        6,
+        161,
+        34,
+        157,
+        152,
+        191,
+        134,
+        191,
+        46,
+        95,
+        211,
+        89,
+        14,
+        241,
+        46
+      ]
+    },
+    "name": "South Park 20x04 (720p-HDTV-x264-AVS)[VTV]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 127,
+  "peers": 28,
+  "last_updated": "2016-12-25T06:31:39.826Z"
+}

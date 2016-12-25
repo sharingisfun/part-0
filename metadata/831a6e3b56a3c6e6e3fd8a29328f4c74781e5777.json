@@ -1,1 +1,61 @@
-{"title":"Cities Skylines Crackfix - CODEX","uid":11746204,"size":1275385,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:831a6e3b56a3c6e6e3fd8a29328f4c74781e5777&amp;dn=Cities+Skylines+Crackfix+-+CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":81,"leechers":0,"uploader":"dauphong","files":70,"time":1426025482,"description":"Crackfix Notes: in our initial release, the milestone display\nwas showing wrong or no stats. This is fixed now\n\nGeneral Notes:\n\nBlock the game's exe in your firewall to prevent the game from\ntrying to go online\nIf you install games to your systemdrive, it may be necessary\nto run this game with admin privileges instead\n\nCODEX is currently looking for\n\nnothing but competition!\n\nare you ready?","torrent":{"xt":"urn:btih:831a6e3b56a3c6e6e3fd8a29328f4c74781e5777","amp;dn":"Cities+Skylines+Crackfix+-+CODEX","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"831a6e3b56a3c6e6e3fd8a29328f4c74781e5777","infoHashBuffer":{"type":"Buffer","data":[131,26,110,59,86,163,198,230,227,253,138,41,50,143,76,116,120,30,87,119]},"announce":[],"urlList":[]}}
+{
+  "title": "Cities Skylines Crackfix - CODEX",
+  "uid": 11746204,
+  "size": 1275385,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:831a6e3b56a3c6e6e3fd8a29328f4c74781e5777&amp;dn=Cities+Skylines+Crackfix+-+CODEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 81,
+  "leechers": 0,
+  "uploader": "dauphong",
+  "files": 70,
+  "time": 1426025482,
+  "description": "Crackfix Notes: in our initial release, the milestone display\nwas showing wrong or no stats. This is fixed now\n\nGeneral Notes:\n\nBlock the game's exe in your firewall to prevent the game from\ntrying to go online\nIf you install games to your systemdrive, it may be necessary\nto run this game with admin privileges instead\n\nCODEX is currently looking for\n\nnothing but competition!\n\nare you ready?",
+  "parsed": {
+    "xt": "urn:btih:831a6e3b56a3c6e6e3fd8a29328f4c74781e5777",
+    "dn": "Cities Skylines Crackfix - CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "831a6e3b56a3c6e6e3fd8a29328f4c74781e5777",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        131,
+        26,
+        110,
+        59,
+        86,
+        163,
+        198,
+        230,
+        227,
+        253,
+        138,
+        41,
+        50,
+        143,
+        76,
+        116,
+        120,
+        30,
+        87,
+        119
+      ]
+    },
+    "name": "Cities Skylines Crackfix - CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 81,
+  "peers": 9,
+  "last_updated": "2016-12-25T06:21:47.852Z"
+}

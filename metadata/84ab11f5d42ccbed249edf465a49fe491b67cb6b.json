@@ -1,1 +1,61 @@
-{"title":"Fantasy eBooks Pack #1 [epub/mobi]","uid":11519267,"size":404989487,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:84ab11f5d42ccbed249edf465a49fe491b67cb6b&amp;dn=Fantasy+eBooks+Pack+%231+%5Bepub%2Fmobi%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":110,"leechers":44,"uploader":"micron66","files":292,"time":1416476824,"description":"Click on 'Files' to see full list of ebooks.\n\n\nDON'T FORGET TO SEED !","torrent":{"xt":"urn:btih:84ab11f5d42ccbed249edf465a49fe491b67cb6b","amp;dn":"Fantasy+eBooks+Pack+%231+%5Bepub%2Fmobi%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"84ab11f5d42ccbed249edf465a49fe491b67cb6b","infoHashBuffer":{"type":"Buffer","data":[132,171,17,245,212,44,203,237,36,158,223,70,90,73,254,73,27,103,203,107]},"announce":[],"urlList":[]}}
+{
+  "title": "Fantasy eBooks Pack #1 [epub/mobi]",
+  "uid": 11519267,
+  "size": 404989487,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:84ab11f5d42ccbed249edf465a49fe491b67cb6b&amp;dn=Fantasy+eBooks+Pack+%231+%5Bepub%2Fmobi%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 110,
+  "leechers": 44,
+  "uploader": "micron66",
+  "files": 292,
+  "time": 1416476824,
+  "description": "Click on 'Files' to see full list of ebooks.\n\n\nDON'T FORGET TO SEED !",
+  "parsed": {
+    "xt": "urn:btih:84ab11f5d42ccbed249edf465a49fe491b67cb6b",
+    "dn": "Fantasy eBooks Pack #1 [epub/mobi]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "84ab11f5d42ccbed249edf465a49fe491b67cb6b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        132,
+        171,
+        17,
+        245,
+        212,
+        44,
+        203,
+        237,
+        36,
+        158,
+        223,
+        70,
+        90,
+        73,
+        254,
+        73,
+        27,
+        103,
+        203,
+        107
+      ]
+    },
+    "name": "Fantasy eBooks Pack #1 [epub/mobi]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 154,
+  "peers": 25,
+  "last_updated": "2016-12-25T06:31:21.760Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Five Nights at Freddy's: Sister Location","uid":15978937,"size":823926061,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:839efe60a3eb60e2fb3c7b6f9378829144ddd75a&amp;dn=Five+Nights+at+Freddy%27s%3A+Sister+Location&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":154,"leechers":9,"uploader":"dauphong","files":1,"time":1475875431,"description":"About This Game\r\nWelcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang!\r\n\r\nNow hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment","torrent":{"xt":"urn:btih:839efe60a3eb60e2fb3c7b6f9378829144ddd75a","amp;dn":"Five+Nights+at+Freddy%27s%3A+Sister+Location","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"839efe60a3eb60e2fb3c7b6f9378829144ddd75a","infoHashBuffer":{"type":"Buffer","data":[131,158,254,96,163,235,96,226,251,60,123,111,147,120,130,145,68,221,215,90]},"announce":[],"urlList":[]}}
+{
+  "title": "Five Nights at Freddy's: Sister Location",
+  "uid": 15978937,
+  "size": 823926061,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:839efe60a3eb60e2fb3c7b6f9378829144ddd75a&amp;dn=Five+Nights+at+Freddy%27s%3A+Sister+Location&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 154,
+  "leechers": 9,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1475875431,
+  "description": "About This Game\r\nWelcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang!\r\n\r\nNow hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment",
+  "parsed": {
+    "xt": "urn:btih:839efe60a3eb60e2fb3c7b6f9378829144ddd75a",
+    "dn": "Five Nights at Freddy's: Sister Location",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "839efe60a3eb60e2fb3c7b6f9378829144ddd75a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        131,
+        158,
+        254,
+        96,
+        163,
+        235,
+        96,
+        226,
+        251,
+        60,
+        123,
+        111,
+        147,
+        120,
+        130,
+        145,
+        68,
+        221,
+        215,
+        90
+      ]
+    },
+    "name": "Five Nights at Freddy's: Sister Location",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 163,
+  "peers": 100,
+  "last_updated": "2016-12-25T06:25:04.403Z"
+}

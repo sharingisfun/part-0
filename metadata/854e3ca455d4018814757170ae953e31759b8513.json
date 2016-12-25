@@ -1,1 +1,61 @@
-{"title":"Snarky Puppy","uid":11600623,"size":1777168582,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:854e3ca455d4018814757170ae953e31759b8513&amp;dn=Snarky+Puppy&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":10,"uploader":"TheW69","files":-1,"time":1417339904,"description":"Snarky Puppy\n &lt;a href=&quot;\nhttp://snarkypuppy.ropeadope.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://snarkypuppy.ropeadope.com/&lt;/a&gt;\n\n\n\n\n\nThis compilation contains the following albums and formats\n\n\nBring Us the Bright - mp3\n\nFamily Dinner Vol 1 - mp3, flac\n\nGroundUP - mp3, flac\n\nTell Your Friends - mp3\n\nthe only constant - mp3\n\nThe World Is Getting Smaller - mp3\n\nWe Like It Here - mp3, flac","torrent":{"xt":"urn:btih:854e3ca455d4018814757170ae953e31759b8513","amp;dn":"Snarky+Puppy","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"854e3ca455d4018814757170ae953e31759b8513","infoHashBuffer":{"type":"Buffer","data":[133,78,60,164,85,212,1,136,20,117,113,112,174,149,62,49,117,155,133,19]},"announce":[],"urlList":[]}}
+{
+  "title": "Snarky Puppy",
+  "uid": 11600623,
+  "size": 1777168582,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:854e3ca455d4018814757170ae953e31759b8513&amp;dn=Snarky+Puppy&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 10,
+  "uploader": "TheW69",
+  "files": -1,
+  "time": 1417339904,
+  "description": "Snarky Puppy\n &lt;a href=&quot;\nhttp://snarkypuppy.ropeadope.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://snarkypuppy.ropeadope.com/&lt;/a&gt;\n\n\n\n\n\nThis compilation contains the following albums and formats\n\n\nBring Us the Bright - mp3\n\nFamily Dinner Vol 1 - mp3, flac\n\nGroundUP - mp3, flac\n\nTell Your Friends - mp3\n\nthe only constant - mp3\n\nThe World Is Getting Smaller - mp3\n\nWe Like It Here - mp3, flac",
+  "parsed": {
+    "xt": "urn:btih:854e3ca455d4018814757170ae953e31759b8513",
+    "dn": "Snarky Puppy",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "854e3ca455d4018814757170ae953e31759b8513",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        133,
+        78,
+        60,
+        164,
+        85,
+        212,
+        1,
+        136,
+        20,
+        117,
+        113,
+        112,
+        174,
+        149,
+        62,
+        49,
+        117,
+        155,
+        133,
+        19
+      ]
+    },
+    "name": "Snarky Puppy",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 87,
+  "last_updated": "2016-12-25T06:35:32.642Z"
+}

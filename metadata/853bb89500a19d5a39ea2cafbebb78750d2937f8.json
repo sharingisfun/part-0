@@ -1,1 +1,61 @@
-{"title":"Home (2015) 720p WEB-DL ","uid":11952539,"size":736326529,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:853bb89500a19d5a39ea2cafbebb78750d2937f8&amp;dn=Home+%282015%29+720p+WEB-DL+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":118,"leechers":8,"uploader":"OvoJeKraj","files":1,"time":1432220588,"description":"Movie Title: Home (2015)\nDirector: Tim Johnson\nStars: Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez\nRelease Date: 27 Mar 2015\nGenres: Animation, Adventure, Comedy\nFormat: MatRoska (Mkv)\nFile Size: 700MB\nResolution: 1280x688\nRuntime: 01:34:23\nLanguage: English\n\nScreens","torrent":{"xt":"urn:btih:853bb89500a19d5a39ea2cafbebb78750d2937f8","amp;dn":"Home+%282015%29+720p+WEB-DL+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"853bb89500a19d5a39ea2cafbebb78750d2937f8","infoHashBuffer":{"type":"Buffer","data":[133,59,184,149,0,161,157,90,57,234,44,175,190,187,120,117,13,41,55,248]},"announce":[],"urlList":[]}}
+{
+  "title": "Home (2015) 720p WEB-DL ",
+  "uid": 11952539,
+  "size": 736326529,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:853bb89500a19d5a39ea2cafbebb78750d2937f8&amp;dn=Home+%282015%29+720p+WEB-DL+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 118,
+  "leechers": 8,
+  "uploader": "OvoJeKraj",
+  "files": 1,
+  "time": 1432220588,
+  "description": "Movie Title: Home (2015)\nDirector: Tim Johnson\nStars: Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez\nRelease Date: 27 Mar 2015\nGenres: Animation, Adventure, Comedy\nFormat: MatRoska (Mkv)\nFile Size: 700MB\nResolution: 1280x688\nRuntime: 01:34:23\nLanguage: English\n\nScreens",
+  "parsed": {
+    "xt": "urn:btih:853bb89500a19d5a39ea2cafbebb78750d2937f8",
+    "dn": "Home (2015) 720p WEB-DL ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "853bb89500a19d5a39ea2cafbebb78750d2937f8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        133,
+        59,
+        184,
+        149,
+        0,
+        161,
+        157,
+        90,
+        57,
+        234,
+        44,
+        175,
+        190,
+        187,
+        120,
+        117,
+        13,
+        41,
+        55,
+        248
+      ]
+    },
+    "name": "Home (2015) 720p WEB-DL ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 126,
+  "peers": 5,
+  "last_updated": "2016-12-25T06:34:56.543Z"
+}

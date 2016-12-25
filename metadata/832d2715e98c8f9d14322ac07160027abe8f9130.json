@@ -1,1 +1,61 @@
-{"title":"Dead Realm","uid":12195407,"size":935612978,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:832d2715e98c8f9d14322ac07160027abe8f9130&amp;dn=Dead+Realm&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":4,"uploader":"dauphong","files":1,"time":1438728992,"description":"About This Game:\n\nIt's been almost 100 years since a reclusive electricity tycoon named William Huxley murdered his family and staff in the most grisly fashion. Among the dead were HuxleyÃ¢â‚¬â„¢s son, Baby William, and his henchman, the Ã¢â‚¬Å“Wolfman.Ã¢â‚¬ï¿½ Now you and your friends must enter HuxleyÃ¢â‚¬â„¢s shadowy world to find special artifacts and uncover his secrets before you are killed.\n\nDead Realm is a creepy, multiplayer action game with beautiful, immersive environments. You can play as either a Ghost or a Human character and work with your friends to run, hide, surviveÃ¢â‚¬Â¦ or die.\n\nDevelopment Roadmap:\nThe original concept for Dead Realm was to create a few game types that were simple in nature, while also being addictively fun to play with friends. Our intentions have always been to work with the community to constantly develop new ghost &amp; human characters, new maps, and new game types. This early access release is just the beginning of what we hope to be an ever evolving project. We urge you to get involved and provide input into what types of new content you would like to see implemented.\n\nLastly, we developed this game to not only be fun to play, but also fun to watch. That being said, we encourage you to capture and share your most terrifying gameplay moments. \n\nNOTE: START STEAM BEFORE START GAME. \nSteam overlay doesn't work in this game. Invite your friends from steamclient or better - find host's game from the server browser","torrent":{"xt":"urn:btih:832d2715e98c8f9d14322ac07160027abe8f9130","amp;dn":"Dead+Realm","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"832d2715e98c8f9d14322ac07160027abe8f9130","infoHashBuffer":{"type":"Buffer","data":[131,45,39,21,233,140,143,157,20,50,42,192,113,96,2,122,190,143,145,48]},"announce":[],"urlList":[]}}
+{
+  "title": "Dead Realm",
+  "uid": 12195407,
+  "size": 935612978,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:832d2715e98c8f9d14322ac07160027abe8f9130&amp;dn=Dead+Realm&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 4,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1438728992,
+  "description": "About This Game:\n\nIt's been almost 100 years since a reclusive electricity tycoon named William Huxley murdered his family and staff in the most grisly fashion. Among the dead were HuxleyÃ¢â‚¬â„¢s son, Baby William, and his henchman, the Ã¢â‚¬Å“Wolfman.Ã¢â‚¬ï¿½ Now you and your friends must enter HuxleyÃ¢â‚¬â„¢s shadowy world to find special artifacts and uncover his secrets before you are killed.\n\nDead Realm is a creepy, multiplayer action game with beautiful, immersive environments. You can play as either a Ghost or a Human character and work with your friends to run, hide, surviveÃ¢â‚¬Â¦ or die.\n\nDevelopment Roadmap:\nThe original concept for Dead Realm was to create a few game types that were simple in nature, while also being addictively fun to play with friends. Our intentions have always been to work with the community to constantly develop new ghost &amp; human characters, new maps, and new game types. This early access release is just the beginning of what we hope to be an ever evolving project. We urge you to get involved and provide input into what types of new content you would like to see implemented.\n\nLastly, we developed this game to not only be fun to play, but also fun to watch. That being said, we encourage you to capture and share your most terrifying gameplay moments. \n\nNOTE: START STEAM BEFORE START GAME. \nSteam overlay doesn't work in this game. Invite your friends from steamclient or better - find host's game from the server browser",
+  "parsed": {
+    "xt": "urn:btih:832d2715e98c8f9d14322ac07160027abe8f9130",
+    "dn": "Dead Realm",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "832d2715e98c8f9d14322ac07160027abe8f9130",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        131,
+        45,
+        39,
+        21,
+        233,
+        140,
+        143,
+        157,
+        20,
+        50,
+        42,
+        192,
+        113,
+        96,
+        2,
+        122,
+        190,
+        143,
+        145,
+        48
+      ]
+    },
+    "name": "Dead Realm",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 91,
+  "peers": 28,
+  "last_updated": "2016-12-25T06:22:19.950Z"
+}

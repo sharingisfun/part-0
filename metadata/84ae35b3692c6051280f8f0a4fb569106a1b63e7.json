@@ -1,1 +1,61 @@
-{"title":"Stonehearth v0.1.0r256","uid":11784818,"size":171991067,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:84ae35b3692c6051280f8f0a4fb569106a1b63e7&amp;dn=Stonehearth+v0.1.0r256&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":2,"uploader":"aqawaear","files":1,"time":1427703924,"description":"New version released\nChangelog :\n\nv0.1.0r256:\nÃ¢â‚¬Â¢ Autosave! Turn autosave on and off from the save/load screen. When on, the game will save every 5 minutes.\nÃ¢â‚¬Â¢ In the build HUD, donÃ¢â‚¬â„¢t show zones that the player doesnÃ¢â‚¬â„¢t own.\nÃ¢â‚¬Â¢ Fix display of ghost item rendering on structures\nÃ¢â‚¬Â¢ Inanimate objects no longer write journal entries when they die\nÃ¢â‚¬Â¢ Fix tearing down buildings after construction has started\nÃ¢â‚¬Â¢ More region calculation optimizations\n\nRemember if you enjoy the games and can afford them , buy them to support the developers !","torrent":{"xt":"urn:btih:84ae35b3692c6051280f8f0a4fb569106a1b63e7","amp;dn":"Stonehearth+v0.1.0r256","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"84ae35b3692c6051280f8f0a4fb569106a1b63e7","infoHashBuffer":{"type":"Buffer","data":[132,174,53,179,105,44,96,81,40,15,143,10,79,181,105,16,106,27,99,231]},"announce":[],"urlList":[]}}
+{
+  "title": "Stonehearth v0.1.0r256",
+  "uid": 11784818,
+  "size": 171991067,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:84ae35b3692c6051280f8f0a4fb569106a1b63e7&amp;dn=Stonehearth+v0.1.0r256&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 2,
+  "uploader": "aqawaear",
+  "files": 1,
+  "time": 1427703924,
+  "description": "New version released\nChangelog :\n\nv0.1.0r256:\nÃ¢â‚¬Â¢ Autosave! Turn autosave on and off from the save/load screen. When on, the game will save every 5 minutes.\nÃ¢â‚¬Â¢ In the build HUD, donÃ¢â‚¬â„¢t show zones that the player doesnÃ¢â‚¬â„¢t own.\nÃ¢â‚¬Â¢ Fix display of ghost item rendering on structures\nÃ¢â‚¬Â¢ Inanimate objects no longer write journal entries when they die\nÃ¢â‚¬Â¢ Fix tearing down buildings after construction has started\nÃ¢â‚¬Â¢ More region calculation optimizations\n\nRemember if you enjoy the games and can afford them , buy them to support the developers !",
+  "parsed": {
+    "xt": "urn:btih:84ae35b3692c6051280f8f0a4fb569106a1b63e7",
+    "dn": "Stonehearth v0.1.0r256",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "84ae35b3692c6051280f8f0a4fb569106a1b63e7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        132,
+        174,
+        53,
+        179,
+        105,
+        44,
+        96,
+        81,
+        40,
+        15,
+        143,
+        10,
+        79,
+        181,
+        105,
+        16,
+        106,
+        27,
+        99,
+        231
+      ]
+    },
+    "name": "Stonehearth v0.1.0r256",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 3,
+  "last_updated": "2016-12-25T06:31:29.788Z"
+}

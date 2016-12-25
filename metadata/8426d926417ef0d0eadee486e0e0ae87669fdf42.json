@@ -1,1 +1,61 @@
-{"title":"Suits.S01E01.Pilot.HDTV.XviD-FQM.[VTV].avi","uid":6491216,"size":734571334,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8426d926417ef0d0eadee486e0e0ae87669fdf42&amp;dn=Suits.S01E01.Pilot.HDTV.XviD-FQM.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":149,"leechers":70,"uploader":"VTV","files":1,"time":1308895547,"description":"Suits 1x01 (HDTV-FQM)[VTV]","torrent":{"xt":"urn:btih:8426d926417ef0d0eadee486e0e0ae87669fdf42","amp;dn":"Suits.S01E01.Pilot.HDTV.XviD-FQM.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8426d926417ef0d0eadee486e0e0ae87669fdf42","infoHashBuffer":{"type":"Buffer","data":[132,38,217,38,65,126,240,208,234,222,228,134,224,224,174,135,102,159,223,66]},"announce":[],"urlList":[]}}
+{
+  "title": "Suits.S01E01.Pilot.HDTV.XviD-FQM.[VTV].avi",
+  "uid": 6491216,
+  "size": 734571334,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8426d926417ef0d0eadee486e0e0ae87669fdf42&amp;dn=Suits.S01E01.Pilot.HDTV.XviD-FQM.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 149,
+  "leechers": 70,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1308895547,
+  "description": "Suits 1x01 (HDTV-FQM)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:8426d926417ef0d0eadee486e0e0ae87669fdf42",
+    "dn": "Suits.S01E01.Pilot.HDTV.XviD-FQM.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8426d926417ef0d0eadee486e0e0ae87669fdf42",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        132,
+        38,
+        217,
+        38,
+        65,
+        126,
+        240,
+        208,
+        234,
+        222,
+        228,
+        134,
+        224,
+        224,
+        174,
+        135,
+        102,
+        159,
+        223,
+        66
+      ]
+    },
+    "name": "Suits.S01E01.Pilot.HDTV.XviD-FQM.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 219,
+  "peers": 28,
+  "last_updated": "2016-12-25T06:28:19.114Z"
+}

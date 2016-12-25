@@ -1,1 +1,61 @@
-{"title":"DVBBS &amp; MOTi - This Is Dirty (Original Mix)","uid":9955347,"size":11951046,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:82ed5cf59f83a1f256b6124be8ffe9c108159238&amp;dn=DVBBS+%26amp%3B+MOTi+-+This+Is+Dirty+%28Original+Mix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":0,"uploader":"yeahsx","files":1,"time":1397446622,"description":"Label: Musical Freedom\nArtist: DVBBS &amp; MOTi\nAudio Bit Rate: 320 Kbps\nDuration: 04:52 min\nBPM: 128\nGenre: Electro House\nCover: Yes\nFormat/Codec: .mp3","torrent":{"xt":"urn:btih:82ed5cf59f83a1f256b6124be8ffe9c108159238","amp;dn":"DVBBS+%26amp%3B+MOTi+-+This+Is+Dirty+%28Original+Mix%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"82ed5cf59f83a1f256b6124be8ffe9c108159238","infoHashBuffer":{"type":"Buffer","data":[130,237,92,245,159,131,161,242,86,182,18,75,232,255,233,193,8,21,146,56]},"announce":[],"urlList":[]}}
+{
+  "title": "DVBBS &amp; MOTi - This Is Dirty (Original Mix)",
+  "uid": 9955347,
+  "size": 11951046,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:82ed5cf59f83a1f256b6124be8ffe9c108159238&amp;dn=DVBBS+%26amp%3B+MOTi+-+This+Is+Dirty+%28Original+Mix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 0,
+  "uploader": "yeahsx",
+  "files": 1,
+  "time": 1397446622,
+  "description": "Label: Musical Freedom\nArtist: DVBBS &amp; MOTi\nAudio Bit Rate: 320 Kbps\nDuration: 04:52 min\nBPM: 128\nGenre: Electro House\nCover: Yes\nFormat/Codec: .mp3",
+  "parsed": {
+    "xt": "urn:btih:82ed5cf59f83a1f256b6124be8ffe9c108159238",
+    "dn": "DVBBS &amp; MOTi - This Is Dirty (Original Mix)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "82ed5cf59f83a1f256b6124be8ffe9c108159238",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        130,
+        237,
+        92,
+        245,
+        159,
+        131,
+        161,
+        242,
+        86,
+        182,
+        18,
+        75,
+        232,
+        255,
+        233,
+        193,
+        8,
+        21,
+        146,
+        56
+      ]
+    },
+    "name": "DVBBS &amp; MOTi - This Is Dirty (Original Mix)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 12,
+  "last_updated": "2016-12-25T06:20:45.670Z"
+}

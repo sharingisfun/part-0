@@ -1,1 +1,61 @@
-{"title":"Louie.S05E08.HDTV.x264-LOL[ettv]","uid":11972148,"size":202714672,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8502843ea2c7b907f15597e6dda7480b1dca4129&amp;dn=Louie.S05E08.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":17,"uploader":"ettv","files":4,"time":1432875644,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW","torrent":{"xt":"urn:btih:8502843ea2c7b907f15597e6dda7480b1dca4129","amp;dn":"Louie.S05E08.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8502843ea2c7b907f15597e6dda7480b1dca4129","infoHashBuffer":{"type":"Buffer","data":[133,2,132,62,162,199,185,7,241,85,151,230,221,167,72,11,29,202,65,41]},"announce":[],"urlList":[]}}
+{
+  "title": "Louie.S05E08.HDTV.x264-LOL[ettv]",
+  "uid": 11972148,
+  "size": 202714672,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8502843ea2c7b907f15597e6dda7480b1dca4129&amp;dn=Louie.S05E08.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 17,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1432875644,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW",
+  "parsed": {
+    "xt": "urn:btih:8502843ea2c7b907f15597e6dda7480b1dca4129",
+    "dn": "Louie.S05E08.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8502843ea2c7b907f15597e6dda7480b1dca4129",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        133,
+        2,
+        132,
+        62,
+        162,
+        199,
+        185,
+        7,
+        241,
+        85,
+        151,
+        230,
+        221,
+        167,
+        72,
+        11,
+        29,
+        202,
+        65,
+        41
+      ]
+    },
+    "name": "Louie.S05E08.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 96,
+  "peers": 85,
+  "last_updated": "2016-12-25T06:33:32.221Z"
+}
