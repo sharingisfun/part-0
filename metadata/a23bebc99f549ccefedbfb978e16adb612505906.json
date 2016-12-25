@@ -1,1 +1,61 @@
-{"title":"Estopa - Discografia","uid":6491921,"size":636015803,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a23bebc99f549ccefedbfb978e16adb612505906&amp;dn=Estopa+-+Discografia&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":6,"uploader":"Black1000","files":-1,"time":1308874593,"description":"Estopa\n\n\n1999 Estopa\n\n1999 Maqueta\n\n2001 Destrangis\n\n2002 Mas Destrangis\n\n2004 La calle es tuya\n\n2005 Voces de Ultrarumba\n\n2008 Allenrock\n\n2009 -X Aniversarium","torrent":{"xt":"urn:btih:a23bebc99f549ccefedbfb978e16adb612505906","amp;dn":"Estopa+-+Discografia","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a23bebc99f549ccefedbfb978e16adb612505906","infoHashBuffer":{"type":"Buffer","data":[162,59,235,201,159,84,156,206,254,219,251,151,142,22,173,182,18,80,89,6]},"announce":[],"urlList":[]}}
+{
+  "title": "Estopa - Discografia",
+  "uid": 6491921,
+  "size": 636015803,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a23bebc99f549ccefedbfb978e16adb612505906&amp;dn=Estopa+-+Discografia&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 6,
+  "uploader": "Black1000",
+  "files": -1,
+  "time": 1308874593,
+  "description": "Estopa\n\n\n1999 Estopa\n\n1999 Maqueta\n\n2001 Destrangis\n\n2002 Mas Destrangis\n\n2004 La calle es tuya\n\n2005 Voces de Ultrarumba\n\n2008 Allenrock\n\n2009 -X Aniversarium",
+  "parsed": {
+    "xt": "urn:btih:a23bebc99f549ccefedbfb978e16adb612505906",
+    "dn": "Estopa - Discografia",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a23bebc99f549ccefedbfb978e16adb612505906",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        162,
+        59,
+        235,
+        201,
+        159,
+        84,
+        156,
+        206,
+        254,
+        219,
+        251,
+        151,
+        142,
+        22,
+        173,
+        182,
+        18,
+        80,
+        89,
+        6
+      ]
+    },
+    "name": "Estopa - Discografia",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 56,
+  "last_updated": "2016-12-25T09:43:38.959Z"
+}

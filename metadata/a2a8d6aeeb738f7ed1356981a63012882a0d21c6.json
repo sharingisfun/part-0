@@ -1,1 +1,61 @@
-{"title":"Alejandro Sanz 2012 [Mp3]","uid":7687546,"size":137817945,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a2a8d6aeeb738f7ed1356981a63012882a0d21c6&amp;dn=Alejandro+Sanz+2012+%5BMp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":131,"leechers":5,"uploader":"virana","files":-1,"time":1349001807,"description":"Formato: MP3\nTamaÃƒÂ±o del Archivo de Descarga: 104.96 MB\nAÃƒÂ±o: 2012\nArtista: Alejandro Sanz\nNombre del Album: La MÃƒÂºsica No Se Toca\n\nTracklist:\n\n1.La Musica No Se Toca\n2.Yo Te Traigo...20 AÃƒÂ±os\n3.No Me Compares\n4.Llamando a la Mujer Accion\n5.Mi Marciana\n6.Camino de Rosas\n7.Se Vende\n8.Como Decir Sin Andar Diciendo\n9.Camino a Casa\n10.Nena\n11.Bailo Con Vos\n12.Me Sumerjo\n13.Para Decirle Adios","torrent":{"xt":"urn:btih:a2a8d6aeeb738f7ed1356981a63012882a0d21c6","amp;dn":"Alejandro+Sanz+2012+%5BMp3%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a2a8d6aeeb738f7ed1356981a63012882a0d21c6","infoHashBuffer":{"type":"Buffer","data":[162,168,214,174,235,115,143,126,209,53,105,129,166,48,18,136,42,13,33,198]},"announce":[],"urlList":[]}}
+{
+  "title": "Alejandro Sanz 2012 [Mp3]",
+  "uid": 7687546,
+  "size": 137817945,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a2a8d6aeeb738f7ed1356981a63012882a0d21c6&amp;dn=Alejandro+Sanz+2012+%5BMp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 131,
+  "leechers": 5,
+  "uploader": "virana",
+  "files": -1,
+  "time": 1349001807,
+  "description": "Formato: MP3\nTamaÃƒÂ±o del Archivo de Descarga: 104.96 MB\nAÃƒÂ±o: 2012\nArtista: Alejandro Sanz\nNombre del Album: La MÃƒÂºsica No Se Toca\n\nTracklist:\n\n1.La Musica No Se Toca\n2.Yo Te Traigo...20 AÃƒÂ±os\n3.No Me Compares\n4.Llamando a la Mujer Accion\n5.Mi Marciana\n6.Camino de Rosas\n7.Se Vende\n8.Como Decir Sin Andar Diciendo\n9.Camino a Casa\n10.Nena\n11.Bailo Con Vos\n12.Me Sumerjo\n13.Para Decirle Adios",
+  "parsed": {
+    "xt": "urn:btih:a2a8d6aeeb738f7ed1356981a63012882a0d21c6",
+    "dn": "Alejandro Sanz 2012 [Mp3]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a2a8d6aeeb738f7ed1356981a63012882a0d21c6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        162,
+        168,
+        214,
+        174,
+        235,
+        115,
+        143,
+        126,
+        209,
+        53,
+        105,
+        129,
+        166,
+        48,
+        18,
+        136,
+        42,
+        13,
+        33,
+        198
+      ]
+    },
+    "name": "Alejandro Sanz 2012 [Mp3]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 136,
+  "peers": 13,
+  "last_updated": "2016-12-25T09:46:05.388Z"
+}

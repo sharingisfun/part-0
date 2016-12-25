@@ -1,1 +1,61 @@
-{"title":"Lana Del Rey-Discography","uid":6799458,"size":481255798,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a249f5df2f0f06e8eda9dc46b6d7e541e10d6a40&amp;dn=Lana+Del+Rey-Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":9,"uploader":"Phntzm79","files":100,"time":1320598773,"description":"Discography first album, singles and music videos.","torrent":{"xt":"urn:btih:a249f5df2f0f06e8eda9dc46b6d7e541e10d6a40","amp;dn":"Lana+Del+Rey-Discography","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a249f5df2f0f06e8eda9dc46b6d7e541e10d6a40","infoHashBuffer":{"type":"Buffer","data":[162,73,245,223,47,15,6,232,237,169,220,70,182,215,229,65,225,13,106,64]},"announce":[],"urlList":[]}}
+{
+  "title": "Lana Del Rey-Discography",
+  "uid": 6799458,
+  "size": 481255798,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a249f5df2f0f06e8eda9dc46b6d7e541e10d6a40&amp;dn=Lana+Del+Rey-Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 9,
+  "uploader": "Phntzm79",
+  "files": 100,
+  "time": 1320598773,
+  "description": "Discography first album, singles and music videos.",
+  "parsed": {
+    "xt": "urn:btih:a249f5df2f0f06e8eda9dc46b6d7e541e10d6a40",
+    "dn": "Lana Del Rey-Discography",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a249f5df2f0f06e8eda9dc46b6d7e541e10d6a40",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        162,
+        73,
+        245,
+        223,
+        47,
+        15,
+        6,
+        232,
+        237,
+        169,
+        220,
+        70,
+        182,
+        215,
+        229,
+        65,
+        225,
+        13,
+        106,
+        64
+      ]
+    },
+    "name": "Lana Del Rey-Discography",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 32,
+  "last_updated": "2016-12-25T09:43:46.980Z"
+}

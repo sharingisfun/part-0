@@ -1,1 +1,61 @@
-{"title":"Game of Thrones S05E02 720p HDTV Dual Audio","uid":11826278,"size":1352057962,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:a388b1da16d1e713382491270613c6c8222f6d08&amp;dn=Game+of+Thrones+S05E02+720p+HDTV+Dual+Audio&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":84,"leechers":11,"uploader":"jefffalcao","files":5,"time":1429507927,"description":"Game of Thrones S05E02 720p HDTV Dual Audio","torrent":{"xt":"urn:btih:a388b1da16d1e713382491270613c6c8222f6d08","amp;dn":"Game+of+Thrones+S05E02+720p+HDTV+Dual+Audio","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a388b1da16d1e713382491270613c6c8222f6d08","infoHashBuffer":{"type":"Buffer","data":[163,136,177,218,22,209,231,19,56,36,145,39,6,19,198,200,34,47,109,8]},"announce":[],"urlList":[]}}
+{
+  "title": "Game of Thrones S05E02 720p HDTV Dual Audio",
+  "uid": 11826278,
+  "size": 1352057962,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:a388b1da16d1e713382491270613c6c8222f6d08&amp;dn=Game+of+Thrones+S05E02+720p+HDTV+Dual+Audio&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 84,
+  "leechers": 11,
+  "uploader": "jefffalcao",
+  "files": 5,
+  "time": 1429507927,
+  "description": "Game of Thrones S05E02 720p HDTV Dual Audio",
+  "parsed": {
+    "xt": "urn:btih:a388b1da16d1e713382491270613c6c8222f6d08",
+    "dn": "Game of Thrones S05E02 720p HDTV Dual Audio",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a388b1da16d1e713382491270613c6c8222f6d08",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        163,
+        136,
+        177,
+        218,
+        22,
+        209,
+        231,
+        19,
+        56,
+        36,
+        145,
+        39,
+        6,
+        19,
+        198,
+        200,
+        34,
+        47,
+        109,
+        8
+      ]
+    },
+    "name": "Game of Thrones S05E02 720p HDTV Dual Audio",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 95,
+  "peers": 25,
+  "last_updated": "2016-12-25T09:52:26.787Z"
+}

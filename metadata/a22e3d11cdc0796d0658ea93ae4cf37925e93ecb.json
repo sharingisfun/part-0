@@ -1,1 +1,61 @@
-{"title":"VTC - HTML5  CSS3 Responsive Web Design Course","uid":8861698,"size":1112973272,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:a22e3d11cdc0796d0658ea93ae4cf37925e93ecb&amp;dn=VTC+-+HTML5++CSS3+Responsive+Web+Design+Course&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":7,"uploader":"sigor10","files":120,"time":1377790812,"description":"Leap into the world of adaptive web design with HTML5 &amp; CSS3 Responsive Web Design! With Geoff Blake as your guide, you'll learn how to build wireframe responsive designs in Adobe Illustrator, apply design and graphics to them in Photoshop, and then rebuild the designs in code. Discover the power of CSS3's media queries to target various devices and resolutions, including mobile, tablet, and desktop browsers. Learn how to extract Photoshop content for use in your designs, insert it with modern HTML5, and control it with a variety of CSS3 techniques. By the end of this VTC course, you'll have three beautiful designs, each one displaying automatically depending on the device being used to view it.","torrent":{"xt":"urn:btih:a22e3d11cdc0796d0658ea93ae4cf37925e93ecb","amp;dn":"VTC+-+HTML5++CSS3+Responsive+Web+Design+Course","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a22e3d11cdc0796d0658ea93ae4cf37925e93ecb","infoHashBuffer":{"type":"Buffer","data":[162,46,61,17,205,192,121,109,6,88,234,147,174,76,243,121,37,233,62,203]},"announce":[],"urlList":[]}}
+{
+  "title": "VTC - HTML5  CSS3 Responsive Web Design Course",
+  "uid": 8861698,
+  "size": 1112973272,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:a22e3d11cdc0796d0658ea93ae4cf37925e93ecb&amp;dn=VTC+-+HTML5++CSS3+Responsive+Web+Design+Course&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 7,
+  "uploader": "sigor10",
+  "files": 120,
+  "time": 1377790812,
+  "description": "Leap into the world of adaptive web design with HTML5 &amp; CSS3 Responsive Web Design! With Geoff Blake as your guide, you'll learn how to build wireframe responsive designs in Adobe Illustrator, apply design and graphics to them in Photoshop, and then rebuild the designs in code. Discover the power of CSS3's media queries to target various devices and resolutions, including mobile, tablet, and desktop browsers. Learn how to extract Photoshop content for use in your designs, insert it with modern HTML5, and control it with a variety of CSS3 techniques. By the end of this VTC course, you'll have three beautiful designs, each one displaying automatically depending on the device being used to view it.",
+  "parsed": {
+    "xt": "urn:btih:a22e3d11cdc0796d0658ea93ae4cf37925e93ecb",
+    "dn": "VTC - HTML5  CSS3 Responsive Web Design Course",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a22e3d11cdc0796d0658ea93ae4cf37925e93ecb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        162,
+        46,
+        61,
+        17,
+        205,
+        192,
+        121,
+        109,
+        6,
+        88,
+        234,
+        147,
+        174,
+        76,
+        243,
+        121,
+        37,
+        233,
+        62,
+        203
+      ]
+    },
+    "name": "VTC - HTML5  CSS3 Responsive Web Design Course",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 8,
+  "last_updated": "2016-12-25T09:43:18.887Z"
+}

@@ -1,1 +1,61 @@
-{"title":"The Weeknd - House of Balloons","uid":11228710,"size":104359520,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a40258451e88da5f9a2c209bbf80672f66f18de2&amp;dn=The+Weeknd+-+House+of+Balloons&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":120,"leechers":30,"uploader":null,"files":9,"time":1413490092,"description":"The Weeknd - House of Balloons","torrent":{"xt":"urn:btih:a40258451e88da5f9a2c209bbf80672f66f18de2","amp;dn":"The+Weeknd+-+House+of+Balloons","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a40258451e88da5f9a2c209bbf80672f66f18de2","infoHashBuffer":{"type":"Buffer","data":[164,2,88,69,30,136,218,95,154,44,32,155,191,128,103,47,102,241,141,226]},"announce":[],"urlList":[]}}
+{
+  "title": "The Weeknd - House of Balloons",
+  "uid": 11228710,
+  "size": 104359520,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a40258451e88da5f9a2c209bbf80672f66f18de2&amp;dn=The+Weeknd+-+House+of+Balloons&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 120,
+  "leechers": 30,
+  "uploader": null,
+  "files": 9,
+  "time": 1413490092,
+  "description": "The Weeknd - House of Balloons",
+  "parsed": {
+    "xt": "urn:btih:a40258451e88da5f9a2c209bbf80672f66f18de2",
+    "dn": "The Weeknd - House of Balloons",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a40258451e88da5f9a2c209bbf80672f66f18de2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        164,
+        2,
+        88,
+        69,
+        30,
+        136,
+        218,
+        95,
+        154,
+        44,
+        32,
+        155,
+        191,
+        128,
+        103,
+        47,
+        102,
+        241,
+        141,
+        226
+      ]
+    },
+    "name": "The Weeknd - House of Balloons",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 150,
+  "peers": 0,
+  "last_updated": "2016-12-25T09:55:23.489Z"
+}

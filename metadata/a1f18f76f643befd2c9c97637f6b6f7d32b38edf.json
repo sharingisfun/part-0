@@ -1,1 +1,61 @@
-{"title":"SOJA - Strength to Survive (2012)","uid":7007259,"size":169194133,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a1f18f76f643befd2c9c97637f6b6f7d32b38edf&amp;dn=SOJA+-+Strength+to+Survive+%282012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":1,"uploader":"victorpaiao","files":18,"time":1328313718,"description":"SOJA - Strength to Survive\n\n1. Mentality\n2. Strength To Survive\n3. Everything Changes\n4. DonÃƒÂ¢","torrent":{"xt":"urn:btih:a1f18f76f643befd2c9c97637f6b6f7d32b38edf","amp;dn":"SOJA+-+Strength+to+Survive+%282012%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a1f18f76f643befd2c9c97637f6b6f7d32b38edf","infoHashBuffer":{"type":"Buffer","data":[161,241,143,118,246,67,190,253,44,156,151,99,127,107,111,125,50,179,142,223]},"announce":[],"urlList":[]}}
+{
+  "title": "SOJA - Strength to Survive (2012)",
+  "uid": 7007259,
+  "size": 169194133,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a1f18f76f643befd2c9c97637f6b6f7d32b38edf&amp;dn=SOJA+-+Strength+to+Survive+%282012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 1,
+  "uploader": "victorpaiao",
+  "files": 18,
+  "time": 1328313718,
+  "description": "SOJA - Strength to Survive\n\n1. Mentality\n2. Strength To Survive\n3. Everything Changes\n4. DonÃƒÂ¢",
+  "parsed": {
+    "xt": "urn:btih:a1f18f76f643befd2c9c97637f6b6f7d32b38edf",
+    "dn": "SOJA - Strength to Survive (2012)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a1f18f76f643befd2c9c97637f6b6f7d32b38edf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        161,
+        241,
+        143,
+        118,
+        246,
+        67,
+        190,
+        253,
+        44,
+        156,
+        151,
+        99,
+        127,
+        107,
+        111,
+        125,
+        50,
+        179,
+        142,
+        223
+      ]
+    },
+    "name": "SOJA - Strength to Survive (2012)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 63,
+  "peers": 0,
+  "last_updated": "2016-12-25T09:41:32.570Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Visual Basic 6.0 Enterprise Edition[A4]","uid":7043427,"size":646739968,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:a465c471a2684778a6c752bb9b90a36b9b2bbbf3&amp;dn=Visual+Basic+6.0+Enterprise+Edition%5BA4%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":131,"leechers":2,"uploader":"AUDI-A4","files":1,"time":1329641105,"description":"serial key included","torrent":{"xt":"urn:btih:a465c471a2684778a6c752bb9b90a36b9b2bbbf3","amp;dn":"Visual+Basic+6.0+Enterprise+Edition%5BA4%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a465c471a2684778a6c752bb9b90a36b9b2bbbf3","infoHashBuffer":{"type":"Buffer","data":[164,101,196,113,162,104,71,120,166,199,82,187,155,144,163,107,155,43,187,243]},"announce":[],"urlList":[]}}
+{
+  "title": "Visual Basic 6.0 Enterprise Edition[A4]",
+  "uid": 7043427,
+  "size": 646739968,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:a465c471a2684778a6c752bb9b90a36b9b2bbbf3&amp;dn=Visual+Basic+6.0+Enterprise+Edition%5BA4%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 131,
+  "leechers": 2,
+  "uploader": "AUDI-A4",
+  "files": 1,
+  "time": 1329641105,
+  "description": "serial key included",
+  "parsed": {
+    "xt": "urn:btih:a465c471a2684778a6c752bb9b90a36b9b2bbbf3",
+    "dn": "Visual Basic 6.0 Enterprise Edition[A4]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a465c471a2684778a6c752bb9b90a36b9b2bbbf3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        164,
+        101,
+        196,
+        113,
+        162,
+        104,
+        71,
+        120,
+        166,
+        199,
+        82,
+        187,
+        155,
+        144,
+        163,
+        107,
+        155,
+        43,
+        187,
+        243
+      ]
+    },
+    "name": "Visual Basic 6.0 Enterprise Edition[A4]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 133,
+  "peers": 104,
+  "last_updated": "2016-12-25T09:58:02.022Z"
+}

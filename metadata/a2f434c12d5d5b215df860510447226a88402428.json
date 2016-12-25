@@ -1,1 +1,61 @@
-{"title":"The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x2","uid":11706700,"size":833415701,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:a2f434c12d5d5b215df860510447226a88402428&amp;dn=The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":77,"leechers":3,"uploader":"FiNEHD","files":3,"time":1424162288,"description":"The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x264-BATV","torrent":{"xt":"urn:btih:a2f434c12d5d5b215df860510447226a88402428","amp;dn":"The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a2f434c12d5d5b215df860510447226a88402428","infoHashBuffer":{"type":"Buffer","data":[162,244,52,193,45,93,91,33,93,248,96,81,4,71,34,106,136,64,36,40]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x2",
+  "uid": 11706700,
+  "size": 833415701,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:a2f434c12d5d5b215df860510447226a88402428&amp;dn=The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 77,
+  "leechers": 3,
+  "uploader": "FiNEHD",
+  "files": 3,
+  "time": 1424162288,
+  "description": "The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x264-BATV",
+  "parsed": {
+    "xt": "urn:btih:a2f434c12d5d5b215df860510447226a88402428",
+    "dn": "The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a2f434c12d5d5b215df860510447226a88402428",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        162,
+        244,
+        52,
+        193,
+        45,
+        93,
+        91,
+        33,
+        93,
+        248,
+        96,
+        81,
+        4,
+        71,
+        34,
+        106,
+        136,
+        64,
+        36,
+        40
+      ]
+    },
+    "name": "The.Jinx-The.Life.and.Deaths.of.Robert.Durst.Part.1.720p.HDTV.x2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 80,
+  "peers": 147,
+  "last_updated": "2016-12-25T09:48:19.897Z"
+}

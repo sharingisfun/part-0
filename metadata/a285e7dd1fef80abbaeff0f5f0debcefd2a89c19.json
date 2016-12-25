@@ -1,1 +1,61 @@
-{"title":"Mavis Beacon Teaches Typing Platinum 20","uid":4240417,"size":102413165,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:a285e7dd1fef80abbaeff0f5f0debcefd2a89c19&amp;dn=Mavis+Beacon+Teaches+Typing+Platinum+20&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":80,"leechers":3,"uploader":"jathan164","files":9,"time":1213507091,"description":"Mavis Beacon Teaches Typing Platinum 20\n\n\n\n\nSimply Download and play.","torrent":{"xt":"urn:btih:a285e7dd1fef80abbaeff0f5f0debcefd2a89c19","amp;dn":"Mavis+Beacon+Teaches+Typing+Platinum+20","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a285e7dd1fef80abbaeff0f5f0debcefd2a89c19","infoHashBuffer":{"type":"Buffer","data":[162,133,231,221,31,239,128,171,186,239,240,245,240,222,188,239,210,168,156,25]},"announce":[],"urlList":[]}}
+{
+  "title": "Mavis Beacon Teaches Typing Platinum 20",
+  "uid": 4240417,
+  "size": 102413165,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:a285e7dd1fef80abbaeff0f5f0debcefd2a89c19&amp;dn=Mavis+Beacon+Teaches+Typing+Platinum+20&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 80,
+  "leechers": 3,
+  "uploader": "jathan164",
+  "files": 9,
+  "time": 1213507091,
+  "description": "Mavis Beacon Teaches Typing Platinum 20\n\n\n\n\nSimply Download and play.",
+  "parsed": {
+    "xt": "urn:btih:a285e7dd1fef80abbaeff0f5f0debcefd2a89c19",
+    "dn": "Mavis Beacon Teaches Typing Platinum 20",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a285e7dd1fef80abbaeff0f5f0debcefd2a89c19",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        162,
+        133,
+        231,
+        221,
+        31,
+        239,
+        128,
+        171,
+        186,
+        239,
+        240,
+        245,
+        240,
+        222,
+        188,
+        239,
+        210,
+        168,
+        156,
+        25
+      ]
+    },
+    "name": "Mavis Beacon Teaches Typing Platinum 20",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 40,
+  "last_updated": "2016-12-25T09:45:19.245Z"
+}

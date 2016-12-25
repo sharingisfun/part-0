@@ -1,1 +1,61 @@
-{"title":"Serious Sam - The First Encounter","uid":3507579,"size":633403087,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:a3be3f8194383e3f3bafae9475812ad9b3d8edbc&amp;dn=Serious+Sam+-+The+First+Encounter&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":65,"leechers":3,"uploader":"WinstonSmith6079","files":2,"time":1153991325,"description":"This a CD image (in .BIN &amp; .CUE) of Serious Sam: The First Encounter.  Created from an original CD-ROM from the Serious Sam Gold Edition collection (of which this is 1 of 2 CDs).  Needs the latest update patch (v1.05) which can be d/led from here: &lt;a href=&quot;\nhttp://files.seriouszone.com/download.php?fileid=277&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://files.seriouszone.com/download.php?fileid=277&lt;/a&gt;","torrent":{"xt":"urn:btih:a3be3f8194383e3f3bafae9475812ad9b3d8edbc","amp;dn":"Serious+Sam+-+The+First+Encounter","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a3be3f8194383e3f3bafae9475812ad9b3d8edbc","infoHashBuffer":{"type":"Buffer","data":[163,190,63,129,148,56,62,63,59,175,174,148,117,129,42,217,179,216,237,188]},"announce":[],"urlList":[]}}
+{
+  "title": "Serious Sam - The First Encounter",
+  "uid": 3507579,
+  "size": 633403087,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:a3be3f8194383e3f3bafae9475812ad9b3d8edbc&amp;dn=Serious+Sam+-+The+First+Encounter&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 65,
+  "leechers": 3,
+  "uploader": "WinstonSmith6079",
+  "files": 2,
+  "time": 1153991325,
+  "description": "This a CD image (in .BIN &amp; .CUE) of Serious Sam: The First Encounter.  Created from an original CD-ROM from the Serious Sam Gold Edition collection (of which this is 1 of 2 CDs).  Needs the latest update patch (v1.05) which can be d/led from here: &lt;a href=&quot;\nhttp://files.seriouszone.com/download.php?fileid=277&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://files.seriouszone.com/download.php?fileid=277&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:a3be3f8194383e3f3bafae9475812ad9b3d8edbc",
+    "dn": "Serious Sam - The First Encounter",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a3be3f8194383e3f3bafae9475812ad9b3d8edbc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        163,
+        190,
+        63,
+        129,
+        148,
+        56,
+        62,
+        63,
+        59,
+        175,
+        174,
+        148,
+        117,
+        129,
+        42,
+        217,
+        179,
+        216,
+        237,
+        188
+      ]
+    },
+    "name": "Serious Sam - The First Encounter",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 21,
+  "last_updated": "2016-12-25T09:53:43.120Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Avast! Antivirus Pro Internet Security Premier 2015","uid":16016225,"size":75353726,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:a2738d1d2f2acdb46469b3a1ab71ee7af9340e2f&amp;dn=Avast%21+Antivirus+Pro+Internet+Security+Premier+2015&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":160,"leechers":29,"uploader":"iKnickKnockf","files":10,"time":1476292616,"description":"Our most advanced security suite adds military-grade data shredding and automatic software updates in addition to antivirus, firewall, and Home Network Security. avast! is only the most trusted name in antivirus, actively protecting more than 200 million PCs, Macs and Androids. \r\n\r\nFeatures :\r\n\r\nAutomatic software updates\r\nHackers love to exploit old software","torrent":{"xt":"urn:btih:a2738d1d2f2acdb46469b3a1ab71ee7af9340e2f","amp;dn":"Avast%21+Antivirus+Pro+Internet+Security+Premier+2015","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a2738d1d2f2acdb46469b3a1ab71ee7af9340e2f","infoHashBuffer":{"type":"Buffer","data":[162,115,141,29,47,42,205,180,100,105,179,161,171,113,238,122,249,52,14,47]},"announce":[],"urlList":[]}}
+{
+  "title": "Avast! Antivirus Pro Internet Security Premier 2015",
+  "uid": 16016225,
+  "size": 75353726,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:a2738d1d2f2acdb46469b3a1ab71ee7af9340e2f&amp;dn=Avast%21+Antivirus+Pro+Internet+Security+Premier+2015&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 160,
+  "leechers": 29,
+  "uploader": "iKnickKnockf",
+  "files": 10,
+  "time": 1476292616,
+  "description": "Our most advanced security suite adds military-grade data shredding and automatic software updates in addition to antivirus, firewall, and Home Network Security. avast! is only the most trusted name in antivirus, actively protecting more than 200 million PCs, Macs and Androids. \r\n\r\nFeatures :\r\n\r\nAutomatic software updates\r\nHackers love to exploit old software",
+  "parsed": {
+    "xt": "urn:btih:a2738d1d2f2acdb46469b3a1ab71ee7af9340e2f",
+    "dn": "Avast! Antivirus Pro Internet Security Premier 2015",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "a2738d1d2f2acdb46469b3a1ab71ee7af9340e2f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        162,
+        115,
+        141,
+        29,
+        47,
+        42,
+        205,
+        180,
+        100,
+        105,
+        179,
+        161,
+        171,
+        113,
+        238,
+        122,
+        249,
+        52,
+        14,
+        47
+      ]
+    },
+    "name": "Avast! Antivirus Pro Internet Security Premier 2015",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 189,
+  "peers": 2,
+  "last_updated": "2016-12-25T09:44:37.126Z"
+}

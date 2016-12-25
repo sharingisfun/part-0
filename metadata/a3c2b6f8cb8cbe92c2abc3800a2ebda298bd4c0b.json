@@ -1,1 +1,61 @@
-{"title":"Learn Java For Android Development - Jeff Friesen","uid":9972906,"size":8053835,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:a3c2b6f8cb8cbe92c2abc3800a2ebda298bd4c0b&amp;dn=Learn+Java+For+Android+Development+-+Jeff+Friesen&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":6,"uploader":"Mohammad_AT","files":3,"time":1397608588,"description":"Android development is hot, and many programmers are interested in joining the fun. However, because this technology is based on Java, you should first obtain a solid grasp of the Java language and its foundational APIs to improve your chances of succeeding as an Android app developer. After all, you will be busy learning the architecture of an Android app, the various Android-specific APIs, and Android-specific tools. If you do not already know Java fundamentals, you will probably end up with a massive headache from also having to quickly cram those fundamentals into your knowledge base. \n\nLearn Java for Android Development, Second Edition teaches programmers of any skill level the essential Java language and foundational Java API skills that must be learned to improve the programmerÃ¢â‚¬â„¢s chances of succeeding as an Android app developer. Each of the bookÃ¢â‚¬â„¢s 14 chapters provides an exercise section that gives you the opportunity to reinforce your understanding of the chapterÃ¢â‚¬â„¢s material. Answers to the bookÃ¢â‚¬â„¢s more than 500 exercises are provided in an appendix. A second appendix provides a significant game-oriented Java application, which you can convert into an Android app.\n\nOnce you complete this book, you should be ready to dive into beginning Android app development.  Maybe, start that journey with Apress' Beginning Android.\n\nWhat youÃ¢â‚¬â„¢ll learn\n\nThe Java language:  This book provides complete coverage of nearly every pre-Java version 7 language feature (native methods are briefly mentioned but not formally covered). Starting with basic language features (e.g., comments, types, expressions, and statements), you progress to those features related to classes and objects, followed by object-oriented features related to inheritance, polymorphism, and interfaces. You then explore the advanced language features for nested types, packages, static imports, exceptions, assertions, annotations, generics, and enums. Continuing, you investigate strictfp, synchronized, volatile, the enhanced for loop statement, autoboxing/unboxing, and transient fields.\nJava APIs:  In addition to Object and APIs related to exceptions, you explore Math, StrictMath, BigDecimal, BigInteger, String, StringBuffer/StringBuilder, Boolean, Character, Byte, Short, Integer, Long, Float, Double, Number, the Threads API, System, Runtime, Process, the Collections Framework, the Concurrency Utilities, Date, Formatter, Random, Scanner, the ZIP and JAR APIs, File, RandomAccessFile, stream classes, and writer/reader classes, InetAddress, SocketOptions, Socket, ServerSocket, DatagramSocket, MulticastSocket, URL, URLConnection, URLEncoder, URLDecoder, NetWorkInterface, InterfaceAddress, CookieHandler, CookieManager, CookieStore, CookiePolicy, Buffer, ByteBuffer, CharBuffer, DoubleBuffer,FloatBuffer, IntBuffer, LongBuffer, ShortBuffer, MappedByteBuffer, Channel, WritableByteChannel, ReadableByteChannel,ScatteringByteChannel, GatheringByteChannel, FileChannel, the Regular Expressions API, JDBC, and more.\nApplying these:  You will learn how to use the JDKÃ¢â‚¬â„¢s javac (compiler), java (application launcher), javadoc (Java documentation generator), and jar (Java archive creator, updater, and extractor) tools. You will also receive an introduction to the Eclipse integrated development environment, which is the official standard for developing Android apps.\nWho this book is for\n\nThis book is for any programmer - including existing Java programmers and Objective-C-based iPhone and iPad programmers - of any skill level who needs to obtain a solid understanding of the Java language and foundational Java APIs before jumping into Android app development.","torrent":{"xt":"urn:btih:a3c2b6f8cb8cbe92c2abc3800a2ebda298bd4c0b","amp;dn":"Learn+Java+For+Android+Development+-+Jeff+Friesen","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a3c2b6f8cb8cbe92c2abc3800a2ebda298bd4c0b","infoHashBuffer":{"type":"Buffer","data":[163,194,182,248,203,140,190,146,194,171,195,128,10,46,189,162,152,189,76,11]},"announce":[],"urlList":[]}}
+{
+  "title": "Learn Java For Android Development - Jeff Friesen",
+  "uid": 9972906,
+  "size": 8053835,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:a3c2b6f8cb8cbe92c2abc3800a2ebda298bd4c0b&amp;dn=Learn+Java+For+Android+Development+-+Jeff+Friesen&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 6,
+  "uploader": "Mohammad_AT",
+  "files": 3,
+  "time": 1397608588,
+  "description": "Android development is hot, and many programmers are interested in joining the fun. However, because this technology is based on Java, you should first obtain a solid grasp of the Java language and its foundational APIs to improve your chances of succeeding as an Android app developer. After all, you will be busy learning the architecture of an Android app, the various Android-specific APIs, and Android-specific tools. If you do not already know Java fundamentals, you will probably end up with a massive headache from also having to quickly cram those fundamentals into your knowledge base. \n\nLearn Java for Android Development, Second Edition teaches programmers of any skill level the essential Java language and foundational Java API skills that must be learned to improve the programmerÃ¢â‚¬â„¢s chances of succeeding as an Android app developer. Each of the bookÃ¢â‚¬â„¢s 14 chapters provides an exercise section that gives you the opportunity to reinforce your understanding of the chapterÃ¢â‚¬â„¢s material. Answers to the bookÃ¢â‚¬â„¢s more than 500 exercises are provided in an appendix. A second appendix provides a significant game-oriented Java application, which you can convert into an Android app.\n\nOnce you complete this book, you should be ready to dive into beginning Android app development.  Maybe, start that journey with Apress' Beginning Android.\n\nWhat youÃ¢â‚¬â„¢ll learn\n\nThe Java language:  This book provides complete coverage of nearly every pre-Java version 7 language feature (native methods are briefly mentioned but not formally covered). Starting with basic language features (e.g., comments, types, expressions, and statements), you progress to those features related to classes and objects, followed by object-oriented features related to inheritance, polymorphism, and interfaces. You then explore the advanced language features for nested types, packages, static imports, exceptions, assertions, annotations, generics, and enums. Continuing, you investigate strictfp, synchronized, volatile, the enhanced for loop statement, autoboxing/unboxing, and transient fields.\nJava APIs:  In addition to Object and APIs related to exceptions, you explore Math, StrictMath, BigDecimal, BigInteger, String, StringBuffer/StringBuilder, Boolean, Character, Byte, Short, Integer, Long, Float, Double, Number, the Threads API, System, Runtime, Process, the Collections Framework, the Concurrency Utilities, Date, Formatter, Random, Scanner, the ZIP and JAR APIs, File, RandomAccessFile, stream classes, and writer/reader classes, InetAddress, SocketOptions, Socket, ServerSocket, DatagramSocket, MulticastSocket, URL, URLConnection, URLEncoder, URLDecoder, NetWorkInterface, InterfaceAddress, CookieHandler, CookieManager, CookieStore, CookiePolicy, Buffer, ByteBuffer, CharBuffer, DoubleBuffer,FloatBuffer, IntBuffer, LongBuffer, ShortBuffer, MappedByteBuffer, Channel, WritableByteChannel, ReadableByteChannel,ScatteringByteChannel, GatheringByteChannel, FileChannel, the Regular Expressions API, JDBC, and more.\nApplying these:  You will learn how to use the JDKÃ¢â‚¬â„¢s javac (compiler), java (application launcher), javadoc (Java documentation generator), and jar (Java archive creator, updater, and extractor) tools. You will also receive an introduction to the Eclipse integrated development environment, which is the official standard for developing Android apps.\nWho this book is for\n\nThis book is for any programmer - including existing Java programmers and Objective-C-based iPhone and iPad programmers - of any skill level who needs to obtain a solid understanding of the Java language and foundational Java APIs before jumping into Android app development.",
+  "parsed": {
+    "xt": "urn:btih:a3c2b6f8cb8cbe92c2abc3800a2ebda298bd4c0b",
+    "dn": "Learn Java For Android Development - Jeff Friesen",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a3c2b6f8cb8cbe92c2abc3800a2ebda298bd4c0b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        163,
+        194,
+        182,
+        248,
+        203,
+        140,
+        190,
+        146,
+        194,
+        171,
+        195,
+        128,
+        10,
+        46,
+        189,
+        162,
+        152,
+        189,
+        76,
+        11
+      ]
+    },
+    "name": "Learn Java For Android Development - Jeff Friesen",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 6,
+  "last_updated": "2016-12-25T09:53:51.152Z"
+}

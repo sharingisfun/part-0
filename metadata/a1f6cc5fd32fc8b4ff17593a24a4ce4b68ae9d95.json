@@ -1,1 +1,63 @@
-{"title":"Moby Music From Porcelain [2CD] 2016","uid":15788681,"size":339379843,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a1f6cc5fd32fc8b4ff17593a24a4ce4b68ae9d95&amp;dn=Moby+Music+From+Porcelain+%5B2CD%5D+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":120,"leechers":3,"uploader":"Capajebo","files":29,"time":1473361758,"description":"http://anony.ws/image/NfF6 ::: 320 Moby Music From Porcelain [2CD] 2016 ::: TPBAY","torrent":{"xt":"urn:btih:a1f6cc5fd32fc8b4ff17593a24a4ce4b68ae9d95","amp;dn":"Moby+Music+From+Porcelain+%5B2CD%5D+2016","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a1f6cc5fd32fc8b4ff17593a24a4ce4b68ae9d95","infoHashBuffer":{"type":"Buffer","data":[161,246,204,95,211,47,200,180,255,23,89,58,36,164,206,75,104,174,157,149]},"announce":[],"urlList":[]}}
+{
+  "title": "Moby Music From Porcelain [2CD] 2016",
+  "uid": 15788681,
+  "size": 339379843,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a1f6cc5fd32fc8b4ff17593a24a4ce4b68ae9d95&amp;dn=Moby+Music+From+Porcelain+%5B2CD%5D+2016&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 120,
+  "leechers": 3,
+  "uploader": "Capajebo",
+  "files": 29,
+  "time": 1473361758,
+  "description": "http://anony.ws/image/NfF6 ::: 320 Moby Music From Porcelain [2CD] 2016 ::: TPBAY",
+  "parsed": {
+    "xt": "urn:btih:a1f6cc5fd32fc8b4ff17593a24a4ce4b68ae9d95",
+    "dn": "Moby Music From Porcelain [2CD] 2016",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "a1f6cc5fd32fc8b4ff17593a24a4ce4b68ae9d95",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        161,
+        246,
+        204,
+        95,
+        211,
+        47,
+        200,
+        180,
+        255,
+        23,
+        89,
+        58,
+        36,
+        164,
+        206,
+        75,
+        104,
+        174,
+        157,
+        149
+      ]
+    },
+    "name": "Moby Music From Porcelain [2CD] 2016",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 123,
+  "peers": 100,
+  "last_updated": "2016-12-25T09:41:38.592Z"
+}

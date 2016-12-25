@@ -1,1 +1,61 @@
-{"title":"JAMES VINCENT McMORROW Early In The Morning","uid":6283512,"size":43639454,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a38851e1862c6a7e74d27d9fde94348ea559e25e&amp;dn=JAMES+VINCENT+McMORROW+Early+In+The+Morning&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":0,"uploader":"rjordan21","files":-1,"time":1301529628,"description":"By request for the reds2......\n\nMP3 128kps","torrent":{"xt":"urn:btih:a38851e1862c6a7e74d27d9fde94348ea559e25e","amp;dn":"JAMES+VINCENT+McMORROW+Early+In+The+Morning","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a38851e1862c6a7e74d27d9fde94348ea559e25e","infoHashBuffer":{"type":"Buffer","data":[163,136,81,225,134,44,106,126,116,210,125,159,222,148,52,142,165,89,226,94]},"announce":[],"urlList":[]}}
+{
+  "title": "JAMES VINCENT McMORROW Early In The Morning",
+  "uid": 6283512,
+  "size": 43639454,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a38851e1862c6a7e74d27d9fde94348ea559e25e&amp;dn=JAMES+VINCENT+McMORROW+Early+In+The+Morning&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 0,
+  "uploader": "rjordan21",
+  "files": -1,
+  "time": 1301529628,
+  "description": "By request for the reds2......\n\nMP3 128kps",
+  "parsed": {
+    "xt": "urn:btih:a38851e1862c6a7e74d27d9fde94348ea559e25e",
+    "dn": "JAMES VINCENT McMORROW Early In The Morning",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a38851e1862c6a7e74d27d9fde94348ea559e25e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        163,
+        136,
+        81,
+        225,
+        134,
+        44,
+        106,
+        126,
+        116,
+        210,
+        125,
+        159,
+        222,
+        148,
+        52,
+        142,
+        165,
+        89,
+        226,
+        94
+      ]
+    },
+    "name": "JAMES VINCENT McMORROW Early In The Morning",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 10,
+  "last_updated": "2016-12-25T09:52:24.780Z"
+}

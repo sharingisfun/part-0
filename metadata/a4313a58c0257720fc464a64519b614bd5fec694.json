@@ -1,1 +1,61 @@
-{"title":"Katy Perry - Dark Horse (Official) ft. Juicy J.mp3","uid":9979473,"size":3600876,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a4313a58c0257720fc464a64519b614bd5fec694&amp;dn=Katy+Perry+-+Dark+Horse+%28Official%29+ft.+Juicy+J.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":6,"uploader":"lisaleo1","files":1,"time":1397718441,"description":"katy perrys latest single\n\nenjoy :)\n\n[IMG]http://img.rp.vhd.me/4819466_l2.jpg[/IMG]","torrent":{"xt":"urn:btih:a4313a58c0257720fc464a64519b614bd5fec694","amp;dn":"Katy+Perry+-+Dark+Horse+%28Official%29+ft.+Juicy+J.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a4313a58c0257720fc464a64519b614bd5fec694","infoHashBuffer":{"type":"Buffer","data":[164,49,58,88,192,37,119,32,252,70,74,100,81,155,97,75,213,254,198,148]},"announce":[],"urlList":[]}}
+{
+  "title": "Katy Perry - Dark Horse (Official) ft. Juicy J.mp3",
+  "uid": 9979473,
+  "size": 3600876,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a4313a58c0257720fc464a64519b614bd5fec694&amp;dn=Katy+Perry+-+Dark+Horse+%28Official%29+ft.+Juicy+J.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 6,
+  "uploader": "lisaleo1",
+  "files": 1,
+  "time": 1397718441,
+  "description": "katy perrys latest single\n\nenjoy :)\n\n[IMG]http://img.rp.vhd.me/4819466_l2.jpg[/IMG]",
+  "parsed": {
+    "xt": "urn:btih:a4313a58c0257720fc464a64519b614bd5fec694",
+    "dn": "Katy Perry - Dark Horse (Official) ft. Juicy J.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a4313a58c0257720fc464a64519b614bd5fec694",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        164,
+        49,
+        58,
+        88,
+        192,
+        37,
+        119,
+        32,
+        252,
+        70,
+        74,
+        100,
+        81,
+        155,
+        97,
+        75,
+        213,
+        254,
+        198,
+        148
+      ]
+    },
+    "name": "Katy Perry - Dark Horse (Official) ft. Juicy J.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 0,
+  "last_updated": "2016-12-25T09:56:53.824Z"
+}

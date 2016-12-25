@@ -1,1 +1,61 @@
-{"title":"Pretty Little Liars S04E09 HDTV x264-LOL[ettv]","uid":8786730,"size":264340544,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a313685f15c9ef5a1badd31027e764cc9206ae35&amp;dn=Pretty+Little+Liars+S04E09+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":5,"uploader":"ettv","files":2,"time":1375844428,"description":"x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n","torrent":{"xt":"urn:btih:a313685f15c9ef5a1badd31027e764cc9206ae35","amp;dn":"Pretty+Little+Liars+S04E09+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a313685f15c9ef5a1badd31027e764cc9206ae35","infoHashBuffer":{"type":"Buffer","data":[163,19,104,95,21,201,239,90,27,173,211,16,39,231,100,204,146,6,174,53]},"announce":[],"urlList":[]}}
+{
+  "title": "Pretty Little Liars S04E09 HDTV x264-LOL[ettv]",
+  "uid": 8786730,
+  "size": 264340544,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a313685f15c9ef5a1badd31027e764cc9206ae35&amp;dn=Pretty+Little+Liars+S04E09+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1375844428,
+  "description": "x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n",
+  "parsed": {
+    "xt": "urn:btih:a313685f15c9ef5a1badd31027e764cc9206ae35",
+    "dn": "Pretty Little Liars S04E09 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a313685f15c9ef5a1badd31027e764cc9206ae35",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        163,
+        19,
+        104,
+        95,
+        21,
+        201,
+        239,
+        90,
+        27,
+        173,
+        211,
+        16,
+        39,
+        231,
+        100,
+        204,
+        146,
+        6,
+        174,
+        53
+      ]
+    },
+    "name": "Pretty Little Liars S04E09 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 19,
+  "last_updated": "2016-12-25T09:49:16.111Z"
+}

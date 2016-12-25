@@ -1,1 +1,61 @@
-{"title":"Tegan and Sara &amp; The Lonely Island - Everything Is AWESOME!!","uid":9542301,"size":6750307,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a28f104dd9bfcdf05a217e4a7edbe1f5b95e6871&amp;dn=Tegan+and+Sara+%26amp%3B+The+Lonely+Island+-+Everything+Is+AWESOME%21%21&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":0,"uploader":"l3endik","files":-1,"time":1391069835,"description":"320kbps CBR itunesrip \n\nripped by l3endik","torrent":{"xt":"urn:btih:a28f104dd9bfcdf05a217e4a7edbe1f5b95e6871","amp;dn":"Tegan+and+Sara+%26amp%3B+The+Lonely+Island+-+Everything+Is+AWESOME%21%21","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a28f104dd9bfcdf05a217e4a7edbe1f5b95e6871","infoHashBuffer":{"type":"Buffer","data":[162,143,16,77,217,191,205,240,90,33,126,74,126,219,225,245,185,94,104,113]},"announce":[],"urlList":[]}}
+{
+  "title": "Tegan and Sara &amp; The Lonely Island - Everything Is AWESOME!!",
+  "uid": 9542301,
+  "size": 6750307,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a28f104dd9bfcdf05a217e4a7edbe1f5b95e6871&amp;dn=Tegan+and+Sara+%26amp%3B+The+Lonely+Island+-+Everything+Is+AWESOME%21%21&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 0,
+  "uploader": "l3endik",
+  "files": -1,
+  "time": 1391069835,
+  "description": "320kbps CBR itunesrip \n\nripped by l3endik",
+  "parsed": {
+    "xt": "urn:btih:a28f104dd9bfcdf05a217e4a7edbe1f5b95e6871",
+    "dn": "Tegan and Sara &amp; The Lonely Island - Everything Is AWESOME!!",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a28f104dd9bfcdf05a217e4a7edbe1f5b95e6871",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        162,
+        143,
+        16,
+        77,
+        217,
+        191,
+        205,
+        240,
+        90,
+        33,
+        126,
+        74,
+        126,
+        219,
+        225,
+        245,
+        185,
+        94,
+        104,
+        113
+      ]
+    },
+    "name": "Tegan and Sara &amp; The Lonely Island - Everything Is AWESOME!!",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 1,
+  "last_updated": "2016-12-25T09:45:33.288Z"
+}

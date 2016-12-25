@@ -1,1 +1,61 @@
-{"title":"Gorillaz - Discography","uid":11798010,"size":1195955727,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a42a9b1cc5544c71a544b8e744c377c3ee1d00b6&amp;dn=Gorillaz+-+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":12,"uploader":null,"files":119,"time":1428258337,"description":"Gorillaz - Discography","torrent":{"xt":"urn:btih:a42a9b1cc5544c71a544b8e744c377c3ee1d00b6","amp;dn":"Gorillaz+-+Discography","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a42a9b1cc5544c71a544b8e744c377c3ee1d00b6","infoHashBuffer":{"type":"Buffer","data":[164,42,155,28,197,84,76,113,165,68,184,231,68,195,119,195,238,29,0,182]},"announce":[],"urlList":[]}}
+{
+  "title": "Gorillaz - Discography",
+  "uid": 11798010,
+  "size": 1195955727,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a42a9b1cc5544c71a544b8e744c377c3ee1d00b6&amp;dn=Gorillaz+-+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 12,
+  "uploader": null,
+  "files": 119,
+  "time": 1428258337,
+  "description": "Gorillaz - Discography",
+  "parsed": {
+    "xt": "urn:btih:a42a9b1cc5544c71a544b8e744c377c3ee1d00b6",
+    "dn": "Gorillaz - Discography",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a42a9b1cc5544c71a544b8e744c377c3ee1d00b6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        164,
+        42,
+        155,
+        28,
+        197,
+        84,
+        76,
+        113,
+        165,
+        68,
+        184,
+        231,
+        68,
+        195,
+        119,
+        195,
+        238,
+        29,
+        0,
+        182
+      ]
+    },
+    "name": "Gorillaz - Discography",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 50,
+  "last_updated": "2016-12-25T09:56:33.751Z"
+}

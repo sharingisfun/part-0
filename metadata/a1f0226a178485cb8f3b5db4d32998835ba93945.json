@@ -1,1 +1,61 @@
-{"title":"Cristiano Araujo","uid":7347784,"size":98776119,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:a1f0226a178485cb8f3b5db4d32998835ba93945&amp;dn=Cristiano+Araujo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":4,"uploader":null,"files":13,"time":1339488581,"description":"Cristiano Araujo","torrent":{"xt":"urn:btih:a1f0226a178485cb8f3b5db4d32998835ba93945","amp;dn":"Cristiano+Araujo","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a1f0226a178485cb8f3b5db4d32998835ba93945","infoHashBuffer":{"type":"Buffer","data":[161,240,34,106,23,132,133,203,143,59,93,180,211,41,152,131,91,169,57,69]},"announce":[],"urlList":[]}}
+{
+  "title": "Cristiano Araujo",
+  "uid": 7347784,
+  "size": 98776119,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:a1f0226a178485cb8f3b5db4d32998835ba93945&amp;dn=Cristiano+Araujo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 4,
+  "uploader": null,
+  "files": 13,
+  "time": 1339488581,
+  "description": "Cristiano Araujo",
+  "parsed": {
+    "xt": "urn:btih:a1f0226a178485cb8f3b5db4d32998835ba93945",
+    "dn": "Cristiano Araujo",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a1f0226a178485cb8f3b5db4d32998835ba93945",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        161,
+        240,
+        34,
+        106,
+        23,
+        132,
+        133,
+        203,
+        143,
+        59,
+        93,
+        180,
+        211,
+        41,
+        152,
+        131,
+        91,
+        169,
+        57,
+        69
+      ]
+    },
+    "name": "Cristiano Araujo",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 24,
+  "last_updated": "2016-12-25T09:41:30.565Z"
+}

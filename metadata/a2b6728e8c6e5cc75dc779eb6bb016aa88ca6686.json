@@ -1,1 +1,61 @@
-{"title":"Sandman Neil Gaiman complete + special","uid":5706662,"size":593596571,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:a2b6728e8c6e5cc75dc779eb6bb016aa88ca6686&amp;dn=Sandman+Neil+Gaiman+complete+%2B+special&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":5,"uploader":"fuff00","files":76,"time":1279718009,"description":"Sandman Neil Gaiman complete + special","torrent":{"xt":"urn:btih:a2b6728e8c6e5cc75dc779eb6bb016aa88ca6686","amp;dn":"Sandman+Neil+Gaiman+complete+%2B+special","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a2b6728e8c6e5cc75dc779eb6bb016aa88ca6686","infoHashBuffer":{"type":"Buffer","data":[162,182,114,142,140,110,92,199,93,199,121,235,107,176,22,170,136,202,102,134]},"announce":[],"urlList":[]}}
+{
+  "title": "Sandman Neil Gaiman complete + special",
+  "uid": 5706662,
+  "size": 593596571,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:a2b6728e8c6e5cc75dc779eb6bb016aa88ca6686&amp;dn=Sandman+Neil+Gaiman+complete+%2B+special&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 5,
+  "uploader": "fuff00",
+  "files": 76,
+  "time": 1279718009,
+  "description": "Sandman Neil Gaiman complete + special",
+  "parsed": {
+    "xt": "urn:btih:a2b6728e8c6e5cc75dc779eb6bb016aa88ca6686",
+    "dn": "Sandman Neil Gaiman complete   special",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "a2b6728e8c6e5cc75dc779eb6bb016aa88ca6686",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        162,
+        182,
+        114,
+        142,
+        140,
+        110,
+        92,
+        199,
+        93,
+        199,
+        121,
+        235,
+        107,
+        176,
+        22,
+        170,
+        136,
+        202,
+        102,
+        134
+      ]
+    },
+    "name": "Sandman Neil Gaiman complete   special",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 48,
+  "last_updated": "2016-12-25T09:46:31.484Z"
+}

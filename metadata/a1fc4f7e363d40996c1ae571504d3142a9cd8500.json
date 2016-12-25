@@ -1,1 +1,63 @@
-{"title":"Anima Gate of Memories-CODEX","uid":15964262,"size":9995908,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:a1fc4f7e363d40996c1ae571504d3142a9cd8500&amp;dn=Anima+Gate+of+Memories-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":92,"leechers":57,"uploader":"trwetwr","files":4,"time":1475707275,"description":"Good Game","torrent":{"xt":"urn:btih:a1fc4f7e363d40996c1ae571504d3142a9cd8500","amp;dn":"Anima+Gate+of+Memories-CODEX","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a1fc4f7e363d40996c1ae571504d3142a9cd8500","infoHashBuffer":{"type":"Buffer","data":[161,252,79,126,54,61,64,153,108,26,229,113,80,77,49,66,169,205,133,0]},"announce":[],"urlList":[]}}
+{
+  "title": "Anima Gate of Memories-CODEX",
+  "uid": 15964262,
+  "size": 9995908,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:a1fc4f7e363d40996c1ae571504d3142a9cd8500&amp;dn=Anima+Gate+of+Memories-CODEX&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 92,
+  "leechers": 57,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475707275,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:a1fc4f7e363d40996c1ae571504d3142a9cd8500",
+    "dn": "Anima Gate of Memories-CODEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "a1fc4f7e363d40996c1ae571504d3142a9cd8500",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        161,
+        252,
+        79,
+        126,
+        54,
+        61,
+        64,
+        153,
+        108,
+        26,
+        229,
+        113,
+        80,
+        77,
+        49,
+        66,
+        169,
+        205,
+        133,
+        0
+      ]
+    },
+    "name": "Anima Gate of Memories-CODEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 149,
+  "peers": 7,
+  "last_updated": "2016-12-25T09:41:54.644Z"
+}

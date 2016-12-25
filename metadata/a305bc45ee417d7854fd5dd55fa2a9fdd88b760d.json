@@ -1,1 +1,63 @@
-{"title":"Ben-Hur 2016 TeleSync 650 MB - iExTV","uid":15718209,"size":681682196,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:a305bc45ee417d7854fd5dd55fa2a9fdd88b760d&amp;dn=Ben-Hur+2016+TeleSync+650+MB+-+iExTV&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":3,"uploader":"Diiives","files":4,"time":1472646539,"description":"Genre : Action, Adventure, Drama \r\n\r\nQuality : TeleSync AAC X264\r\n\r\nSize: 650 MB Â \r\n\r\nVideo: MP4 | 720*304 | 700 Kbps \r\n\r\nAudio: English | AAC | 80 Kbps \r\n\r\nRuntime: 116 Min \r\n\r\nEncoder: iExTV Team \r\n\r\nSubtitle: Null\r\n\r\nSource : TELESYNC(CPG)","torrent":{"xt":"urn:btih:a305bc45ee417d7854fd5dd55fa2a9fdd88b760d","amp;dn":"Ben-Hur+2016+TeleSync+650+MB+-+iExTV","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a305bc45ee417d7854fd5dd55fa2a9fdd88b760d","infoHashBuffer":{"type":"Buffer","data":[163,5,188,69,238,65,125,120,84,253,93,213,95,162,169,253,216,139,118,13]},"announce":[],"urlList":[]}}
+{
+  "title": "Ben-Hur 2016 TeleSync 650 MB - iExTV",
+  "uid": 15718209,
+  "size": 681682196,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:a305bc45ee417d7854fd5dd55fa2a9fdd88b760d&amp;dn=Ben-Hur+2016+TeleSync+650+MB+-+iExTV&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 3,
+  "uploader": "Diiives",
+  "files": 4,
+  "time": 1472646539,
+  "description": "Genre : Action, Adventure, Drama \r\n\r\nQuality : TeleSync AAC X264\r\n\r\nSize: 650 MB Â \r\n\r\nVideo: MP4 | 720*304 | 700 Kbps \r\n\r\nAudio: English | AAC | 80 Kbps \r\n\r\nRuntime: 116 Min \r\n\r\nEncoder: iExTV Team \r\n\r\nSubtitle: Null\r\n\r\nSource : TELESYNC(CPG)",
+  "parsed": {
+    "xt": "urn:btih:a305bc45ee417d7854fd5dd55fa2a9fdd88b760d",
+    "dn": "Ben-Hur 2016 TeleSync 650 MB - iExTV",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "a305bc45ee417d7854fd5dd55fa2a9fdd88b760d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        163,
+        5,
+        188,
+        69,
+        238,
+        65,
+        125,
+        120,
+        84,
+        253,
+        93,
+        213,
+        95,
+        162,
+        169,
+        253,
+        216,
+        139,
+        118,
+        13
+      ]
+    },
+    "name": "Ben-Hur 2016 TeleSync 650 MB - iExTV",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 40,
+  "last_updated": "2016-12-25T09:48:45.998Z"
+}
