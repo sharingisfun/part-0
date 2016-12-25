@@ -1,1 +1,61 @@
-{"title":"Vikings.S02E01.720p.HDTV.x264-REMARKABLE [PublicHD]","uid":9676478,"size":1419326080,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:c23195f1732b8c5205a0a8187849ba5f0ca61b7a&amp;dn=Vikings.S02E01.720p.HDTV.x264-REMARKABLE+%5BPublicHD%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":3,"uploader":"DibyaTPB","files":2,"time":1393571479,"description":"               PublicHD - High-Definition Bittorrent Community\n\n                          \n\n             ----------------------------------------------------\n\nVikings.S02E01.720p.HDTV.x264-REMARKABLE [PublicHD]\n\nLength..............: 46mn 16s\nVideo...............: H264 @ 4090Kbps (1280x720)\nFPS.................: 23.976 FPS\nAudio...............: AC3","torrent":{"xt":"urn:btih:c23195f1732b8c5205a0a8187849ba5f0ca61b7a","amp;dn":"Vikings.S02E01.720p.HDTV.x264-REMARKABLE+%5BPublicHD%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c23195f1732b8c5205a0a8187849ba5f0ca61b7a","infoHashBuffer":{"type":"Buffer","data":[194,49,149,241,115,43,140,82,5,160,168,24,120,73,186,95,12,166,27,122]},"announce":[],"urlList":[]}}
+{
+  "title": "Vikings.S02E01.720p.HDTV.x264-REMARKABLE [PublicHD]",
+  "uid": 9676478,
+  "size": 1419326080,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:c23195f1732b8c5205a0a8187849ba5f0ca61b7a&amp;dn=Vikings.S02E01.720p.HDTV.x264-REMARKABLE+%5BPublicHD%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 3,
+  "uploader": "DibyaTPB",
+  "files": 2,
+  "time": 1393571479,
+  "description": "               PublicHD - High-Definition Bittorrent Community\n\n                          \n\n             ----------------------------------------------------\n\nVikings.S02E01.720p.HDTV.x264-REMARKABLE [PublicHD]\n\nLength..............: 46mn 16s\nVideo...............: H264 @ 4090Kbps (1280x720)\nFPS.................: 23.976 FPS\nAudio...............: AC3",
+  "parsed": {
+    "xt": "urn:btih:c23195f1732b8c5205a0a8187849ba5f0ca61b7a",
+    "dn": "Vikings.S02E01.720p.HDTV.x264-REMARKABLE [PublicHD]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c23195f1732b8c5205a0a8187849ba5f0ca61b7a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        194,
+        49,
+        149,
+        241,
+        115,
+        43,
+        140,
+        82,
+        5,
+        160,
+        168,
+        24,
+        120,
+        73,
+        186,
+        95,
+        12,
+        166,
+        27,
+        122
+      ]
+    },
+    "name": "Vikings.S02E01.720p.HDTV.x264-REMARKABLE [PublicHD]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 1,
+  "last_updated": "2016-12-25T13:02:28.701Z"
+}

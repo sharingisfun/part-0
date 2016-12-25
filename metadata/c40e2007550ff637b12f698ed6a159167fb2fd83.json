@@ -1,1 +1,61 @@
-{"title":"Fifth Harmony - BO$$ [2014]","uid":10501396,"size":8713955,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:c40e2007550ff637b12f698ed6a159167fb2fd83&amp;dn=Fifth+Harmony+-+BO%24%24+%5B2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":0,"uploader":"mercefoti","files":2,"time":1404704399,"description":"Format : MP3 Audio\nFile size : 7.60 MiB\nDuration : 2mn 51s\nOverall bit rate mode : Constant\nOverall bit rate : 320 Kbps\nAlbum : Bo$$ - Single\nAlbum/Sorted by : Bo$$ - Single\nAlbum/Performer : Fifth Harmony\nPart/Position : 1\nPart/Total : 1\nTrack name : Bo$$\nTrack name/Sorted by : Bo$$\nTrack name/Position : 1\nTrack name/Total : 1\nPerformer : Fifth Harmony\nPerformer/Sorted by : Fifth Harmony / Fifth Harmony\nGenre : R&amp;B/Urban\nRecorded date : 2014\nWriting library : LAME3.98b\nCover : Yes\nCover type : Cover (front)\nCover MIME : image/jpg","torrent":{"xt":"urn:btih:c40e2007550ff637b12f698ed6a159167fb2fd83","amp;dn":"Fifth+Harmony+-+BO%24%24+%5B2014%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c40e2007550ff637b12f698ed6a159167fb2fd83","infoHashBuffer":{"type":"Buffer","data":[196,14,32,7,85,15,246,55,177,47,105,142,214,161,89,22,127,178,253,131]},"announce":[],"urlList":[]}}
+{
+  "title": "Fifth Harmony - BO$$ [2014]",
+  "uid": 10501396,
+  "size": 8713955,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:c40e2007550ff637b12f698ed6a159167fb2fd83&amp;dn=Fifth+Harmony+-+BO%24%24+%5B2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 0,
+  "uploader": "mercefoti",
+  "files": 2,
+  "time": 1404704399,
+  "description": "Format : MP3 Audio\nFile size : 7.60 MiB\nDuration : 2mn 51s\nOverall bit rate mode : Constant\nOverall bit rate : 320 Kbps\nAlbum : Bo$$ - Single\nAlbum/Sorted by : Bo$$ - Single\nAlbum/Performer : Fifth Harmony\nPart/Position : 1\nPart/Total : 1\nTrack name : Bo$$\nTrack name/Sorted by : Bo$$\nTrack name/Position : 1\nTrack name/Total : 1\nPerformer : Fifth Harmony\nPerformer/Sorted by : Fifth Harmony / Fifth Harmony\nGenre : R&amp;B/Urban\nRecorded date : 2014\nWriting library : LAME3.98b\nCover : Yes\nCover type : Cover (front)\nCover MIME : image/jpg",
+  "parsed": {
+    "xt": "urn:btih:c40e2007550ff637b12f698ed6a159167fb2fd83",
+    "dn": "Fifth Harmony - BO$$ [2014]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c40e2007550ff637b12f698ed6a159167fb2fd83",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        196,
+        14,
+        32,
+        7,
+        85,
+        15,
+        246,
+        55,
+        177,
+        47,
+        105,
+        142,
+        214,
+        161,
+        89,
+        22,
+        127,
+        178,
+        253,
+        131
+      ]
+    },
+    "name": "Fifth Harmony - BO$$ [2014]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 43,
+  "last_updated": "2016-12-25T13:15:05.553Z"
+}

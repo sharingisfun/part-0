@@ -1,1 +1,61 @@
-{"title":"AVG Antivirus Free 2015","uid":11011484,"size":4625940,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:c33f68718f3a89f7e1f12a6eb73511e75b0750ff&amp;dn=AVG+Antivirus+Free+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":2,"uploader":null,"files":3,"time":1410366251,"description":"AVG Antivirus Free","torrent":{"xt":"urn:btih:c33f68718f3a89f7e1f12a6eb73511e75b0750ff","amp;dn":"AVG+Antivirus+Free+2015","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c33f68718f3a89f7e1f12a6eb73511e75b0750ff","infoHashBuffer":{"type":"Buffer","data":[195,63,104,113,143,58,137,247,225,241,42,110,183,53,17,231,91,7,80,255]},"announce":[],"urlList":[]}}
+{
+  "title": "AVG Antivirus Free 2015",
+  "uid": 11011484,
+  "size": 4625940,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:c33f68718f3a89f7e1f12a6eb73511e75b0750ff&amp;dn=AVG+Antivirus+Free+2015&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 2,
+  "uploader": null,
+  "files": 3,
+  "time": 1410366251,
+  "description": "AVG Antivirus Free",
+  "parsed": {
+    "xt": "urn:btih:c33f68718f3a89f7e1f12a6eb73511e75b0750ff",
+    "dn": "AVG Antivirus Free 2015",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c33f68718f3a89f7e1f12a6eb73511e75b0750ff",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        195,
+        63,
+        104,
+        113,
+        143,
+        58,
+        137,
+        247,
+        225,
+        241,
+        42,
+        110,
+        183,
+        53,
+        17,
+        231,
+        91,
+        7,
+        80,
+        255
+      ]
+    },
+    "name": "AVG Antivirus Free 2015",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 57,
+  "last_updated": "2016-12-25T13:09:18.255Z"
+}

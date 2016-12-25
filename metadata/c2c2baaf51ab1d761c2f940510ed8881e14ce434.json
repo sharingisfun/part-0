@@ -1,1 +1,61 @@
-{"title":"Learning.Python.with.Raspberry.Pi.EPUB","uid":11149928,"size":2408106,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:c2c2baaf51ab1d761c2f940510ed8881e14ce434&amp;dn=Learning.Python.with.Raspberry.Pi.EPUB&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":1,"uploader":"wildturkey00","files":2,"time":1412322336,"description":"Format: EPUB\nGenre: Code/tutorial\nPublished: 2014\n\nBook Description: The must-have companion guide to the Raspberry Pi User Guide!\nRaspberry Pi chose Python as its teaching language of choice to encourage a new generation of programmers to learn how to program. This approachable book serves as an ideal resource for anyone wanting to use Raspberry Pi to learn to program and helps you get started with the Python programming language. Aimed at first-time developers with no prior programming language assumed, this beginner book gets you up and running.\n\nCovers variables, loops, and functions\nAddresses 3D graphics programming\nWalks you through programming Minecraft\nZeroes in on Python for scripting","torrent":{"xt":"urn:btih:c2c2baaf51ab1d761c2f940510ed8881e14ce434","amp;dn":"Learning.Python.with.Raspberry.Pi.EPUB","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c2c2baaf51ab1d761c2f940510ed8881e14ce434","infoHashBuffer":{"type":"Buffer","data":[194,194,186,175,81,171,29,118,28,47,148,5,16,237,136,129,225,76,228,52]},"announce":[],"urlList":[]}}
+{
+  "title": "Learning.Python.with.Raspberry.Pi.EPUB",
+  "uid": 11149928,
+  "size": 2408106,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:c2c2baaf51ab1d761c2f940510ed8881e14ce434&amp;dn=Learning.Python.with.Raspberry.Pi.EPUB&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 1,
+  "uploader": "wildturkey00",
+  "files": 2,
+  "time": 1412322336,
+  "description": "Format: EPUB\nGenre: Code/tutorial\nPublished: 2014\n\nBook Description: The must-have companion guide to the Raspberry Pi User Guide!\nRaspberry Pi chose Python as its teaching language of choice to encourage a new generation of programmers to learn how to program. This approachable book serves as an ideal resource for anyone wanting to use Raspberry Pi to learn to program and helps you get started with the Python programming language. Aimed at first-time developers with no prior programming language assumed, this beginner book gets you up and running.\n\nCovers variables, loops, and functions\nAddresses 3D graphics programming\nWalks you through programming Minecraft\nZeroes in on Python for scripting",
+  "parsed": {
+    "xt": "urn:btih:c2c2baaf51ab1d761c2f940510ed8881e14ce434",
+    "dn": "Learning.Python.with.Raspberry.Pi.EPUB",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c2c2baaf51ab1d761c2f940510ed8881e14ce434",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        194,
+        194,
+        186,
+        175,
+        81,
+        171,
+        29,
+        118,
+        28,
+        47,
+        148,
+        5,
+        16,
+        237,
+        136,
+        129,
+        225,
+        76,
+        228,
+        52
+      ]
+    },
+    "name": "Learning.Python.with.Raspberry.Pi.EPUB",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 11,
+  "last_updated": "2016-12-25T13:06:21.610Z"
+}

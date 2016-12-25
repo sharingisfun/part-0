@@ -1,1 +1,61 @@
-{"title":"Quicken H&amp;B 2014","uid":9240521,"size":193923727,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:c49c80549fdbd88947ecec70ebbf9e27a0f90162&amp;dn=Quicken+H%26amp%3BB+2014&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":0,"uploader":"excalibur63","files":123,"time":1385263805,"description":"Intuit Quicken H&amp;B 2014","torrent":{"xt":"urn:btih:c49c80549fdbd88947ecec70ebbf9e27a0f90162","amp;dn":"Quicken+H%26amp%3BB+2014","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c49c80549fdbd88947ecec70ebbf9e27a0f90162","infoHashBuffer":{"type":"Buffer","data":[196,156,128,84,159,219,216,137,71,236,236,112,235,191,158,39,160,249,1,98]},"announce":[],"urlList":[]}}
+{
+  "title": "Quicken H&amp;B 2014",
+  "uid": 9240521,
+  "size": 193923727,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:c49c80549fdbd88947ecec70ebbf9e27a0f90162&amp;dn=Quicken+H%26amp%3BB+2014&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 0,
+  "uploader": "excalibur63",
+  "files": 123,
+  "time": 1385263805,
+  "description": "Intuit Quicken H&amp;B 2014",
+  "parsed": {
+    "xt": "urn:btih:c49c80549fdbd88947ecec70ebbf9e27a0f90162",
+    "dn": "Quicken H&amp;B 2014",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c49c80549fdbd88947ecec70ebbf9e27a0f90162",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        196,
+        156,
+        128,
+        84,
+        159,
+        219,
+        216,
+        137,
+        71,
+        236,
+        236,
+        112,
+        235,
+        191,
+        158,
+        39,
+        160,
+        249,
+        1,
+        98
+      ]
+    },
+    "name": "Quicken H&amp;B 2014",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 32,
+  "last_updated": "2016-12-25T13:18:16.128Z"
+}

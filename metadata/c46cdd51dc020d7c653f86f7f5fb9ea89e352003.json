@@ -1,1 +1,63 @@
-{"title":"Thirteen.S01E02.HDTV.x264-RiVER[ettv]","uid":13849278,"size":307469425,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:c46cdd51dc020d7c653f86f7f5fb9ea89e352003&amp;dn=Thirteen.S01E02.HDTV.x264-RiVER%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":0,"uploader":"ettv","files":2,"time":1457955162,"description":"ettv - ExtraTorrent TV Shows\r\n\r\n\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n \nhttp://extratorrent.cc/\r\n\r\n\r\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:c46cdd51dc020d7c653f86f7f5fb9ea89e352003","amp;dn":"Thirteen.S01E02.HDTV.x264-RiVER%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c46cdd51dc020d7c653f86f7f5fb9ea89e352003","infoHashBuffer":{"type":"Buffer","data":[196,108,221,81,220,2,13,124,101,63,134,247,245,251,158,168,158,53,32,3]},"announce":[],"urlList":[]}}
+{
+  "title": "Thirteen.S01E02.HDTV.x264-RiVER[ettv]",
+  "uid": 13849278,
+  "size": 307469425,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:c46cdd51dc020d7c653f86f7f5fb9ea89e352003&amp;dn=Thirteen.S01E02.HDTV.x264-RiVER%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 0,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1457955162,
+  "description": "ettv - ExtraTorrent TV Shows\r\n\r\n\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n \nhttp://extratorrent.cc/\r\n\r\n\r\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:c46cdd51dc020d7c653f86f7f5fb9ea89e352003",
+    "dn": "Thirteen.S01E02.HDTV.x264-RiVER[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "c46cdd51dc020d7c653f86f7f5fb9ea89e352003",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        196,
+        108,
+        221,
+        81,
+        220,
+        2,
+        13,
+        124,
+        101,
+        63,
+        134,
+        247,
+        245,
+        251,
+        158,
+        168,
+        158,
+        53,
+        32,
+        3
+      ]
+    },
+    "name": "Thirteen.S01E02.HDTV.x264-RiVER[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 93,
+  "last_updated": "2016-12-25T13:16:57.905Z"
+}

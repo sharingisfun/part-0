@@ -1,1 +1,61 @@
-{"title":"24- Live Another Day (Complete) 720p","uid":10557548,"size":15338765914,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:c34239227140f69c8903ecc675a8f118170b6640&amp;dn=24-+Live+Another+Day+%28Complete%29+720p&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":9,"uploader":"kaizoku69","files":-1,"time":1405418196,"description":"Repack of EZTV's uploads, all in one for those of us who like to just download one torrent. All 12 episodes in 720p resolution, including the short &quot;Jack is Back&quot; feature that aired before the season began.\n\n\nAll credit to EZTV team for uploading these files to begin with! Thank you!","torrent":{"xt":"urn:btih:c34239227140f69c8903ecc675a8f118170b6640","amp;dn":"24-+Live+Another+Day+%28Complete%29+720p","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c34239227140f69c8903ecc675a8f118170b6640","infoHashBuffer":{"type":"Buffer","data":[195,66,57,34,113,64,246,156,137,3,236,198,117,168,241,24,23,11,102,64]},"announce":[],"urlList":[]}}
+{
+  "title": "24- Live Another Day (Complete) 720p",
+  "uid": 10557548,
+  "size": 15338765914,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:c34239227140f69c8903ecc675a8f118170b6640&amp;dn=24-+Live+Another+Day+%28Complete%29+720p&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 9,
+  "uploader": "kaizoku69",
+  "files": -1,
+  "time": 1405418196,
+  "description": "Repack of EZTV's uploads, all in one for those of us who like to just download one torrent. All 12 episodes in 720p resolution, including the short &quot;Jack is Back&quot; feature that aired before the season began.\n\n\nAll credit to EZTV team for uploading these files to begin with! Thank you!",
+  "parsed": {
+    "xt": "urn:btih:c34239227140f69c8903ecc675a8f118170b6640",
+    "dn": "24- Live Another Day (Complete) 720p",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c34239227140f69c8903ecc675a8f118170b6640",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        195,
+        66,
+        57,
+        34,
+        113,
+        64,
+        246,
+        156,
+        137,
+        3,
+        236,
+        198,
+        117,
+        168,
+        241,
+        24,
+        23,
+        11,
+        102,
+        64
+      ]
+    },
+    "name": "24- Live Another Day (Complete) 720p",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 9,
+  "last_updated": "2016-12-25T13:09:26.290Z"
+}

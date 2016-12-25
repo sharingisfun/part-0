@@ -1,1 +1,63 @@
-{"title":"ESET NOD32 Antivirus &amp; Smart Security 10.1.318 (x86x64)","uid":15914583,"size":21476309,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:c22f171d3487baea702c925fbebb76021bc8fdb1&amp;dn=ESET+NOD32+Antivirus+%26amp%3B+Smart+Security+10.1.318+%28x86x64%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":41,"uploader":"gerardpmorris","files":3,"time":1475188028,"description":"very....good","torrent":{"xt":"urn:btih:c22f171d3487baea702c925fbebb76021bc8fdb1","amp;dn":"ESET+NOD32+Antivirus+%26amp%3B+Smart+Security+10.1.318+%28x86x64%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c22f171d3487baea702c925fbebb76021bc8fdb1","infoHashBuffer":{"type":"Buffer","data":[194,47,23,29,52,135,186,234,112,44,146,95,190,187,118,2,27,200,253,177]},"announce":[],"urlList":[]}}
+{
+  "title": "ESET NOD32 Antivirus &amp; Smart Security 10.1.318 (x86x64)",
+  "uid": 15914583,
+  "size": 21476309,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:c22f171d3487baea702c925fbebb76021bc8fdb1&amp;dn=ESET+NOD32+Antivirus+%26amp%3B+Smart+Security+10.1.318+%28x86x64%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 41,
+  "uploader": "gerardpmorris",
+  "files": 3,
+  "time": 1475188028,
+  "description": "very....good",
+  "parsed": {
+    "xt": "urn:btih:c22f171d3487baea702c925fbebb76021bc8fdb1",
+    "dn": "ESET NOD32 Antivirus &amp; Smart Security 10.1.318 (x86x64)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "c22f171d3487baea702c925fbebb76021bc8fdb1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        194,
+        47,
+        23,
+        29,
+        52,
+        135,
+        186,
+        234,
+        112,
+        44,
+        146,
+        95,
+        190,
+        187,
+        118,
+        2,
+        27,
+        200,
+        253,
+        177
+      ]
+    },
+    "name": "ESET NOD32 Antivirus &amp; Smart Security 10.1.318 (x86x64)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 107,
+  "peers": 2,
+  "last_updated": "2016-12-25T13:02:24.688Z"
+}

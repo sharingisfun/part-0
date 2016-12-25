@@ -1,1 +1,61 @@
-{"title":"The Last of Us PS3 DUPLEX","uid":8549775,"size":35645472581,"categoryP":"games","categoryS":"psx","magnet":"?xt=urn:btih:c2de3ec199c1c105b74f98608e02f40c01e1365b&amp;dn=The+Last+of+Us+PS3+DUPLEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":91,"uploader":"dududus","files":108,"time":1370616819,"description":"Date : 06-2013 Languages: Eng Fre Ger Ita Spa ..\nPlatform : PS3 Genre : Action\n\n\nRelease Info:\n~~~~~~~~~~~~~\n\nThe population has been decimated. The United States government has\ncollapsed long ago. Twenty years after the outbreak, abandoned cities\nare slowly reclaimed by nature. Roaming bands of survivors are killing\neach other for food, weapons, or whatever they can get their hands on.","torrent":{"xt":"urn:btih:c2de3ec199c1c105b74f98608e02f40c01e1365b","amp;dn":"The+Last+of+Us+PS3+DUPLEX","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c2de3ec199c1c105b74f98608e02f40c01e1365b","infoHashBuffer":{"type":"Buffer","data":[194,222,62,193,153,193,193,5,183,79,152,96,142,2,244,12,1,225,54,91]},"announce":[],"urlList":[]}}
+{
+  "title": "The Last of Us PS3 DUPLEX",
+  "uid": 8549775,
+  "size": 35645472581,
+  "categoryP": "games",
+  "categoryS": "psx",
+  "magnet": "?xt=urn:btih:c2de3ec199c1c105b74f98608e02f40c01e1365b&amp;dn=The+Last+of+Us+PS3+DUPLEX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 91,
+  "uploader": "dududus",
+  "files": 108,
+  "time": 1370616819,
+  "description": "Date : 06-2013 Languages: Eng Fre Ger Ita Spa ..\nPlatform : PS3 Genre : Action\n\n\nRelease Info:\n~~~~~~~~~~~~~\n\nThe population has been decimated. The United States government has\ncollapsed long ago. Twenty years after the outbreak, abandoned cities\nare slowly reclaimed by nature. Roaming bands of survivors are killing\neach other for food, weapons, or whatever they can get their hands on.",
+  "parsed": {
+    "xt": "urn:btih:c2de3ec199c1c105b74f98608e02f40c01e1365b",
+    "dn": "The Last of Us PS3 DUPLEX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c2de3ec199c1c105b74f98608e02f40c01e1365b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        194,
+        222,
+        62,
+        193,
+        153,
+        193,
+        193,
+        5,
+        183,
+        79,
+        152,
+        96,
+        142,
+        2,
+        244,
+        12,
+        1,
+        225,
+        54,
+        91
+      ]
+    },
+    "name": "The Last of Us PS3 DUPLEX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 137,
+  "peers": 17,
+  "last_updated": "2016-12-25T13:06:55.736Z"
+}

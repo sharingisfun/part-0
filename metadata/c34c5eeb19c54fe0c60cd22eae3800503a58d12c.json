@@ -1,1 +1,61 @@
-{"title":"Blink-182 - Take Off Your Pants And Jacket","uid":3753427,"size":93645895,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:c34c5eeb19c54fe0c60cd22eae3800503a58d12c&amp;dn=Blink-182+-+Take+Off+Your+Pants+And+Jacket&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":1,"uploader":"ivisitpublix","files":14,"time":1185464377,"description":"Blink-182 - Take Off Your Pants and Jacket [2001]\n\nMP3 - 320kbps\n\nMP3 Encoder v1.34","torrent":{"xt":"urn:btih:c34c5eeb19c54fe0c60cd22eae3800503a58d12c","amp;dn":"Blink-182+-+Take+Off+Your+Pants+And+Jacket","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c34c5eeb19c54fe0c60cd22eae3800503a58d12c","infoHashBuffer":{"type":"Buffer","data":[195,76,94,235,25,197,79,224,198,12,210,46,174,56,0,80,58,88,209,44]},"announce":[],"urlList":[]}}
+{
+  "title": "Blink-182 - Take Off Your Pants And Jacket",
+  "uid": 3753427,
+  "size": 93645895,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:c34c5eeb19c54fe0c60cd22eae3800503a58d12c&amp;dn=Blink-182+-+Take+Off+Your+Pants+And+Jacket&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 1,
+  "uploader": "ivisitpublix",
+  "files": 14,
+  "time": 1185464377,
+  "description": "Blink-182 - Take Off Your Pants and Jacket [2001]\n\nMP3 - 320kbps\n\nMP3 Encoder v1.34",
+  "parsed": {
+    "xt": "urn:btih:c34c5eeb19c54fe0c60cd22eae3800503a58d12c",
+    "dn": "Blink-182 - Take Off Your Pants And Jacket",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c34c5eeb19c54fe0c60cd22eae3800503a58d12c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        195,
+        76,
+        94,
+        235,
+        25,
+        197,
+        79,
+        224,
+        198,
+        12,
+        210,
+        46,
+        174,
+        56,
+        0,
+        80,
+        58,
+        88,
+        209,
+        44
+      ]
+    },
+    "name": "Blink-182 - Take Off Your Pants And Jacket",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 20,
+  "last_updated": "2016-12-25T13:09:52.407Z"
+}

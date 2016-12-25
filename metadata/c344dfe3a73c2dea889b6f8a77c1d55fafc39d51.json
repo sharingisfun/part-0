@@ -1,1 +1,61 @@
-{"title":"iATKOS ML2 (Mac OS X Mountain Lion 10.8.2)","uid":7973176,"size":5255699304,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:c344dfe3a73c2dea889b6f8a77c1d55fafc39d51&amp;dn=iATKOS+ML2+%28Mac+OS+X+Mountain+Lion+10.8.2%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":160,"leechers":18,"uploader":"jm1994","files":4,"time":1356913534,"description":"iAtkos Mountain Lion 2 (Mac OS X Mountain Lion 10.8.2)\n\n\nIncluded Files: \n\n\t        Instructions.txt\t839 bytes\n \t \tiATKOS ML2 Guide.pdf\t127.97 KB\n \t\tiATKOS_ML2.dmg\t        4.89 GB\n \t\tmd5.txt\t                138 bytes\n\nPlease Seed (: ","torrent":{"xt":"urn:btih:c344dfe3a73c2dea889b6f8a77c1d55fafc39d51","amp;dn":"iATKOS+ML2+%28Mac+OS+X+Mountain+Lion+10.8.2%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c344dfe3a73c2dea889b6f8a77c1d55fafc39d51","infoHashBuffer":{"type":"Buffer","data":[195,68,223,227,167,60,45,234,136,155,111,138,119,193,213,95,175,195,157,81]},"announce":[],"urlList":[]}}
+{
+  "title": "iATKOS ML2 (Mac OS X Mountain Lion 10.8.2)",
+  "uid": 7973176,
+  "size": 5255699304,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:c344dfe3a73c2dea889b6f8a77c1d55fafc39d51&amp;dn=iATKOS+ML2+%28Mac+OS+X+Mountain+Lion+10.8.2%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 160,
+  "leechers": 18,
+  "uploader": "jm1994",
+  "files": 4,
+  "time": 1356913534,
+  "description": "iAtkos Mountain Lion 2 (Mac OS X Mountain Lion 10.8.2)\n\n\nIncluded Files: \n\n\t        Instructions.txt\t839 bytes\n \t \tiATKOS ML2 Guide.pdf\t127.97 KB\n \t\tiATKOS_ML2.dmg\t        4.89 GB\n \t\tmd5.txt\t                138 bytes\n\nPlease Seed (: ",
+  "parsed": {
+    "xt": "urn:btih:c344dfe3a73c2dea889b6f8a77c1d55fafc39d51",
+    "dn": "iATKOS ML2 (Mac OS X Mountain Lion 10.8.2)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c344dfe3a73c2dea889b6f8a77c1d55fafc39d51",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        195,
+        68,
+        223,
+        227,
+        167,
+        60,
+        45,
+        234,
+        136,
+        155,
+        111,
+        138,
+        119,
+        193,
+        213,
+        95,
+        175,
+        195,
+        157,
+        81
+      ]
+    },
+    "name": "iATKOS ML2 (Mac OS X Mountain Lion 10.8.2)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 178,
+  "peers": 208,
+  "last_updated": "2016-12-25T13:09:34.335Z"
+}

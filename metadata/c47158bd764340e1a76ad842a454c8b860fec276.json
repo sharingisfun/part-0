@@ -1,1 +1,61 @@
-{"title":"Disney - The Little Mermaid (1989) DVD-DivX","uid":4255066,"size":712847360,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:c47158bd764340e1a76ad842a454c8b860fec276&amp;dn=Disney+-+The+Little+Mermaid+%281989%29+DVD-DivX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":140,"leechers":1,"uploader":"FizZzeLPoPoFNaRniA","files":1,"time":1214197270,"description":"Disney - The Little Mermaid (1989) DVD-DivX","torrent":{"xt":"urn:btih:c47158bd764340e1a76ad842a454c8b860fec276","amp;dn":"Disney+-+The+Little+Mermaid+%281989%29+DVD-DivX","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c47158bd764340e1a76ad842a454c8b860fec276","infoHashBuffer":{"type":"Buffer","data":[196,113,88,189,118,67,64,225,167,106,216,66,164,84,200,184,96,254,194,118]},"announce":[],"urlList":[]}}
+{
+  "title": "Disney - The Little Mermaid (1989) DVD-DivX",
+  "uid": 4255066,
+  "size": 712847360,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:c47158bd764340e1a76ad842a454c8b860fec276&amp;dn=Disney+-+The+Little+Mermaid+%281989%29+DVD-DivX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 140,
+  "leechers": 1,
+  "uploader": "FizZzeLPoPoFNaRniA",
+  "files": 1,
+  "time": 1214197270,
+  "description": "Disney - The Little Mermaid (1989) DVD-DivX",
+  "parsed": {
+    "xt": "urn:btih:c47158bd764340e1a76ad842a454c8b860fec276",
+    "dn": "Disney - The Little Mermaid (1989) DVD-DivX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c47158bd764340e1a76ad842a454c8b860fec276",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        196,
+        113,
+        88,
+        189,
+        118,
+        67,
+        64,
+        225,
+        167,
+        106,
+        216,
+        66,
+        164,
+        84,
+        200,
+        184,
+        96,
+        254,
+        194,
+        118
+      ]
+    },
+    "name": "Disney - The Little Mermaid (1989) DVD-DivX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 141,
+  "peers": 56,
+  "last_updated": "2016-12-25T13:17:01.924Z"
+}

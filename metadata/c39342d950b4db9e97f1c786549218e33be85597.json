@@ -1,1 +1,61 @@
-{"title":"Milky Chance - Sadnecessary [320 kbps] (2013)-[maximersk]","uid":11243763,"size":151829234,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:c39342d950b4db9e97f1c786549218e33be85597&amp;dn=Milky+Chance+-+Sadnecessary+%5B320+kbps%5D+%282013%29-%5Bmaximersk%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":67,"leechers":5,"uploader":null,"files":15,"time":1413703873,"description":"Milky Chance - Sadnecessary [320 kbps] (2013)-\n\n\nTime......: 57 min\nCounrty...: Germany\nArtist....: Milky Chance\nAlbum.....: Sadnecessary\nYear......: 2013\nLabel.....: Lichtdicht Records\nGenre.....: Indie/Rock\nQuality...: MP3 320 Kbps\nRipper... : maximersk (Max)\nEncoder.. : maximersk (Max)\n\nFormat........: MP3\nBit rate mode.: Variable\nBit rate [avg]: 320 Kbps\nChannel(s)....: 2 channels","torrent":{"xt":"urn:btih:c39342d950b4db9e97f1c786549218e33be85597","amp;dn":"Milky+Chance+-+Sadnecessary+%5B320+kbps%5D+%282013%29-%5Bmaximersk%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c39342d950b4db9e97f1c786549218e33be85597","infoHashBuffer":{"type":"Buffer","data":[195,147,66,217,80,180,219,158,151,241,199,134,84,146,24,227,59,232,85,151]},"announce":[],"urlList":[]}}
+{
+  "title": "Milky Chance - Sadnecessary [320 kbps] (2013)-[maximersk]",
+  "uid": 11243763,
+  "size": 151829234,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:c39342d950b4db9e97f1c786549218e33be85597&amp;dn=Milky+Chance+-+Sadnecessary+%5B320+kbps%5D+%282013%29-%5Bmaximersk%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 67,
+  "leechers": 5,
+  "uploader": null,
+  "files": 15,
+  "time": 1413703873,
+  "description": "Milky Chance - Sadnecessary [320 kbps] (2013)-\n\n\nTime......: 57 min\nCounrty...: Germany\nArtist....: Milky Chance\nAlbum.....: Sadnecessary\nYear......: 2013\nLabel.....: Lichtdicht Records\nGenre.....: Indie/Rock\nQuality...: MP3 320 Kbps\nRipper... : maximersk (Max)\nEncoder.. : maximersk (Max)\n\nFormat........: MP3\nBit rate mode.: Variable\nBit rate [avg]: 320 Kbps\nChannel(s)....: 2 channels",
+  "parsed": {
+    "xt": "urn:btih:c39342d950b4db9e97f1c786549218e33be85597",
+    "dn": "Milky Chance - Sadnecessary [320 kbps] (2013)-[maximersk]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c39342d950b4db9e97f1c786549218e33be85597",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        195,
+        147,
+        66,
+        217,
+        80,
+        180,
+        219,
+        158,
+        151,
+        241,
+        199,
+        134,
+        84,
+        146,
+        24,
+        227,
+        59,
+        232,
+        85,
+        151
+      ]
+    },
+    "name": "Milky Chance - Sadnecessary [320 kbps] (2013)-[maximersk]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 72,
+  "peers": 96,
+  "last_updated": "2016-12-25T13:11:36.774Z"
+}

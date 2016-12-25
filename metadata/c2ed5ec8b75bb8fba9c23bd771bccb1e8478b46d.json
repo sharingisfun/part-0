@@ -1,1 +1,61 @@
-{"title":"Vikings S02E05 HDTV x264-2HD[ettv]","uid":9840976,"size":343884660,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:c2ed5ec8b75bb8fba9c23bd771bccb1e8478b46d&amp;dn=Vikings+S02E05+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":94,"leechers":4,"uploader":"ettv","files":2,"time":1395979839,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:c2ed5ec8b75bb8fba9c23bd771bccb1e8478b46d","amp;dn":"Vikings+S02E05+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c2ed5ec8b75bb8fba9c23bd771bccb1e8478b46d","infoHashBuffer":{"type":"Buffer","data":[194,237,94,200,183,91,184,251,169,194,59,215,113,188,203,30,132,120,180,109]},"announce":[],"urlList":[]}}
+{
+  "title": "Vikings S02E05 HDTV x264-2HD[ettv]",
+  "uid": 9840976,
+  "size": 343884660,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:c2ed5ec8b75bb8fba9c23bd771bccb1e8478b46d&amp;dn=Vikings+S02E05+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 94,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1395979839,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:c2ed5ec8b75bb8fba9c23bd771bccb1e8478b46d",
+    "dn": "Vikings S02E05 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c2ed5ec8b75bb8fba9c23bd771bccb1e8478b46d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        194,
+        237,
+        94,
+        200,
+        183,
+        91,
+        184,
+        251,
+        169,
+        194,
+        59,
+        215,
+        113,
+        188,
+        203,
+        30,
+        132,
+        120,
+        180,
+        109
+      ]
+    },
+    "name": "Vikings S02E05 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 98,
+  "peers": 87,
+  "last_updated": "2016-12-25T13:07:17.807Z"
+}

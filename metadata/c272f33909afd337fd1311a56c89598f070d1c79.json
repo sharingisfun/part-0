@@ -1,1 +1,63 @@
-{"title":"Australian Survivor - S03E09","uid":15844369,"size":612601149,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:c272f33909afd337fd1311a56c89598f070d1c79&amp;dn=Australian+Survivor+-+S03E09&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":11,"uploader":"riseagainstMPAA1","files":1,"time":1474079474,"description":"stolen from extratorrent\r\n\r\n\r\nenjoy","torrent":{"xt":"urn:btih:c272f33909afd337fd1311a56c89598f070d1c79","amp;dn":"Australian+Survivor+-+S03E09","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c272f33909afd337fd1311a56c89598f070d1c79","infoHashBuffer":{"type":"Buffer","data":[194,114,243,57,9,175,211,55,253,19,17,165,108,137,89,143,7,13,28,121]},"announce":[],"urlList":[]}}
+{
+  "title": "Australian Survivor - S03E09",
+  "uid": 15844369,
+  "size": 612601149,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:c272f33909afd337fd1311a56c89598f070d1c79&amp;dn=Australian+Survivor+-+S03E09&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 11,
+  "uploader": "riseagainstMPAA1",
+  "files": 1,
+  "time": 1474079474,
+  "description": "stolen from extratorrent\r\n\r\n\r\nenjoy",
+  "parsed": {
+    "xt": "urn:btih:c272f33909afd337fd1311a56c89598f070d1c79",
+    "dn": "Australian Survivor - S03E09",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "c272f33909afd337fd1311a56c89598f070d1c79",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        194,
+        114,
+        243,
+        57,
+        9,
+        175,
+        211,
+        55,
+        253,
+        19,
+        17,
+        165,
+        108,
+        137,
+        89,
+        143,
+        7,
+        13,
+        28,
+        121
+      ]
+    },
+    "name": "Australian Survivor - S03E09",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 16,
+  "last_updated": "2016-12-25T13:03:57.063Z"
+}

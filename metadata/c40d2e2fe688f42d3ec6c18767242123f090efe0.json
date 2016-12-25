@@ -1,1 +1,63 @@
-{"title":"RadioBOSS.5.3.3.1","uid":16035683,"size":42835150,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:c40d2e2fe688f42d3ec6c18767242123f090efe0&amp;dn=RadioBOSS.5.3.3.1&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":159,"leechers":31,"uploader":"0Fallen173c","files":4,"time":1476480446,"description":"RadioBOSS.5.3.3.1","torrent":{"xt":"urn:btih:c40d2e2fe688f42d3ec6c18767242123f090efe0","amp;dn":"RadioBOSS.5.3.3.1","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c40d2e2fe688f42d3ec6c18767242123f090efe0","infoHashBuffer":{"type":"Buffer","data":[196,13,46,47,230,136,244,45,62,198,193,135,103,36,33,35,240,144,239,224]},"announce":[],"urlList":[]}}
+{
+  "title": "RadioBOSS.5.3.3.1",
+  "uid": 16035683,
+  "size": 42835150,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:c40d2e2fe688f42d3ec6c18767242123f090efe0&amp;dn=RadioBOSS.5.3.3.1&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 159,
+  "leechers": 31,
+  "uploader": "0Fallen173c",
+  "files": 4,
+  "time": 1476480446,
+  "description": "RadioBOSS.5.3.3.1",
+  "parsed": {
+    "xt": "urn:btih:c40d2e2fe688f42d3ec6c18767242123f090efe0",
+    "dn": "RadioBOSS.5.3.3.1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "c40d2e2fe688f42d3ec6c18767242123f090efe0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        196,
+        13,
+        46,
+        47,
+        230,
+        136,
+        244,
+        45,
+        62,
+        198,
+        193,
+        135,
+        103,
+        36,
+        33,
+        35,
+        240,
+        144,
+        239,
+        224
+      ]
+    },
+    "name": "RadioBOSS.5.3.3.1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 190,
+  "peers": 1,
+  "last_updated": "2016-12-25T13:15:01.544Z"
+}

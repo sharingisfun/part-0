@@ -1,1 +1,61 @@
-{"title":"MIA Paper Planes Single","uid":4479047,"size":11244779,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:c49791751b65b047677f701ac4f7cf5f7fa5f3d2&amp;dn=MIA+Paper+Planes+Single&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":4,"uploader":"chiswickhero","files":5,"time":1225476453,"description":"MIA&amp;#039;s single by RVROMS \n\n\nPlease seed","torrent":{"xt":"urn:btih:c49791751b65b047677f701ac4f7cf5f7fa5f3d2","amp;dn":"MIA+Paper+Planes+Single","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c49791751b65b047677f701ac4f7cf5f7fa5f3d2","infoHashBuffer":{"type":"Buffer","data":[196,151,145,117,27,101,176,71,103,127,112,26,196,247,207,95,127,165,243,210]},"announce":[],"urlList":[]}}
+{
+  "title": "MIA Paper Planes Single",
+  "uid": 4479047,
+  "size": 11244779,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:c49791751b65b047677f701ac4f7cf5f7fa5f3d2&amp;dn=MIA+Paper+Planes+Single&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 4,
+  "uploader": "chiswickhero",
+  "files": 5,
+  "time": 1225476453,
+  "description": "MIA&amp;#039;s single by RVROMS \n\n\nPlease seed",
+  "parsed": {
+    "xt": "urn:btih:c49791751b65b047677f701ac4f7cf5f7fa5f3d2",
+    "dn": "MIA Paper Planes Single",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c49791751b65b047677f701ac4f7cf5f7fa5f3d2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        196,
+        151,
+        145,
+        117,
+        27,
+        101,
+        176,
+        71,
+        103,
+        127,
+        112,
+        26,
+        196,
+        247,
+        207,
+        95,
+        127,
+        165,
+        243,
+        210
+      ]
+    },
+    "name": "MIA Paper Planes Single",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 49,
+  "last_updated": "2016-12-25T13:18:00.082Z"
+}
