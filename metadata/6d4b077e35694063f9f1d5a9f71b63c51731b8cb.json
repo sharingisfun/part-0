@@ -1,1 +1,61 @@
-{"title":"The Velvet Underground - The Best of The Velvet Underground Word","uid":9259570,"size":150880067,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:6d4b077e35694063f9f1d5a9f71b63c51731b8cb&amp;dn=The+Velvet+Underground+-+The+Best+of+The+Velvet+Underground+Word&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":2,"uploader":"Big-Papi","files":19,"time":1385607325,"description":"CDrip","torrent":{"xt":"urn:btih:6d4b077e35694063f9f1d5a9f71b63c51731b8cb","amp;dn":"The+Velvet+Underground+-+The+Best+of+The+Velvet+Underground+Word","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6d4b077e35694063f9f1d5a9f71b63c51731b8cb","infoHashBuffer":{"type":"Buffer","data":[109,75,7,126,53,105,64,99,249,241,213,169,247,27,99,197,23,49,184,203]},"announce":[],"urlList":[]}}
+{
+  "title": "The Velvet Underground - The Best of The Velvet Underground Word",
+  "uid": 9259570,
+  "size": 150880067,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:6d4b077e35694063f9f1d5a9f71b63c51731b8cb&amp;dn=The+Velvet+Underground+-+The+Best+of+The+Velvet+Underground+Word&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 2,
+  "uploader": "Big-Papi",
+  "files": 19,
+  "time": 1385607325,
+  "description": "CDrip",
+  "parsed": {
+    "xt": "urn:btih:6d4b077e35694063f9f1d5a9f71b63c51731b8cb",
+    "dn": "The Velvet Underground - The Best of The Velvet Underground Word",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6d4b077e35694063f9f1d5a9f71b63c51731b8cb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        109,
+        75,
+        7,
+        126,
+        53,
+        105,
+        64,
+        99,
+        249,
+        241,
+        213,
+        169,
+        247,
+        27,
+        99,
+        197,
+        23,
+        49,
+        184,
+        203
+      ]
+    },
+    "name": "The Velvet Underground - The Best of The Velvet Underground Word",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 13,
+  "last_updated": "2016-12-25T04:03:00.746Z"
+}

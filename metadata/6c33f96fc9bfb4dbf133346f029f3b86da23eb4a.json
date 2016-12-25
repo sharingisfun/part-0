@@ -1,1 +1,61 @@
-{"title":"The 100 S02E02 HDTV x264-LOL[ettv]","uid":11327487,"size":383810049,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:6c33f96fc9bfb4dbf133346f029f3b86da23eb4a&amp;dn=The+100+S02E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":248,"leechers":12,"uploader":"ettv","files":2,"time":1414639472,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:6c33f96fc9bfb4dbf133346f029f3b86da23eb4a","amp;dn":"The+100+S02E02+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6c33f96fc9bfb4dbf133346f029f3b86da23eb4a","infoHashBuffer":{"type":"Buffer","data":[108,51,249,111,201,191,180,219,241,51,52,111,2,159,59,134,218,35,235,74]},"announce":[],"urlList":[]}}
+{
+  "title": "The 100 S02E02 HDTV x264-LOL[ettv]",
+  "uid": 11327487,
+  "size": 383810049,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:6c33f96fc9bfb4dbf133346f029f3b86da23eb4a&amp;dn=The+100+S02E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 248,
+  "leechers": 12,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1414639472,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:6c33f96fc9bfb4dbf133346f029f3b86da23eb4a",
+    "dn": "The 100 S02E02 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6c33f96fc9bfb4dbf133346f029f3b86da23eb4a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        108,
+        51,
+        249,
+        111,
+        201,
+        191,
+        180,
+        219,
+        241,
+        51,
+        52,
+        111,
+        2,
+        159,
+        59,
+        134,
+        218,
+        35,
+        235,
+        74
+      ]
+    },
+    "name": "The 100 S02E02 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 260,
+  "peers": 9,
+  "last_updated": "2016-12-25T03:55:45.262Z"
+}

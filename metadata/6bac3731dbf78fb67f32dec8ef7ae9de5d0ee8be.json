@@ -1,1 +1,61 @@
-{"title":"Sam Hunt - X2C - EP [iTunes Plus AAC M4A]","uid":10855187,"size":27418947,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:6bac3731dbf78fb67f32dec8ef7ae9de5d0ee8be&amp;dn=Sam+Hunt+-+X2C+-+EP+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":112,"uploader":"Music_Blitz","files":-1,"time":1408834459,"description":"Sam Hunt - X2C - EP [iTunes Plus AAC M4A]\n\n\nSource: https://itunes.apple.com/us/album/x2c-ep/id906050515\n\n\nTracklist:\n\n1. Leave the Night On\n2. Ex To See\n3. House Party\n4. Break Up In a Small Town\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes\nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Tuesday 12th August 2014\n\n\nÃ¢â€žâ€” 2014 MCA Nashville, a Division of UMG Recordings, Inc.\n","torrent":{"xt":"urn:btih:6bac3731dbf78fb67f32dec8ef7ae9de5d0ee8be","amp;dn":"Sam+Hunt+-+X2C+-+EP+%5BiTunes+Plus+AAC+M4A%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6bac3731dbf78fb67f32dec8ef7ae9de5d0ee8be","infoHashBuffer":{"type":"Buffer","data":[107,172,55,49,219,247,143,182,127,50,222,200,239,122,233,222,93,14,232,190]},"announce":[],"urlList":[]}}
+{
+  "title": "Sam Hunt - X2C - EP [iTunes Plus AAC M4A]",
+  "uid": 10855187,
+  "size": 27418947,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:6bac3731dbf78fb67f32dec8ef7ae9de5d0ee8be&amp;dn=Sam+Hunt+-+X2C+-+EP+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 112,
+  "uploader": "Music_Blitz",
+  "files": -1,
+  "time": 1408834459,
+  "description": "Sam Hunt - X2C - EP [iTunes Plus AAC M4A]\n\n\nSource: https://itunes.apple.com/us/album/x2c-ep/id906050515\n\n\nTracklist:\n\n1. Leave the Night On\n2. Ex To See\n3. House Party\n4. Break Up In a Small Town\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes\nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Tuesday 12th August 2014\n\n\nÃ¢â€žâ€” 2014 MCA Nashville, a Division of UMG Recordings, Inc.\n",
+  "parsed": {
+    "xt": "urn:btih:6bac3731dbf78fb67f32dec8ef7ae9de5d0ee8be",
+    "dn": "Sam Hunt - X2C - EP [iTunes Plus AAC M4A]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6bac3731dbf78fb67f32dec8ef7ae9de5d0ee8be",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        107,
+        172,
+        55,
+        49,
+        219,
+        247,
+        143,
+        182,
+        127,
+        50,
+        222,
+        200,
+        239,
+        122,
+        233,
+        222,
+        93,
+        14,
+        232,
+        190
+      ]
+    },
+    "name": "Sam Hunt - X2C - EP [iTunes Plus AAC M4A]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 190,
+  "peers": 3,
+  "last_updated": "2016-12-25T03:51:40.409Z"
+}

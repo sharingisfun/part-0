@@ -1,1 +1,61 @@
-{"title":"Sygic.13.4.1 - GPS software android word maps offline","uid":9422872,"size":126095989,"categoryP":"applications","categoryS":"android","magnet":"?xt=urn:btih:6d6788348de14db3e19399e4d17a54d95a0ccd0c&amp;dn=Sygic.13.4.1+-+GPS+software+android+word+maps+offline&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":1,"uploader":"_deftoner_","files":4,"time":1388622825,"description":"Sygic 13.4.1 For android. + Map Downloader 1.3 (credits to SDLER)\n\n\n\n****************************************\n* Read instruction.txt for instalation *\n****************************************\n\n\nEnjoy!\n","torrent":{"xt":"urn:btih:6d6788348de14db3e19399e4d17a54d95a0ccd0c","amp;dn":"Sygic.13.4.1+-+GPS+software+android+word+maps+offline","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6d6788348de14db3e19399e4d17a54d95a0ccd0c","infoHashBuffer":{"type":"Buffer","data":[109,103,136,52,141,225,77,179,225,147,153,228,209,122,84,217,90,12,205,12]},"announce":[],"urlList":[]}}
+{
+  "title": "Sygic.13.4.1 - GPS software android word maps offline",
+  "uid": 9422872,
+  "size": 126095989,
+  "categoryP": "applications",
+  "categoryS": "android",
+  "magnet": "?xt=urn:btih:6d6788348de14db3e19399e4d17a54d95a0ccd0c&amp;dn=Sygic.13.4.1+-+GPS+software+android+word+maps+offline&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 1,
+  "uploader": "_deftoner_",
+  "files": 4,
+  "time": 1388622825,
+  "description": "Sygic 13.4.1 For android. + Map Downloader 1.3 (credits to SDLER)\n\n\n\n****************************************\n* Read instruction.txt for instalation *\n****************************************\n\n\nEnjoy!\n",
+  "parsed": {
+    "xt": "urn:btih:6d6788348de14db3e19399e4d17a54d95a0ccd0c",
+    "dn": "Sygic.13.4.1 - GPS software android word maps offline",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6d6788348de14db3e19399e4d17a54d95a0ccd0c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        109,
+        103,
+        136,
+        52,
+        141,
+        225,
+        77,
+        179,
+        225,
+        147,
+        153,
+        228,
+        209,
+        122,
+        84,
+        217,
+        90,
+        12,
+        205,
+        12
+      ]
+    },
+    "name": "Sygic.13.4.1 - GPS software android word maps offline",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 5,
+  "last_updated": "2016-12-25T04:03:34.845Z"
+}

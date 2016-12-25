@@ -1,1 +1,61 @@
-{"title":"Age of Empires Gold Edition","uid":3507330,"size":336795110,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:6c63eae7c1f7b2afdf08ed09d7233a229a754975&amp;dn=Age+of+Empires+Gold+Edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":85,"leechers":2,"uploader":"WinstonSmith6079","files":2,"time":1153874944,"description":"This is a CD image (in .MDF &amp; .MDS) of Age of Empires Gold Edition.  It includes Age of Empires and its expansion The Rise of Rome on one CD-ROM and a single install.  Needs the latest update patch which can be d/led from here: &lt;a href=&quot;\nhttp://www.microsoft.com/games/empires/downloads.htm&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.microsoft.com/games/empires/downloads.htm&lt;/a&gt;","torrent":{"xt":"urn:btih:6c63eae7c1f7b2afdf08ed09d7233a229a754975","amp;dn":"Age+of+Empires+Gold+Edition","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6c63eae7c1f7b2afdf08ed09d7233a229a754975","infoHashBuffer":{"type":"Buffer","data":[108,99,234,231,193,247,178,175,223,8,237,9,215,35,58,34,154,117,73,117]},"announce":[],"urlList":[]}}
+{
+  "title": "Age of Empires Gold Edition",
+  "uid": 3507330,
+  "size": 336795110,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:6c63eae7c1f7b2afdf08ed09d7233a229a754975&amp;dn=Age+of+Empires+Gold+Edition&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 85,
+  "leechers": 2,
+  "uploader": "WinstonSmith6079",
+  "files": 2,
+  "time": 1153874944,
+  "description": "This is a CD image (in .MDF &amp; .MDS) of Age of Empires Gold Edition.  It includes Age of Empires and its expansion The Rise of Rome on one CD-ROM and a single install.  Needs the latest update patch which can be d/led from here: &lt;a href=&quot;\nhttp://www.microsoft.com/games/empires/downloads.htm&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.microsoft.com/games/empires/downloads.htm&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:6c63eae7c1f7b2afdf08ed09d7233a229a754975",
+    "dn": "Age of Empires Gold Edition",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6c63eae7c1f7b2afdf08ed09d7233a229a754975",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        108,
+        99,
+        234,
+        231,
+        193,
+        247,
+        178,
+        175,
+        223,
+        8,
+        237,
+        9,
+        215,
+        35,
+        58,
+        34,
+        154,
+        117,
+        73,
+        117
+      ]
+    },
+    "name": "Age of Empires Gold Edition",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 87,
+  "peers": 50,
+  "last_updated": "2016-12-25T03:56:55.533Z"
+}

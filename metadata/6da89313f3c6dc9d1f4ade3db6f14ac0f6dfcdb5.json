@@ -1,1 +1,61 @@
-{"title":"Metallica - Studio Discography (1983-2014)","uid":11415675,"size":1798865439,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:6da89313f3c6dc9d1f4ade3db6f14ac0f6dfcdb5&amp;dn=Metallica+-+Studio+Discography+%281983-2014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":8,"uploader":"Dranima","files":-1,"time":1415577221,"description":"Every single Metallica studio album, including the remastered version of Death Magnetic and the extras from Beyond Magnetic. \n\nAll files have album covers and tags. \n\nPlease leave positive rating and help seeding after download","torrent":{"xt":"urn:btih:6da89313f3c6dc9d1f4ade3db6f14ac0f6dfcdb5","amp;dn":"Metallica+-+Studio+Discography+%281983-2014%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6da89313f3c6dc9d1f4ade3db6f14ac0f6dfcdb5","infoHashBuffer":{"type":"Buffer","data":[109,168,147,19,243,198,220,157,31,74,222,61,182,241,74,192,246,223,205,181]},"announce":[],"urlList":[]}}
+{
+  "title": "Metallica - Studio Discography (1983-2014)",
+  "uid": 11415675,
+  "size": 1798865439,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:6da89313f3c6dc9d1f4ade3db6f14ac0f6dfcdb5&amp;dn=Metallica+-+Studio+Discography+%281983-2014%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 8,
+  "uploader": "Dranima",
+  "files": -1,
+  "time": 1415577221,
+  "description": "Every single Metallica studio album, including the remastered version of Death Magnetic and the extras from Beyond Magnetic. \n\nAll files have album covers and tags. \n\nPlease leave positive rating and help seeding after download",
+  "parsed": {
+    "xt": "urn:btih:6da89313f3c6dc9d1f4ade3db6f14ac0f6dfcdb5",
+    "dn": "Metallica - Studio Discography (1983-2014)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6da89313f3c6dc9d1f4ade3db6f14ac0f6dfcdb5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        109,
+        168,
+        147,
+        19,
+        243,
+        198,
+        220,
+        157,
+        31,
+        74,
+        222,
+        61,
+        182,
+        241,
+        74,
+        192,
+        246,
+        223,
+        205,
+        181
+      ]
+    },
+    "name": "Metallica - Studio Discography (1983-2014)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 74,
+  "peers": 34,
+  "last_updated": "2016-12-25T04:05:47.273Z"
+}

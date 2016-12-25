@@ -1,1 +1,61 @@
-{"title":"Farming Simulator 2013","uid":7761774,"size":516890287,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:6c41092f8aee8733464fb4887b3e9b639e0ab257&amp;dn=Farming+Simulator+2013&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":6,"uploader":"farmersdirect","files":1,"time":1351251383,"description":"Hello all,\n     This is my first torrent so if I have made any mistakes please let me know. Also my upload speed is theory is 1 mbps (100kbps). This is a full working copy straight off Giants website. There is no activation key included. I am trying to crack it but some else might bet me to it. Good luck and wait for a crack.\n\nKind regards\nFarmers Direct","torrent":{"xt":"urn:btih:6c41092f8aee8733464fb4887b3e9b639e0ab257","amp;dn":"Farming+Simulator+2013","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6c41092f8aee8733464fb4887b3e9b639e0ab257","infoHashBuffer":{"type":"Buffer","data":[108,65,9,47,138,238,135,51,70,79,180,136,123,62,155,99,158,10,178,87]},"announce":[],"urlList":[]}}
+{
+  "title": "Farming Simulator 2013",
+  "uid": 7761774,
+  "size": 516890287,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:6c41092f8aee8733464fb4887b3e9b639e0ab257&amp;dn=Farming+Simulator+2013&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 6,
+  "uploader": "farmersdirect",
+  "files": 1,
+  "time": 1351251383,
+  "description": "Hello all,\n     This is my first torrent so if I have made any mistakes please let me know. Also my upload speed is theory is 1 mbps (100kbps). This is a full working copy straight off Giants website. There is no activation key included. I am trying to crack it but some else might bet me to it. Good luck and wait for a crack.\n\nKind regards\nFarmers Direct",
+  "parsed": {
+    "xt": "urn:btih:6c41092f8aee8733464fb4887b3e9b639e0ab257",
+    "dn": "Farming Simulator 2013",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6c41092f8aee8733464fb4887b3e9b639e0ab257",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        108,
+        65,
+        9,
+        47,
+        138,
+        238,
+        135,
+        51,
+        70,
+        79,
+        180,
+        136,
+        123,
+        62,
+        155,
+        99,
+        158,
+        10,
+        178,
+        87
+      ]
+    },
+    "name": "Farming Simulator 2013",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 5,
+  "last_updated": "2016-12-25T03:56:05.339Z"
+}

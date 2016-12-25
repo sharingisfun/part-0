@@ -1,1 +1,61 @@
-{"title":"System Of A Down Steps And Hemp [2014] 320","uid":11595107,"size":106713818,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:6bc4d44b7feee220e21669714bb0bb8d4e67b9cd&amp;dn=System+Of+A+Down+Steps+And+Hemp+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":2,"uploader":"Capajebo","files":-1,"time":1417274437,"description":"System Of A Down Steps And Hemp [2014] 320","torrent":{"xt":"urn:btih:6bc4d44b7feee220e21669714bb0bb8d4e67b9cd","amp;dn":"System+Of+A+Down+Steps+And+Hemp+%5B2014%5D+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6bc4d44b7feee220e21669714bb0bb8d4e67b9cd","infoHashBuffer":{"type":"Buffer","data":[107,196,212,75,127,238,226,32,226,22,105,113,75,176,187,141,78,103,185,205]},"announce":[],"urlList":[]}}
+{
+  "title": "System Of A Down Steps And Hemp [2014] 320",
+  "uid": 11595107,
+  "size": 106713818,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:6bc4d44b7feee220e21669714bb0bb8d4e67b9cd&amp;dn=System+Of+A+Down+Steps+And+Hemp+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 2,
+  "uploader": "Capajebo",
+  "files": -1,
+  "time": 1417274437,
+  "description": "System Of A Down Steps And Hemp [2014] 320",
+  "parsed": {
+    "xt": "urn:btih:6bc4d44b7feee220e21669714bb0bb8d4e67b9cd",
+    "dn": "System Of A Down Steps And Hemp [2014] 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6bc4d44b7feee220e21669714bb0bb8d4e67b9cd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        107,
+        196,
+        212,
+        75,
+        127,
+        238,
+        226,
+        32,
+        226,
+        22,
+        105,
+        113,
+        75,
+        176,
+        187,
+        141,
+        78,
+        103,
+        185,
+        205
+      ]
+    },
+    "name": "System Of A Down Steps And Hemp [2014] 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 9,
+  "last_updated": "2016-12-25T03:52:34.573Z"
+}

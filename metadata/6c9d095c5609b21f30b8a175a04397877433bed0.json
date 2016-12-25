@@ -1,1 +1,61 @@
-{"title":"Duck Sauce - NRG (Skrillex, Kill the Noise, Milo &amp; Otis Remi","uid":9933253,"size":10233189,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:6c9d095c5609b21f30b8a175a04397877433bed0&amp;dn=Duck+Sauce+-+NRG+%28Skrillex%2C+Kill+the+Noise%2C+Milo+%26amp%3B+Otis+Remi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":1,"uploader":"AngelDiMaria","files":1,"time":1397129749,"description":"Title: NRG (Skrillex, Kill the Noise, Milo &amp; Otis Remix)\nArtist: Duck Sauce\nYear: 2014\nFormat: Mp3 320kbps","torrent":{"xt":"urn:btih:6c9d095c5609b21f30b8a175a04397877433bed0","amp;dn":"Duck+Sauce+-+NRG+%28Skrillex%2C+Kill+the+Noise%2C+Milo+%26amp%3B+Otis+Remi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6c9d095c5609b21f30b8a175a04397877433bed0","infoHashBuffer":{"type":"Buffer","data":[108,157,9,92,86,9,178,31,48,184,161,117,160,67,151,135,116,51,190,208]},"announce":[],"urlList":[]}}
+{
+  "title": "Duck Sauce - NRG (Skrillex, Kill the Noise, Milo &amp; Otis Remi",
+  "uid": 9933253,
+  "size": 10233189,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:6c9d095c5609b21f30b8a175a04397877433bed0&amp;dn=Duck+Sauce+-+NRG+%28Skrillex%2C+Kill+the+Noise%2C+Milo+%26amp%3B+Otis+Remi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 1,
+  "uploader": "AngelDiMaria",
+  "files": 1,
+  "time": 1397129749,
+  "description": "Title: NRG (Skrillex, Kill the Noise, Milo &amp; Otis Remix)\nArtist: Duck Sauce\nYear: 2014\nFormat: Mp3 320kbps",
+  "parsed": {
+    "xt": "urn:btih:6c9d095c5609b21f30b8a175a04397877433bed0",
+    "dn": "Duck Sauce - NRG (Skrillex, Kill the Noise, Milo &amp; Otis Remi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6c9d095c5609b21f30b8a175a04397877433bed0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        108,
+        157,
+        9,
+        92,
+        86,
+        9,
+        178,
+        31,
+        48,
+        184,
+        161,
+        117,
+        160,
+        67,
+        151,
+        135,
+        116,
+        51,
+        190,
+        208
+      ]
+    },
+    "name": "Duck Sauce - NRG (Skrillex, Kill the Noise, Milo &amp; Otis Remi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 0,
+  "last_updated": "2016-12-25T03:58:13.791Z"
+}

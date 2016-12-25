@@ -1,1 +1,63 @@
-{"title":"ARQ.2016.WEBRip.x264-SKGTV","uid":15843127,"size":419761344,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:6c5ed9c6c4fee858e89183c4ce4e2a9961af1a09&amp;dn=ARQ.2016.WEBRip.x264-SKGTV&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":3,"uploader":"TvTeam","files":4,"time":1474066567,"description":"Torrent from:\r\n~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:6c5ed9c6c4fee858e89183c4ce4e2a9961af1a09","amp;dn":"ARQ.2016.WEBRip.x264-SKGTV","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6c5ed9c6c4fee858e89183c4ce4e2a9961af1a09","infoHashBuffer":{"type":"Buffer","data":[108,94,217,198,196,254,232,88,232,145,131,196,206,78,42,153,97,175,26,9]},"announce":[],"urlList":[]}}
+{
+  "title": "ARQ.2016.WEBRip.x264-SKGTV",
+  "uid": 15843127,
+  "size": 419761344,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:6c5ed9c6c4fee858e89183c4ce4e2a9961af1a09&amp;dn=ARQ.2016.WEBRip.x264-SKGTV&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 3,
+  "uploader": "TvTeam",
+  "files": 4,
+  "time": 1474066567,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:6c5ed9c6c4fee858e89183c4ce4e2a9961af1a09",
+    "dn": "ARQ.2016.WEBRip.x264-SKGTV",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "6c5ed9c6c4fee858e89183c4ce4e2a9961af1a09",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        108,
+        94,
+        217,
+        198,
+        196,
+        254,
+        232,
+        88,
+        232,
+        145,
+        131,
+        196,
+        206,
+        78,
+        42,
+        153,
+        97,
+        175,
+        26,
+        9
+      ]
+    },
+    "name": "ARQ.2016.WEBRip.x264-SKGTV",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 11,
+  "last_updated": "2016-12-25T03:56:43.487Z"
+}

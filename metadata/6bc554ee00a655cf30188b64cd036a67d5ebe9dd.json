@@ -1,1 +1,61 @@
-{"title":"Downton Abbey-Season 2-complete-720p-HDTV-gr-subs","uid":11672095,"size":6297158608,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:6bc554ee00a655cf30188b64cd036a67d5ebe9dd&amp;dn=Downton+Abbey-Season+2-complete-720p-HDTV-gr-subs&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":87,"leechers":45,"uploader":"xarikos","files":9,"time":1422729567,"description":"Downton Abbey-Season 2-complete-720p-HDTV-gr-subs","torrent":{"xt":"urn:btih:6bc554ee00a655cf30188b64cd036a67d5ebe9dd","amp;dn":"Downton+Abbey-Season+2-complete-720p-HDTV-gr-subs","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6bc554ee00a655cf30188b64cd036a67d5ebe9dd","infoHashBuffer":{"type":"Buffer","data":[107,197,84,238,0,166,85,207,48,24,139,100,205,3,106,103,213,235,233,221]},"announce":[],"urlList":[]}}
+{
+  "title": "Downton Abbey-Season 2-complete-720p-HDTV-gr-subs",
+  "uid": 11672095,
+  "size": 6297158608,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:6bc554ee00a655cf30188b64cd036a67d5ebe9dd&amp;dn=Downton+Abbey-Season+2-complete-720p-HDTV-gr-subs&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 87,
+  "leechers": 45,
+  "uploader": "xarikos",
+  "files": 9,
+  "time": 1422729567,
+  "description": "Downton Abbey-Season 2-complete-720p-HDTV-gr-subs",
+  "parsed": {
+    "xt": "urn:btih:6bc554ee00a655cf30188b64cd036a67d5ebe9dd",
+    "dn": "Downton Abbey-Season 2-complete-720p-HDTV-gr-subs",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6bc554ee00a655cf30188b64cd036a67d5ebe9dd",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        107,
+        197,
+        84,
+        238,
+        0,
+        166,
+        85,
+        207,
+        48,
+        24,
+        139,
+        100,
+        205,
+        3,
+        106,
+        103,
+        213,
+        235,
+        233,
+        221
+      ]
+    },
+    "name": "Downton Abbey-Season 2-complete-720p-HDTV-gr-subs",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 132,
+  "peers": 11,
+  "last_updated": "2016-12-25T03:52:36.578Z"
+}

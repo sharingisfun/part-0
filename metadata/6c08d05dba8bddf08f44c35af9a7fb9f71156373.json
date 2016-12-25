@@ -1,1 +1,61 @@
-{"title":"SketchUP Vray 1.49.01","uid":6818574,"size":82668690,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:6c08d05dba8bddf08f44c35af9a7fb9f71156373&amp;dn=SketchUP+Vray+1.49.01&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":64,"leechers":0,"uploader":"Gstylex","files":3,"time":1321311061,"description":"Vray 1.49.01 render for sketchup pro 8 with crack","torrent":{"xt":"urn:btih:6c08d05dba8bddf08f44c35af9a7fb9f71156373","amp;dn":"SketchUP+Vray+1.49.01","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6c08d05dba8bddf08f44c35af9a7fb9f71156373","infoHashBuffer":{"type":"Buffer","data":[108,8,208,93,186,139,221,240,143,68,195,90,249,167,251,159,113,21,99,115]},"announce":[],"urlList":[]}}
+{
+  "title": "SketchUP Vray 1.49.01",
+  "uid": 6818574,
+  "size": 82668690,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:6c08d05dba8bddf08f44c35af9a7fb9f71156373&amp;dn=SketchUP+Vray+1.49.01&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 64,
+  "leechers": 0,
+  "uploader": "Gstylex",
+  "files": 3,
+  "time": 1321311061,
+  "description": "Vray 1.49.01 render for sketchup pro 8 with crack",
+  "parsed": {
+    "xt": "urn:btih:6c08d05dba8bddf08f44c35af9a7fb9f71156373",
+    "dn": "SketchUP Vray 1.49.01",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6c08d05dba8bddf08f44c35af9a7fb9f71156373",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        108,
+        8,
+        208,
+        93,
+        186,
+        139,
+        221,
+        240,
+        143,
+        68,
+        195,
+        90,
+        249,
+        167,
+        251,
+        159,
+        113,
+        21,
+        99,
+        115
+      ]
+    },
+    "name": "SketchUP Vray 1.49.01",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 64,
+  "peers": 110,
+  "last_updated": "2016-12-25T03:54:37.010Z"
+}

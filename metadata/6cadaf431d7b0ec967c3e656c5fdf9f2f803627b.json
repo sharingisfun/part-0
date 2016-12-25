@@ -1,1 +1,61 @@
-{"title":"VA - Frozen (OST) (iTunes-Deluxe Version) - the.HH","uid":9257848,"size":273731644,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:6cadaf431d7b0ec967c3e656c5fdf9f2f803627b&amp;dn=VA+-+Frozen+%28OST%29+%28iTunes-Deluxe+Version%29+-+the.HH&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":1,"uploader":"the.HH","files":119,"time":1385580071,"description":"enjoy","torrent":{"xt":"urn:btih:6cadaf431d7b0ec967c3e656c5fdf9f2f803627b","amp;dn":"VA+-+Frozen+%28OST%29+%28iTunes-Deluxe+Version%29+-+the.HH","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6cadaf431d7b0ec967c3e656c5fdf9f2f803627b","infoHashBuffer":{"type":"Buffer","data":[108,173,175,67,29,123,14,201,103,195,230,86,197,253,249,242,248,3,98,123]},"announce":[],"urlList":[]}}
+{
+  "title": "VA - Frozen (OST) (iTunes-Deluxe Version) - the.HH",
+  "uid": 9257848,
+  "size": 273731644,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:6cadaf431d7b0ec967c3e656c5fdf9f2f803627b&amp;dn=VA+-+Frozen+%28OST%29+%28iTunes-Deluxe+Version%29+-+the.HH&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 1,
+  "uploader": "the.HH",
+  "files": 119,
+  "time": 1385580071,
+  "description": "enjoy",
+  "parsed": {
+    "xt": "urn:btih:6cadaf431d7b0ec967c3e656c5fdf9f2f803627b",
+    "dn": "VA - Frozen (OST) (iTunes-Deluxe Version) - the.HH",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6cadaf431d7b0ec967c3e656c5fdf9f2f803627b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        108,
+        173,
+        175,
+        67,
+        29,
+        123,
+        14,
+        201,
+        103,
+        195,
+        230,
+        86,
+        197,
+        253,
+        249,
+        242,
+        248,
+        3,
+        98,
+        123
+      ]
+    },
+    "name": "VA - Frozen (OST) (iTunes-Deluxe Version) - the.HH",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 7,
+  "last_updated": "2016-12-25T03:58:39.874Z"
+}

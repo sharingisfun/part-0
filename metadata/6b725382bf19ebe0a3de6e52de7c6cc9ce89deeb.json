@@ -1,1 +1,61 @@
-{"title":"Wolfmother - Wolfmother","uid":3674015,"size":98421718,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:6b725382bf19ebe0a3de6e52de7c6cc9ce89deeb&amp;dn=Wolfmother+-+Wolfmother&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":5,"uploader":"Masked Man","files":12,"time":1177631313,"description":"1. &quot;Colossal&quot; ? 5:02\n   2. &quot;Woman&quot; ? 2:55\n   3. &quot;White Unicorn&quot; ? 5:01\n   4. &quot;Pyramid&quot; ? 4:28\n   5. &quot;Mind&amp;#039;s Eye&quot; ? 4:53\n   6. &quot;Joker and the Thief&quot; ? 4:21\n   7. &quot;Dimension&quot; ? 4:25\n   8. &quot;Where Eagles Have Been&quot; ? 5:33\n   9. &quot;Apple Tree&quot; ? 3:28\n  10. &quot;Tales from the Forest of Gnomes&quot; ? 3:36\n  11. &quot;Witchcraft&quot; ? 3:25\n  12. &quot;Vagabond&quot; ? 3:52\n","torrent":{"xt":"urn:btih:6b725382bf19ebe0a3de6e52de7c6cc9ce89deeb","amp;dn":"Wolfmother+-+Wolfmother","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6b725382bf19ebe0a3de6e52de7c6cc9ce89deeb","infoHashBuffer":{"type":"Buffer","data":[107,114,83,130,191,25,235,224,163,222,110,82,222,124,108,201,206,137,222,235]},"announce":[],"urlList":[]}}
+{
+  "title": "Wolfmother - Wolfmother",
+  "uid": 3674015,
+  "size": 98421718,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:6b725382bf19ebe0a3de6e52de7c6cc9ce89deeb&amp;dn=Wolfmother+-+Wolfmother&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 5,
+  "uploader": "Masked Man",
+  "files": 12,
+  "time": 1177631313,
+  "description": "1. &quot;Colossal&quot; ? 5:02\n   2. &quot;Woman&quot; ? 2:55\n   3. &quot;White Unicorn&quot; ? 5:01\n   4. &quot;Pyramid&quot; ? 4:28\n   5. &quot;Mind&amp;#039;s Eye&quot; ? 4:53\n   6. &quot;Joker and the Thief&quot; ? 4:21\n   7. &quot;Dimension&quot; ? 4:25\n   8. &quot;Where Eagles Have Been&quot; ? 5:33\n   9. &quot;Apple Tree&quot; ? 3:28\n  10. &quot;Tales from the Forest of Gnomes&quot; ? 3:36\n  11. &quot;Witchcraft&quot; ? 3:25\n  12. &quot;Vagabond&quot; ? 3:52\n",
+  "parsed": {
+    "xt": "urn:btih:6b725382bf19ebe0a3de6e52de7c6cc9ce89deeb",
+    "dn": "Wolfmother - Wolfmother",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6b725382bf19ebe0a3de6e52de7c6cc9ce89deeb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        107,
+        114,
+        83,
+        130,
+        191,
+        25,
+        235,
+        224,
+        163,
+        222,
+        110,
+        82,
+        222,
+        124,
+        108,
+        201,
+        206,
+        137,
+        222,
+        235
+      ]
+    },
+    "name": "Wolfmother - Wolfmother",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 14,
+  "last_updated": "2016-12-25T03:50:30.201Z"
+}
