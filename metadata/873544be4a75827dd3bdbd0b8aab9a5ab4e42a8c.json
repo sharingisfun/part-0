@@ -1,1 +1,61 @@
-{"title":"Dragon Ball Z Remastered Season 1-9 + Movies Pack","uid":9295802,"size":19379190878,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:873544be4a75827dd3bdbd0b8aab9a5ab4e42a8c&amp;dn=Dragon+Ball+Z+Remastered+Season+1-9+%2B+Movies+Pack&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":115,"leechers":105,"uploader":"Mughal1","files":386,"time":1386151393,"description":"Dragon Ball Z Remastered Season 1-9 + Movies Pack","torrent":{"xt":"urn:btih:873544be4a75827dd3bdbd0b8aab9a5ab4e42a8c","amp;dn":"Dragon+Ball+Z+Remastered+Season+1-9+%2B+Movies+Pack","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"873544be4a75827dd3bdbd0b8aab9a5ab4e42a8c","infoHashBuffer":{"type":"Buffer","data":[135,53,68,190,74,117,130,125,211,189,189,11,138,171,154,90,180,228,42,140]},"announce":[],"urlList":[]}}
+{
+  "title": "Dragon Ball Z Remastered Season 1-9 + Movies Pack",
+  "uid": 9295802,
+  "size": 19379190878,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:873544be4a75827dd3bdbd0b8aab9a5ab4e42a8c&amp;dn=Dragon+Ball+Z+Remastered+Season+1-9+%2B+Movies+Pack&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 115,
+  "leechers": 105,
+  "uploader": "Mughal1",
+  "files": 386,
+  "time": 1386151393,
+  "description": "Dragon Ball Z Remastered Season 1-9 + Movies Pack",
+  "parsed": {
+    "xt": "urn:btih:873544be4a75827dd3bdbd0b8aab9a5ab4e42a8c",
+    "dn": "Dragon Ball Z Remastered Season 1-9   Movies Pack",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "873544be4a75827dd3bdbd0b8aab9a5ab4e42a8c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        135,
+        53,
+        68,
+        190,
+        74,
+        117,
+        130,
+        125,
+        211,
+        189,
+        189,
+        11,
+        138,
+        171,
+        154,
+        90,
+        180,
+        228,
+        42,
+        140
+      ]
+    },
+    "name": "Dragon Ball Z Remastered Season 1-9   Movies Pack",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 220,
+  "peers": 52,
+  "last_updated": "2016-12-25T06:47:10.646Z"
+}

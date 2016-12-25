@@ -1,1 +1,61 @@
-{"title":"Game.of.Thrones.S01E06.HDTV.VOSTFR.Gillop.avi","uid":6424032,"size":416534610,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:87e69ddd5ba53caf2c74c01900acd8f106b0c877&amp;dn=Game.of.Thrones.S01E06.HDTV.VOSTFR.Gillop.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":160,"leechers":3,"uploader":"gillop1","files":1,"time":1306399568,"description":"french subtitles","torrent":{"xt":"urn:btih:87e69ddd5ba53caf2c74c01900acd8f106b0c877","amp;dn":"Game.of.Thrones.S01E06.HDTV.VOSTFR.Gillop.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"87e69ddd5ba53caf2c74c01900acd8f106b0c877","infoHashBuffer":{"type":"Buffer","data":[135,230,157,221,91,165,60,175,44,116,192,25,0,172,216,241,6,176,200,119]},"announce":[],"urlList":[]}}
+{
+  "title": "Game.of.Thrones.S01E06.HDTV.VOSTFR.Gillop.avi",
+  "uid": 6424032,
+  "size": 416534610,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:87e69ddd5ba53caf2c74c01900acd8f106b0c877&amp;dn=Game.of.Thrones.S01E06.HDTV.VOSTFR.Gillop.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 160,
+  "leechers": 3,
+  "uploader": "gillop1",
+  "files": 1,
+  "time": 1306399568,
+  "description": "french subtitles",
+  "parsed": {
+    "xt": "urn:btih:87e69ddd5ba53caf2c74c01900acd8f106b0c877",
+    "dn": "Game.of.Thrones.S01E06.HDTV.VOSTFR.Gillop.avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "87e69ddd5ba53caf2c74c01900acd8f106b0c877",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        135,
+        230,
+        157,
+        221,
+        91,
+        165,
+        60,
+        175,
+        44,
+        116,
+        192,
+        25,
+        0,
+        172,
+        216,
+        241,
+        6,
+        176,
+        200,
+        119
+      ]
+    },
+    "name": "Game.of.Thrones.S01E06.HDTV.VOSTFR.Gillop.avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 163,
+  "peers": 59,
+  "last_updated": "2016-12-25T06:51:23.576Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Westworld 1x01 (720p-HDTV-x264-FLEET)[VTV]","uid":15942733,"size":1332059986,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:874e50bb732e39c7fef8c5c997388f20d8a82575&amp;dn=Westworld+1x01+%28720p-HDTV-x264-FLEET%29%5BVTV%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":80,"leechers":7,"uploader":"realVTV","files":1,"time":1475469680,"description":"Westworld 1x01 (720p-HDTV-x264-FLEET)[VTV]","torrent":{"xt":"urn:btih:874e50bb732e39c7fef8c5c997388f20d8a82575","amp;dn":"Westworld+1x01+%28720p-HDTV-x264-FLEET%29%5BVTV%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"874e50bb732e39c7fef8c5c997388f20d8a82575","infoHashBuffer":{"type":"Buffer","data":[135,78,80,187,115,46,57,199,254,248,197,201,151,56,143,32,216,168,37,117]},"announce":[],"urlList":[]}}
+{
+  "title": "Westworld 1x01 (720p-HDTV-x264-FLEET)[VTV]",
+  "uid": 15942733,
+  "size": 1332059986,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:874e50bb732e39c7fef8c5c997388f20d8a82575&amp;dn=Westworld+1x01+%28720p-HDTV-x264-FLEET%29%5BVTV%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 80,
+  "leechers": 7,
+  "uploader": "realVTV",
+  "files": 1,
+  "time": 1475469680,
+  "description": "Westworld 1x01 (720p-HDTV-x264-FLEET)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:874e50bb732e39c7fef8c5c997388f20d8a82575",
+    "dn": "Westworld 1x01 (720p-HDTV-x264-FLEET)[VTV]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "874e50bb732e39c7fef8c5c997388f20d8a82575",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        135,
+        78,
+        80,
+        187,
+        115,
+        46,
+        57,
+        199,
+        254,
+        248,
+        197,
+        201,
+        151,
+        56,
+        143,
+        32,
+        216,
+        168,
+        37,
+        117
+      ]
+    },
+    "name": "Westworld 1x01 (720p-HDTV-x264-FLEET)[VTV]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 87,
+  "peers": 62,
+  "last_updated": "2016-12-25T06:47:48.770Z"
+}

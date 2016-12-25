@@ -1,1 +1,63 @@
-{"title":"Gang Beasts v0.4.3","uid":15862108,"size":567617913,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:8620c58563e9838a7913bfc09c85aec84c83fc90&amp;dn=Gang+Beasts+v0.4.3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":3,"uploader":"dauphong","files":1,"time":1474311755,"description":"Gang Beasts is a silly local multiplayer party game with surly gelatinous characters, brutal mÃªlÃ©e fight sequences, and absurdly hazardous environments.\r\n\r\nWatch in horror and amusement as gangs of floppy antagonists grab, push, pull, and shove their enemies from permanently suspended window-cleaning scaffolds, unattended ferris wheels, and commercial haulage trucks.\r\n\r\nGasp with shock and delight at the spectacle of stupidly pugnacious thugs punching, kicking, and throwing their foes into unspecified hazardous machinery, flaming incinerator pits, and the paths of moving trains","torrent":{"xt":"urn:btih:8620c58563e9838a7913bfc09c85aec84c83fc90","amp;dn":"Gang+Beasts+v0.4.3","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8620c58563e9838a7913bfc09c85aec84c83fc90","infoHashBuffer":{"type":"Buffer","data":[134,32,197,133,99,233,131,138,121,19,191,192,156,133,174,200,76,131,252,144]},"announce":[],"urlList":[]}}
+{
+  "title": "Gang Beasts v0.4.3",
+  "uid": 15862108,
+  "size": 567617913,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:8620c58563e9838a7913bfc09c85aec84c83fc90&amp;dn=Gang+Beasts+v0.4.3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 3,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1474311755,
+  "description": "Gang Beasts is a silly local multiplayer party game with surly gelatinous characters, brutal mÃªlÃ©e fight sequences, and absurdly hazardous environments.\r\n\r\nWatch in horror and amusement as gangs of floppy antagonists grab, push, pull, and shove their enemies from permanently suspended window-cleaning scaffolds, unattended ferris wheels, and commercial haulage trucks.\r\n\r\nGasp with shock and delight at the spectacle of stupidly pugnacious thugs punching, kicking, and throwing their foes into unspecified hazardous machinery, flaming incinerator pits, and the paths of moving trains",
+  "parsed": {
+    "xt": "urn:btih:8620c58563e9838a7913bfc09c85aec84c83fc90",
+    "dn": "Gang Beasts v0.4.3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "8620c58563e9838a7913bfc09c85aec84c83fc90",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        134,
+        32,
+        197,
+        133,
+        99,
+        233,
+        131,
+        138,
+        121,
+        19,
+        191,
+        192,
+        156,
+        133,
+        174,
+        200,
+        76,
+        131,
+        252,
+        144
+      ]
+    },
+    "name": "Gang Beasts v0.4.3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 75,
+  "peers": 203,
+  "last_updated": "2016-12-25T06:40:11.450Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Las 100 Grandiosas canciones en Espayol [Mp3]","uid":7622130,"size":559393318,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:87aa5d9c1c6f1dacb698e78b2cb7285fd7cd1bd7&amp;dn=Las+100+Grandiosas+canciones+en+Espayol+%5BMp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":16,"uploader":"virana","files":-1,"time":1347351952,"description":"VA - Las 100 grandiosas canciones en espaÃƒÂ±ol de los 80s\n \n5 CD\n\nPop | 192 kbps, 44100 Hz, Joint Stereo MS | 530 Mb |\n\n","torrent":{"xt":"urn:btih:87aa5d9c1c6f1dacb698e78b2cb7285fd7cd1bd7","amp;dn":"Las+100+Grandiosas+canciones+en+Espayol+%5BMp3%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"87aa5d9c1c6f1dacb698e78b2cb7285fd7cd1bd7","infoHashBuffer":{"type":"Buffer","data":[135,170,93,156,28,111,29,172,182,152,231,139,44,183,40,95,215,205,27,215]},"announce":[],"urlList":[]}}
+{
+  "title": "Las 100 Grandiosas canciones en Espayol [Mp3]",
+  "uid": 7622130,
+  "size": 559393318,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:87aa5d9c1c6f1dacb698e78b2cb7285fd7cd1bd7&amp;dn=Las+100+Grandiosas+canciones+en+Espayol+%5BMp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 16,
+  "uploader": "virana",
+  "files": -1,
+  "time": 1347351952,
+  "description": "VA - Las 100 grandiosas canciones en espaÃƒÂ±ol de los 80s\n \n5 CD\n\nPop | 192 kbps, 44100 Hz, Joint Stereo MS | 530 Mb |\n\n",
+  "parsed": {
+    "xt": "urn:btih:87aa5d9c1c6f1dacb698e78b2cb7285fd7cd1bd7",
+    "dn": "Las 100 Grandiosas canciones en Espayol [Mp3]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "87aa5d9c1c6f1dacb698e78b2cb7285fd7cd1bd7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        135,
+        170,
+        93,
+        156,
+        28,
+        111,
+        29,
+        172,
+        182,
+        152,
+        231,
+        139,
+        44,
+        183,
+        40,
+        95,
+        215,
+        205,
+        27,
+        215
+      ]
+    },
+    "name": "Las 100 Grandiosas canciones en Espayol [Mp3]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 32,
+  "last_updated": "2016-12-25T06:49:53.145Z"
+}

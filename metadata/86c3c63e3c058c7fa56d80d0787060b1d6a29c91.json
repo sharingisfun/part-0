@@ -1,1 +1,61 @@
-{"title":"CD - A Galinha Pintadinha 2","uid":7494619,"size":53545754,"categoryP":"audio","categoryS":"audio_books","magnet":"?xt=urn:btih:86c3c63e3c058c7fa56d80d0787060b1d6a29c91&amp;dn=CD+-+A+Galinha+Pintadinha+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":0,"uploader":"Guyna","files":15,"time":1343840799,"description":"CD Infantil a Galinha Pintadinha 2 - 192 KBPS","torrent":{"xt":"urn:btih:86c3c63e3c058c7fa56d80d0787060b1d6a29c91","amp;dn":"CD+-+A+Galinha+Pintadinha+2","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"86c3c63e3c058c7fa56d80d0787060b1d6a29c91","infoHashBuffer":{"type":"Buffer","data":[134,195,198,62,60,5,140,127,165,109,128,208,120,112,96,177,214,162,156,145]},"announce":[],"urlList":[]}}
+{
+  "title": "CD - A Galinha Pintadinha 2",
+  "uid": 7494619,
+  "size": 53545754,
+  "categoryP": "audio",
+  "categoryS": "audio_books",
+  "magnet": "?xt=urn:btih:86c3c63e3c058c7fa56d80d0787060b1d6a29c91&amp;dn=CD+-+A+Galinha+Pintadinha+2&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 0,
+  "uploader": "Guyna",
+  "files": 15,
+  "time": 1343840799,
+  "description": "CD Infantil a Galinha Pintadinha 2 - 192 KBPS",
+  "parsed": {
+    "xt": "urn:btih:86c3c63e3c058c7fa56d80d0787060b1d6a29c91",
+    "dn": "CD - A Galinha Pintadinha 2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "86c3c63e3c058c7fa56d80d0787060b1d6a29c91",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        134,
+        195,
+        198,
+        62,
+        60,
+        5,
+        140,
+        127,
+        165,
+        109,
+        128,
+        208,
+        120,
+        112,
+        96,
+        177,
+        214,
+        162,
+        156,
+        145
+      ]
+    },
+    "name": "CD - A Galinha Pintadinha 2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 20,
+  "last_updated": "2016-12-25T06:44:16.167Z"
+}

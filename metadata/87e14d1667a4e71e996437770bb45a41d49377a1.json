@@ -1,1 +1,61 @@
-{"title":"Sons Of Anarchy 2x01 DVD DVB Spanish","uid":5475602,"size":333918904,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:87e14d1667a4e71e996437770bb45a41d49377a1&amp;dn=Sons+Of+Anarchy+2x01+DVD+DVB+Spanish&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":3,"uploader":"Mois20","files":1,"time":1270126862,"description":"Sons Of Anarchy 2x01 DVD DVB Spanish","torrent":{"xt":"urn:btih:87e14d1667a4e71e996437770bb45a41d49377a1","amp;dn":"Sons+Of+Anarchy+2x01+DVD+DVB+Spanish","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"87e14d1667a4e71e996437770bb45a41d49377a1","infoHashBuffer":{"type":"Buffer","data":[135,225,77,22,103,164,231,30,153,100,55,119,11,180,90,65,212,147,119,161]},"announce":[],"urlList":[]}}
+{
+  "title": "Sons Of Anarchy 2x01 DVD DVB Spanish",
+  "uid": 5475602,
+  "size": 333918904,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:87e14d1667a4e71e996437770bb45a41d49377a1&amp;dn=Sons+Of+Anarchy+2x01+DVD+DVB+Spanish&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 3,
+  "uploader": "Mois20",
+  "files": 1,
+  "time": 1270126862,
+  "description": "Sons Of Anarchy 2x01 DVD DVB Spanish",
+  "parsed": {
+    "xt": "urn:btih:87e14d1667a4e71e996437770bb45a41d49377a1",
+    "dn": "Sons Of Anarchy 2x01 DVD DVB Spanish",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "87e14d1667a4e71e996437770bb45a41d49377a1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        135,
+        225,
+        77,
+        22,
+        103,
+        164,
+        231,
+        30,
+        153,
+        100,
+        55,
+        119,
+        11,
+        180,
+        90,
+        65,
+        212,
+        147,
+        119,
+        161
+      ]
+    },
+    "name": "Sons Of Anarchy 2x01 DVD DVB Spanish",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 10,
+  "last_updated": "2016-12-25T06:51:15.550Z"
+}

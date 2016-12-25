@@ -1,1 +1,61 @@
-{"title":"ACDC - Thunderstruck.mp3","uid":3771649,"size":4678889,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:862293879015d475d225f0c4b19194201d288eba&amp;dn=ACDC+-+Thunderstruck.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":69,"leechers":0,"uploader":"Javabean","files":1,"time":1187016923,"description":"Best Aussie Band Ever","torrent":{"xt":"urn:btih:862293879015d475d225f0c4b19194201d288eba","amp;dn":"ACDC+-+Thunderstruck.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"862293879015d475d225f0c4b19194201d288eba","infoHashBuffer":{"type":"Buffer","data":[134,34,147,135,144,21,212,117,210,37,240,196,177,145,148,32,29,40,142,186]},"announce":[],"urlList":[]}}
+{
+  "title": "ACDC - Thunderstruck.mp3",
+  "uid": 3771649,
+  "size": 4678889,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:862293879015d475d225f0c4b19194201d288eba&amp;dn=ACDC+-+Thunderstruck.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 69,
+  "leechers": 0,
+  "uploader": "Javabean",
+  "files": 1,
+  "time": 1187016923,
+  "description": "Best Aussie Band Ever",
+  "parsed": {
+    "xt": "urn:btih:862293879015d475d225f0c4b19194201d288eba",
+    "dn": "ACDC - Thunderstruck.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "862293879015d475d225f0c4b19194201d288eba",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        134,
+        34,
+        147,
+        135,
+        144,
+        21,
+        212,
+        117,
+        210,
+        37,
+        240,
+        196,
+        177,
+        145,
+        148,
+        32,
+        29,
+        40,
+        142,
+        186
+      ]
+    },
+    "name": "ACDC - Thunderstruck.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 67,
+  "last_updated": "2016-12-25T06:40:15.463Z"
+}

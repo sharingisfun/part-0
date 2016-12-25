@@ -1,1 +1,61 @@
-{"title":"Annie Hall (Woody Allen 1977) XviD DVDRip avi","uid":3321674,"size":730449920,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:86884fc6ed91dc326a27b24bff8f0eddc3c73229&amp;dn=Annie+Hall+%28Woody+Allen+1977%29+XviD+DVDRip+avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":0,"uploader":"befb","files":1,"time":1114474165,"description":"http://imdb.com/title/tt0075686","torrent":{"xt":"urn:btih:86884fc6ed91dc326a27b24bff8f0eddc3c73229","amp;dn":"Annie+Hall+%28Woody+Allen+1977%29+XviD+DVDRip+avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"86884fc6ed91dc326a27b24bff8f0eddc3c73229","infoHashBuffer":{"type":"Buffer","data":[134,136,79,198,237,145,220,50,106,39,178,75,255,143,14,221,195,199,50,41]},"announce":[],"urlList":[]}}
+{
+  "title": "Annie Hall (Woody Allen 1977) XviD DVDRip avi",
+  "uid": 3321674,
+  "size": 730449920,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:86884fc6ed91dc326a27b24bff8f0eddc3c73229&amp;dn=Annie+Hall+%28Woody+Allen+1977%29+XviD+DVDRip+avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 0,
+  "uploader": "befb",
+  "files": 1,
+  "time": 1114474165,
+  "description": "http://imdb.com/title/tt0075686",
+  "parsed": {
+    "xt": "urn:btih:86884fc6ed91dc326a27b24bff8f0eddc3c73229",
+    "dn": "Annie Hall (Woody Allen 1977) XviD DVDRip avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "86884fc6ed91dc326a27b24bff8f0eddc3c73229",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        134,
+        136,
+        79,
+        198,
+        237,
+        145,
+        220,
+        50,
+        106,
+        39,
+        178,
+        75,
+        255,
+        143,
+        14,
+        221,
+        195,
+        199,
+        50,
+        41
+      ]
+    },
+    "name": "Annie Hall (Woody Allen 1977) XviD DVDRip avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 16,
+  "last_updated": "2016-12-25T06:42:53.931Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Sr e Sra Smith 720p dublado","uid":9077961,"size":816264397,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:86ebf5e57c9ec14437a62f5e6da34698fc64b757&amp;dn=Sr+e+Sra+Smith+720p+dublado&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":3,"uploader":"tluan3d","files":1,"time":1382327794,"description":"Filme 720p","torrent":{"xt":"urn:btih:86ebf5e57c9ec14437a62f5e6da34698fc64b757","amp;dn":"Sr+e+Sra+Smith+720p+dublado","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"86ebf5e57c9ec14437a62f5e6da34698fc64b757","infoHashBuffer":{"type":"Buffer","data":[134,235,245,229,124,158,193,68,55,166,47,94,109,163,70,152,252,100,183,87]},"announce":[],"urlList":[]}}
+{
+  "title": "Sr e Sra Smith 720p dublado",
+  "uid": 9077961,
+  "size": 816264397,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:86ebf5e57c9ec14437a62f5e6da34698fc64b757&amp;dn=Sr+e+Sra+Smith+720p+dublado&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 3,
+  "uploader": "tluan3d",
+  "files": 1,
+  "time": 1382327794,
+  "description": "Filme 720p",
+  "parsed": {
+    "xt": "urn:btih:86ebf5e57c9ec14437a62f5e6da34698fc64b757",
+    "dn": "Sr e Sra Smith 720p dublado",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "86ebf5e57c9ec14437a62f5e6da34698fc64b757",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        134,
+        235,
+        245,
+        229,
+        124,
+        158,
+        193,
+        68,
+        55,
+        166,
+        47,
+        94,
+        109,
+        163,
+        70,
+        152,
+        252,
+        100,
+        183,
+        87
+      ]
+    },
+    "name": "Sr e Sra Smith 720p dublado",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 40,
+  "last_updated": "2016-12-25T06:45:14.315Z"
+}

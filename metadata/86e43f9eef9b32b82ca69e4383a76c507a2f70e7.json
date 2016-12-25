@@ -1,1 +1,63 @@
-{"title":"Frank Ocean Boy's Don't Cry (Blonde)","uid":15608290,"size":145406132,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:86e43f9eef9b32b82ca69e4383a76c507a2f70e7&amp;dn=Frank+Ocean+Boy%27s+Don%27t+Cry+%28Blonde%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":777,"leechers":6,"uploader":"efarmony","files":17,"time":1471745385,"description":"With Love - H","torrent":{"xt":"urn:btih:86e43f9eef9b32b82ca69e4383a76c507a2f70e7","amp;dn":"Frank+Ocean+Boy%27s+Don%27t+Cry+%28Blonde%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"86e43f9eef9b32b82ca69e4383a76c507a2f70e7","infoHashBuffer":{"type":"Buffer","data":[134,228,63,158,239,155,50,184,44,166,158,67,131,167,108,80,122,47,112,231]},"announce":[],"urlList":[]}}
+{
+  "title": "Frank Ocean Boy's Don't Cry (Blonde)",
+  "uid": 15608290,
+  "size": 145406132,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:86e43f9eef9b32b82ca69e4383a76c507a2f70e7&amp;dn=Frank+Ocean+Boy%27s+Don%27t+Cry+%28Blonde%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 777,
+  "leechers": 6,
+  "uploader": "efarmony",
+  "files": 17,
+  "time": 1471745385,
+  "description": "With Love - H",
+  "parsed": {
+    "xt": "urn:btih:86e43f9eef9b32b82ca69e4383a76c507a2f70e7",
+    "dn": "Frank Ocean Boy's Don't Cry (Blonde)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "86e43f9eef9b32b82ca69e4383a76c507a2f70e7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        134,
+        228,
+        63,
+        158,
+        239,
+        155,
+        50,
+        184,
+        44,
+        166,
+        158,
+        67,
+        131,
+        167,
+        108,
+        80,
+        122,
+        47,
+        112,
+        231
+      ]
+    },
+    "name": "Frank Ocean Boy's Don't Cry (Blonde)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 783,
+  "peers": 283,
+  "last_updated": "2016-12-25T06:45:02.288Z"
+}

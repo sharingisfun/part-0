@@ -1,1 +1,61 @@
-{"title":"Michel Telo -  Ai Se Eu Te Pego  (mp3 320 kbps)","uid":6956322,"size":6610810,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:87af663a8cc636fec1fd657adf4e466c72e75495&amp;dn=Michel+Telo+-++Ai+Se+Eu+Te+Pego++%28mp3+320+kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":"scott1981","files":1,"time":1326591170,"description":"Michel Telo -  Ai Se Eu Te Pego  (mp3 320 kbps)","torrent":{"xt":"urn:btih:87af663a8cc636fec1fd657adf4e466c72e75495","amp;dn":"Michel+Telo+-++Ai+Se+Eu+Te+Pego++%28mp3+320+kbps%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"87af663a8cc636fec1fd657adf4e466c72e75495","infoHashBuffer":{"type":"Buffer","data":[135,175,102,58,140,198,54,254,193,253,101,122,223,78,70,108,114,231,84,149]},"announce":[],"urlList":[]}}
+{
+  "title": "Michel Telo -  Ai Se Eu Te Pego  (mp3 320 kbps)",
+  "uid": 6956322,
+  "size": 6610810,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:87af663a8cc636fec1fd657adf4e466c72e75495&amp;dn=Michel+Telo+-++Ai+Se+Eu+Te+Pego++%28mp3+320+kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": "scott1981",
+  "files": 1,
+  "time": 1326591170,
+  "description": "Michel Telo -  Ai Se Eu Te Pego  (mp3 320 kbps)",
+  "parsed": {
+    "xt": "urn:btih:87af663a8cc636fec1fd657adf4e466c72e75495",
+    "dn": "Michel Telo -  Ai Se Eu Te Pego  (mp3 320 kbps)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "87af663a8cc636fec1fd657adf4e466c72e75495",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        135,
+        175,
+        102,
+        58,
+        140,
+        198,
+        54,
+        254,
+        193,
+        253,
+        101,
+        122,
+        223,
+        78,
+        70,
+        108,
+        114,
+        231,
+        84,
+        149
+      ]
+    },
+    "name": "Michel Telo -  Ai Se Eu Te Pego  (mp3 320 kbps)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 37,
+  "last_updated": "2016-12-25T06:50:09.314Z"
+}

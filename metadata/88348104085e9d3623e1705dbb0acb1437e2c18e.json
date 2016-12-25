@@ -1,1 +1,61 @@
-{"title":"Beartooth - Disgusting [2014]","uid":10307163,"size":106042119,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:88348104085e9d3623e1705dbb0acb1437e2c18e&amp;dn=Beartooth+-+Disgusting+%5B2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":2,"uploader":"ShineNJ","files":12,"time":1402146768,"description":"320 Kbps/48 kHz/Joint Stereo/no transcode\n\n1. The Lines - 3:47\n2. Beaten in Lips - 3:32\n3. Body Bag - 3:49\n4. In Between - 3:33\n5. Relapsing - 3:55\n6. Ignorance Is Bliss - 3:16\n7. I Have a Problem - 4:00\n8. One More - 3:37\n9. Me in My Own Head - 3:26\n10. Keep Your American Dream - 3:30\n11. Dead - 2:15\n12. Sick &amp; Disgusting - 3:45","torrent":{"xt":"urn:btih:88348104085e9d3623e1705dbb0acb1437e2c18e","amp;dn":"Beartooth+-+Disgusting+%5B2014%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"88348104085e9d3623e1705dbb0acb1437e2c18e","infoHashBuffer":{"type":"Buffer","data":[136,52,129,4,8,94,157,54,35,225,112,93,187,10,203,20,55,226,193,142]},"announce":[],"urlList":[]}}
+{
+  "title": "Beartooth - Disgusting [2014]",
+  "uid": 10307163,
+  "size": 106042119,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:88348104085e9d3623e1705dbb0acb1437e2c18e&amp;dn=Beartooth+-+Disgusting+%5B2014%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 2,
+  "uploader": "ShineNJ",
+  "files": 12,
+  "time": 1402146768,
+  "description": "320 Kbps/48 kHz/Joint Stereo/no transcode\n\n1. The Lines - 3:47\n2. Beaten in Lips - 3:32\n3. Body Bag - 3:49\n4. In Between - 3:33\n5. Relapsing - 3:55\n6. Ignorance Is Bliss - 3:16\n7. I Have a Problem - 4:00\n8. One More - 3:37\n9. Me in My Own Head - 3:26\n10. Keep Your American Dream - 3:30\n11. Dead - 2:15\n12. Sick &amp; Disgusting - 3:45",
+  "parsed": {
+    "xt": "urn:btih:88348104085e9d3623e1705dbb0acb1437e2c18e",
+    "dn": "Beartooth - Disgusting [2014]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "88348104085e9d3623e1705dbb0acb1437e2c18e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        136,
+        52,
+        129,
+        4,
+        8,
+        94,
+        157,
+        54,
+        35,
+        225,
+        112,
+        93,
+        187,
+        10,
+        203,
+        20,
+        55,
+        226,
+        193,
+        142
+      ]
+    },
+    "name": "Beartooth - Disgusting [2014]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 27,
+  "last_updated": "2016-12-25T06:53:34.033Z"
+}

@@ -1,1 +1,61 @@
-{"title":"You+Me &amp;bull; Rose Ave [2014] 320","uid":11169519,"size":89062069,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:85d57b05f24dd9d625e43360883f181675039a95&amp;dn=You%2BMe+%26bull%3B+Rose+Ave+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":3,"uploader":"Capajebo","files":-1,"time":1412680072,"description":"===============================\nYou + Me Ã¢â‚¬Â¢ Rose Ave. [2014] 320\n...............................\n===============================\n\n+ iTunes Album Info : https://itunes.apple.com/us/album/rose-ave./id916315582","torrent":{"xt":"urn:btih:85d57b05f24dd9d625e43360883f181675039a95","amp;dn":"You%2BMe+%26bull%3B+Rose+Ave+%5B2014%5D+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"85d57b05f24dd9d625e43360883f181675039a95","infoHashBuffer":{"type":"Buffer","data":[133,213,123,5,242,77,217,214,37,228,51,96,136,63,24,22,117,3,154,149]},"announce":[],"urlList":[]}}
+{
+  "title": "You+Me &amp;bull; Rose Ave [2014] 320",
+  "uid": 11169519,
+  "size": 89062069,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:85d57b05f24dd9d625e43360883f181675039a95&amp;dn=You%2BMe+%26bull%3B+Rose+Ave+%5B2014%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 3,
+  "uploader": "Capajebo",
+  "files": -1,
+  "time": 1412680072,
+  "description": "===============================\nYou + Me Ã¢â‚¬Â¢ Rose Ave. [2014] 320\n...............................\n===============================\n\n+ iTunes Album Info : https://itunes.apple.com/us/album/rose-ave./id916315582",
+  "parsed": {
+    "xt": "urn:btih:85d57b05f24dd9d625e43360883f181675039a95",
+    "dn": "You Me &bull; Rose Ave [2014] 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "85d57b05f24dd9d625e43360883f181675039a95",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        133,
+        213,
+        123,
+        5,
+        242,
+        77,
+        217,
+        214,
+        37,
+        228,
+        51,
+        96,
+        136,
+        63,
+        24,
+        22,
+        117,
+        3,
+        154,
+        149
+      ]
+    },
+    "name": "You Me &bull; Rose Ave [2014] 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 63,
+  "peers": 17,
+  "last_updated": "2016-12-25T06:38:19.131Z"
+}

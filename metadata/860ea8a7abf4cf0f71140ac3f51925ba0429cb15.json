@@ -1,1 +1,61 @@
-{"title":"Selah Sue - Selah Sue (2011)","uid":7091630,"size":136575524,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:860ea8a7abf4cf0f71140ac3f51925ba0429cb15&amp;dn=Selah+Sue+-+Selah+Sue+%282011%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":80,"leechers":6,"uploader":"maximersk","files":17,"time":1331385542,"description":"Selah Sue - Selah Sue (2011)\n\n\n\n\n\n1. This World\n2. Peace Of Mind\n3. Raggamuffin\n4. Crazy Vibes\n5. Black Part Love\n6. Mommy\n7. Explanations\n8. Please (feat. Cee-Lo Green)\n9. Summertime\n10. Crazy Sufferin Style\n11. Fyah Fyah\n12. Just Because I Do","torrent":{"xt":"urn:btih:860ea8a7abf4cf0f71140ac3f51925ba0429cb15","amp;dn":"Selah+Sue+-+Selah+Sue+%282011%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"860ea8a7abf4cf0f71140ac3f51925ba0429cb15","infoHashBuffer":{"type":"Buffer","data":[134,14,168,167,171,244,207,15,113,20,10,195,245,25,37,186,4,41,203,21]},"announce":[],"urlList":[]}}
+{
+  "title": "Selah Sue - Selah Sue (2011)",
+  "uid": 7091630,
+  "size": 136575524,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:860ea8a7abf4cf0f71140ac3f51925ba0429cb15&amp;dn=Selah+Sue+-+Selah+Sue+%282011%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 80,
+  "leechers": 6,
+  "uploader": "maximersk",
+  "files": 17,
+  "time": 1331385542,
+  "description": "Selah Sue - Selah Sue (2011)\n\n\n\n\n\n1. This World\n2. Peace Of Mind\n3. Raggamuffin\n4. Crazy Vibes\n5. Black Part Love\n6. Mommy\n7. Explanations\n8. Please (feat. Cee-Lo Green)\n9. Summertime\n10. Crazy Sufferin Style\n11. Fyah Fyah\n12. Just Because I Do",
+  "parsed": {
+    "xt": "urn:btih:860ea8a7abf4cf0f71140ac3f51925ba0429cb15",
+    "dn": "Selah Sue - Selah Sue (2011)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "860ea8a7abf4cf0f71140ac3f51925ba0429cb15",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        134,
+        14,
+        168,
+        167,
+        171,
+        244,
+        207,
+        15,
+        113,
+        20,
+        10,
+        195,
+        245,
+        25,
+        37,
+        186,
+        4,
+        41,
+        203,
+        21
+      ]
+    },
+    "name": "Selah Sue - Selah Sue (2011)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 86,
+  "peers": 16,
+  "last_updated": "2016-12-25T06:39:49.382Z"
+}
