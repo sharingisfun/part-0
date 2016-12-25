@@ -1,1 +1,61 @@
-{"title":"(RUS) ÃÂ¡ 8 ÃÂ¼ÃÂ°Ã‘â‚¬Ã‘â€šÃÂ°, ÃÂ¼Ã‘Æ’ÃÂ¶Ã‘â€¡ÃÂ¸ÃÂ½Ã‘â€¹! / 2014","uid":10126494,"size":1466976256,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:8a77a6a24790535cad89271f8f0c0776de6d97e5&amp;dn=%28RUS%29+%D0%A1+8+%D0%BC%D0%B0%D1%80%D1%82%D0%B0%2C+%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD%D1%8B%21+%2F+2014+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":882,"leechers":40,"uploader":"olegPskov","files":1,"time":1399770291,"description":"From Russia with love)","torrent":{"xt":"urn:btih:8a77a6a24790535cad89271f8f0c0776de6d97e5","amp;dn":"%28RUS%29+%D0%A1+8+%D0%BC%D0%B0%D1%80%D1%82%D0%B0%2C+%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD%D1%8B%21+%2F+2014+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8a77a6a24790535cad89271f8f0c0776de6d97e5","infoHashBuffer":{"type":"Buffer","data":[138,119,166,162,71,144,83,92,173,137,39,31,143,12,7,118,222,109,151,229]},"announce":[],"urlList":[]}}
+{
+  "title": "(RUS) ÃÂ¡ 8 ÃÂ¼ÃÂ°Ã‘â‚¬Ã‘â€šÃÂ°, ÃÂ¼Ã‘Æ’ÃÂ¶Ã‘â€¡ÃÂ¸ÃÂ½Ã‘â€¹! / 2014",
+  "uid": 10126494,
+  "size": 1466976256,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:8a77a6a24790535cad89271f8f0c0776de6d97e5&amp;dn=%28RUS%29+%D0%A1+8+%D0%BC%D0%B0%D1%80%D1%82%D0%B0%2C+%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD%D1%8B%21+%2F+2014+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 882,
+  "leechers": 40,
+  "uploader": "olegPskov",
+  "files": 1,
+  "time": 1399770291,
+  "description": "From Russia with love)",
+  "parsed": {
+    "xt": "urn:btih:8a77a6a24790535cad89271f8f0c0776de6d97e5",
+    "dn": "(RUS) С 8 марта, мужчины! / 2014 ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8a77a6a24790535cad89271f8f0c0776de6d97e5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        138,
+        119,
+        166,
+        162,
+        71,
+        144,
+        83,
+        92,
+        173,
+        137,
+        39,
+        31,
+        143,
+        12,
+        7,
+        118,
+        222,
+        109,
+        151,
+        229
+      ]
+    },
+    "name": "(RUS) С 8 марта, мужчины! / 2014 ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 922,
+  "peers": 11,
+  "last_updated": "2016-12-25T07:08:53.051Z"
+}

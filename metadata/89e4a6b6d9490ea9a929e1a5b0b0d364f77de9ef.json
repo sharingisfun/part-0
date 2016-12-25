@@ -1,1 +1,61 @@
-{"title":"Rome Complete Season 1","uid":4318082,"size":4399703952,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:89e4a6b6d9490ea9a929e1a5b0b0d364f77de9ef&amp;dn=Rome+Complete+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":129,"leechers":40,"uploader":"circlensess","files":12,"time":1217239118,"description":"Uploaded by Cygnus.\nComplete Season One of Rome. DVD Quality. Separate files.","torrent":{"xt":"urn:btih:89e4a6b6d9490ea9a929e1a5b0b0d364f77de9ef","amp;dn":"Rome+Complete+Season+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"89e4a6b6d9490ea9a929e1a5b0b0d364f77de9ef","infoHashBuffer":{"type":"Buffer","data":[137,228,166,182,217,73,14,169,169,41,225,165,176,176,211,100,247,125,233,239]},"announce":[],"urlList":[]}}
+{
+  "title": "Rome Complete Season 1",
+  "uid": 4318082,
+  "size": 4399703952,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:89e4a6b6d9490ea9a929e1a5b0b0d364f77de9ef&amp;dn=Rome+Complete+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 129,
+  "leechers": 40,
+  "uploader": "circlensess",
+  "files": 12,
+  "time": 1217239118,
+  "description": "Uploaded by Cygnus.\nComplete Season One of Rome. DVD Quality. Separate files.",
+  "parsed": {
+    "xt": "urn:btih:89e4a6b6d9490ea9a929e1a5b0b0d364f77de9ef",
+    "dn": "Rome Complete Season 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "89e4a6b6d9490ea9a929e1a5b0b0d364f77de9ef",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        137,
+        228,
+        166,
+        182,
+        217,
+        73,
+        14,
+        169,
+        169,
+        41,
+        225,
+        165,
+        176,
+        176,
+        211,
+        100,
+        247,
+        125,
+        233,
+        239
+      ]
+    },
+    "name": "Rome Complete Season 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 169,
+  "peers": 122,
+  "last_updated": "2016-12-25T07:05:36.469Z"
+}

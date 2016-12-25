@@ -1,1 +1,61 @@
-{"title":"Murder In The First S01E02 HDTV x264-LOL[ettv]","uid":10375113,"size":227366039,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:8a9889f84f7e1dbbcfc921399f3e21cc05c93ba7&amp;dn=Murder+In+The+First+S01E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":10,"uploader":"ettv","files":2,"time":1402981356,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:8a9889f84f7e1dbbcfc921399f3e21cc05c93ba7","amp;dn":"Murder+In+The+First+S01E02+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8a9889f84f7e1dbbcfc921399f3e21cc05c93ba7","infoHashBuffer":{"type":"Buffer","data":[138,152,137,248,79,126,29,187,207,201,33,57,159,62,33,204,5,201,59,167]},"announce":[],"urlList":[]}}
+{
+  "title": "Murder In The First S01E02 HDTV x264-LOL[ettv]",
+  "uid": 10375113,
+  "size": 227366039,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:8a9889f84f7e1dbbcfc921399f3e21cc05c93ba7&amp;dn=Murder+In+The+First+S01E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 10,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1402981356,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:8a9889f84f7e1dbbcfc921399f3e21cc05c93ba7",
+    "dn": "Murder In The First S01E02 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8a9889f84f7e1dbbcfc921399f3e21cc05c93ba7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        138,
+        152,
+        137,
+        248,
+        79,
+        126,
+        29,
+        187,
+        207,
+        201,
+        33,
+        57,
+        159,
+        62,
+        33,
+        204,
+        5,
+        201,
+        59,
+        167
+      ]
+    },
+    "name": "Murder In The First S01E02 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 81,
+  "peers": 16,
+  "last_updated": "2016-12-25T07:09:39.170Z"
+}

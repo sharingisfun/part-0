@@ -1,1 +1,63 @@
-{"title":"DNCE-Toothbrush.mp3","uid":15462600,"size":3742164,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:898e463f04cdd9198b8e63533988c5f3579b310c&amp;dn=DNCE-Toothbrush.mp3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":0,"uploader":"mark4705","files":1,"time":1470064353,"description":"DNCE-Toothbrush","torrent":{"xt":"urn:btih:898e463f04cdd9198b8e63533988c5f3579b310c","amp;dn":"DNCE-Toothbrush.mp3","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"898e463f04cdd9198b8e63533988c5f3579b310c","infoHashBuffer":{"type":"Buffer","data":[137,142,70,63,4,205,217,25,139,142,99,83,57,136,197,243,87,155,49,12]},"announce":[],"urlList":[]}}
+{
+  "title": "DNCE-Toothbrush.mp3",
+  "uid": 15462600,
+  "size": 3742164,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:898e463f04cdd9198b8e63533988c5f3579b310c&amp;dn=DNCE-Toothbrush.mp3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 0,
+  "uploader": "mark4705",
+  "files": 1,
+  "time": 1470064353,
+  "description": "DNCE-Toothbrush",
+  "parsed": {
+    "xt": "urn:btih:898e463f04cdd9198b8e63533988c5f3579b310c",
+    "dn": "DNCE-Toothbrush.mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "898e463f04cdd9198b8e63533988c5f3579b310c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        137,
+        142,
+        70,
+        63,
+        4,
+        205,
+        217,
+        25,
+        139,
+        142,
+        99,
+        83,
+        57,
+        136,
+        197,
+        243,
+        87,
+        155,
+        49,
+        12
+      ]
+    },
+    "name": "DNCE-Toothbrush.mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 140,
+  "last_updated": "2016-12-25T07:03:18.062Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Bojack Horseman Season 1 Webrip XviD","uid":10898513,"size":2681676676,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:88dac02ee3c09464d6420b28ff3dbd0b8af9d56e&amp;dn=Bojack+Horseman+Season+1+Webrip+XviD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":103,"leechers":12,"uploader":"Pongydog","files":12,"time":1409169955,"description":"Bojack Horseman Season 1 Webrip XviD\n\n\n\nExample tech info:\n\nbojack.horseman.s01e01.webrip.XviD-pong.avi\n-----------------------------------------\n-----------------------------------------\nVideo Format........: XviD\nLength..............: 25mn5s\nVideo...............: 640x360 ( 23.976fps )\nBitrate.............: 949Kbps\nAudio Format........: MP3 \nBit rate mode.......: Constant\nBitrate.............: 128Kbps\nChannel(s)..........: 2 channels\n\n","torrent":{"xt":"urn:btih:88dac02ee3c09464d6420b28ff3dbd0b8af9d56e","amp;dn":"Bojack+Horseman+Season+1+Webrip+XviD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"88dac02ee3c09464d6420b28ff3dbd0b8af9d56e","infoHashBuffer":{"type":"Buffer","data":[136,218,192,46,227,192,148,100,214,66,11,40,255,61,189,11,138,249,213,110]},"announce":[],"urlList":[]}}
+{
+  "title": "Bojack Horseman Season 1 Webrip XviD",
+  "uid": 10898513,
+  "size": 2681676676,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:88dac02ee3c09464d6420b28ff3dbd0b8af9d56e&amp;dn=Bojack+Horseman+Season+1+Webrip+XviD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 103,
+  "leechers": 12,
+  "uploader": "Pongydog",
+  "files": 12,
+  "time": 1409169955,
+  "description": "Bojack Horseman Season 1 Webrip XviD\n\n\n\nExample tech info:\n\nbojack.horseman.s01e01.webrip.XviD-pong.avi\n-----------------------------------------\n-----------------------------------------\nVideo Format........: XviD\nLength..............: 25mn5s\nVideo...............: 640x360 ( 23.976fps )\nBitrate.............: 949Kbps\nAudio Format........: MP3 \nBit rate mode.......: Constant\nBitrate.............: 128Kbps\nChannel(s)..........: 2 channels\n\n",
+  "parsed": {
+    "xt": "urn:btih:88dac02ee3c09464d6420b28ff3dbd0b8af9d56e",
+    "dn": "Bojack Horseman Season 1 Webrip XviD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "88dac02ee3c09464d6420b28ff3dbd0b8af9d56e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        136,
+        218,
+        192,
+        46,
+        227,
+        192,
+        148,
+        100,
+        214,
+        66,
+        11,
+        40,
+        255,
+        61,
+        189,
+        11,
+        138,
+        249,
+        213,
+        110
+      ]
+    },
+    "name": "Bojack Horseman Season 1 Webrip XviD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 115,
+  "peers": 50,
+  "last_updated": "2016-12-25T06:58:05.069Z"
+}

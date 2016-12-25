@@ -1,1 +1,61 @@
-{"title":"Jason Aldean - Old Boots, New Dirt {MP3-2014}","uid":11174424,"size":123857673,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:891a5772929e8028d4a1593dc8add745219d884b&amp;dn=Jason+Aldean+-+Old+Boots%2C+New+Dirt+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":122,"leechers":212,"uploader":"simpsonrony","files":-1,"time":1412758167,"description":"\nSource: https://itunes.apple.com/us/album/old-boots-new-dirt/id913336200\n\nArtist: Jason Aldean\n\nAlbum: Old Boots, New Dirt\n\nGenre: Country\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\n\nTracklist:\n**********\n\n01 Just Gettin' Started\n02 Show You Off\n03 Burnin' It Down\n04 Tryin' To Love Me\n05 Sweet Little Somethin'\n06 Laid Back\n07 Tonight Looks Good On You\n08 Too Fast\n09 If My Truck Could Talk\n10 Old Boots, New Dirt\n11 I Took It With Me\n12 Don't Change Gone\n13 Miss That Girl\n14 Gonna Know We Were Here\n15 Two Night Town\n\n","torrent":{"xt":"urn:btih:891a5772929e8028d4a1593dc8add745219d884b","amp;dn":"Jason+Aldean+-+Old+Boots%2C+New+Dirt+%7BMP3-2014%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"891a5772929e8028d4a1593dc8add745219d884b","infoHashBuffer":{"type":"Buffer","data":[137,26,87,114,146,158,128,40,212,161,89,61,200,173,215,69,33,157,136,75]},"announce":[],"urlList":[]}}
+{
+  "title": "Jason Aldean - Old Boots, New Dirt {MP3-2014}",
+  "uid": 11174424,
+  "size": 123857673,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:891a5772929e8028d4a1593dc8add745219d884b&amp;dn=Jason+Aldean+-+Old+Boots%2C+New+Dirt+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 122,
+  "leechers": 212,
+  "uploader": "simpsonrony",
+  "files": -1,
+  "time": 1412758167,
+  "description": "\nSource: https://itunes.apple.com/us/album/old-boots-new-dirt/id913336200\n\nArtist: Jason Aldean\n\nAlbum: Old Boots, New Dirt\n\nGenre: Country\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\n\nTracklist:\n**********\n\n01 Just Gettin' Started\n02 Show You Off\n03 Burnin' It Down\n04 Tryin' To Love Me\n05 Sweet Little Somethin'\n06 Laid Back\n07 Tonight Looks Good On You\n08 Too Fast\n09 If My Truck Could Talk\n10 Old Boots, New Dirt\n11 I Took It With Me\n12 Don't Change Gone\n13 Miss That Girl\n14 Gonna Know We Were Here\n15 Two Night Town\n\n",
+  "parsed": {
+    "xt": "urn:btih:891a5772929e8028d4a1593dc8add745219d884b",
+    "dn": "Jason Aldean - Old Boots, New Dirt {MP3-2014}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "891a5772929e8028d4a1593dc8add745219d884b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        137,
+        26,
+        87,
+        114,
+        146,
+        158,
+        128,
+        40,
+        212,
+        161,
+        89,
+        61,
+        200,
+        173,
+        215,
+        69,
+        33,
+        157,
+        136,
+        75
+      ]
+    },
+    "name": "Jason Aldean - Old Boots, New Dirt {MP3-2014}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 334,
+  "peers": 70,
+  "last_updated": "2016-12-25T07:00:01.464Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Megadeth- Rust In Peace","uid":8714337,"size":97908012,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:8960ca0e41ceaf4eb4b23a5ca45cb3ab5a447017&amp;dn=Megadeth-+Rust+In+Peace&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":1,"uploader":"HellEvAl","files":9,"time":1374304497,"description":"Megadeth\nRust In Peace\nCD Rip\n320 Kbps\n\nEnjoy this classic metal album by a classic metal band","torrent":{"xt":"urn:btih:8960ca0e41ceaf4eb4b23a5ca45cb3ab5a447017","amp;dn":"Megadeth-+Rust+In+Peace","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8960ca0e41ceaf4eb4b23a5ca45cb3ab5a447017","infoHashBuffer":{"type":"Buffer","data":[137,96,202,14,65,206,175,78,180,178,58,92,164,92,179,171,90,68,112,23]},"announce":[],"urlList":[]}}
+{
+  "title": "Megadeth- Rust In Peace",
+  "uid": 8714337,
+  "size": 97908012,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:8960ca0e41ceaf4eb4b23a5ca45cb3ab5a447017&amp;dn=Megadeth-+Rust+In+Peace&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 1,
+  "uploader": "HellEvAl",
+  "files": 9,
+  "time": 1374304497,
+  "description": "Megadeth\nRust In Peace\nCD Rip\n320 Kbps\n\nEnjoy this classic metal album by a classic metal band",
+  "parsed": {
+    "xt": "urn:btih:8960ca0e41ceaf4eb4b23a5ca45cb3ab5a447017",
+    "dn": "Megadeth- Rust In Peace",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8960ca0e41ceaf4eb4b23a5ca45cb3ab5a447017",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        137,
+        96,
+        202,
+        14,
+        65,
+        206,
+        175,
+        78,
+        180,
+        178,
+        58,
+        92,
+        164,
+        92,
+        179,
+        171,
+        90,
+        68,
+        112,
+        23
+      ]
+    },
+    "name": "Megadeth- Rust In Peace",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 13,
+  "last_updated": "2016-12-25T07:02:13.871Z"
+}

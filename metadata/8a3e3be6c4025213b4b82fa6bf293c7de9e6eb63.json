@@ -1,1 +1,61 @@
-{"title":"Washed Out - Life of Leisure (320kbps)","uid":8188062,"size":42973617,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:8a3e3be6c4025213b4b82fa6bf293c7de9e6eb63&amp;dn=Washed+Out+-+Life+of+Leisure+%28320kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":1,"uploader":"mellbig","files":7,"time":1361767539,"description":"Tracks\n\nNo. Title\t          Length\t\n1.  &quot;Get Up&quot; \t          3:01\n2.  &quot;New Theory&quot;          2:52\n3.  &quot;Hold Out&quot; \t          3:29\n4.  &quot;Feel It All Around&quot;  3:16\n5.  &quot;Lately&quot;  \t          2:02\n6.  &quot;You'll See It&quot;  \t  2:55","torrent":{"xt":"urn:btih:8a3e3be6c4025213b4b82fa6bf293c7de9e6eb63","amp;dn":"Washed+Out+-+Life+of+Leisure+%28320kbps%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"8a3e3be6c4025213b4b82fa6bf293c7de9e6eb63","infoHashBuffer":{"type":"Buffer","data":[138,62,59,230,196,2,82,19,180,184,47,166,191,41,60,125,233,230,235,99]},"announce":[],"urlList":[]}}
+{
+  "title": "Washed Out - Life of Leisure (320kbps)",
+  "uid": 8188062,
+  "size": 42973617,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:8a3e3be6c4025213b4b82fa6bf293c7de9e6eb63&amp;dn=Washed+Out+-+Life+of+Leisure+%28320kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 1,
+  "uploader": "mellbig",
+  "files": 7,
+  "time": 1361767539,
+  "description": "Tracks\n\nNo. Title\t          Length\t\n1.  &quot;Get Up&quot; \t          3:01\n2.  &quot;New Theory&quot;          2:52\n3.  &quot;Hold Out&quot; \t          3:29\n4.  &quot;Feel It All Around&quot;  3:16\n5.  &quot;Lately&quot;  \t          2:02\n6.  &quot;You'll See It&quot;  \t  2:55",
+  "parsed": {
+    "xt": "urn:btih:8a3e3be6c4025213b4b82fa6bf293c7de9e6eb63",
+    "dn": "Washed Out - Life of Leisure (320kbps)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "8a3e3be6c4025213b4b82fa6bf293c7de9e6eb63",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        138,
+        62,
+        59,
+        230,
+        196,
+        2,
+        82,
+        19,
+        180,
+        184,
+        47,
+        166,
+        191,
+        41,
+        60,
+        125,
+        233,
+        230,
+        235,
+        99
+      ]
+    },
+    "name": "Washed Out - Life of Leisure (320kbps)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 0,
+  "last_updated": "2016-12-25T07:07:46.855Z"
+}
