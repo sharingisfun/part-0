@@ -1,1 +1,61 @@
-{"title":"Os Pinguins de Madagascar (2015) em HD PT-BR","uid":11675945,"size":4310781361,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:bf1c84948d5f325529937bc9433ac3e27afd9ec2&amp;dn=Os+Pinguins+de+Madagascar+%282015%29+em+HD+PT-BR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":9,"uploader":"DiegoBKS","files":2,"time":1422876230,"description":"Os Pinguins de Madagascar filme lanÃƒÂ§amento 2015 em HD PT-BR","torrent":{"xt":"urn:btih:bf1c84948d5f325529937bc9433ac3e27afd9ec2","amp;dn":"Os+Pinguins+de+Madagascar+%282015%29+em+HD+PT-BR","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bf1c84948d5f325529937bc9433ac3e27afd9ec2","infoHashBuffer":{"type":"Buffer","data":[191,28,132,148,141,95,50,85,41,147,123,201,67,58,195,226,122,253,158,194]},"announce":[],"urlList":[]}}
+{
+  "title": "Os Pinguins de Madagascar (2015) em HD PT-BR",
+  "uid": 11675945,
+  "size": 4310781361,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:bf1c84948d5f325529937bc9433ac3e27afd9ec2&amp;dn=Os+Pinguins+de+Madagascar+%282015%29+em+HD+PT-BR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 9,
+  "uploader": "DiegoBKS",
+  "files": 2,
+  "time": 1422876230,
+  "description": "Os Pinguins de Madagascar filme lanÃƒÂ§amento 2015 em HD PT-BR",
+  "parsed": {
+    "xt": "urn:btih:bf1c84948d5f325529937bc9433ac3e27afd9ec2",
+    "dn": "Os Pinguins de Madagascar (2015) em HD PT-BR",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bf1c84948d5f325529937bc9433ac3e27afd9ec2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        191,
+        28,
+        132,
+        148,
+        141,
+        95,
+        50,
+        85,
+        41,
+        147,
+        123,
+        201,
+        67,
+        58,
+        195,
+        226,
+        122,
+        253,
+        158,
+        194
+      ]
+    },
+    "name": "Os Pinguins de Madagascar (2015) em HD PT-BR",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 88,
+  "peers": 22,
+  "last_updated": "2016-12-25T12:43:37.331Z"
+}

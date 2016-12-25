@@ -1,1 +1,61 @@
-{"title":"Navigon Europe 5.2.6, Android Navigation","uid":11198671,"size":28328677,"categoryP":"applications","categoryS":"android","magnet":"?xt=urn:btih:bee95540ed3c1e63bcb3367a9eac83e38951318b&amp;dn=Navigon+Europe+5.2.6%2C+Android+Navigation&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":0,"uploader":"Elmo1987","files":1,"time":1413138529,"description":"Navigon Europe for android\n\nV5.2.6\n\nwith Radar\n\nIm not the creator of this application i just uploaded it here.\n\nI had no problems with it on Samsung Galaxy S4\n\n\n\nby Elmo1987","torrent":{"xt":"urn:btih:bee95540ed3c1e63bcb3367a9eac83e38951318b","amp;dn":"Navigon+Europe+5.2.6%2C+Android+Navigation","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bee95540ed3c1e63bcb3367a9eac83e38951318b","infoHashBuffer":{"type":"Buffer","data":[190,233,85,64,237,60,30,99,188,179,54,122,158,172,131,227,137,81,49,139]},"announce":[],"urlList":[]}}
+{
+  "title": "Navigon Europe 5.2.6, Android Navigation",
+  "uid": 11198671,
+  "size": 28328677,
+  "categoryP": "applications",
+  "categoryS": "android",
+  "magnet": "?xt=urn:btih:bee95540ed3c1e63bcb3367a9eac83e38951318b&amp;dn=Navigon+Europe+5.2.6%2C+Android+Navigation&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 0,
+  "uploader": "Elmo1987",
+  "files": 1,
+  "time": 1413138529,
+  "description": "Navigon Europe for android\n\nV5.2.6\n\nwith Radar\n\nIm not the creator of this application i just uploaded it here.\n\nI had no problems with it on Samsung Galaxy S4\n\n\n\nby Elmo1987",
+  "parsed": {
+    "xt": "urn:btih:bee95540ed3c1e63bcb3367a9eac83e38951318b",
+    "dn": "Navigon Europe 5.2.6, Android Navigation",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bee95540ed3c1e63bcb3367a9eac83e38951318b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        190,
+        233,
+        85,
+        64,
+        237,
+        60,
+        30,
+        99,
+        188,
+        179,
+        54,
+        122,
+        158,
+        172,
+        131,
+        227,
+        137,
+        81,
+        49,
+        139
+      ]
+    },
+    "name": "Navigon Europe 5.2.6, Android Navigation",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 79,
+  "peers": 50,
+  "last_updated": "2016-12-25T12:42:35.115Z"
+}

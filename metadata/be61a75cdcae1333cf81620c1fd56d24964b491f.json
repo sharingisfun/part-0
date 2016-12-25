@@ -1,1 +1,61 @@
-{"title":"Gotham S01E07 HDTV x264-LOL[ettv]","uid":11369311,"size":220333128,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:be61a75cdcae1333cf81620c1fd56d24964b491f&amp;dn=Gotham+S01E07+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":2,"uploader":"ettv","files":2,"time":1415070002,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps","torrent":{"xt":"urn:btih:be61a75cdcae1333cf81620c1fd56d24964b491f","amp;dn":"Gotham+S01E07+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"be61a75cdcae1333cf81620c1fd56d24964b491f","infoHashBuffer":{"type":"Buffer","data":[190,97,167,92,220,174,19,51,207,129,98,12,31,213,109,36,150,75,73,31]},"announce":[],"urlList":[]}}
+{
+  "title": "Gotham S01E07 HDTV x264-LOL[ettv]",
+  "uid": 11369311,
+  "size": 220333128,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:be61a75cdcae1333cf81620c1fd56d24964b491f&amp;dn=Gotham+S01E07+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1415070002,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264 mp4\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:be61a75cdcae1333cf81620c1fd56d24964b491f",
+    "dn": "Gotham S01E07 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "be61a75cdcae1333cf81620c1fd56d24964b491f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        190,
+        97,
+        167,
+        92,
+        220,
+        174,
+        19,
+        51,
+        207,
+        129,
+        98,
+        12,
+        31,
+        213,
+        109,
+        36,
+        150,
+        75,
+        73,
+        31
+      ]
+    },
+    "name": "Gotham S01E07 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 11,
+  "last_updated": "2016-12-25T12:39:58.511Z"
+}

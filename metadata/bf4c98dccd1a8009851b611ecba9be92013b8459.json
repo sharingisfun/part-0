@@ -1,1 +1,61 @@
-{"title":"Friends full season 1-10","uid":4622392,"size":31836880348,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:bf4c98dccd1a8009851b611ecba9be92013b8459&amp;dn=Friends+full+season+1-10&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":92,"uploader":"jammaly","files":244,"time":1231088032,"description":"Friends full season,\n\nEnjoy","torrent":{"xt":"urn:btih:bf4c98dccd1a8009851b611ecba9be92013b8459","amp;dn":"Friends+full+season+1-10","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bf4c98dccd1a8009851b611ecba9be92013b8459","infoHashBuffer":{"type":"Buffer","data":[191,76,152,220,205,26,128,9,133,27,97,30,203,169,190,146,1,59,132,89]},"announce":[],"urlList":[]}}
+{
+  "title": "Friends full season 1-10",
+  "uid": 4622392,
+  "size": 31836880348,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:bf4c98dccd1a8009851b611ecba9be92013b8459&amp;dn=Friends+full+season+1-10&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 92,
+  "uploader": "jammaly",
+  "files": 244,
+  "time": 1231088032,
+  "description": "Friends full season,\n\nEnjoy",
+  "parsed": {
+    "xt": "urn:btih:bf4c98dccd1a8009851b611ecba9be92013b8459",
+    "dn": "Friends full season 1-10",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bf4c98dccd1a8009851b611ecba9be92013b8459",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        191,
+        76,
+        152,
+        220,
+        205,
+        26,
+        128,
+        9,
+        133,
+        27,
+        97,
+        30,
+        203,
+        169,
+        190,
+        146,
+        1,
+        59,
+        132,
+        89
+      ]
+    },
+    "name": "Friends full season 1-10",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 151,
+  "peers": 15,
+  "last_updated": "2016-12-25T12:44:49.538Z"
+}

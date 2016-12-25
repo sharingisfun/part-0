@@ -1,1 +1,61 @@
-{"title":"Passenger - Let Her Go","uid":9609231,"size":10076840,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:bd8972cf321c2deec333ce8b72edd82d9359a81e&amp;dn=Passenger+-+Let+Her+Go&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":7,"uploader":"Arvind007","files":-1,"time":1392282111,"description":"Passenger - Let Her Go\n\n\nAudio\n\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nMode extension : MS Stereo\nDuration : 4mn 9s\nBit rate mode : Constant\nBit rate : 320 Kbps\n\nEnjoy! and continue seeding after download!","torrent":{"xt":"urn:btih:bd8972cf321c2deec333ce8b72edd82d9359a81e","amp;dn":"Passenger+-+Let+Her+Go","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bd8972cf321c2deec333ce8b72edd82d9359a81e","infoHashBuffer":{"type":"Buffer","data":[189,137,114,207,50,28,45,238,195,51,206,139,114,237,216,45,147,89,168,30]},"announce":[],"urlList":[]}}
+{
+  "title": "Passenger - Let Her Go",
+  "uid": 9609231,
+  "size": 10076840,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:bd8972cf321c2deec333ce8b72edd82d9359a81e&amp;dn=Passenger+-+Let+Her+Go&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 7,
+  "uploader": "Arvind007",
+  "files": -1,
+  "time": 1392282111,
+  "description": "Passenger - Let Her Go\n\n\nAudio\n\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nMode extension : MS Stereo\nDuration : 4mn 9s\nBit rate mode : Constant\nBit rate : 320 Kbps\n\nEnjoy! and continue seeding after download!",
+  "parsed": {
+    "xt": "urn:btih:bd8972cf321c2deec333ce8b72edd82d9359a81e",
+    "dn": "Passenger - Let Her Go",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bd8972cf321c2deec333ce8b72edd82d9359a81e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        189,
+        137,
+        114,
+        207,
+        50,
+        28,
+        45,
+        238,
+        195,
+        51,
+        206,
+        139,
+        114,
+        237,
+        216,
+        45,
+        147,
+        89,
+        168,
+        30
+      ]
+    },
+    "name": "Passenger - Let Her Go",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 75,
+  "last_updated": "2016-12-25T12:34:21.177Z"
+}

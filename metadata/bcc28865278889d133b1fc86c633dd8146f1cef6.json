@@ -1,1 +1,61 @@
-{"title":"Juego de Tronos.5x02 [HDiTunes.Ac3][Spanish]By Malaguita","uid":11872450,"size":545849344,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:bcc28865278889d133b1fc86c633dd8146f1cef6&amp;dn=Juego+de+Tronos.5x02+%5BHDiTunes.Ac3%5D%5BSpanish%5DBy+Malaguita&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":1,"uploader":"malaguita55","files":1,"time":1430476568,"description":"Juego de Tronos.5x02 [HDiTunes.Ac3][Spanish]By Malaguita","torrent":{"xt":"urn:btih:bcc28865278889d133b1fc86c633dd8146f1cef6","amp;dn":"Juego+de+Tronos.5x02+%5BHDiTunes.Ac3%5D%5BSpanish%5DBy+Malaguita","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bcc28865278889d133b1fc86c633dd8146f1cef6","infoHashBuffer":{"type":"Buffer","data":[188,194,136,101,39,136,137,209,51,177,252,134,198,51,221,129,70,241,206,246]},"announce":[],"urlList":[]}}
+{
+  "title": "Juego de Tronos.5x02 [HDiTunes.Ac3][Spanish]By Malaguita",
+  "uid": 11872450,
+  "size": 545849344,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:bcc28865278889d133b1fc86c633dd8146f1cef6&amp;dn=Juego+de+Tronos.5x02+%5BHDiTunes.Ac3%5D%5BSpanish%5DBy+Malaguita&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 1,
+  "uploader": "malaguita55",
+  "files": 1,
+  "time": 1430476568,
+  "description": "Juego de Tronos.5x02 [HDiTunes.Ac3][Spanish]By Malaguita",
+  "parsed": {
+    "xt": "urn:btih:bcc28865278889d133b1fc86c633dd8146f1cef6",
+    "dn": "Juego de Tronos.5x02 [HDiTunes.Ac3][Spanish]By Malaguita",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bcc28865278889d133b1fc86c633dd8146f1cef6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        188,
+        194,
+        136,
+        101,
+        39,
+        136,
+        137,
+        209,
+        51,
+        177,
+        252,
+        134,
+        198,
+        51,
+        221,
+        129,
+        70,
+        241,
+        206,
+        246
+      ]
+    },
+    "name": "Juego de Tronos.5x02 [HDiTunes.Ac3][Spanish]By Malaguita",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 5,
+  "last_updated": "2016-12-25T12:29:20.027Z"
+}

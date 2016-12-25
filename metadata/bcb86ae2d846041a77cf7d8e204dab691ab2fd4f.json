@@ -1,1 +1,61 @@
-{"title":"Snarky Puppy - We Like It Here","uid":10265291,"size":113742120,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:bcb86ae2d846041a77cf7d8e204dab691ab2fd4f&amp;dn=Snarky+Puppy+-+We+Like+It+Here&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":0,"uploader":"sigurd87","files":9,"time":1401515317,"description":"We Like It Here - Snarky Puppy","torrent":{"xt":"urn:btih:bcb86ae2d846041a77cf7d8e204dab691ab2fd4f","amp;dn":"Snarky+Puppy+-+We+Like+It+Here","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bcb86ae2d846041a77cf7d8e204dab691ab2fd4f","infoHashBuffer":{"type":"Buffer","data":[188,184,106,226,216,70,4,26,119,207,125,142,32,77,171,105,26,178,253,79]},"announce":[],"urlList":[]}}
+{
+  "title": "Snarky Puppy - We Like It Here",
+  "uid": 10265291,
+  "size": 113742120,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:bcb86ae2d846041a77cf7d8e204dab691ab2fd4f&amp;dn=Snarky+Puppy+-+We+Like+It+Here&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 0,
+  "uploader": "sigurd87",
+  "files": 9,
+  "time": 1401515317,
+  "description": "We Like It Here - Snarky Puppy",
+  "parsed": {
+    "xt": "urn:btih:bcb86ae2d846041a77cf7d8e204dab691ab2fd4f",
+    "dn": "Snarky Puppy - We Like It Here",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bcb86ae2d846041a77cf7d8e204dab691ab2fd4f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        188,
+        184,
+        106,
+        226,
+        216,
+        70,
+        4,
+        26,
+        119,
+        207,
+        125,
+        142,
+        32,
+        77,
+        171,
+        105,
+        26,
+        178,
+        253,
+        79
+      ]
+    },
+    "name": "Snarky Puppy - We Like It Here",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 28,
+  "last_updated": "2016-12-25T12:29:03.966Z"
+}

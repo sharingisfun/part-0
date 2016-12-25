@@ -1,1 +1,61 @@
-{"title":"Breaking Bad S05E12 HDTV x264-EVOLVE","uid":8872211,"size":295303837,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:bce17722f991fc998dc86ac74a85b878dd07b24a&amp;dn=Breaking+Bad+S05E12+HDTV+x264-EVOLVE&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":6,"uploader":"beta2008x","files":1,"time":1378094862,"description":"Breaking.Bad.S05E12.HDTV.x264-EVOLVE\n\nDate: Mon 09/02/2013\nSize: 282 MiB\nRuntime: 47mn 2s\nFrameRate: 23.976\nBitRate: 727 Kbps\nResolution: 720 x 404\nAudio: 2 ch\nCRF: 19\n","torrent":{"xt":"urn:btih:bce17722f991fc998dc86ac74a85b878dd07b24a","amp;dn":"Breaking+Bad+S05E12+HDTV+x264-EVOLVE","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bce17722f991fc998dc86ac74a85b878dd07b24a","infoHashBuffer":{"type":"Buffer","data":[188,225,119,34,249,145,252,153,141,200,106,199,74,133,184,120,221,7,178,74]},"announce":[],"urlList":[]}}
+{
+  "title": "Breaking Bad S05E12 HDTV x264-EVOLVE",
+  "uid": 8872211,
+  "size": 295303837,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:bce17722f991fc998dc86ac74a85b878dd07b24a&amp;dn=Breaking+Bad+S05E12+HDTV+x264-EVOLVE&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 6,
+  "uploader": "beta2008x",
+  "files": 1,
+  "time": 1378094862,
+  "description": "Breaking.Bad.S05E12.HDTV.x264-EVOLVE\n\nDate: Mon 09/02/2013\nSize: 282 MiB\nRuntime: 47mn 2s\nFrameRate: 23.976\nBitRate: 727 Kbps\nResolution: 720 x 404\nAudio: 2 ch\nCRF: 19\n",
+  "parsed": {
+    "xt": "urn:btih:bce17722f991fc998dc86ac74a85b878dd07b24a",
+    "dn": "Breaking Bad S05E12 HDTV x264-EVOLVE",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bce17722f991fc998dc86ac74a85b878dd07b24a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        188,
+        225,
+        119,
+        34,
+        249,
+        145,
+        252,
+        153,
+        141,
+        200,
+        106,
+        199,
+        74,
+        133,
+        184,
+        120,
+        221,
+        7,
+        178,
+        74
+      ]
+    },
+    "name": "Breaking Bad S05E12 HDTV x264-EVOLVE",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 80,
+  "last_updated": "2016-12-25T12:30:12.190Z"
+}

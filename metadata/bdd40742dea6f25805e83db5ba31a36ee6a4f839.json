@@ -1,1 +1,63 @@
-{"title":"MAC MILLER - GO:OD AM MP3","uid":12605922,"size":169938399,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:bdd40742dea6f25805e83db5ba31a36ee6a4f839&amp;dn=MAC+MILLER+-+GO%3AOD+AM+MP3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":0,"uploader":"alexzolt","files":18,"time":1445384268,"description":"MAC MILLER - GO:OD AM\r\n\r\nFILE FORMAT: MP3\r\n\r\n1. Doors\r\n2. Brand Name\r\n3. Rush Hour\r\n4. Two Matches (feat. Ab-Soul)\r\n5. 100 Grandkids\r\n6. Time Flies (feat. Lil B)\r\n7. Weekend (feat. Miguel)\r\n8. Clubhouse\r\n9. In the Bag\r\n10. Break The Law\r\n11. Perfect Circle / God Speed\r\n12. When In Rome\r\n13. ROS\r\n14. Cut The Check (feat. Chief Keef)\r\n15. Ascension\r\n16. Jump\r\n17. The Festival (feat. Little Dragon)","torrent":{"xt":"urn:btih:bdd40742dea6f25805e83db5ba31a36ee6a4f839","amp;dn":"MAC+MILLER+-+GO%3AOD+AM+MP3","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bdd40742dea6f25805e83db5ba31a36ee6a4f839","infoHashBuffer":{"type":"Buffer","data":[189,212,7,66,222,166,242,88,5,232,61,181,186,49,163,110,230,164,248,57]},"announce":[],"urlList":[]}}
+{
+  "title": "MAC MILLER - GO:OD AM MP3",
+  "uid": 12605922,
+  "size": 169938399,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:bdd40742dea6f25805e83db5ba31a36ee6a4f839&amp;dn=MAC+MILLER+-+GO%3AOD+AM+MP3&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 0,
+  "uploader": "alexzolt",
+  "files": 18,
+  "time": 1445384268,
+  "description": "MAC MILLER - GO:OD AM\r\n\r\nFILE FORMAT: MP3\r\n\r\n1. Doors\r\n2. Brand Name\r\n3. Rush Hour\r\n4. Two Matches (feat. Ab-Soul)\r\n5. 100 Grandkids\r\n6. Time Flies (feat. Lil B)\r\n7. Weekend (feat. Miguel)\r\n8. Clubhouse\r\n9. In the Bag\r\n10. Break The Law\r\n11. Perfect Circle / God Speed\r\n12. When In Rome\r\n13. ROS\r\n14. Cut The Check (feat. Chief Keef)\r\n15. Ascension\r\n16. Jump\r\n17. The Festival (feat. Little Dragon)",
+  "parsed": {
+    "xt": "urn:btih:bdd40742dea6f25805e83db5ba31a36ee6a4f839",
+    "dn": "MAC MILLER - GO:OD AM MP3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "bdd40742dea6f25805e83db5ba31a36ee6a4f839",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        189,
+        212,
+        7,
+        66,
+        222,
+        166,
+        242,
+        88,
+        5,
+        232,
+        61,
+        181,
+        186,
+        49,
+        163,
+        110,
+        230,
+        164,
+        248,
+        57
+      ]
+    },
+    "name": "MAC MILLER - GO:OD AM MP3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 199,
+  "last_updated": "2016-12-25T12:36:17.606Z"
+}

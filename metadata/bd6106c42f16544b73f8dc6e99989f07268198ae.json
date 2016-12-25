@@ -1,1 +1,63 @@
-{"title":"Jason Bourne 2016 CAM UnKnOwN","uid":15444941,"size":1665349627,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:bd6106c42f16544b73f8dc6e99989f07268198ae&amp;dn=Jason+Bourne+2016+CAM+UnKnOwN&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":382,"leechers":61,"uploader":"LegendET","files":3,"time":1469868467,"description":"\ncover\r\n \nhttp://i.imgur.com/0edHhXN.jpg\r\n \nhttp://www.imdb.com/title/tt4196776/\r\n\r\nNFO\r\n \nhttp://view.nfo.so/0/1/1/154adc8250f74ae7a99fcd09d933c732.png\r\n\r\nscreens\r\n \nhttp://i.imgur.com/y8S2SAl.png\r\n \nhttp://i.imgur.com/gQGN9E4.png\r\n \nhttp://i.imgur.com/LOwTWVn.png\r\n \nhttp://i.imgur.com/pr9Jp92.png","torrent":{"xt":"urn:btih:bd6106c42f16544b73f8dc6e99989f07268198ae","amp;dn":"Jason+Bourne+2016+CAM+UnKnOwN","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bd6106c42f16544b73f8dc6e99989f07268198ae","infoHashBuffer":{"type":"Buffer","data":[189,97,6,196,47,22,84,75,115,248,220,110,153,152,159,7,38,129,152,174]},"announce":[],"urlList":[]}}
+{
+  "title": "Jason Bourne 2016 CAM UnKnOwN",
+  "uid": 15444941,
+  "size": 1665349627,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:bd6106c42f16544b73f8dc6e99989f07268198ae&amp;dn=Jason+Bourne+2016+CAM+UnKnOwN&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 382,
+  "leechers": 61,
+  "uploader": "LegendET",
+  "files": 3,
+  "time": 1469868467,
+  "description": "\ncover\r\n \nhttp://i.imgur.com/0edHhXN.jpg\r\n \nhttp://www.imdb.com/title/tt4196776/\r\n\r\nNFO\r\n \nhttp://view.nfo.so/0/1/1/154adc8250f74ae7a99fcd09d933c732.png\r\n\r\nscreens\r\n \nhttp://i.imgur.com/y8S2SAl.png\r\n \nhttp://i.imgur.com/gQGN9E4.png\r\n \nhttp://i.imgur.com/LOwTWVn.png\r\n \nhttp://i.imgur.com/pr9Jp92.png",
+  "parsed": {
+    "xt": "urn:btih:bd6106c42f16544b73f8dc6e99989f07268198ae",
+    "dn": "Jason Bourne 2016 CAM UnKnOwN",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "bd6106c42f16544b73f8dc6e99989f07268198ae",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        189,
+        97,
+        6,
+        196,
+        47,
+        22,
+        84,
+        75,
+        115,
+        248,
+        220,
+        110,
+        153,
+        152,
+        159,
+        7,
+        38,
+        129,
+        152,
+        174
+      ]
+    },
+    "name": "Jason Bourne 2016 CAM UnKnOwN",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 443,
+  "peers": 82,
+  "last_updated": "2016-12-25T12:33:22.928Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Arrow.S01E08.HDTV.x264-LOL.[VTV].mp4","uid":7892528,"size":246633969,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:bd9b5cc50fa60f97bfab83277821a1a99e9d37ea&amp;dn=Arrow.S01E08.HDTV.x264-LOL.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":116,"leechers":8,"uploader":"VTV","files":1,"time":1354758335,"description":"Arrow 1x08 (HDTV-x264-LOL)[VTV]","torrent":{"xt":"urn:btih:bd9b5cc50fa60f97bfab83277821a1a99e9d37ea","amp;dn":"Arrow.S01E08.HDTV.x264-LOL.%5BVTV%5D.mp4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bd9b5cc50fa60f97bfab83277821a1a99e9d37ea","infoHashBuffer":{"type":"Buffer","data":[189,155,92,197,15,166,15,151,191,171,131,39,120,33,161,169,158,157,55,234]},"announce":[],"urlList":[]}}
+{
+  "title": "Arrow.S01E08.HDTV.x264-LOL.[VTV].mp4",
+  "uid": 7892528,
+  "size": 246633969,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:bd9b5cc50fa60f97bfab83277821a1a99e9d37ea&amp;dn=Arrow.S01E08.HDTV.x264-LOL.%5BVTV%5D.mp4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 116,
+  "leechers": 8,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1354758335,
+  "description": "Arrow 1x08 (HDTV-x264-LOL)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:bd9b5cc50fa60f97bfab83277821a1a99e9d37ea",
+    "dn": "Arrow.S01E08.HDTV.x264-LOL.[VTV].mp4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bd9b5cc50fa60f97bfab83277821a1a99e9d37ea",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        189,
+        155,
+        92,
+        197,
+        15,
+        166,
+        15,
+        151,
+        191,
+        171,
+        131,
+        39,
+        120,
+        33,
+        161,
+        169,
+        158,
+        157,
+        55,
+        234
+      ]
+    },
+    "name": "Arrow.S01E08.HDTV.x264-LOL.[VTV].mp4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 124,
+  "peers": 20,
+  "last_updated": "2016-12-25T12:34:55.323Z"
+}
