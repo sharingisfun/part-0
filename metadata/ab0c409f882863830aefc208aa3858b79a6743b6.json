@@ -1,1 +1,61 @@
-{"title":"A Prova de Fogo","uid":5695438,"size":736247808,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:ab0c409f882863830aefc208aa3858b79a6743b6&amp;dn=A+Prova+de+Fogo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":null,"files":1,"time":1279288022,"description":"ESSE FILME E MUITO BOM\n\n\nVEJA E REFLITA SOBRE ELE     ELE VEZ PARTE DA SUA VIDA!!!","torrent":{"xt":"urn:btih:ab0c409f882863830aefc208aa3858b79a6743b6","amp;dn":"A+Prova+de+Fogo","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ab0c409f882863830aefc208aa3858b79a6743b6","infoHashBuffer":{"type":"Buffer","data":[171,12,64,159,136,40,99,131,10,239,194,8,170,56,88,183,154,103,67,182]},"announce":[],"urlList":[]}}
+{
+  "title": "A Prova de Fogo",
+  "uid": 5695438,
+  "size": 736247808,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:ab0c409f882863830aefc208aa3858b79a6743b6&amp;dn=A+Prova+de+Fogo&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": null,
+  "files": 1,
+  "time": 1279288022,
+  "description": "ESSE FILME E MUITO BOM\n\n\nVEJA E REFLITA SOBRE ELE     ELE VEZ PARTE DA SUA VIDA!!!",
+  "parsed": {
+    "xt": "urn:btih:ab0c409f882863830aefc208aa3858b79a6743b6",
+    "dn": "A Prova de Fogo",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ab0c409f882863830aefc208aa3858b79a6743b6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        171,
+        12,
+        64,
+        159,
+        136,
+        40,
+        99,
+        131,
+        10,
+        239,
+        194,
+        8,
+        170,
+        56,
+        88,
+        183,
+        154,
+        103,
+        67,
+        182
+      ]
+    },
+    "name": "A Prova de Fogo",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 14,
+  "last_updated": "2016-12-25T10:38:59.850Z"
+}

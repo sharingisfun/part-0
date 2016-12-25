@@ -1,1 +1,63 @@
-{"title":"Totally Accurate Battle Simulator v0.2.0","uid":15828887,"size":46236509,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:aaaa0138e294e69401cc60108b92df79344e72e3&amp;dn=Totally+Accurate+Battle+Simulator+v0.2.0&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":356,"leechers":10,"uploader":"dauphong","files":1,"time":1473890275,"description":"A physics based medieval battle simulator which lets you pit wacky waving armies against each other","torrent":{"xt":"urn:btih:aaaa0138e294e69401cc60108b92df79344e72e3","amp;dn":"Totally+Accurate+Battle+Simulator+v0.2.0","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"aaaa0138e294e69401cc60108b92df79344e72e3","infoHashBuffer":{"type":"Buffer","data":[170,170,1,56,226,148,230,148,1,204,96,16,139,146,223,121,52,78,114,227]},"announce":[],"urlList":[]}}
+{
+  "title": "Totally Accurate Battle Simulator v0.2.0",
+  "uid": 15828887,
+  "size": 46236509,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:aaaa0138e294e69401cc60108b92df79344e72e3&amp;dn=Totally+Accurate+Battle+Simulator+v0.2.0&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 356,
+  "leechers": 10,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1473890275,
+  "description": "A physics based medieval battle simulator which lets you pit wacky waving armies against each other",
+  "parsed": {
+    "xt": "urn:btih:aaaa0138e294e69401cc60108b92df79344e72e3",
+    "dn": "Totally Accurate Battle Simulator v0.2.0",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "aaaa0138e294e69401cc60108b92df79344e72e3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        170,
+        170,
+        1,
+        56,
+        226,
+        148,
+        230,
+        148,
+        1,
+        204,
+        96,
+        16,
+        139,
+        146,
+        223,
+        121,
+        52,
+        78,
+        114,
+        227
+      ]
+    },
+    "name": "Totally Accurate Battle Simulator v0.2.0",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 366,
+  "peers": 107,
+  "last_updated": "2016-12-25T10:36:59.480Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Nirvana-In Utero","uid":5466235,"size":82187431,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:aa33409c0b85bd8b2e96d579c341941a98200e8e&amp;dn=Nirvana-In+Utero&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":1,"uploader":"DocterSharpY","files":12,"time":1269629594,"description":"NIRVANA-IN UTERO\n\nALL SONGS IN &quot;IN UTERO&quot; ARE INCLUDED\n\n\nDOCTERSHARPY TORRENTS\n\n\nCheck Out Other Albums By DOCTERSHARPY","torrent":{"xt":"urn:btih:aa33409c0b85bd8b2e96d579c341941a98200e8e","amp;dn":"Nirvana-In+Utero","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"aa33409c0b85bd8b2e96d579c341941a98200e8e","infoHashBuffer":{"type":"Buffer","data":[170,51,64,156,11,133,189,139,46,150,213,121,195,65,148,26,152,32,14,142]},"announce":[],"urlList":[]}}
+{
+  "title": "Nirvana-In Utero",
+  "uid": 5466235,
+  "size": 82187431,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:aa33409c0b85bd8b2e96d579c341941a98200e8e&amp;dn=Nirvana-In+Utero&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 1,
+  "uploader": "DocterSharpY",
+  "files": 12,
+  "time": 1269629594,
+  "description": "NIRVANA-IN UTERO\n\nALL SONGS IN &quot;IN UTERO&quot; ARE INCLUDED\n\n\nDOCTERSHARPY TORRENTS\n\n\nCheck Out Other Albums By DOCTERSHARPY",
+  "parsed": {
+    "xt": "urn:btih:aa33409c0b85bd8b2e96d579c341941a98200e8e",
+    "dn": "Nirvana-In Utero",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "aa33409c0b85bd8b2e96d579c341941a98200e8e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        170,
+        51,
+        64,
+        156,
+        11,
+        133,
+        189,
+        139,
+        46,
+        150,
+        213,
+        121,
+        195,
+        65,
+        148,
+        26,
+        152,
+        32,
+        14,
+        142
+      ]
+    },
+    "name": "Nirvana-In Utero",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 12,
+  "last_updated": "2016-12-25T10:34:10.993Z"
+}

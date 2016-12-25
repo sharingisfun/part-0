@@ -1,1 +1,63 @@
-{"title":"The Witcher 3: Wild Hunt - Blood and Wine (2.0.0.45) (GOG)","uid":14939185,"size":7511629313,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:abd1514b895e1bbe8ccc785198b0db63d39a8c12&amp;dn=The+Witcher+3%3A+Wild+Hunt+-+Blood+and+Wine+%282.0.0.45%29+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":9,"uploader":"mercs215","files":4,"time":1466012879,"description":"Install instructions:\r\n- Run &quot;setup_the_witcher3_exp2_2.0.0.45.exe&quot;\r\n- Play\r\nPLEASE REMEMBER TO SEED, MANY OTHERS WANT THIS! :)\r\nIf you like this game, support the developers and BUY IT!","torrent":{"xt":"urn:btih:abd1514b895e1bbe8ccc785198b0db63d39a8c12","amp;dn":"The+Witcher+3%3A+Wild+Hunt+-+Blood+and+Wine+%282.0.0.45%29+%28GOG%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"abd1514b895e1bbe8ccc785198b0db63d39a8c12","infoHashBuffer":{"type":"Buffer","data":[171,209,81,75,137,94,27,190,140,204,120,81,152,176,219,99,211,154,140,18]},"announce":[],"urlList":[]}}
+{
+  "title": "The Witcher 3: Wild Hunt - Blood and Wine (2.0.0.45) (GOG)",
+  "uid": 14939185,
+  "size": 7511629313,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:abd1514b895e1bbe8ccc785198b0db63d39a8c12&amp;dn=The+Witcher+3%3A+Wild+Hunt+-+Blood+and+Wine+%282.0.0.45%29+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 9,
+  "uploader": "mercs215",
+  "files": 4,
+  "time": 1466012879,
+  "description": "Install instructions:\r\n- Run &quot;setup_the_witcher3_exp2_2.0.0.45.exe&quot;\r\n- Play\r\nPLEASE REMEMBER TO SEED, MANY OTHERS WANT THIS! :)\r\nIf you like this game, support the developers and BUY IT!",
+  "parsed": {
+    "xt": "urn:btih:abd1514b895e1bbe8ccc785198b0db63d39a8c12",
+    "dn": "The Witcher 3: Wild Hunt - Blood and Wine (2.0.0.45) (GOG)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "abd1514b895e1bbe8ccc785198b0db63d39a8c12",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        171,
+        209,
+        81,
+        75,
+        137,
+        94,
+        27,
+        190,
+        140,
+        204,
+        120,
+        81,
+        152,
+        176,
+        219,
+        99,
+        211,
+        154,
+        140,
+        18
+      ]
+    },
+    "name": "The Witcher 3: Wild Hunt - Blood and Wine (2.0.0.45) (GOG)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 100,
+  "last_updated": "2016-12-25T10:44:41.182Z"
+}

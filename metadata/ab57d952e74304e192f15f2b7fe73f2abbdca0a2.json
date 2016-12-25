@@ -1,1 +1,61 @@
-{"title":"Suits S04E06 HDTV x264-KILLERS","uid":10622105,"size":278644013,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ab57d952e74304e192f15f2b7fe73f2abbdca0a2&amp;dn=Suits+S04E06+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":84,"leechers":3,"uploader":"beta2008x","files":1,"time":1406177368,"description":"Suits.S04E06.HDTV.x264-KILLERS\n\nDay: 2014-07-24\nResolution: 720x404\nSize: 266 MiB\nFrameRate: 23.976\nLength: 00:42:12.543\nBitrate: 743 Kbps","torrent":{"xt":"urn:btih:ab57d952e74304e192f15f2b7fe73f2abbdca0a2","amp;dn":"Suits+S04E06+HDTV+x264-KILLERS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ab57d952e74304e192f15f2b7fe73f2abbdca0a2","infoHashBuffer":{"type":"Buffer","data":[171,87,217,82,231,67,4,225,146,241,95,43,127,231,63,42,187,220,160,162]},"announce":[],"urlList":[]}}
+{
+  "title": "Suits S04E06 HDTV x264-KILLERS",
+  "uid": 10622105,
+  "size": 278644013,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ab57d952e74304e192f15f2b7fe73f2abbdca0a2&amp;dn=Suits+S04E06+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 84,
+  "leechers": 3,
+  "uploader": "beta2008x",
+  "files": 1,
+  "time": 1406177368,
+  "description": "Suits.S04E06.HDTV.x264-KILLERS\n\nDay: 2014-07-24\nResolution: 720x404\nSize: 266 MiB\nFrameRate: 23.976\nLength: 00:42:12.543\nBitrate: 743 Kbps",
+  "parsed": {
+    "xt": "urn:btih:ab57d952e74304e192f15f2b7fe73f2abbdca0a2",
+    "dn": "Suits S04E06 HDTV x264-KILLERS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ab57d952e74304e192f15f2b7fe73f2abbdca0a2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        171,
+        87,
+        217,
+        82,
+        231,
+        67,
+        4,
+        225,
+        146,
+        241,
+        95,
+        43,
+        127,
+        231,
+        63,
+        42,
+        187,
+        220,
+        160,
+        162
+      ]
+    },
+    "name": "Suits S04E06 HDTV x264-KILLERS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 87,
+  "peers": 17,
+  "last_updated": "2016-12-25T10:41:18.292Z"
+}

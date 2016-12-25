@@ -1,1 +1,63 @@
-{"title":"Commandos 2+3 [GOG]","uid":12616260,"size":3098982875,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:ab2686be7bf4981a4c31001647fd2852402aacf7&amp;dn=Commandos+2%2B3+%5BGOG%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":8,"uploader":"TerminatorFan","files":7,"time":1445520138,"description":"Contents:\r\n\r\nCommandos 2: Men of Courage\r\nCommandos 3: Destination Berlin\r\n\r\nShould work on Windows XP, Vista &amp; 7. (no info on 8 &amp; 10)\r\n\r\nEnjoy &amp; Please Seed!","torrent":{"xt":"urn:btih:ab2686be7bf4981a4c31001647fd2852402aacf7","amp;dn":"Commandos+2%2B3+%5BGOG%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ab2686be7bf4981a4c31001647fd2852402aacf7","infoHashBuffer":{"type":"Buffer","data":[171,38,134,190,123,244,152,26,76,49,0,22,71,253,40,82,64,42,172,247]},"announce":[],"urlList":[]}}
+{
+  "title": "Commandos 2+3 [GOG]",
+  "uid": 12616260,
+  "size": 3098982875,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:ab2686be7bf4981a4c31001647fd2852402aacf7&amp;dn=Commandos+2%2B3+%5BGOG%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 8,
+  "uploader": "TerminatorFan",
+  "files": 7,
+  "time": 1445520138,
+  "description": "Contents:\r\n\r\nCommandos 2: Men of Courage\r\nCommandos 3: Destination Berlin\r\n\r\nShould work on Windows XP, Vista &amp; 7. (no info on 8 &amp; 10)\r\n\r\nEnjoy &amp; Please Seed!",
+  "parsed": {
+    "xt": "urn:btih:ab2686be7bf4981a4c31001647fd2852402aacf7",
+    "dn": "Commandos 2 3 [GOG]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "ab2686be7bf4981a4c31001647fd2852402aacf7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        171,
+        38,
+        134,
+        190,
+        123,
+        244,
+        152,
+        26,
+        76,
+        49,
+        0,
+        22,
+        71,
+        253,
+        40,
+        82,
+        64,
+        42,
+        172,
+        247
+      ]
+    },
+    "name": "Commandos 2 3 [GOG]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 68,
+  "last_updated": "2016-12-25T10:39:47.983Z"
+}

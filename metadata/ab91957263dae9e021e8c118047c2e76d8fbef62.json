@@ -1,1 +1,61 @@
-{"title":"Sufjan Stevens - Carrie &amp; Lowell (2015)","uid":11739386,"size":104916260,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ab91957263dae9e021e8c118047c2e76d8fbef62&amp;dn=Sufjan+Stevens+-+Carrie+%26amp%3B+Lowell+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":649,"leechers":8,"uploader":"santicaz","files":11,"time":1425711176,"description":"Artist: Sufjan Stevens\nTitle Of Album: Carrie &amp; Lowell\nYear Of Release: 2015\nLabel: Asthmatic Kitty Records\nGenre: Indie Folk, Singer-Songwriter\nQuality: 320 Kbps\nTotal Time: 43:35 min\nTotal Size: 100 MB\n\n\nTracklist:\n\n01 Death With Dignity\n02 Should Have Known Better\n03 All of Me Wants All of You\n04 Drawn to the Blood\n05 Fourth of July\n06 The Only Thing\n07 Carrie &amp; Lowell\n08 Eugene\n09 John My Beloved\n10 No Shade in the Shadow of the Cross\n11 Blue Bucket of Gold","torrent":{"xt":"urn:btih:ab91957263dae9e021e8c118047c2e76d8fbef62","amp;dn":"Sufjan+Stevens+-+Carrie+%26amp%3B+Lowell+%282015%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ab91957263dae9e021e8c118047c2e76d8fbef62","infoHashBuffer":{"type":"Buffer","data":[171,145,149,114,99,218,233,224,33,232,193,24,4,124,46,118,216,251,239,98]},"announce":[],"urlList":[]}}
+{
+  "title": "Sufjan Stevens - Carrie &amp; Lowell (2015)",
+  "uid": 11739386,
+  "size": 104916260,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ab91957263dae9e021e8c118047c2e76d8fbef62&amp;dn=Sufjan+Stevens+-+Carrie+%26amp%3B+Lowell+%282015%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 649,
+  "leechers": 8,
+  "uploader": "santicaz",
+  "files": 11,
+  "time": 1425711176,
+  "description": "Artist: Sufjan Stevens\nTitle Of Album: Carrie &amp; Lowell\nYear Of Release: 2015\nLabel: Asthmatic Kitty Records\nGenre: Indie Folk, Singer-Songwriter\nQuality: 320 Kbps\nTotal Time: 43:35 min\nTotal Size: 100 MB\n\n\nTracklist:\n\n01 Death With Dignity\n02 Should Have Known Better\n03 All of Me Wants All of You\n04 Drawn to the Blood\n05 Fourth of July\n06 The Only Thing\n07 Carrie &amp; Lowell\n08 Eugene\n09 John My Beloved\n10 No Shade in the Shadow of the Cross\n11 Blue Bucket of Gold",
+  "parsed": {
+    "xt": "urn:btih:ab91957263dae9e021e8c118047c2e76d8fbef62",
+    "dn": "Sufjan Stevens - Carrie &amp; Lowell (2015)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ab91957263dae9e021e8c118047c2e76d8fbef62",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        171,
+        145,
+        149,
+        114,
+        99,
+        218,
+        233,
+        224,
+        33,
+        232,
+        193,
+        24,
+        4,
+        124,
+        46,
+        118,
+        216,
+        251,
+        239,
+        98
+      ]
+    },
+    "name": "Sufjan Stevens - Carrie &amp; Lowell (2015)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 657,
+  "peers": 50,
+  "last_updated": "2016-12-25T10:43:04.778Z"
+}

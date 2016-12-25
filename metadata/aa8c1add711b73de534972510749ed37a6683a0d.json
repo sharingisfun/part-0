@@ -1,1 +1,61 @@
-{"title":"Legends 2014 S01E01 HDTV x264-2HD[ettv]","uid":10713780,"size":352858878,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:aa8c1add711b73de534972510749ed37a6683a0d&amp;dn=Legends+2014+S01E01+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":5,"uploader":"ettv","files":2,"time":1407383846,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:aa8c1add711b73de534972510749ed37a6683a0d","amp;dn":"Legends+2014+S01E01+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"aa8c1add711b73de534972510749ed37a6683a0d","infoHashBuffer":{"type":"Buffer","data":[170,140,26,221,113,27,115,222,83,73,114,81,7,73,237,55,166,104,58,13]},"announce":[],"urlList":[]}}
+{
+  "title": "Legends 2014 S01E01 HDTV x264-2HD[ettv]",
+  "uid": 10713780,
+  "size": 352858878,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:aa8c1add711b73de534972510749ed37a6683a0d&amp;dn=Legends+2014+S01E01+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1407383846,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:aa8c1add711b73de534972510749ed37a6683a0d",
+    "dn": "Legends 2014 S01E01 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "aa8c1add711b73de534972510749ed37a6683a0d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        170,
+        140,
+        26,
+        221,
+        113,
+        27,
+        115,
+        222,
+        83,
+        73,
+        114,
+        81,
+        7,
+        73,
+        237,
+        55,
+        166,
+        104,
+        58,
+        13
+      ]
+    },
+    "name": "Legends 2014 S01E01 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 78,
+  "peers": 16,
+  "last_updated": "2016-12-25T10:36:07.336Z"
+}

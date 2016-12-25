@@ -1,1 +1,61 @@
-{"title":"No Doubt Discography [GuestUpload][Bubanee]","uid":5093426,"size":687986554,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:aa61fac01443dac3eedc11b065f154a22fce2c12&amp;dn=No+Doubt+Discography+%5BGuestUpload%5D%5BBubanee%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":13,"uploader":"bubanee","files":142,"time":1253344732,"description":"Albums (Release):\n        1. No Doubt (1992)\n        2. The Beacon Street Collection (1995)\n        3. Tragic Kingdom (1995)\n        4. Return Of Saturn (2000)\n        5. Rock Steady (2001)\n        6. Boom Box (Limited Edition) (2003)\n        7. The Singles 1992-2003 (2003)","torrent":{"xt":"urn:btih:aa61fac01443dac3eedc11b065f154a22fce2c12","amp;dn":"No+Doubt+Discography+%5BGuestUpload%5D%5BBubanee%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"aa61fac01443dac3eedc11b065f154a22fce2c12","infoHashBuffer":{"type":"Buffer","data":[170,97,250,192,20,67,218,195,238,220,17,176,101,241,84,162,47,206,44,18]},"announce":[],"urlList":[]}}
+{
+  "title": "No Doubt Discography [GuestUpload][Bubanee]",
+  "uid": 5093426,
+  "size": 687986554,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:aa61fac01443dac3eedc11b065f154a22fce2c12&amp;dn=No+Doubt+Discography+%5BGuestUpload%5D%5BBubanee%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 13,
+  "uploader": "bubanee",
+  "files": 142,
+  "time": 1253344732,
+  "description": "Albums (Release):\n        1. No Doubt (1992)\n        2. The Beacon Street Collection (1995)\n        3. Tragic Kingdom (1995)\n        4. Return Of Saturn (2000)\n        5. Rock Steady (2001)\n        6. Boom Box (Limited Edition) (2003)\n        7. The Singles 1992-2003 (2003)",
+  "parsed": {
+    "xt": "urn:btih:aa61fac01443dac3eedc11b065f154a22fce2c12",
+    "dn": "No Doubt Discography [GuestUpload][Bubanee]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "aa61fac01443dac3eedc11b065f154a22fce2c12",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        170,
+        97,
+        250,
+        192,
+        20,
+        67,
+        218,
+        195,
+        238,
+        220,
+        17,
+        176,
+        101,
+        241,
+        84,
+        162,
+        47,
+        206,
+        44,
+        18
+      ]
+    },
+    "name": "No Doubt Discography [GuestUpload][Bubanee]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 18,
+  "last_updated": "2016-12-25T10:35:05.146Z"
+}

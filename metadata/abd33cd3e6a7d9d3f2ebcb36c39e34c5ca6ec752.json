@@ -1,1 +1,61 @@
-{"title":"Team Extreme Minecraft launcher","uid":11848208,"size":63340301,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:abd33cd3e6a7d9d3f2ebcb36c39e34c5ca6ec752&amp;dn=Team+Extreme+Minecraft+launcher&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":2,"uploader":"heyterot","files":1,"time":1430014403,"description":"Just install and everything is complete!","torrent":{"xt":"urn:btih:abd33cd3e6a7d9d3f2ebcb36c39e34c5ca6ec752","amp;dn":"Team+Extreme+Minecraft+launcher","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"abd33cd3e6a7d9d3f2ebcb36c39e34c5ca6ec752","infoHashBuffer":{"type":"Buffer","data":[171,211,60,211,230,167,217,211,242,235,203,54,195,158,52,197,202,110,199,82]},"announce":[],"urlList":[]}}
+{
+  "title": "Team Extreme Minecraft launcher",
+  "uid": 11848208,
+  "size": 63340301,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:abd33cd3e6a7d9d3f2ebcb36c39e34c5ca6ec752&amp;dn=Team+Extreme+Minecraft+launcher&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 2,
+  "uploader": "heyterot",
+  "files": 1,
+  "time": 1430014403,
+  "description": "Just install and everything is complete!",
+  "parsed": {
+    "xt": "urn:btih:abd33cd3e6a7d9d3f2ebcb36c39e34c5ca6ec752",
+    "dn": "Team Extreme Minecraft launcher",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "abd33cd3e6a7d9d3f2ebcb36c39e34c5ca6ec752",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        171,
+        211,
+        60,
+        211,
+        230,
+        167,
+        217,
+        211,
+        242,
+        235,
+        203,
+        54,
+        195,
+        158,
+        52,
+        197,
+        202,
+        110,
+        199,
+        82
+      ]
+    },
+    "name": "Team Extreme Minecraft launcher",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 75,
+  "peers": 50,
+  "last_updated": "2016-12-25T10:44:53.235Z"
+}

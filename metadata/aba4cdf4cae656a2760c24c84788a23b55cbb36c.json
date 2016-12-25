@@ -1,1 +1,61 @@
-{"title":"Empire 2015 S01E10 HDTV x264-KILLERS","uid":11749029,"size":310632099,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:aba4cdf4cae656a2760c24c84788a23b55cbb36c&amp;dn=Empire+2015+S01E10+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":104,"leechers":28,"uploader":"beta2008x","files":1,"time":1426129259,"description":"Empire.2015.S01E10.HDTV.x264-KILLERS\n\nDay: 2015-03-12\nResolution: 720x404\nSize: 296 MiB\nFrameRate: 23.976\nLength: 00:43:08.907\nBitrate: 825 Kbps","torrent":{"xt":"urn:btih:aba4cdf4cae656a2760c24c84788a23b55cbb36c","amp;dn":"Empire+2015+S01E10+HDTV+x264-KILLERS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"aba4cdf4cae656a2760c24c84788a23b55cbb36c","infoHashBuffer":{"type":"Buffer","data":[171,164,205,244,202,230,86,162,118,12,36,200,71,136,162,59,85,203,179,108]},"announce":[],"urlList":[]}}
+{
+  "title": "Empire 2015 S01E10 HDTV x264-KILLERS",
+  "uid": 11749029,
+  "size": 310632099,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:aba4cdf4cae656a2760c24c84788a23b55cbb36c&amp;dn=Empire+2015+S01E10+HDTV+x264-KILLERS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 104,
+  "leechers": 28,
+  "uploader": "beta2008x",
+  "files": 1,
+  "time": 1426129259,
+  "description": "Empire.2015.S01E10.HDTV.x264-KILLERS\n\nDay: 2015-03-12\nResolution: 720x404\nSize: 296 MiB\nFrameRate: 23.976\nLength: 00:43:08.907\nBitrate: 825 Kbps",
+  "parsed": {
+    "xt": "urn:btih:aba4cdf4cae656a2760c24c84788a23b55cbb36c",
+    "dn": "Empire 2015 S01E10 HDTV x264-KILLERS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "aba4cdf4cae656a2760c24c84788a23b55cbb36c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        171,
+        164,
+        205,
+        244,
+        202,
+        230,
+        86,
+        162,
+        118,
+        12,
+        36,
+        200,
+        71,
+        136,
+        162,
+        59,
+        85,
+        203,
+        179,
+        108
+      ]
+    },
+    "name": "Empire 2015 S01E10 HDTV x264-KILLERS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 132,
+  "peers": 99,
+  "last_updated": "2016-12-25T10:43:40.908Z"
+}

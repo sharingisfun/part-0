@@ -1,1 +1,61 @@
-{"title":"Redfoo &amp;ndash; New Thang [iTunes Plus AAC M4A]","uid":10783558,"size":8044850,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:ab52ae2315bf09016acf69fc7439b510edc706eb&amp;dn=Redfoo+%26ndash%3B+New+Thang+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":146,"leechers":34,"uploader":"Music_Blitz","files":1,"time":1408148428,"description":"Redfoo Ã¢â‚¬â€œ New Thang [iTunes Plus AAC M4A]\n\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes\nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Wednesday 6th August 2014\n\n\n\nArtwork: http://i.imgur.com/WRHdNEF.jpg\n\n\n","torrent":{"xt":"urn:btih:ab52ae2315bf09016acf69fc7439b510edc706eb","amp;dn":"Redfoo+%26ndash%3B+New+Thang+%5BiTunes+Plus+AAC+M4A%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ab52ae2315bf09016acf69fc7439b510edc706eb","infoHashBuffer":{"type":"Buffer","data":[171,82,174,35,21,191,9,1,106,207,105,252,116,57,181,16,237,199,6,235]},"announce":[],"urlList":[]}}
+{
+  "title": "Redfoo &amp;ndash; New Thang [iTunes Plus AAC M4A]",
+  "uid": 10783558,
+  "size": 8044850,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:ab52ae2315bf09016acf69fc7439b510edc706eb&amp;dn=Redfoo+%26ndash%3B+New+Thang+%5BiTunes+Plus+AAC+M4A%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 146,
+  "leechers": 34,
+  "uploader": "Music_Blitz",
+  "files": 1,
+  "time": 1408148428,
+  "description": "Redfoo Ã¢â‚¬â€œ New Thang [iTunes Plus AAC M4A]\n\n\n\nFormat: AAC\nFormat/Info: Advanced Audio Codec\nFormat profile: LC\nFormat profile/Info: Apple Audio with iTunes\nCodec ID: M4A\nBit rate mode: Variable\nBit rate: 256 Kbps\nSampling rate: 44.1 KHz\nCompression mode: Lossy\nReleased: Wednesday 6th August 2014\n\n\n\nArtwork: http://i.imgur.com/WRHdNEF.jpg\n\n\n",
+  "parsed": {
+    "xt": "urn:btih:ab52ae2315bf09016acf69fc7439b510edc706eb",
+    "dn": "Redfoo &ndash; New Thang [iTunes Plus AAC M4A]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ab52ae2315bf09016acf69fc7439b510edc706eb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        171,
+        82,
+        174,
+        35,
+        21,
+        191,
+        9,
+        1,
+        106,
+        207,
+        105,
+        252,
+        116,
+        57,
+        181,
+        16,
+        237,
+        199,
+        6,
+        235
+      ]
+    },
+    "name": "Redfoo &ndash; New Thang [iTunes Plus AAC M4A]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 180,
+  "peers": 37,
+  "last_updated": "2016-12-25T10:41:08.252Z"
+}

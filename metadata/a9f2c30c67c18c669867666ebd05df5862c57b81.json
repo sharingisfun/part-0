@@ -1,1 +1,63 @@
-{"title":"Dr.Ken.S02E04.HDTV.x264-FLEET","uid":16040672,"size":189125319,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:a9f2c30c67c18c669867666ebd05df5862c57b81&amp;dn=Dr.Ken.S02E04.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":74,"leechers":16,"uploader":"TvTeam","files":5,"time":1476500795,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:a9f2c30c67c18c669867666ebd05df5862c57b81","amp;dn":"Dr.Ken.S02E04.HDTV.x264-FLEET","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"a9f2c30c67c18c669867666ebd05df5862c57b81","infoHashBuffer":{"type":"Buffer","data":[169,242,195,12,103,193,140,102,152,103,102,110,189,5,223,88,98,197,123,129]},"announce":[],"urlList":[]}}
+{
+  "title": "Dr.Ken.S02E04.HDTV.x264-FLEET",
+  "uid": 16040672,
+  "size": 189125319,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:a9f2c30c67c18c669867666ebd05df5862c57b81&amp;dn=Dr.Ken.S02E04.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 74,
+  "leechers": 16,
+  "uploader": "TvTeam",
+  "files": 5,
+  "time": 1476500795,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:a9f2c30c67c18c669867666ebd05df5862c57b81",
+    "dn": "Dr.Ken.S02E04.HDTV.x264-FLEET",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "a9f2c30c67c18c669867666ebd05df5862c57b81",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        169,
+        242,
+        195,
+        12,
+        103,
+        193,
+        140,
+        102,
+        152,
+        103,
+        102,
+        110,
+        189,
+        5,
+        223,
+        88,
+        98,
+        197,
+        123,
+        129
+      ]
+    },
+    "name": "Dr.Ken.S02E04.HDTV.x264-FLEET",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 90,
+  "peers": 34,
+  "last_updated": "2016-12-25T10:32:48.751Z"
+}

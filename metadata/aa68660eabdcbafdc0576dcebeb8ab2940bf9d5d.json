@@ -1,1 +1,61 @@
-{"title":"The.Flash.S01E18.2014.HD.1080p.WEB-DL","uid":11817299,"size":1810053396,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:aa68660eabdcbafdc0576dcebeb8ab2940bf9d5d&amp;dn=The.Flash.S01E18.2014.HD.1080p.WEB-DL&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":9,"uploader":"CakeMonster","files":1,"time":1429139121,"description":"The.Flash.S01E18.2014.HD.1080p.WEB-DL\n\nThe other upload had glitces","torrent":{"xt":"urn:btih:aa68660eabdcbafdc0576dcebeb8ab2940bf9d5d","amp;dn":"The.Flash.S01E18.2014.HD.1080p.WEB-DL","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"aa68660eabdcbafdc0576dcebeb8ab2940bf9d5d","infoHashBuffer":{"type":"Buffer","data":[170,104,102,14,171,220,186,253,192,87,109,206,190,184,171,41,64,191,157,93]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Flash.S01E18.2014.HD.1080p.WEB-DL",
+  "uid": 11817299,
+  "size": 1810053396,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:aa68660eabdcbafdc0576dcebeb8ab2940bf9d5d&amp;dn=The.Flash.S01E18.2014.HD.1080p.WEB-DL&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 9,
+  "uploader": "CakeMonster",
+  "files": 1,
+  "time": 1429139121,
+  "description": "The.Flash.S01E18.2014.HD.1080p.WEB-DL\n\nThe other upload had glitces",
+  "parsed": {
+    "xt": "urn:btih:aa68660eabdcbafdc0576dcebeb8ab2940bf9d5d",
+    "dn": "The.Flash.S01E18.2014.HD.1080p.WEB-DL",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "aa68660eabdcbafdc0576dcebeb8ab2940bf9d5d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        170,
+        104,
+        102,
+        14,
+        171,
+        220,
+        186,
+        253,
+        192,
+        87,
+        109,
+        206,
+        190,
+        184,
+        171,
+        41,
+        64,
+        191,
+        157,
+        93
+      ]
+    },
+    "name": "The.Flash.S01E18.2014.HD.1080p.WEB-DL",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 72,
+  "peers": 14,
+  "last_updated": "2016-12-25T10:35:21.195Z"
+}

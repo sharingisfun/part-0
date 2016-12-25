@@ -1,1 +1,61 @@
-{"title":"The Shield Complete Series H264 AAC","uid":8866869,"size":31502090196,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ab09825f27b337510574e3595f58abb3f0fe628c&amp;dn=The+Shield+Complete+Series+H264+AAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":81,"uploader":"Aahzman","files":-1,"time":1377940984,"description":"The Shield is an American drama television series starring Michael Chiklis that premiered on March 12, 2002, on FX in the United States and concluded on November 25, 2008, after seven seasons. Known for its portrayal of corrupt police officers, it was originally advertised as Rampart in reference to the true life Rampart Division police scandal, on which the show's Strike Team was loosely based. The series was created by Shawn Ryan and The Barn Productions for Fox Television Studios and Sony Pictures Television.\n\nVideo\nFormat/Info                      : Advanced Video Codec\nBit rate                         : 872 Kbps\nWidth                            : 720 pixels\nHeight                           : 480 pixels\nDisplay aspect ratio             : 16:9\nFrame rate                       : 23.976 fps\n\nAudio\nFormat/Info                      : Advanced Audio Codec\nBit rate mode                    : Variable\nBit rate                         : 128 Kbps\nChannel(s)                       : 2 channels\nSampling rate                    : 48.0 KHz","torrent":{"xt":"urn:btih:ab09825f27b337510574e3595f58abb3f0fe628c","amp;dn":"The+Shield+Complete+Series+H264+AAC","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ab09825f27b337510574e3595f58abb3f0fe628c","infoHashBuffer":{"type":"Buffer","data":[171,9,130,95,39,179,55,81,5,116,227,89,95,88,171,179,240,254,98,140]},"announce":[],"urlList":[]}}
+{
+  "title": "The Shield Complete Series H264 AAC",
+  "uid": 8866869,
+  "size": 31502090196,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ab09825f27b337510574e3595f58abb3f0fe628c&amp;dn=The+Shield+Complete+Series+H264+AAC&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 81,
+  "uploader": "Aahzman",
+  "files": -1,
+  "time": 1377940984,
+  "description": "The Shield is an American drama television series starring Michael Chiklis that premiered on March 12, 2002, on FX in the United States and concluded on November 25, 2008, after seven seasons. Known for its portrayal of corrupt police officers, it was originally advertised as Rampart in reference to the true life Rampart Division police scandal, on which the show's Strike Team was loosely based. The series was created by Shawn Ryan and The Barn Productions for Fox Television Studios and Sony Pictures Television.\n\nVideo\nFormat/Info                      : Advanced Video Codec\nBit rate                         : 872 Kbps\nWidth                            : 720 pixels\nHeight                           : 480 pixels\nDisplay aspect ratio             : 16:9\nFrame rate                       : 23.976 fps\n\nAudio\nFormat/Info                      : Advanced Audio Codec\nBit rate mode                    : Variable\nBit rate                         : 128 Kbps\nChannel(s)                       : 2 channels\nSampling rate                    : 48.0 KHz",
+  "parsed": {
+    "xt": "urn:btih:ab09825f27b337510574e3595f58abb3f0fe628c",
+    "dn": "The Shield Complete Series H264 AAC",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ab09825f27b337510574e3595f58abb3f0fe628c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        171,
+        9,
+        130,
+        95,
+        39,
+        179,
+        55,
+        81,
+        5,
+        116,
+        227,
+        89,
+        95,
+        88,
+        171,
+        179,
+        240,
+        254,
+        98,
+        140
+      ]
+    },
+    "name": "The Shield Complete Series H264 AAC",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 119,
+  "peers": 20,
+  "last_updated": "2016-12-25T10:38:51.824Z"
+}

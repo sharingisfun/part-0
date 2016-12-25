@@ -1,1 +1,61 @@
-{"title":"Salem S01E04 HDTV x264-2HD[ettv]","uid":10130644,"size":221804638,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ac114f8798b3bca96ec84fed196a5c46c9ddbad1&amp;dn=Salem+S01E04+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":91,"leechers":6,"uploader":"ettv","files":2,"time":1399877623,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps","torrent":{"xt":"urn:btih:ac114f8798b3bca96ec84fed196a5c46c9ddbad1","amp;dn":"Salem+S01E04+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ac114f8798b3bca96ec84fed196a5c46c9ddbad1","infoHashBuffer":{"type":"Buffer","data":[172,17,79,135,152,179,188,169,110,200,79,237,25,106,92,70,201,221,186,209]},"announce":[],"urlList":[]}}
+{
+  "title": "Salem S01E04 HDTV x264-2HD[ettv]",
+  "uid": 10130644,
+  "size": 221804638,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ac114f8798b3bca96ec84fed196a5c46c9ddbad1&amp;dn=Salem+S01E04+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 91,
+  "leechers": 6,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1399877623,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:ac114f8798b3bca96ec84fed196a5c46c9ddbad1",
+    "dn": "Salem S01E04 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ac114f8798b3bca96ec84fed196a5c46c9ddbad1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        172,
+        17,
+        79,
+        135,
+        152,
+        179,
+        188,
+        169,
+        110,
+        200,
+        79,
+        237,
+        25,
+        106,
+        92,
+        70,
+        201,
+        221,
+        186,
+        209
+      ]
+    },
+    "name": "Salem S01E04 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 97,
+  "peers": 60,
+  "last_updated": "2016-12-25T10:46:15.550Z"
+}

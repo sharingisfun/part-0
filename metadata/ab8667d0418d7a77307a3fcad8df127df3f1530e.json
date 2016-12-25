@@ -1,1 +1,61 @@
-{"title":"Grimes Discography (2010-2012) V0","uid":9013897,"size":382764514,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ab8667d0418d7a77307a3fcad8df127df3f1530e&amp;dn=Grimes+Discography+%282010-2012%29+V0&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":105,"leechers":19,"uploader":"-wxm-","files":-1,"time":1381159743,"description":"Grimes Discography (2010-2012) V0\n\nGeidi Primes (2010)\nHalfaxa (2010)\nDarkbloom (2011) [with d'Eon]\nVisions (2012)","torrent":{"xt":"urn:btih:ab8667d0418d7a77307a3fcad8df127df3f1530e","amp;dn":"Grimes+Discography+%282010-2012%29+V0","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ab8667d0418d7a77307a3fcad8df127df3f1530e","infoHashBuffer":{"type":"Buffer","data":[171,134,103,208,65,141,122,119,48,122,63,202,216,223,18,125,243,241,83,14]},"announce":[],"urlList":[]}}
+{
+  "title": "Grimes Discography (2010-2012) V0",
+  "uid": 9013897,
+  "size": 382764514,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ab8667d0418d7a77307a3fcad8df127df3f1530e&amp;dn=Grimes+Discography+%282010-2012%29+V0&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 105,
+  "leechers": 19,
+  "uploader": "-wxm-",
+  "files": -1,
+  "time": 1381159743,
+  "description": "Grimes Discography (2010-2012) V0\n\nGeidi Primes (2010)\nHalfaxa (2010)\nDarkbloom (2011) [with d'Eon]\nVisions (2012)",
+  "parsed": {
+    "xt": "urn:btih:ab8667d0418d7a77307a3fcad8df127df3f1530e",
+    "dn": "Grimes Discography (2010-2012) V0",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ab8667d0418d7a77307a3fcad8df127df3f1530e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        171,
+        134,
+        103,
+        208,
+        65,
+        141,
+        122,
+        119,
+        48,
+        122,
+        63,
+        202,
+        216,
+        223,
+        18,
+        125,
+        243,
+        241,
+        83,
+        14
+      ]
+    },
+    "name": "Grimes Discography (2010-2012) V0",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 124,
+  "peers": 101,
+  "last_updated": "2016-12-25T10:42:40.686Z"
+}

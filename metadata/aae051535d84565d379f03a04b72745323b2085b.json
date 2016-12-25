@@ -1,1 +1,61 @@
-{"title":"Kontakt 5 v5.3.0 - AU.RTAS.VST.Standalone (FiXED) - OS X [packet","uid":9195225,"size":708263409,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:aae051535d84565d379f03a04b72745323b2085b&amp;dn=Kontakt+5+v5.3.0+-+AU.RTAS.VST.Standalone+%28FiXED%29+-+OS+X+%5Bpacket&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":67,"leechers":2,"uploader":"future-dada","files":1,"time":1384476833,"description":"Native Instruments - Kontakt 5 v5.3.0 - AU.RTAS.VST.Standalone (FiXED) - OS X\n\n- Replace [KÃ¢â‚¬â„¢ed] file \n   .xml files to Directory... /Library/Application Support/Native Instruments/Service Center\n\n- Delete .plist  from directoryÃ¢â‚¬Â¦ /Library/Preferences/com.native-instruments.Kontakt 5.plist\n\n- Add com.native-instruments.Kontakt 5.plist file to directoryÃ¢â‚¬Â¦ /Library/Preferences\n\n- Restart computer. Empty trashÃ¢â‚¬Â¦\n\n- Run Kontakt5.app\n\n- Now its Kontakt 5.3.0\n\n\nLogic Pro X - tested, works well.\nStandalone - tested, works well.\nAU.VST Ableton 64bit - tested, works well.\nRTAS - Not tested.\n\n\nOur greets go to all hard working groups.\nAnd middle finger to the people who make money with our effort.\n\nSupport the good developer if you like it.\nWe would like to support you for free as long as you understand\nwhat you are doing and what it means.\n\nfuture-dada.com  MMXIII.","torrent":{"xt":"urn:btih:aae051535d84565d379f03a04b72745323b2085b","amp;dn":"Kontakt+5+v5.3.0+-+AU.RTAS.VST.Standalone+%28FiXED%29+-+OS+X+%5Bpacket","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"aae051535d84565d379f03a04b72745323b2085b","infoHashBuffer":{"type":"Buffer","data":[170,224,81,83,93,132,86,93,55,159,3,160,75,114,116,83,35,178,8,91]},"announce":[],"urlList":[]}}
+{
+  "title": "Kontakt 5 v5.3.0 - AU.RTAS.VST.Standalone (FiXED) - OS X [packet",
+  "uid": 9195225,
+  "size": 708263409,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:aae051535d84565d379f03a04b72745323b2085b&amp;dn=Kontakt+5+v5.3.0+-+AU.RTAS.VST.Standalone+%28FiXED%29+-+OS+X+%5Bpacket&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 67,
+  "leechers": 2,
+  "uploader": "future-dada",
+  "files": 1,
+  "time": 1384476833,
+  "description": "Native Instruments - Kontakt 5 v5.3.0 - AU.RTAS.VST.Standalone (FiXED) - OS X\n\n- Replace [KÃ¢â‚¬â„¢ed] file \n   .xml files to Directory... /Library/Application Support/Native Instruments/Service Center\n\n- Delete .plist  from directoryÃ¢â‚¬Â¦ /Library/Preferences/com.native-instruments.Kontakt 5.plist\n\n- Add com.native-instruments.Kontakt 5.plist file to directoryÃ¢â‚¬Â¦ /Library/Preferences\n\n- Restart computer. Empty trashÃ¢â‚¬Â¦\n\n- Run Kontakt5.app\n\n- Now its Kontakt 5.3.0\n\n\nLogic Pro X - tested, works well.\nStandalone - tested, works well.\nAU.VST Ableton 64bit - tested, works well.\nRTAS - Not tested.\n\n\nOur greets go to all hard working groups.\nAnd middle finger to the people who make money with our effort.\n\nSupport the good developer if you like it.\nWe would like to support you for free as long as you understand\nwhat you are doing and what it means.\n\nfuture-dada.com  MMXIII.",
+  "parsed": {
+    "xt": "urn:btih:aae051535d84565d379f03a04b72745323b2085b",
+    "dn": "Kontakt 5 v5.3.0 - AU.RTAS.VST.Standalone (FiXED) - OS X [packet",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "aae051535d84565d379f03a04b72745323b2085b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        170,
+        224,
+        81,
+        83,
+        93,
+        132,
+        86,
+        93,
+        55,
+        159,
+        3,
+        160,
+        75,
+        114,
+        116,
+        83,
+        35,
+        178,
+        8,
+        91
+      ]
+    },
+    "name": "Kontakt 5 v5.3.0 - AU.RTAS.VST.Standalone (FiXED) - OS X [packet",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 31,
+  "last_updated": "2016-12-25T10:37:57.660Z"
+}

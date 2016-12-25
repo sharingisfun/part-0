@@ -1,1 +1,61 @@
-{"title":"The Fresh Prince of Bel-Air - Complete TV Show -[q8pride77]-","uid":3843306,"size":22037964800,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:aa224e5bb103bec8a8422dacfe853dad190c2346&amp;dn=The+Fresh+Prince+of+Bel-Air+-+Complete+TV+Show+-%5Bq8pride77%5D-&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":124,"leechers":104,"uploader":"q8pride77","files":147,"time":1192477944,"description":"The Fresh Prince of Bel-Air - Complete TV Show -[q8pride77]-\n\n-- Every single episode from the 6 season series.","torrent":{"xt":"urn:btih:aa224e5bb103bec8a8422dacfe853dad190c2346","amp;dn":"The+Fresh+Prince+of+Bel-Air+-+Complete+TV+Show+-%5Bq8pride77%5D-","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"aa224e5bb103bec8a8422dacfe853dad190c2346","infoHashBuffer":{"type":"Buffer","data":[170,34,78,91,177,3,190,200,168,66,45,172,254,133,61,173,25,12,35,70]},"announce":[],"urlList":[]}}
+{
+  "title": "The Fresh Prince of Bel-Air - Complete TV Show -[q8pride77]-",
+  "uid": 3843306,
+  "size": 22037964800,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:aa224e5bb103bec8a8422dacfe853dad190c2346&amp;dn=The+Fresh+Prince+of+Bel-Air+-+Complete+TV+Show+-%5Bq8pride77%5D-&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 124,
+  "leechers": 104,
+  "uploader": "q8pride77",
+  "files": 147,
+  "time": 1192477944,
+  "description": "The Fresh Prince of Bel-Air - Complete TV Show -[q8pride77]-\n\n-- Every single episode from the 6 season series.",
+  "parsed": {
+    "xt": "urn:btih:aa224e5bb103bec8a8422dacfe853dad190c2346",
+    "dn": "The Fresh Prince of Bel-Air - Complete TV Show -[q8pride77]-",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "aa224e5bb103bec8a8422dacfe853dad190c2346",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        170,
+        34,
+        78,
+        91,
+        177,
+        3,
+        190,
+        200,
+        168,
+        66,
+        45,
+        172,
+        254,
+        133,
+        61,
+        173,
+        25,
+        12,
+        35,
+        70
+      ]
+    },
+    "name": "The Fresh Prince of Bel-Air - Complete TV Show -[q8pride77]-",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 228,
+  "peers": 54,
+  "last_updated": "2016-12-25T10:33:46.925Z"
+}

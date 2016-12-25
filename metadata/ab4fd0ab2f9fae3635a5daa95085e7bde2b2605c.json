@@ -1,1 +1,61 @@
-{"title":"Need for Speed - Underground 2 (Reloaded)","uid":7361344,"size":1599870203,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:ab4fd0ab2f9fae3635a5daa95085e7bde2b2605c&amp;dn=Need+for+Speed+-+Underground+2+%28Reloaded%29+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":0,"uploader":"mojko8","files":5,"time":1339967845,"description":"Need for Speed - Underground 2 (Reloaded)","torrent":{"xt":"urn:btih:ab4fd0ab2f9fae3635a5daa95085e7bde2b2605c","amp;dn":"Need+for+Speed+-+Underground+2+%28Reloaded%29+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ab4fd0ab2f9fae3635a5daa95085e7bde2b2605c","infoHashBuffer":{"type":"Buffer","data":[171,79,208,171,47,159,174,54,53,165,218,169,80,133,231,189,226,178,96,92]},"announce":[],"urlList":[]}}
+{
+  "title": "Need for Speed - Underground 2 (Reloaded)",
+  "uid": 7361344,
+  "size": 1599870203,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:ab4fd0ab2f9fae3635a5daa95085e7bde2b2605c&amp;dn=Need+for+Speed+-+Underground+2+%28Reloaded%29+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 0,
+  "uploader": "mojko8",
+  "files": 5,
+  "time": 1339967845,
+  "description": "Need for Speed - Underground 2 (Reloaded)",
+  "parsed": {
+    "xt": "urn:btih:ab4fd0ab2f9fae3635a5daa95085e7bde2b2605c",
+    "dn": "Need for Speed - Underground 2 (Reloaded) ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ab4fd0ab2f9fae3635a5daa95085e7bde2b2605c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        171,
+        79,
+        208,
+        171,
+        47,
+        159,
+        174,
+        54,
+        53,
+        165,
+        218,
+        169,
+        80,
+        133,
+        231,
+        189,
+        226,
+        178,
+        96,
+        92
+      ]
+    },
+    "name": "Need for Speed - Underground 2 (Reloaded) ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 92,
+  "last_updated": "2016-12-25T10:41:06.242Z"
+}

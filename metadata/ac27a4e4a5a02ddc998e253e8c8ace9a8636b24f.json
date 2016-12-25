@@ -1,1 +1,61 @@
-{"title":"[HorribleSubs] Parasyte - the maxim - 03 [720p]","uid":11266652,"size":326988423,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:ac27a4e4a5a02ddc998e253e8c8ace9a8636b24f&amp;dn=%5BHorribleSubs%5D+Parasyte+-+the+maxim+-+03+%5B720p%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":2,"uploader":"Ralphless","files":-1,"time":1414028179,"description":"Parasyte - the maxim - Episode 03\n\nQuality : 720p\n\nAudio : Japanese\n\nSubtitles : English by Horrible Subs\n\nFormat : MKV","torrent":{"xt":"urn:btih:ac27a4e4a5a02ddc998e253e8c8ace9a8636b24f","amp;dn":"%5BHorribleSubs%5D+Parasyte+-+the+maxim+-+03+%5B720p%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ac27a4e4a5a02ddc998e253e8c8ace9a8636b24f","infoHashBuffer":{"type":"Buffer","data":[172,39,164,228,165,160,45,220,153,142,37,62,140,138,206,154,134,54,178,79]},"announce":[],"urlList":[]}}
+{
+  "title": "[HorribleSubs] Parasyte - the maxim - 03 [720p]",
+  "uid": 11266652,
+  "size": 326988423,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:ac27a4e4a5a02ddc998e253e8c8ace9a8636b24f&amp;dn=%5BHorribleSubs%5D+Parasyte+-+the+maxim+-+03+%5B720p%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 2,
+  "uploader": "Ralphless",
+  "files": -1,
+  "time": 1414028179,
+  "description": "Parasyte - the maxim - Episode 03\n\nQuality : 720p\n\nAudio : Japanese\n\nSubtitles : English by Horrible Subs\n\nFormat : MKV",
+  "parsed": {
+    "xt": "urn:btih:ac27a4e4a5a02ddc998e253e8c8ace9a8636b24f",
+    "dn": "[HorribleSubs] Parasyte - the maxim - 03 [720p]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ac27a4e4a5a02ddc998e253e8c8ace9a8636b24f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        172,
+        39,
+        164,
+        228,
+        165,
+        160,
+        45,
+        220,
+        153,
+        142,
+        37,
+        62,
+        140,
+        138,
+        206,
+        154,
+        134,
+        54,
+        178,
+        79
+      ]
+    },
+    "name": "[HorribleSubs] Parasyte - the maxim - 03 [720p]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 60,
+  "peers": 10,
+  "last_updated": "2016-12-25T10:47:01.718Z"
+}

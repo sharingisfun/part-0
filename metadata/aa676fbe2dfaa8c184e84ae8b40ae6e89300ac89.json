@@ -1,1 +1,63 @@
-{"title":"Parted Magic 2016 07 12","uid":15376430,"size":933952647,"categoryP":"applications","categoryS":"unix","magnet":"?xt=urn:btih:aa676fbe2dfaa8c184e84ae8b40ae6e89300ac89&amp;dn=Parted+Magic+2016+07+12&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":5,"uploader":"fat_rat_bastard","files":4,"time":1469193350,"description":"Parted Magic 2016_07_12\r\n\r\nwww.partedmagic.com\r\n\r\n\r\nParted Magic is a Linux distribution primarily aimed at disk partitioning and duplication, file system manipulation, and data recovery and destruction. To that end it includes several open source tools such as parted, gparted, partclone, clonezilla, ddrescue, and secure delete, among others.\r\n\r\n\r\nMD5SUM:\r\n\r\naa2d71ca27d845b8ece041f8b4b19d26 *pmagic_2016_07_12.iso\r\n6ba85c8b1af4d304bd3a8d5b8520e0be *pmagic_pxe_2016_07_12.tar.gz\r\n\r\nCHANGE LOG:\r\n\r\n\r\nNOTE:\r\n\r\nPatrick Verner has decided to take this project commercial without any provision for non-profit or student discounts. $49 per year is almost twice what some commercial partition/disk utilities go for. While it is true that Parted Magic offers more functionality, it is all via the work of others and without support, while the commercial offerings come with support.\r\n\t\t\r\nIn order to insure access to this excellent product for low-income individuals and non-profits, I am dedicating myself to purchasing this software and insuring it is available to these users. In this spirit, please, if you can afford this software, then purchase it","torrent":{"xt":"urn:btih:aa676fbe2dfaa8c184e84ae8b40ae6e89300ac89","amp;dn":"Parted+Magic+2016+07+12","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"aa676fbe2dfaa8c184e84ae8b40ae6e89300ac89","infoHashBuffer":{"type":"Buffer","data":[170,103,111,190,45,250,168,193,132,232,74,232,180,10,230,232,147,0,172,137]},"announce":[],"urlList":[]}}
+{
+  "title": "Parted Magic 2016 07 12",
+  "uid": 15376430,
+  "size": 933952647,
+  "categoryP": "applications",
+  "categoryS": "unix",
+  "magnet": "?xt=urn:btih:aa676fbe2dfaa8c184e84ae8b40ae6e89300ac89&amp;dn=Parted+Magic+2016+07+12&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 5,
+  "uploader": "fat_rat_bastard",
+  "files": 4,
+  "time": 1469193350,
+  "description": "Parted Magic 2016_07_12\r\n\r\nwww.partedmagic.com\r\n\r\n\r\nParted Magic is a Linux distribution primarily aimed at disk partitioning and duplication, file system manipulation, and data recovery and destruction. To that end it includes several open source tools such as parted, gparted, partclone, clonezilla, ddrescue, and secure delete, among others.\r\n\r\n\r\nMD5SUM:\r\n\r\naa2d71ca27d845b8ece041f8b4b19d26 *pmagic_2016_07_12.iso\r\n6ba85c8b1af4d304bd3a8d5b8520e0be *pmagic_pxe_2016_07_12.tar.gz\r\n\r\nCHANGE LOG:\r\n\r\n\r\nNOTE:\r\n\r\nPatrick Verner has decided to take this project commercial without any provision for non-profit or student discounts. $49 per year is almost twice what some commercial partition/disk utilities go for. While it is true that Parted Magic offers more functionality, it is all via the work of others and without support, while the commercial offerings come with support.\r\n\t\t\r\nIn order to insure access to this excellent product for low-income individuals and non-profits, I am dedicating myself to purchasing this software and insuring it is available to these users. In this spirit, please, if you can afford this software, then purchase it",
+  "parsed": {
+    "xt": "urn:btih:aa676fbe2dfaa8c184e84ae8b40ae6e89300ac89",
+    "dn": "Parted Magic 2016 07 12",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "aa676fbe2dfaa8c184e84ae8b40ae6e89300ac89",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        170,
+        103,
+        111,
+        190,
+        45,
+        250,
+        168,
+        193,
+        132,
+        232,
+        74,
+        232,
+        180,
+        10,
+        230,
+        232,
+        147,
+        0,
+        172,
+        137
+      ]
+    },
+    "name": "Parted Magic 2016 07 12",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 57,
+  "last_updated": "2016-12-25T10:35:17.182Z"
+}
