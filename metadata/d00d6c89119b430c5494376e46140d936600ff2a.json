@@ -1,1 +1,63 @@
-{"title":"High.Maintenance.S01E04.XviD-AFG","uid":15981723,"size":289376498,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d00d6c89119b430c5494376e46140d936600ff2a&amp;dn=High.Maintenance.S01E04.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":58,"leechers":7,"uploader":"TvTeam","files":7,"time":1475905862,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:d00d6c89119b430c5494376e46140d936600ff2a","amp;dn":"High.Maintenance.S01E04.XviD-AFG","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d00d6c89119b430c5494376e46140d936600ff2a","infoHashBuffer":{"type":"Buffer","data":[208,13,108,137,17,155,67,12,84,148,55,110,70,20,13,147,102,0,255,42]},"announce":[],"urlList":[]}}
+{
+  "title": "High.Maintenance.S01E04.XviD-AFG",
+  "uid": 15981723,
+  "size": 289376498,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d00d6c89119b430c5494376e46140d936600ff2a&amp;dn=High.Maintenance.S01E04.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 58,
+  "leechers": 7,
+  "uploader": "TvTeam",
+  "files": 7,
+  "time": 1475905862,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:d00d6c89119b430c5494376e46140d936600ff2a",
+    "dn": "High.Maintenance.S01E04.XviD-AFG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "d00d6c89119b430c5494376e46140d936600ff2a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        208,
+        13,
+        108,
+        137,
+        17,
+        155,
+        67,
+        12,
+        84,
+        148,
+        55,
+        110,
+        70,
+        20,
+        13,
+        147,
+        102,
+        0,
+        255,
+        42
+      ]
+    },
+    "name": "High.Maintenance.S01E04.XviD-AFG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 48,
+  "last_updated": "2016-12-25T14:31:18.726Z"
+}

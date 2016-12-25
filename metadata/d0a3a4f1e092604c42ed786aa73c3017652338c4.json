@@ -1,1 +1,61 @@
-{"title":"Lil Wayne - Sorry 4 the Wait 2 {MP3-2015}","uid":11741027,"size":169886048,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d0a3a4f1e092604c42ed786aa73c3017652338c4&amp;dn=Lil+Wayne+-+Sorry+4+the+Wait+2+%7BMP3-2015%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":107,"leechers":4,"uploader":"simpsonrony","files":17,"time":1425825169,"description":"Source: https://itunes.apple.com/gb/album/sorry-4-the-wait-2/id966452401\n\nArtist: Lil Wayne\n\nAlbum: Sorry 4 the Wait 2\n\nGenre: Hip-Hop/Rap\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\nTracklist:\n**********\n\n01 Coco\n02 Shit\n03 Trap House\n04 Selsun Blue\n05 Used To (feat. Drake)\n06 No Type\n07 Fingers Hurting\n08 Hot Nigga\n09 Hollyweezy\n10 Drunk In Love (feat. Christina Milian)\n11 You Guessed It\n12 Try Me (feat. Mack Maine)\n13 Preach (feat. 2 Chainz)\n14 Alphabet\n15 No Haters\n16 Admit It (feat. SNL)\n17 Dreams and Nightmares","torrent":{"xt":"urn:btih:d0a3a4f1e092604c42ed786aa73c3017652338c4","amp;dn":"Lil+Wayne+-+Sorry+4+the+Wait+2+%7BMP3-2015%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d0a3a4f1e092604c42ed786aa73c3017652338c4","infoHashBuffer":{"type":"Buffer","data":[208,163,164,241,224,146,96,76,66,237,120,106,167,60,48,23,101,35,56,196]},"announce":[],"urlList":[]}}
+{
+  "title": "Lil Wayne - Sorry 4 the Wait 2 {MP3-2015}",
+  "uid": 11741027,
+  "size": 169886048,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d0a3a4f1e092604c42ed786aa73c3017652338c4&amp;dn=Lil+Wayne+-+Sorry+4+the+Wait+2+%7BMP3-2015%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 107,
+  "leechers": 4,
+  "uploader": "simpsonrony",
+  "files": 17,
+  "time": 1425825169,
+  "description": "Source: https://itunes.apple.com/gb/album/sorry-4-the-wait-2/id966452401\n\nArtist: Lil Wayne\n\nAlbum: Sorry 4 the Wait 2\n\nGenre: Hip-Hop/Rap\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\nTracklist:\n**********\n\n01 Coco\n02 Shit\n03 Trap House\n04 Selsun Blue\n05 Used To (feat. Drake)\n06 No Type\n07 Fingers Hurting\n08 Hot Nigga\n09 Hollyweezy\n10 Drunk In Love (feat. Christina Milian)\n11 You Guessed It\n12 Try Me (feat. Mack Maine)\n13 Preach (feat. 2 Chainz)\n14 Alphabet\n15 No Haters\n16 Admit It (feat. SNL)\n17 Dreams and Nightmares",
+  "parsed": {
+    "xt": "urn:btih:d0a3a4f1e092604c42ed786aa73c3017652338c4",
+    "dn": "Lil Wayne - Sorry 4 the Wait 2 {MP3-2015}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d0a3a4f1e092604c42ed786aa73c3017652338c4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        208,
+        163,
+        164,
+        241,
+        224,
+        146,
+        96,
+        76,
+        66,
+        237,
+        120,
+        106,
+        167,
+        60,
+        48,
+        23,
+        101,
+        35,
+        56,
+        196
+      ]
+    },
+    "name": "Lil Wayne - Sorry 4 the Wait 2 {MP3-2015}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 111,
+  "peers": 22,
+  "last_updated": "2016-12-25T14:34:47.369Z"
+}

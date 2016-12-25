@@ -1,1 +1,61 @@
-{"title":"Girls S03E08 HDTV x264-2HD[ettv]","uid":9657615,"size":184512463,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d0a7ed3e79d51ea05775cae7122d5e46c0a9451f&amp;dn=Girls+S03E08+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":2,"uploader":"ettv","files":2,"time":1393217565,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:d0a7ed3e79d51ea05775cae7122d5e46c0a9451f","amp;dn":"Girls+S03E08+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d0a7ed3e79d51ea05775cae7122d5e46c0a9451f","infoHashBuffer":{"type":"Buffer","data":[208,167,237,62,121,213,30,160,87,117,202,231,18,45,94,70,192,169,69,31]},"announce":[],"urlList":[]}}
+{
+  "title": "Girls S03E08 HDTV x264-2HD[ettv]",
+  "uid": 9657615,
+  "size": 184512463,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d0a7ed3e79d51ea05775cae7122d5e46c0a9451f&amp;dn=Girls+S03E08+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1393217565,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:d0a7ed3e79d51ea05775cae7122d5e46c0a9451f",
+    "dn": "Girls S03E08 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d0a7ed3e79d51ea05775cae7122d5e46c0a9451f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        208,
+        167,
+        237,
+        62,
+        121,
+        213,
+        30,
+        160,
+        87,
+        117,
+        202,
+        231,
+        18,
+        45,
+        94,
+        70,
+        192,
+        169,
+        69,
+        31
+      ]
+    },
+    "name": "Girls S03E08 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 5,
+  "last_updated": "2016-12-25T14:34:53.385Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Radiohead OK Computer","uid":4600847,"size":65147178,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d0d1107b1e4548e26c268d042d5f9edc2780ce95&amp;dn=Radiohead+OK+Computer&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":68,"leechers":1,"uploader":"Welshguy","files":-1,"time":1230163612,"description":"RadioHead\n\nOK Computer is the third album by the English alternative rock band \nRadiohead, released on 16 June 1997. Radiohead recorded the album in rural \nOxfordshire and Bath, England, during 1996 and early 1997, with producer \nNigel Godrich. Although most of the music is dominated by guitar, OK \nComputer's expansive sound and wide range of influences set it apart from \nmany of the Britpop and alternative rock bands popular at the time, and it laid \nthe groundwork for Radiohead's later, more experimental work.[1] The album \nis not considered by the band to be a concept album; however, its lyrics and \nvisual artwork emphasise common themes such as consumerism, social \ndisconnection, political stagnation and modern malaise.[2]\n\nOK Computer reached number one on the UK Albums Chart and marked \nRadiohead's highest entry into the American market at the time, debuting at \nnumber 21 on the Billboard 200. The album expanded the band's worldwide \npopularity, and as of 2007, it has been certified triple platinum in the UK and \ndouble platinum in the US. OK Computer received considerable acclaim at the \ntime of its release, and it has since been listed by music critics and listener \npolls as one of the best albums recorded of the 90s.\n\n\n\nPlease seed this for as long as you can so others can enjoy this as well!\n","torrent":{"xt":"urn:btih:d0d1107b1e4548e26c268d042d5f9edc2780ce95","amp;dn":"Radiohead+OK+Computer","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d0d1107b1e4548e26c268d042d5f9edc2780ce95","infoHashBuffer":{"type":"Buffer","data":[208,209,16,123,30,69,72,226,108,38,141,4,45,95,158,220,39,128,206,149]},"announce":[],"urlList":[]}}
+{
+  "title": "Radiohead OK Computer",
+  "uid": 4600847,
+  "size": 65147178,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d0d1107b1e4548e26c268d042d5f9edc2780ce95&amp;dn=Radiohead+OK+Computer&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 68,
+  "leechers": 1,
+  "uploader": "Welshguy",
+  "files": -1,
+  "time": 1230163612,
+  "description": "RadioHead\n\nOK Computer is the third album by the English alternative rock band \nRadiohead, released on 16 June 1997. Radiohead recorded the album in rural \nOxfordshire and Bath, England, during 1996 and early 1997, with producer \nNigel Godrich. Although most of the music is dominated by guitar, OK \nComputer's expansive sound and wide range of influences set it apart from \nmany of the Britpop and alternative rock bands popular at the time, and it laid \nthe groundwork for Radiohead's later, more experimental work.[1] The album \nis not considered by the band to be a concept album; however, its lyrics and \nvisual artwork emphasise common themes such as consumerism, social \ndisconnection, political stagnation and modern malaise.[2]\n\nOK Computer reached number one on the UK Albums Chart and marked \nRadiohead's highest entry into the American market at the time, debuting at \nnumber 21 on the Billboard 200. The album expanded the band's worldwide \npopularity, and as of 2007, it has been certified triple platinum in the UK and \ndouble platinum in the US. OK Computer received considerable acclaim at the \ntime of its release, and it has since been listed by music critics and listener \npolls as one of the best albums recorded of the 90s.\n\n\n\nPlease seed this for as long as you can so others can enjoy this as well!\n",
+  "parsed": {
+    "xt": "urn:btih:d0d1107b1e4548e26c268d042d5f9edc2780ce95",
+    "dn": "Radiohead OK Computer",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d0d1107b1e4548e26c268d042d5f9edc2780ce95",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        208,
+        209,
+        16,
+        123,
+        30,
+        69,
+        72,
+        226,
+        108,
+        38,
+        141,
+        4,
+        45,
+        95,
+        158,
+        220,
+        39,
+        128,
+        206,
+        149
+      ]
+    },
+    "name": "Radiohead OK Computer",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 57,
+  "last_updated": "2016-12-25T14:36:01.597Z"
+}

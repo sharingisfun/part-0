@@ -1,1 +1,61 @@
-{"title":"Grand.Theft.Auto.IV.Update 1.0.7.0-Razor1911-[tracker.BTARENA.or","uid":5600044,"size":108364099,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:d15c4b540ceabd0fa872ff321771dd0b561aa99e&amp;dn=Grand.Theft.Auto.IV.Update+1.0.7.0-Razor1911-%5Btracker.BTARENA.or&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":2,"uploader":"AiTB","files":6,"time":1275253243,"description":" &lt;a href=&quot;http://www.btarena.org/games/updates/grand-theft-auto-iv-update-1-0-7-0-razor1911&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.btarena.org/games/updates/grand-theft-auto-iv-update-1-0-7-0-razor1911&lt;/a&gt;","torrent":{"xt":"urn:btih:d15c4b540ceabd0fa872ff321771dd0b561aa99e","amp;dn":"Grand.Theft.Auto.IV.Update+1.0.7.0-Razor1911-%5Btracker.BTARENA.or","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d15c4b540ceabd0fa872ff321771dd0b561aa99e","infoHashBuffer":{"type":"Buffer","data":[209,92,75,84,12,234,189,15,168,114,255,50,23,113,221,11,86,26,169,158]},"announce":[],"urlList":[]}}
+{
+  "title": "Grand.Theft.Auto.IV.Update 1.0.7.0-Razor1911-[tracker.BTARENA.or",
+  "uid": 5600044,
+  "size": 108364099,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:d15c4b540ceabd0fa872ff321771dd0b561aa99e&amp;dn=Grand.Theft.Auto.IV.Update+1.0.7.0-Razor1911-%5Btracker.BTARENA.or&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 2,
+  "uploader": "AiTB",
+  "files": 6,
+  "time": 1275253243,
+  "description": " &lt;a href=&quot;http://www.btarena.org/games/updates/grand-theft-auto-iv-update-1-0-7-0-razor1911&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.btarena.org/games/updates/grand-theft-auto-iv-update-1-0-7-0-razor1911&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:d15c4b540ceabd0fa872ff321771dd0b561aa99e",
+    "dn": "Grand.Theft.Auto.IV.Update 1.0.7.0-Razor1911-[tracker.BTARENA.or",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d15c4b540ceabd0fa872ff321771dd0b561aa99e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        209,
+        92,
+        75,
+        84,
+        12,
+        234,
+        189,
+        15,
+        168,
+        114,
+        255,
+        50,
+        23,
+        113,
+        221,
+        11,
+        86,
+        26,
+        169,
+        158
+      ]
+    },
+    "name": "Grand.Theft.Auto.IV.Update 1.0.7.0-Razor1911-[tracker.BTARENA.or",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 15,
+  "last_updated": "2016-12-25T14:39:28.204Z"
+}

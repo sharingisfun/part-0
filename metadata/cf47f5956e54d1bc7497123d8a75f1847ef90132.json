@@ -1,1 +1,61 @@
-{"title":"Tool - Complete Discography","uid":3565675,"size":697029867,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:cf47f5956e54d1bc7497123d8a75f1847ef90132&amp;dn=Tool+-+Complete+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":10,"uploader":"mhmatt","files":77,"time":1164587364,"description":"Complete Tool Discography! Includes: 10,000 Days, aenima, Opiate, Salival, Undertow, Lateralus, Toolshed and all the artwork.","torrent":{"xt":"urn:btih:cf47f5956e54d1bc7497123d8a75f1847ef90132","amp;dn":"Tool+-+Complete+Discography","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cf47f5956e54d1bc7497123d8a75f1847ef90132","infoHashBuffer":{"type":"Buffer","data":[207,71,245,149,110,84,209,188,116,151,18,61,138,117,241,132,126,249,1,50]},"announce":[],"urlList":[]}}
+{
+  "title": "Tool - Complete Discography",
+  "uid": 3565675,
+  "size": 697029867,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:cf47f5956e54d1bc7497123d8a75f1847ef90132&amp;dn=Tool+-+Complete+Discography&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 10,
+  "uploader": "mhmatt",
+  "files": 77,
+  "time": 1164587364,
+  "description": "Complete Tool Discography! Includes: 10,000 Days, aenima, Opiate, Salival, Undertow, Lateralus, Toolshed and all the artwork.",
+  "parsed": {
+    "xt": "urn:btih:cf47f5956e54d1bc7497123d8a75f1847ef90132",
+    "dn": "Tool - Complete Discography",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cf47f5956e54d1bc7497123d8a75f1847ef90132",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        207,
+        71,
+        245,
+        149,
+        110,
+        84,
+        209,
+        188,
+        116,
+        151,
+        18,
+        61,
+        138,
+        117,
+        241,
+        132,
+        126,
+        249,
+        1,
+        50
+      ]
+    },
+    "name": "Tool - Complete Discography",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 72,
+  "peers": 81,
+  "last_updated": "2016-12-25T14:26:13.800Z"
+}

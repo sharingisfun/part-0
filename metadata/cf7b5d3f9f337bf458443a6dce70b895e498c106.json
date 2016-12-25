@@ -1,1 +1,61 @@
-{"title":"tUnE-yArDs-Nikki Nack (2014) 320","uid":10059070,"size":108664372,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:cf7b5d3f9f337bf458443a6dce70b895e498c106&amp;dn=tUnE-yArDs-Nikki+Nack+%282014%29+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":63,"leechers":3,"uploader":"-wxm-","files":-1,"time":1398704894,"description":"tUnE-yArDs-Nikki Nack (2014) 320\n\nTracklist:\n01. Find a New Way\n02. Water Fountain\n03. Time of Dark\n04. Real Thing\n05. Look Around\n06. Hey Life\n07. Sink-O\n08. Why Do We Dine on the Tots?\n09. Stop That Man\n10. Wait for a Minute\n11. Left Behind\n12. Rocking Chair\n13. Manchild","torrent":{"xt":"urn:btih:cf7b5d3f9f337bf458443a6dce70b895e498c106","amp;dn":"tUnE-yArDs-Nikki+Nack+%282014%29+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cf7b5d3f9f337bf458443a6dce70b895e498c106","infoHashBuffer":{"type":"Buffer","data":[207,123,93,63,159,51,123,244,88,68,58,109,206,112,184,149,228,152,193,6]},"announce":[],"urlList":[]}}
+{
+  "title": "tUnE-yArDs-Nikki Nack (2014) 320",
+  "uid": 10059070,
+  "size": 108664372,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:cf7b5d3f9f337bf458443a6dce70b895e498c106&amp;dn=tUnE-yArDs-Nikki+Nack+%282014%29+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 63,
+  "leechers": 3,
+  "uploader": "-wxm-",
+  "files": -1,
+  "time": 1398704894,
+  "description": "tUnE-yArDs-Nikki Nack (2014) 320\n\nTracklist:\n01. Find a New Way\n02. Water Fountain\n03. Time of Dark\n04. Real Thing\n05. Look Around\n06. Hey Life\n07. Sink-O\n08. Why Do We Dine on the Tots?\n09. Stop That Man\n10. Wait for a Minute\n11. Left Behind\n12. Rocking Chair\n13. Manchild",
+  "parsed": {
+    "xt": "urn:btih:cf7b5d3f9f337bf458443a6dce70b895e498c106",
+    "dn": "tUnE-yArDs-Nikki Nack (2014) 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cf7b5d3f9f337bf458443a6dce70b895e498c106",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        207,
+        123,
+        93,
+        63,
+        159,
+        51,
+        123,
+        244,
+        88,
+        68,
+        58,
+        109,
+        206,
+        112,
+        184,
+        149,
+        228,
+        152,
+        193,
+        6
+      ]
+    },
+    "name": "tUnE-yArDs-Nikki Nack (2014) 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 66,
+  "peers": 3,
+  "last_updated": "2016-12-25T14:27:42.068Z"
+}

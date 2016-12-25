@@ -1,1 +1,61 @@
-{"title":"cs1.6 extended","uid":6011618,"size":339691520,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:d16a003ba44c5333b0c11811f3a8152d774fc12d&amp;dn=cs1.6+extended&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":0,"uploader":"mina73","files":1,"time":1291475901,"description":"cs 1.6 extended rus steam","torrent":{"xt":"urn:btih:d16a003ba44c5333b0c11811f3a8152d774fc12d","amp;dn":"cs1.6+extended","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d16a003ba44c5333b0c11811f3a8152d774fc12d","infoHashBuffer":{"type":"Buffer","data":[209,106,0,59,164,76,83,51,176,193,24,17,243,168,21,45,119,79,193,45]},"announce":[],"urlList":[]}}
+{
+  "title": "cs1.6 extended",
+  "uid": 6011618,
+  "size": 339691520,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:d16a003ba44c5333b0c11811f3a8152d774fc12d&amp;dn=cs1.6+extended&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 0,
+  "uploader": "mina73",
+  "files": 1,
+  "time": 1291475901,
+  "description": "cs 1.6 extended rus steam",
+  "parsed": {
+    "xt": "urn:btih:d16a003ba44c5333b0c11811f3a8152d774fc12d",
+    "dn": "cs1.6 extended",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d16a003ba44c5333b0c11811f3a8152d774fc12d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        209,
+        106,
+        0,
+        59,
+        164,
+        76,
+        83,
+        51,
+        176,
+        193,
+        24,
+        17,
+        243,
+        168,
+        21,
+        45,
+        119,
+        79,
+        193,
+        45
+      ]
+    },
+    "name": "cs1.6 extended",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 33,
+  "last_updated": "2016-12-25T14:39:38.233Z"
+}

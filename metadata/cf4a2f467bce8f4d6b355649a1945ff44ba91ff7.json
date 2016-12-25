@@ -1,1 +1,61 @@
-{"title":"Roman.Holiday[1953][XviD][MP3][Eng].Audrey.Hepburn","uid":5243024,"size":735860133,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:cf4a2f467bce8f4d6b355649a1945ff44ba91ff7&amp;dn=Roman.Holiday%5B1953%5D%5BXviD%5D%5BMP3%5D%5BEng%5D.Audrey.Hepburn&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":104,"leechers":6,"uploader":"twentyforty","files":2,"time":1261857169,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt0046250&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt0046250&lt;/a&gt;","torrent":{"xt":"urn:btih:cf4a2f467bce8f4d6b355649a1945ff44ba91ff7","amp;dn":"Roman.Holiday%5B1953%5D%5BXviD%5D%5BMP3%5D%5BEng%5D.Audrey.Hepburn","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cf4a2f467bce8f4d6b355649a1945ff44ba91ff7","infoHashBuffer":{"type":"Buffer","data":[207,74,47,70,123,206,143,77,107,53,86,73,161,148,95,244,75,169,31,247]},"announce":[],"urlList":[]}}
+{
+  "title": "Roman.Holiday[1953][XviD][MP3][Eng].Audrey.Hepburn",
+  "uid": 5243024,
+  "size": 735860133,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:cf4a2f467bce8f4d6b355649a1945ff44ba91ff7&amp;dn=Roman.Holiday%5B1953%5D%5BXviD%5D%5BMP3%5D%5BEng%5D.Audrey.Hepburn&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 104,
+  "leechers": 6,
+  "uploader": "twentyforty",
+  "files": 2,
+  "time": 1261857169,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt0046250&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt0046250&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:cf4a2f467bce8f4d6b355649a1945ff44ba91ff7",
+    "dn": "Roman.Holiday[1953][XviD][MP3][Eng].Audrey.Hepburn",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cf4a2f467bce8f4d6b355649a1945ff44ba91ff7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        207,
+        74,
+        47,
+        70,
+        123,
+        206,
+        143,
+        77,
+        107,
+        53,
+        86,
+        73,
+        161,
+        148,
+        95,
+        244,
+        75,
+        169,
+        31,
+        247
+      ]
+    },
+    "name": "Roman.Holiday[1953][XviD][MP3][Eng].Audrey.Hepburn",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 110,
+  "peers": 86,
+  "last_updated": "2016-12-25T14:26:15.806Z"
+}

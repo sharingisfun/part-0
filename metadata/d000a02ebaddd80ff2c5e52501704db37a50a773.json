@@ -1,1 +1,61 @@
-{"title":"Calvin Harris - Summer (Diplo &amp; Grandtheft Remix) [320kbps]","uid":10397949,"size":10718759,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:d000a02ebaddd80ff2c5e52501704db37a50a773&amp;dn=Calvin+Harris+-+Summer+%28Diplo+%26amp%3B+Grandtheft+Remix%29+%5B320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":0,"uploader":"AngelDiMaria","files":1,"time":1403299551,"description":"=========================\nGenre : House, Electro, Dance\nRelease date : 2014\nLabel : Sony Music\nFormat : Mp3 320 kbps\nDuration : 00:04:27\n=========================","torrent":{"xt":"urn:btih:d000a02ebaddd80ff2c5e52501704db37a50a773","amp;dn":"Calvin+Harris+-+Summer+%28Diplo+%26amp%3B+Grandtheft+Remix%29+%5B320kbps%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d000a02ebaddd80ff2c5e52501704db37a50a773","infoHashBuffer":{"type":"Buffer","data":[208,0,160,46,186,221,216,15,242,197,229,37,1,112,77,179,122,80,167,115]},"announce":[],"urlList":[]}}
+{
+  "title": "Calvin Harris - Summer (Diplo &amp; Grandtheft Remix) [320kbps]",
+  "uid": 10397949,
+  "size": 10718759,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:d000a02ebaddd80ff2c5e52501704db37a50a773&amp;dn=Calvin+Harris+-+Summer+%28Diplo+%26amp%3B+Grandtheft+Remix%29+%5B320kbps%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 0,
+  "uploader": "AngelDiMaria",
+  "files": 1,
+  "time": 1403299551,
+  "description": "=========================\nGenre : House, Electro, Dance\nRelease date : 2014\nLabel : Sony Music\nFormat : Mp3 320 kbps\nDuration : 00:04:27\n=========================",
+  "parsed": {
+    "xt": "urn:btih:d000a02ebaddd80ff2c5e52501704db37a50a773",
+    "dn": "Calvin Harris - Summer (Diplo &amp; Grandtheft Remix) [320kbps]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d000a02ebaddd80ff2c5e52501704db37a50a773",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        208,
+        0,
+        160,
+        46,
+        186,
+        221,
+        216,
+        15,
+        242,
+        197,
+        229,
+        37,
+        1,
+        112,
+        77,
+        179,
+        122,
+        80,
+        167,
+        115
+      ]
+    },
+    "name": "Calvin Harris - Summer (Diplo &amp; Grandtheft Remix) [320kbps]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 44,
+  "last_updated": "2016-12-25T14:30:58.662Z"
+}

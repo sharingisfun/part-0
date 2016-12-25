@@ -1,1 +1,61 @@
-{"title":"Rosetta Stone v3.4.7 Preinstalled.exe","uid":7272499,"size":114230824,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:d06449a46b2f8a15f7ffd0b5ab1651c2c250cf41&amp;dn=Rosetta+Stone+v3.4.7+Preinstalled.exe&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":239,"leechers":3,"uploader":"EinDeutschMan","files":1,"time":1337095672,"description":"TO ALL:\n\nI don't know why I didn't do this earlier,\nI have created a SELF EXTRACTING version of the &quot;Rosetta_Stone_v3_Preinstalled.rar&quot;\n\nIt takes out all of the guess work.\n\nDL this file, extract it, allow it to extract to the default location (C:/)\n\nIt will create a &quot;Rosetta Stone&quot; folder in Program Files (x86) AND C:/ProgramData.\n\nIt will then copy all the files needed to run Rosetta Stone.\n\nYou will see that ALL language packs that I have are already activated.\n\nDL whichever language pack(s) you want, as many as you want.\n(assuming you have that much free space on your drive)\n\nExtract them, they will copy all of the files needed for that particular language to:\nC:/Program Files (x86)/Rosetta Stone/content\n\nGo to the C:/Program Files (x86)/Rosetta Stone/Rosetta Stone v3 folder.\n\nrun the &quot;RosettaSoneVersion3&quot; file\n\nClick &quot;Never register&quot;\nAt the activation screen, click &quot;Continue&quot; \n(you can scroll through the list of languages that are activated if you wish)\nCreate User\n\nDONE!\n\nNOTE:\nI have tested this on 3 machines, 2 Vista's, and 1 Win7.\nALL of the files have been scanned with Vipre 2012, and are clean.","torrent":{"xt":"urn:btih:d06449a46b2f8a15f7ffd0b5ab1651c2c250cf41","amp;dn":"Rosetta+Stone+v3.4.7+Preinstalled.exe","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d06449a46b2f8a15f7ffd0b5ab1651c2c250cf41","infoHashBuffer":{"type":"Buffer","data":[208,100,73,164,107,47,138,21,247,255,208,181,171,22,81,194,194,80,207,65]},"announce":[],"urlList":[]}}
+{
+  "title": "Rosetta Stone v3.4.7 Preinstalled.exe",
+  "uid": 7272499,
+  "size": 114230824,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:d06449a46b2f8a15f7ffd0b5ab1651c2c250cf41&amp;dn=Rosetta+Stone+v3.4.7+Preinstalled.exe&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 239,
+  "leechers": 3,
+  "uploader": "EinDeutschMan",
+  "files": 1,
+  "time": 1337095672,
+  "description": "TO ALL:\n\nI don't know why I didn't do this earlier,\nI have created a SELF EXTRACTING version of the &quot;Rosetta_Stone_v3_Preinstalled.rar&quot;\n\nIt takes out all of the guess work.\n\nDL this file, extract it, allow it to extract to the default location (C:/)\n\nIt will create a &quot;Rosetta Stone&quot; folder in Program Files (x86) AND C:/ProgramData.\n\nIt will then copy all the files needed to run Rosetta Stone.\n\nYou will see that ALL language packs that I have are already activated.\n\nDL whichever language pack(s) you want, as many as you want.\n(assuming you have that much free space on your drive)\n\nExtract them, they will copy all of the files needed for that particular language to:\nC:/Program Files (x86)/Rosetta Stone/content\n\nGo to the C:/Program Files (x86)/Rosetta Stone/Rosetta Stone v3 folder.\n\nrun the &quot;RosettaSoneVersion3&quot; file\n\nClick &quot;Never register&quot;\nAt the activation screen, click &quot;Continue&quot; \n(you can scroll through the list of languages that are activated if you wish)\nCreate User\n\nDONE!\n\nNOTE:\nI have tested this on 3 machines, 2 Vista's, and 1 Win7.\nALL of the files have been scanned with Vipre 2012, and are clean.",
+  "parsed": {
+    "xt": "urn:btih:d06449a46b2f8a15f7ffd0b5ab1651c2c250cf41",
+    "dn": "Rosetta Stone v3.4.7 Preinstalled.exe",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d06449a46b2f8a15f7ffd0b5ab1651c2c250cf41",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        208,
+        100,
+        73,
+        164,
+        107,
+        47,
+        138,
+        21,
+        247,
+        255,
+        208,
+        181,
+        171,
+        22,
+        81,
+        194,
+        194,
+        80,
+        207,
+        65
+      ]
+    },
+    "name": "Rosetta Stone v3.4.7 Preinstalled.exe",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 242,
+  "peers": 111,
+  "last_updated": "2016-12-25T14:33:39.176Z"
+}

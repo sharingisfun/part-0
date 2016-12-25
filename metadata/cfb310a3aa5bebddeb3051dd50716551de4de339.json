@@ -1,1 +1,61 @@
-{"title":"10.10.1 (Intel &amp; AMD Supported) Niresh","uid":11802619,"size":5332012208,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:cfb310a3aa5bebddeb3051dd50716551de4de339&amp;dn=10.10.1+%28Intel+%26amp%3B+AMD+Supported%29+Niresh&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":135,"leechers":26,"uploader":"mindcrasher","files":1,"time":1428448901,"description":"OS X Yosemite (10.10) is the latest OS X release of 2014 by apple,\nbut Apple locks the operating system to only be installed in genuine Apple computers known as Macintosh &amp; they cost a lot\nany how there is always a way if you want to install the operating system in your common pc, without paying high cost for a real mac you can make a Hackintosh","torrent":{"xt":"urn:btih:cfb310a3aa5bebddeb3051dd50716551de4de339","amp;dn":"10.10.1+%28Intel+%26amp%3B+AMD+Supported%29+Niresh","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cfb310a3aa5bebddeb3051dd50716551de4de339","infoHashBuffer":{"type":"Buffer","data":[207,179,16,163,170,91,235,221,235,48,81,221,80,113,101,81,222,77,227,57]},"announce":[],"urlList":[]}}
+{
+  "title": "10.10.1 (Intel &amp; AMD Supported) Niresh",
+  "uid": 11802619,
+  "size": 5332012208,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:cfb310a3aa5bebddeb3051dd50716551de4de339&amp;dn=10.10.1+%28Intel+%26amp%3B+AMD+Supported%29+Niresh&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 135,
+  "leechers": 26,
+  "uploader": "mindcrasher",
+  "files": 1,
+  "time": 1428448901,
+  "description": "OS X Yosemite (10.10) is the latest OS X release of 2014 by apple,\nbut Apple locks the operating system to only be installed in genuine Apple computers known as Macintosh &amp; they cost a lot\nany how there is always a way if you want to install the operating system in your common pc, without paying high cost for a real mac you can make a Hackintosh",
+  "parsed": {
+    "xt": "urn:btih:cfb310a3aa5bebddeb3051dd50716551de4de339",
+    "dn": "10.10.1 (Intel &amp; AMD Supported) Niresh",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cfb310a3aa5bebddeb3051dd50716551de4de339",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        207,
+        179,
+        16,
+        163,
+        170,
+        91,
+        235,
+        221,
+        235,
+        48,
+        81,
+        221,
+        80,
+        113,
+        101,
+        81,
+        222,
+        77,
+        227,
+        57
+      ]
+    },
+    "name": "10.10.1 (Intel &amp; AMD Supported) Niresh",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 161,
+  "peers": 50,
+  "last_updated": "2016-12-25T14:29:22.381Z"
+}

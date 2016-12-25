@@ -1,1 +1,61 @@
-{"title":"Wiz Khalifa ft Snoop Dogg - Young Wild and Free","uid":6214820,"size":7665526,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:cfd347aa812fd47418e0ea84447b267b48a5f652&amp;dn=Wiz+Khalifa+ft+Snoop+Dogg+-+Young+Wild+and+Free&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":92,"leechers":0,"uploader":"stiffler99","files":1,"time":1299120805,"description":"Wiz Khalifa ft Snoop Dogg - Young Wild and Free Single\nKeEzDaWg","torrent":{"xt":"urn:btih:cfd347aa812fd47418e0ea84447b267b48a5f652","amp;dn":"Wiz+Khalifa+ft+Snoop+Dogg+-+Young+Wild+and+Free","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cfd347aa812fd47418e0ea84447b267b48a5f652","infoHashBuffer":{"type":"Buffer","data":[207,211,71,170,129,47,212,116,24,224,234,132,68,123,38,123,72,165,246,82]},"announce":[],"urlList":[]}}
+{
+  "title": "Wiz Khalifa ft Snoop Dogg - Young Wild and Free",
+  "uid": 6214820,
+  "size": 7665526,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:cfd347aa812fd47418e0ea84447b267b48a5f652&amp;dn=Wiz+Khalifa+ft+Snoop+Dogg+-+Young+Wild+and+Free&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 92,
+  "leechers": 0,
+  "uploader": "stiffler99",
+  "files": 1,
+  "time": 1299120805,
+  "description": "Wiz Khalifa ft Snoop Dogg - Young Wild and Free Single\nKeEzDaWg",
+  "parsed": {
+    "xt": "urn:btih:cfd347aa812fd47418e0ea84447b267b48a5f652",
+    "dn": "Wiz Khalifa ft Snoop Dogg - Young Wild and Free",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cfd347aa812fd47418e0ea84447b267b48a5f652",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        207,
+        211,
+        71,
+        170,
+        129,
+        47,
+        212,
+        116,
+        24,
+        224,
+        234,
+        132,
+        68,
+        123,
+        38,
+        123,
+        72,
+        165,
+        246,
+        82
+      ]
+    },
+    "name": "Wiz Khalifa ft Snoop Dogg - Young Wild and Free",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 92,
+  "peers": 50,
+  "last_updated": "2016-12-25T14:29:56.480Z"
+}

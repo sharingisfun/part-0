@@ -1,1 +1,61 @@
-{"title":"Star wars Rebels full Season 1","uid":11742501,"size":7286434435,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d14d5b617e89b2ea4a3ba354d811f75e1855a8ba&amp;dn=Star+wars+Rebels+full+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":69,"leechers":21,"uploader":"cheesyone","files":20,"time":1425857791,"description":"A brave and clever ragtag starship crew stands up against the evil Empire as it tightens its grip on the galaxy and hunts down the last of the Jedi Knights","torrent":{"xt":"urn:btih:d14d5b617e89b2ea4a3ba354d811f75e1855a8ba","amp;dn":"Star+wars+Rebels+full+Season+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d14d5b617e89b2ea4a3ba354d811f75e1855a8ba","infoHashBuffer":{"type":"Buffer","data":[209,77,91,97,126,137,178,234,74,59,163,84,216,17,247,94,24,85,168,186]},"announce":[],"urlList":[]}}
+{
+  "title": "Star wars Rebels full Season 1",
+  "uid": 11742501,
+  "size": 7286434435,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d14d5b617e89b2ea4a3ba354d811f75e1855a8ba&amp;dn=Star+wars+Rebels+full+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 69,
+  "leechers": 21,
+  "uploader": "cheesyone",
+  "files": 20,
+  "time": 1425857791,
+  "description": "A brave and clever ragtag starship crew stands up against the evil Empire as it tightens its grip on the galaxy and hunts down the last of the Jedi Knights",
+  "parsed": {
+    "xt": "urn:btih:d14d5b617e89b2ea4a3ba354d811f75e1855a8ba",
+    "dn": "Star wars Rebels full Season 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d14d5b617e89b2ea4a3ba354d811f75e1855a8ba",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        209,
+        77,
+        91,
+        97,
+        126,
+        137,
+        178,
+        234,
+        74,
+        59,
+        163,
+        84,
+        216,
+        17,
+        247,
+        94,
+        24,
+        85,
+        168,
+        186
+      ]
+    },
+    "name": "Star wars Rebels full Season 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 90,
+  "peers": 94,
+  "last_updated": "2016-12-25T14:39:02.122Z"
+}

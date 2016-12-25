@@ -1,1 +1,61 @@
-{"title":"Orange is the New Black S03 WEBRip XviD-FUM[ettv]","uid":12020691,"size":6294935442,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:d18650837ffdd48bd42be6a17ea8e75e8f75d054&amp;dn=Orange+is+the+New+Black+S03+WEBRip+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":105,"leechers":31,"uploader":"ettv","files":14,"time":1434430711,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                      &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:d18650837ffdd48bd42be6a17ea8e75e8f75d054","amp;dn":"Orange+is+the+New+Black+S03+WEBRip+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d18650837ffdd48bd42be6a17ea8e75e8f75d054","infoHashBuffer":{"type":"Buffer","data":[209,134,80,131,127,253,212,139,212,43,230,161,126,168,231,94,143,117,208,84]},"announce":[],"urlList":[]}}
+{
+  "title": "Orange is the New Black S03 WEBRip XviD-FUM[ettv]",
+  "uid": 12020691,
+  "size": 6294935442,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:d18650837ffdd48bd42be6a17ea8e75e8f75d054&amp;dn=Orange+is+the+New+Black+S03+WEBRip+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 105,
+  "leechers": 31,
+  "uploader": "ettv",
+  "files": 14,
+  "time": 1434430711,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                      &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:d18650837ffdd48bd42be6a17ea8e75e8f75d054",
+    "dn": "Orange is the New Black S03 WEBRip XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d18650837ffdd48bd42be6a17ea8e75e8f75d054",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        209,
+        134,
+        80,
+        131,
+        127,
+        253,
+        212,
+        139,
+        212,
+        43,
+        230,
+        161,
+        126,
+        168,
+        231,
+        94,
+        143,
+        117,
+        208,
+        84
+      ]
+    },
+    "name": "Orange is the New Black S03 WEBRip XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 136,
+  "peers": 24,
+  "last_updated": "2016-12-25T14:40:22.351Z"
+}

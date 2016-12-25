@@ -1,1 +1,61 @@
-{"title":"American Pie Beta.House [2007]DvDrip[Eng]","uid":4309247,"size":733861888,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:cf6d7e1a15b8b6b2d1e3fbd914d4e6f5231563f6&amp;dn=American+Pie+Beta.House+%5B2007%5DDvDrip%5BEng%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":65,"leechers":6,"uploader":"tschwartz","files":1,"time":1216722400,"description":"American Pie Beta House DVDrip English\n\nNo subtitles, avi file","torrent":{"xt":"urn:btih:cf6d7e1a15b8b6b2d1e3fbd914d4e6f5231563f6","amp;dn":"American+Pie+Beta.House+%5B2007%5DDvDrip%5BEng%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"cf6d7e1a15b8b6b2d1e3fbd914d4e6f5231563f6","infoHashBuffer":{"type":"Buffer","data":[207,109,126,26,21,184,182,178,209,227,251,217,20,212,230,245,35,21,99,246]},"announce":[],"urlList":[]}}
+{
+  "title": "American Pie Beta.House [2007]DvDrip[Eng]",
+  "uid": 4309247,
+  "size": 733861888,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:cf6d7e1a15b8b6b2d1e3fbd914d4e6f5231563f6&amp;dn=American+Pie+Beta.House+%5B2007%5DDvDrip%5BEng%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 65,
+  "leechers": 6,
+  "uploader": "tschwartz",
+  "files": 1,
+  "time": 1216722400,
+  "description": "American Pie Beta House DVDrip English\n\nNo subtitles, avi file",
+  "parsed": {
+    "xt": "urn:btih:cf6d7e1a15b8b6b2d1e3fbd914d4e6f5231563f6",
+    "dn": "American Pie Beta.House [2007]DvDrip[Eng]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "cf6d7e1a15b8b6b2d1e3fbd914d4e6f5231563f6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        207,
+        109,
+        126,
+        26,
+        21,
+        184,
+        182,
+        178,
+        209,
+        227,
+        251,
+        217,
+        20,
+        212,
+        230,
+        245,
+        35,
+        21,
+        99,
+        246
+      ]
+    },
+    "name": "American Pie Beta.House [2007]DvDrip[Eng]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 54,
+  "last_updated": "2016-12-25T14:27:20.003Z"
+}

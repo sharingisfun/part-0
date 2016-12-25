@@ -1,1 +1,63 @@
-{"title":"Day of the Tentacle Remastered (GOG)","uid":15964278,"size":16002976,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:d0e62228f34922d38fffe1b216b4ce28cef8c0ed&amp;dn=Day+of+the+Tentacle+Remastered+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":107,"leechers":69,"uploader":"trwetwr","files":4,"time":1475707313,"description":"Good Game","torrent":{"xt":"urn:btih:d0e62228f34922d38fffe1b216b4ce28cef8c0ed","amp;dn":"Day+of+the+Tentacle+Remastered+%28GOG%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d0e62228f34922d38fffe1b216b4ce28cef8c0ed","infoHashBuffer":{"type":"Buffer","data":[208,230,34,40,243,73,34,211,143,255,225,178,22,180,206,40,206,248,192,237]},"announce":[],"urlList":[]}}
+{
+  "title": "Day of the Tentacle Remastered (GOG)",
+  "uid": 15964278,
+  "size": 16002976,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:d0e62228f34922d38fffe1b216b4ce28cef8c0ed&amp;dn=Day+of+the+Tentacle+Remastered+%28GOG%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 107,
+  "leechers": 69,
+  "uploader": "trwetwr",
+  "files": 4,
+  "time": 1475707313,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:d0e62228f34922d38fffe1b216b4ce28cef8c0ed",
+    "dn": "Day of the Tentacle Remastered (GOG)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "d0e62228f34922d38fffe1b216b4ce28cef8c0ed",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        208,
+        230,
+        34,
+        40,
+        243,
+        73,
+        34,
+        211,
+        143,
+        255,
+        225,
+        178,
+        22,
+        180,
+        206,
+        40,
+        206,
+        248,
+        192,
+        237
+      ]
+    },
+    "name": "Day of the Tentacle Remastered (GOG)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 176,
+  "peers": 1,
+  "last_updated": "2016-12-25T14:36:31.693Z"
+}

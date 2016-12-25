@@ -1,1 +1,61 @@
-{"title":"Death Grips - 2012 - The Money Store [320K/CBR]","uid":7202005,"size":100292177,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:d10af18c58062b3ba55d904462fe48318175069c&amp;dn=Death+Grips+-+2012+-+The+Money+Store+%5B320K%2FCBR%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":91,"leechers":2,"uploader":"_F1_","files":-1,"time":1334968286,"description":"By request: JibbWhistle (KAT)\n\nDetails:\n\nArtist: Death Grips\nAlbum: The Money Store\nGenre: Hip-Hop, Alternative\nLabel: Columbia Records / Epic Records, a division of Sony Music Entertainment\nLanguage: English\nRelease Date: Expected Release: Apr 24, 2012\nNumber of Tracks: 13\nTotal Length: 00:41:24\nTotal Size: 95.53 MB\nFormat: MPEG 1 Layer III (mp3), Joint Stereo\nQuality: 320 KBPS, 44 KHz, CBR\nWebstore: http://itunes.apple.com/u","torrent":{"xt":"urn:btih:d10af18c58062b3ba55d904462fe48318175069c","amp;dn":"Death+Grips+-+2012+-+The+Money+Store+%5B320K%2FCBR%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"d10af18c58062b3ba55d904462fe48318175069c","infoHashBuffer":{"type":"Buffer","data":[209,10,241,140,88,6,43,59,165,93,144,68,98,254,72,49,129,117,6,156]},"announce":[],"urlList":[]}}
+{
+  "title": "Death Grips - 2012 - The Money Store [320K/CBR]",
+  "uid": 7202005,
+  "size": 100292177,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:d10af18c58062b3ba55d904462fe48318175069c&amp;dn=Death+Grips+-+2012+-+The+Money+Store+%5B320K%2FCBR%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 91,
+  "leechers": 2,
+  "uploader": "_F1_",
+  "files": -1,
+  "time": 1334968286,
+  "description": "By request: JibbWhistle (KAT)\n\nDetails:\n\nArtist: Death Grips\nAlbum: The Money Store\nGenre: Hip-Hop, Alternative\nLabel: Columbia Records / Epic Records, a division of Sony Music Entertainment\nLanguage: English\nRelease Date: Expected Release: Apr 24, 2012\nNumber of Tracks: 13\nTotal Length: 00:41:24\nTotal Size: 95.53 MB\nFormat: MPEG 1 Layer III (mp3), Joint Stereo\nQuality: 320 KBPS, 44 KHz, CBR\nWebstore: http://itunes.apple.com/u",
+  "parsed": {
+    "xt": "urn:btih:d10af18c58062b3ba55d904462fe48318175069c",
+    "dn": "Death Grips - 2012 - The Money Store [320K/CBR]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "d10af18c58062b3ba55d904462fe48318175069c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        209,
+        10,
+        241,
+        140,
+        88,
+        6,
+        43,
+        59,
+        165,
+        93,
+        144,
+        68,
+        98,
+        254,
+        72,
+        49,
+        129,
+        117,
+        6,
+        156
+      ]
+    },
+    "name": "Death Grips - 2012 - The Money Store [320K/CBR]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 93,
+  "peers": 53,
+  "last_updated": "2016-12-25T14:37:17.818Z"
+}
