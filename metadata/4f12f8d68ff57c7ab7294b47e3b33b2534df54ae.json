@@ -1,1 +1,61 @@
-{"title":"Grand Theft Auto IV Pc version","uid":6609216,"size":14972195454,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:4f12f8d68ff57c7ab7294b47e3b33b2534df54ae&amp;dn=Grand+Theft+Auto+IV+Pc+version&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":440,"leechers":230,"uploader":"TvFreak","files":-1,"time":1313523219,"description":"\n1) Mount image 1 and install..\n2) When asked for second image, unmount 1st and mount 2nd image..\n3)Should be asking image 1 again to complete installation, so unmount image 2 and mount image 1 once more.\n4) Go to the crack folder.\n4) Run the patch GTAIV_TU5\n5) Copy the 3 other files to GTAIV main folder\n6) Go to xlive.dll folder\n7) Copy the xlive.dll file to GTAIV main folder\n(this removes online functions and\nanti-debugger checks)\n\nRun LAUNCGTAIV.EXE, NOT GTAIV.EXE(causes drunk camera).\n\n\n\n\n\nhope you like it :)\n\n","torrent":{"xt":"urn:btih:4f12f8d68ff57c7ab7294b47e3b33b2534df54ae","amp;dn":"Grand+Theft+Auto+IV+Pc+version","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4f12f8d68ff57c7ab7294b47e3b33b2534df54ae","infoHashBuffer":{"type":"Buffer","data":[79,18,248,214,143,245,124,122,183,41,75,71,227,179,59,37,52,223,84,174]},"announce":[],"urlList":[]}}
+{
+  "title": "Grand Theft Auto IV Pc version",
+  "uid": 6609216,
+  "size": 14972195454,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:4f12f8d68ff57c7ab7294b47e3b33b2534df54ae&amp;dn=Grand+Theft+Auto+IV+Pc+version&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 440,
+  "leechers": 230,
+  "uploader": "TvFreak",
+  "files": -1,
+  "time": 1313523219,
+  "description": "\n1) Mount image 1 and install..\n2) When asked for second image, unmount 1st and mount 2nd image..\n3)Should be asking image 1 again to complete installation, so unmount image 2 and mount image 1 once more.\n4) Go to the crack folder.\n4) Run the patch GTAIV_TU5\n5) Copy the 3 other files to GTAIV main folder\n6) Go to xlive.dll folder\n7) Copy the xlive.dll file to GTAIV main folder\n(this removes online functions and\nanti-debugger checks)\n\nRun LAUNCGTAIV.EXE, NOT GTAIV.EXE(causes drunk camera).\n\n\n\n\n\nhope you like it :)\n\n",
+  "parsed": {
+    "xt": "urn:btih:4f12f8d68ff57c7ab7294b47e3b33b2534df54ae",
+    "dn": "Grand Theft Auto IV Pc version",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4f12f8d68ff57c7ab7294b47e3b33b2534df54ae",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        79,
+        18,
+        248,
+        214,
+        143,
+        245,
+        124,
+        122,
+        183,
+        41,
+        75,
+        71,
+        227,
+        179,
+        59,
+        37,
+        52,
+        223,
+        84,
+        174
+      ]
+    },
+    "name": "Grand Theft Auto IV Pc version",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 670,
+  "peers": 51,
+  "last_updated": "2016-12-25T00:46:09.675Z"
+}

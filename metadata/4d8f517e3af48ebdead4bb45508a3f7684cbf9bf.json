@@ -1,1 +1,61 @@
-{"title":"As Melhores de Bezerra da Silva","uid":7314103,"size":199271273,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4d8f517e3af48ebdead4bb45508a3f7684cbf9bf&amp;dn=As+Melhores+de+Bezerra+da+Silva&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":2,"uploader":null,"files":54,"time":1338430021,"description":"As Melhores de Bezerra da Silva","torrent":{"xt":"urn:btih:4d8f517e3af48ebdead4bb45508a3f7684cbf9bf","amp;dn":"As+Melhores+de+Bezerra+da+Silva","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4d8f517e3af48ebdead4bb45508a3f7684cbf9bf","infoHashBuffer":{"type":"Buffer","data":[77,143,81,126,58,244,142,189,234,212,187,69,80,138,63,118,132,203,249,191]},"announce":[],"urlList":[]}}
+{
+  "title": "As Melhores de Bezerra da Silva",
+  "uid": 7314103,
+  "size": 199271273,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4d8f517e3af48ebdead4bb45508a3f7684cbf9bf&amp;dn=As+Melhores+de+Bezerra+da+Silva&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 2,
+  "uploader": null,
+  "files": 54,
+  "time": 1338430021,
+  "description": "As Melhores de Bezerra da Silva",
+  "parsed": {
+    "xt": "urn:btih:4d8f517e3af48ebdead4bb45508a3f7684cbf9bf",
+    "dn": "As Melhores de Bezerra da Silva",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4d8f517e3af48ebdead4bb45508a3f7684cbf9bf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        77,
+        143,
+        81,
+        126,
+        58,
+        244,
+        142,
+        189,
+        234,
+        212,
+        187,
+        69,
+        80,
+        138,
+        63,
+        118,
+        132,
+        203,
+        249,
+        191
+      ]
+    },
+    "name": "As Melhores de Bezerra da Silva",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 62,
+  "last_updated": "2016-12-25T00:36:03.819Z"
+}

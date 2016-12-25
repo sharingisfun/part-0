@@ -1,1 +1,61 @@
-{"title":"Alanis Morissette-The Collection","uid":3411254,"size":121353599,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4e5c4d6360cf27b2228feabe4d589033387d9191&amp;dn=Alanis+Morissette-The+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":3,"uploader":"lsforza","files":19,"time":1132414083,"description":"Alanis Morissette-The Collection","torrent":{"xt":"urn:btih:4e5c4d6360cf27b2228feabe4d589033387d9191","amp;dn":"Alanis+Morissette-The+Collection","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4e5c4d6360cf27b2228feabe4d589033387d9191","infoHashBuffer":{"type":"Buffer","data":[78,92,77,99,96,207,39,178,34,143,234,190,77,88,144,51,56,125,145,145]},"announce":[],"urlList":[]}}
+{
+  "title": "Alanis Morissette-The Collection",
+  "uid": 3411254,
+  "size": 121353599,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4e5c4d6360cf27b2228feabe4d589033387d9191&amp;dn=Alanis+Morissette-The+Collection&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 3,
+  "uploader": "lsforza",
+  "files": 19,
+  "time": 1132414083,
+  "description": "Alanis Morissette-The Collection",
+  "parsed": {
+    "xt": "urn:btih:4e5c4d6360cf27b2228feabe4d589033387d9191",
+    "dn": "Alanis Morissette-The Collection",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4e5c4d6360cf27b2228feabe4d589033387d9191",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        78,
+        92,
+        77,
+        99,
+        96,
+        207,
+        39,
+        178,
+        34,
+        143,
+        234,
+        190,
+        77,
+        88,
+        144,
+        51,
+        56,
+        125,
+        145,
+        145
+      ]
+    },
+    "name": "Alanis Morissette-The Collection",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 56,
+  "last_updated": "2016-12-25T00:41:14.683Z"
+}

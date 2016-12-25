@@ -1,1 +1,61 @@
-{"title":"[DivX-ITA] Full Metal Jacket [CR-Bt]","uid":4688917,"size":1326440448,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:4ece741ab83df1387ac0f47da1bd1e35563adb5a&amp;dn=%5BDivX-ITA%5D+Full+Metal+Jacket+%5BCR-Bt%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":7,"uploader":"CR-Bt","files":1,"time":1233327314,"description":"Maggiori Info su: http://colombo-reloaded.org/\nMore Info at: http://colombo-reloaded.org/\n\nPER FAVORE RIMANETE IN SEED\nPLEASE REMAIN IN SEEDING\n\n[ Info sul file ]\n\nNome: Full Metal Jacket.avi\nData: 16/12/2006 16:45:16\nDimensione: 1,326,440,448 bytes (1264.992 MB)\n\n[ Info generiche ]\n\nDurata: 01:51:45 (6705.4 s)\nTipo di contenitore: AVI OpenDML\nStreams totali: 2\nTipo stream n. 0: video\nTipo stream n. 1: audio\nAudio streams: 1\nJUNK: VirtualDub build 13870/release\n\n[ Dati rilevanti ]\n\nRisoluzione: 640 x 352\nLarghezza: multipla di 32\nAltezza: multipla di 32\nDRF medio: 2.848498\nDeviazione standard: 0.648895\nMedia pesata dev. std.: 0.648872\n","torrent":{"xt":"urn:btih:4ece741ab83df1387ac0f47da1bd1e35563adb5a","amp;dn":"%5BDivX-ITA%5D+Full+Metal+Jacket+%5BCR-Bt%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4ece741ab83df1387ac0f47da1bd1e35563adb5a","infoHashBuffer":{"type":"Buffer","data":[78,206,116,26,184,61,241,56,122,192,244,125,161,189,30,53,86,58,219,90]},"announce":[],"urlList":[]}}
+{
+  "title": "[DivX-ITA] Full Metal Jacket [CR-Bt]",
+  "uid": 4688917,
+  "size": 1326440448,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:4ece741ab83df1387ac0f47da1bd1e35563adb5a&amp;dn=%5BDivX-ITA%5D+Full+Metal+Jacket+%5BCR-Bt%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 7,
+  "uploader": "CR-Bt",
+  "files": 1,
+  "time": 1233327314,
+  "description": "Maggiori Info su: http://colombo-reloaded.org/\nMore Info at: http://colombo-reloaded.org/\n\nPER FAVORE RIMANETE IN SEED\nPLEASE REMAIN IN SEEDING\n\n[ Info sul file ]\n\nNome: Full Metal Jacket.avi\nData: 16/12/2006 16:45:16\nDimensione: 1,326,440,448 bytes (1264.992 MB)\n\n[ Info generiche ]\n\nDurata: 01:51:45 (6705.4 s)\nTipo di contenitore: AVI OpenDML\nStreams totali: 2\nTipo stream n. 0: video\nTipo stream n. 1: audio\nAudio streams: 1\nJUNK: VirtualDub build 13870/release\n\n[ Dati rilevanti ]\n\nRisoluzione: 640 x 352\nLarghezza: multipla di 32\nAltezza: multipla di 32\nDRF medio: 2.848498\nDeviazione standard: 0.648895\nMedia pesata dev. std.: 0.648872\n",
+  "parsed": {
+    "xt": "urn:btih:4ece741ab83df1387ac0f47da1bd1e35563adb5a",
+    "dn": "[DivX-ITA] Full Metal Jacket [CR-Bt]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4ece741ab83df1387ac0f47da1bd1e35563adb5a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        78,
+        206,
+        116,
+        26,
+        184,
+        61,
+        241,
+        56,
+        122,
+        192,
+        244,
+        125,
+        161,
+        189,
+        30,
+        53,
+        86,
+        58,
+        219,
+        90
+      ]
+    },
+    "name": "[DivX-ITA] Full Metal Jacket [CR-Bt]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 78,
+  "peers": 13,
+  "last_updated": "2016-12-25T00:44:23.326Z"
+}

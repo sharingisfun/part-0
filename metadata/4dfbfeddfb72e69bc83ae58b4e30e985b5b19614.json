@@ -1,1 +1,61 @@
-{"title":"NBA.2K14-RELOADED","uid":8985193,"size":7525793792,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:4dfbfeddfb72e69bc83ae58b4e30e985b5b19614&amp;dn=NBA.2K14-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":542,"leechers":78,"uploader":"Mr.Stifmeister","files":1,"time":1380653944,"description":"No description found for this torrent.","torrent":{"xt":"urn:btih:4dfbfeddfb72e69bc83ae58b4e30e985b5b19614","amp;dn":"NBA.2K14-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4dfbfeddfb72e69bc83ae58b4e30e985b5b19614","infoHashBuffer":{"type":"Buffer","data":[77,251,254,221,251,114,230,155,200,58,229,139,78,48,233,133,181,177,150,20]},"announce":[],"urlList":[]}}
+{
+  "title": "NBA.2K14-RELOADED",
+  "uid": 8985193,
+  "size": 7525793792,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:4dfbfeddfb72e69bc83ae58b4e30e985b5b19614&amp;dn=NBA.2K14-RELOADED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 542,
+  "leechers": 78,
+  "uploader": "Mr.Stifmeister",
+  "files": 1,
+  "time": 1380653944,
+  "description": "No description found for this torrent.",
+  "parsed": {
+    "xt": "urn:btih:4dfbfeddfb72e69bc83ae58b4e30e985b5b19614",
+    "dn": "NBA.2K14-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4dfbfeddfb72e69bc83ae58b4e30e985b5b19614",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        77,
+        251,
+        254,
+        221,
+        251,
+        114,
+        230,
+        155,
+        200,
+        58,
+        229,
+        139,
+        78,
+        48,
+        233,
+        133,
+        181,
+        177,
+        150,
+        20
+      ]
+    },
+    "name": "NBA.2K14-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 620,
+  "peers": 50,
+  "last_updated": "2016-12-25T00:39:00.304Z"
+}

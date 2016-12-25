@@ -1,1 +1,61 @@
-{"title":"Notorious Big - Ready to Die","uid":3834382,"size":99742697,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4d6137c7192d5d0dbe6167e0249369cd1197c37c&amp;dn=Notorious+Big+-+Ready+to+Die&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":272,"leechers":9,"uploader":"Neiviesis1919","files":17,"time":1191864370,"description":"    -=Uploaded by neIVIesis=-\n-=Rating and Feedback Encouraged=-","torrent":{"xt":"urn:btih:4d6137c7192d5d0dbe6167e0249369cd1197c37c","amp;dn":"Notorious+Big+-+Ready+to+Die","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4d6137c7192d5d0dbe6167e0249369cd1197c37c","infoHashBuffer":{"type":"Buffer","data":[77,97,55,199,25,45,93,13,190,97,103,224,36,147,105,205,17,151,195,124]},"announce":[],"urlList":[]}}
+{
+  "title": "Notorious Big - Ready to Die",
+  "uid": 3834382,
+  "size": 99742697,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4d6137c7192d5d0dbe6167e0249369cd1197c37c&amp;dn=Notorious+Big+-+Ready+to+Die&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 272,
+  "leechers": 9,
+  "uploader": "Neiviesis1919",
+  "files": 17,
+  "time": 1191864370,
+  "description": "    -=Uploaded by neIVIesis=-\n-=Rating and Feedback Encouraged=-",
+  "parsed": {
+    "xt": "urn:btih:4d6137c7192d5d0dbe6167e0249369cd1197c37c",
+    "dn": "Notorious Big - Ready to Die",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4d6137c7192d5d0dbe6167e0249369cd1197c37c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        77,
+        97,
+        55,
+        199,
+        25,
+        45,
+        93,
+        13,
+        190,
+        97,
+        103,
+        224,
+        36,
+        147,
+        105,
+        205,
+        17,
+        151,
+        195,
+        124
+      ]
+    },
+    "name": "Notorious Big - Ready to Die",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 281,
+  "peers": 50,
+  "last_updated": "2016-12-25T00:34:43.612Z"
+}

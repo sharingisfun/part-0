@@ -1,1 +1,61 @@
-{"title":"Breaking Bad S05E09 HDTV x264-ASAP","uid":8804017,"size":343864696,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:4ea50819447010fc17f0f2496964766ae2df88a1&amp;dn=Breaking+Bad+S05E09+HDTV+x264-ASAP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":231,"leechers":9,"uploader":"beta2008x","files":1,"time":1376280464,"description":"\tBreaking Bad\n\nEpisode: S05E09\nRelease Date: 2013-08-11\nRelease Size: 327.93Mb\nPlay Time: 47:08\nResolution: 720x406\nVideo Codec: h264\nVideo Bitrate: 836kbps\nAudio Bitrate.: 2ch, 130kbps","torrent":{"xt":"urn:btih:4ea50819447010fc17f0f2496964766ae2df88a1","amp;dn":"Breaking+Bad+S05E09+HDTV+x264-ASAP","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4ea50819447010fc17f0f2496964766ae2df88a1","infoHashBuffer":{"type":"Buffer","data":[78,165,8,25,68,112,16,252,23,240,242,73,105,100,118,106,226,223,136,161]},"announce":[],"urlList":[]}}
+{
+  "title": "Breaking Bad S05E09 HDTV x264-ASAP",
+  "uid": 8804017,
+  "size": 343864696,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:4ea50819447010fc17f0f2496964766ae2df88a1&amp;dn=Breaking+Bad+S05E09+HDTV+x264-ASAP&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 231,
+  "leechers": 9,
+  "uploader": "beta2008x",
+  "files": 1,
+  "time": 1376280464,
+  "description": "\tBreaking Bad\n\nEpisode: S05E09\nRelease Date: 2013-08-11\nRelease Size: 327.93Mb\nPlay Time: 47:08\nResolution: 720x406\nVideo Codec: h264\nVideo Bitrate: 836kbps\nAudio Bitrate.: 2ch, 130kbps",
+  "parsed": {
+    "xt": "urn:btih:4ea50819447010fc17f0f2496964766ae2df88a1",
+    "dn": "Breaking Bad S05E09 HDTV x264-ASAP",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4ea50819447010fc17f0f2496964766ae2df88a1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        78,
+        165,
+        8,
+        25,
+        68,
+        112,
+        16,
+        252,
+        23,
+        240,
+        242,
+        73,
+        105,
+        100,
+        118,
+        106,
+        226,
+        223,
+        136,
+        161
+      ]
+    },
+    "name": "Breaking Bad S05E09 HDTV x264-ASAP",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 240,
+  "peers": 59,
+  "last_updated": "2016-12-25T00:43:19.046Z"
+}

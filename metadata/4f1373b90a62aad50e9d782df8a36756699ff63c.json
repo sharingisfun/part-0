@@ -1,1 +1,61 @@
-{"title":"Fury.2014.720p.BluRay.x264-SPARKS","uid":11708800,"size":7034702607,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:4f1373b90a62aad50e9d782df8a36756699ff63c&amp;dn=Fury.2014.720p.BluRay.x264-SPARKS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":61,"leechers":7,"uploader":"GoodFilms","files":3,"time":1424241355,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt2713180/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt2713180/&lt;/a&gt;","torrent":{"xt":"urn:btih:4f1373b90a62aad50e9d782df8a36756699ff63c","amp;dn":"Fury.2014.720p.BluRay.x264-SPARKS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4f1373b90a62aad50e9d782df8a36756699ff63c","infoHashBuffer":{"type":"Buffer","data":[79,19,115,185,10,98,170,213,14,157,120,45,248,163,103,86,105,159,246,60]},"announce":[],"urlList":[]}}
+{
+  "title": "Fury.2014.720p.BluRay.x264-SPARKS",
+  "uid": 11708800,
+  "size": 7034702607,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:4f1373b90a62aad50e9d782df8a36756699ff63c&amp;dn=Fury.2014.720p.BluRay.x264-SPARKS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 61,
+  "leechers": 7,
+  "uploader": "GoodFilms",
+  "files": 3,
+  "time": 1424241355,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt2713180/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt2713180/&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:4f1373b90a62aad50e9d782df8a36756699ff63c",
+    "dn": "Fury.2014.720p.BluRay.x264-SPARKS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4f1373b90a62aad50e9d782df8a36756699ff63c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        79,
+        19,
+        115,
+        185,
+        10,
+        98,
+        170,
+        213,
+        14,
+        157,
+        120,
+        45,
+        248,
+        163,
+        103,
+        86,
+        105,
+        159,
+        246,
+        60
+      ]
+    },
+    "name": "Fury.2014.720p.BluRay.x264-SPARKS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 5,
+  "last_updated": "2016-12-25T00:46:13.686Z"
+}

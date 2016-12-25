@@ -1,1 +1,61 @@
-{"title":"Ubuntu 14.04 64 bit","uid":9982925,"size":1010827264,"categoryP":"applications","categoryS":"unix","magnet":"?xt=urn:btih:4d753474429d817b80ff9e0c441ca660ec5d2450&amp;dn=Ubuntu+14.04+64+bit&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":1,"uploader":"fulanodetal1234","files":1,"time":1397758100,"description":"Ubuntu 14.04","torrent":{"xt":"urn:btih:4d753474429d817b80ff9e0c441ca660ec5d2450","amp;dn":"Ubuntu+14.04+64+bit","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4d753474429d817b80ff9e0c441ca660ec5d2450","infoHashBuffer":{"type":"Buffer","data":[77,117,52,116,66,157,129,123,128,255,158,12,68,28,166,96,236,93,36,80]},"announce":[],"urlList":[]}}
+{
+  "title": "Ubuntu 14.04 64 bit",
+  "uid": 9982925,
+  "size": 1010827264,
+  "categoryP": "applications",
+  "categoryS": "unix",
+  "magnet": "?xt=urn:btih:4d753474429d817b80ff9e0c441ca660ec5d2450&amp;dn=Ubuntu+14.04+64+bit&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 1,
+  "uploader": "fulanodetal1234",
+  "files": 1,
+  "time": 1397758100,
+  "description": "Ubuntu 14.04",
+  "parsed": {
+    "xt": "urn:btih:4d753474429d817b80ff9e0c441ca660ec5d2450",
+    "dn": "Ubuntu 14.04 64 bit",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4d753474429d817b80ff9e0c441ca660ec5d2450",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        77,
+        117,
+        52,
+        116,
+        66,
+        157,
+        129,
+        123,
+        128,
+        255,
+        158,
+        12,
+        68,
+        28,
+        166,
+        96,
+        236,
+        93,
+        36,
+        80
+      ]
+    },
+    "name": "Ubuntu 14.04 64 bit",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 1,
+  "last_updated": "2016-12-25T00:35:19.706Z"
+}

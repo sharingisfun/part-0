@@ -1,1 +1,61 @@
-{"title":"Windows 8.1 Pro VL 32 bit English - Original","uid":9646973,"size":2900871168,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:4ec5498b38b15a2ed91897664e280d9963a46cb6&amp;dn=Windows+8.1+Pro+VL+32+bit+English+-+Original&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":83,"leechers":17,"uploader":"coljackal","files":1,"time":1393019837,"description":"Windows 8.1 Pro VL 32 bit English - Original\n--------------------------------------------\n\n\nen_windows_8_1_pro_vl_x86_dvd_2972633.iso\n\nSHA1: 9F1FCEC3B267EDB6F3BD02566BC889BB4A372BFD","torrent":{"xt":"urn:btih:4ec5498b38b15a2ed91897664e280d9963a46cb6","amp;dn":"Windows+8.1+Pro+VL+32+bit+English+-+Original","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4ec5498b38b15a2ed91897664e280d9963a46cb6","infoHashBuffer":{"type":"Buffer","data":[78,197,73,139,56,177,90,46,217,24,151,102,78,40,13,153,99,164,108,182]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows 8.1 Pro VL 32 bit English - Original",
+  "uid": 9646973,
+  "size": 2900871168,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:4ec5498b38b15a2ed91897664e280d9963a46cb6&amp;dn=Windows+8.1+Pro+VL+32+bit+English+-+Original&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 83,
+  "leechers": 17,
+  "uploader": "coljackal",
+  "files": 1,
+  "time": 1393019837,
+  "description": "Windows 8.1 Pro VL 32 bit English - Original\n--------------------------------------------\n\n\nen_windows_8_1_pro_vl_x86_dvd_2972633.iso\n\nSHA1: 9F1FCEC3B267EDB6F3BD02566BC889BB4A372BFD",
+  "parsed": {
+    "xt": "urn:btih:4ec5498b38b15a2ed91897664e280d9963a46cb6",
+    "dn": "Windows 8.1 Pro VL 32 bit English - Original",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4ec5498b38b15a2ed91897664e280d9963a46cb6",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        78,
+        197,
+        73,
+        139,
+        56,
+        177,
+        90,
+        46,
+        217,
+        24,
+        151,
+        102,
+        78,
+        40,
+        13,
+        153,
+        99,
+        164,
+        108,
+        182
+      ]
+    },
+    "name": "Windows 8.1 Pro VL 32 bit English - Original",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 100,
+  "peers": 20,
+  "last_updated": "2016-12-25T00:44:03.266Z"
+}

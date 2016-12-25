@@ -1,1 +1,61 @@
-{"title":"Homeland.S01E07.HDTV.XviD-FEVER.[VTV].avi","uid":6817047,"size":576270058,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:4e5c6d9c6f9261bf3eb29153dd7422c7f2089f1c&amp;dn=Homeland.S01E07.HDTV.XviD-FEVER.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":6,"uploader":"VTV","files":1,"time":1321252967,"description":"Homeland 1x07 (HDTV-FEVER)[VTV]","torrent":{"xt":"urn:btih:4e5c6d9c6f9261bf3eb29153dd7422c7f2089f1c","amp;dn":"Homeland.S01E07.HDTV.XviD-FEVER.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4e5c6d9c6f9261bf3eb29153dd7422c7f2089f1c","infoHashBuffer":{"type":"Buffer","data":[78,92,109,156,111,146,97,191,62,178,145,83,221,116,34,199,242,8,159,28]},"announce":[],"urlList":[]}}
+{
+  "title": "Homeland.S01E07.HDTV.XviD-FEVER.[VTV].avi",
+  "uid": 6817047,
+  "size": 576270058,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:4e5c6d9c6f9261bf3eb29153dd7422c7f2089f1c&amp;dn=Homeland.S01E07.HDTV.XviD-FEVER.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 6,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1321252967,
+  "description": "Homeland 1x07 (HDTV-FEVER)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:4e5c6d9c6f9261bf3eb29153dd7422c7f2089f1c",
+    "dn": "Homeland.S01E07.HDTV.XviD-FEVER.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4e5c6d9c6f9261bf3eb29153dd7422c7f2089f1c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        78,
+        92,
+        109,
+        156,
+        111,
+        146,
+        97,
+        191,
+        62,
+        178,
+        145,
+        83,
+        221,
+        116,
+        34,
+        199,
+        242,
+        8,
+        159,
+        28
+      ]
+    },
+    "name": "Homeland.S01E07.HDTV.XviD-FEVER.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 0,
+  "last_updated": "2016-12-25T00:41:16.688Z"
+}

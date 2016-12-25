@@ -1,1 +1,61 @@
-{"title":"Swedish House Mafia - Greyhound [2012-Single][SW]","uid":7414618,"size":16606765,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:4e5137e4c30756b5aa441591cf81cce0d29e3a85&amp;dn=Swedish+House+Mafia+-+Greyhound+%5B2012-Single%5D%5BSW%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":0,"uploader":"FatFreddy473","files":-1,"time":1341476043,"description":"320kbps CBR itunesrip\n\nripped by SW\n","torrent":{"xt":"urn:btih:4e5137e4c30756b5aa441591cf81cce0d29e3a85","amp;dn":"Swedish+House+Mafia+-+Greyhound+%5B2012-Single%5D%5BSW%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4e5137e4c30756b5aa441591cf81cce0d29e3a85","infoHashBuffer":{"type":"Buffer","data":[78,81,55,228,195,7,86,181,170,68,21,145,207,129,204,224,210,158,58,133]},"announce":[],"urlList":[]}}
+{
+  "title": "Swedish House Mafia - Greyhound [2012-Single][SW]",
+  "uid": 7414618,
+  "size": 16606765,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:4e5137e4c30756b5aa441591cf81cce0d29e3a85&amp;dn=Swedish+House+Mafia+-+Greyhound+%5B2012-Single%5D%5BSW%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 0,
+  "uploader": "FatFreddy473",
+  "files": -1,
+  "time": 1341476043,
+  "description": "320kbps CBR itunesrip\n\nripped by SW\n",
+  "parsed": {
+    "xt": "urn:btih:4e5137e4c30756b5aa441591cf81cce0d29e3a85",
+    "dn": "Swedish House Mafia - Greyhound [2012-Single][SW]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4e5137e4c30756b5aa441591cf81cce0d29e3a85",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        78,
+        81,
+        55,
+        228,
+        195,
+        7,
+        86,
+        181,
+        170,
+        68,
+        21,
+        145,
+        207,
+        129,
+        204,
+        224,
+        210,
+        158,
+        58,
+        133
+      ]
+    },
+    "name": "Swedish House Mafia - Greyhound [2012-Single][SW]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 5,
+  "last_updated": "2016-12-25T00:41:00.647Z"
+}

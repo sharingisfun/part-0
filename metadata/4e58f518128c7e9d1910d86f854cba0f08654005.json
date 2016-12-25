@@ -1,1 +1,61 @@
-{"title":"Dr. House 1Âª Temp. Completa-Dubl. PT-BR","uid":7183317,"size":5066532423,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:4e58f518128c7e9d1910d86f854cba0f08654005&amp;dn=Dr.+House+1%26ordf%3B+Temp.+Completa-Dubl.+PT-BR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":9,"uploader":"carlosjpa","files":22,"time":1334343797,"description":"Torrent de Dr. house 1Ã‚Âª temporada completo. ","torrent":{"xt":"urn:btih:4e58f518128c7e9d1910d86f854cba0f08654005","amp;dn":"Dr.+House+1%26ordf%3B+Temp.+Completa-Dubl.+PT-BR","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"4e58f518128c7e9d1910d86f854cba0f08654005","infoHashBuffer":{"type":"Buffer","data":[78,88,245,24,18,140,126,157,25,16,216,111,133,76,186,15,8,101,64,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Dr. House 1Âª Temp. Completa-Dubl. PT-BR",
+  "uid": 7183317,
+  "size": 5066532423,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:4e58f518128c7e9d1910d86f854cba0f08654005&amp;dn=Dr.+House+1%26ordf%3B+Temp.+Completa-Dubl.+PT-BR&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 9,
+  "uploader": "carlosjpa",
+  "files": 22,
+  "time": 1334343797,
+  "description": "Torrent de Dr. house 1Ã‚Âª temporada completo. ",
+  "parsed": {
+    "xt": "urn:btih:4e58f518128c7e9d1910d86f854cba0f08654005",
+    "dn": "Dr. House 1&ordf; Temp. Completa-Dubl. PT-BR",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "4e58f518128c7e9d1910d86f854cba0f08654005",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        78,
+        88,
+        245,
+        24,
+        18,
+        140,
+        126,
+        157,
+        25,
+        16,
+        216,
+        111,
+        133,
+        76,
+        186,
+        15,
+        8,
+        101,
+        64,
+        5
+      ]
+    },
+    "name": "Dr. House 1&ordf; Temp. Completa-Dubl. PT-BR",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 6,
+  "last_updated": "2016-12-25T00:41:06.661Z"
+}
