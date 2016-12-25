@@ -1,1 +1,61 @@
-{"title":"Microsoft Office 2013 (Brazilian) Portuguese Language Pack, 32 &amp;","uid":8073615,"size":423294048,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:ad99b541a009461b7538a651721f1a21aae91f28&amp;dn=Microsoft+Office+2013+%28Brazilian%29+Portuguese+Language+Pack%2C+32+%26&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":140,"leechers":14,"uploader":"18dsl5374","files":2,"time":1359329950,"description":"Microsoft Office 2013 (Brazilian) Portuguese Language Pack, 32 &amp; 64 bit","torrent":{"xt":"urn:btih:ad99b541a009461b7538a651721f1a21aae91f28","amp;dn":"Microsoft+Office+2013+%28Brazilian%29+Portuguese+Language+Pack%2C+32+%26","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ad99b541a009461b7538a651721f1a21aae91f28","infoHashBuffer":{"type":"Buffer","data":[173,153,181,65,160,9,70,27,117,56,166,81,114,31,26,33,170,233,31,40]},"announce":[],"urlList":[]}}
+{
+  "title": "Microsoft Office 2013 (Brazilian) Portuguese Language Pack, 32 &amp;",
+  "uid": 8073615,
+  "size": 423294048,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:ad99b541a009461b7538a651721f1a21aae91f28&amp;dn=Microsoft+Office+2013+%28Brazilian%29+Portuguese+Language+Pack%2C+32+%26&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 140,
+  "leechers": 14,
+  "uploader": "18dsl5374",
+  "files": 2,
+  "time": 1359329950,
+  "description": "Microsoft Office 2013 (Brazilian) Portuguese Language Pack, 32 &amp; 64 bit",
+  "parsed": {
+    "xt": "urn:btih:ad99b541a009461b7538a651721f1a21aae91f28",
+    "dn": "Microsoft Office 2013 (Brazilian) Portuguese Language Pack, 32 &",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ad99b541a009461b7538a651721f1a21aae91f28",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        173,
+        153,
+        181,
+        65,
+        160,
+        9,
+        70,
+        27,
+        117,
+        56,
+        166,
+        81,
+        114,
+        31,
+        26,
+        33,
+        170,
+        233,
+        31,
+        40
+      ]
+    },
+    "name": "Microsoft Office 2013 (Brazilian) Portuguese Language Pack, 32 &",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 154,
+  "peers": 75,
+  "last_updated": "2016-12-25T10:55:53.552Z"
+}

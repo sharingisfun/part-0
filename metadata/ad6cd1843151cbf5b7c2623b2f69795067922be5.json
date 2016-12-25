@@ -1,1 +1,61 @@
-{"title":"The Walking Dead Season 5 S05E15 720p web-dl x264","uid":11774902,"size":289353862,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:ad6cd1843151cbf5b7c2623b2f69795067922be5&amp;dn=The+Walking+Dead+Season+5+S05E15+720p+web-dl+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":2,"uploader":"Jodo1210","files":1,"time":1427236560,"description":"General\nFormat : Matroska\nFile size : 276 MiB\nDuration : 43mn 3s\nOverall bit rate : 896 Kbps\n\nVideo\nFormat : AVC\nFormat/Info : Advanced Video Codec\nWidth : 1 280 pixels\nHeight : 718 pixels\nDisplay aspect ratio : 16:9\nFrame rate mode : Constant\nFrame rate : 23.976 fps\nWriting library : x264\n\nAudio\nFormat : AAC\nFormat/Info : Advanced Audio Codec\nChannel(s) : 2 channels\nChannel positions : Front: L R\nSampling rate : 48.0 KHz / 24.0 KHz\nCompression mode : Lossy\n\nText #1\nFormat : UTF-8\nCodec ID : S_TEXT/UTF8\nCodec ID/Info : UTF-8 Plain Text\nTitle : SDH-Removed\nLanguage : English\nDefault : Yes\nForced : No\n\nText #2\nFormat : UTF-8\nCodec ID : S_TEXT/UTF8\nCodec ID/Info : UTF-8 Plain Text\nTitle : SDH\nLanguage : English\nDefault : No\nForced : No","torrent":{"xt":"urn:btih:ad6cd1843151cbf5b7c2623b2f69795067922be5","amp;dn":"The+Walking+Dead+Season+5+S05E15+720p+web-dl+x264","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ad6cd1843151cbf5b7c2623b2f69795067922be5","infoHashBuffer":{"type":"Buffer","data":[173,108,209,132,49,81,203,245,183,194,98,59,47,105,121,80,103,146,43,229]},"announce":[],"urlList":[]}}
+{
+  "title": "The Walking Dead Season 5 S05E15 720p web-dl x264",
+  "uid": 11774902,
+  "size": 289353862,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:ad6cd1843151cbf5b7c2623b2f69795067922be5&amp;dn=The+Walking+Dead+Season+5+S05E15+720p+web-dl+x264&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 2,
+  "uploader": "Jodo1210",
+  "files": 1,
+  "time": 1427236560,
+  "description": "General\nFormat : Matroska\nFile size : 276 MiB\nDuration : 43mn 3s\nOverall bit rate : 896 Kbps\n\nVideo\nFormat : AVC\nFormat/Info : Advanced Video Codec\nWidth : 1 280 pixels\nHeight : 718 pixels\nDisplay aspect ratio : 16:9\nFrame rate mode : Constant\nFrame rate : 23.976 fps\nWriting library : x264\n\nAudio\nFormat : AAC\nFormat/Info : Advanced Audio Codec\nChannel(s) : 2 channels\nChannel positions : Front: L R\nSampling rate : 48.0 KHz / 24.0 KHz\nCompression mode : Lossy\n\nText #1\nFormat : UTF-8\nCodec ID : S_TEXT/UTF8\nCodec ID/Info : UTF-8 Plain Text\nTitle : SDH-Removed\nLanguage : English\nDefault : Yes\nForced : No\n\nText #2\nFormat : UTF-8\nCodec ID : S_TEXT/UTF8\nCodec ID/Info : UTF-8 Plain Text\nTitle : SDH\nLanguage : English\nDefault : No\nForced : No",
+  "parsed": {
+    "xt": "urn:btih:ad6cd1843151cbf5b7c2623b2f69795067922be5",
+    "dn": "The Walking Dead Season 5 S05E15 720p web-dl x264",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ad6cd1843151cbf5b7c2623b2f69795067922be5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        173,
+        108,
+        209,
+        132,
+        49,
+        81,
+        203,
+        245,
+        183,
+        194,
+        98,
+        59,
+        47,
+        105,
+        121,
+        80,
+        103,
+        146,
+        43,
+        229
+      ]
+    },
+    "name": "The Walking Dead Season 5 S05E15 720p web-dl x264",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 14,
+  "last_updated": "2016-12-25T10:54:53.383Z"
+}

@@ -1,1 +1,61 @@
-{"title":"The Big Bang Theory S07E08 HDTV x264-LOL[ettv]","uid":9195434,"size":145017708,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ae9c029ecb9b457bb595c37664f1a763f8a9bb6a&amp;dn=The+Big+Bang+Theory+S07E08+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":91,"leechers":3,"uploader":"ettv","files":2,"time":1384482812,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps","torrent":{"xt":"urn:btih:ae9c029ecb9b457bb595c37664f1a763f8a9bb6a","amp;dn":"The+Big+Bang+Theory+S07E08+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ae9c029ecb9b457bb595c37664f1a763f8a9bb6a","infoHashBuffer":{"type":"Buffer","data":[174,156,2,158,203,155,69,123,181,149,195,118,100,241,167,99,248,169,187,106]},"announce":[],"urlList":[]}}
+{
+  "title": "The Big Bang Theory S07E08 HDTV x264-LOL[ettv]",
+  "uid": 9195434,
+  "size": 145017708,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ae9c029ecb9b457bb595c37664f1a763f8a9bb6a&amp;dn=The+Big+Bang+Theory+S07E08+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 91,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1384482812,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps",
+  "parsed": {
+    "xt": "urn:btih:ae9c029ecb9b457bb595c37664f1a763f8a9bb6a",
+    "dn": "The Big Bang Theory S07E08 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ae9c029ecb9b457bb595c37664f1a763f8a9bb6a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        174,
+        156,
+        2,
+        158,
+        203,
+        155,
+        69,
+        123,
+        181,
+        149,
+        195,
+        118,
+        100,
+        241,
+        167,
+        99,
+        248,
+        169,
+        187,
+        106
+      ]
+    },
+    "name": "The Big Bang Theory S07E08 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 94,
+  "peers": 8,
+  "last_updated": "2016-12-25T11:02:32.756Z"
+}

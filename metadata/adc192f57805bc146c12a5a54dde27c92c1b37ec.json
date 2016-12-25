@@ -1,1 +1,61 @@
-{"title":"aTube Catcher","uid":10925765,"size":17109293,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:adc192f57805bc146c12a5a54dde27c92c1b37ec&amp;dn=aTube+Catcher&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":1,"uploader":"Marcos202","files":3,"time":1409363505,"description":"aTube Catcher","torrent":{"xt":"urn:btih:adc192f57805bc146c12a5a54dde27c92c1b37ec","amp;dn":"aTube+Catcher","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"adc192f57805bc146c12a5a54dde27c92c1b37ec","infoHashBuffer":{"type":"Buffer","data":[173,193,146,245,120,5,188,20,108,18,165,165,77,222,39,201,44,27,55,236]},"announce":[],"urlList":[]}}
+{
+  "title": "aTube Catcher",
+  "uid": 10925765,
+  "size": 17109293,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:adc192f57805bc146c12a5a54dde27c92c1b37ec&amp;dn=aTube+Catcher&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 1,
+  "uploader": "Marcos202",
+  "files": 3,
+  "time": 1409363505,
+  "description": "aTube Catcher",
+  "parsed": {
+    "xt": "urn:btih:adc192f57805bc146c12a5a54dde27c92c1b37ec",
+    "dn": "aTube Catcher",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "adc192f57805bc146c12a5a54dde27c92c1b37ec",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        173,
+        193,
+        146,
+        245,
+        120,
+        5,
+        188,
+        20,
+        108,
+        18,
+        165,
+        165,
+        77,
+        222,
+        39,
+        201,
+        44,
+        27,
+        55,
+        236
+      ]
+    },
+    "name": "aTube Catcher",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 7,
+  "last_updated": "2016-12-25T10:56:55.757Z"
+}

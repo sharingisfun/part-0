@@ -1,1 +1,61 @@
-{"title":"Lynda - Techniques and Concepts of Big Data","uid":11226032,"size":226608783,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:aef9dc527b96deb3e1d8242381644f3166089e80&amp;dn=Lynda+-+Techniques+and+Concepts+of+Big+Data&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":3,"uploader":"doduykhuong","files":32,"time":1413441683,"description":"Big data is big news. But what is big data, and how do we use it? Simply put, big data is data that, by virtue of its velocity, volume, or variety (the three Vs), cannot be easily stored or analyzed with traditional methods. Spreadsheets and relational databases just don't cut it with big data. In this course, Barton Poulson tells you the methods that do work, introducing all the techniques and concepts involved in capturing, storing, manipulating, and analyzing big data, including data mining and predictive analytics. He explains big data's relationship to data science, statistics, and programing; its uses in marketing, scientific research, and tools like Amazon's recommendation engine; and the ethical issues that lie behind its use.\nTopics include:\nWhat makes big data &quot;big&quot;\nUnderstanding how big data impacts consumers, businesses, and research\nExploring the intersection of data science and big data\nFacing big data's ethical challenges\nUnderstanding the sources and structures of big data\nStoring big data\nPrepping big data for analysis","torrent":{"xt":"urn:btih:aef9dc527b96deb3e1d8242381644f3166089e80","amp;dn":"Lynda+-+Techniques+and+Concepts+of+Big+Data","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"aef9dc527b96deb3e1d8242381644f3166089e80","infoHashBuffer":{"type":"Buffer","data":[174,249,220,82,123,150,222,179,225,216,36,35,129,100,79,49,102,8,158,128]},"announce":[],"urlList":[]}}
+{
+  "title": "Lynda - Techniques and Concepts of Big Data",
+  "uid": 11226032,
+  "size": 226608783,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:aef9dc527b96deb3e1d8242381644f3166089e80&amp;dn=Lynda+-+Techniques+and+Concepts+of+Big+Data&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 3,
+  "uploader": "doduykhuong",
+  "files": 32,
+  "time": 1413441683,
+  "description": "Big data is big news. But what is big data, and how do we use it? Simply put, big data is data that, by virtue of its velocity, volume, or variety (the three Vs), cannot be easily stored or analyzed with traditional methods. Spreadsheets and relational databases just don't cut it with big data. In this course, Barton Poulson tells you the methods that do work, introducing all the techniques and concepts involved in capturing, storing, manipulating, and analyzing big data, including data mining and predictive analytics. He explains big data's relationship to data science, statistics, and programing; its uses in marketing, scientific research, and tools like Amazon's recommendation engine; and the ethical issues that lie behind its use.\nTopics include:\nWhat makes big data &quot;big&quot;\nUnderstanding how big data impacts consumers, businesses, and research\nExploring the intersection of data science and big data\nFacing big data's ethical challenges\nUnderstanding the sources and structures of big data\nStoring big data\nPrepping big data for analysis",
+  "parsed": {
+    "xt": "urn:btih:aef9dc527b96deb3e1d8242381644f3166089e80",
+    "dn": "Lynda - Techniques and Concepts of Big Data",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "aef9dc527b96deb3e1d8242381644f3166089e80",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        174,
+        249,
+        220,
+        82,
+        123,
+        150,
+        222,
+        179,
+        225,
+        216,
+        36,
+        35,
+        129,
+        100,
+        79,
+        49,
+        102,
+        8,
+        158,
+        128
+      ]
+    },
+    "name": "Lynda - Techniques and Concepts of Big Data",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 31,
+  "last_updated": "2016-12-25T11:04:41.112Z"
+}

@@ -1,1 +1,63 @@
-{"title":"Sia - The Greatest (Single)","uid":15809400,"size":3481601,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:aecdf572350094563ae563aa123e9ca0b4cefac5&amp;dn=Sia+-+The+Greatest+%28Single%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":69,"leechers":2,"uploader":"Lucasx360","files":1,"time":1473622008,"description":"Sia The Greatest Single\r\n\r\nSEED PLEASE","torrent":{"xt":"urn:btih:aecdf572350094563ae563aa123e9ca0b4cefac5","amp;dn":"Sia+-+The+Greatest+%28Single%29","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"aecdf572350094563ae563aa123e9ca0b4cefac5","infoHashBuffer":{"type":"Buffer","data":[174,205,245,114,53,0,148,86,58,229,99,170,18,62,156,160,180,206,250,197]},"announce":[],"urlList":[]}}
+{
+  "title": "Sia - The Greatest (Single)",
+  "uid": 15809400,
+  "size": 3481601,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:aecdf572350094563ae563aa123e9ca0b4cefac5&amp;dn=Sia+-+The+Greatest+%28Single%29&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 69,
+  "leechers": 2,
+  "uploader": "Lucasx360",
+  "files": 1,
+  "time": 1473622008,
+  "description": "Sia The Greatest Single\r\n\r\nSEED PLEASE",
+  "parsed": {
+    "xt": "urn:btih:aecdf572350094563ae563aa123e9ca0b4cefac5",
+    "dn": "Sia - The Greatest (Single)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "aecdf572350094563ae563aa123e9ca0b4cefac5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        174,
+        205,
+        245,
+        114,
+        53,
+        0,
+        148,
+        86,
+        58,
+        229,
+        99,
+        170,
+        18,
+        62,
+        156,
+        160,
+        180,
+        206,
+        250,
+        197
+      ]
+    },
+    "name": "Sia - The Greatest (Single)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 71,
+  "peers": 100,
+  "last_updated": "2016-12-25T11:03:38.940Z"
+}

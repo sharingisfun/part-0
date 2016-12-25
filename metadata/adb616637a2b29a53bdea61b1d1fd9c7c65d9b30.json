@@ -1,1 +1,63 @@
-{"title":"Stephen Colbert 2016.10.03 WEB h264-Nada[state]","uid":15951919,"size":487580792,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:adb616637a2b29a53bdea61b1d1fd9c7c65d9b30&amp;dn=Stephen+Colbert+2016.10.03+WEB+h264-Nada%5Bstate%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":28,"uploader":"stateofmind80","files":1,"time":1475578135,"description":"Format : MPEG-4\r\nFile size : 465 MiB\r\nDuration : 41mn 22s\r\nbit rate : 1 571 Kbps\r\nWidth : 1 280 pixels\r\nHeight : 720 pixels\r\naspect ratio : 16:9\r\nFrame rate : 29.970 fps\r\n\r\n\r\n2016 10 03 Mindy Kaling","torrent":{"xt":"urn:btih:adb616637a2b29a53bdea61b1d1fd9c7c65d9b30","amp;dn":"Stephen+Colbert+2016.10.03+WEB+h264-Nada%5Bstate%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"adb616637a2b29a53bdea61b1d1fd9c7c65d9b30","infoHashBuffer":{"type":"Buffer","data":[173,182,22,99,122,43,41,165,59,222,166,27,29,31,217,199,198,93,155,48]},"announce":[],"urlList":[]}}
+{
+  "title": "Stephen Colbert 2016.10.03 WEB h264-Nada[state]",
+  "uid": 15951919,
+  "size": 487580792,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:adb616637a2b29a53bdea61b1d1fd9c7c65d9b30&amp;dn=Stephen+Colbert+2016.10.03+WEB+h264-Nada%5Bstate%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 28,
+  "uploader": "stateofmind80",
+  "files": 1,
+  "time": 1475578135,
+  "description": "Format : MPEG-4\r\nFile size : 465 MiB\r\nDuration : 41mn 22s\r\nbit rate : 1 571 Kbps\r\nWidth : 1 280 pixels\r\nHeight : 720 pixels\r\naspect ratio : 16:9\r\nFrame rate : 29.970 fps\r\n\r\n\r\n2016 10 03 Mindy Kaling",
+  "parsed": {
+    "xt": "urn:btih:adb616637a2b29a53bdea61b1d1fd9c7c65d9b30",
+    "dn": "Stephen Colbert 2016.10.03 WEB h264-Nada[state]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "adb616637a2b29a53bdea61b1d1fd9c7c65d9b30",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        173,
+        182,
+        22,
+        99,
+        122,
+        43,
+        41,
+        165,
+        59,
+        222,
+        166,
+        27,
+        29,
+        31,
+        217,
+        199,
+        198,
+        93,
+        155,
+        48
+      ]
+    },
+    "name": "Stephen Colbert 2016.10.03 WEB h264-Nada[state]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 84,
+  "peers": 5,
+  "last_updated": "2016-12-25T10:56:39.702Z"
+}

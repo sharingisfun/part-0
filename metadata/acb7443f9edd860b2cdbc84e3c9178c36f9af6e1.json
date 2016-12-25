@@ -1,1 +1,63 @@
-{"title":"FIM Speedway Grand Prix 15-RELOADED","uid":15964402,"size":14591388,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:acb7443f9edd860b2cdbc84e3c9178c36f9af6e1&amp;dn=FIM+Speedway+Grand+Prix+15-RELOADED&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":111,"leechers":78,"uploader":"trwetwr","files":3,"time":1475708753,"description":"Good Game","torrent":{"xt":"urn:btih:acb7443f9edd860b2cdbc84e3c9178c36f9af6e1","amp;dn":"FIM+Speedway+Grand+Prix+15-RELOADED","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"acb7443f9edd860b2cdbc84e3c9178c36f9af6e1","infoHashBuffer":{"type":"Buffer","data":[172,183,68,63,158,221,134,11,44,219,200,78,60,145,120,195,111,154,246,225]},"announce":[],"urlList":[]}}
+{
+  "title": "FIM Speedway Grand Prix 15-RELOADED",
+  "uid": 15964402,
+  "size": 14591388,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:acb7443f9edd860b2cdbc84e3c9178c36f9af6e1&amp;dn=FIM+Speedway+Grand+Prix+15-RELOADED&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 111,
+  "leechers": 78,
+  "uploader": "trwetwr",
+  "files": 3,
+  "time": 1475708753,
+  "description": "Good Game",
+  "parsed": {
+    "xt": "urn:btih:acb7443f9edd860b2cdbc84e3c9178c36f9af6e1",
+    "dn": "FIM Speedway Grand Prix 15-RELOADED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "acb7443f9edd860b2cdbc84e3c9178c36f9af6e1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        172,
+        183,
+        68,
+        63,
+        158,
+        221,
+        134,
+        11,
+        44,
+        219,
+        200,
+        78,
+        60,
+        145,
+        120,
+        195,
+        111,
+        154,
+        246,
+        225
+      ]
+    },
+    "name": "FIM Speedway Grand Prix 15-RELOADED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 189,
+  "peers": 7,
+  "last_updated": "2016-12-25T10:50:36.564Z"
+}

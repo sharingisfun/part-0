@@ -1,1 +1,61 @@
-{"title":"Maroon 5 - Overexposed (2012)","uid":7367669,"size":105850319,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ad3fa7bdd76704088d9882d1d03715c0b239abd0&amp;dn=Maroon+5+-+Overexposed+%282012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":1,"uploader":"gatasalvaje","files":14,"time":1340148460,"description":"Maroon 5 - Overexposed (2012)\n\nGenre: Pop-Rock, Funk\nFormat: MP3 \nQuality: CBR 320 kbps\nTotal Time: 42m 10s \nTotal Size: 101 Mb \n\n\nTracklist:\n\n01. One More Night (3:39)\n02. Payphone (3:51)\n03. Daylight (3:45)\n04. Lucky Strike (3:05)\n05. The Man Who Never Lied (3:25)\n06. Love Somebody (3:49)\n07. Ladykiller (2:43)\n08. Fortune Teller (3:24)\n09. Sad (3:14)\n10. Tickets (3:29)\n11. Doin' Dirt (3:31)\n12. Beautiful Goodbye (4:15)","torrent":{"xt":"urn:btih:ad3fa7bdd76704088d9882d1d03715c0b239abd0","amp;dn":"Maroon+5+-+Overexposed+%282012%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ad3fa7bdd76704088d9882d1d03715c0b239abd0","infoHashBuffer":{"type":"Buffer","data":[173,63,167,189,215,103,4,8,141,152,130,209,208,55,21,192,178,57,171,208]},"announce":[],"urlList":[]}}
+{
+  "title": "Maroon 5 - Overexposed (2012)",
+  "uid": 7367669,
+  "size": 105850319,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ad3fa7bdd76704088d9882d1d03715c0b239abd0&amp;dn=Maroon+5+-+Overexposed+%282012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 1,
+  "uploader": "gatasalvaje",
+  "files": 14,
+  "time": 1340148460,
+  "description": "Maroon 5 - Overexposed (2012)\n\nGenre: Pop-Rock, Funk\nFormat: MP3 \nQuality: CBR 320 kbps\nTotal Time: 42m 10s \nTotal Size: 101 Mb \n\n\nTracklist:\n\n01. One More Night (3:39)\n02. Payphone (3:51)\n03. Daylight (3:45)\n04. Lucky Strike (3:05)\n05. The Man Who Never Lied (3:25)\n06. Love Somebody (3:49)\n07. Ladykiller (2:43)\n08. Fortune Teller (3:24)\n09. Sad (3:14)\n10. Tickets (3:29)\n11. Doin' Dirt (3:31)\n12. Beautiful Goodbye (4:15)",
+  "parsed": {
+    "xt": "urn:btih:ad3fa7bdd76704088d9882d1d03715c0b239abd0",
+    "dn": "Maroon 5 - Overexposed (2012)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ad3fa7bdd76704088d9882d1d03715c0b239abd0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        173,
+        63,
+        167,
+        189,
+        215,
+        103,
+        4,
+        8,
+        141,
+        152,
+        130,
+        209,
+        208,
+        55,
+        21,
+        192,
+        178,
+        57,
+        171,
+        208
+      ]
+    },
+    "name": "Maroon 5 - Overexposed (2012)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 25,
+  "last_updated": "2016-12-25T10:53:57.211Z"
+}

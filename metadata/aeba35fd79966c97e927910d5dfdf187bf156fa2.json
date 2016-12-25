@@ -1,1 +1,61 @@
-{"title":"Martin Garrix - Animals (Original Mix)","uid":9478800,"size":12228904,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:aeba35fd79966c97e927910d5dfdf187bf156fa2&amp;dn=Martin+Garrix+-+Animals+%28Original+Mix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":90,"leechers":0,"uploader":"yeahsx","files":-1,"time":1389752894,"description":"Label: Spinnin Records\nArtist: Martin Garrix\nAudio Bit Rate: 320 Kbps\nDuration: 05:04 min\nBPM: 128\nGenre: Electro House\nCatalog # SP693\nCover: Yes\nFormat/Codec: .mp3","torrent":{"xt":"urn:btih:aeba35fd79966c97e927910d5dfdf187bf156fa2","amp;dn":"Martin+Garrix+-+Animals+%28Original+Mix%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"aeba35fd79966c97e927910d5dfdf187bf156fa2","infoHashBuffer":{"type":"Buffer","data":[174,186,53,253,121,150,108,151,233,39,145,13,93,253,241,135,191,21,111,162]},"announce":[],"urlList":[]}}
+{
+  "title": "Martin Garrix - Animals (Original Mix)",
+  "uid": 9478800,
+  "size": 12228904,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:aeba35fd79966c97e927910d5dfdf187bf156fa2&amp;dn=Martin+Garrix+-+Animals+%28Original+Mix%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 90,
+  "leechers": 0,
+  "uploader": "yeahsx",
+  "files": -1,
+  "time": 1389752894,
+  "description": "Label: Spinnin Records\nArtist: Martin Garrix\nAudio Bit Rate: 320 Kbps\nDuration: 05:04 min\nBPM: 128\nGenre: Electro House\nCatalog # SP693\nCover: Yes\nFormat/Codec: .mp3",
+  "parsed": {
+    "xt": "urn:btih:aeba35fd79966c97e927910d5dfdf187bf156fa2",
+    "dn": "Martin Garrix - Animals (Original Mix)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "aeba35fd79966c97e927910d5dfdf187bf156fa2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        174,
+        186,
+        53,
+        253,
+        121,
+        150,
+        108,
+        151,
+        233,
+        39,
+        145,
+        13,
+        93,
+        253,
+        241,
+        135,
+        191,
+        21,
+        111,
+        162
+      ]
+    },
+    "name": "Martin Garrix - Animals (Original Mix)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 90,
+  "peers": 16,
+  "last_updated": "2016-12-25T11:03:12.871Z"
+}

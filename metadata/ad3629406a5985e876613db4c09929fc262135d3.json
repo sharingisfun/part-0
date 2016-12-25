@@ -1,1 +1,61 @@
-{"title":"Big.Brother.US.S17E35.HDTV.x264-FUM[ettv]","uid":12395459,"size":372553450,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ad3629406a5985e876613db4c09929fc262135d3&amp;dn=Big.Brother.US.S17E35.HDTV.x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":5,"uploader":"ettv","files":2,"time":1441949422,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:ad3629406a5985e876613db4c09929fc262135d3","amp;dn":"Big.Brother.US.S17E35.HDTV.x264-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ad3629406a5985e876613db4c09929fc262135d3","infoHashBuffer":{"type":"Buffer","data":[173,54,41,64,106,89,133,232,118,97,61,180,192,153,41,252,38,33,53,211]},"announce":[],"urlList":[]}}
+{
+  "title": "Big.Brother.US.S17E35.HDTV.x264-FUM[ettv]",
+  "uid": 12395459,
+  "size": 372553450,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ad3629406a5985e876613db4c09929fc262135d3&amp;dn=Big.Brother.US.S17E35.HDTV.x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1441949422,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin:  1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:ad3629406a5985e876613db4c09929fc262135d3",
+    "dn": "Big.Brother.US.S17E35.HDTV.x264-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ad3629406a5985e876613db4c09929fc262135d3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        173,
+        54,
+        41,
+        64,
+        106,
+        89,
+        133,
+        232,
+        118,
+        97,
+        61,
+        180,
+        192,
+        153,
+        41,
+        252,
+        38,
+        33,
+        53,
+        211
+      ]
+    },
+    "name": "Big.Brother.US.S17E35.HDTV.x264-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 16,
+  "last_updated": "2016-12-25T10:53:43.172Z"
+}

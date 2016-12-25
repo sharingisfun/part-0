@@ -1,1 +1,61 @@
-{"title":"House.Of.Cards.2013.S01E06.480p.WEBRip.x264-BTN","uid":8096927,"size":424003838,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ae9641e6dd631698263454fe2f66587a74844371&amp;dn=House.Of.Cards.2013.S01E06.480p.WEBRip.x264-BTN&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":5,"uploader":"maximersk","files":1,"time":1359862223,"description":"House.Of.Cards.2013.S01E06.480p.WEBRip.x264-BTN","torrent":{"xt":"urn:btih:ae9641e6dd631698263454fe2f66587a74844371","amp;dn":"House.Of.Cards.2013.S01E06.480p.WEBRip.x264-BTN","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ae9641e6dd631698263454fe2f66587a74844371","infoHashBuffer":{"type":"Buffer","data":[174,150,65,230,221,99,22,152,38,52,84,254,47,102,88,122,116,132,67,113]},"announce":[],"urlList":[]}}
+{
+  "title": "House.Of.Cards.2013.S01E06.480p.WEBRip.x264-BTN",
+  "uid": 8096927,
+  "size": 424003838,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ae9641e6dd631698263454fe2f66587a74844371&amp;dn=House.Of.Cards.2013.S01E06.480p.WEBRip.x264-BTN&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 5,
+  "uploader": "maximersk",
+  "files": 1,
+  "time": 1359862223,
+  "description": "House.Of.Cards.2013.S01E06.480p.WEBRip.x264-BTN",
+  "parsed": {
+    "xt": "urn:btih:ae9641e6dd631698263454fe2f66587a74844371",
+    "dn": "House.Of.Cards.2013.S01E06.480p.WEBRip.x264-BTN",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ae9641e6dd631698263454fe2f66587a74844371",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        174,
+        150,
+        65,
+        230,
+        221,
+        99,
+        22,
+        152,
+        38,
+        52,
+        84,
+        254,
+        47,
+        102,
+        88,
+        122,
+        116,
+        132,
+        67,
+        113
+      ]
+    },
+    "name": "House.Of.Cards.2013.S01E06.480p.WEBRip.x264-BTN",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 33,
+  "last_updated": "2016-12-25T11:02:22.725Z"
+}

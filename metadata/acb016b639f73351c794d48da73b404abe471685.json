@@ -1,1 +1,63 @@
-{"title":"KARAGUL S04 DVD 80 GREEK SUBS.avi","uid":15928440,"size":778047972,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:acb016b639f73351c794d48da73b404abe471685&amp;dn=KARAGUL+S04+DVD+80+GREEK+SUBS.avi&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":158,"leechers":6,"uploader":"panview","files":1,"time":1475333940,"description":"DVD 80","torrent":{"xt":"urn:btih:acb016b639f73351c794d48da73b404abe471685","amp;dn":"KARAGUL+S04+DVD+80+GREEK+SUBS.avi","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"acb016b639f73351c794d48da73b404abe471685","infoHashBuffer":{"type":"Buffer","data":[172,176,22,182,57,247,51,81,199,148,212,141,167,59,64,74,190,71,22,133]},"announce":[],"urlList":[]}}
+{
+  "title": "KARAGUL S04 DVD 80 GREEK SUBS.avi",
+  "uid": 15928440,
+  "size": 778047972,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:acb016b639f73351c794d48da73b404abe471685&amp;dn=KARAGUL+S04+DVD+80+GREEK+SUBS.avi&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 158,
+  "leechers": 6,
+  "uploader": "panview",
+  "files": 1,
+  "time": 1475333940,
+  "description": "DVD 80",
+  "parsed": {
+    "xt": "urn:btih:acb016b639f73351c794d48da73b404abe471685",
+    "dn": "KARAGUL S04 DVD 80 GREEK SUBS.avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "acb016b639f73351c794d48da73b404abe471685",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        172,
+        176,
+        22,
+        182,
+        57,
+        247,
+        51,
+        81,
+        199,
+        148,
+        212,
+        141,
+        167,
+        59,
+        64,
+        74,
+        190,
+        71,
+        22,
+        133
+      ]
+    },
+    "name": "KARAGUL S04 DVD 80 GREEK SUBS.avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 164,
+  "peers": 60,
+  "last_updated": "2016-12-25T10:50:22.461Z"
+}
