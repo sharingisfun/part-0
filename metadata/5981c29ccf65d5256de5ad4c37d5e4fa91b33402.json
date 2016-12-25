@@ -1,1 +1,61 @@
-{"title":"Assassin's Creed Brotherhood-iso","uid":11915646,"size":3140681728,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:5981c29ccf65d5256de5ad4c37d5e4fa91b33402&amp;dn=Assassin%27s+Creed+Brotherhood-iso&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":65,"leechers":30,"uploader":"OvoJeKraj","files":1,"time":1431531805,"description":"Enjoy and seed. Thanks!","torrent":{"xt":"urn:btih:5981c29ccf65d5256de5ad4c37d5e4fa91b33402","amp;dn":"Assassin%27s+Creed+Brotherhood-iso","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5981c29ccf65d5256de5ad4c37d5e4fa91b33402","infoHashBuffer":{"type":"Buffer","data":[89,129,194,156,207,101,213,37,109,229,173,76,55,213,228,250,145,179,52,2]},"announce":[],"urlList":[]}}
+{
+  "title": "Assassin's Creed Brotherhood-iso",
+  "uid": 11915646,
+  "size": 3140681728,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:5981c29ccf65d5256de5ad4c37d5e4fa91b33402&amp;dn=Assassin%27s+Creed+Brotherhood-iso&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 65,
+  "leechers": 30,
+  "uploader": "OvoJeKraj",
+  "files": 1,
+  "time": 1431531805,
+  "description": "Enjoy and seed. Thanks!",
+  "parsed": {
+    "xt": "urn:btih:5981c29ccf65d5256de5ad4c37d5e4fa91b33402",
+    "dn": "Assassin's Creed Brotherhood-iso",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5981c29ccf65d5256de5ad4c37d5e4fa91b33402",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        89,
+        129,
+        194,
+        156,
+        207,
+        101,
+        213,
+        37,
+        109,
+        229,
+        173,
+        76,
+        55,
+        213,
+        228,
+        250,
+        145,
+        179,
+        52,
+        2
+      ]
+    },
+    "name": "Assassin's Creed Brotherhood-iso",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 95,
+  "peers": 1,
+  "last_updated": "2016-12-25T01:53:34.059Z"
+}

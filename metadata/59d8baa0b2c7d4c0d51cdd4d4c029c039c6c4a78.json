@@ -1,1 +1,61 @@
-{"title":"Halo - Beyonce","uid":4530907,"size":10571371,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:59d8baa0b2c7d4c0d51cdd4d4c029c039c6c4a78&amp;dn=Halo+-+Beyonce&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":1,"uploader":"harrison.reilly","files":1,"time":1227552634,"description":"Song off Beyonce&amp;#039;s new album &amp;#039;I Am.. Sasha Fierce&amp;#039;\n\n- Halo / Beyonce - 4:22 (320 kbps)\n\nPLEASE SEED &amp; COMMENT","torrent":{"xt":"urn:btih:59d8baa0b2c7d4c0d51cdd4d4c029c039c6c4a78","amp;dn":"Halo+-+Beyonce","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"59d8baa0b2c7d4c0d51cdd4d4c029c039c6c4a78","infoHashBuffer":{"type":"Buffer","data":[89,216,186,160,178,199,212,192,213,28,221,77,76,2,156,3,156,108,74,120]},"announce":[],"urlList":[]}}
+{
+  "title": "Halo - Beyonce",
+  "uid": 4530907,
+  "size": 10571371,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:59d8baa0b2c7d4c0d51cdd4d4c029c039c6c4a78&amp;dn=Halo+-+Beyonce&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 1,
+  "uploader": "harrison.reilly",
+  "files": 1,
+  "time": 1227552634,
+  "description": "Song off Beyonce&amp;#039;s new album &amp;#039;I Am.. Sasha Fierce&amp;#039;\n\n- Halo / Beyonce - 4:22 (320 kbps)\n\nPLEASE SEED &amp; COMMENT",
+  "parsed": {
+    "xt": "urn:btih:59d8baa0b2c7d4c0d51cdd4d4c029c039c6c4a78",
+    "dn": "Halo - Beyonce",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "59d8baa0b2c7d4c0d51cdd4d4c029c039c6c4a78",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        89,
+        216,
+        186,
+        160,
+        178,
+        199,
+        212,
+        192,
+        213,
+        28,
+        221,
+        77,
+        76,
+        2,
+        156,
+        3,
+        156,
+        108,
+        74,
+        120
+      ]
+    },
+    "name": "Halo - Beyonce",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 37,
+  "last_updated": "2016-12-25T01:56:00.482Z"
+}

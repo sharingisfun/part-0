@@ -1,1 +1,61 @@
-{"title":"OZ Complete HBO series seasons 1-6 (aj502)","uid":5270316,"size":36681000960,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:5bc9f5fbae20de9afda3d580b90de601d368c1d3&amp;dn=OZ+Complete+HBO+series+seasons+1-6+%28aj502%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":94,"uploader":"aj502","files":56,"time":1263033910,"description":"OZ Complaete HBO series seasons 1-6\n(Veiw files...No description needed. heh)","torrent":{"xt":"urn:btih:5bc9f5fbae20de9afda3d580b90de601d368c1d3","amp;dn":"OZ+Complete+HBO+series+seasons+1-6+%28aj502%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5bc9f5fbae20de9afda3d580b90de601d368c1d3","infoHashBuffer":{"type":"Buffer","data":[91,201,245,251,174,32,222,154,253,163,213,128,185,13,230,1,211,104,193,211]},"announce":[],"urlList":[]}}
+{
+  "title": "OZ Complete HBO series seasons 1-6 (aj502)",
+  "uid": 5270316,
+  "size": 36681000960,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:5bc9f5fbae20de9afda3d580b90de601d368c1d3&amp;dn=OZ+Complete+HBO+series+seasons+1-6+%28aj502%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 94,
+  "uploader": "aj502",
+  "files": 56,
+  "time": 1263033910,
+  "description": "OZ Complaete HBO series seasons 1-6\n(Veiw files...No description needed. heh)",
+  "parsed": {
+    "xt": "urn:btih:5bc9f5fbae20de9afda3d580b90de601d368c1d3",
+    "dn": "OZ Complete HBO series seasons 1-6 (aj502)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5bc9f5fbae20de9afda3d580b90de601d368c1d3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        91,
+        201,
+        245,
+        251,
+        174,
+        32,
+        222,
+        154,
+        253,
+        163,
+        213,
+        128,
+        185,
+        13,
+        230,
+        1,
+        211,
+        104,
+        193,
+        211
+      ]
+    },
+    "name": "OZ Complete HBO series seasons 1-6 (aj502)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 153,
+  "peers": 8,
+  "last_updated": "2016-12-25T02:09:13.016Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Little Dragon - Nabuma Rubberband [2014] [MP3 320]","uid":10130280,"size":103593529,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:5b43767eeea115dbd28d75fcb4e02d58f3125480&amp;dn=Little+Dragon+-+Nabuma+Rubberband+%5B2014%5D+%5BMP3+320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":97,"leechers":2,"uploader":"Vitamin_X","files":-1,"time":1399829052,"description":"Genre: Ambient / Downtempo / Synth-Pop \nPublishing year: 2014 \nAudio Codec: MP3 \nFormat: tracks \nBitrate: 320 Kbps \nDuration: 00:42:50\n\n\nTracklist:\n\n01. Mirror 3:25 \n02. Klapp Klapp 3:37 \n03. Pretty Girls 3:43 \n04. Underbart 4:05 \n05. Cat Rider 4:33 \n06. Paris 3:24 \n07. Lurad 0:08 \n08. Nabuma Rubberband 3:15 \n09. Only One 4:06 \n10. Killing Me 3:44 \n11. Pink Cloud 4:46 \n12. Let Go 4:04","torrent":{"xt":"urn:btih:5b43767eeea115dbd28d75fcb4e02d58f3125480","amp;dn":"Little+Dragon+-+Nabuma+Rubberband+%5B2014%5D+%5BMP3+320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5b43767eeea115dbd28d75fcb4e02d58f3125480","infoHashBuffer":{"type":"Buffer","data":[91,67,118,126,238,161,21,219,210,141,117,252,180,224,45,88,243,18,84,128]},"announce":[],"urlList":[]}}
+{
+  "title": "Little Dragon - Nabuma Rubberband [2014] [MP3 320]",
+  "uid": 10130280,
+  "size": 103593529,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:5b43767eeea115dbd28d75fcb4e02d58f3125480&amp;dn=Little+Dragon+-+Nabuma+Rubberband+%5B2014%5D+%5BMP3+320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 97,
+  "leechers": 2,
+  "uploader": "Vitamin_X",
+  "files": -1,
+  "time": 1399829052,
+  "description": "Genre: Ambient / Downtempo / Synth-Pop \nPublishing year: 2014 \nAudio Codec: MP3 \nFormat: tracks \nBitrate: 320 Kbps \nDuration: 00:42:50\n\n\nTracklist:\n\n01. Mirror 3:25 \n02. Klapp Klapp 3:37 \n03. Pretty Girls 3:43 \n04. Underbart 4:05 \n05. Cat Rider 4:33 \n06. Paris 3:24 \n07. Lurad 0:08 \n08. Nabuma Rubberband 3:15 \n09. Only One 4:06 \n10. Killing Me 3:44 \n11. Pink Cloud 4:46 \n12. Let Go 4:04",
+  "parsed": {
+    "xt": "urn:btih:5b43767eeea115dbd28d75fcb4e02d58f3125480",
+    "dn": "Little Dragon - Nabuma Rubberband [2014] [MP3 320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5b43767eeea115dbd28d75fcb4e02d58f3125480",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        91,
+        67,
+        118,
+        126,
+        238,
+        161,
+        21,
+        219,
+        210,
+        141,
+        117,
+        252,
+        180,
+        224,
+        45,
+        88,
+        243,
+        18,
+        84,
+        128
+      ]
+    },
+    "name": "Little Dragon - Nabuma Rubberband [2014] [MP3 320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 99,
+  "peers": 48,
+  "last_updated": "2016-12-25T02:06:00.461Z"
+}

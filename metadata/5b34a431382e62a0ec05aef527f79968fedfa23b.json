@@ -1,1 +1,63 @@
-{"title":"The.Walking.Dead.S06E02.HDTV.x264-FUM[ettv]","uid":12596006,"size":507911377,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:5b34a431382e62a0ec05aef527f79968fedfa23b&amp;dn=The.Walking.Dead.S06E02.HDTV.x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":88,"leechers":7,"uploader":"ettv","files":2,"time":1445230001,"description":"Torrent Description\r\nettv - ExtraTorrent TV Shows\r\n\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n             \nhttp://extratorrent.cc/\r\n\r\n\r\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:5b34a431382e62a0ec05aef527f79968fedfa23b","amp;dn":"The.Walking.Dead.S06E02.HDTV.x264-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5b34a431382e62a0ec05aef527f79968fedfa23b","infoHashBuffer":{"type":"Buffer","data":[91,52,164,49,56,46,98,160,236,5,174,245,39,247,153,104,254,223,162,59]},"announce":[],"urlList":[]}}
+{
+  "title": "The.Walking.Dead.S06E02.HDTV.x264-FUM[ettv]",
+  "uid": 12596006,
+  "size": 507911377,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:5b34a431382e62a0ec05aef527f79968fedfa23b&amp;dn=The.Walking.Dead.S06E02.HDTV.x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 88,
+  "leechers": 7,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1445230001,
+  "description": "Torrent Description\r\nettv - ExtraTorrent TV Shows\r\n\r\n\r\n\r\n#ettv -&gt; To avoid fakes, ALWAYS check that the torrent was added by ettv\r\n             \nhttp://extratorrent.cc/\r\n\r\n\r\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:5b34a431382e62a0ec05aef527f79968fedfa23b",
+    "dn": "The.Walking.Dead.S06E02.HDTV.x264-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "5b34a431382e62a0ec05aef527f79968fedfa23b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        91,
+        52,
+        164,
+        49,
+        56,
+        46,
+        98,
+        160,
+        236,
+        5,
+        174,
+        245,
+        39,
+        247,
+        153,
+        104,
+        254,
+        223,
+        162,
+        59
+      ]
+    },
+    "name": "The.Walking.Dead.S06E02.HDTV.x264-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 95,
+  "peers": 100,
+  "last_updated": "2016-12-25T02:05:22.362Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Supernatural S10E10 HDTV AC3 DivX-HQAVI","uid":11679707,"size":734595578,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:5a2d87536b725342803aacd23087a132b98f9bee&amp;dn=Supernatural+S10E10+HDTV+AC3+DivX-HQAVI&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":80,"leechers":3,"uploader":"teslaman","files":1,"time":1423028289,"description":"Re-Encode From 720p Release\nCompatible With DivX DVD Players (720x400 Resolution).\n\nScreenshots: http://imgbox.com/aKqkrlyF\n\nResolution: 720x400\nVideo Bitrate: 2039kbps\nAudio: AC3 ACM 5.1 Channel @ 256kbps @ 48,000hz\n\nMethod used:\nEncoding Program: VirtualDub With Directshow Driver Plugin\nVideo Settings:\nLanczos3 Resize Filter And Saved Uncompressed @ 49.1GB\nCompressed With DivX 2-Pass On &quot;Insane Quality&quot; Setting, H.263 Optimized\nAudio:\nDemuxed with tsMuxerGUI\nImported With Audacity And Saved As Uncompressed WAV\nCompressed With AC3 ACM Codec\n\nEnjoy!\n\nWant to donate some Bitcoin? 17qf3tqBwbCPcvFHip9drVUvJ9xxADoZej","torrent":{"xt":"urn:btih:5a2d87536b725342803aacd23087a132b98f9bee","amp;dn":"Supernatural+S10E10+HDTV+AC3+DivX-HQAVI","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5a2d87536b725342803aacd23087a132b98f9bee","infoHashBuffer":{"type":"Buffer","data":[90,45,135,83,107,114,83,66,128,58,172,210,48,135,161,50,185,143,155,238]},"announce":[],"urlList":[]}}
+{
+  "title": "Supernatural S10E10 HDTV AC3 DivX-HQAVI",
+  "uid": 11679707,
+  "size": 734595578,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:5a2d87536b725342803aacd23087a132b98f9bee&amp;dn=Supernatural+S10E10+HDTV+AC3+DivX-HQAVI&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 80,
+  "leechers": 3,
+  "uploader": "teslaman",
+  "files": 1,
+  "time": 1423028289,
+  "description": "Re-Encode From 720p Release\nCompatible With DivX DVD Players (720x400 Resolution).\n\nScreenshots: http://imgbox.com/aKqkrlyF\n\nResolution: 720x400\nVideo Bitrate: 2039kbps\nAudio: AC3 ACM 5.1 Channel @ 256kbps @ 48,000hz\n\nMethod used:\nEncoding Program: VirtualDub With Directshow Driver Plugin\nVideo Settings:\nLanczos3 Resize Filter And Saved Uncompressed @ 49.1GB\nCompressed With DivX 2-Pass On &quot;Insane Quality&quot; Setting, H.263 Optimized\nAudio:\nDemuxed with tsMuxerGUI\nImported With Audacity And Saved As Uncompressed WAV\nCompressed With AC3 ACM Codec\n\nEnjoy!\n\nWant to donate some Bitcoin? 17qf3tqBwbCPcvFHip9drVUvJ9xxADoZej",
+  "parsed": {
+    "xt": "urn:btih:5a2d87536b725342803aacd23087a132b98f9bee",
+    "dn": "Supernatural S10E10 HDTV AC3 DivX-HQAVI",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5a2d87536b725342803aacd23087a132b98f9bee",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        90,
+        45,
+        135,
+        83,
+        107,
+        114,
+        83,
+        66,
+        128,
+        58,
+        172,
+        210,
+        48,
+        135,
+        161,
+        50,
+        185,
+        143,
+        155,
+        238
+      ]
+    },
+    "name": "Supernatural S10E10 HDTV AC3 DivX-HQAVI",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 83,
+  "peers": 4,
+  "last_updated": "2016-12-25T01:58:33.024Z"
+}

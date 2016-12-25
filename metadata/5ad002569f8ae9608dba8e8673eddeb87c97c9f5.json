@@ -1,1 +1,61 @@
-{"title":"Adobe Tool v3.76 (Beta)","uid":9654367,"size":17809920,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:5ad002569f8ae9608dba8e8673eddeb87c97c9f5&amp;dn=Adobe+Tool+v3.76+%28Beta%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":65,"leechers":2,"uploader":"Alien119","files":-1,"time":1393155044,"description":"Adobe Tool v3.76(Beta)\n\n\n\nSupport page:\n  &lt;a href=&quot;\nhttps://forum.suprbay.org/Thread-Adobe-Tool&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://forum.suprbay.org/Thread-Adobe-Tool&lt;/a&gt;\n\n\n\n\n\nTested And Working...\nScanned (With Kaspersky) And 100% Clean.\n\t\t","torrent":{"xt":"urn:btih:5ad002569f8ae9608dba8e8673eddeb87c97c9f5","amp;dn":"Adobe+Tool+v3.76+%28Beta%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5ad002569f8ae9608dba8e8673eddeb87c97c9f5","infoHashBuffer":{"type":"Buffer","data":[90,208,2,86,159,138,233,96,141,186,142,134,115,237,222,184,124,151,201,245]},"announce":[],"urlList":[]}}
+{
+  "title": "Adobe Tool v3.76 (Beta)",
+  "uid": 9654367,
+  "size": 17809920,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:5ad002569f8ae9608dba8e8673eddeb87c97c9f5&amp;dn=Adobe+Tool+v3.76+%28Beta%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 65,
+  "leechers": 2,
+  "uploader": "Alien119",
+  "files": -1,
+  "time": 1393155044,
+  "description": "Adobe Tool v3.76(Beta)\n\n\n\nSupport page:\n  &lt;a href=&quot;\nhttps://forum.suprbay.org/Thread-Adobe-Tool&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://forum.suprbay.org/Thread-Adobe-Tool&lt;/a&gt;\n\n\n\n\n\nTested And Working...\nScanned (With Kaspersky) And 100% Clean.\n\t\t",
+  "parsed": {
+    "xt": "urn:btih:5ad002569f8ae9608dba8e8673eddeb87c97c9f5",
+    "dn": "Adobe Tool v3.76 (Beta)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5ad002569f8ae9608dba8e8673eddeb87c97c9f5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        90,
+        208,
+        2,
+        86,
+        159,
+        138,
+        233,
+        96,
+        141,
+        186,
+        142,
+        134,
+        115,
+        237,
+        222,
+        184,
+        124,
+        151,
+        201,
+        245
+      ]
+    },
+    "name": "Adobe Tool v3.76 (Beta)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 67,
+  "peers": 10,
+  "last_updated": "2016-12-25T02:02:23.766Z"
+}

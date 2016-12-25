@@ -1,1 +1,61 @@
-{"title":"The Witcher Series 1-7 (Epub and Mobi)","uid":9936047,"size":6774184,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:5ba3a6cf2bc3170cac8a13289f47c1dfdb3db6c8&amp;dn=The+Witcher+Series+1-7+%28Epub+and+Mobi%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":128,"leechers":8,"uploader":"JoeMatey","files":15,"time":1397161435,"description":"The Witcher Series by Andrzej Sapkowski.  Books 1-7 (Epub and Mobi)\n\nThe chronological order is:\n\n    The Last Wish\n    The Sword of Destiny\n    Blood of Elves\n    Times of Contempt\n    Baptism by Fire\n    The Tower of Swallows\n    The Lady of the Lake","torrent":{"xt":"urn:btih:5ba3a6cf2bc3170cac8a13289f47c1dfdb3db6c8","amp;dn":"The+Witcher+Series+1-7+%28Epub+and+Mobi%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5ba3a6cf2bc3170cac8a13289f47c1dfdb3db6c8","infoHashBuffer":{"type":"Buffer","data":[91,163,166,207,43,195,23,12,172,138,19,40,159,71,193,223,219,61,182,200]},"announce":[],"urlList":[]}}
+{
+  "title": "The Witcher Series 1-7 (Epub and Mobi)",
+  "uid": 9936047,
+  "size": 6774184,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:5ba3a6cf2bc3170cac8a13289f47c1dfdb3db6c8&amp;dn=The+Witcher+Series+1-7+%28Epub+and+Mobi%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 128,
+  "leechers": 8,
+  "uploader": "JoeMatey",
+  "files": 15,
+  "time": 1397161435,
+  "description": "The Witcher Series by Andrzej Sapkowski.  Books 1-7 (Epub and Mobi)\n\nThe chronological order is:\n\n    The Last Wish\n    The Sword of Destiny\n    Blood of Elves\n    Times of Contempt\n    Baptism by Fire\n    The Tower of Swallows\n    The Lady of the Lake",
+  "parsed": {
+    "xt": "urn:btih:5ba3a6cf2bc3170cac8a13289f47c1dfdb3db6c8",
+    "dn": "The Witcher Series 1-7 (Epub and Mobi)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5ba3a6cf2bc3170cac8a13289f47c1dfdb3db6c8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        91,
+        163,
+        166,
+        207,
+        43,
+        195,
+        23,
+        12,
+        172,
+        138,
+        19,
+        40,
+        159,
+        71,
+        193,
+        223,
+        219,
+        61,
+        182,
+        200
+      ]
+    },
+    "name": "The Witcher Series 1-7 (Epub and Mobi)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 136,
+  "peers": 44,
+  "last_updated": "2016-12-25T02:08:24.874Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Mark Knopfler Tracker [2015] 320","uid":11748725,"size":146326848,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:5ab2ae82606f30e95390d1808d3511b8316b8a83&amp;dn=Mark+Knopfler+Tracker+%5B2015%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":143,"leechers":1,"uploader":"Capajebo","files":12,"time":1426116549,"description":" ------------------------------------------------\n* *** ** Mark Knopfler Tracker [2015] 320 ** *** *\n ================================================ &lt;a href=&quot;\nhttp://imgur.com/Ye3bLg7&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgur.com/Ye3bLg7&lt;/a&gt; ::: TPB Ã¢â„¢Â  1914 Ã¢â„¢Â  CAPAJEBO\n ================================================","torrent":{"xt":"urn:btih:5ab2ae82606f30e95390d1808d3511b8316b8a83","amp;dn":"Mark+Knopfler+Tracker+%5B2015%5D+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5ab2ae82606f30e95390d1808d3511b8316b8a83","infoHashBuffer":{"type":"Buffer","data":[90,178,174,130,96,111,48,233,83,144,209,128,141,53,17,184,49,107,138,131]},"announce":[],"urlList":[]}}
+{
+  "title": "Mark Knopfler Tracker [2015] 320",
+  "uid": 11748725,
+  "size": 146326848,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:5ab2ae82606f30e95390d1808d3511b8316b8a83&amp;dn=Mark+Knopfler+Tracker+%5B2015%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 143,
+  "leechers": 1,
+  "uploader": "Capajebo",
+  "files": 12,
+  "time": 1426116549,
+  "description": " ------------------------------------------------\n* *** ** Mark Knopfler Tracker [2015] 320 ** *** *\n ================================================ &lt;a href=&quot;\nhttp://imgur.com/Ye3bLg7&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgur.com/Ye3bLg7&lt;/a&gt; ::: TPB Ã¢â„¢Â  1914 Ã¢â„¢Â  CAPAJEBO\n ================================================",
+  "parsed": {
+    "xt": "urn:btih:5ab2ae82606f30e95390d1808d3511b8316b8a83",
+    "dn": "Mark Knopfler Tracker [2015] 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5ab2ae82606f30e95390d1808d3511b8316b8a83",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        90,
+        178,
+        174,
+        130,
+        96,
+        111,
+        48,
+        233,
+        83,
+        144,
+        209,
+        128,
+        141,
+        53,
+        17,
+        184,
+        49,
+        107,
+        138,
+        131
+      ]
+    },
+    "name": "Mark Knopfler Tracker [2015] 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 144,
+  "peers": 6,
+  "last_updated": "2016-12-25T02:01:35.601Z"
+}

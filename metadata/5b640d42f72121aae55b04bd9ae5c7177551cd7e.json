@@ -1,1 +1,61 @@
-{"title":"Taylor Swift - 1989 (Deluxe) (2014) [FLAC]","uid":11307085,"size":470153596,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:5b640d42f72121aae55b04bd9ae5c7177551cd7e&amp;dn=Taylor+Swift+-+1989+%28Deluxe%29+%282014%29+%5BFLAC%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":550,"leechers":273,"uploader":null,"files":25,"time":1414484192,"description":"TS","torrent":{"xt":"urn:btih:5b640d42f72121aae55b04bd9ae5c7177551cd7e","amp;dn":"Taylor+Swift+-+1989+%28Deluxe%29+%282014%29+%5BFLAC%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5b640d42f72121aae55b04bd9ae5c7177551cd7e","infoHashBuffer":{"type":"Buffer","data":[91,100,13,66,247,33,33,170,229,91,4,189,154,229,199,23,117,81,205,126]},"announce":[],"urlList":[]}}
+{
+  "title": "Taylor Swift - 1989 (Deluxe) (2014) [FLAC]",
+  "uid": 11307085,
+  "size": 470153596,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:5b640d42f72121aae55b04bd9ae5c7177551cd7e&amp;dn=Taylor+Swift+-+1989+%28Deluxe%29+%282014%29+%5BFLAC%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 550,
+  "leechers": 273,
+  "uploader": null,
+  "files": 25,
+  "time": 1414484192,
+  "description": "TS",
+  "parsed": {
+    "xt": "urn:btih:5b640d42f72121aae55b04bd9ae5c7177551cd7e",
+    "dn": "Taylor Swift - 1989 (Deluxe) (2014) [FLAC]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5b640d42f72121aae55b04bd9ae5c7177551cd7e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        91,
+        100,
+        13,
+        66,
+        247,
+        33,
+        33,
+        170,
+        229,
+        91,
+        4,
+        189,
+        154,
+        229,
+        199,
+        23,
+        117,
+        81,
+        205,
+        126
+      ]
+    },
+    "name": "Taylor Swift - 1989 (Deluxe) (2014) [FLAC]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 823,
+  "peers": 146,
+  "last_updated": "2016-12-25T02:06:46.593Z"
+}

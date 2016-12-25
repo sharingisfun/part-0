@@ -1,1 +1,61 @@
-{"title":"Ariana Grande - Put Your Hearts Up [Single] - 2012","uid":6976334,"size":8522240,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:59d6a0b2cd6a628f7743f57545f399d0eb9bc70d&amp;dn=Ariana+Grande+-+Put+Your+Hearts+Up+%5BSingle%5D+-+2012&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":0,"uploader":"Delicous","files":-1,"time":1327268666,"description":"                       Ariana Grande - Put Your Hearts Up (2012 Single)\n                                \n                                       320 Kbps MP3\n                                 \n\n                                          Enjoy!\n                                  ","torrent":{"xt":"urn:btih:59d6a0b2cd6a628f7743f57545f399d0eb9bc70d","amp;dn":"Ariana+Grande+-+Put+Your+Hearts+Up+%5BSingle%5D+-+2012","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"59d6a0b2cd6a628f7743f57545f399d0eb9bc70d","infoHashBuffer":{"type":"Buffer","data":[89,214,160,178,205,106,98,143,119,67,245,117,69,243,153,208,235,155,199,13]},"announce":[],"urlList":[]}}
+{
+  "title": "Ariana Grande - Put Your Hearts Up [Single] - 2012",
+  "uid": 6976334,
+  "size": 8522240,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:59d6a0b2cd6a628f7743f57545f399d0eb9bc70d&amp;dn=Ariana+Grande+-+Put+Your+Hearts+Up+%5BSingle%5D+-+2012&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 0,
+  "uploader": "Delicous",
+  "files": -1,
+  "time": 1327268666,
+  "description": "                       Ariana Grande - Put Your Hearts Up (2012 Single)\n                                \n                                       320 Kbps MP3\n                                 \n\n                                          Enjoy!\n                                  ",
+  "parsed": {
+    "xt": "urn:btih:59d6a0b2cd6a628f7743f57545f399d0eb9bc70d",
+    "dn": "Ariana Grande - Put Your Hearts Up [Single] - 2012",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "59d6a0b2cd6a628f7743f57545f399d0eb9bc70d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        89,
+        214,
+        160,
+        178,
+        205,
+        106,
+        98,
+        143,
+        119,
+        67,
+        245,
+        117,
+        69,
+        243,
+        153,
+        208,
+        235,
+        155,
+        199,
+        13
+      ]
+    },
+    "name": "Ariana Grande - Put Your Hearts Up [Single] - 2012",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 7,
+  "last_updated": "2016-12-25T01:55:54.469Z"
+}

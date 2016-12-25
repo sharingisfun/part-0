@@ -1,1 +1,61 @@
-{"title":"XXYYXX (self-titled album 2012)","uid":7478632,"size":104670922,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:5b7faccb17fac57c0fecf5604d8ec7b38df00328&amp;dn=XXYYXX+%28self-titled+album+2012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":117,"leechers":2,"uploader":"herbpig","files":14,"time":1343358946,"description":"1st album by XXYYXX in Mp3!\n\n-------------------------------------------------------------------------------------\n\nXXYYXX is the name of Orlando, FLÃ¢â‚¬â„¢s 16 year old producer, Marcel Everett. Marcel works out of his bedroom creating harmonious music that provokes emotion and transmits vivid images of peace and still sadness. His music has been featured on XLR8R, The Needle Drop, Earmilk, Indie Shuffle, BIRP and many more.","torrent":{"xt":"urn:btih:5b7faccb17fac57c0fecf5604d8ec7b38df00328","amp;dn":"XXYYXX+%28self-titled+album+2012%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5b7faccb17fac57c0fecf5604d8ec7b38df00328","infoHashBuffer":{"type":"Buffer","data":[91,127,172,203,23,250,197,124,15,236,245,96,77,142,199,179,141,240,3,40]},"announce":[],"urlList":[]}}
+{
+  "title": "XXYYXX (self-titled album 2012)",
+  "uid": 7478632,
+  "size": 104670922,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:5b7faccb17fac57c0fecf5604d8ec7b38df00328&amp;dn=XXYYXX+%28self-titled+album+2012%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 117,
+  "leechers": 2,
+  "uploader": "herbpig",
+  "files": 14,
+  "time": 1343358946,
+  "description": "1st album by XXYYXX in Mp3!\n\n-------------------------------------------------------------------------------------\n\nXXYYXX is the name of Orlando, FLÃ¢â‚¬â„¢s 16 year old producer, Marcel Everett. Marcel works out of his bedroom creating harmonious music that provokes emotion and transmits vivid images of peace and still sadness. His music has been featured on XLR8R, The Needle Drop, Earmilk, Indie Shuffle, BIRP and many more.",
+  "parsed": {
+    "xt": "urn:btih:5b7faccb17fac57c0fecf5604d8ec7b38df00328",
+    "dn": "XXYYXX (self-titled album 2012)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5b7faccb17fac57c0fecf5604d8ec7b38df00328",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        91,
+        127,
+        172,
+        203,
+        23,
+        250,
+        197,
+        124,
+        15,
+        236,
+        245,
+        96,
+        77,
+        142,
+        199,
+        179,
+        141,
+        240,
+        3,
+        40
+      ]
+    },
+    "name": "XXYYXX (self-titled album 2012)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 119,
+  "peers": 18,
+  "last_updated": "2016-12-25T02:07:38.741Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Team Fortress 2 v 1.1.4.1 + All Items","uid":6299852,"size":2438717605,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:5afde2a325c077c3e7902ae64e690bf8318acd17&amp;dn=Team+Fortress+2+v+1.1.4.1+%2B+All+Items&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":67,"leechers":1,"uploader":"DimX-6600","files":3,"time":1302116857,"description":"Team Fortress 2 v 1.1.4.1 + All Items","torrent":{"xt":"urn:btih:5afde2a325c077c3e7902ae64e690bf8318acd17","amp;dn":"Team+Fortress+2+v+1.1.4.1+%2B+All+Items","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5afde2a325c077c3e7902ae64e690bf8318acd17","infoHashBuffer":{"type":"Buffer","data":[90,253,226,163,37,192,119,195,231,144,42,230,78,105,11,248,49,138,205,23]},"announce":[],"urlList":[]}}
+{
+  "title": "Team Fortress 2 v 1.1.4.1 + All Items",
+  "uid": 6299852,
+  "size": 2438717605,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:5afde2a325c077c3e7902ae64e690bf8318acd17&amp;dn=Team+Fortress+2+v+1.1.4.1+%2B+All+Items&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 67,
+  "leechers": 1,
+  "uploader": "DimX-6600",
+  "files": 3,
+  "time": 1302116857,
+  "description": "Team Fortress 2 v 1.1.4.1 + All Items",
+  "parsed": {
+    "xt": "urn:btih:5afde2a325c077c3e7902ae64e690bf8318acd17",
+    "dn": "Team Fortress 2 v 1.1.4.1   All Items",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5afde2a325c077c3e7902ae64e690bf8318acd17",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        90,
+        253,
+        226,
+        163,
+        37,
+        192,
+        119,
+        195,
+        231,
+        144,
+        42,
+        230,
+        78,
+        105,
+        11,
+        248,
+        49,
+        138,
+        205,
+        23
+      ]
+    },
+    "name": "Team Fortress 2 v 1.1.4.1   All Items",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 67,
+  "last_updated": "2016-12-25T02:03:34.041Z"
+}

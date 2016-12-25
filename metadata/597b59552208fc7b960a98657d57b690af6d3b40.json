@@ -1,1 +1,61 @@
-{"title":"Chef's Table S01E01 WEBRip x264 AHMED","uid":11904303,"size":518004243,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:597b59552208fc7b960a98657d57b690af6d3b40&amp;dn=Chef%27s+Table+S01E01+WEBRip+x264+AHMED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":2,"uploader":"67mb","files":2,"time":1431362388,"description":"Chef's Table S01E01 WEBRip x264 AHMED","torrent":{"xt":"urn:btih:597b59552208fc7b960a98657d57b690af6d3b40","amp;dn":"Chef%27s+Table+S01E01+WEBRip+x264+AHMED","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"597b59552208fc7b960a98657d57b690af6d3b40","infoHashBuffer":{"type":"Buffer","data":[89,123,89,85,34,8,252,123,150,10,152,101,125,87,182,144,175,109,59,64]},"announce":[],"urlList":[]}}
+{
+  "title": "Chef's Table S01E01 WEBRip x264 AHMED",
+  "uid": 11904303,
+  "size": 518004243,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:597b59552208fc7b960a98657d57b690af6d3b40&amp;dn=Chef%27s+Table+S01E01+WEBRip+x264+AHMED&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 2,
+  "uploader": "67mb",
+  "files": 2,
+  "time": 1431362388,
+  "description": "Chef's Table S01E01 WEBRip x264 AHMED",
+  "parsed": {
+    "xt": "urn:btih:597b59552208fc7b960a98657d57b690af6d3b40",
+    "dn": "Chef's Table S01E01 WEBRip x264 AHMED",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "597b59552208fc7b960a98657d57b690af6d3b40",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        89,
+        123,
+        89,
+        85,
+        34,
+        8,
+        252,
+        123,
+        150,
+        10,
+        152,
+        101,
+        125,
+        87,
+        182,
+        144,
+        175,
+        109,
+        59,
+        64
+      ]
+    },
+    "name": "Chef's Table S01E01 WEBRip x264 AHMED",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 28,
+  "last_updated": "2016-12-25T01:53:20.012Z"
+}

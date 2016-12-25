@@ -1,1 +1,61 @@
-{"title":"Criminal Minds Complete Season 3","uid":7084763,"size":7343843889,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:59defbfb83dec5b13430fe391cf6d85781cff939&amp;dn=Criminal+Minds+Complete+Season+3+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":45,"uploader":"jj2376","files":21,"time":1331146435,"description":"Criminal Minds Complete Season 3 \n\n350MB each episode average\n\nAvi, no recode.","torrent":{"xt":"urn:btih:59defbfb83dec5b13430fe391cf6d85781cff939","amp;dn":"Criminal+Minds+Complete+Season+3+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"59defbfb83dec5b13430fe391cf6d85781cff939","infoHashBuffer":{"type":"Buffer","data":[89,222,251,251,131,222,197,177,52,48,254,57,28,246,216,87,129,207,249,57]},"announce":[],"urlList":[]}}
+{
+  "title": "Criminal Minds Complete Season 3",
+  "uid": 7084763,
+  "size": 7343843889,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:59defbfb83dec5b13430fe391cf6d85781cff939&amp;dn=Criminal+Minds+Complete+Season+3+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 45,
+  "uploader": "jj2376",
+  "files": 21,
+  "time": 1331146435,
+  "description": "Criminal Minds Complete Season 3 \n\n350MB each episode average\n\nAvi, no recode.",
+  "parsed": {
+    "xt": "urn:btih:59defbfb83dec5b13430fe391cf6d85781cff939",
+    "dn": "Criminal Minds Complete Season 3 ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "59defbfb83dec5b13430fe391cf6d85781cff939",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        89,
+        222,
+        251,
+        251,
+        131,
+        222,
+        197,
+        177,
+        52,
+        48,
+        254,
+        57,
+        28,
+        246,
+        216,
+        87,
+        129,
+        207,
+        249,
+        57
+      ]
+    },
+    "name": "Criminal Minds Complete Season 3 ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 116,
+  "peers": 52,
+  "last_updated": "2016-12-25T01:56:16.534Z"
+}

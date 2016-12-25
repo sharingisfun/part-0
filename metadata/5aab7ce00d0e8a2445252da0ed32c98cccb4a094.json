@@ -1,1 +1,61 @@
-{"title":"Resident Evil 4.[Game Pc].[PT-BR].[Loesch.Tr]","uid":7225701,"size":3327734691,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:5aab7ce00d0e8a2445252da0ed32c98cccb4a094&amp;dn=Resident+Evil+4.%5BGame+Pc%5D.%5BPT-BR%5D.%5BLoesch.Tr%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":18,"uploader":"Loesch.Tr","files":5,"time":1335664746,"description":"O jogo comeÃƒÂ§a mostrando um pequeno resumo sobre os acontecimentos de antigos jogos da sÃƒÂ©rie, e uma novidade: ÃƒÂ© anunciada a falÃƒÂªncia da Umbrella Corporation; devido as aÃƒÂ§ÃƒÂµes de Chris Redfield, Jill Valentine e Albert Wesker, fato relatado em Umbrella Chronicles. O protagonista de RE4 ÃƒÂ© Leon S. Kennedy, sobrevivente de Raccoon City, que agora trabalha como agente secreto para o governo americano. Leon deve investigar a suspeita de Ashley Graham, a filha do presidente, que foi sequestrada e aparentemente estar numa remota vila na Espanha. Leon ÃƒÂ© auxiliado por Ingrid Hunnigan, que lhe dÃƒÂ¡ informaÃƒÂ§ÃƒÂµes sobre o terreno. ","torrent":{"xt":"urn:btih:5aab7ce00d0e8a2445252da0ed32c98cccb4a094","amp;dn":"Resident+Evil+4.%5BGame+Pc%5D.%5BPT-BR%5D.%5BLoesch.Tr%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5aab7ce00d0e8a2445252da0ed32c98cccb4a094","infoHashBuffer":{"type":"Buffer","data":[90,171,124,224,13,14,138,36,69,37,45,160,237,50,201,140,204,180,160,148]},"announce":[],"urlList":[]}}
+{
+  "title": "Resident Evil 4.[Game Pc].[PT-BR].[Loesch.Tr]",
+  "uid": 7225701,
+  "size": 3327734691,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:5aab7ce00d0e8a2445252da0ed32c98cccb4a094&amp;dn=Resident+Evil+4.%5BGame+Pc%5D.%5BPT-BR%5D.%5BLoesch.Tr%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 18,
+  "uploader": "Loesch.Tr",
+  "files": 5,
+  "time": 1335664746,
+  "description": "O jogo comeÃƒÂ§a mostrando um pequeno resumo sobre os acontecimentos de antigos jogos da sÃƒÂ©rie, e uma novidade: ÃƒÂ© anunciada a falÃƒÂªncia da Umbrella Corporation; devido as aÃƒÂ§ÃƒÂµes de Chris Redfield, Jill Valentine e Albert Wesker, fato relatado em Umbrella Chronicles. O protagonista de RE4 ÃƒÂ© Leon S. Kennedy, sobrevivente de Raccoon City, que agora trabalha como agente secreto para o governo americano. Leon deve investigar a suspeita de Ashley Graham, a filha do presidente, que foi sequestrada e aparentemente estar numa remota vila na Espanha. Leon ÃƒÂ© auxiliado por Ingrid Hunnigan, que lhe dÃƒÂ¡ informaÃƒÂ§ÃƒÂµes sobre o terreno. ",
+  "parsed": {
+    "xt": "urn:btih:5aab7ce00d0e8a2445252da0ed32c98cccb4a094",
+    "dn": "Resident Evil 4.[Game Pc].[PT-BR].[Loesch.Tr]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5aab7ce00d0e8a2445252da0ed32c98cccb4a094",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        90,
+        171,
+        124,
+        224,
+        13,
+        14,
+        138,
+        36,
+        69,
+        37,
+        45,
+        160,
+        237,
+        50,
+        201,
+        140,
+        204,
+        180,
+        160,
+        148
+      ]
+    },
+    "name": "Resident Evil 4.[Game Pc].[PT-BR].[Loesch.Tr]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 34,
+  "last_updated": "2016-12-25T02:01:23.568Z"
+}

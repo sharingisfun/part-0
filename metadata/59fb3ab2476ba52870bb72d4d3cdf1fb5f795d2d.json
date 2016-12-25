@@ -1,1 +1,61 @@
-{"title":"Jessie Ware - Tough Love (Deluxe Version) {MP3-2014}","uid":11202031,"size":140720897,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:59fb3ab2476ba52870bb72d4d3cdf1fb5f795d2d&amp;dn=Jessie+Ware+-+Tough+Love+%28Deluxe+Version%29+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":108,"leechers":8,"uploader":"simpsonrony","files":-1,"time":1413182384,"description":"Source: https://itunes.apple.com/ru/album/tough-love-deluxe-version/id902739216\n\nArtist: Jessie Ware\n\nAlbum: Tough Love (Deluxe Version)\n\nGenre: POP\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\n\nTracklist:\n**********\n\n01 Tough Love\n02 You &amp; I (Forever)\n03 Cruel\n04 Say You Love Me\n05 Sweetest Song\n06 Kind of...Sometimes...Maybe\n07 Want Your Feeling\n08 Pieces\n09 Keep On Lying\n10 Champagne Kisses\n11 Desire\n12 All On You\n13 Share It All\n14 The Way We Are\n15 Midnight Caller","torrent":{"xt":"urn:btih:59fb3ab2476ba52870bb72d4d3cdf1fb5f795d2d","amp;dn":"Jessie+Ware+-+Tough+Love+%28Deluxe+Version%29+%7BMP3-2014%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"59fb3ab2476ba52870bb72d4d3cdf1fb5f795d2d","infoHashBuffer":{"type":"Buffer","data":[89,251,58,178,71,107,165,40,112,187,114,212,211,205,241,251,95,121,93,45]},"announce":[],"urlList":[]}}
+{
+  "title": "Jessie Ware - Tough Love (Deluxe Version) {MP3-2014}",
+  "uid": 11202031,
+  "size": 140720897,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:59fb3ab2476ba52870bb72d4d3cdf1fb5f795d2d&amp;dn=Jessie+Ware+-+Tough+Love+%28Deluxe+Version%29+%7BMP3-2014%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 108,
+  "leechers": 8,
+  "uploader": "simpsonrony",
+  "files": -1,
+  "time": 1413182384,
+  "description": "Source: https://itunes.apple.com/ru/album/tough-love-deluxe-version/id902739216\n\nArtist: Jessie Ware\n\nAlbum: Tough Love (Deluxe Version)\n\nGenre: POP\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\n\nTracklist:\n**********\n\n01 Tough Love\n02 You &amp; I (Forever)\n03 Cruel\n04 Say You Love Me\n05 Sweetest Song\n06 Kind of...Sometimes...Maybe\n07 Want Your Feeling\n08 Pieces\n09 Keep On Lying\n10 Champagne Kisses\n11 Desire\n12 All On You\n13 Share It All\n14 The Way We Are\n15 Midnight Caller",
+  "parsed": {
+    "xt": "urn:btih:59fb3ab2476ba52870bb72d4d3cdf1fb5f795d2d",
+    "dn": "Jessie Ware - Tough Love (Deluxe Version) {MP3-2014}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "59fb3ab2476ba52870bb72d4d3cdf1fb5f795d2d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        89,
+        251,
+        58,
+        178,
+        71,
+        107,
+        165,
+        40,
+        112,
+        187,
+        114,
+        212,
+        211,
+        205,
+        241,
+        251,
+        95,
+        121,
+        93,
+        45
+      ]
+    },
+    "name": "Jessie Ware - Tough Love (Deluxe Version) {MP3-2014}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 116,
+  "peers": 27,
+  "last_updated": "2016-12-25T01:57:18.742Z"
+}

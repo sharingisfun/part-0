@@ -1,1 +1,61 @@
-{"title":"Aquarius.US.S01E08.WEBRip.x264-WNN[ettv]","uid":11974196,"size":235600672,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:5a8bbe9c3e4da63a66c41865acbabbcfd9e4d4a1&amp;dn=Aquarius.US.S01E08.WEBRip.x264-WNN%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":0,"uploader":"ettv","files":3,"time":1432970207,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW","torrent":{"xt":"urn:btih:5a8bbe9c3e4da63a66c41865acbabbcfd9e4d4a1","amp;dn":"Aquarius.US.S01E08.WEBRip.x264-WNN%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5a8bbe9c3e4da63a66c41865acbabbcfd9e4d4a1","infoHashBuffer":{"type":"Buffer","data":[90,139,190,156,62,77,166,58,102,196,24,101,172,186,187,207,217,228,212,161]},"announce":[],"urlList":[]}}
+{
+  "title": "Aquarius.US.S01E08.WEBRip.x264-WNN[ettv]",
+  "uid": 11974196,
+  "size": 235600672,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:5a8bbe9c3e4da63a66c41865acbabbcfd9e4d4a1&amp;dn=Aquarius.US.S01E08.WEBRip.x264-WNN%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 0,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1432970207,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW",
+  "parsed": {
+    "xt": "urn:btih:5a8bbe9c3e4da63a66c41865acbabbcfd9e4d4a1",
+    "dn": "Aquarius.US.S01E08.WEBRip.x264-WNN[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5a8bbe9c3e4da63a66c41865acbabbcfd9e4d4a1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        90,
+        139,
+        190,
+        156,
+        62,
+        77,
+        166,
+        58,
+        102,
+        196,
+        24,
+        101,
+        172,
+        186,
+        187,
+        207,
+        217,
+        228,
+        212,
+        161
+      ]
+    },
+    "name": "Aquarius.US.S01E08.WEBRip.x264-WNN[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 6,
+  "last_updated": "2016-12-25T02:00:55.468Z"
+}

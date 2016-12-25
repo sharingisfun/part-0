@@ -1,1 +1,61 @@
-{"title":"Origami Japanese Paper-folding","uid":10748379,"size":42874976,"categoryP":"other","categoryS":"e_books","magnet":"?xt=urn:btih:5a2d3e6555236415381c03f3876769a69b8499d7&amp;dn=Origami+Japanese+Paper-folding&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":1,"uploader":"ferdgust","files":4,"time":1407804121,"description":"0804833087 ","torrent":{"xt":"urn:btih:5a2d3e6555236415381c03f3876769a69b8499d7","amp;dn":"Origami+Japanese+Paper-folding","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5a2d3e6555236415381c03f3876769a69b8499d7","infoHashBuffer":{"type":"Buffer","data":[90,45,62,101,85,35,100,21,56,28,3,243,135,103,105,166,155,132,153,215]},"announce":[],"urlList":[]}}
+{
+  "title": "Origami Japanese Paper-folding",
+  "uid": 10748379,
+  "size": 42874976,
+  "categoryP": "other",
+  "categoryS": "e_books",
+  "magnet": "?xt=urn:btih:5a2d3e6555236415381c03f3876769a69b8499d7&amp;dn=Origami+Japanese+Paper-folding&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 1,
+  "uploader": "ferdgust",
+  "files": 4,
+  "time": 1407804121,
+  "description": "0804833087 ",
+  "parsed": {
+    "xt": "urn:btih:5a2d3e6555236415381c03f3876769a69b8499d7",
+    "dn": "Origami Japanese Paper-folding",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5a2d3e6555236415381c03f3876769a69b8499d7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        90,
+        45,
+        62,
+        101,
+        85,
+        35,
+        100,
+        21,
+        56,
+        28,
+        3,
+        243,
+        135,
+        103,
+        105,
+        166,
+        155,
+        132,
+        153,
+        215
+      ]
+    },
+    "name": "Origami Japanese Paper-folding",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 9,
+  "last_updated": "2016-12-25T01:58:31.019Z"
+}

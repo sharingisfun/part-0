@@ -1,1 +1,61 @@
-{"title":"Microsoft Office 2013 x64 Activated Silent Installer Inc Activat","uid":11575800,"size":799141365,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:5a7e0694ae2d66934fce05351d05135f345b047e&amp;dn=Microsoft+Office+2013+x64+Activated+Silent+Installer+Inc+Activat&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":282,"leechers":17,"uploader":"OnlyByTheRain","files":-1,"time":1417072889,"description":"Microsoft Office 2013 x64 Activated Silent Installer Inc Activator [TeamOs]\n\n &lt;a href=&quot;\nhttp://mtitechs.com/wp-content/uploads/2014/05/microsoft-office-2013.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://mtitechs.com/wp-content/uploads/2014/05/microsoft-office-2013.jpg&lt;/a&gt;\n\n\nFile Size: 712MB\n\n &lt;a href=&quot;\nhttp://lookpic.com/O/i2/1882/1SHwYDJC.png&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://lookpic.com/O/i2/1882/1SHwYDJC.png&lt;/a&gt;\n\nActivator Info\n\nOverview:\nThis is a set of tools and functions for managing licensing, deploying, and activating Microsoft Office and Windows. All output from these functions is displayed in the Information Console. All functions are run in the background and the GUI is disabled to prevent running multiple functions, as they could conflict or cause damage if run concurrently. The Microsoft Office Setup Customization Functions (Customize Setup Tab), AutoKMS Uninstaller (if AutoKMS is installed), AutoRearm Uninstaller (if AutoRearm is installed), Office Uninstaller and Product Key Checker work even if Microsoft Office or Windows is not installed/supported.\n\n________________________________________________________________________________________\n\n\nRequirements:\n- Microsoft .NET Framework 4.0 or 4.5 (Not 3.5).\n- Microsoft Office 2010 or Later for Office Toolkit Support.\n- Windows Vista or Later for Windows Tookit Support.\n\nCredits:\n- Bosh for the original GUI Design and co-development of Office Toolkit.\n- ZWT for the original KMSEmulator.\n- letsgoawayhell, Phazor, nosferati87, and mikmik38 for KMSEmulator fixes and improvements.\n- MasterDisaster, FreeStyler, Daz, nononsense, and janek2012 for work on Key Checker.\n\nNote: Now fully supports KMS activation for Windows 8/8.1 and Server 2012/2012 R2 and Office 2013.\n\nEXE MD5: BA07172487AAED1C8A8C9A807F96F112\nEXE SHA-1: 1E6465F8EBA701B62FDB0D8F1E6BD62F988F7835\n________________________________________________________________________________________\n\n\nMicrosoft Toolkit Changelog:\n\n2.5.2:\n- Added Label to show Microsoft Office Setup Version and Architecture on Customize Setup tab.\n- Added more checks to Add Languages and do better filtering of Language Packs.\n- AutoKMS no longer attempts activation/displays error when there are no KMS keys installed.\n- AutoKMS skips running if a BSOD occurred within 30 minutes of the last Scheduled Task run.\n- Fixed Customize Setup failing if file extensions were not lowercase.\n- Scheduled Tasks now retain their last run date.\n- Updated TAP Driver.\n\n2.5.1:\n- Added Channel Switching of Microsoft Office 2013 SP1 pure edition (SP1 not in Updates folder).\n- Allow AutoKMS to use EZ-Activator routines using command-line parameters (AutoKMS.exe /EZActivator).\n- Fixed Show CMID not working due to being located in 1 of 2 different WMI SPP providers depending on OS.\n- Fixed Show Unlicensed display never showing if you have no keys installed.\n- Improved Channel Switcher unsupported detection.\n\n\n2.5 Stable:\n- Added ability to specify KMS Hardware ID.\n- Added KMSPID option to reuse the last KMSPID from KMS Activation.\n- AutoKMS gives messages about what type of KMS Server it is connecting to.\n- Can install AutoKMS alongside KMS Server Service to be able to use it for LocalHost KMS Activation.\n- Disabled DefaultKMSPID as a valid option for KMS Server Service (please change it to RandomKMSPID if you have it set to DefaultKMSPID).\n- Fixed KMS Server Service Installer arithmetic overflow by changing the way Service Handles were compared to NULL.\n- If KMS activation fails twice with DLL Injection, kill KMS Connection Broker with each further attempt.\n- KMSPID options (not for KMS Server Service) set to ReuseKMSPID by default.\n- Use DLL Injection is now the default LocalHost Bypass method.[/center]","torrent":{"xt":"urn:btih:5a7e0694ae2d66934fce05351d05135f345b047e","amp;dn":"Microsoft+Office+2013+x64+Activated+Silent+Installer+Inc+Activat","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5a7e0694ae2d66934fce05351d05135f345b047e","infoHashBuffer":{"type":"Buffer","data":[90,126,6,148,174,45,102,147,79,206,5,53,29,5,19,95,52,91,4,126]},"announce":[],"urlList":[]}}
+{
+  "title": "Microsoft Office 2013 x64 Activated Silent Installer Inc Activat",
+  "uid": 11575800,
+  "size": 799141365,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:5a7e0694ae2d66934fce05351d05135f345b047e&amp;dn=Microsoft+Office+2013+x64+Activated+Silent+Installer+Inc+Activat&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 282,
+  "leechers": 17,
+  "uploader": "OnlyByTheRain",
+  "files": -1,
+  "time": 1417072889,
+  "description": "Microsoft Office 2013 x64 Activated Silent Installer Inc Activator [TeamOs]\n\n &lt;a href=&quot;\nhttp://mtitechs.com/wp-content/uploads/2014/05/microsoft-office-2013.jpg&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://mtitechs.com/wp-content/uploads/2014/05/microsoft-office-2013.jpg&lt;/a&gt;\n\n\nFile Size: 712MB\n\n &lt;a href=&quot;\nhttp://lookpic.com/O/i2/1882/1SHwYDJC.png&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://lookpic.com/O/i2/1882/1SHwYDJC.png&lt;/a&gt;\n\nActivator Info\n\nOverview:\nThis is a set of tools and functions for managing licensing, deploying, and activating Microsoft Office and Windows. All output from these functions is displayed in the Information Console. All functions are run in the background and the GUI is disabled to prevent running multiple functions, as they could conflict or cause damage if run concurrently. The Microsoft Office Setup Customization Functions (Customize Setup Tab), AutoKMS Uninstaller (if AutoKMS is installed), AutoRearm Uninstaller (if AutoRearm is installed), Office Uninstaller and Product Key Checker work even if Microsoft Office or Windows is not installed/supported.\n\n________________________________________________________________________________________\n\n\nRequirements:\n- Microsoft .NET Framework 4.0 or 4.5 (Not 3.5).\n- Microsoft Office 2010 or Later for Office Toolkit Support.\n- Windows Vista or Later for Windows Tookit Support.\n\nCredits:\n- Bosh for the original GUI Design and co-development of Office Toolkit.\n- ZWT for the original KMSEmulator.\n- letsgoawayhell, Phazor, nosferati87, and mikmik38 for KMSEmulator fixes and improvements.\n- MasterDisaster, FreeStyler, Daz, nononsense, and janek2012 for work on Key Checker.\n\nNote: Now fully supports KMS activation for Windows 8/8.1 and Server 2012/2012 R2 and Office 2013.\n\nEXE MD5: BA07172487AAED1C8A8C9A807F96F112\nEXE SHA-1: 1E6465F8EBA701B62FDB0D8F1E6BD62F988F7835\n________________________________________________________________________________________\n\n\nMicrosoft Toolkit Changelog:\n\n2.5.2:\n- Added Label to show Microsoft Office Setup Version and Architecture on Customize Setup tab.\n- Added more checks to Add Languages and do better filtering of Language Packs.\n- AutoKMS no longer attempts activation/displays error when there are no KMS keys installed.\n- AutoKMS skips running if a BSOD occurred within 30 minutes of the last Scheduled Task run.\n- Fixed Customize Setup failing if file extensions were not lowercase.\n- Scheduled Tasks now retain their last run date.\n- Updated TAP Driver.\n\n2.5.1:\n- Added Channel Switching of Microsoft Office 2013 SP1 pure edition (SP1 not in Updates folder).\n- Allow AutoKMS to use EZ-Activator routines using command-line parameters (AutoKMS.exe /EZActivator).\n- Fixed Show CMID not working due to being located in 1 of 2 different WMI SPP providers depending on OS.\n- Fixed Show Unlicensed display never showing if you have no keys installed.\n- Improved Channel Switcher unsupported detection.\n\n\n2.5 Stable:\n- Added ability to specify KMS Hardware ID.\n- Added KMSPID option to reuse the last KMSPID from KMS Activation.\n- AutoKMS gives messages about what type of KMS Server it is connecting to.\n- Can install AutoKMS alongside KMS Server Service to be able to use it for LocalHost KMS Activation.\n- Disabled DefaultKMSPID as a valid option for KMS Server Service (please change it to RandomKMSPID if you have it set to DefaultKMSPID).\n- Fixed KMS Server Service Installer arithmetic overflow by changing the way Service Handles were compared to NULL.\n- If KMS activation fails twice with DLL Injection, kill KMS Connection Broker with each further attempt.\n- KMSPID options (not for KMS Server Service) set to ReuseKMSPID by default.\n- Use DLL Injection is now the default LocalHost Bypass method.[/center]",
+  "parsed": {
+    "xt": "urn:btih:5a7e0694ae2d66934fce05351d05135f345b047e",
+    "dn": "Microsoft Office 2013 x64 Activated Silent Installer Inc Activat",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5a7e0694ae2d66934fce05351d05135f345b047e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        90,
+        126,
+        6,
+        148,
+        174,
+        45,
+        102,
+        147,
+        79,
+        206,
+        5,
+        53,
+        29,
+        5,
+        19,
+        95,
+        52,
+        91,
+        4,
+        126
+      ]
+    },
+    "name": "Microsoft Office 2013 x64 Activated Silent Installer Inc Activat",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 299,
+  "peers": 29,
+  "last_updated": "2016-12-25T02:00:31.381Z"
+}

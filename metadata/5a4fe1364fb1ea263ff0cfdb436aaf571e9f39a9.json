@@ -1,1 +1,61 @@
-{"title":"Format Factory","uid":7501894,"size":43858582,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:5a4fe1364fb1ea263ff0cfdb436aaf571e9f39a9&amp;dn=Format+Factory&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":132,"leechers":1,"uploader":"BigNoise","files":1,"time":1344045833,"description":"bom","torrent":{"xt":"urn:btih:5a4fe1364fb1ea263ff0cfdb436aaf571e9f39a9","amp;dn":"Format+Factory","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"5a4fe1364fb1ea263ff0cfdb436aaf571e9f39a9","infoHashBuffer":{"type":"Buffer","data":[90,79,225,54,79,177,234,38,63,240,207,219,67,106,175,87,30,159,57,169]},"announce":[],"urlList":[]}}
+{
+  "title": "Format Factory",
+  "uid": 7501894,
+  "size": 43858582,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:5a4fe1364fb1ea263ff0cfdb436aaf571e9f39a9&amp;dn=Format+Factory&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 132,
+  "leechers": 1,
+  "uploader": "BigNoise",
+  "files": 1,
+  "time": 1344045833,
+  "description": "bom",
+  "parsed": {
+    "xt": "urn:btih:5a4fe1364fb1ea263ff0cfdb436aaf571e9f39a9",
+    "dn": "Format Factory",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "5a4fe1364fb1ea263ff0cfdb436aaf571e9f39a9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        90,
+        79,
+        225,
+        54,
+        79,
+        177,
+        234,
+        38,
+        63,
+        240,
+        207,
+        219,
+        67,
+        106,
+        175,
+        87,
+        30,
+        159,
+        57,
+        169
+      ]
+    },
+    "name": "Format Factory",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 133,
+  "peers": 44,
+  "last_updated": "2016-12-25T01:59:29.186Z"
+}
