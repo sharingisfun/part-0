@@ -1,1 +1,61 @@
-{"title":"Transformers The Game Full","uid":7036380,"size":1680992215,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:c2032019e1e6209f456cc1f96d4c3af64e88abee&amp;dn=Transformers+The+Game+Full&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":4,"uploader":"gergonorbi","files":519,"time":1329397293,"description":"Transformers The game full version. Download and Seed!","torrent":{"xt":"urn:btih:c2032019e1e6209f456cc1f96d4c3af64e88abee","amp;dn":"Transformers+The+Game+Full","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c2032019e1e6209f456cc1f96d4c3af64e88abee","infoHashBuffer":{"type":"Buffer","data":[194,3,32,25,225,230,32,159,69,108,193,249,109,76,58,246,78,136,171,238]},"announce":[],"urlList":[]}}
+{
+  "title": "Transformers The Game Full",
+  "uid": 7036380,
+  "size": 1680992215,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:c2032019e1e6209f456cc1f96d4c3af64e88abee&amp;dn=Transformers+The+Game+Full&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 4,
+  "uploader": "gergonorbi",
+  "files": 519,
+  "time": 1329397293,
+  "description": "Transformers The game full version. Download and Seed!",
+  "parsed": {
+    "xt": "urn:btih:c2032019e1e6209f456cc1f96d4c3af64e88abee",
+    "dn": "Transformers The Game Full",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c2032019e1e6209f456cc1f96d4c3af64e88abee",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        194,
+        3,
+        32,
+        25,
+        225,
+        230,
+        32,
+        159,
+        69,
+        108,
+        193,
+        249,
+        109,
+        76,
+        58,
+        246,
+        78,
+        136,
+        171,
+        238
+      ]
+    },
+    "name": "Transformers The Game Full",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 50,
+  "last_updated": "2016-12-25T13:01:36.523Z"
+}

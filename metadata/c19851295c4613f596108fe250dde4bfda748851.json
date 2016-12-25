@@ -1,1 +1,61 @@
-{"title":"Greenday - Dookie","uid":3936760,"size":95444981,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:c19851295c4613f596108fe250dde4bfda748851&amp;dn=Greenday+-+Dookie&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":4,"uploader":"rage!","files":17,"time":1197849349,"description":"Audio CD (February 1, 1994) \nOriginal Release Date: February 1, 1994 \nNumber of Discs: 1 \nLabel: Reprise / Wea \nProducer: Green Day, Rob Cavallo \nGenre: Punk rock, pop punk \nLength: 39:46 \nBit Rate: 320kb/s MP3\nSize:\n17 Files\n\n\nTrack List:\n01. Burnout ? 2:07 \n02. Having a Blast ? 2:44 \n03. Chump ? 2:54 \n04. Longview ? 3:59 \n05. Welcome to Paradise ? 3:44 \n06. Pulling Teeth ? 2:30 \n07. Basket Case ? 3:03 \n08. She ? 2:14 \n09. Sassafras Roots ? 2:37 \n10. When I Come Around ? 2:58 \n11. Coming Clean ? 1:34 \n12. Emenius Sleepus ? 1:43 \n13. In the End ? 1:46 \n14. F.O.D./All by Myself ? 5:46 ","torrent":{"xt":"urn:btih:c19851295c4613f596108fe250dde4bfda748851","amp;dn":"Greenday+-+Dookie","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c19851295c4613f596108fe250dde4bfda748851","infoHashBuffer":{"type":"Buffer","data":[193,152,81,41,92,70,19,245,150,16,143,226,80,221,228,191,218,116,136,81]},"announce":[],"urlList":[]}}
+{
+  "title": "Greenday - Dookie",
+  "uid": 3936760,
+  "size": 95444981,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:c19851295c4613f596108fe250dde4bfda748851&amp;dn=Greenday+-+Dookie&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 4,
+  "uploader": "rage!",
+  "files": 17,
+  "time": 1197849349,
+  "description": "Audio CD (February 1, 1994) \nOriginal Release Date: February 1, 1994 \nNumber of Discs: 1 \nLabel: Reprise / Wea \nProducer: Green Day, Rob Cavallo \nGenre: Punk rock, pop punk \nLength: 39:46 \nBit Rate: 320kb/s MP3\nSize:\n17 Files\n\n\nTrack List:\n01. Burnout ? 2:07 \n02. Having a Blast ? 2:44 \n03. Chump ? 2:54 \n04. Longview ? 3:59 \n05. Welcome to Paradise ? 3:44 \n06. Pulling Teeth ? 2:30 \n07. Basket Case ? 3:03 \n08. She ? 2:14 \n09. Sassafras Roots ? 2:37 \n10. When I Come Around ? 2:58 \n11. Coming Clean ? 1:34 \n12. Emenius Sleepus ? 1:43 \n13. In the End ? 1:46 \n14. F.O.D./All by Myself ? 5:46 ",
+  "parsed": {
+    "xt": "urn:btih:c19851295c4613f596108fe250dde4bfda748851",
+    "dn": "Greenday - Dookie",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c19851295c4613f596108fe250dde4bfda748851",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        193,
+        152,
+        81,
+        41,
+        92,
+        70,
+        19,
+        245,
+        150,
+        16,
+        143,
+        226,
+        80,
+        221,
+        228,
+        191,
+        218,
+        116,
+        136,
+        81
+      ]
+    },
+    "name": "Greenday - Dookie",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 17,
+  "last_updated": "2016-12-25T12:59:08.087Z"
+}

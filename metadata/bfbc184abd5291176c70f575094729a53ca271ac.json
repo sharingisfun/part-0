@@ -1,1 +1,63 @@
-{"title":"Terraria v1.3.2.1","uid":15379444,"size":96112851,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:bfbc184abd5291176c70f575094729a53ca271ac&amp;dn=Terraria+v1.3.2.1&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":126,"leechers":0,"uploader":"dauphong","files":1,"time":1469218145,"description":"Dig, Fight, Explore, Build: The very world is at your fingertips as you fight for survival, fortune, and glory. Will you delve deep into cavernous expanses in search of treasure and raw materials with which to craft ever-evolving gear, machinery, and aesthetics? Perhaps you will choose instead to seek out ever-greater foes to test your mettle in combat? Maybe you will decide to construct your own city to house the host of mysterious allies you may encounter along your travels?\r\n\r\nIn the World of Terraria, the choice is yours!\r\n\r\nBlending elements of classic action games with the freedom of sandbox-style creativity, Terraria is a unique gaming experience where both the journey and the destination are completely in the playerâ€™s control. The Terraria adventure is truly as unique as the players themselves!\r\n\r\nAre you up for the monumental task of exploring, creating, and defending a world of your own?\r\n\r\nKey features:\r\n\r\n    Sandbox Play\r\n    Randomly generated worlds\r\n    Free Content Updates","torrent":{"xt":"urn:btih:bfbc184abd5291176c70f575094729a53ca271ac","amp;dn":"Terraria+v1.3.2.1","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bfbc184abd5291176c70f575094729a53ca271ac","infoHashBuffer":{"type":"Buffer","data":[191,188,24,74,189,82,145,23,108,112,245,117,9,71,41,165,60,162,113,172]},"announce":[],"urlList":[]}}
+{
+  "title": "Terraria v1.3.2.1",
+  "uid": 15379444,
+  "size": 96112851,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:bfbc184abd5291176c70f575094729a53ca271ac&amp;dn=Terraria+v1.3.2.1&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 126,
+  "leechers": 0,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1469218145,
+  "description": "Dig, Fight, Explore, Build: The very world is at your fingertips as you fight for survival, fortune, and glory. Will you delve deep into cavernous expanses in search of treasure and raw materials with which to craft ever-evolving gear, machinery, and aesthetics? Perhaps you will choose instead to seek out ever-greater foes to test your mettle in combat? Maybe you will decide to construct your own city to house the host of mysterious allies you may encounter along your travels?\r\n\r\nIn the World of Terraria, the choice is yours!\r\n\r\nBlending elements of classic action games with the freedom of sandbox-style creativity, Terraria is a unique gaming experience where both the journey and the destination are completely in the playerâ€™s control. The Terraria adventure is truly as unique as the players themselves!\r\n\r\nAre you up for the monumental task of exploring, creating, and defending a world of your own?\r\n\r\nKey features:\r\n\r\n    Sandbox Play\r\n    Randomly generated worlds\r\n    Free Content Updates",
+  "parsed": {
+    "xt": "urn:btih:bfbc184abd5291176c70f575094729a53ca271ac",
+    "dn": "Terraria v1.3.2.1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "bfbc184abd5291176c70f575094729a53ca271ac",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        191,
+        188,
+        24,
+        74,
+        189,
+        82,
+        145,
+        23,
+        108,
+        112,
+        245,
+        117,
+        9,
+        71,
+        41,
+        165,
+        60,
+        162,
+        113,
+        172
+      ]
+    },
+    "name": "Terraria v1.3.2.1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 126,
+  "peers": 50,
+  "last_updated": "2016-12-25T12:47:26.042Z"
+}

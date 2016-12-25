@@ -1,1 +1,61 @@
-{"title":"Die Hard 1, 2, 3 &amp; 4 DVD Box Set DVDRip","uid":6191950,"size":3157196383,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:c0b85bde9dde3b56c78ff29f00bae24b1493abce&amp;dn=Die+Hard+1%2C+2%2C+3+%26+4+DVD+Box+Set+DVDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":18,"uploader":"TSV","files":-1,"time":1298322757,"description":"The Die Hard series is a series of four action films beginning with Die Hard in 1988. All four films are centered around the character of John McClane (portrayed by Bruce Willis), a New York City police detective who finds himself fighting a group of terrorists in each episode. There are also several video games based on the films, as well as a comic book series released in August 2009.","torrent":{"xt":"urn:btih:c0b85bde9dde3b56c78ff29f00bae24b1493abce","amp;dn":"Die+Hard+1%2C+2%2C+3+%26+4+DVD+Box+Set+DVDRip","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c0b85bde9dde3b56c78ff29f00bae24b1493abce","infoHashBuffer":{"type":"Buffer","data":[192,184,91,222,157,222,59,86,199,143,242,159,0,186,226,75,20,147,171,206]},"announce":[],"urlList":[]}}
+{
+  "title": "Die Hard 1, 2, 3 &amp; 4 DVD Box Set DVDRip",
+  "uid": 6191950,
+  "size": 3157196383,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:c0b85bde9dde3b56c78ff29f00bae24b1493abce&amp;dn=Die+Hard+1%2C+2%2C+3+%26+4+DVD+Box+Set+DVDRip&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 18,
+  "uploader": "TSV",
+  "files": -1,
+  "time": 1298322757,
+  "description": "The Die Hard series is a series of four action films beginning with Die Hard in 1988. All four films are centered around the character of John McClane (portrayed by Bruce Willis), a New York City police detective who finds himself fighting a group of terrorists in each episode. There are also several video games based on the films, as well as a comic book series released in August 2009.",
+  "parsed": {
+    "xt": "urn:btih:c0b85bde9dde3b56c78ff29f00bae24b1493abce",
+    "dn": "Die Hard 1, 2, 3 & 4 DVD Box Set DVDRip",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c0b85bde9dde3b56c78ff29f00bae24b1493abce",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        192,
+        184,
+        91,
+        222,
+        157,
+        222,
+        59,
+        86,
+        199,
+        143,
+        242,
+        159,
+        0,
+        186,
+        226,
+        75,
+        20,
+        147,
+        171,
+        206
+      ]
+    },
+    "name": "Die Hard 1, 2, 3 & 4 DVD Box Set DVDRip",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 30,
+  "last_updated": "2016-12-25T12:53:45.158Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Charlie Brown Jr. - Acustico MTV","uid":8890955,"size":101371594,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:c116dfb9da2f808976fe85aa8a12703564bd80bc&amp;dn=Charlie+Brown+Jr.+-+Acustico+MTV&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":56,"leechers":2,"uploader":"carineloi","files":20,"time":1378582245,"description":"todas as musicas do acÃƒÂºstico mtv","torrent":{"xt":"urn:btih:c116dfb9da2f808976fe85aa8a12703564bd80bc","amp;dn":"Charlie+Brown+Jr.+-+Acustico+MTV","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c116dfb9da2f808976fe85aa8a12703564bd80bc","infoHashBuffer":{"type":"Buffer","data":[193,22,223,185,218,47,128,137,118,254,133,170,138,18,112,53,100,189,128,188]},"announce":[],"urlList":[]}}
+{
+  "title": "Charlie Brown Jr. - Acustico MTV",
+  "uid": 8890955,
+  "size": 101371594,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:c116dfb9da2f808976fe85aa8a12703564bd80bc&amp;dn=Charlie+Brown+Jr.+-+Acustico+MTV&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 56,
+  "leechers": 2,
+  "uploader": "carineloi",
+  "files": 20,
+  "time": 1378582245,
+  "description": "todas as musicas do acÃƒÂºstico mtv",
+  "parsed": {
+    "xt": "urn:btih:c116dfb9da2f808976fe85aa8a12703564bd80bc",
+    "dn": "Charlie Brown Jr. - Acustico MTV",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c116dfb9da2f808976fe85aa8a12703564bd80bc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        193,
+        22,
+        223,
+        185,
+        218,
+        47,
+        128,
+        137,
+        118,
+        254,
+        133,
+        170,
+        138,
+        18,
+        112,
+        53,
+        100,
+        189,
+        128,
+        188
+      ]
+    },
+    "name": "Charlie Brown Jr. - Acustico MTV",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 41,
+  "last_updated": "2016-12-25T12:55:51.518Z"
+}

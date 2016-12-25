@@ -1,1 +1,61 @@
-{"title":"Avicii - Addicted To You (Avicii By Avicii)","uid":9769741,"size":13321923,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:c0752f64c01d4f93360e780f53dde9eff1bf5194&amp;dn=Avicii+-+Addicted+To+You+%28Avicii+By+Avicii%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":82,"leechers":0,"uploader":"pamabego","files":-1,"time":1394937304,"description":"Format                                   : MPEG Audio\nFile size                                : 12.7 MiB\nDuration                                 : 5mn 32s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 320 Kbps\nAlbum                                    : Addicted To You Remixes\nTrack name                               : Addicted To You (Avicii By Avicii)\nPerformer                                : Avicii\nGenre                                    : Progressive House\nRecorded date                            : 2014\nWriting library                          : LAME3.98.4\nCover                                    : Yes\nCover type                               : Cover (front)\nCover MIME                               : image/jpeg\nComment                                  : www.madnessbeat.com\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nDuration                                 : 5mn 32s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 12.7 MiB (100%)\nWriting library                          : LAME3.98.4\n\n","torrent":{"xt":"urn:btih:c0752f64c01d4f93360e780f53dde9eff1bf5194","amp;dn":"Avicii+-+Addicted+To+You+%28Avicii+By+Avicii%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c0752f64c01d4f93360e780f53dde9eff1bf5194","infoHashBuffer":{"type":"Buffer","data":[192,117,47,100,192,29,79,147,54,14,120,15,83,221,233,239,241,191,81,148]},"announce":[],"urlList":[]}}
+{
+  "title": "Avicii - Addicted To You (Avicii By Avicii)",
+  "uid": 9769741,
+  "size": 13321923,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:c0752f64c01d4f93360e780f53dde9eff1bf5194&amp;dn=Avicii+-+Addicted+To+You+%28Avicii+By+Avicii%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 82,
+  "leechers": 0,
+  "uploader": "pamabego",
+  "files": -1,
+  "time": 1394937304,
+  "description": "Format                                   : MPEG Audio\nFile size                                : 12.7 MiB\nDuration                                 : 5mn 32s\nOverall bit rate mode                    : Constant\nOverall bit rate                         : 320 Kbps\nAlbum                                    : Addicted To You Remixes\nTrack name                               : Addicted To You (Avicii By Avicii)\nPerformer                                : Avicii\nGenre                                    : Progressive House\nRecorded date                            : 2014\nWriting library                          : LAME3.98.4\nCover                                    : Yes\nCover type                               : Cover (front)\nCover MIME                               : image/jpeg\nComment                                  : www.madnessbeat.com\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nDuration                                 : 5mn 32s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 12.7 MiB (100%)\nWriting library                          : LAME3.98.4\n\n",
+  "parsed": {
+    "xt": "urn:btih:c0752f64c01d4f93360e780f53dde9eff1bf5194",
+    "dn": "Avicii - Addicted To You (Avicii By Avicii)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c0752f64c01d4f93360e780f53dde9eff1bf5194",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        192,
+        117,
+        47,
+        100,
+        192,
+        29,
+        79,
+        147,
+        54,
+        14,
+        120,
+        15,
+        83,
+        221,
+        233,
+        239,
+        241,
+        191,
+        81,
+        148
+      ]
+    },
+    "name": "Avicii - Addicted To You (Avicii By Avicii)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 82,
+  "peers": 21,
+  "last_updated": "2016-12-25T12:52:08.882Z"
+}

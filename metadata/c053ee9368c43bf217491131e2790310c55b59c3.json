@@ -1,1 +1,61 @@
-{"title":"Penny.Dreadful.S02E01.HDTV.x264-ASAP[ettv]","uid":11826065,"size":326542192,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:c053ee9368c43bf217491131e2790310c55b59c3&amp;dn=Penny.Dreadful.S02E01.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":921,"leechers":214,"uploader":"ettv","files":4,"time":1429496730,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:c053ee9368c43bf217491131e2790310c55b59c3","amp;dn":"Penny.Dreadful.S02E01.HDTV.x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c053ee9368c43bf217491131e2790310c55b59c3","infoHashBuffer":{"type":"Buffer","data":[192,83,238,147,104,196,59,242,23,73,17,49,226,121,3,16,197,91,89,195]},"announce":[],"urlList":[]}}
+{
+  "title": "Penny.Dreadful.S02E01.HDTV.x264-ASAP[ettv]",
+  "uid": 11826065,
+  "size": 326542192,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:c053ee9368c43bf217491131e2790310c55b59c3&amp;dn=Penny.Dreadful.S02E01.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 921,
+  "leechers": 214,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1429496730,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:c053ee9368c43bf217491131e2790310c55b59c3",
+    "dn": "Penny.Dreadful.S02E01.HDTV.x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c053ee9368c43bf217491131e2790310c55b59c3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        192,
+        83,
+        238,
+        147,
+        104,
+        196,
+        59,
+        242,
+        23,
+        73,
+        17,
+        49,
+        226,
+        121,
+        3,
+        16,
+        197,
+        91,
+        89,
+        195
+      ]
+    },
+    "name": "Penny.Dreadful.S02E01.HDTV.x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 1135,
+  "peers": 93,
+  "last_updated": "2016-12-25T12:51:14.707Z"
+}

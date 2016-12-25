@@ -1,1 +1,61 @@
-{"title":"A Day to Remember - 2010 - What Separates Me from You 320Kbps","uid":8900105,"size":89172942,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:bf870478c410910117c63f8f23ed9228b009b57c&amp;dn=A+Day+to+Remember+-+2010+-+What+Separates+Me+from+You+320Kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":7,"uploader":"RockersBR","files":13,"time":1378790840,"description":"RockersBR - www.rockersbr.com","torrent":{"xt":"urn:btih:bf870478c410910117c63f8f23ed9228b009b57c","amp;dn":"A+Day+to+Remember+-+2010+-+What+Separates+Me+from+You+320Kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"bf870478c410910117c63f8f23ed9228b009b57c","infoHashBuffer":{"type":"Buffer","data":[191,135,4,120,196,16,145,1,23,198,63,143,35,237,146,40,176,9,181,124]},"announce":[],"urlList":[]}}
+{
+  "title": "A Day to Remember - 2010 - What Separates Me from You 320Kbps",
+  "uid": 8900105,
+  "size": 89172942,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:bf870478c410910117c63f8f23ed9228b009b57c&amp;dn=A+Day+to+Remember+-+2010+-+What+Separates+Me+from+You+320Kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 7,
+  "uploader": "RockersBR",
+  "files": 13,
+  "time": 1378790840,
+  "description": "RockersBR - www.rockersbr.com",
+  "parsed": {
+    "xt": "urn:btih:bf870478c410910117c63f8f23ed9228b009b57c",
+    "dn": "A Day to Remember - 2010 - What Separates Me from You 320Kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "bf870478c410910117c63f8f23ed9228b009b57c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        191,
+        135,
+        4,
+        120,
+        196,
+        16,
+        145,
+        1,
+        23,
+        198,
+        63,
+        143,
+        35,
+        237,
+        146,
+        40,
+        176,
+        9,
+        181,
+        124
+      ]
+    },
+    "name": "A Day to Remember - 2010 - What Separates Me from You 320Kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 49,
+  "last_updated": "2016-12-25T12:46:01.787Z"
+}

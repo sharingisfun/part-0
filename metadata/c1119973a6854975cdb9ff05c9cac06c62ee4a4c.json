@@ -1,1 +1,61 @@
-{"title":"Arrow S02E15 HDTV x264-LOL[ettv]","uid":9707920,"size":379726338,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:c1119973a6854975cdb9ff05c9cac06c62ee4a4c&amp;dn=Arrow+S02E15+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":82,"leechers":13,"uploader":"ettv","files":2,"time":1394074850,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:c1119973a6854975cdb9ff05c9cac06c62ee4a4c","amp;dn":"Arrow+S02E15+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"c1119973a6854975cdb9ff05c9cac06c62ee4a4c","infoHashBuffer":{"type":"Buffer","data":[193,17,153,115,166,133,73,117,205,185,255,5,201,202,192,108,98,238,74,76]},"announce":[],"urlList":[]}}
+{
+  "title": "Arrow S02E15 HDTV x264-LOL[ettv]",
+  "uid": 9707920,
+  "size": 379726338,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:c1119973a6854975cdb9ff05c9cac06c62ee4a4c&amp;dn=Arrow+S02E15+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 82,
+  "leechers": 13,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1394074850,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:c1119973a6854975cdb9ff05c9cac06c62ee4a4c",
+    "dn": "Arrow S02E15 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "c1119973a6854975cdb9ff05c9cac06c62ee4a4c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        193,
+        17,
+        153,
+        115,
+        166,
+        133,
+        73,
+        117,
+        205,
+        185,
+        255,
+        5,
+        201,
+        202,
+        192,
+        108,
+        98,
+        238,
+        74,
+        76
+      ]
+    },
+    "name": "Arrow S02E15 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 95,
+  "peers": 24,
+  "last_updated": "2016-12-25T12:55:45.501Z"
+}
