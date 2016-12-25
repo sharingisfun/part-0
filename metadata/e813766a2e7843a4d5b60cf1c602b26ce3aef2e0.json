@@ -1,1 +1,61 @@
-{"title":"Hozier - Take Me To Church","uid":11538186,"size":10774550,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e813766a2e7843a4d5b60cf1c602b26ce3aef2e0&amp;dn=Hozier+-+Take+Me+To+Church&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":236,"leechers":37,"uploader":"Arvind007","files":2,"time":1416645001,"description":"Hozier - Take Me To Church\n\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nMode extension                           : MS Stereo\nDuration                                 : 4mn 3s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 9.27 MiB (95%)","torrent":{"xt":"urn:btih:e813766a2e7843a4d5b60cf1c602b26ce3aef2e0","amp;dn":"Hozier+-+Take+Me+To+Church","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e813766a2e7843a4d5b60cf1c602b26ce3aef2e0","infoHashBuffer":{"type":"Buffer","data":[232,19,118,106,46,120,67,164,213,182,12,241,198,2,178,108,227,174,242,224]},"announce":[],"urlList":[]}}
+{
+  "title": "Hozier - Take Me To Church",
+  "uid": 11538186,
+  "size": 10774550,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e813766a2e7843a4d5b60cf1c602b26ce3aef2e0&amp;dn=Hozier+-+Take+Me+To+Church&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 236,
+  "leechers": 37,
+  "uploader": "Arvind007",
+  "files": 2,
+  "time": 1416645001,
+  "description": "Hozier - Take Me To Church\n\n\nAudio\nFormat                                   : MPEG Audio\nFormat version                           : Version 1\nFormat profile                           : Layer 3\nMode                                     : Joint stereo\nMode extension                           : MS Stereo\nDuration                                 : 4mn 3s\nBit rate mode                            : Constant\nBit rate                                 : 320 Kbps\nChannel(s)                               : 2 channels\nSampling rate                            : 44.1 KHz\nCompression mode                         : Lossy\nStream size                              : 9.27 MiB (95%)",
+  "parsed": {
+    "xt": "urn:btih:e813766a2e7843a4d5b60cf1c602b26ce3aef2e0",
+    "dn": "Hozier - Take Me To Church",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e813766a2e7843a4d5b60cf1c602b26ce3aef2e0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        232,
+        19,
+        118,
+        106,
+        46,
+        120,
+        67,
+        164,
+        213,
+        182,
+        12,
+        241,
+        198,
+        2,
+        178,
+        108,
+        227,
+        174,
+        242,
+        224
+      ]
+    },
+    "name": "Hozier - Take Me To Church",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 273,
+  "peers": 50,
+  "last_updated": "2016-12-25T16:54:51.660Z"
+}

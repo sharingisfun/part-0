@@ -1,1 +1,61 @@
-{"title":"Spore","uid":5087181,"size":3106712552,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:e5e03ae1b92605892520cd3ed85d0c7312c7b188&amp;dn=Spore&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":0,"uploader":"ProjektFUbaR","files":1,"time":1252810589,"description":"This is a full rip of the game &quot;Spore&quot; from EA.\nThis is NOT the expansion &quot;Galactic adventures&quot; for Spore, this is the game itself.\n\nUploaded on behalf of http://www.aftershockforums.com\n\nJust download and run...\n\n[REMEMBER TO SEED]","torrent":{"xt":"urn:btih:e5e03ae1b92605892520cd3ed85d0c7312c7b188","amp;dn":"Spore","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e5e03ae1b92605892520cd3ed85d0c7312c7b188","infoHashBuffer":{"type":"Buffer","data":[229,224,58,225,185,38,5,137,37,32,205,62,216,93,12,115,18,199,177,136]},"announce":[],"urlList":[]}}
+{
+  "title": "Spore",
+  "uid": 5087181,
+  "size": 3106712552,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:e5e03ae1b92605892520cd3ed85d0c7312c7b188&amp;dn=Spore&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 0,
+  "uploader": "ProjektFUbaR",
+  "files": 1,
+  "time": 1252810589,
+  "description": "This is a full rip of the game &quot;Spore&quot; from EA.\nThis is NOT the expansion &quot;Galactic adventures&quot; for Spore, this is the game itself.\n\nUploaded on behalf of http://www.aftershockforums.com\n\nJust download and run...\n\n[REMEMBER TO SEED]",
+  "parsed": {
+    "xt": "urn:btih:e5e03ae1b92605892520cd3ed85d0c7312c7b188",
+    "dn": "Spore",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e5e03ae1b92605892520cd3ed85d0c7312c7b188",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        229,
+        224,
+        58,
+        225,
+        185,
+        38,
+        5,
+        137,
+        37,
+        32,
+        205,
+        62,
+        216,
+        93,
+        12,
+        115,
+        18,
+        199,
+        177,
+        136
+      ]
+    },
+    "name": "Spore",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 299,
+  "last_updated": "2016-12-25T16:41:22.975Z"
+}

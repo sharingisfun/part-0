@@ -1,1 +1,63 @@
-{"title":"Atlanta.S01E03.360p","uid":15776119,"size":264441113,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e79682b98abf627a777e5c0fce2c11859fa82c84&amp;dn=Atlanta.S01E03.360p&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":6,"uploader":"YoungStunna","files":1,"time":1473233269,"description":"Two cousins, with different views on art versus commerce, on their way up through the Atlanta rap scene; &quot;Earnest 'Earn' Marks,&quot; an ambitious college drop-out and his estranged cousin, who suddenly becomes a star.\r\n\r\nCreator: Donald Glover (Childish Gambino)\r\n\r\nStars: Donald Glover, Bret E. Benson, Carra Greer","torrent":{"xt":"urn:btih:e79682b98abf627a777e5c0fce2c11859fa82c84","amp;dn":"Atlanta.S01E03.360p","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e79682b98abf627a777e5c0fce2c11859fa82c84","infoHashBuffer":{"type":"Buffer","data":[231,150,130,185,138,191,98,122,119,126,92,15,206,44,17,133,159,168,44,132]},"announce":[],"urlList":[]}}
+{
+  "title": "Atlanta.S01E03.360p",
+  "uid": 15776119,
+  "size": 264441113,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e79682b98abf627a777e5c0fce2c11859fa82c84&amp;dn=Atlanta.S01E03.360p&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 6,
+  "uploader": "YoungStunna",
+  "files": 1,
+  "time": 1473233269,
+  "description": "Two cousins, with different views on art versus commerce, on their way up through the Atlanta rap scene; &quot;Earnest 'Earn' Marks,&quot; an ambitious college drop-out and his estranged cousin, who suddenly becomes a star.\r\n\r\nCreator: Donald Glover (Childish Gambino)\r\n\r\nStars: Donald Glover, Bret E. Benson, Carra Greer",
+  "parsed": {
+    "xt": "urn:btih:e79682b98abf627a777e5c0fce2c11859fa82c84",
+    "dn": "Atlanta.S01E03.360p",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e79682b98abf627a777e5c0fce2c11859fa82c84",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        231,
+        150,
+        130,
+        185,
+        138,
+        191,
+        98,
+        122,
+        119,
+        126,
+        92,
+        15,
+        206,
+        44,
+        17,
+        133,
+        159,
+        168,
+        44,
+        132
+      ]
+    },
+    "name": "Atlanta.S01E03.360p",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 76,
+  "peers": 30,
+  "last_updated": "2016-12-25T16:51:46.943Z"
+}

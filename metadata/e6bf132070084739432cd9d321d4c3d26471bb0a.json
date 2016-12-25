@@ -1,1 +1,61 @@
-{"title":"30 Rock Season 2 DvDrip-McTav","uid":5097273,"size":2753933634,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e6bf132070084739432cd9d321d4c3d26471bb0a&amp;dn=30+Rock+Season+2+DvDrip-McTav&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":10,"uploader":"McTav","files":17,"time":1253681031,"description":"30 Rock Season 2 DvDrip-McTav","torrent":{"xt":"urn:btih:e6bf132070084739432cd9d321d4c3d26471bb0a","amp;dn":"30+Rock+Season+2+DvDrip-McTav","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e6bf132070084739432cd9d321d4c3d26471bb0a","infoHashBuffer":{"type":"Buffer","data":[230,191,19,32,112,8,71,57,67,44,217,211,33,212,195,210,100,113,187,10]},"announce":[],"urlList":[]}}
+{
+  "title": "30 Rock Season 2 DvDrip-McTav",
+  "uid": 5097273,
+  "size": 2753933634,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e6bf132070084739432cd9d321d4c3d26471bb0a&amp;dn=30+Rock+Season+2+DvDrip-McTav&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 10,
+  "uploader": "McTav",
+  "files": 17,
+  "time": 1253681031,
+  "description": "30 Rock Season 2 DvDrip-McTav",
+  "parsed": {
+    "xt": "urn:btih:e6bf132070084739432cd9d321d4c3d26471bb0a",
+    "dn": "30 Rock Season 2 DvDrip-McTav",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e6bf132070084739432cd9d321d4c3d26471bb0a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        230,
+        191,
+        19,
+        32,
+        112,
+        8,
+        71,
+        57,
+        67,
+        44,
+        217,
+        211,
+        33,
+        212,
+        195,
+        210,
+        100,
+        113,
+        187,
+        10
+      ]
+    },
+    "name": "30 Rock Season 2 DvDrip-McTav",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 19,
+  "last_updated": "2016-12-25T16:46:15.841Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Pretty Little Liars season 4","uid":9823855,"size":6361327255,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e65ad12eaa04bf86f494840fb7078d9b3b7f63af&amp;dn=Pretty+Little+Liars+season+4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":18,"uploader":"newfieHD","files":24,"time":1395742709,"description":" &lt;a href=&quot;http://www.imdb.com/title/tt1578873/?ref_=fn_al_tt_1&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt1578873/?ref_=fn_al_tt_1&lt;/a&gt;\n","torrent":{"xt":"urn:btih:e65ad12eaa04bf86f494840fb7078d9b3b7f63af","amp;dn":"Pretty+Little+Liars+season+4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e65ad12eaa04bf86f494840fb7078d9b3b7f63af","infoHashBuffer":{"type":"Buffer","data":[230,90,209,46,170,4,191,134,244,148,132,15,183,7,141,155,59,127,99,175]},"announce":[],"urlList":[]}}
+{
+  "title": "Pretty Little Liars season 4",
+  "uid": 9823855,
+  "size": 6361327255,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e65ad12eaa04bf86f494840fb7078d9b3b7f63af&amp;dn=Pretty+Little+Liars+season+4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 18,
+  "uploader": "newfieHD",
+  "files": 24,
+  "time": 1395742709,
+  "description": " &lt;a href=&quot;http://www.imdb.com/title/tt1578873/?ref_=fn_al_tt_1&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;http://www.imdb.com/title/tt1578873/?ref_=fn_al_tt_1&lt;/a&gt;\n",
+  "parsed": {
+    "xt": "urn:btih:e65ad12eaa04bf86f494840fb7078d9b3b7f63af",
+    "dn": "Pretty Little Liars season 4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e65ad12eaa04bf86f494840fb7078d9b3b7f63af",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        230,
+        90,
+        209,
+        46,
+        170,
+        4,
+        191,
+        134,
+        244,
+        148,
+        132,
+        15,
+        183,
+        7,
+        141,
+        155,
+        59,
+        127,
+        99,
+        175
+      ]
+    },
+    "name": "Pretty Little Liars season 4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 88,
+  "peers": 100,
+  "last_updated": "2016-12-25T16:44:07.459Z"
+}

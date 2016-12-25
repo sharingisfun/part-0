@@ -1,1 +1,61 @@
-{"title":"Ben Howard - Every Kingdom (Deluxe Edition)","uid":8233899,"size":301939509,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e603bd7d35db7631501f4e54cbd39981c3ff3930&amp;dn=Ben+Howard+-+Every+Kingdom+%28Deluxe+Edition%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":1,"uploader":"playsongmusic","files":32,"time":1362796892,"description":"Ben Howard\n\nEvery Kingdown\n\nDeluxe Edition 17 tracks + Bonus CD 10 tracks\n\n320 Kbps\n\nHigh Quality\n","torrent":{"xt":"urn:btih:e603bd7d35db7631501f4e54cbd39981c3ff3930","amp;dn":"Ben+Howard+-+Every+Kingdom+%28Deluxe+Edition%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e603bd7d35db7631501f4e54cbd39981c3ff3930","infoHashBuffer":{"type":"Buffer","data":[230,3,189,125,53,219,118,49,80,31,78,84,203,211,153,129,195,255,57,48]},"announce":[],"urlList":[]}}
+{
+  "title": "Ben Howard - Every Kingdom (Deluxe Edition)",
+  "uid": 8233899,
+  "size": 301939509,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e603bd7d35db7631501f4e54cbd39981c3ff3930&amp;dn=Ben+Howard+-+Every+Kingdom+%28Deluxe+Edition%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 1,
+  "uploader": "playsongmusic",
+  "files": 32,
+  "time": 1362796892,
+  "description": "Ben Howard\n\nEvery Kingdown\n\nDeluxe Edition 17 tracks + Bonus CD 10 tracks\n\n320 Kbps\n\nHigh Quality\n",
+  "parsed": {
+    "xt": "urn:btih:e603bd7d35db7631501f4e54cbd39981c3ff3930",
+    "dn": "Ben Howard - Every Kingdom (Deluxe Edition)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e603bd7d35db7631501f4e54cbd39981c3ff3930",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        230,
+        3,
+        189,
+        125,
+        53,
+        219,
+        118,
+        49,
+        80,
+        31,
+        78,
+        84,
+        203,
+        211,
+        153,
+        129,
+        195,
+        255,
+        57,
+        48
+      ]
+    },
+    "name": "Ben Howard - Every Kingdom (Deluxe Edition)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 47,
+  "peers": 18,
+  "last_updated": "2016-12-25T16:42:09.112Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Imagine Dragons - Radioactive [Single] [mp3@320]","uid":8328123,"size":7643673,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e630b2c2bb1763bf59917164989cea88ab3b85e3&amp;dn=Imagine+Dragons+-+Radioactive+%5BSingle%5D+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":62,"leechers":0,"uploader":"BalticBlackBeard","files":-1,"time":1364831091,"description":"Imagine Dragons - Radioactive\n\nMP3@320 kbit, 44.1khz Joint Stereo","torrent":{"xt":"urn:btih:e630b2c2bb1763bf59917164989cea88ab3b85e3","amp;dn":"Imagine+Dragons+-+Radioactive+%5BSingle%5D+%5Bmp3%40320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e630b2c2bb1763bf59917164989cea88ab3b85e3","infoHashBuffer":{"type":"Buffer","data":[230,48,178,194,187,23,99,191,89,145,113,100,152,156,234,136,171,59,133,227]},"announce":[],"urlList":[]}}
+{
+  "title": "Imagine Dragons - Radioactive [Single] [mp3@320]",
+  "uid": 8328123,
+  "size": 7643673,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e630b2c2bb1763bf59917164989cea88ab3b85e3&amp;dn=Imagine+Dragons+-+Radioactive+%5BSingle%5D+%5Bmp3%40320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 62,
+  "leechers": 0,
+  "uploader": "BalticBlackBeard",
+  "files": -1,
+  "time": 1364831091,
+  "description": "Imagine Dragons - Radioactive\n\nMP3@320 kbit, 44.1khz Joint Stereo",
+  "parsed": {
+    "xt": "urn:btih:e630b2c2bb1763bf59917164989cea88ab3b85e3",
+    "dn": "Imagine Dragons - Radioactive [Single] [mp3@320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e630b2c2bb1763bf59917164989cea88ab3b85e3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        230,
+        48,
+        178,
+        194,
+        187,
+        23,
+        99,
+        191,
+        89,
+        145,
+        113,
+        100,
+        152,
+        156,
+        234,
+        136,
+        171,
+        59,
+        133,
+        227
+      ]
+    },
+    "name": "Imagine Dragons - Radioactive [Single] [mp3@320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 62,
+  "peers": 78,
+  "last_updated": "2016-12-25T16:43:07.276Z"
+}

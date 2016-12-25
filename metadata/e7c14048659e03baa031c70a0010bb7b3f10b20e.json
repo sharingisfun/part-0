@@ -1,1 +1,61 @@
-{"title":"The Following Season 3 HDTV.XviD[Pawulon]","uid":11943472,"size":5559890564,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e7c14048659e03baa031c70a0010bb7b3f10b20e&amp;dn=The+Following+Season+3+HDTV.XviD%5BPawulon%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":16,"uploader":"krzysiekvip2","files":32,"time":1432014255,"description":"* Complete Season 3\n\n* Language: English\n\n* Polish subtitles inside torrent\n\n* Resolution (AR) : 640x360 (1.778)","torrent":{"xt":"urn:btih:e7c14048659e03baa031c70a0010bb7b3f10b20e","amp;dn":"The+Following+Season+3+HDTV.XviD%5BPawulon%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e7c14048659e03baa031c70a0010bb7b3f10b20e","infoHashBuffer":{"type":"Buffer","data":[231,193,64,72,101,158,3,186,160,49,199,10,0,16,187,123,63,16,178,14]},"announce":[],"urlList":[]}}
+{
+  "title": "The Following Season 3 HDTV.XviD[Pawulon]",
+  "uid": 11943472,
+  "size": 5559890564,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e7c14048659e03baa031c70a0010bb7b3f10b20e&amp;dn=The+Following+Season+3+HDTV.XviD%5BPawulon%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 16,
+  "uploader": "krzysiekvip2",
+  "files": 32,
+  "time": 1432014255,
+  "description": "* Complete Season 3\n\n* Language: English\n\n* Polish subtitles inside torrent\n\n* Resolution (AR) : 640x360 (1.778)",
+  "parsed": {
+    "xt": "urn:btih:e7c14048659e03baa031c70a0010bb7b3f10b20e",
+    "dn": "The Following Season 3 HDTV.XviD[Pawulon]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e7c14048659e03baa031c70a0010bb7b3f10b20e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        231,
+        193,
+        64,
+        72,
+        101,
+        158,
+        3,
+        186,
+        160,
+        49,
+        199,
+        10,
+        0,
+        16,
+        187,
+        123,
+        63,
+        16,
+        178,
+        14
+      ]
+    },
+    "name": "The Following Season 3 HDTV.XviD[Pawulon]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 9,
+  "last_updated": "2016-12-25T16:52:45.173Z"
+}

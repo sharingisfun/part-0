@@ -1,1 +1,61 @@
-{"title":"Montevideo, Vidimo se! 2014 (ORIGINAL DVD)","uid":10711213,"size":1144741009,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:e8020c858d3e131caeb5257f65d69e6a70377cf2&amp;dn=Montevideo%2C+Vidimo+se%21+2014+%28ORIGINAL+DVD%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":1,"uploader":"Capajebo","files":3,"time":1407355244,"description":"==========================================\nMontevideo, Vidimo se! 2014 (ORIGINAL DVD)\n..........................................\n==========================================\n\nHvala : MONTEVIDEO930","torrent":{"xt":"urn:btih:e8020c858d3e131caeb5257f65d69e6a70377cf2","amp;dn":"Montevideo%2C+Vidimo+se%21+2014+%28ORIGINAL+DVD%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e8020c858d3e131caeb5257f65d69e6a70377cf2","infoHashBuffer":{"type":"Buffer","data":[232,2,12,133,141,62,19,28,174,181,37,127,101,214,158,106,112,55,124,242]},"announce":[],"urlList":[]}}
+{
+  "title": "Montevideo, Vidimo se! 2014 (ORIGINAL DVD)",
+  "uid": 10711213,
+  "size": 1144741009,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:e8020c858d3e131caeb5257f65d69e6a70377cf2&amp;dn=Montevideo%2C+Vidimo+se%21+2014+%28ORIGINAL+DVD%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 1,
+  "uploader": "Capajebo",
+  "files": 3,
+  "time": 1407355244,
+  "description": "==========================================\nMontevideo, Vidimo se! 2014 (ORIGINAL DVD)\n..........................................\n==========================================\n\nHvala : MONTEVIDEO930",
+  "parsed": {
+    "xt": "urn:btih:e8020c858d3e131caeb5257f65d69e6a70377cf2",
+    "dn": "Montevideo, Vidimo se! 2014 (ORIGINAL DVD)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e8020c858d3e131caeb5257f65d69e6a70377cf2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        232,
+        2,
+        12,
+        133,
+        141,
+        62,
+        19,
+        28,
+        174,
+        181,
+        37,
+        127,
+        101,
+        214,
+        158,
+        106,
+        112,
+        55,
+        124,
+        242
+      ]
+    },
+    "name": "Montevideo, Vidimo se! 2014 (ORIGINAL DVD)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 6,
+  "last_updated": "2016-12-25T16:54:27.569Z"
+}

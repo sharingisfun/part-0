@@ -1,1 +1,61 @@
-{"title":"Ylvis - The Fox (Release from iTunes)","uid":8894270,"size":7913971,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:e83c2a96ea1a53b7e32a41f6b576469be114d522&amp;dn=Ylvis+-+The+Fox+%28Release+from+iTunes%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":5,"uploader":"ValdikSS","files":-1,"time":1378662294,"description":"Release from iTunes, NOT the YouTube rip!!","torrent":{"xt":"urn:btih:e83c2a96ea1a53b7e32a41f6b576469be114d522","amp;dn":"Ylvis+-+The+Fox+%28Release+from+iTunes%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e83c2a96ea1a53b7e32a41f6b576469be114d522","infoHashBuffer":{"type":"Buffer","data":[232,60,42,150,234,26,83,183,227,42,65,246,181,118,70,155,225,20,213,34]},"announce":[],"urlList":[]}}
+{
+  "title": "Ylvis - The Fox (Release from iTunes)",
+  "uid": 8894270,
+  "size": 7913971,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:e83c2a96ea1a53b7e32a41f6b576469be114d522&amp;dn=Ylvis+-+The+Fox+%28Release+from+iTunes%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 5,
+  "uploader": "ValdikSS",
+  "files": -1,
+  "time": 1378662294,
+  "description": "Release from iTunes, NOT the YouTube rip!!",
+  "parsed": {
+    "xt": "urn:btih:e83c2a96ea1a53b7e32a41f6b576469be114d522",
+    "dn": "Ylvis - The Fox (Release from iTunes)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e83c2a96ea1a53b7e32a41f6b576469be114d522",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        232,
+        60,
+        42,
+        150,
+        234,
+        26,
+        83,
+        183,
+        227,
+        42,
+        65,
+        246,
+        181,
+        118,
+        70,
+        155,
+        225,
+        20,
+        213,
+        34
+      ]
+    },
+    "name": "Ylvis - The Fox (Release from iTunes)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 32,
+  "last_updated": "2016-12-25T16:55:47.892Z"
+}

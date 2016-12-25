@@ -1,1 +1,61 @@
-{"title":"Hannibal S03E02 HDTV XviD-FUM[ettv]","uid":12010083,"size":371472716,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e6e7cc12e635588bdb6abfc99813426cc511c113&amp;dn=Hannibal+S03E02+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":0,"uploader":"ettv","files":2,"time":1434090884,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n      &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:e6e7cc12e635588bdb6abfc99813426cc511c113","amp;dn":"Hannibal+S03E02+HDTV+XviD-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e6e7cc12e635588bdb6abfc99813426cc511c113","infoHashBuffer":{"type":"Buffer","data":[230,231,204,18,230,53,88,139,219,106,191,201,152,19,66,108,197,17,193,19]},"announce":[],"urlList":[]}}
+{
+  "title": "Hannibal S03E02 HDTV XviD-FUM[ettv]",
+  "uid": 12010083,
+  "size": 371472716,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e6e7cc12e635588bdb6abfc99813426cc511c113&amp;dn=Hannibal+S03E02+HDTV+XviD-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 0,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1434090884,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n      &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:e6e7cc12e635588bdb6abfc99813426cc511c113",
+    "dn": "Hannibal S03E02 HDTV XviD-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e6e7cc12e635588bdb6abfc99813426cc511c113",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        230,
+        231,
+        204,
+        18,
+        230,
+        53,
+        88,
+        139,
+        219,
+        106,
+        191,
+        201,
+        152,
+        19,
+        66,
+        108,
+        197,
+        17,
+        193,
+        19
+      ]
+    },
+    "name": "Hannibal S03E02 HDTV XviD-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 7,
+  "last_updated": "2016-12-25T16:47:11.994Z"
+}

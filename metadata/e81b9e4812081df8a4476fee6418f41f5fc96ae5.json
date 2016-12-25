@@ -1,1 +1,61 @@
-{"title":"Freaky.Friday.2003.DVDRip.XViD-DEiTY","uid":3245662,"size":734492672,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:e81b9e4812081df8a4476fee6418f41f5fc96ae5&amp;dn=Freaky.Friday.2003.DVDRip.XViD-DEiTY&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":69,"leechers":5,"uploader":"adanne","files":1,"time":1097181085,"description":"Freaky.Friday.2003.DVDRip.XViD-DEiTY","torrent":{"xt":"urn:btih:e81b9e4812081df8a4476fee6418f41f5fc96ae5","amp;dn":"Freaky.Friday.2003.DVDRip.XViD-DEiTY","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e81b9e4812081df8a4476fee6418f41f5fc96ae5","infoHashBuffer":{"type":"Buffer","data":[232,27,158,72,18,8,29,248,164,71,111,238,100,24,244,31,95,201,106,229]},"announce":[],"urlList":[]}}
+{
+  "title": "Freaky.Friday.2003.DVDRip.XViD-DEiTY",
+  "uid": 3245662,
+  "size": 734492672,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:e81b9e4812081df8a4476fee6418f41f5fc96ae5&amp;dn=Freaky.Friday.2003.DVDRip.XViD-DEiTY&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 69,
+  "leechers": 5,
+  "uploader": "adanne",
+  "files": 1,
+  "time": 1097181085,
+  "description": "Freaky.Friday.2003.DVDRip.XViD-DEiTY",
+  "parsed": {
+    "xt": "urn:btih:e81b9e4812081df8a4476fee6418f41f5fc96ae5",
+    "dn": "Freaky.Friday.2003.DVDRip.XViD-DEiTY",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e81b9e4812081df8a4476fee6418f41f5fc96ae5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        232,
+        27,
+        158,
+        72,
+        18,
+        8,
+        29,
+        248,
+        164,
+        71,
+        111,
+        238,
+        100,
+        24,
+        244,
+        31,
+        95,
+        201,
+        106,
+        229
+      ]
+    },
+    "name": "Freaky.Friday.2003.DVDRip.XViD-DEiTY",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 74,
+  "peers": 0,
+  "last_updated": "2016-12-25T16:55:01.699Z"
+}

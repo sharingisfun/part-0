@@ -1,1 +1,61 @@
-{"title":"El atlas de las nubes","uid":8576712,"size":2798358528,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:e72b3ea0074d01a21091e63b9951c80edf5c62b4&amp;dn=El+atlas+de+las+nubes&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":3,"uploader":"Miguel223","files":1,"time":1371296445,"description":"El atlas de las nubes\n\nwww.peliculasytorrent.com","torrent":{"xt":"urn:btih:e72b3ea0074d01a21091e63b9951c80edf5c62b4","amp;dn":"El+atlas+de+las+nubes","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e72b3ea0074d01a21091e63b9951c80edf5c62b4","infoHashBuffer":{"type":"Buffer","data":[231,43,62,160,7,77,1,162,16,145,230,59,153,81,200,14,223,92,98,180]},"announce":[],"urlList":[]}}
+{
+  "title": "El atlas de las nubes",
+  "uid": 8576712,
+  "size": 2798358528,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:e72b3ea0074d01a21091e63b9951c80edf5c62b4&amp;dn=El+atlas+de+las+nubes&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 3,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1371296445,
+  "description": "El atlas de las nubes\n\nwww.peliculasytorrent.com",
+  "parsed": {
+    "xt": "urn:btih:e72b3ea0074d01a21091e63b9951c80edf5c62b4",
+    "dn": "El atlas de las nubes",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e72b3ea0074d01a21091e63b9951c80edf5c62b4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        231,
+        43,
+        62,
+        160,
+        7,
+        77,
+        1,
+        162,
+        16,
+        145,
+        230,
+        59,
+        153,
+        81,
+        200,
+        14,
+        223,
+        92,
+        98,
+        180
+      ]
+    },
+    "name": "El atlas de las nubes",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 86,
+  "last_updated": "2016-12-25T16:48:52.325Z"
+}

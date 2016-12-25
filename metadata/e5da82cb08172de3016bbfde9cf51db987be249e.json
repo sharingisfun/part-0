@@ -1,1 +1,61 @@
-{"title":"The Fappening","uid":10945648,"size":819154221,"categoryP":"porn","categoryS":"pictures","magnet":"?xt=urn:btih:e5da82cb08172de3016bbfde9cf51db987be249e&amp;dn=The+Fappening&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":173,"leechers":4,"uploader":"BlahBanaan","files":702,"time":1409595977,"description":"Leaked images. Can't be arsed to write a description","torrent":{"xt":"urn:btih:e5da82cb08172de3016bbfde9cf51db987be249e","amp;dn":"The+Fappening","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e5da82cb08172de3016bbfde9cf51db987be249e","infoHashBuffer":{"type":"Buffer","data":[229,218,130,203,8,23,45,227,1,107,191,222,156,245,29,185,135,190,36,158]},"announce":[],"urlList":[]}}
+{
+  "title": "The Fappening",
+  "uid": 10945648,
+  "size": 819154221,
+  "categoryP": "porn",
+  "categoryS": "pictures",
+  "magnet": "?xt=urn:btih:e5da82cb08172de3016bbfde9cf51db987be249e&amp;dn=The+Fappening&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 173,
+  "leechers": 4,
+  "uploader": "BlahBanaan",
+  "files": 702,
+  "time": 1409595977,
+  "description": "Leaked images. Can't be arsed to write a description",
+  "parsed": {
+    "xt": "urn:btih:e5da82cb08172de3016bbfde9cf51db987be249e",
+    "dn": "The Fappening",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e5da82cb08172de3016bbfde9cf51db987be249e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        229,
+        218,
+        130,
+        203,
+        8,
+        23,
+        45,
+        227,
+        1,
+        107,
+        191,
+        222,
+        156,
+        245,
+        29,
+        185,
+        135,
+        190,
+        36,
+        158
+      ]
+    },
+    "name": "The Fappening",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 177,
+  "peers": 57,
+  "last_updated": "2016-12-25T16:41:14.954Z"
+}

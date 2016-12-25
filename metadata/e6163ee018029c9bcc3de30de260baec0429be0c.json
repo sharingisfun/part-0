@@ -1,1 +1,63 @@
-{"title":"Zygor Guides (Elite) 6.0.14532","uid":15776471,"size":20722876,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:e6163ee018029c9bcc3de30de260baec0429be0c&amp;dn=Zygor+Guides+%28Elite%29+6.0.14532&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":53,"leechers":0,"uploader":"zygorfree","files":1,"time":1473238944,"description":"Zygor Guides (Elite) 6.0.14532\r\nUpdated 07 September 2016 @ 09:00AM (GMT +2).\r\n\r\n\r\nUnzip to your Interface folder in World of Warcraft\r\n** Contains no historical data (Except Stormscale)\r\n** If you want historical data for other realms (Gold Guides) support the developer by paying\r\n\r\n** License check disabled in functions.lua file, so the guide should not display &quot;License expired&quot; after a few days of use.\r\n\r\nP.S.  If you download, you seed.  Help others to get this too","torrent":{"xt":"urn:btih:e6163ee018029c9bcc3de30de260baec0429be0c","amp;dn":"Zygor+Guides+%28Elite%29+6.0.14532","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e6163ee018029c9bcc3de30de260baec0429be0c","infoHashBuffer":{"type":"Buffer","data":[230,22,62,224,24,2,156,155,204,61,227,13,226,96,186,236,4,41,190,12]},"announce":[],"urlList":[]}}
+{
+  "title": "Zygor Guides (Elite) 6.0.14532",
+  "uid": 15776471,
+  "size": 20722876,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:e6163ee018029c9bcc3de30de260baec0429be0c&amp;dn=Zygor+Guides+%28Elite%29+6.0.14532&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 53,
+  "leechers": 0,
+  "uploader": "zygorfree",
+  "files": 1,
+  "time": 1473238944,
+  "description": "Zygor Guides (Elite) 6.0.14532\r\nUpdated 07 September 2016 @ 09:00AM (GMT +2).\r\n\r\n\r\nUnzip to your Interface folder in World of Warcraft\r\n** Contains no historical data (Except Stormscale)\r\n** If you want historical data for other realms (Gold Guides) support the developer by paying\r\n\r\n** License check disabled in functions.lua file, so the guide should not display &quot;License expired&quot; after a few days of use.\r\n\r\nP.S.  If you download, you seed.  Help others to get this too",
+  "parsed": {
+    "xt": "urn:btih:e6163ee018029c9bcc3de30de260baec0429be0c",
+    "dn": "Zygor Guides (Elite) 6.0.14532",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e6163ee018029c9bcc3de30de260baec0429be0c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        230,
+        22,
+        62,
+        224,
+        24,
+        2,
+        156,
+        155,
+        204,
+        61,
+        227,
+        13,
+        226,
+        96,
+        186,
+        236,
+        4,
+        41,
+        190,
+        12
+      ]
+    },
+    "name": "Zygor Guides (Elite) 6.0.14532",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 51,
+  "last_updated": "2016-12-25T16:42:35.193Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Suits.S01E09.HDTV.XviD-LOL.[VTV].avi","uid":6614470,"size":366754194,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e713236d9465a407e20af96b6ffacd27e25ba0bb&amp;dn=Suits.S01E09.HDTV.XviD-LOL.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":73,"leechers":22,"uploader":"VTV","files":1,"time":1313734229,"description":"Suits 1x09 (HDTV-LOL)[VTV]","torrent":{"xt":"urn:btih:e713236d9465a407e20af96b6ffacd27e25ba0bb","amp;dn":"Suits.S01E09.HDTV.XviD-LOL.%5BVTV%5D.avi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e713236d9465a407e20af96b6ffacd27e25ba0bb","infoHashBuffer":{"type":"Buffer","data":[231,19,35,109,148,101,164,7,226,10,249,107,111,250,205,39,226,91,160,187]},"announce":[],"urlList":[]}}
+{
+  "title": "Suits.S01E09.HDTV.XviD-LOL.[VTV].avi",
+  "uid": 6614470,
+  "size": 366754194,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e713236d9465a407e20af96b6ffacd27e25ba0bb&amp;dn=Suits.S01E09.HDTV.XviD-LOL.%5BVTV%5D.avi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 73,
+  "leechers": 22,
+  "uploader": "VTV",
+  "files": 1,
+  "time": 1313734229,
+  "description": "Suits 1x09 (HDTV-LOL)[VTV]",
+  "parsed": {
+    "xt": "urn:btih:e713236d9465a407e20af96b6ffacd27e25ba0bb",
+    "dn": "Suits.S01E09.HDTV.XviD-LOL.[VTV].avi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e713236d9465a407e20af96b6ffacd27e25ba0bb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        231,
+        19,
+        35,
+        109,
+        148,
+        101,
+        164,
+        7,
+        226,
+        10,
+        249,
+        107,
+        111,
+        250,
+        205,
+        39,
+        226,
+        91,
+        160,
+        187
+      ]
+    },
+    "name": "Suits.S01E09.HDTV.XviD-LOL.[VTV].avi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 95,
+  "peers": 1,
+  "last_updated": "2016-12-25T16:48:26.232Z"
+}

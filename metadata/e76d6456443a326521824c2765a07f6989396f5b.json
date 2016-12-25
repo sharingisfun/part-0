@@ -1,1 +1,61 @@
-{"title":"Rambo III (Rambo III 1988) DVDRip XivD WS Eng AC3 5.1 Dolby Digi","uid":3559151,"size":1174904832,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:e76d6456443a326521824c2765a07f6989396f5b&amp;dn=Rambo+III+%28Rambo+III+1988%29+DVDRip+XivD+WS+Eng+AC3+5.1+Dolby+Digi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":6,"uploader":"sammicic","files":1,"time":1163753698,"description":"Rambo III 1988\nXivD made from PAL DVD\nEnglish, Widescreen, Dolby Digital 5.1 sound\nEnjoy!","torrent":{"xt":"urn:btih:e76d6456443a326521824c2765a07f6989396f5b","amp;dn":"Rambo+III+%28Rambo+III+1988%29+DVDRip+XivD+WS+Eng+AC3+5.1+Dolby+Digi","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e76d6456443a326521824c2765a07f6989396f5b","infoHashBuffer":{"type":"Buffer","data":[231,109,100,86,68,58,50,101,33,130,76,39,101,160,127,105,137,57,111,91]},"announce":[],"urlList":[]}}
+{
+  "title": "Rambo III (Rambo III 1988) DVDRip XivD WS Eng AC3 5.1 Dolby Digi",
+  "uid": 3559151,
+  "size": 1174904832,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:e76d6456443a326521824c2765a07f6989396f5b&amp;dn=Rambo+III+%28Rambo+III+1988%29+DVDRip+XivD+WS+Eng+AC3+5.1+Dolby+Digi&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 6,
+  "uploader": "sammicic",
+  "files": 1,
+  "time": 1163753698,
+  "description": "Rambo III 1988\nXivD made from PAL DVD\nEnglish, Widescreen, Dolby Digital 5.1 sound\nEnjoy!",
+  "parsed": {
+    "xt": "urn:btih:e76d6456443a326521824c2765a07f6989396f5b",
+    "dn": "Rambo III (Rambo III 1988) DVDRip XivD WS Eng AC3 5.1 Dolby Digi",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e76d6456443a326521824c2765a07f6989396f5b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        231,
+        109,
+        100,
+        86,
+        68,
+        58,
+        50,
+        101,
+        33,
+        130,
+        76,
+        39,
+        101,
+        160,
+        127,
+        105,
+        137,
+        57,
+        111,
+        91
+      ]
+    },
+    "name": "Rambo III (Rambo III 1988) DVDRip XivD WS Eng AC3 5.1 Dolby Digi",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 198,
+  "last_updated": "2016-12-25T16:50:54.748Z"
+}

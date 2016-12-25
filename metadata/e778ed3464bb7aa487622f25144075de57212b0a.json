@@ -1,1 +1,61 @@
-{"title":"MAME32+ROMS","uid":3729239,"size":4350742746,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:e778ed3464bb7aa487622f25144075de57212b0a&amp;dn=MAME32%2BROMS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":1,"uploader":"pforbes21","files":2,"time":1183255746,"description":"This is a self running windows version of MAME32 arcade emulator complete with over 3500 game roms!!!\nRe-live the days where you pumped endless coins in your local arcade....\n\nGalaxian, Phoenix, Missile Command, Donkey Kong, Defender, Scramble, and on and on...all the best games from the 70&amp;#039;s, 80&amp;#039;s and 90&amp;#039;s\n\nA must have for any classic game enthusiast....\n\n1. Mount or burn image file with Alcohol 120\n\n2. Play...\n\nThere are plenty of sources to find out about MAME, you could even build your own arcade machine....I know because I have.","torrent":{"xt":"urn:btih:e778ed3464bb7aa487622f25144075de57212b0a","amp;dn":"MAME32%2BROMS","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e778ed3464bb7aa487622f25144075de57212b0a","infoHashBuffer":{"type":"Buffer","data":[231,120,237,52,100,187,122,164,135,98,47,37,20,64,117,222,87,33,43,10]},"announce":[],"urlList":[]}}
+{
+  "title": "MAME32+ROMS",
+  "uid": 3729239,
+  "size": 4350742746,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:e778ed3464bb7aa487622f25144075de57212b0a&amp;dn=MAME32%2BROMS&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 1,
+  "uploader": "pforbes21",
+  "files": 2,
+  "time": 1183255746,
+  "description": "This is a self running windows version of MAME32 arcade emulator complete with over 3500 game roms!!!\nRe-live the days where you pumped endless coins in your local arcade....\n\nGalaxian, Phoenix, Missile Command, Donkey Kong, Defender, Scramble, and on and on...all the best games from the 70&amp;#039;s, 80&amp;#039;s and 90&amp;#039;s\n\nA must have for any classic game enthusiast....\n\n1. Mount or burn image file with Alcohol 120\n\n2. Play...\n\nThere are plenty of sources to find out about MAME, you could even build your own arcade machine....I know because I have.",
+  "parsed": {
+    "xt": "urn:btih:e778ed3464bb7aa487622f25144075de57212b0a",
+    "dn": "MAME32 ROMS",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e778ed3464bb7aa487622f25144075de57212b0a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        231,
+        120,
+        237,
+        52,
+        100,
+        187,
+        122,
+        164,
+        135,
+        98,
+        47,
+        37,
+        20,
+        64,
+        117,
+        222,
+        87,
+        33,
+        43,
+        10
+      ]
+    },
+    "name": "MAME32 ROMS",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 97,
+  "last_updated": "2016-12-25T16:51:10.815Z"
+}

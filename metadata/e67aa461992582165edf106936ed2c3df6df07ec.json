@@ -1,1 +1,61 @@
-{"title":"David Guetta ft. Sam Martin - Dangerous (320 kbit/s MP3)","uid":11226956,"size":8148378,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e67aa461992582165edf106936ed2c3df6df07ec&amp;dn=David+Guetta+ft.+Sam+Martin+-+Dangerous+%28320+kbit%2Fs+MP3%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":142,"leechers":0,"uploader":"krulbel","files":1,"time":1413419438,"description":"David Guetta ft. Sam Martin - Dangerous (320 kbit/s MP3)","torrent":{"xt":"urn:btih:e67aa461992582165edf106936ed2c3df6df07ec","amp;dn":"David+Guetta+ft.+Sam+Martin+-+Dangerous+%28320+kbit%2Fs+MP3%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e67aa461992582165edf106936ed2c3df6df07ec","infoHashBuffer":{"type":"Buffer","data":[230,122,164,97,153,37,130,22,94,223,16,105,54,237,44,61,246,223,7,236]},"announce":[],"urlList":[]}}
+{
+  "title": "David Guetta ft. Sam Martin - Dangerous (320 kbit/s MP3)",
+  "uid": 11226956,
+  "size": 8148378,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e67aa461992582165edf106936ed2c3df6df07ec&amp;dn=David+Guetta+ft.+Sam+Martin+-+Dangerous+%28320+kbit%2Fs+MP3%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 142,
+  "leechers": 0,
+  "uploader": "krulbel",
+  "files": 1,
+  "time": 1413419438,
+  "description": "David Guetta ft. Sam Martin - Dangerous (320 kbit/s MP3)",
+  "parsed": {
+    "xt": "urn:btih:e67aa461992582165edf106936ed2c3df6df07ec",
+    "dn": "David Guetta ft. Sam Martin - Dangerous (320 kbit/s MP3)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e67aa461992582165edf106936ed2c3df6df07ec",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        230,
+        122,
+        164,
+        97,
+        153,
+        37,
+        130,
+        22,
+        94,
+        223,
+        16,
+        105,
+        54,
+        237,
+        44,
+        61,
+        246,
+        223,
+        7,
+        236
+      ]
+    },
+    "name": "David Guetta ft. Sam Martin - Dangerous (320 kbit/s MP3)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 142,
+  "peers": 14,
+  "last_updated": "2016-12-25T16:44:43.569Z"
+}

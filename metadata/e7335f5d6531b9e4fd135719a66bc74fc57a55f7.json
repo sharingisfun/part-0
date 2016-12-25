@@ -1,1 +1,61 @@
-{"title":"Breaking Bad Season 1","uid":8983056,"size":2576869422,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e7335f5d6531b9e4fd135719a66bc74fc57a55f7&amp;dn=Breaking+Bad+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":3,"uploader":"RickyMac6","files":8,"time":1380607293,"description":"Breaking Bad Season 1 Episode 1-7\n\nBy Rickymac6\n\nDon't forget to seed! :)","torrent":{"xt":"urn:btih:e7335f5d6531b9e4fd135719a66bc74fc57a55f7","amp;dn":"Breaking+Bad+Season+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e7335f5d6531b9e4fd135719a66bc74fc57a55f7","infoHashBuffer":{"type":"Buffer","data":[231,51,95,93,101,49,185,228,253,19,87,25,166,107,199,79,197,122,85,247]},"announce":[],"urlList":[]}}
+{
+  "title": "Breaking Bad Season 1",
+  "uid": 8983056,
+  "size": 2576869422,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e7335f5d6531b9e4fd135719a66bc74fc57a55f7&amp;dn=Breaking+Bad+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 3,
+  "uploader": "RickyMac6",
+  "files": 8,
+  "time": 1380607293,
+  "description": "Breaking Bad Season 1 Episode 1-7\n\nBy Rickymac6\n\nDon't forget to seed! :)",
+  "parsed": {
+    "xt": "urn:btih:e7335f5d6531b9e4fd135719a66bc74fc57a55f7",
+    "dn": "Breaking Bad Season 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e7335f5d6531b9e4fd135719a66bc74fc57a55f7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        231,
+        51,
+        95,
+        93,
+        101,
+        49,
+        185,
+        228,
+        253,
+        19,
+        87,
+        25,
+        166,
+        107,
+        199,
+        79,
+        197,
+        122,
+        85,
+        247
+      ]
+    },
+    "name": "Breaking Bad Season 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 53,
+  "peers": 14,
+  "last_updated": "2016-12-25T16:49:10.382Z"
+}

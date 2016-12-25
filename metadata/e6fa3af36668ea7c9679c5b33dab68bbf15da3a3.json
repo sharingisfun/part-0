@@ -1,1 +1,61 @@
-{"title":"MATLAB R2013b 8.2.0.701 R2013b x64/32 [2013, ENG]","uid":9486580,"size":7249258496,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:e6fa3af36668ea7c9679c5b33dab68bbf15da3a3&amp;dn=MATLAB+R2013b+8.2.0.701+R2013b+x64%2F32+%5B2013%2C+ENG%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":48,"leechers":1,"uploader":"yfjfrj","files":1,"time":1389904901,"description":"MATLAB R2013b 8.2.0.701 R2013b x64/32 [2013, ENG]","torrent":{"xt":"urn:btih:e6fa3af36668ea7c9679c5b33dab68bbf15da3a3","amp;dn":"MATLAB+R2013b+8.2.0.701+R2013b+x64%2F32+%5B2013%2C+ENG%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e6fa3af36668ea7c9679c5b33dab68bbf15da3a3","infoHashBuffer":{"type":"Buffer","data":[230,250,58,243,102,104,234,124,150,121,197,179,61,171,104,187,241,93,163,163]},"announce":[],"urlList":[]}}
+{
+  "title": "MATLAB R2013b 8.2.0.701 R2013b x64/32 [2013, ENG]",
+  "uid": 9486580,
+  "size": 7249258496,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:e6fa3af36668ea7c9679c5b33dab68bbf15da3a3&amp;dn=MATLAB+R2013b+8.2.0.701+R2013b+x64%2F32+%5B2013%2C+ENG%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 48,
+  "leechers": 1,
+  "uploader": "yfjfrj",
+  "files": 1,
+  "time": 1389904901,
+  "description": "MATLAB R2013b 8.2.0.701 R2013b x64/32 [2013, ENG]",
+  "parsed": {
+    "xt": "urn:btih:e6fa3af36668ea7c9679c5b33dab68bbf15da3a3",
+    "dn": "MATLAB R2013b 8.2.0.701 R2013b x64/32 [2013, ENG]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e6fa3af36668ea7c9679c5b33dab68bbf15da3a3",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        230,
+        250,
+        58,
+        243,
+        102,
+        104,
+        234,
+        124,
+        150,
+        121,
+        197,
+        179,
+        61,
+        171,
+        104,
+        187,
+        241,
+        93,
+        163,
+        163
+      ]
+    },
+    "name": "MATLAB R2013b 8.2.0.701 R2013b x64/32 [2013, ENG]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 30,
+  "last_updated": "2016-12-25T16:47:50.100Z"
+}

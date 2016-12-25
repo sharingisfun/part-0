@@ -1,1 +1,63 @@
-{"title":"Westworld.S01E01.XviD-AFG","uid":15942743,"size":608824237,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:e6b1beda8b237d49399756e70dd5c0b9280c44d7&amp;dn=Westworld.S01E01.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":1,"uploader":"TvTeam","files":7,"time":1475469856,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:e6b1beda8b237d49399756e70dd5c0b9280c44d7","amp;dn":"Westworld.S01E01.XviD-AFG","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e6b1beda8b237d49399756e70dd5c0b9280c44d7","infoHashBuffer":{"type":"Buffer","data":[230,177,190,218,139,35,125,73,57,151,86,231,13,213,192,185,40,12,68,215]},"announce":[],"urlList":[]}}
+{
+  "title": "Westworld.S01E01.XviD-AFG",
+  "uid": 15942743,
+  "size": 608824237,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:e6b1beda8b237d49399756e70dd5c0b9280c44d7&amp;dn=Westworld.S01E01.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 1,
+  "uploader": "TvTeam",
+  "files": 7,
+  "time": 1475469856,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:e6b1beda8b237d49399756e70dd5c0b9280c44d7",
+    "dn": "Westworld.S01E01.XviD-AFG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "e6b1beda8b237d49399756e70dd5c0b9280c44d7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        230,
+        177,
+        190,
+        218,
+        139,
+        35,
+        125,
+        73,
+        57,
+        151,
+        86,
+        231,
+        13,
+        213,
+        192,
+        185,
+        40,
+        12,
+        68,
+        215
+      ]
+    },
+    "name": "Westworld.S01E01.XviD-AFG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 35,
+  "last_updated": "2016-12-25T16:45:59.784Z"
+}

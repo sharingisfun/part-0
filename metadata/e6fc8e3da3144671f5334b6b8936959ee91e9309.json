@@ -1,1 +1,61 @@
-{"title":"Ed Sheeran - x (Deluxe Edition) [2014-Album][love Rulz] ","uid":10420415,"size":160008742,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:e6fc8e3da3144671f5334b6b8936959ee91e9309&amp;dn=Ed+Sheeran+-+x+%28Deluxe+Edition%29+%5B2014-Album%5D%5Blove+Rulz%5D+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":54,"leechers":0,"uploader":"loverulz","files":16,"time":1403643301,"description":"\n\n            Ed Sheeran - x (Deluxe Edition) [2014-Album][love Rulz] \n\n\n\n1 One\n2 I'm a Mess\n3 Sing\n4 Don't\n5 Nina\n6 Photograph\n7 Bloodstream\n8 Tenerife Sea\n9 Runaway\n10 The Man\n11 Thinking Out Loud\n12 Afire Love\n13 Take It Back\n14 Shirtsleeves\n15 Even My Dad Does Sometimes\n16 I See Fire\n\n320 kbps........","torrent":{"xt":"urn:btih:e6fc8e3da3144671f5334b6b8936959ee91e9309","amp;dn":"Ed+Sheeran+-+x+%28Deluxe+Edition%29+%5B2014-Album%5D%5Blove+Rulz%5D+","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"e6fc8e3da3144671f5334b6b8936959ee91e9309","infoHashBuffer":{"type":"Buffer","data":[230,252,142,61,163,20,70,113,245,51,75,107,137,54,149,158,233,30,147,9]},"announce":[],"urlList":[]}}
+{
+  "title": "Ed Sheeran - x (Deluxe Edition) [2014-Album][love Rulz] ",
+  "uid": 10420415,
+  "size": 160008742,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:e6fc8e3da3144671f5334b6b8936959ee91e9309&amp;dn=Ed+Sheeran+-+x+%28Deluxe+Edition%29+%5B2014-Album%5D%5Blove+Rulz%5D+&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 54,
+  "leechers": 0,
+  "uploader": "loverulz",
+  "files": 16,
+  "time": 1403643301,
+  "description": "\n\n            Ed Sheeran - x (Deluxe Edition) [2014-Album][love Rulz] \n\n\n\n1 One\n2 I'm a Mess\n3 Sing\n4 Don't\n5 Nina\n6 Photograph\n7 Bloodstream\n8 Tenerife Sea\n9 Runaway\n10 The Man\n11 Thinking Out Loud\n12 Afire Love\n13 Take It Back\n14 Shirtsleeves\n15 Even My Dad Does Sometimes\n16 I See Fire\n\n320 kbps........",
+  "parsed": {
+    "xt": "urn:btih:e6fc8e3da3144671f5334b6b8936959ee91e9309",
+    "dn": "Ed Sheeran - x (Deluxe Edition) [2014-Album][love Rulz] ",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "e6fc8e3da3144671f5334b6b8936959ee91e9309",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        230,
+        252,
+        142,
+        61,
+        163,
+        20,
+        70,
+        113,
+        245,
+        51,
+        75,
+        107,
+        137,
+        54,
+        149,
+        158,
+        233,
+        30,
+        147,
+        9
+      ]
+    },
+    "name": "Ed Sheeran - x (Deluxe Edition) [2014-Album][love Rulz] ",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 54,
+  "peers": 11,
+  "last_updated": "2016-12-25T16:47:54.112Z"
+}
