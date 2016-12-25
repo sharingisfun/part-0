@@ -1,1 +1,61 @@
-{"title":"Being As An Ocean - Dear G-d","uid":9504423,"size":125072509,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9bd95458c187769cf2cd1797f31aab616b8bf7d4&amp;dn=Being+As+An+Ocean+-+Dear+G-d&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":0,"uploader":"MadTwerkury","files":11,"time":1390288731,"description":"                07 It's Really Not As Complicated As You're Making It Out to Be.mp3\t            25.81 MB\n \t\t02 Dear G-d.mp3\t7.64 MB\n \t\t11 If They're Not Counted, Count Me Out.mp3\t11.4 MB\n \t\t05 The Sea Always Seems to Put Me At Ease.mp3\t9.27 MB\n \t\t08 Humble Servant, Am I.mp3\t10.79 MB\n \t\t06 Salute e Vita.mp3\t10.17 MB\n \t\t10 We Will Never Be the Same.mp3\t8.11 MB\n \t\t01 Nothing, Save the Power They're Given.mp3\t6.85 MB\n \t\t04 This Loneliness Won't Be the Death of Me.mp3\t10.54 MB\n \t\t03 The Hardest Part Is Forgetting Those You Swore You Would Never Forget.mp3\t11.83 MB\n \t\t09 This Room Is Alive.mp3","torrent":{"xt":"urn:btih:9bd95458c187769cf2cd1797f31aab616b8bf7d4","amp;dn":"Being+As+An+Ocean+-+Dear+G-d","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9bd95458c187769cf2cd1797f31aab616b8bf7d4","infoHashBuffer":{"type":"Buffer","data":[155,217,84,88,193,135,118,156,242,205,23,151,243,26,171,97,107,139,247,212]},"announce":[],"urlList":[]}}
+{
+  "title": "Being As An Ocean - Dear G-d",
+  "uid": 9504423,
+  "size": 125072509,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9bd95458c187769cf2cd1797f31aab616b8bf7d4&amp;dn=Being+As+An+Ocean+-+Dear+G-d&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 0,
+  "uploader": "MadTwerkury",
+  "files": 11,
+  "time": 1390288731,
+  "description": "                07 It's Really Not As Complicated As You're Making It Out to Be.mp3\t            25.81 MB\n \t\t02 Dear G-d.mp3\t7.64 MB\n \t\t11 If They're Not Counted, Count Me Out.mp3\t11.4 MB\n \t\t05 The Sea Always Seems to Put Me At Ease.mp3\t9.27 MB\n \t\t08 Humble Servant, Am I.mp3\t10.79 MB\n \t\t06 Salute e Vita.mp3\t10.17 MB\n \t\t10 We Will Never Be the Same.mp3\t8.11 MB\n \t\t01 Nothing, Save the Power They're Given.mp3\t6.85 MB\n \t\t04 This Loneliness Won't Be the Death of Me.mp3\t10.54 MB\n \t\t03 The Hardest Part Is Forgetting Those You Swore You Would Never Forget.mp3\t11.83 MB\n \t\t09 This Room Is Alive.mp3",
+  "parsed": {
+    "xt": "urn:btih:9bd95458c187769cf2cd1797f31aab616b8bf7d4",
+    "dn": "Being As An Ocean - Dear G-d",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9bd95458c187769cf2cd1797f31aab616b8bf7d4",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        155,
+        217,
+        84,
+        88,
+        193,
+        135,
+        118,
+        156,
+        242,
+        205,
+        23,
+        151,
+        243,
+        26,
+        171,
+        97,
+        107,
+        139,
+        247,
+        212
+      ]
+    },
+    "name": "Being As An Ocean - Dear G-d",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 9,
+  "last_updated": "2016-12-25T09:02:22.905Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Stitchers.S01E01.HDTV.x264-BATV[ettv]","uid":11974253,"size":357439276,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:9b16359b082addb1534b929f2a52c8b5f9571988&amp;dn=Stitchers.S01E01.HDTV.x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":127,"leechers":3,"uploader":"ettv","files":3,"time":1432974294,"description":"ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW","torrent":{"xt":"urn:btih:9b16359b082addb1534b929f2a52c8b5f9571988","amp;dn":"Stitchers.S01E01.HDTV.x264-BATV%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9b16359b082addb1534b929f2a52c8b5f9571988","infoHashBuffer":{"type":"Buffer","data":[155,22,53,155,8,42,221,177,83,75,146,159,42,82,200,181,249,87,25,136]},"announce":[],"urlList":[]}}
+{
+  "title": "Stitchers.S01E01.HDTV.x264-BATV[ettv]",
+  "uid": 11974253,
+  "size": 357439276,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:9b16359b082addb1534b929f2a52c8b5f9571988&amp;dn=Stitchers.S01E01.HDTV.x264-BATV%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 127,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1432974294,
+  "description": "ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW",
+  "parsed": {
+    "xt": "urn:btih:9b16359b082addb1534b929f2a52c8b5f9571988",
+    "dn": "Stitchers.S01E01.HDTV.x264-BATV[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9b16359b082addb1534b929f2a52c8b5f9571988",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        155,
+        22,
+        53,
+        155,
+        8,
+        42,
+        221,
+        177,
+        83,
+        75,
+        146,
+        159,
+        42,
+        82,
+        200,
+        181,
+        249,
+        87,
+        25,
+        136
+      ]
+    },
+    "name": "Stitchers.S01E01.HDTV.x264-BATV[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 130,
+  "peers": 21,
+  "last_updated": "2016-12-25T08:56:43.586Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Sound.City.2013.720p.WEB-DL.H264-CtrlHD [PublicHD]","uid":8097236,"size":3686657608,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:9b962079df49d72413ee0f5a01cab5ebad5bb424&amp;dn=Sound.City.2013.720p.WEB-DL.H264-CtrlHD+%5BPublicHD%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":3,"uploader":"aoloffline","files":1,"time":1359887294,"description":"PublicHD - High-Definition Bittorrent Community\n &lt;a href=&quot;\nhttp://publichd.se/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://publichd.se/&lt;/a&gt;\n\n-----------------------------------------------------\n\nSound.City.2013.720p.WEB-DL.H264-CtrlHD [PublicHD]\n &lt;a href=&quot;\nhttp://www.imdb.com/title/tt2306745&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt2306745&lt;/a&gt;\n\nRuntime.............: 1:47:00\nBitrate.............: 4089 kbps\nResolution..........: 1280x718 (16:9)\nFramerate...........: 23.976 frames/s\nAudio...............: English AC-3 5.1 @ 384kbps\nSubtitles(inbuilt)..: English\n","torrent":{"xt":"urn:btih:9b962079df49d72413ee0f5a01cab5ebad5bb424","amp;dn":"Sound.City.2013.720p.WEB-DL.H264-CtrlHD+%5BPublicHD%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9b962079df49d72413ee0f5a01cab5ebad5bb424","infoHashBuffer":{"type":"Buffer","data":[155,150,32,121,223,73,215,36,19,238,15,90,1,202,181,235,173,91,180,36]},"announce":[],"urlList":[]}}
+{
+  "title": "Sound.City.2013.720p.WEB-DL.H264-CtrlHD [PublicHD]",
+  "uid": 8097236,
+  "size": 3686657608,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:9b962079df49d72413ee0f5a01cab5ebad5bb424&amp;dn=Sound.City.2013.720p.WEB-DL.H264-CtrlHD+%5BPublicHD%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 3,
+  "uploader": "aoloffline",
+  "files": 1,
+  "time": 1359887294,
+  "description": "PublicHD - High-Definition Bittorrent Community\n &lt;a href=&quot;\nhttp://publichd.se/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://publichd.se/&lt;/a&gt;\n\n-----------------------------------------------------\n\nSound.City.2013.720p.WEB-DL.H264-CtrlHD [PublicHD]\n &lt;a href=&quot;\nhttp://www.imdb.com/title/tt2306745&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/title/tt2306745&lt;/a&gt;\n\nRuntime.............: 1:47:00\nBitrate.............: 4089 kbps\nResolution..........: 1280x718 (16:9)\nFramerate...........: 23.976 frames/s\nAudio...............: English AC-3 5.1 @ 384kbps\nSubtitles(inbuilt)..: English\n",
+  "parsed": {
+    "xt": "urn:btih:9b962079df49d72413ee0f5a01cab5ebad5bb424",
+    "dn": "Sound.City.2013.720p.WEB-DL.H264-CtrlHD [PublicHD]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9b962079df49d72413ee0f5a01cab5ebad5bb424",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        155,
+        150,
+        32,
+        121,
+        223,
+        73,
+        215,
+        36,
+        19,
+        238,
+        15,
+        90,
+        1,
+        202,
+        181,
+        235,
+        173,
+        91,
+        180,
+        36
+      ]
+    },
+    "name": "Sound.City.2013.720p.WEB-DL.H264-CtrlHD [PublicHD]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 58,
+  "peers": 91,
+  "last_updated": "2016-12-25T09:00:16.437Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Marc Anthony Discography [Mp3]","uid":7657889,"size":889568368,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9a5cf4ffe2ab16280f6c722533fd166e3a12e6ce&amp;dn=Marc+Anthony+Discography+%5BMp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":7,"uploader":"virana","files":-1,"time":1348216999,"description":"DISCOGRAPHY\n\n1991: When the Night is Over\n1993: Otra Nota\n1995: Todo a Su Tiempo\n1997: Hasta Que Te Conoci\n1997: Contra la Corriente\n1999: Marc Anthony\n2001: Libre\n2002: Mended\n2004: Amar Sin Mentiras\n2004: ValiÃƒÂ³ la Pena\n2007: El Cantante\n2010: Iconos","torrent":{"xt":"urn:btih:9a5cf4ffe2ab16280f6c722533fd166e3a12e6ce","amp;dn":"Marc+Anthony+Discography+%5BMp3%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9a5cf4ffe2ab16280f6c722533fd166e3a12e6ce","infoHashBuffer":{"type":"Buffer","data":[154,92,244,255,226,171,22,40,15,108,114,37,51,253,22,110,58,18,230,206]},"announce":[],"urlList":[]}}
+{
+  "title": "Marc Anthony Discography [Mp3]",
+  "uid": 7657889,
+  "size": 889568368,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9a5cf4ffe2ab16280f6c722533fd166e3a12e6ce&amp;dn=Marc+Anthony+Discography+%5BMp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 7,
+  "uploader": "virana",
+  "files": -1,
+  "time": 1348216999,
+  "description": "DISCOGRAPHY\n\n1991: When the Night is Over\n1993: Otra Nota\n1995: Todo a Su Tiempo\n1997: Hasta Que Te Conoci\n1997: Contra la Corriente\n1999: Marc Anthony\n2001: Libre\n2002: Mended\n2004: Amar Sin Mentiras\n2004: ValiÃƒÂ³ la Pena\n2007: El Cantante\n2010: Iconos",
+  "parsed": {
+    "xt": "urn:btih:9a5cf4ffe2ab16280f6c722533fd166e3a12e6ce",
+    "dn": "Marc Anthony Discography [Mp3]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9a5cf4ffe2ab16280f6c722533fd166e3a12e6ce",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        154,
+        92,
+        244,
+        255,
+        226,
+        171,
+        22,
+        40,
+        15,
+        108,
+        114,
+        37,
+        51,
+        253,
+        22,
+        110,
+        58,
+        18,
+        230,
+        206
+      ]
+    },
+    "name": "Marc Anthony Discography [Mp3]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 39,
+  "last_updated": "2016-12-25T08:51:22.457Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Eminem - The Eminem Show [mp3]","uid":3457275,"size":148915060,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9b44ab695c01f505b6c54aecf5f4d096b74d9cfc&amp;dn=Eminem+-+The+Eminem+Show+%5Bmp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":113,"leechers":10,"uploader":"marin63","files":21,"time":1142337231,"description":"Eminem - The Eminem Show\n========================\n\nTyp: Album\nData wydania: 2006\nBitrate: mp3 256 kbit/44 kHz/2ch\nGatunek: Rap\nOk?adki: Front\n\nTracklists:\n========================\n\n01-Curtains up\n02-White America\n03-Business\n04-Cleanin out my closet\n05-Square Dance\n06-The kiss\n07-Soldier\n08-Say goodbye Hollywood\n09-Drips\n10-Without me\n11-Paul Rosenberg\n12-Sing for the moment\n13-Superman\n14-Hailies song\n15-Steve Berman\n16-When the music stops\n17-Say what u say\n18-Till i collapse\n19-My Dads gone crazy\n20-Curtains close \n","torrent":{"xt":"urn:btih:9b44ab695c01f505b6c54aecf5f4d096b74d9cfc","amp;dn":"Eminem+-+The+Eminem+Show+%5Bmp3%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9b44ab695c01f505b6c54aecf5f4d096b74d9cfc","infoHashBuffer":{"type":"Buffer","data":[155,68,171,105,92,1,245,5,182,197,74,236,245,244,208,150,183,77,156,252]},"announce":[],"urlList":[]}}
+{
+  "title": "Eminem - The Eminem Show [mp3]",
+  "uid": 3457275,
+  "size": 148915060,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9b44ab695c01f505b6c54aecf5f4d096b74d9cfc&amp;dn=Eminem+-+The+Eminem+Show+%5Bmp3%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 113,
+  "leechers": 10,
+  "uploader": "marin63",
+  "files": 21,
+  "time": 1142337231,
+  "description": "Eminem - The Eminem Show\n========================\n\nTyp: Album\nData wydania: 2006\nBitrate: mp3 256 kbit/44 kHz/2ch\nGatunek: Rap\nOk?adki: Front\n\nTracklists:\n========================\n\n01-Curtains up\n02-White America\n03-Business\n04-Cleanin out my closet\n05-Square Dance\n06-The kiss\n07-Soldier\n08-Say goodbye Hollywood\n09-Drips\n10-Without me\n11-Paul Rosenberg\n12-Sing for the moment\n13-Superman\n14-Hailies song\n15-Steve Berman\n16-When the music stops\n17-Say what u say\n18-Till i collapse\n19-My Dads gone crazy\n20-Curtains close \n",
+  "parsed": {
+    "xt": "urn:btih:9b44ab695c01f505b6c54aecf5f4d096b74d9cfc",
+    "dn": "Eminem - The Eminem Show [mp3]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9b44ab695c01f505b6c54aecf5f4d096b74d9cfc",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        155,
+        68,
+        171,
+        105,
+        92,
+        1,
+        245,
+        5,
+        182,
+        197,
+        74,
+        236,
+        245,
+        244,
+        208,
+        150,
+        183,
+        77,
+        156,
+        252
+      ]
+    },
+    "name": "Eminem - The Eminem Show [mp3]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 123,
+  "peers": 0,
+  "last_updated": "2016-12-25T08:58:01.855Z"
+}

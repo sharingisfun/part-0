@@ -1,1 +1,61 @@
-{"title":"Inherent.Vice.2014.720p.WEB-DL.XviD.AC3-RARBG","uid":11707718,"size":4334743686,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:9aa7c6ade94f2a78690b994aa9e968088ba29655&amp;dn=Inherent.Vice.2014.720p.WEB-DL.XviD.AC3-RARBG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":66,"leechers":27,"uploader":"makintos13","files":5,"time":1424195491,"description":"SCREENS:\n &lt;a href=&quot;\nhttp://imgsleek.com/img-54e371947be73.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgsleek.com/img-54e371947be73.html&lt;/a&gt;\n &lt;a href=&quot;\nhttp://imgsleek.com/img-54e371948cd69.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgsleek.com/img-54e371948cd69.html&lt;/a&gt;\n &lt;a href=&quot;\nhttp://imgsleek.com/img-54e371949791e.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgsleek.com/img-54e371949791e.html&lt;/a&gt;","torrent":{"xt":"urn:btih:9aa7c6ade94f2a78690b994aa9e968088ba29655","amp;dn":"Inherent.Vice.2014.720p.WEB-DL.XviD.AC3-RARBG","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9aa7c6ade94f2a78690b994aa9e968088ba29655","infoHashBuffer":{"type":"Buffer","data":[154,167,198,173,233,79,42,120,105,11,153,74,169,233,104,8,139,162,150,85]},"announce":[],"urlList":[]}}
+{
+  "title": "Inherent.Vice.2014.720p.WEB-DL.XviD.AC3-RARBG",
+  "uid": 11707718,
+  "size": 4334743686,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:9aa7c6ade94f2a78690b994aa9e968088ba29655&amp;dn=Inherent.Vice.2014.720p.WEB-DL.XviD.AC3-RARBG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 66,
+  "leechers": 27,
+  "uploader": "makintos13",
+  "files": 5,
+  "time": 1424195491,
+  "description": "SCREENS:\n &lt;a href=&quot;\nhttp://imgsleek.com/img-54e371947be73.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgsleek.com/img-54e371947be73.html&lt;/a&gt;\n &lt;a href=&quot;\nhttp://imgsleek.com/img-54e371948cd69.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgsleek.com/img-54e371948cd69.html&lt;/a&gt;\n &lt;a href=&quot;\nhttp://imgsleek.com/img-54e371949791e.html&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://imgsleek.com/img-54e371949791e.html&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:9aa7c6ade94f2a78690b994aa9e968088ba29655",
+    "dn": "Inherent.Vice.2014.720p.WEB-DL.XviD.AC3-RARBG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9aa7c6ade94f2a78690b994aa9e968088ba29655",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        154,
+        167,
+        198,
+        173,
+        233,
+        79,
+        42,
+        120,
+        105,
+        11,
+        153,
+        74,
+        169,
+        233,
+        104,
+        8,
+        139,
+        162,
+        150,
+        85
+      ]
+    },
+    "name": "Inherent.Vice.2014.720p.WEB-DL.XviD.AC3-RARBG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 93,
+  "peers": 1,
+  "last_updated": "2016-12-25T08:53:38.914Z"
+}

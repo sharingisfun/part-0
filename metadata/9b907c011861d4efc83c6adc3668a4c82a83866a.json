@@ -1,1 +1,61 @@
-{"title":"The Originals S01E16 HDTV x264-LOL[ettv]","uid":9746510,"size":211356261,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:9b907c011861d4efc83c6adc3668a4c82a83866a&amp;dn=The+Originals+S01E16+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":5,"uploader":"ettv","files":2,"time":1394589836,"description":"x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n","torrent":{"xt":"urn:btih:9b907c011861d4efc83c6adc3668a4c82a83866a","amp;dn":"The+Originals+S01E16+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9b907c011861d4efc83c6adc3668a4c82a83866a","infoHashBuffer":{"type":"Buffer","data":[155,144,124,1,24,97,212,239,200,60,106,220,54,104,164,200,42,131,134,106]},"announce":[],"urlList":[]}}
+{
+  "title": "The Originals S01E16 HDTV x264-LOL[ettv]",
+  "uid": 9746510,
+  "size": 211356261,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:9b907c011861d4efc83c6adc3668a4c82a83866a&amp;dn=The+Originals+S01E16+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 5,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1394589836,
+  "description": "x264\nEncode Information\nResolution....: 720x404\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:9b907c011861d4efc83c6adc3668a4c82a83866a",
+    "dn": "The Originals S01E16 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9b907c011861d4efc83c6adc3668a4c82a83866a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        155,
+        144,
+        124,
+        1,
+        24,
+        97,
+        212,
+        239,
+        200,
+        60,
+        106,
+        220,
+        54,
+        104,
+        164,
+        200,
+        42,
+        131,
+        134,
+        106
+      ]
+    },
+    "name": "The Originals S01E16 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 37,
+  "last_updated": "2016-12-25T09:00:04.401Z"
+}

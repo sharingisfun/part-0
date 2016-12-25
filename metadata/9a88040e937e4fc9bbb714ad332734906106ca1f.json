@@ -1,1 +1,61 @@
-{"title":"(ODB) Ol Dirty Bastard - Return To The 36 Chambers_ The","uid":6796298,"size":98166121,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9a88040e937e4fc9bbb714ad332734906106ca1f&amp;dn=%28ODB%29+Ol+Dirty+Bastard+-+Return+To+The+36+Chambers_+The&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":2,"uploader":"block_","files":17,"time":1320464776,"description":"Uploaded by blockustomz, a super user on KAT","torrent":{"xt":"urn:btih:9a88040e937e4fc9bbb714ad332734906106ca1f","amp;dn":"%28ODB%29+Ol+Dirty+Bastard+-+Return+To+The+36+Chambers_+The","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9a88040e937e4fc9bbb714ad332734906106ca1f","infoHashBuffer":{"type":"Buffer","data":[154,136,4,14,147,126,79,201,187,183,20,173,51,39,52,144,97,6,202,31]},"announce":[],"urlList":[]}}
+{
+  "title": "(ODB) Ol Dirty Bastard - Return To The 36 Chambers_ The",
+  "uid": 6796298,
+  "size": 98166121,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9a88040e937e4fc9bbb714ad332734906106ca1f&amp;dn=%28ODB%29+Ol+Dirty+Bastard+-+Return+To+The+36+Chambers_+The&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 2,
+  "uploader": "block_",
+  "files": 17,
+  "time": 1320464776,
+  "description": "Uploaded by blockustomz, a super user on KAT",
+  "parsed": {
+    "xt": "urn:btih:9a88040e937e4fc9bbb714ad332734906106ca1f",
+    "dn": "(ODB) Ol Dirty Bastard - Return To The 36 Chambers_ The",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9a88040e937e4fc9bbb714ad332734906106ca1f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        154,
+        136,
+        4,
+        14,
+        147,
+        126,
+        79,
+        201,
+        187,
+        183,
+        20,
+        173,
+        51,
+        39,
+        52,
+        144,
+        97,
+        6,
+        202,
+        31
+      ]
+    },
+    "name": "(ODB) Ol Dirty Bastard - Return To The 36 Chambers_ The",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 22,
+  "last_updated": "2016-12-25T08:52:36.695Z"
+}

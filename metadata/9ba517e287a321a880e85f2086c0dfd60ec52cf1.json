@@ -1,1 +1,61 @@
-{"title":"A-Ha - Take On Me [320 KBPS]","uid":7321548,"size":8930304,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9ba517e287a321a880e85f2086c0dfd60ec52cf1&amp;dn=A-Ha+-+Take+On+Me+%5B320+KBPS%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":0,"uploader":"Criminals","files":-1,"time":1338637156,"description":"Song Name: Take On Me\n\nSong Artist: A-Ha\n\nSong Album: Take On Me / Love Is Reason [Digital 45]\n\nSong Year: 1985\n\nSong Bitrate (KBPS): 320\n\nExtra Info: Includes the album cover etc, ready for iTunes etc","torrent":{"xt":"urn:btih:9ba517e287a321a880e85f2086c0dfd60ec52cf1","amp;dn":"A-Ha+-+Take+On+Me+%5B320+KBPS%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9ba517e287a321a880e85f2086c0dfd60ec52cf1","infoHashBuffer":{"type":"Buffer","data":[155,165,23,226,135,163,33,168,128,232,95,32,134,192,223,214,14,197,44,241]},"announce":[],"urlList":[]}}
+{
+  "title": "A-Ha - Take On Me [320 KBPS]",
+  "uid": 7321548,
+  "size": 8930304,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9ba517e287a321a880e85f2086c0dfd60ec52cf1&amp;dn=A-Ha+-+Take+On+Me+%5B320+KBPS%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 0,
+  "uploader": "Criminals",
+  "files": -1,
+  "time": 1338637156,
+  "description": "Song Name: Take On Me\n\nSong Artist: A-Ha\n\nSong Album: Take On Me / Love Is Reason [Digital 45]\n\nSong Year: 1985\n\nSong Bitrate (KBPS): 320\n\nExtra Info: Includes the album cover etc, ready for iTunes etc",
+  "parsed": {
+    "xt": "urn:btih:9ba517e287a321a880e85f2086c0dfd60ec52cf1",
+    "dn": "A-Ha - Take On Me [320 KBPS]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9ba517e287a321a880e85f2086c0dfd60ec52cf1",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        155,
+        165,
+        23,
+        226,
+        135,
+        163,
+        33,
+        168,
+        128,
+        232,
+        95,
+        32,
+        134,
+        192,
+        223,
+        214,
+        14,
+        197,
+        44,
+        241
+      ]
+    },
+    "name": "A-Ha - Take On Me [320 KBPS]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 37,
+  "peers": 28,
+  "last_updated": "2016-12-25T09:00:46.543Z"
+}

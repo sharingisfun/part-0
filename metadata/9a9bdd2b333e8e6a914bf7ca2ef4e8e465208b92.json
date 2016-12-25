@@ -1,1 +1,61 @@
-{"title":"Witches of East End S02E07 HDTV x264-KILLERS[ettv]","uid":10868239,"size":248693776,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:9a9bdd2b333e8e6a914bf7ca2ef4e8e465208b92&amp;dn=Witches+of+East+End+S02E07+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":0,"uploader":"ettv","files":2,"time":1408939709,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:9a9bdd2b333e8e6a914bf7ca2ef4e8e465208b92","amp;dn":"Witches+of+East+End+S02E07+HDTV+x264-KILLERS%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9a9bdd2b333e8e6a914bf7ca2ef4e8e465208b92","infoHashBuffer":{"type":"Buffer","data":[154,155,221,43,51,62,142,106,145,75,247,202,46,244,232,228,101,32,139,146]},"announce":[],"urlList":[]}}
+{
+  "title": "Witches of East End S02E07 HDTV x264-KILLERS[ettv]",
+  "uid": 10868239,
+  "size": 248693776,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:9a9bdd2b333e8e6a914bf7ca2ef4e8e465208b92&amp;dn=Witches+of+East+End+S02E07+HDTV+x264-KILLERS%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 0,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1408939709,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:9a9bdd2b333e8e6a914bf7ca2ef4e8e465208b92",
+    "dn": "Witches of East End S02E07 HDTV x264-KILLERS[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9a9bdd2b333e8e6a914bf7ca2ef4e8e465208b92",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        154,
+        155,
+        221,
+        43,
+        51,
+        62,
+        142,
+        106,
+        145,
+        75,
+        247,
+        202,
+        46,
+        244,
+        232,
+        228,
+        101,
+        32,
+        139,
+        146
+      ]
+    },
+    "name": "Witches of East End S02E07 HDTV x264-KILLERS[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 52,
+  "peers": 1,
+  "last_updated": "2016-12-25T08:53:10.805Z"
+}

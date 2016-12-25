@@ -1,1 +1,61 @@
-{"title":"Jillian Michaels Ripped in 30","uid":6564176,"size":1720421660,"categoryP":"video","categoryS":"other","magnet":"?xt=urn:btih:9c419f4121a059258108581b65f221d782af32ff&amp;dn=Jillian+Michaels+Ripped+in+30&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":82,"leechers":8,"uploader":"Lua333","files":6,"time":1311604452,"description":"Video\n-----\nFormat                           : MPEG-4 Visual\nCodec ID/Hint                    : XviD\nBit rate                         : 1100 Kbps\nWidth                            : 672 pixels\nHeight                           : 368 pixels\nFrame rate                       : 23.976 fps\n\nAudio\n-----\nFormat                           : MPEG Audio\nCodec ID/Hint                    : MP3\nBit rate                         : 128 Kbps\nChannel(s)                       : 2 channels\nSampling rate                    : 44 KHz\nLanguage                         : English\n","torrent":{"xt":"urn:btih:9c419f4121a059258108581b65f221d782af32ff","amp;dn":"Jillian+Michaels+Ripped+in+30","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9c419f4121a059258108581b65f221d782af32ff","infoHashBuffer":{"type":"Buffer","data":[156,65,159,65,33,160,89,37,129,8,88,27,101,242,33,215,130,175,50,255]},"announce":[],"urlList":[]}}
+{
+  "title": "Jillian Michaels Ripped in 30",
+  "uid": 6564176,
+  "size": 1720421660,
+  "categoryP": "video",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:9c419f4121a059258108581b65f221d782af32ff&amp;dn=Jillian+Michaels+Ripped+in+30&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 82,
+  "leechers": 8,
+  "uploader": "Lua333",
+  "files": 6,
+  "time": 1311604452,
+  "description": "Video\n-----\nFormat                           : MPEG-4 Visual\nCodec ID/Hint                    : XviD\nBit rate                         : 1100 Kbps\nWidth                            : 672 pixels\nHeight                           : 368 pixels\nFrame rate                       : 23.976 fps\n\nAudio\n-----\nFormat                           : MPEG Audio\nCodec ID/Hint                    : MP3\nBit rate                         : 128 Kbps\nChannel(s)                       : 2 channels\nSampling rate                    : 44 KHz\nLanguage                         : English\n",
+  "parsed": {
+    "xt": "urn:btih:9c419f4121a059258108581b65f221d782af32ff",
+    "dn": "Jillian Michaels Ripped in 30",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9c419f4121a059258108581b65f221d782af32ff",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        156,
+        65,
+        159,
+        65,
+        33,
+        160,
+        89,
+        37,
+        129,
+        8,
+        88,
+        27,
+        101,
+        242,
+        33,
+        215,
+        130,
+        175,
+        50,
+        255
+      ]
+    },
+    "name": "Jillian Michaels Ripped in 30",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 90,
+  "peers": 17,
+  "last_updated": "2016-12-25T09:04:53.403Z"
+}

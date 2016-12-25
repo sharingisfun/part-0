@@ -1,1 +1,61 @@
-{"title":"PIMP by RSD Julien MP3","uid":11162763,"size":698076838,"categoryP":"audio","categoryS":"sound_clips","magnet":"?xt=urn:btih:9ae2ef99dceef873082021d2a96307b660f8c4c8&amp;dn=PIMP+by+RSD+Julien+MP3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":2,"uploader":"IWantFreeMedia","files":28,"time":1412577280,"description":"MP3 version of PIMP by RSD Julien + bonuses. 128 Kbps. (Fixed)","torrent":{"xt":"urn:btih:9ae2ef99dceef873082021d2a96307b660f8c4c8","amp;dn":"PIMP+by+RSD+Julien+MP3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9ae2ef99dceef873082021d2a96307b660f8c4c8","infoHashBuffer":{"type":"Buffer","data":[154,226,239,153,220,238,248,115,8,32,33,210,169,99,7,182,96,248,196,200]},"announce":[],"urlList":[]}}
+{
+  "title": "PIMP by RSD Julien MP3",
+  "uid": 11162763,
+  "size": 698076838,
+  "categoryP": "audio",
+  "categoryS": "sound_clips",
+  "magnet": "?xt=urn:btih:9ae2ef99dceef873082021d2a96307b660f8c4c8&amp;dn=PIMP+by+RSD+Julien+MP3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 2,
+  "uploader": "IWantFreeMedia",
+  "files": 28,
+  "time": 1412577280,
+  "description": "MP3 version of PIMP by RSD Julien + bonuses. 128 Kbps. (Fixed)",
+  "parsed": {
+    "xt": "urn:btih:9ae2ef99dceef873082021d2a96307b660f8c4c8",
+    "dn": "PIMP by RSD Julien MP3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9ae2ef99dceef873082021d2a96307b660f8c4c8",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        154,
+        226,
+        239,
+        153,
+        220,
+        238,
+        248,
+        115,
+        8,
+        32,
+        33,
+        210,
+        169,
+        99,
+        7,
+        182,
+        96,
+        248,
+        196,
+        200
+      ]
+    },
+    "name": "PIMP by RSD Julien MP3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 11,
+  "last_updated": "2016-12-25T08:55:21.294Z"
+}

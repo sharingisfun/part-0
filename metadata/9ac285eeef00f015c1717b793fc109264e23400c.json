@@ -1,1 +1,61 @@
-{"title":"Gossip Girl Season 1","uid":4710070,"size":6611176586,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:9ac285eeef00f015c1717b793fc109264e23400c&amp;dn=Gossip+Girl+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":159,"leechers":75,"uploader":"Juanchopper08","files":18,"time":1233984230,"description":"All first season of Gossip Girl\n\nGossip Girl S01e01 \nGossip Girl S01e02 \nGossip Girl S01e03 \nGossip Girl S01e04 \nGossip Girl S01e05 \nGossip Girl S01e06 \nGossip Girl S01E07 \nGossip Girl S01e08 \nGossip Girl S01e09 \nGossip Girl S01e10 \nGossip Girl S01e11 \nGossip Girl S01E12 \nGossip Girl S01e13 \nGossip Girl S01E14 \nGossip Girl S01E15\nGossip Girl S01E16 \nGossip Girl S01E17 \nGossip Girl S01E18 \n\n\n\n","torrent":{"xt":"urn:btih:9ac285eeef00f015c1717b793fc109264e23400c","amp;dn":"Gossip+Girl+Season+1","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9ac285eeef00f015c1717b793fc109264e23400c","infoHashBuffer":{"type":"Buffer","data":[154,194,133,238,239,0,240,21,193,113,123,121,63,193,9,38,78,35,64,12]},"announce":[],"urlList":[]}}
+{
+  "title": "Gossip Girl Season 1",
+  "uid": 4710070,
+  "size": 6611176586,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:9ac285eeef00f015c1717b793fc109264e23400c&amp;dn=Gossip+Girl+Season+1&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 159,
+  "leechers": 75,
+  "uploader": "Juanchopper08",
+  "files": 18,
+  "time": 1233984230,
+  "description": "All first season of Gossip Girl\n\nGossip Girl S01e01 \nGossip Girl S01e02 \nGossip Girl S01e03 \nGossip Girl S01e04 \nGossip Girl S01e05 \nGossip Girl S01e06 \nGossip Girl S01E07 \nGossip Girl S01e08 \nGossip Girl S01e09 \nGossip Girl S01e10 \nGossip Girl S01e11 \nGossip Girl S01E12 \nGossip Girl S01e13 \nGossip Girl S01E14 \nGossip Girl S01E15\nGossip Girl S01E16 \nGossip Girl S01E17 \nGossip Girl S01E18 \n\n\n\n",
+  "parsed": {
+    "xt": "urn:btih:9ac285eeef00f015c1717b793fc109264e23400c",
+    "dn": "Gossip Girl Season 1",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9ac285eeef00f015c1717b793fc109264e23400c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        154,
+        194,
+        133,
+        238,
+        239,
+        0,
+        240,
+        21,
+        193,
+        113,
+        123,
+        121,
+        63,
+        193,
+        9,
+        38,
+        78,
+        35,
+        64,
+        12
+      ]
+    },
+    "name": "Gossip Girl Season 1",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 234,
+  "peers": 25,
+  "last_updated": "2016-12-25T08:54:27.096Z"
+}

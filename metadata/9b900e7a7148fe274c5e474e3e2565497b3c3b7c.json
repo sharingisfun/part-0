@@ -1,1 +1,61 @@
-{"title":"SAS Statistical Analysis Software Version 9.1.3 SP4 Portable","uid":5375369,"size":482097349,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:9b900e7a7148fe274c5e474e3e2565497b3c3b7c&amp;dn=SAS+Statistical+Analysis+Software+Version+9.1.3+SP4+Portable&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":3,"uploader":"jmdr","files":-1,"time":1266559957,"description":"/* ***************************** SAS 9.1.3 with SP4 **************************** */\n/* ***************************************************************************** */\n\nFrom traditional statistical analysis of variance and predictive modeling to exact methods and statistical visualization techniques, SAS software is designed for both specialized and enterprisewide analytical needs. SAS software provides a complete, comprehensive set of tools that can meet the data analysis needs of the entire organization.\n\n/* ***************************************************************************** */\n\nCredit goes to J (oil99) for gathering up the bits and pieces of SAS 9.1.3 torrents out there, and MakoShark2 for creating the patch to get it all working. I used ThinApp 4.0.4 to wrap up an installation as a portable app (i.e. it's a single executable--no need to install--just download and run) that should work on most setups (although 9.1.3 does not work on 64-bit systems). If it doesn't work for you, make sure your system meets the minimum requirements, and update your Java Runtime Environment (JRE).\n\nThe patch forces in a date within the (now long expired) licence period. Note that this means that date() and datetime() functions {eg. today()} will return the *forced* date. Instead, use the macro &amp;SYSDATE which stores the CORRECT date returned by the system (assuming you start a new SAS session each day).\n\nIf this torrent works well for you, please leave a comment to let others know. Thanks.\n\nThe license includes:\nAcademic Computing Offer\nBase SAS Software\nSAS OnlineTutor Programming Software\nSAS/ACCESS Interface to DB2 Software\nSAS/ACCESS Interface to MySQL\nSAS/ACCESS Interface to ODBC Software\nSAS/ACCESS Interface to OLE DB Software\nSAS/ACCESS Interface to ORACLE Software\nSAS/ACCESS Interface to PC Files Software\nSAS/ACCESS Interface to SYBASE Software\nSAS/AF Software\nSAS/ASSIST Software\nSAS/CONNECT Software\nSAS/EIS Software\nSAS/ETS Software\nSAS/FSP Software\nSAS/GIS Software\nSAS/GRAPH Software\nSAS/IML Software\nSAS/INSIGHT Software\nSAS/LAB Software\nSAS/OR Software\nSAS/QC Software\nSAS/SECURE for Windows Software\nSAS/SHARE Software\nSAS/SPECTRAVIEW Software\nSAS/STAT Software\n\nEnjoy...","torrent":{"xt":"urn:btih:9b900e7a7148fe274c5e474e3e2565497b3c3b7c","amp;dn":"SAS+Statistical+Analysis+Software+Version+9.1.3+SP4+Portable","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9b900e7a7148fe274c5e474e3e2565497b3c3b7c","infoHashBuffer":{"type":"Buffer","data":[155,144,14,122,113,72,254,39,76,94,71,78,62,37,101,73,123,60,59,124]},"announce":[],"urlList":[]}}
+{
+  "title": "SAS Statistical Analysis Software Version 9.1.3 SP4 Portable",
+  "uid": 5375369,
+  "size": 482097349,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:9b900e7a7148fe274c5e474e3e2565497b3c3b7c&amp;dn=SAS+Statistical+Analysis+Software+Version+9.1.3+SP4+Portable&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 3,
+  "uploader": "jmdr",
+  "files": -1,
+  "time": 1266559957,
+  "description": "/* ***************************** SAS 9.1.3 with SP4 **************************** */\n/* ***************************************************************************** */\n\nFrom traditional statistical analysis of variance and predictive modeling to exact methods and statistical visualization techniques, SAS software is designed for both specialized and enterprisewide analytical needs. SAS software provides a complete, comprehensive set of tools that can meet the data analysis needs of the entire organization.\n\n/* ***************************************************************************** */\n\nCredit goes to J (oil99) for gathering up the bits and pieces of SAS 9.1.3 torrents out there, and MakoShark2 for creating the patch to get it all working. I used ThinApp 4.0.4 to wrap up an installation as a portable app (i.e. it's a single executable--no need to install--just download and run) that should work on most setups (although 9.1.3 does not work on 64-bit systems). If it doesn't work for you, make sure your system meets the minimum requirements, and update your Java Runtime Environment (JRE).\n\nThe patch forces in a date within the (now long expired) licence period. Note that this means that date() and datetime() functions {eg. today()} will return the *forced* date. Instead, use the macro &amp;SYSDATE which stores the CORRECT date returned by the system (assuming you start a new SAS session each day).\n\nIf this torrent works well for you, please leave a comment to let others know. Thanks.\n\nThe license includes:\nAcademic Computing Offer\nBase SAS Software\nSAS OnlineTutor Programming Software\nSAS/ACCESS Interface to DB2 Software\nSAS/ACCESS Interface to MySQL\nSAS/ACCESS Interface to ODBC Software\nSAS/ACCESS Interface to OLE DB Software\nSAS/ACCESS Interface to ORACLE Software\nSAS/ACCESS Interface to PC Files Software\nSAS/ACCESS Interface to SYBASE Software\nSAS/AF Software\nSAS/ASSIST Software\nSAS/CONNECT Software\nSAS/EIS Software\nSAS/ETS Software\nSAS/FSP Software\nSAS/GIS Software\nSAS/GRAPH Software\nSAS/IML Software\nSAS/INSIGHT Software\nSAS/LAB Software\nSAS/OR Software\nSAS/QC Software\nSAS/SECURE for Windows Software\nSAS/SHARE Software\nSAS/SPECTRAVIEW Software\nSAS/STAT Software\n\nEnjoy...",
+  "parsed": {
+    "xt": "urn:btih:9b900e7a7148fe274c5e474e3e2565497b3c3b7c",
+    "dn": "SAS Statistical Analysis Software Version 9.1.3 SP4 Portable",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9b900e7a7148fe274c5e474e3e2565497b3c3b7c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        155,
+        144,
+        14,
+        122,
+        113,
+        72,
+        254,
+        39,
+        76,
+        94,
+        71,
+        78,
+        62,
+        37,
+        101,
+        73,
+        123,
+        60,
+        59,
+        124
+      ]
+    },
+    "name": "SAS Statistical Analysis Software Version 9.1.3 SP4 Portable",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 42,
+  "peers": 15,
+  "last_updated": "2016-12-25T09:00:02.395Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Rae Sremmurd - No Type [320]","uid":10962231,"size":9619903,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9c79aded6d386902aaa32ac8936ec6abcc8930f9&amp;dn=Rae+Sremmurd+-+No+Type+%5B320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":118,"leechers":7,"uploader":"DubSesh","files":-1,"time":1409736629,"description":"General\nComplete name                  : Rae Sremmurd\nFormat                         : MP3 Audio\nFile size                      : 9.07 MiB\nDuration                       : 3mn 21s\nOverall bit rate               : 320 Kbps\nTrack name                     : No Type\nPerformer                      : Rae Sremmurd\nGenre                          : Rap\nRecorded date                  : 2014\n\n","torrent":{"xt":"urn:btih:9c79aded6d386902aaa32ac8936ec6abcc8930f9","amp;dn":"Rae+Sremmurd+-+No+Type+%5B320%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9c79aded6d386902aaa32ac8936ec6abcc8930f9","infoHashBuffer":{"type":"Buffer","data":[156,121,173,237,109,56,105,2,170,163,42,200,147,110,198,171,204,137,48,249]},"announce":[],"urlList":[]}}
+{
+  "title": "Rae Sremmurd - No Type [320]",
+  "uid": 10962231,
+  "size": 9619903,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9c79aded6d386902aaa32ac8936ec6abcc8930f9&amp;dn=Rae+Sremmurd+-+No+Type+%5B320%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 118,
+  "leechers": 7,
+  "uploader": "DubSesh",
+  "files": -1,
+  "time": 1409736629,
+  "description": "General\nComplete name                  : Rae Sremmurd\nFormat                         : MP3 Audio\nFile size                      : 9.07 MiB\nDuration                       : 3mn 21s\nOverall bit rate               : 320 Kbps\nTrack name                     : No Type\nPerformer                      : Rae Sremmurd\nGenre                          : Rap\nRecorded date                  : 2014\n\n",
+  "parsed": {
+    "xt": "urn:btih:9c79aded6d386902aaa32ac8936ec6abcc8930f9",
+    "dn": "Rae Sremmurd - No Type [320]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9c79aded6d386902aaa32ac8936ec6abcc8930f9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        156,
+        121,
+        173,
+        237,
+        109,
+        56,
+        105,
+        2,
+        170,
+        163,
+        42,
+        200,
+        147,
+        110,
+        198,
+        171,
+        204,
+        137,
+        48,
+        249
+      ]
+    },
+    "name": "Rae Sremmurd - No Type [320]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 125,
+  "peers": 36,
+  "last_updated": "2016-12-25T09:05:59.576Z"
+}

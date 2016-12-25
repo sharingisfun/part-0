@@ -1,1 +1,63 @@
-{"title":"Adele 25 Album","uid":12887862,"size":57947510,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9c38a1f89e1e4c5d6fa5da1dad0d23e8c09f8161&amp;dn=Adele+25+Album&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":41,"leechers":2,"uploader":"mark4705","files":14,"time":1449075659,"description":"Adele 25 Album","torrent":{"xt":"urn:btih:9c38a1f89e1e4c5d6fa5da1dad0d23e8c09f8161","amp;dn":"Adele+25+Album","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9c38a1f89e1e4c5d6fa5da1dad0d23e8c09f8161","infoHashBuffer":{"type":"Buffer","data":[156,56,161,248,158,30,76,93,111,165,218,29,173,13,35,232,192,159,129,97]},"announce":[],"urlList":[]}}
+{
+  "title": "Adele 25 Album",
+  "uid": 12887862,
+  "size": 57947510,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9c38a1f89e1e4c5d6fa5da1dad0d23e8c09f8161&amp;dn=Adele+25+Album&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 41,
+  "leechers": 2,
+  "uploader": "mark4705",
+  "files": 14,
+  "time": 1449075659,
+  "description": "Adele 25 Album",
+  "parsed": {
+    "xt": "urn:btih:9c38a1f89e1e4c5d6fa5da1dad0d23e8c09f8161",
+    "dn": "Adele 25 Album",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "9c38a1f89e1e4c5d6fa5da1dad0d23e8c09f8161",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        156,
+        56,
+        161,
+        248,
+        158,
+        30,
+        76,
+        93,
+        111,
+        165,
+        218,
+        29,
+        173,
+        13,
+        35,
+        232,
+        192,
+        159,
+        129,
+        97
+      ]
+    },
+    "name": "Adele 25 Album",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 139,
+  "last_updated": "2016-12-25T09:04:35.346Z"
+}

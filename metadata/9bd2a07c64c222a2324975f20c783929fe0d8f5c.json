@@ -1,1 +1,61 @@
-{"title":"A.Tale.of.Two.Sisters(2003)DVDRip.DivX","uid":5578706,"size":721643089,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:9bd2a07c64c222a2324975f20c783929fe0d8f5c&amp;dn=A.Tale.of.Two.Sisters%282003%29DVDRip.DivX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":6,"uploader":"mizurin","files":2,"time":1274462615,"description":"torrentbox.com/torrent_details?id=901477","torrent":{"xt":"urn:btih:9bd2a07c64c222a2324975f20c783929fe0d8f5c","amp;dn":"A.Tale.of.Two.Sisters%282003%29DVDRip.DivX","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9bd2a07c64c222a2324975f20c783929fe0d8f5c","infoHashBuffer":{"type":"Buffer","data":[155,210,160,124,100,194,34,162,50,73,117,242,12,120,57,41,254,13,143,92]},"announce":[],"urlList":[]}}
+{
+  "title": "A.Tale.of.Two.Sisters(2003)DVDRip.DivX",
+  "uid": 5578706,
+  "size": 721643089,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:9bd2a07c64c222a2324975f20c783929fe0d8f5c&amp;dn=A.Tale.of.Two.Sisters%282003%29DVDRip.DivX&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 6,
+  "uploader": "mizurin",
+  "files": 2,
+  "time": 1274462615,
+  "description": "torrentbox.com/torrent_details?id=901477",
+  "parsed": {
+    "xt": "urn:btih:9bd2a07c64c222a2324975f20c783929fe0d8f5c",
+    "dn": "A.Tale.of.Two.Sisters(2003)DVDRip.DivX",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9bd2a07c64c222a2324975f20c783929fe0d8f5c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        155,
+        210,
+        160,
+        124,
+        100,
+        194,
+        34,
+        162,
+        50,
+        73,
+        117,
+        242,
+        12,
+        120,
+        57,
+        41,
+        254,
+        13,
+        143,
+        92
+      ]
+    },
+    "name": "A.Tale.of.Two.Sisters(2003)DVDRip.DivX",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 27,
+  "last_updated": "2016-12-25T09:01:56.812Z"
+}

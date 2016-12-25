@@ -1,1 +1,61 @@
-{"title":"Ashley Madison 2nd dump 20 GB","uid":12256948,"size":19921987772,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:9bfbabcd3b936eb1ec0a9a7fa21622cd98833e08&amp;dn=Ashley+Madison+2nd+dump+20+GB&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":9,"uploader":"Liberator2007","files":14,"time":1440108525,"description":"Latest dump of data, posted August 20, 2015","torrent":{"xt":"urn:btih:9bfbabcd3b936eb1ec0a9a7fa21622cd98833e08","amp;dn":"Ashley+Madison+2nd+dump+20+GB","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9bfbabcd3b936eb1ec0a9a7fa21622cd98833e08","infoHashBuffer":{"type":"Buffer","data":[155,251,171,205,59,147,110,177,236,10,154,127,162,22,34,205,152,131,62,8]},"announce":[],"urlList":[]}}
+{
+  "title": "Ashley Madison 2nd dump 20 GB",
+  "uid": 12256948,
+  "size": 19921987772,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:9bfbabcd3b936eb1ec0a9a7fa21622cd98833e08&amp;dn=Ashley+Madison+2nd+dump+20+GB&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 9,
+  "uploader": "Liberator2007",
+  "files": 14,
+  "time": 1440108525,
+  "description": "Latest dump of data, posted August 20, 2015",
+  "parsed": {
+    "xt": "urn:btih:9bfbabcd3b936eb1ec0a9a7fa21622cd98833e08",
+    "dn": "Ashley Madison 2nd dump 20 GB",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9bfbabcd3b936eb1ec0a9a7fa21622cd98833e08",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        155,
+        251,
+        171,
+        205,
+        59,
+        147,
+        110,
+        177,
+        236,
+        10,
+        154,
+        127,
+        162,
+        22,
+        34,
+        205,
+        152,
+        131,
+        62,
+        8
+      ]
+    },
+    "name": "Ashley Madison 2nd dump 20 GB",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 69,
+  "peers": 79,
+  "last_updated": "2016-12-25T09:03:15.101Z"
+}
