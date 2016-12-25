@@ -1,1 +1,63 @@
-{"title":"Yosemite 10.10.1 [Hackintosh] ISO","uid":13251392,"size":5495447552,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:9dd61fd91b0168913c002ac33c51dc510aa3b0ae&amp;dn=Yosemite+10.10.1+%5BHackintosh%5D+ISO&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":7,"uploader":"zt14427","files":1,"time":1453174678,"description":"AMD+INTEL\r\nOS X 10.10.1 IMAGE\r\n\r\nFORMAT:  ISO (not DMG!)\r\n\r\n\r\nTaken from http://hackintosh.zone\r\n\r\nbecause of adblock restrictions, this file can be difficult to download directly.  Upon downloading you are given THIS torrent file.  In order to make this file more accessible I have mirrored it here.  Have fun!","torrent":{"xt":"urn:btih:9dd61fd91b0168913c002ac33c51dc510aa3b0ae","amp;dn":"Yosemite+10.10.1+%5BHackintosh%5D+ISO","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9dd61fd91b0168913c002ac33c51dc510aa3b0ae","infoHashBuffer":{"type":"Buffer","data":[157,214,31,217,27,1,104,145,60,0,42,195,60,81,220,81,10,163,176,174]},"announce":[],"urlList":[]}}
+{
+  "title": "Yosemite 10.10.1 [Hackintosh] ISO",
+  "uid": 13251392,
+  "size": 5495447552,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:9dd61fd91b0168913c002ac33c51dc510aa3b0ae&amp;dn=Yosemite+10.10.1+%5BHackintosh%5D+ISO&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 7,
+  "uploader": "zt14427",
+  "files": 1,
+  "time": 1453174678,
+  "description": "AMD+INTEL\r\nOS X 10.10.1 IMAGE\r\n\r\nFORMAT:  ISO (not DMG!)\r\n\r\n\r\nTaken from http://hackintosh.zone\r\n\r\nbecause of adblock restrictions, this file can be difficult to download directly.  Upon downloading you are given THIS torrent file.  In order to make this file more accessible I have mirrored it here.  Have fun!",
+  "parsed": {
+    "xt": "urn:btih:9dd61fd91b0168913c002ac33c51dc510aa3b0ae",
+    "dn": "Yosemite 10.10.1 [Hackintosh] ISO",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "9dd61fd91b0168913c002ac33c51dc510aa3b0ae",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        157,
+        214,
+        31,
+        217,
+        27,
+        1,
+        104,
+        145,
+        60,
+        0,
+        42,
+        195,
+        60,
+        81,
+        220,
+        81,
+        10,
+        163,
+        176,
+        174
+      ]
+    },
+    "name": "Yosemite 10.10.1 [Hackintosh] ISO",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 225,
+  "last_updated": "2016-12-25T09:15:37.274Z"
+}

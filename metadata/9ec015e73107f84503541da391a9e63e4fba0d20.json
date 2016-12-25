@@ -1,1 +1,61 @@
-{"title":"Parks and Recreation S06E01E02 HDTV x264-LOL[ettv]","uid":8967445,"size":383362231,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:9ec015e73107f84503541da391a9e63e4fba0d20&amp;dn=Parks+and+Recreation+S06E01E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":36,"leechers":4,"uploader":"ettv","files":2,"time":1380261527,"description":"x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n","torrent":{"xt":"urn:btih:9ec015e73107f84503541da391a9e63e4fba0d20","amp;dn":"Parks+and+Recreation+S06E01E02+HDTV+x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9ec015e73107f84503541da391a9e63e4fba0d20","infoHashBuffer":{"type":"Buffer","data":[158,192,21,231,49,7,248,69,3,84,29,163,145,169,230,62,79,186,13,32]},"announce":[],"urlList":[]}}
+{
+  "title": "Parks and Recreation S06E01E02 HDTV x264-LOL[ettv]",
+  "uid": 8967445,
+  "size": 383362231,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:9ec015e73107f84503541da391a9e63e4fba0d20&amp;dn=Parks+and+Recreation+S06E01E02+HDTV+x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 36,
+  "leechers": 4,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1380261527,
+  "description": "x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n",
+  "parsed": {
+    "xt": "urn:btih:9ec015e73107f84503541da391a9e63e4fba0d20",
+    "dn": "Parks and Recreation S06E01E02 HDTV x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9ec015e73107f84503541da391a9e63e4fba0d20",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        158,
+        192,
+        21,
+        231,
+        49,
+        7,
+        248,
+        69,
+        3,
+        84,
+        29,
+        163,
+        145,
+        169,
+        230,
+        62,
+        79,
+        186,
+        13,
+        32
+      ]
+    },
+    "name": "Parks and Recreation S06E01E02 HDTV x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 2,
+  "last_updated": "2016-12-25T09:21:06.319Z"
+}

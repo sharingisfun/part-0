@@ -1,1 +1,61 @@
-{"title":"S.W.A.T. 4","uid":3676066,"size":1208928146,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:9d57f321996977ae1b3e72c8c5287dd3a5aa813c&amp;dn=S.W.A.T.+4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":4,"uploader":"tinyejp","files":4,"time":1177856831,"description":"S.W.A.T. 4 - Kick-butt first-person shooter.  .bin &amp; .cue format.  This game rocks!","torrent":{"xt":"urn:btih:9d57f321996977ae1b3e72c8c5287dd3a5aa813c","amp;dn":"S.W.A.T.+4","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9d57f321996977ae1b3e72c8c5287dd3a5aa813c","infoHashBuffer":{"type":"Buffer","data":[157,87,243,33,153,105,119,174,27,62,114,200,197,40,125,211,165,170,129,60]},"announce":[],"urlList":[]}}
+{
+  "title": "S.W.A.T. 4",
+  "uid": 3676066,
+  "size": 1208928146,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:9d57f321996977ae1b3e72c8c5287dd3a5aa813c&amp;dn=S.W.A.T.+4&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 4,
+  "uploader": "tinyejp",
+  "files": 4,
+  "time": 1177856831,
+  "description": "S.W.A.T. 4 - Kick-butt first-person shooter.  .bin &amp; .cue format.  This game rocks!",
+  "parsed": {
+    "xt": "urn:btih:9d57f321996977ae1b3e72c8c5287dd3a5aa813c",
+    "dn": "S.W.A.T. 4",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9d57f321996977ae1b3e72c8c5287dd3a5aa813c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        157,
+        87,
+        243,
+        33,
+        153,
+        105,
+        119,
+        174,
+        27,
+        62,
+        114,
+        200,
+        197,
+        40,
+        125,
+        211,
+        165,
+        170,
+        129,
+        60
+      ]
+    },
+    "name": "S.W.A.T. 4",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 35,
+  "last_updated": "2016-12-25T09:11:48.595Z"
+}

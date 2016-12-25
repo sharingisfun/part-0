@@ -1,1 +1,61 @@
-{"title":"Sting - My Best (2013)","uid":8322174,"size":553522279,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9d3b70fd77307ab58ab799dd972a6297d5e9a37b&amp;dn=Sting+-+My+Best+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":5,"uploader":".SceNe.","files":50,"time":1364708404,"description":"Mp3 CBR 320 Kbps\n","torrent":{"xt":"urn:btih:9d3b70fd77307ab58ab799dd972a6297d5e9a37b","amp;dn":"Sting+-+My+Best+%282013%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9d3b70fd77307ab58ab799dd972a6297d5e9a37b","infoHashBuffer":{"type":"Buffer","data":[157,59,112,253,119,48,122,181,138,183,153,221,151,42,98,151,213,233,163,123]},"announce":[],"urlList":[]}}
+{
+  "title": "Sting - My Best (2013)",
+  "uid": 8322174,
+  "size": 553522279,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9d3b70fd77307ab58ab799dd972a6297d5e9a37b&amp;dn=Sting+-+My+Best+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 5,
+  "uploader": ".SceNe.",
+  "files": 50,
+  "time": 1364708404,
+  "description": "Mp3 CBR 320 Kbps\n",
+  "parsed": {
+    "xt": "urn:btih:9d3b70fd77307ab58ab799dd972a6297d5e9a37b",
+    "dn": "Sting - My Best (2013)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9d3b70fd77307ab58ab799dd972a6297d5e9a37b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        157,
+        59,
+        112,
+        253,
+        119,
+        48,
+        122,
+        181,
+        138,
+        183,
+        153,
+        221,
+        151,
+        42,
+        98,
+        151,
+        213,
+        233,
+        163,
+        123
+      ]
+    },
+    "name": "Sting - My Best (2013)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 57,
+  "peers": 16,
+  "last_updated": "2016-12-25T09:10:56.442Z"
+}

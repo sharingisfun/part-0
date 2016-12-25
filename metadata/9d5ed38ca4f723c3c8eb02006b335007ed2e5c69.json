@@ -1,1 +1,63 @@
-{"title":"Survivor.au.s03e18.720p.hdtv.bf1.mkv","uid":15945555,"size":533730138,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:9d5ed38ca4f723c3c8eb02006b335007ed2e5c69&amp;dn=Survivor.au.s03e18.720p.hdtv.bf1.mkv&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":51,"leechers":10,"uploader":"bigfish5","files":1,"time":1475504305,"description":"Survivor Australia Series 3 Episode 18\r\n\r\nLast night's tribal council left alliances exposed and the tribe in turmoil. Paranoia sets in for some tribe mates. Will they have to turn on each other just to keep themselves in the game?","torrent":{"xt":"urn:btih:9d5ed38ca4f723c3c8eb02006b335007ed2e5c69","amp;dn":"Survivor.au.s03e18.720p.hdtv.bf1.mkv","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9d5ed38ca4f723c3c8eb02006b335007ed2e5c69","infoHashBuffer":{"type":"Buffer","data":[157,94,211,140,164,247,35,195,200,235,2,0,107,51,80,7,237,46,92,105]},"announce":[],"urlList":[]}}
+{
+  "title": "Survivor.au.s03e18.720p.hdtv.bf1.mkv",
+  "uid": 15945555,
+  "size": 533730138,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:9d5ed38ca4f723c3c8eb02006b335007ed2e5c69&amp;dn=Survivor.au.s03e18.720p.hdtv.bf1.mkv&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 51,
+  "leechers": 10,
+  "uploader": "bigfish5",
+  "files": 1,
+  "time": 1475504305,
+  "description": "Survivor Australia Series 3 Episode 18\r\n\r\nLast night's tribal council left alliances exposed and the tribe in turmoil. Paranoia sets in for some tribe mates. Will they have to turn on each other just to keep themselves in the game?",
+  "parsed": {
+    "xt": "urn:btih:9d5ed38ca4f723c3c8eb02006b335007ed2e5c69",
+    "dn": "Survivor.au.s03e18.720p.hdtv.bf1.mkv",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "9d5ed38ca4f723c3c8eb02006b335007ed2e5c69",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        157,
+        94,
+        211,
+        140,
+        164,
+        247,
+        35,
+        195,
+        200,
+        235,
+        2,
+        0,
+        107,
+        51,
+        80,
+        7,
+        237,
+        46,
+        92,
+        105
+      ]
+    },
+    "name": "Survivor.au.s03e18.720p.hdtv.bf1.mkv",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 8,
+  "last_updated": "2016-12-25T09:12:00.637Z"
+}

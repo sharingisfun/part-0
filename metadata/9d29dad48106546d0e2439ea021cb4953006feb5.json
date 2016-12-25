@@ -1,1 +1,61 @@
-{"title":"Local Natives - Hummingbird 320kbps","uid":8044297,"size":105677596,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9d29dad48106546d0e2439ea021cb4953006feb5&amp;dn=Local+Natives+-+Hummingbird+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":0,"uploader":"bigarlo609","files":11,"time":1358712907,"description":"Hummingbird:\n\n01 You &amp; I\n02 Heavy Feet\n03 Ceilings\n04 Black Spot\n05 Breakers\n06 Three Months\n07 Black Balloons\n08 Wooly Mammoth\n09 Mt. Washington\n10 Colombia\n11 Bowery","torrent":{"xt":"urn:btih:9d29dad48106546d0e2439ea021cb4953006feb5","amp;dn":"Local+Natives+-+Hummingbird+320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9d29dad48106546d0e2439ea021cb4953006feb5","infoHashBuffer":{"type":"Buffer","data":[157,41,218,212,129,6,84,109,14,36,57,234,2,28,180,149,48,6,254,181]},"announce":[],"urlList":[]}}
+{
+  "title": "Local Natives - Hummingbird 320kbps",
+  "uid": 8044297,
+  "size": 105677596,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9d29dad48106546d0e2439ea021cb4953006feb5&amp;dn=Local+Natives+-+Hummingbird+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 0,
+  "uploader": "bigarlo609",
+  "files": 11,
+  "time": 1358712907,
+  "description": "Hummingbird:\n\n01 You &amp; I\n02 Heavy Feet\n03 Ceilings\n04 Black Spot\n05 Breakers\n06 Three Months\n07 Black Balloons\n08 Wooly Mammoth\n09 Mt. Washington\n10 Colombia\n11 Bowery",
+  "parsed": {
+    "xt": "urn:btih:9d29dad48106546d0e2439ea021cb4953006feb5",
+    "dn": "Local Natives - Hummingbird 320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9d29dad48106546d0e2439ea021cb4953006feb5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        157,
+        41,
+        218,
+        212,
+        129,
+        6,
+        84,
+        109,
+        14,
+        36,
+        57,
+        234,
+        2,
+        28,
+        180,
+        149,
+        48,
+        6,
+        254,
+        181
+      ]
+    },
+    "name": "Local Natives - Hummingbird 320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 0,
+  "last_updated": "2016-12-25T09:10:42.396Z"
+}

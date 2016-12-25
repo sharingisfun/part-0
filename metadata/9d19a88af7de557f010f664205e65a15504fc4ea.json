@@ -1,1 +1,61 @@
-{"title":"Guns N' Roses Greatest Hits 2CD [2010] 320","uid":11884277,"size":382492198,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9d19a88af7de557f010f664205e65a15504fc4ea&amp;dn=Guns+N%27+Roses+Greatest+Hits+2CD+%5B2010%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":259,"leechers":84,"uploader":"Stolac","files":36,"time":1430768022,"description":"Guns N' Roses Greatest Hits 2CD [2010] 320","torrent":{"xt":"urn:btih:9d19a88af7de557f010f664205e65a15504fc4ea","amp;dn":"Guns+N%27+Roses+Greatest+Hits+2CD+%5B2010%5D+320","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9d19a88af7de557f010f664205e65a15504fc4ea","infoHashBuffer":{"type":"Buffer","data":[157,25,168,138,247,222,85,127,1,15,102,66,5,230,90,21,80,79,196,234]},"announce":[],"urlList":[]}}
+{
+  "title": "Guns N' Roses Greatest Hits 2CD [2010] 320",
+  "uid": 11884277,
+  "size": 382492198,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9d19a88af7de557f010f664205e65a15504fc4ea&amp;dn=Guns+N%27+Roses+Greatest+Hits+2CD+%5B2010%5D+320&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 259,
+  "leechers": 84,
+  "uploader": "Stolac",
+  "files": 36,
+  "time": 1430768022,
+  "description": "Guns N' Roses Greatest Hits 2CD [2010] 320",
+  "parsed": {
+    "xt": "urn:btih:9d19a88af7de557f010f664205e65a15504fc4ea",
+    "dn": "Guns N' Roses Greatest Hits 2CD [2010] 320",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9d19a88af7de557f010f664205e65a15504fc4ea",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        157,
+        25,
+        168,
+        138,
+        247,
+        222,
+        85,
+        127,
+        1,
+        15,
+        102,
+        66,
+        5,
+        230,
+        90,
+        21,
+        80,
+        79,
+        196,
+        234
+      ]
+    },
+    "name": "Guns N' Roses Greatest Hits 2CD [2010] 320",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 343,
+  "peers": 50,
+  "last_updated": "2016-12-25T09:10:04.290Z"
+}

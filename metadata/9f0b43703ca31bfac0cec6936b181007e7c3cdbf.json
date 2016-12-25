@@ -1,1 +1,61 @@
-{"title":"In time","uid":8516065,"size":1920878592,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:9f0b43703ca31bfac0cec6936b181007e7c3cdbf&amp;dn=In+time&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":90,"leechers":5,"uploader":"Miguel223","files":1,"time":1369737154,"description":"In time\nwww.peliculasytorrent.com","torrent":{"xt":"urn:btih:9f0b43703ca31bfac0cec6936b181007e7c3cdbf","amp;dn":"In+time","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9f0b43703ca31bfac0cec6936b181007e7c3cdbf","infoHashBuffer":{"type":"Buffer","data":[159,11,67,112,60,163,27,250,192,206,198,147,107,24,16,7,231,195,205,191]},"announce":[],"urlList":[]}}
+{
+  "title": "In time",
+  "uid": 8516065,
+  "size": 1920878592,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:9f0b43703ca31bfac0cec6936b181007e7c3cdbf&amp;dn=In+time&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 90,
+  "leechers": 5,
+  "uploader": "Miguel223",
+  "files": 1,
+  "time": 1369737154,
+  "description": "In time\nwww.peliculasytorrent.com",
+  "parsed": {
+    "xt": "urn:btih:9f0b43703ca31bfac0cec6936b181007e7c3cdbf",
+    "dn": "In time",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9f0b43703ca31bfac0cec6936b181007e7c3cdbf",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        159,
+        11,
+        67,
+        112,
+        60,
+        163,
+        27,
+        250,
+        192,
+        206,
+        198,
+        147,
+        107,
+        24,
+        16,
+        7,
+        231,
+        195,
+        205,
+        191
+      ]
+    },
+    "name": "In time",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 95,
+  "peers": 85,
+  "last_updated": "2016-12-25T09:23:08.789Z"
+}

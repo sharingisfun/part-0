@@ -1,1 +1,61 @@
-{"title":"Lynda - Android App Development with Java Essential Training","uid":9534195,"size":786957045,"categoryP":"other","categoryS":"other","magnet":"?xt=urn:btih:9f33dac149ba3a1ce26a5ca01cf9a9ba178ea9a0&amp;dn=Lynda+-+Android+App+Development+with+Java+Essential+Training&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":4,"uploader":"NepsterJay","files":-1,"time":1390896295,"description":"Android App Development with Java Essential Training is a comprehensive look at the Android architecture that teaches how to build and deploy applications for Android phones and tablets using the Java programming language. Starting with the installation of the required developer tools, including Eclipse and the Android SDK, the course covers how to build the user interface, work with local data, integrate data from the accelerometer and other sensors, and deploy finished applications to the Android Market. Exercise files are included with the course.\n\nTopics include:\n- Understanding project creation and structure\n- Using explicit and implicit intents\n- Setting up security and permissions\n- Building text, button, and list controls\n- Applying styles and themes to the interface\n- Providing alternate layouts for different screen sizes\n- Creating menus and dialogs\n- Working with audio and video\n- Adding animation\n- Displaying notifications\n- Using input from sensors\n- Creating a home screen widget","torrent":{"xt":"urn:btih:9f33dac149ba3a1ce26a5ca01cf9a9ba178ea9a0","amp;dn":"Lynda+-+Android+App+Development+with+Java+Essential+Training","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9f33dac149ba3a1ce26a5ca01cf9a9ba178ea9a0","infoHashBuffer":{"type":"Buffer","data":[159,51,218,193,73,186,58,28,226,106,92,160,28,249,169,186,23,142,169,160]},"announce":[],"urlList":[]}}
+{
+  "title": "Lynda - Android App Development with Java Essential Training",
+  "uid": 9534195,
+  "size": 786957045,
+  "categoryP": "other",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:9f33dac149ba3a1ce26a5ca01cf9a9ba178ea9a0&amp;dn=Lynda+-+Android+App+Development+with+Java+Essential+Training&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 4,
+  "uploader": "NepsterJay",
+  "files": -1,
+  "time": 1390896295,
+  "description": "Android App Development with Java Essential Training is a comprehensive look at the Android architecture that teaches how to build and deploy applications for Android phones and tablets using the Java programming language. Starting with the installation of the required developer tools, including Eclipse and the Android SDK, the course covers how to build the user interface, work with local data, integrate data from the accelerometer and other sensors, and deploy finished applications to the Android Market. Exercise files are included with the course.\n\nTopics include:\n- Understanding project creation and structure\n- Using explicit and implicit intents\n- Setting up security and permissions\n- Building text, button, and list controls\n- Applying styles and themes to the interface\n- Providing alternate layouts for different screen sizes\n- Creating menus and dialogs\n- Working with audio and video\n- Adding animation\n- Displaying notifications\n- Using input from sensors\n- Creating a home screen widget",
+  "parsed": {
+    "xt": "urn:btih:9f33dac149ba3a1ce26a5ca01cf9a9ba178ea9a0",
+    "dn": "Lynda - Android App Development with Java Essential Training",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9f33dac149ba3a1ce26a5ca01cf9a9ba178ea9a0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        159,
+        51,
+        218,
+        193,
+        73,
+        186,
+        58,
+        28,
+        226,
+        106,
+        92,
+        160,
+        28,
+        249,
+        169,
+        186,
+        23,
+        142,
+        169,
+        160
+      ]
+    },
+    "name": "Lynda - Android App Development with Java Essential Training",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 188,
+  "last_updated": "2016-12-25T09:24:13.031Z"
+}

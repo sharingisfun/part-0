@@ -1,1 +1,61 @@
-{"title":"Taylor Swift Discography 320kbps","uid":8265486,"size":3826320486,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9e88041a77ac14bc2bf19c307ecc0d2705b78799&amp;dn=Taylor+Swift+Discography+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":57,"leechers":20,"uploader":"gotfw","files":-1,"time":1363482500,"description":"This is Taylor Swift's Studio Discography. Information is as followed\n\nAudio\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\n\nAlbums:\n(2008)Taylor Swift\n(2009)Fearless (International Edition)\n(2009)Fearless (Platinum Edition)\n(2010)Speak Now\n(2012)Red (Deluxe Version)\n\nLive Albums:\n(2008)iTunes Live from SoHo\n(2011)Speak Now - World Tour Live\n\nExtended Plays:\n(2007)Rhapsody Originals (Exclusive)\n(2007)The Taylor Swift Holiday Collection\n(2008)Beautiful Eyes ","torrent":{"xt":"urn:btih:9e88041a77ac14bc2bf19c307ecc0d2705b78799","amp;dn":"Taylor+Swift+Discography+320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9e88041a77ac14bc2bf19c307ecc0d2705b78799","infoHashBuffer":{"type":"Buffer","data":[158,136,4,26,119,172,20,188,43,241,156,48,126,204,13,39,5,183,135,153]},"announce":[],"urlList":[]}}
+{
+  "title": "Taylor Swift Discography 320kbps",
+  "uid": 8265486,
+  "size": 3826320486,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9e88041a77ac14bc2bf19c307ecc0d2705b78799&amp;dn=Taylor+Swift+Discography+320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 57,
+  "leechers": 20,
+  "uploader": "gotfw",
+  "files": -1,
+  "time": 1363482500,
+  "description": "This is Taylor Swift's Studio Discography. Information is as followed\n\nAudio\nFormat : MPEG Audio\nFormat version : Version 1\nFormat profile : Layer 3\nMode : Joint stereo\nBit rate mode : Constant\nBit rate : 320 Kbps\nChannel(s) : 2 channels\nSampling rate : 44.1 KHz\nCompression mode : Lossy\n\nAlbums:\n(2008)Taylor Swift\n(2009)Fearless (International Edition)\n(2009)Fearless (Platinum Edition)\n(2010)Speak Now\n(2012)Red (Deluxe Version)\n\nLive Albums:\n(2008)iTunes Live from SoHo\n(2011)Speak Now - World Tour Live\n\nExtended Plays:\n(2007)Rhapsody Originals (Exclusive)\n(2007)The Taylor Swift Holiday Collection\n(2008)Beautiful Eyes ",
+  "parsed": {
+    "xt": "urn:btih:9e88041a77ac14bc2bf19c307ecc0d2705b78799",
+    "dn": "Taylor Swift Discography 320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9e88041a77ac14bc2bf19c307ecc0d2705b78799",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        158,
+        136,
+        4,
+        26,
+        119,
+        172,
+        20,
+        188,
+        43,
+        241,
+        156,
+        48,
+        126,
+        204,
+        13,
+        39,
+        5,
+        183,
+        135,
+        153
+      ]
+    },
+    "name": "Taylor Swift Discography 320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 77,
+  "peers": 31,
+  "last_updated": "2016-12-25T09:19:42.001Z"
+}

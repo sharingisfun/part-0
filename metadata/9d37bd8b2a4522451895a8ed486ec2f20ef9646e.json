@@ -1,1 +1,61 @@
-{"title":"Damian Marley -Welcome To Jamrock (album) 2005","uid":3377472,"size":89212167,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:9d37bd8b2a4522451895a8ed486ec2f20ef9646e&amp;dn=Damian+Marley+-Welcome+To+Jamrock+%28album%29+2005&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":1,"uploader":"RBM","files":17,"time":1125557125,"description":"New album","torrent":{"xt":"urn:btih:9d37bd8b2a4522451895a8ed486ec2f20ef9646e","amp;dn":"Damian+Marley+-Welcome+To+Jamrock+%28album%29+2005","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9d37bd8b2a4522451895a8ed486ec2f20ef9646e","infoHashBuffer":{"type":"Buffer","data":[157,55,189,139,42,69,34,69,24,149,168,237,72,110,194,242,14,249,100,110]},"announce":[],"urlList":[]}}
+{
+  "title": "Damian Marley -Welcome To Jamrock (album) 2005",
+  "uid": 3377472,
+  "size": 89212167,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:9d37bd8b2a4522451895a8ed486ec2f20ef9646e&amp;dn=Damian+Marley+-Welcome+To+Jamrock+%28album%29+2005&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 1,
+  "uploader": "RBM",
+  "files": 17,
+  "time": 1125557125,
+  "description": "New album",
+  "parsed": {
+    "xt": "urn:btih:9d37bd8b2a4522451895a8ed486ec2f20ef9646e",
+    "dn": "Damian Marley -Welcome To Jamrock (album) 2005",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9d37bd8b2a4522451895a8ed486ec2f20ef9646e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        157,
+        55,
+        189,
+        139,
+        42,
+        69,
+        34,
+        69,
+        24,
+        149,
+        168,
+        237,
+        72,
+        110,
+        194,
+        242,
+        14,
+        249,
+        100,
+        110
+      ]
+    },
+    "name": "Damian Marley -Welcome To Jamrock (album) 2005",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 26,
+  "last_updated": "2016-12-25T09:10:48.410Z"
+}

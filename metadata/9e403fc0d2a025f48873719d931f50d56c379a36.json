@@ -1,1 +1,61 @@
-{"title":"Game of Thrones S03E02 HDTV x264-2HD[ettv]","uid":8352880,"size":501747265,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:9e403fc0d2a025f48873719d931f50d56c379a36&amp;dn=Game+of+Thrones+S03E02+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":79,"leechers":3,"uploader":"ettv","files":2,"time":1365395226,"description":"x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n","torrent":{"xt":"urn:btih:9e403fc0d2a025f48873719d931f50d56c379a36","amp;dn":"Game+of+Thrones+S03E02+HDTV+x264-2HD%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9e403fc0d2a025f48873719d931f50d56c379a36","infoHashBuffer":{"type":"Buffer","data":[158,64,63,192,210,160,37,244,136,115,113,157,147,31,80,213,108,55,154,54]},"announce":[],"urlList":[]}}
+{
+  "title": "Game of Thrones S03E02 HDTV x264-2HD[ettv]",
+  "uid": 8352880,
+  "size": 501747265,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:9e403fc0d2a025f48873719d931f50d56c379a36&amp;dn=Game+of+Thrones+S03E02+HDTV+x264-2HD%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 79,
+  "leechers": 3,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1365395226,
+  "description": "x264\nEncode Information\nResolution....: 720x402\nVideo : x264\nAudio : AAC 2ch 48khz\nFrame Rate : 23.976024 fps &lt;a href=&quot;\nhttp://www.imdb.com/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://www.imdb.com/&lt;/a&gt;\n",
+  "parsed": {
+    "xt": "urn:btih:9e403fc0d2a025f48873719d931f50d56c379a36",
+    "dn": "Game of Thrones S03E02 HDTV x264-2HD[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9e403fc0d2a025f48873719d931f50d56c379a36",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        158,
+        64,
+        63,
+        192,
+        210,
+        160,
+        37,
+        244,
+        136,
+        115,
+        113,
+        157,
+        147,
+        31,
+        80,
+        213,
+        108,
+        55,
+        154,
+        54
+      ]
+    },
+    "name": "Game of Thrones S03E02 HDTV x264-2HD[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 82,
+  "peers": 22,
+  "last_updated": "2016-12-25T09:18:15.721Z"
+}

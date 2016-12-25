@@ -1,1 +1,61 @@
-{"title":"The Forest - Alpha v0.21c","uid":12177881,"size":1159592058,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:9dc0bf42a9f199a92ff7cba886c5c1562fed646d&amp;dn=The+Forest+-+Alpha+v0.21c&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":211,"leechers":7,"uploader":"dauphong","files":1,"time":1438354638,"description":"About This Game\nAs the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants.\n\nBuild, explore, survive in this terrifying first person survival horror simulator.\nKey alpha features\nEnter a living, breathing world, where every tree and plant can be chopped down. Below ground explore a vast network of caves and underground lakes.\n\n    Chop down trees to build a camp, or start a fire to keep warm. Scavenge food to keep yourself from starving.\n    Build a small shelter or a large ocean side fortress. Lay traps and defences to keep a safe perimeter.\n    Explore and build during the day. Defend your base at night. Craft weapons and tools. Bunker down during the evening or bring the fight directly to the enemy.\n    Defend yourself against a clan of genetic mutant enemies that have beliefs, families, morals and that appear almost human.\n    Use stealth to evade enemies, or engage them directly with crude weapons built from sticks and stones","torrent":{"xt":"urn:btih:9dc0bf42a9f199a92ff7cba886c5c1562fed646d","amp;dn":"The+Forest+-+Alpha+v0.21c","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9dc0bf42a9f199a92ff7cba886c5c1562fed646d","infoHashBuffer":{"type":"Buffer","data":[157,192,191,66,169,241,153,169,47,247,203,168,134,197,193,86,47,237,100,109]},"announce":[],"urlList":[]}}
+{
+  "title": "The Forest - Alpha v0.21c",
+  "uid": 12177881,
+  "size": 1159592058,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:9dc0bf42a9f199a92ff7cba886c5c1562fed646d&amp;dn=The+Forest+-+Alpha+v0.21c&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 211,
+  "leechers": 7,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1438354638,
+  "description": "About This Game\nAs the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants.\n\nBuild, explore, survive in this terrifying first person survival horror simulator.\nKey alpha features\nEnter a living, breathing world, where every tree and plant can be chopped down. Below ground explore a vast network of caves and underground lakes.\n\n    Chop down trees to build a camp, or start a fire to keep warm. Scavenge food to keep yourself from starving.\n    Build a small shelter or a large ocean side fortress. Lay traps and defences to keep a safe perimeter.\n    Explore and build during the day. Defend your base at night. Craft weapons and tools. Bunker down during the evening or bring the fight directly to the enemy.\n    Defend yourself against a clan of genetic mutant enemies that have beliefs, families, morals and that appear almost human.\n    Use stealth to evade enemies, or engage them directly with crude weapons built from sticks and stones",
+  "parsed": {
+    "xt": "urn:btih:9dc0bf42a9f199a92ff7cba886c5c1562fed646d",
+    "dn": "The Forest - Alpha v0.21c",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9dc0bf42a9f199a92ff7cba886c5c1562fed646d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        157,
+        192,
+        191,
+        66,
+        169,
+        241,
+        153,
+        169,
+        47,
+        247,
+        203,
+        168,
+        134,
+        197,
+        193,
+        86,
+        47,
+        237,
+        100,
+        109
+      ]
+    },
+    "name": "The Forest - Alpha v0.21c",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 218,
+  "peers": 139,
+  "last_updated": "2016-12-25T09:14:53.155Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Bully Scholarship Edition PC (.iso file)","uid":9071595,"size":3556048896,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:9f16dd4600b06dbfcd9f24bc39c69c7d63643627&amp;dn=Bully+Scholarship+Edition+PC+%28.iso+file%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":3,"uploader":"Edness","files":1,"time":1382210321,"description":"Bully: Scholarship Edition iso file. Mount it in Daemon tools or whatever else can be used to mount .iso files. Just follow the instructions in the installer and everything should work.","torrent":{"xt":"urn:btih:9f16dd4600b06dbfcd9f24bc39c69c7d63643627","amp;dn":"Bully+Scholarship+Edition+PC+%28.iso+file%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9f16dd4600b06dbfcd9f24bc39c69c7d63643627","infoHashBuffer":{"type":"Buffer","data":[159,22,221,70,0,176,109,191,205,159,36,188,57,198,156,125,99,100,54,39]},"announce":[],"urlList":[]}}
+{
+  "title": "Bully Scholarship Edition PC (.iso file)",
+  "uid": 9071595,
+  "size": 3556048896,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:9f16dd4600b06dbfcd9f24bc39c69c7d63643627&amp;dn=Bully+Scholarship+Edition+PC+%28.iso+file%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 3,
+  "uploader": "Edness",
+  "files": 1,
+  "time": 1382210321,
+  "description": "Bully: Scholarship Edition iso file. Mount it in Daemon tools or whatever else can be used to mount .iso files. Just follow the instructions in the installer and everything should work.",
+  "parsed": {
+    "xt": "urn:btih:9f16dd4600b06dbfcd9f24bc39c69c7d63643627",
+    "dn": "Bully Scholarship Edition PC (.iso file)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9f16dd4600b06dbfcd9f24bc39c69c7d63643627",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        159,
+        22,
+        221,
+        70,
+        0,
+        176,
+        109,
+        191,
+        205,
+        159,
+        36,
+        188,
+        57,
+        198,
+        156,
+        125,
+        99,
+        100,
+        54,
+        39
+      ]
+    },
+    "name": "Bully Scholarship Edition PC (.iso file)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 20,
+  "last_updated": "2016-12-25T09:23:22.844Z"
+}

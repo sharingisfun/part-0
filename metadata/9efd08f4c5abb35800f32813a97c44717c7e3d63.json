@@ -1,1 +1,61 @@
-{"title":"AUTODESK.MAYA.V2015.WIN64-ISO","uid":9791422,"size":4784671355,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:9efd08f4c5abb35800f32813a97c44717c7e3d63&amp;dn=AUTODESK.MAYA.V2015.WIN64-ISO&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":148,"leechers":17,"uploader":"Drarbg","files":2,"time":1395253062,"description":"AUTODESK.MAYA.V2015.WIN64-ISO\n-----------------------------------------\nScreens :\n\n","torrent":{"xt":"urn:btih:9efd08f4c5abb35800f32813a97c44717c7e3d63","amp;dn":"AUTODESK.MAYA.V2015.WIN64-ISO","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9efd08f4c5abb35800f32813a97c44717c7e3d63","infoHashBuffer":{"type":"Buffer","data":[158,253,8,244,197,171,179,88,0,243,40,19,169,124,68,113,124,126,61,99]},"announce":[],"urlList":[]}}
+{
+  "title": "AUTODESK.MAYA.V2015.WIN64-ISO",
+  "uid": 9791422,
+  "size": 4784671355,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:9efd08f4c5abb35800f32813a97c44717c7e3d63&amp;dn=AUTODESK.MAYA.V2015.WIN64-ISO&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 148,
+  "leechers": 17,
+  "uploader": "Drarbg",
+  "files": 2,
+  "time": 1395253062,
+  "description": "AUTODESK.MAYA.V2015.WIN64-ISO\n-----------------------------------------\nScreens :\n\n",
+  "parsed": {
+    "xt": "urn:btih:9efd08f4c5abb35800f32813a97c44717c7e3d63",
+    "dn": "AUTODESK.MAYA.V2015.WIN64-ISO",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9efd08f4c5abb35800f32813a97c44717c7e3d63",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        158,
+        253,
+        8,
+        244,
+        197,
+        171,
+        179,
+        88,
+        0,
+        243,
+        40,
+        19,
+        169,
+        124,
+        68,
+        113,
+        124,
+        126,
+        61,
+        99
+      ]
+    },
+    "name": "AUTODESK.MAYA.V2015.WIN64-ISO",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 165,
+  "peers": 143,
+  "last_updated": "2016-12-25T09:22:42.670Z"
+}

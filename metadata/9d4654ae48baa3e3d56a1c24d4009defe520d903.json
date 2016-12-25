@@ -1,1 +1,61 @@
-{"title":"CSI.Cyber.S01E05.HDTV.x264-LOL[ettv]","uid":11805349,"size":340127407,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:9d4654ae48baa3e3d56a1c24d4009defe520d903&amp;dn=CSI.Cyber.S01E05.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":136,"leechers":26,"uploader":"ettv","files":4,"time":1428555919,"description":"#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:9d4654ae48baa3e3d56a1c24d4009defe520d903","amp;dn":"CSI.Cyber.S01E05.HDTV.x264-LOL%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9d4654ae48baa3e3d56a1c24d4009defe520d903","infoHashBuffer":{"type":"Buffer","data":[157,70,84,174,72,186,163,227,213,106,28,36,212,0,157,239,229,32,217,3]},"announce":[],"urlList":[]}}
+{
+  "title": "CSI.Cyber.S01E05.HDTV.x264-LOL[ettv]",
+  "uid": 11805349,
+  "size": 340127407,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:9d4654ae48baa3e3d56a1c24d4009defe520d903&amp;dn=CSI.Cyber.S01E05.HDTV.x264-LOL%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 136,
+  "leechers": 26,
+  "uploader": "ettv",
+  "files": 4,
+  "time": 1428555919,
+  "description": "#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:9d4654ae48baa3e3d56a1c24d4009defe520d903",
+    "dn": "CSI.Cyber.S01E05.HDTV.x264-LOL[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9d4654ae48baa3e3d56a1c24d4009defe520d903",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        157,
+        70,
+        84,
+        174,
+        72,
+        186,
+        163,
+        227,
+        213,
+        106,
+        28,
+        36,
+        212,
+        0,
+        157,
+        239,
+        229,
+        32,
+        217,
+        3
+      ]
+    },
+    "name": "CSI.Cyber.S01E05.HDTV.x264-LOL[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 162,
+  "peers": 61,
+  "last_updated": "2016-12-25T09:11:18.511Z"
+}

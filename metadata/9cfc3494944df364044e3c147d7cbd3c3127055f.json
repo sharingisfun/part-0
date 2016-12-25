@@ -1,1 +1,61 @@
-{"title":"Ms. Marvel 015 (2015) (Digital) (Zone-Empire)","uid":11918302,"size":51196054,"categoryP":"other","categoryS":"comics","magnet":"?xt=urn:btih:9cfc3494944df364044e3c147d7cbd3c3127055f&amp;dn=Ms.+Marvel+015+%282015%29+%28Digital%29+%28Zone-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":5,"uploader":"jedi.jesse","files":1,"time":1431580354,"description":"True love or true enemy? There's a reason it's called a CRUSH. Ms. Marvel faces her most confusing challenge yet!","torrent":{"xt":"urn:btih:9cfc3494944df364044e3c147d7cbd3c3127055f","amp;dn":"Ms.+Marvel+015+%282015%29+%28Digital%29+%28Zone-Empire%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"9cfc3494944df364044e3c147d7cbd3c3127055f","infoHashBuffer":{"type":"Buffer","data":[156,252,52,148,148,77,243,100,4,78,60,20,125,124,189,60,49,39,5,95]},"announce":[],"urlList":[]}}
+{
+  "title": "Ms. Marvel 015 (2015) (Digital) (Zone-Empire)",
+  "uid": 11918302,
+  "size": 51196054,
+  "categoryP": "other",
+  "categoryS": "comics",
+  "magnet": "?xt=urn:btih:9cfc3494944df364044e3c147d7cbd3c3127055f&amp;dn=Ms.+Marvel+015+%282015%29+%28Digital%29+%28Zone-Empire%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 5,
+  "uploader": "jedi.jesse",
+  "files": 1,
+  "time": 1431580354,
+  "description": "True love or true enemy? There's a reason it's called a CRUSH. Ms. Marvel faces her most confusing challenge yet!",
+  "parsed": {
+    "xt": "urn:btih:9cfc3494944df364044e3c147d7cbd3c3127055f",
+    "dn": "Ms. Marvel 015 (2015) (Digital) (Zone-Empire)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "9cfc3494944df364044e3c147d7cbd3c3127055f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        156,
+        252,
+        52,
+        148,
+        148,
+        77,
+        243,
+        100,
+        4,
+        78,
+        60,
+        20,
+        125,
+        124,
+        189,
+        60,
+        49,
+        39,
+        5,
+        95
+      ]
+    },
+    "name": "Ms. Marvel 015 (2015) (Digital) (Zone-Empire)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 48,
+  "peers": 4,
+  "last_updated": "2016-12-25T09:09:18.164Z"
+}
