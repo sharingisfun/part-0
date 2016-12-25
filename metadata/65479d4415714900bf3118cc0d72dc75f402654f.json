@@ -1,1 +1,61 @@
-{"title":"MacDrive.Pro.9.0.3.35","uid":7830657,"size":18002164,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:65479d4415714900bf3118cc0d72dc75f402654f&amp;dn=MacDrive.Pro.9.0.3.35&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":55,"leechers":1,"uploader":"User_01","files":-1,"time":1353045559,"description":"MacDrive 9 Pro x86 and x64 (properly re-uploaded)\n\nThe instructions are a little bit confusing, so to rectify things the correct path is:\n\n&quot;/Program Files/Common Files/MediaFour&quot;\n\n\n(credits goes to: )\n\n&quot;PeterHolbrook\n\n\nOK. Here's the deal: The first step of the instructions is defective. It says the relevant crakced DLL should be copied &quot;to program folder&quot;, which is &quot;Program FilesMediaFourMacDrive 9&quot;. That's the wrong path. It is to be copied to &quot;Program FilesCommon FilesMediaFour&quot;. This way, it does replace something and the crack works as advertised. Thank you, wall wallpwallpapers, but the instructions should be modified!\n&quot;\n\n\n(Tested, and it's working!)\n\n\nEnjoy!","torrent":{"xt":"urn:btih:65479d4415714900bf3118cc0d72dc75f402654f","amp;dn":"MacDrive.Pro.9.0.3.35","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"65479d4415714900bf3118cc0d72dc75f402654f","infoHashBuffer":{"type":"Buffer","data":[101,71,157,68,21,113,73,0,191,49,24,204,13,114,220,117,244,2,101,79]},"announce":[],"urlList":[]}}
+{
+  "title": "MacDrive.Pro.9.0.3.35",
+  "uid": 7830657,
+  "size": 18002164,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:65479d4415714900bf3118cc0d72dc75f402654f&amp;dn=MacDrive.Pro.9.0.3.35&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 55,
+  "leechers": 1,
+  "uploader": "User_01",
+  "files": -1,
+  "time": 1353045559,
+  "description": "MacDrive 9 Pro x86 and x64 (properly re-uploaded)\n\nThe instructions are a little bit confusing, so to rectify things the correct path is:\n\n&quot;/Program Files/Common Files/MediaFour&quot;\n\n\n(credits goes to: )\n\n&quot;PeterHolbrook\n\n\nOK. Here's the deal: The first step of the instructions is defective. It says the relevant crakced DLL should be copied &quot;to program folder&quot;, which is &quot;Program FilesMediaFourMacDrive 9&quot;. That's the wrong path. It is to be copied to &quot;Program FilesCommon FilesMediaFour&quot;. This way, it does replace something and the crack works as advertised. Thank you, wall wallpwallpapers, but the instructions should be modified!\n&quot;\n\n\n(Tested, and it's working!)\n\n\nEnjoy!",
+  "parsed": {
+    "xt": "urn:btih:65479d4415714900bf3118cc0d72dc75f402654f",
+    "dn": "MacDrive.Pro.9.0.3.35",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "65479d4415714900bf3118cc0d72dc75f402654f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        101,
+        71,
+        157,
+        68,
+        21,
+        113,
+        73,
+        0,
+        191,
+        49,
+        24,
+        204,
+        13,
+        114,
+        220,
+        117,
+        244,
+        2,
+        101,
+        79
+      ]
+    },
+    "name": "MacDrive.Pro.9.0.3.35",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 56,
+  "peers": 9,
+  "last_updated": "2016-12-25T03:10:30.475Z"
+}

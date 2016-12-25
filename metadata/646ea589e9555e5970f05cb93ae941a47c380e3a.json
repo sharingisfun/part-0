@@ -1,1 +1,61 @@
-{"title":"Ebook DRM Removal Tool   (kindle, mobi, epub, pdf, etc.)","uid":6763965,"size":44570896,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:646ea589e9555e5970f05cb93ae941a47c380e3a&amp;dn=Ebook+DRM+Removal+Tool+++%28kindle%2C+mobi%2C+epub%2C+pdf%2C+etc.%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":44,"leechers":2,"uploader":"neil1966hardy","files":12,"time":1319300522,"description":"Included are calibre and the calibre plug ins needed to remove drm from ebooks.\n\nPlease note that this will only work for drm-ed ebooks which you can actually open. If a friend gives you a drm-ed ebook and you cannot open it then you will need to get that friend to remove the drm himself.\n\n\nEnjoy and Seed!!\n","torrent":{"xt":"urn:btih:646ea589e9555e5970f05cb93ae941a47c380e3a","amp;dn":"Ebook+DRM+Removal+Tool+++%28kindle%2C+mobi%2C+epub%2C+pdf%2C+etc.%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"646ea589e9555e5970f05cb93ae941a47c380e3a","infoHashBuffer":{"type":"Buffer","data":[100,110,165,137,233,85,94,89,112,240,92,185,58,233,65,164,124,56,14,58]},"announce":[],"urlList":[]}}
+{
+  "title": "Ebook DRM Removal Tool   (kindle, mobi, epub, pdf, etc.)",
+  "uid": 6763965,
+  "size": 44570896,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:646ea589e9555e5970f05cb93ae941a47c380e3a&amp;dn=Ebook+DRM+Removal+Tool+++%28kindle%2C+mobi%2C+epub%2C+pdf%2C+etc.%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 44,
+  "leechers": 2,
+  "uploader": "neil1966hardy",
+  "files": 12,
+  "time": 1319300522,
+  "description": "Included are calibre and the calibre plug ins needed to remove drm from ebooks.\n\nPlease note that this will only work for drm-ed ebooks which you can actually open. If a friend gives you a drm-ed ebook and you cannot open it then you will need to get that friend to remove the drm himself.\n\n\nEnjoy and Seed!!\n",
+  "parsed": {
+    "xt": "urn:btih:646ea589e9555e5970f05cb93ae941a47c380e3a",
+    "dn": "Ebook DRM Removal Tool   (kindle, mobi, epub, pdf, etc.)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "646ea589e9555e5970f05cb93ae941a47c380e3a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        100,
+        110,
+        165,
+        137,
+        233,
+        85,
+        94,
+        89,
+        112,
+        240,
+        92,
+        185,
+        58,
+        233,
+        65,
+        164,
+        124,
+        56,
+        14,
+        58
+      ]
+    },
+    "name": "Ebook DRM Removal Tool   (kindle, mobi, epub, pdf, etc.)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 9,
+  "last_updated": "2016-12-25T03:04:35.507Z"
+}

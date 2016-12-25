@@ -1,1 +1,61 @@
-{"title":"Flume - Flume (Album)","uid":8391680,"size":97277809,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:651e494d810a5611b13ea5a0a4adc4cbf681305a&amp;dn=Flume+-+Flume+%28Album%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":45,"leechers":0,"uploader":"NewSky004","files":-1,"time":1366447830,"description":"01. Sintra\n02. Let Alone feat. Chet Faker\n03. Sleepless feat. Jezzabell Doran\n04. On Top feat. T.Shirt\n05. Stay Close\n06. Insane feat. Moon Holiday\n07. Change\n08. Ezra\n09. More Than You Thought\n10. Space Cadet\n11. Bring You Down feat. George Maple\n12. Warm Thoughts\n13. What You Need\n14. Star Eyes\n15. Holdin On\n\n\nThis torrent is direct from iTunes for the best quality!\nIf you like the music, Support the artist.","torrent":{"xt":"urn:btih:651e494d810a5611b13ea5a0a4adc4cbf681305a","amp;dn":"Flume+-+Flume+%28Album%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"651e494d810a5611b13ea5a0a4adc4cbf681305a","infoHashBuffer":{"type":"Buffer","data":[101,30,73,77,129,10,86,17,177,62,165,160,164,173,196,203,246,129,48,90]},"announce":[],"urlList":[]}}
+{
+  "title": "Flume - Flume (Album)",
+  "uid": 8391680,
+  "size": 97277809,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:651e494d810a5611b13ea5a0a4adc4cbf681305a&amp;dn=Flume+-+Flume+%28Album%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 45,
+  "leechers": 0,
+  "uploader": "NewSky004",
+  "files": -1,
+  "time": 1366447830,
+  "description": "01. Sintra\n02. Let Alone feat. Chet Faker\n03. Sleepless feat. Jezzabell Doran\n04. On Top feat. T.Shirt\n05. Stay Close\n06. Insane feat. Moon Holiday\n07. Change\n08. Ezra\n09. More Than You Thought\n10. Space Cadet\n11. Bring You Down feat. George Maple\n12. Warm Thoughts\n13. What You Need\n14. Star Eyes\n15. Holdin On\n\n\nThis torrent is direct from iTunes for the best quality!\nIf you like the music, Support the artist.",
+  "parsed": {
+    "xt": "urn:btih:651e494d810a5611b13ea5a0a4adc4cbf681305a",
+    "dn": "Flume - Flume (Album)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "651e494d810a5611b13ea5a0a4adc4cbf681305a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        101,
+        30,
+        73,
+        77,
+        129,
+        10,
+        86,
+        17,
+        177,
+        62,
+        165,
+        160,
+        164,
+        173,
+        196,
+        203,
+        246,
+        129,
+        48,
+        90
+      ]
+    },
+    "name": "Flume - Flume (Album)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 45,
+  "peers": 0,
+  "last_updated": "2016-12-25T03:09:22.282Z"
+}

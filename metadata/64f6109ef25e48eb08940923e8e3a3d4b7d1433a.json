@@ -1,1 +1,61 @@
-{"title":"Ricardo Arjona - APNEA (Single 2014) (320 kbps)","uid":9699475,"size":9987341,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:64f6109ef25e48eb08940923e8e3a3d4b7d1433a&amp;dn=Ricardo+Arjona+-+APNEA+%28Single+2014%29+%28320+kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":107,"leechers":0,"uploader":"lexiico","files":-1,"time":1393975315,"description":"Apnea - Primer sencillo de su nuevo ÃƒÂ¡lbum 2014 &quot;Viaje&quot; 320 kbps","torrent":{"xt":"urn:btih:64f6109ef25e48eb08940923e8e3a3d4b7d1433a","amp;dn":"Ricardo+Arjona+-+APNEA+%28Single+2014%29+%28320+kbps%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"64f6109ef25e48eb08940923e8e3a3d4b7d1433a","infoHashBuffer":{"type":"Buffer","data":[100,246,16,158,242,94,72,235,8,148,9,35,232,227,163,212,183,209,67,58]},"announce":[],"urlList":[]}}
+{
+  "title": "Ricardo Arjona - APNEA (Single 2014) (320 kbps)",
+  "uid": 9699475,
+  "size": 9987341,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:64f6109ef25e48eb08940923e8e3a3d4b7d1433a&amp;dn=Ricardo+Arjona+-+APNEA+%28Single+2014%29+%28320+kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 107,
+  "leechers": 0,
+  "uploader": "lexiico",
+  "files": -1,
+  "time": 1393975315,
+  "description": "Apnea - Primer sencillo de su nuevo ÃƒÂ¡lbum 2014 &quot;Viaje&quot; 320 kbps",
+  "parsed": {
+    "xt": "urn:btih:64f6109ef25e48eb08940923e8e3a3d4b7d1433a",
+    "dn": "Ricardo Arjona - APNEA (Single 2014) (320 kbps)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "64f6109ef25e48eb08940923e8e3a3d4b7d1433a",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        100,
+        246,
+        16,
+        158,
+        242,
+        94,
+        72,
+        235,
+        8,
+        148,
+        9,
+        35,
+        232,
+        227,
+        163,
+        212,
+        183,
+        209,
+        67,
+        58
+      ]
+    },
+    "name": "Ricardo Arjona - APNEA (Single 2014) (320 kbps)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 107,
+  "peers": 60,
+  "last_updated": "2016-12-25T03:08:12.093Z"
+}

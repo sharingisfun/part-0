@@ -1,1 +1,61 @@
-{"title":"Falling Skies S04E01 WEB-DL x264-FUM[ettv]","uid":10374206,"size":353140615,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:65f82e853ac8ac5d9efae2b048440db24d8752d0&amp;dn=Falling+Skies+S04E01+WEB-DL+x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":50,"leechers":9,"uploader":"ettv","files":2,"time":1402971468,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:65f82e853ac8ac5d9efae2b048440db24d8752d0","amp;dn":"Falling+Skies+S04E01+WEB-DL+x264-FUM%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"65f82e853ac8ac5d9efae2b048440db24d8752d0","infoHashBuffer":{"type":"Buffer","data":[101,248,46,133,58,200,172,93,158,250,226,176,72,68,13,178,77,135,82,208]},"announce":[],"urlList":[]}}
+{
+  "title": "Falling Skies S04E01 WEB-DL x264-FUM[ettv]",
+  "uid": 10374206,
+  "size": 353140615,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:65f82e853ac8ac5d9efae2b048440db24d8752d0&amp;dn=Falling+Skies+S04E01+WEB-DL+x264-FUM%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 50,
+  "leechers": 9,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1402971468,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:65f82e853ac8ac5d9efae2b048440db24d8752d0",
+    "dn": "Falling Skies S04E01 WEB-DL x264-FUM[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "65f82e853ac8ac5d9efae2b048440db24d8752d0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        101,
+        248,
+        46,
+        133,
+        58,
+        200,
+        172,
+        93,
+        158,
+        250,
+        226,
+        176,
+        72,
+        68,
+        13,
+        178,
+        77,
+        135,
+        82,
+        208
+      ]
+    },
+    "name": "Falling Skies S04E01 WEB-DL x264-FUM[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 1,
+  "last_updated": "2016-12-25T03:14:49.250Z"
+}

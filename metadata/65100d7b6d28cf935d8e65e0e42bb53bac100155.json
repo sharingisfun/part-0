@@ -1,1 +1,61 @@
-{"title":"iExplorer 3.2.2.6 with Serial","uid":8557591,"size":9560767,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:65100d7b6d28cf935d8e65e0e42bb53bac100155&amp;dn=iExplorer+3.2.2.6+with+Serial&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":130,"leechers":2,"uploader":"saifi2649","files":2,"time":1370804354,"description":"Intelligently Transfer Music to iTunes \n\nWith iExplorer, getting music and other media from an iPhone, iPod or iPad to your \n\nMac or PC couldn't be any easier. You can search for particular tracks, listen to \n\nthem directly from your device and even drag and drop them to your computer. With \n\nthe \n\ntouch of a button you can copy those songs and even rebuild playlists directly from \n\nyour device into iTunes. \n\nAvoid Duplicates, save Meta-Data \n\nIf your music collection is scattered across multiple computers or devices; \n\niExplorer \n\nis the tool that will help you finally unify your music library. With iTunes \n\nduplicate detection, iExplorer intelligently skips copying dupes from your device to \n\nyour computer tracks so you can easily recover playlists or everything from your \n\ndusty old iPod without having to worry about swapping your computer with thousands of \n\nredundant tracks. And did we mention that when you do import music into iTunes, \n\niExplorer saves your meta-data, such as play counts, ratings and other info? \n\nSystem Requirements: \n\nWindows XP, Vista, 7 or later \n\niTunes 10 or later ","torrent":{"xt":"urn:btih:65100d7b6d28cf935d8e65e0e42bb53bac100155","amp;dn":"iExplorer+3.2.2.6+with+Serial","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"65100d7b6d28cf935d8e65e0e42bb53bac100155","infoHashBuffer":{"type":"Buffer","data":[101,16,13,123,109,40,207,147,93,142,101,224,228,43,181,59,172,16,1,85]},"announce":[],"urlList":[]}}
+{
+  "title": "iExplorer 3.2.2.6 with Serial",
+  "uid": 8557591,
+  "size": 9560767,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:65100d7b6d28cf935d8e65e0e42bb53bac100155&amp;dn=iExplorer+3.2.2.6+with+Serial&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 130,
+  "leechers": 2,
+  "uploader": "saifi2649",
+  "files": 2,
+  "time": 1370804354,
+  "description": "Intelligently Transfer Music to iTunes \n\nWith iExplorer, getting music and other media from an iPhone, iPod or iPad to your \n\nMac or PC couldn't be any easier. You can search for particular tracks, listen to \n\nthem directly from your device and even drag and drop them to your computer. With \n\nthe \n\ntouch of a button you can copy those songs and even rebuild playlists directly from \n\nyour device into iTunes. \n\nAvoid Duplicates, save Meta-Data \n\nIf your music collection is scattered across multiple computers or devices; \n\niExplorer \n\nis the tool that will help you finally unify your music library. With iTunes \n\nduplicate detection, iExplorer intelligently skips copying dupes from your device to \n\nyour computer tracks so you can easily recover playlists or everything from your \n\ndusty old iPod without having to worry about swapping your computer with thousands of \n\nredundant tracks. And did we mention that when you do import music into iTunes, \n\niExplorer saves your meta-data, such as play counts, ratings and other info? \n\nSystem Requirements: \n\nWindows XP, Vista, 7 or later \n\niTunes 10 or later ",
+  "parsed": {
+    "xt": "urn:btih:65100d7b6d28cf935d8e65e0e42bb53bac100155",
+    "dn": "iExplorer 3.2.2.6 with Serial",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "65100d7b6d28cf935d8e65e0e42bb53bac100155",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        101,
+        16,
+        13,
+        123,
+        109,
+        40,
+        207,
+        147,
+        93,
+        142,
+        101,
+        224,
+        228,
+        43,
+        181,
+        59,
+        172,
+        16,
+        1,
+        85
+      ]
+    },
+    "name": "iExplorer 3.2.2.6 with Serial",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 132,
+  "peers": 33,
+  "last_updated": "2016-12-25T03:09:04.235Z"
+}

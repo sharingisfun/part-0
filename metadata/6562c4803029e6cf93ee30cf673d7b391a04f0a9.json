@@ -1,1 +1,63 @@
-{"title":"Paint the Town Red v0.5.2","uid":15368514,"size":321106644,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:6562c4803029e6cf93ee30cf673d7b391a04f0a9&amp;dn=Paint+the+Town+Red+v0.5.2&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":43,"leechers":1,"uploader":"dauphong","files":1,"time":1469116666,"description":"Paint the Town Red is a chaotic first person melee combat game set in different locations and time periods. The voxel-based enemies can be punched, bashed, kicked, stabbed and sliced completely dynamically using almost anything that isn't nailed down.\r\n\r\nYou'll need to use your wits, speed and anything you can get your hands on in epic bar fights, disco brawls, old west saloon rumbles, college frat house beat-downs and a lot more.\r\n\r\nWe'll be adding more levels to the Early Access versions leading up to release and look forward to creating the best level ideas from the community. Please follow and add to your Wishlist to keep up to date on development and be notified on release","torrent":{"xt":"urn:btih:6562c4803029e6cf93ee30cf673d7b391a04f0a9","amp;dn":"Paint+the+Town+Red+v0.5.2","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6562c4803029e6cf93ee30cf673d7b391a04f0a9","infoHashBuffer":{"type":"Buffer","data":[101,98,196,128,48,41,230,207,147,238,48,207,103,61,123,57,26,4,240,169]},"announce":[],"urlList":[]}}
+{
+  "title": "Paint the Town Red v0.5.2",
+  "uid": 15368514,
+  "size": 321106644,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:6562c4803029e6cf93ee30cf673d7b391a04f0a9&amp;dn=Paint+the+Town+Red+v0.5.2&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 43,
+  "leechers": 1,
+  "uploader": "dauphong",
+  "files": 1,
+  "time": 1469116666,
+  "description": "Paint the Town Red is a chaotic first person melee combat game set in different locations and time periods. The voxel-based enemies can be punched, bashed, kicked, stabbed and sliced completely dynamically using almost anything that isn't nailed down.\r\n\r\nYou'll need to use your wits, speed and anything you can get your hands on in epic bar fights, disco brawls, old west saloon rumbles, college frat house beat-downs and a lot more.\r\n\r\nWe'll be adding more levels to the Early Access versions leading up to release and look forward to creating the best level ideas from the community. Please follow and add to your Wishlist to keep up to date on development and be notified on release",
+  "parsed": {
+    "xt": "urn:btih:6562c4803029e6cf93ee30cf673d7b391a04f0a9",
+    "dn": "Paint the Town Red v0.5.2",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "6562c4803029e6cf93ee30cf673d7b391a04f0a9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        101,
+        98,
+        196,
+        128,
+        48,
+        41,
+        230,
+        207,
+        147,
+        238,
+        48,
+        207,
+        103,
+        61,
+        123,
+        57,
+        26,
+        4,
+        240,
+        169
+      ]
+    },
+    "name": "Paint the Town Red v0.5.2",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 44,
+  "peers": 36,
+  "last_updated": "2016-12-25T03:11:00.565Z"
+}

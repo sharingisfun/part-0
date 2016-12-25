@@ -1,1 +1,61 @@
-{"title":"Taylor Swift - Style [MP3@320kbps][JRR].mp3","uid":11723241,"size":9801322,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:6589b48fd8caad828fc52a28ad2ad79630f1acb0&amp;dn=Taylor+Swift+-+Style+%5BMP3%40320kbps%5D%5BJRR%5D.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":150,"leechers":19,"uploader":"JRRtv","files":1,"time":1424947623,"description":"MP3@320kbps","torrent":{"xt":"urn:btih:6589b48fd8caad828fc52a28ad2ad79630f1acb0","amp;dn":"Taylor+Swift+-+Style+%5BMP3%40320kbps%5D%5BJRR%5D.mp3","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6589b48fd8caad828fc52a28ad2ad79630f1acb0","infoHashBuffer":{"type":"Buffer","data":[101,137,180,143,216,202,173,130,143,197,42,40,173,42,215,150,48,241,172,176]},"announce":[],"urlList":[]}}
+{
+  "title": "Taylor Swift - Style [MP3@320kbps][JRR].mp3",
+  "uid": 11723241,
+  "size": 9801322,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:6589b48fd8caad828fc52a28ad2ad79630f1acb0&amp;dn=Taylor+Swift+-+Style+%5BMP3%40320kbps%5D%5BJRR%5D.mp3&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 150,
+  "leechers": 19,
+  "uploader": "JRRtv",
+  "files": 1,
+  "time": 1424947623,
+  "description": "MP3@320kbps",
+  "parsed": {
+    "xt": "urn:btih:6589b48fd8caad828fc52a28ad2ad79630f1acb0",
+    "dn": "Taylor Swift - Style [MP3@320kbps][JRR].mp3",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6589b48fd8caad828fc52a28ad2ad79630f1acb0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        101,
+        137,
+        180,
+        143,
+        216,
+        202,
+        173,
+        130,
+        143,
+        197,
+        42,
+        40,
+        173,
+        42,
+        215,
+        150,
+        48,
+        241,
+        172,
+        176
+      ]
+    },
+    "name": "Taylor Swift - Style [MP3@320kbps][JRR].mp3",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 169,
+  "peers": 143,
+  "last_updated": "2016-12-25T03:11:54.713Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Adobe after effect v6,5 Proffesional","uid":3276696,"size":472010752,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:65da3a505429fc6cd01af8200af65747ee979176&amp;dn=Adobe+after+effect+v6%2C5+Proffesional&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":72,"leechers":1,"uploader":"derra22","files":1,"time":1105733584,"description":"Effekter till Adobe premiÃƒÂ©r mm","torrent":{"xt":"urn:btih:65da3a505429fc6cd01af8200af65747ee979176","amp;dn":"Adobe+after+effect+v6%2C5+Proffesional","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"65da3a505429fc6cd01af8200af65747ee979176","infoHashBuffer":{"type":"Buffer","data":[101,218,58,80,84,41,252,108,208,26,248,32,10,246,87,71,238,151,145,118]},"announce":[],"urlList":[]}}
+{
+  "title": "Adobe after effect v6,5 Proffesional",
+  "uid": 3276696,
+  "size": 472010752,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:65da3a505429fc6cd01af8200af65747ee979176&amp;dn=Adobe+after+effect+v6%2C5+Proffesional&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 72,
+  "leechers": 1,
+  "uploader": "derra22",
+  "files": 1,
+  "time": 1105733584,
+  "description": "Effekter till Adobe premiÃƒÂ©r mm",
+  "parsed": {
+    "xt": "urn:btih:65da3a505429fc6cd01af8200af65747ee979176",
+    "dn": "Adobe after effect v6,5 Proffesional",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "65da3a505429fc6cd01af8200af65747ee979176",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        101,
+        218,
+        58,
+        80,
+        84,
+        41,
+        252,
+        108,
+        208,
+        26,
+        248,
+        32,
+        10,
+        246,
+        87,
+        71,
+        238,
+        151,
+        145,
+        118
+      ]
+    },
+    "name": "Adobe after effect v6,5 Proffesional",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 52,
+  "last_updated": "2016-12-25T03:14:03.101Z"
+}

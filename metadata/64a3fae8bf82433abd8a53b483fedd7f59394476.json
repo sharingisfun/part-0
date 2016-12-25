@@ -1,1 +1,61 @@
-{"title":"Mozart - Requiem in d Minor (2014) [HD Tracks] 24.192","uid":10505339,"size":2461885493,"categoryP":"audio","categoryS":"flac","magnet":"?xt=urn:btih:64a3fae8bf82433abd8a53b483fedd7f59394476&amp;dn=Mozart+-+Requiem+in+d+Minor+%282014%29+%5BHD+Tracks%5D+24.192&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":8,"uploader":"politux","files":-1,"time":1404755218,"description":"\n  Mozart - Requiem in d Minor (2014) [HD Tracks] 24.192\n\n  Genre: Classical\n  Source: Linn Records 2014 \n  Codec: FLAC\n  Bitrate: ~ 5,600 kbps\n  Bit Depth: 24\n  Sample Rate: 192 kHz\n\n  Requiem in d minor\n  K 626 by Wolfgang Amadeus Mozart\n  Written: 1791; Vienna, Austria\n\n  Alto: Rowan Hellier\n  Soprano: Joanne Lunn\n  Tenor: Thomas Hobbs\n  Baritone: Matthew Brook \n  Orchestra/Ensemble: Dunedin Consort\n  Conductor: John Butt","torrent":{"xt":"urn:btih:64a3fae8bf82433abd8a53b483fedd7f59394476","amp;dn":"Mozart+-+Requiem+in+d+Minor+%282014%29+%5BHD+Tracks%5D+24.192","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"64a3fae8bf82433abd8a53b483fedd7f59394476","infoHashBuffer":{"type":"Buffer","data":[100,163,250,232,191,130,67,58,189,138,83,180,131,254,221,127,89,57,68,118]},"announce":[],"urlList":[]}}
+{
+  "title": "Mozart - Requiem in d Minor (2014) [HD Tracks] 24.192",
+  "uid": 10505339,
+  "size": 2461885493,
+  "categoryP": "audio",
+  "categoryS": "flac",
+  "magnet": "?xt=urn:btih:64a3fae8bf82433abd8a53b483fedd7f59394476&amp;dn=Mozart+-+Requiem+in+d+Minor+%282014%29+%5BHD+Tracks%5D+24.192&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 8,
+  "uploader": "politux",
+  "files": -1,
+  "time": 1404755218,
+  "description": "\n  Mozart - Requiem in d Minor (2014) [HD Tracks] 24.192\n\n  Genre: Classical\n  Source: Linn Records 2014 \n  Codec: FLAC\n  Bitrate: ~ 5,600 kbps\n  Bit Depth: 24\n  Sample Rate: 192 kHz\n\n  Requiem in d minor\n  K 626 by Wolfgang Amadeus Mozart\n  Written: 1791; Vienna, Austria\n\n  Alto: Rowan Hellier\n  Soprano: Joanne Lunn\n  Tenor: Thomas Hobbs\n  Baritone: Matthew Brook \n  Orchestra/Ensemble: Dunedin Consort\n  Conductor: John Butt",
+  "parsed": {
+    "xt": "urn:btih:64a3fae8bf82433abd8a53b483fedd7f59394476",
+    "dn": "Mozart - Requiem in d Minor (2014) [HD Tracks] 24.192",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "64a3fae8bf82433abd8a53b483fedd7f59394476",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        100,
+        163,
+        250,
+        232,
+        191,
+        130,
+        67,
+        58,
+        189,
+        138,
+        83,
+        180,
+        131,
+        254,
+        221,
+        127,
+        89,
+        57,
+        68,
+        118
+      ]
+    },
+    "name": "Mozart - Requiem in d Minor (2014) [HD Tracks] 24.192",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 55,
+  "peers": 6,
+  "last_updated": "2016-12-25T03:05:53.715Z"
+}

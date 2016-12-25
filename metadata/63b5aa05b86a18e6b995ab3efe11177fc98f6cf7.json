@@ -1,1 +1,61 @@
-{"title":"Witches of East End S02E04 HDTV x264-ASAP[ettv]","uid":10644363,"size":274440948,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:63b5aa05b86a18e6b995ab3efe11177fc98f6cf7&amp;dn=Witches+of+East+End+S02E04+HDTV+x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":2,"uploader":"ettv","files":2,"time":1406520359,"description":"x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n","torrent":{"xt":"urn:btih:63b5aa05b86a18e6b995ab3efe11177fc98f6cf7","amp;dn":"Witches+of+East+End+S02E04+HDTV+x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"63b5aa05b86a18e6b995ab3efe11177fc98f6cf7","infoHashBuffer":{"type":"Buffer","data":[99,181,170,5,184,106,24,230,185,149,171,62,254,17,23,127,201,143,108,247]},"announce":[],"urlList":[]}}
+{
+  "title": "Witches of East End S02E04 HDTV x264-ASAP[ettv]",
+  "uid": 10644363,
+  "size": 274440948,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:63b5aa05b86a18e6b995ab3efe11177fc98f6cf7&amp;dn=Witches+of+East+End+S02E04+HDTV+x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 2,
+  "uploader": "ettv",
+  "files": 2,
+  "time": 1406520359,
+  "description": "x264\nEncode Information\nResolution: 720x404\nVideo: x264\nAudio: AAC 2ch\nFrame Rate: 23.976024 fps\n",
+  "parsed": {
+    "xt": "urn:btih:63b5aa05b86a18e6b995ab3efe11177fc98f6cf7",
+    "dn": "Witches of East End S02E04 HDTV x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "63b5aa05b86a18e6b995ab3efe11177fc98f6cf7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        99,
+        181,
+        170,
+        5,
+        184,
+        106,
+        24,
+        230,
+        185,
+        149,
+        171,
+        62,
+        254,
+        17,
+        23,
+        127,
+        201,
+        143,
+        108,
+        247
+      ]
+    },
+    "name": "Witches of East End S02E04 HDTV x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 2,
+  "last_updated": "2016-12-25T03:00:18.723Z"
+}

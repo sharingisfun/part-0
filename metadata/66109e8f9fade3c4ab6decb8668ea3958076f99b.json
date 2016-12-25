@@ -1,1 +1,61 @@
-{"title":"Windows Password Reset LiveCD","uid":5603296,"size":3702784,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:66109e8f9fade3c4ab6decb8668ea3958076f99b&amp;dn=Windows+Password+Reset+LiveCD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":0,"uploader":"Ubehage","files":1,"time":1275430982,"description":"Windows Password Reset LiveCD\n-----------------------------\n\nThis is a bootable cd.\nIt boots into a Linux-environment, asks you a few questions about which harddisk and which user to edit - and then removes or changes the users password.\nVery fast, very easy.\n\n\n/Ubehage","torrent":{"xt":"urn:btih:66109e8f9fade3c4ab6decb8668ea3958076f99b","amp;dn":"Windows+Password+Reset+LiveCD","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"66109e8f9fade3c4ab6decb8668ea3958076f99b","infoHashBuffer":{"type":"Buffer","data":[102,16,158,143,159,173,227,196,171,109,236,184,102,142,163,149,128,118,249,155]},"announce":[],"urlList":[]}}
+{
+  "title": "Windows Password Reset LiveCD",
+  "uid": 5603296,
+  "size": 3702784,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:66109e8f9fade3c4ab6decb8668ea3958076f99b&amp;dn=Windows+Password+Reset+LiveCD&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 0,
+  "uploader": "Ubehage",
+  "files": 1,
+  "time": 1275430982,
+  "description": "Windows Password Reset LiveCD\n-----------------------------\n\nThis is a bootable cd.\nIt boots into a Linux-environment, asks you a few questions about which harddisk and which user to edit - and then removes or changes the users password.\nVery fast, very easy.\n\n\n/Ubehage",
+  "parsed": {
+    "xt": "urn:btih:66109e8f9fade3c4ab6decb8668ea3958076f99b",
+    "dn": "Windows Password Reset LiveCD",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "66109e8f9fade3c4ab6decb8668ea3958076f99b",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        102,
+        16,
+        158,
+        143,
+        159,
+        173,
+        227,
+        196,
+        171,
+        109,
+        236,
+        184,
+        102,
+        142,
+        163,
+        149,
+        128,
+        118,
+        249,
+        155
+      ]
+    },
+    "name": "Windows Password Reset LiveCD",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 39,
+  "peers": 32,
+  "last_updated": "2016-12-25T03:15:15.342Z"
+}

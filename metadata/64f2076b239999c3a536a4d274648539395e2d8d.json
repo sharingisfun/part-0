@@ -1,1 +1,61 @@
-{"title":"Calvin Harris feat. Florence Welch - Sweet Nothing","uid":7663592,"size":10250882,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:64f2076b239999c3a536a4d274648539395e2d8d&amp;dn=Calvin+Harris+feat.+Florence+Welch+-+Sweet+Nothing&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":68,"leechers":0,"uploader":"aq1993","files":1,"time":1348373262,"description":"New Calvin Harris's single &quot;Sweet Nothing&quot; feat. Florence Welch ","torrent":{"xt":"urn:btih:64f2076b239999c3a536a4d274648539395e2d8d","amp;dn":"Calvin+Harris+feat.+Florence+Welch+-+Sweet+Nothing","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"64f2076b239999c3a536a4d274648539395e2d8d","infoHashBuffer":{"type":"Buffer","data":[100,242,7,107,35,153,153,195,165,54,164,210,116,100,133,57,57,94,45,141]},"announce":[],"urlList":[]}}
+{
+  "title": "Calvin Harris feat. Florence Welch - Sweet Nothing",
+  "uid": 7663592,
+  "size": 10250882,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:64f2076b239999c3a536a4d274648539395e2d8d&amp;dn=Calvin+Harris+feat.+Florence+Welch+-+Sweet+Nothing&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 68,
+  "leechers": 0,
+  "uploader": "aq1993",
+  "files": 1,
+  "time": 1348373262,
+  "description": "New Calvin Harris's single &quot;Sweet Nothing&quot; feat. Florence Welch ",
+  "parsed": {
+    "xt": "urn:btih:64f2076b239999c3a536a4d274648539395e2d8d",
+    "dn": "Calvin Harris feat. Florence Welch - Sweet Nothing",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "64f2076b239999c3a536a4d274648539395e2d8d",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        100,
+        242,
+        7,
+        107,
+        35,
+        153,
+        153,
+        195,
+        165,
+        54,
+        164,
+        210,
+        116,
+        100,
+        133,
+        57,
+        57,
+        94,
+        45,
+        141
+      ]
+    },
+    "name": "Calvin Harris feat. Florence Welch - Sweet Nothing",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 62,
+  "last_updated": "2016-12-25T03:08:02.069Z"
+}

@@ -1,1 +1,61 @@
-{"title":"Mr. Pickles Season 1 (1920x1080) [Phr0stY]","uid":11555684,"size":4535174774,"categoryP":"video","categoryS":"hd___tv_shows","magnet":"?xt=urn:btih:64f015c1bc84914b4e610f26bbedd267a1b77456&amp;dn=Mr.+Pickles+Season+1+%281920x1080%29+%5BPhr0stY%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":37,"leechers":3,"uploader":"frostyon420","files":10,"time":1416822210,"description":"iTunes\nSeason batch\nMKV\nAVC\nAC3 5.1","torrent":{"xt":"urn:btih:64f015c1bc84914b4e610f26bbedd267a1b77456","amp;dn":"Mr.+Pickles+Season+1+%281920x1080%29+%5BPhr0stY%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"64f015c1bc84914b4e610f26bbedd267a1b77456","infoHashBuffer":{"type":"Buffer","data":[100,240,21,193,188,132,145,75,78,97,15,38,187,237,210,103,161,183,116,86]},"announce":[],"urlList":[]}}
+{
+  "title": "Mr. Pickles Season 1 (1920x1080) [Phr0stY]",
+  "uid": 11555684,
+  "size": 4535174774,
+  "categoryP": "video",
+  "categoryS": "hd___tv_shows",
+  "magnet": "?xt=urn:btih:64f015c1bc84914b4e610f26bbedd267a1b77456&amp;dn=Mr.+Pickles+Season+1+%281920x1080%29+%5BPhr0stY%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 37,
+  "leechers": 3,
+  "uploader": "frostyon420",
+  "files": 10,
+  "time": 1416822210,
+  "description": "iTunes\nSeason batch\nMKV\nAVC\nAC3 5.1",
+  "parsed": {
+    "xt": "urn:btih:64f015c1bc84914b4e610f26bbedd267a1b77456",
+    "dn": "Mr. Pickles Season 1 (1920x1080) [Phr0stY]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "64f015c1bc84914b4e610f26bbedd267a1b77456",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        100,
+        240,
+        21,
+        193,
+        188,
+        132,
+        145,
+        75,
+        78,
+        97,
+        15,
+        38,
+        187,
+        237,
+        210,
+        103,
+        161,
+        183,
+        116,
+        86
+      ]
+    },
+    "name": "Mr. Pickles Season 1 (1920x1080) [Phr0stY]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 40,
+  "peers": 37,
+  "last_updated": "2016-12-25T03:07:56.051Z"
+}

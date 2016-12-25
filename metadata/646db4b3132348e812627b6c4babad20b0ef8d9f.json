@@ -1,1 +1,61 @@
-{"title":"Miley Cyrus - Party in the USA","uid":5051745,"size":6505433,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:646db4b3132348e812627b6c4babad20b0ef8d9f&amp;dn=Miley+Cyrus+-+Party+in+the+USA&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":38,"leechers":0,"uploader":"Reflex100","files":1,"time":1250199140,"description":"The new Miley Cyrus song\n\niTunes Version !\n\n320 kbit/s","torrent":{"xt":"urn:btih:646db4b3132348e812627b6c4babad20b0ef8d9f","amp;dn":"Miley+Cyrus+-+Party+in+the+USA","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"646db4b3132348e812627b6c4babad20b0ef8d9f","infoHashBuffer":{"type":"Buffer","data":[100,109,180,179,19,35,72,232,18,98,123,108,75,171,173,32,176,239,141,159]},"announce":[],"urlList":[]}}
+{
+  "title": "Miley Cyrus - Party in the USA",
+  "uid": 5051745,
+  "size": 6505433,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:646db4b3132348e812627b6c4babad20b0ef8d9f&amp;dn=Miley+Cyrus+-+Party+in+the+USA&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 38,
+  "leechers": 0,
+  "uploader": "Reflex100",
+  "files": 1,
+  "time": 1250199140,
+  "description": "The new Miley Cyrus song\n\niTunes Version !\n\n320 kbit/s",
+  "parsed": {
+    "xt": "urn:btih:646db4b3132348e812627b6c4babad20b0ef8d9f",
+    "dn": "Miley Cyrus - Party in the USA",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "646db4b3132348e812627b6c4babad20b0ef8d9f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        100,
+        109,
+        180,
+        179,
+        19,
+        35,
+        72,
+        232,
+        18,
+        98,
+        123,
+        108,
+        75,
+        171,
+        173,
+        32,
+        176,
+        239,
+        141,
+        159
+      ]
+    },
+    "name": "Miley Cyrus - Party in the USA",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 38,
+  "peers": 34,
+  "last_updated": "2016-12-25T03:04:31.499Z"
+}

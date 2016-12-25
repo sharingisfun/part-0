@@ -1,1 +1,63 @@
-{"title":"Sum 41 - 13 Voices [Deluxe Edition] (2016) MP3 320 Kb/s","uid":15991185,"size":127703279,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:64e2dc77068c9a0dedc66d8fc728bd061b5a5488&amp;dn=Sum+41+-+13+Voices+%5BDeluxe+Edition%5D+%282016%29+MP3+320+Kb%2Fs&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":42,"leechers":9,"uploader":null,"files":16,"time":1476019238,"description":"01. A Murder Of Crows (You're All Dead To Me)\r\n02. Goddamn I'm Dead Again\r\n03. Fake My Own Death\r\n04. Breaking The Chain\r\n05. There Will Be Blood\r\n06. 13 Voices\r\n07. War\r\n08. God Save Us All (Death To POP)\r\n09. The Fall and The Rise\r\n10. Twisted By Design\r\n\r\nBonus Tracks:\r\n11. Better Days\r\n12. Black Eyes\r\n13. War (Acoustic)\r\n14. Breaking The Chain (Acoustic)","torrent":{"xt":"urn:btih:64e2dc77068c9a0dedc66d8fc728bd061b5a5488","amp;dn":"Sum+41+-+13+Voices+%5BDeluxe+Edition%5D+%282016%29+MP3+320+Kb%2Fs","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"64e2dc77068c9a0dedc66d8fc728bd061b5a5488","infoHashBuffer":{"type":"Buffer","data":[100,226,220,119,6,140,154,13,237,198,109,143,199,40,189,6,27,90,84,136]},"announce":[],"urlList":[]}}
+{
+  "title": "Sum 41 - 13 Voices [Deluxe Edition] (2016) MP3 320 Kb/s",
+  "uid": 15991185,
+  "size": 127703279,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:64e2dc77068c9a0dedc66d8fc728bd061b5a5488&amp;dn=Sum+41+-+13+Voices+%5BDeluxe+Edition%5D+%282016%29+MP3+320+Kb%2Fs&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 42,
+  "leechers": 9,
+  "uploader": null,
+  "files": 16,
+  "time": 1476019238,
+  "description": "01. A Murder Of Crows (You're All Dead To Me)\r\n02. Goddamn I'm Dead Again\r\n03. Fake My Own Death\r\n04. Breaking The Chain\r\n05. There Will Be Blood\r\n06. 13 Voices\r\n07. War\r\n08. God Save Us All (Death To POP)\r\n09. The Fall and The Rise\r\n10. Twisted By Design\r\n\r\nBonus Tracks:\r\n11. Better Days\r\n12. Black Eyes\r\n13. War (Acoustic)\r\n14. Breaking The Chain (Acoustic)",
+  "parsed": {
+    "xt": "urn:btih:64e2dc77068c9a0dedc66d8fc728bd061b5a5488",
+    "dn": "Sum 41 - 13 Voices [Deluxe Edition] (2016) MP3 320 Kb/s",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "64e2dc77068c9a0dedc66d8fc728bd061b5a5488",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        100,
+        226,
+        220,
+        119,
+        6,
+        140,
+        154,
+        13,
+        237,
+        198,
+        109,
+        143,
+        199,
+        40,
+        189,
+        6,
+        27,
+        90,
+        84,
+        136
+      ]
+    },
+    "name": "Sum 41 - 13 Voices [Deluxe Edition] (2016) MP3 320 Kb/s",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 186,
+  "last_updated": "2016-12-25T03:07:33.994Z"
+}

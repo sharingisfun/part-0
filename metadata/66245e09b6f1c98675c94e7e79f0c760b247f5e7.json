@@ -1,1 +1,63 @@
-{"title":"LAN Speed Test v3.5.0 -PH","uid":16035835,"size":16262624,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:66245e09b6f1c98675c94e7e79f0c760b247f5e7&amp;dn=LAN+Speed+Test+v3.5.0+-PH&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":152,"leechers":29,"uploader":"0Fallen173c","files":6,"time":1476481504,"description":"LAN Speed Test was designed from the ground up to be a simple but\r\npowerful tool for measuring file transfer, hard drive, USB Drive\r\nand Local Area Network (LAN) speeds (wired &amp; wireless). It does this\r\nby building a file in memory, then transfers it both ways (without\r\neffects of windows file caching) while keeping track of the time\r\nand then does the calculations for you. Simple concept and easy to\r\nuse. You'll find that LAN Speed Test will quickly become one of your\r\nfavorite network tools!","torrent":{"xt":"urn:btih:66245e09b6f1c98675c94e7e79f0c760b247f5e7","amp;dn":"LAN+Speed+Test+v3.5.0+-PH","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"66245e09b6f1c98675c94e7e79f0c760b247f5e7","infoHashBuffer":{"type":"Buffer","data":[102,36,94,9,182,241,201,134,117,201,78,126,121,240,199,96,178,71,245,231]},"announce":[],"urlList":[]}}
+{
+  "title": "LAN Speed Test v3.5.0 -PH",
+  "uid": 16035835,
+  "size": 16262624,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:66245e09b6f1c98675c94e7e79f0c760b247f5e7&amp;dn=LAN+Speed+Test+v3.5.0+-PH&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 152,
+  "leechers": 29,
+  "uploader": "0Fallen173c",
+  "files": 6,
+  "time": 1476481504,
+  "description": "LAN Speed Test was designed from the ground up to be a simple but\r\npowerful tool for measuring file transfer, hard drive, USB Drive\r\nand Local Area Network (LAN) speeds (wired &amp; wireless). It does this\r\nby building a file in memory, then transfers it both ways (without\r\neffects of windows file caching) while keeping track of the time\r\nand then does the calculations for you. Simple concept and easy to\r\nuse. You'll find that LAN Speed Test will quickly become one of your\r\nfavorite network tools!",
+  "parsed": {
+    "xt": "urn:btih:66245e09b6f1c98675c94e7e79f0c760b247f5e7",
+    "dn": "LAN Speed Test v3.5.0 -PH",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "66245e09b6f1c98675c94e7e79f0c760b247f5e7",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        102,
+        36,
+        94,
+        9,
+        182,
+        241,
+        201,
+        134,
+        117,
+        201,
+        78,
+        126,
+        121,
+        240,
+        199,
+        96,
+        178,
+        71,
+        245,
+        231
+      ]
+    },
+    "name": "LAN Speed Test v3.5.0 -PH",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 181,
+  "peers": 2,
+  "last_updated": "2016-12-25T03:15:45.432Z"
+}

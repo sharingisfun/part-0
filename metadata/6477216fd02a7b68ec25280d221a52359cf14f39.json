@@ -1,1 +1,61 @@
-{"title":"Elf (2003) x264 BrRip 1080p [vLtrz]","uid":9424214,"size":1515460088,"categoryP":"video","categoryS":"hd___movies","magnet":"?xt=urn:btih:6477216fd02a7b68ec25280d221a52359cf14f39&amp;dn=Elf+%282003%29+x264+BrRip+1080p+%5BvLtrz%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":60,"leechers":1,"uploader":"retired-nerd","files":-1,"time":1388659487,"description":"::::::::::Info::::::::::\nRelease: Elf\nIMDB: tt0319343\nYear: 2003\nLength: 1:36:43\nGenre: Christmas\nSize: 1.41GB\n\n::::::::::Video::::::::::\nEncode: H.264 (x264)\nAspect: 1920x1080\nContainer: .MP4\n\n::::::::::Audio::::::::::\nEncode: AAC (faac) AC3 Passthru\nLanguage: English\nSubs: NONE\nQuality: 128kbps\n\n::::::::::Source::::::::::\nDigital BluRay Image\n\n::::::::::Tools::::::::::\nTwo Fat Cats (Pixel &amp; Miss Kittay)\nVidCoder v1.4.25.0\nvLtrz Media Mainframe v1.0.1","torrent":{"xt":"urn:btih:6477216fd02a7b68ec25280d221a52359cf14f39","amp;dn":"Elf+%282003%29+x264+BrRip+1080p+%5BvLtrz%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"6477216fd02a7b68ec25280d221a52359cf14f39","infoHashBuffer":{"type":"Buffer","data":[100,119,33,111,208,42,123,104,236,37,40,13,34,26,82,53,156,241,79,57]},"announce":[],"urlList":[]}}
+{
+  "title": "Elf (2003) x264 BrRip 1080p [vLtrz]",
+  "uid": 9424214,
+  "size": 1515460088,
+  "categoryP": "video",
+  "categoryS": "hd___movies",
+  "magnet": "?xt=urn:btih:6477216fd02a7b68ec25280d221a52359cf14f39&amp;dn=Elf+%282003%29+x264+BrRip+1080p+%5BvLtrz%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 60,
+  "leechers": 1,
+  "uploader": "retired-nerd",
+  "files": -1,
+  "time": 1388659487,
+  "description": "::::::::::Info::::::::::\nRelease: Elf\nIMDB: tt0319343\nYear: 2003\nLength: 1:36:43\nGenre: Christmas\nSize: 1.41GB\n\n::::::::::Video::::::::::\nEncode: H.264 (x264)\nAspect: 1920x1080\nContainer: .MP4\n\n::::::::::Audio::::::::::\nEncode: AAC (faac) AC3 Passthru\nLanguage: English\nSubs: NONE\nQuality: 128kbps\n\n::::::::::Source::::::::::\nDigital BluRay Image\n\n::::::::::Tools::::::::::\nTwo Fat Cats (Pixel &amp; Miss Kittay)\nVidCoder v1.4.25.0\nvLtrz Media Mainframe v1.0.1",
+  "parsed": {
+    "xt": "urn:btih:6477216fd02a7b68ec25280d221a52359cf14f39",
+    "dn": "Elf (2003) x264 BrRip 1080p [vLtrz]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "6477216fd02a7b68ec25280d221a52359cf14f39",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        100,
+        119,
+        33,
+        111,
+        208,
+        42,
+        123,
+        104,
+        236,
+        37,
+        40,
+        13,
+        34,
+        26,
+        82,
+        53,
+        156,
+        241,
+        79,
+        57
+      ]
+    },
+    "name": "Elf (2003) x264 BrRip 1080p [vLtrz]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 61,
+  "peers": 15,
+  "last_updated": "2016-12-25T03:04:43.529Z"
+}
