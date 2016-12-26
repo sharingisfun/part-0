@@ -1,1 +1,61 @@
-{"title":"Justin Timberlake - Justified - 2002 -  320kbps","uid":4622977,"size":152043760,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:fd4bb66f0773ec419c66137f7a541718ffc591c2&amp;dn=Justin+Timberlake+-+Justified+-+2002+-++320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":78,"leechers":4,"uploader":"cjam25","files":-1,"time":1231104691,"description":"01 SeÃƒÆ’Ã‚Â±orita\n02 Like I Love You\n03 (Oh No) What You Got\n04 Take It from Here\n05 Cry Me a River\n06 Rock Your Body\n07 Nothin' Else\n08 Last Night\n09 Still on My Brain\n10 (And She Said) Take Me Now\n11 Right for Me\n12 Let's Take a Ride\n13 Never Again","torrent":{"xt":"urn:btih:fd4bb66f0773ec419c66137f7a541718ffc591c2","amp;dn":"Justin+Timberlake+-+Justified+-+2002+-++320kbps","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fd4bb66f0773ec419c66137f7a541718ffc591c2","infoHashBuffer":{"type":"Buffer","data":[253,75,182,111,7,115,236,65,156,102,19,127,122,84,23,24,255,197,145,194]},"announce":[],"urlList":[]}}
+{
+  "title": "Justin Timberlake - Justified - 2002 -  320kbps",
+  "uid": 4622977,
+  "size": 152043760,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:fd4bb66f0773ec419c66137f7a541718ffc591c2&amp;dn=Justin+Timberlake+-+Justified+-+2002+-++320kbps&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 78,
+  "leechers": 4,
+  "uploader": "cjam25",
+  "files": -1,
+  "time": 1231104691,
+  "description": "01 SeÃƒÆ’Ã‚Â±orita\n02 Like I Love You\n03 (Oh No) What You Got\n04 Take It from Here\n05 Cry Me a River\n06 Rock Your Body\n07 Nothin' Else\n08 Last Night\n09 Still on My Brain\n10 (And She Said) Take Me Now\n11 Right for Me\n12 Let's Take a Ride\n13 Never Again",
+  "parsed": {
+    "xt": "urn:btih:fd4bb66f0773ec419c66137f7a541718ffc591c2",
+    "dn": "Justin Timberlake - Justified - 2002 -  320kbps",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fd4bb66f0773ec419c66137f7a541718ffc591c2",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        253,
+        75,
+        182,
+        111,
+        7,
+        115,
+        236,
+        65,
+        156,
+        102,
+        19,
+        127,
+        122,
+        84,
+        23,
+        24,
+        255,
+        197,
+        145,
+        194
+      ]
+    },
+    "name": "Justin Timberlake - Justified - 2002 -  320kbps",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 82,
+  "peers": 111,
+  "last_updated": "2016-12-25T18:56:46.476Z"
+}

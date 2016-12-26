@@ -1,1 +1,63 @@
-{"title":"Kevin.Can.Wait.S01E04.HDTV.x264-FLEET","uid":16004397,"size":172333292,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ff14d3995f4edb34c20e433f2a1fbdfad3c1e58e&amp;dn=Kevin.Can.Wait.S01E04.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":52,"leechers":13,"uploader":"TvTeam","files":5,"time":1476155167,"description":"Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:ff14d3995f4edb34c20e433f2a1fbdfad3c1e58e","amp;dn":"Kevin.Can.Wait.S01E04.HDTV.x264-FLEET","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ff14d3995f4edb34c20e433f2a1fbdfad3c1e58e","infoHashBuffer":{"type":"Buffer","data":[255,20,211,153,95,78,219,52,194,14,67,63,42,31,189,250,211,193,229,142]},"announce":[],"urlList":[]}}
+{
+  "title": "Kevin.Can.Wait.S01E04.HDTV.x264-FLEET",
+  "uid": 16004397,
+  "size": 172333292,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ff14d3995f4edb34c20e433f2a1fbdfad3c1e58e&amp;dn=Kevin.Can.Wait.S01E04.HDTV.x264-FLEET&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 52,
+  "leechers": 13,
+  "uploader": "TvTeam",
+  "files": 5,
+  "time": 1476155167,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:ff14d3995f4edb34c20e433f2a1fbdfad3c1e58e",
+    "dn": "Kevin.Can.Wait.S01E04.HDTV.x264-FLEET",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "ff14d3995f4edb34c20e433f2a1fbdfad3c1e58e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        255,
+        20,
+        211,
+        153,
+        95,
+        78,
+        219,
+        52,
+        194,
+        14,
+        67,
+        63,
+        42,
+        31,
+        189,
+        250,
+        211,
+        193,
+        229,
+        142
+      ]
+    },
+    "name": "Kevin.Can.Wait.S01E04.HDTV.x264-FLEET",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 65,
+  "peers": 67,
+  "last_updated": "2016-12-25T19:05:20.007Z"
+}

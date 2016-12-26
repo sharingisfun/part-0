@@ -1,1 +1,61 @@
-{"title":"A Clockwork Orange[1971]DvDrip[Eng]-FXG","uid":3942386,"size":726103118,"categoryP":"video","categoryS":"movies","magnet":"?xt=urn:btih:fd56d571266a2bc03f63db5af863648af46e6e3e&amp;dn=A+Clockwork+Orange%5B1971%5DDvDrip%5BEng%5D-FXG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":3,"uploader":"FXG_team","files":2,"time":1198196456,"description":"TiTLE......[ A Clockwork Orange\nYEAR.......[ 1971\nGENRE......[ Crime / Drama / Thriller\nRUNTiME....[ 02:11:02\niMDB RATE..[ 8.5/10 (121,034 votes)\niMDB URL...[ http://www.imdb.com/title/tt0066921/\n\nAUDiO......[ MP3 48000Hz 112 kb/s CBR (2 chnls)\nLANGUAGE...[ English\nViDEO......[ 609 kbps XviD 25.000 FPS\nRESOLUTiON.[ 608 X 368\nSUBS.......[ None\nSiZE.......[ 692 MB\nSOURCE.....[ PAL DVD","torrent":{"xt":"urn:btih:fd56d571266a2bc03f63db5af863648af46e6e3e","amp;dn":"A+Clockwork+Orange%5B1971%5DDvDrip%5BEng%5D-FXG","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fd56d571266a2bc03f63db5af863648af46e6e3e","infoHashBuffer":{"type":"Buffer","data":[253,86,213,113,38,106,43,192,63,99,219,90,248,99,100,138,244,110,110,62]},"announce":[],"urlList":[]}}
+{
+  "title": "A Clockwork Orange[1971]DvDrip[Eng]-FXG",
+  "uid": 3942386,
+  "size": 726103118,
+  "categoryP": "video",
+  "categoryS": "movies",
+  "magnet": "?xt=urn:btih:fd56d571266a2bc03f63db5af863648af46e6e3e&amp;dn=A+Clockwork+Orange%5B1971%5DDvDrip%5BEng%5D-FXG&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 3,
+  "uploader": "FXG_team",
+  "files": 2,
+  "time": 1198196456,
+  "description": "TiTLE......[ A Clockwork Orange\nYEAR.......[ 1971\nGENRE......[ Crime / Drama / Thriller\nRUNTiME....[ 02:11:02\niMDB RATE..[ 8.5/10 (121,034 votes)\niMDB URL...[ http://www.imdb.com/title/tt0066921/\n\nAUDiO......[ MP3 48000Hz 112 kb/s CBR (2 chnls)\nLANGUAGE...[ English\nViDEO......[ 609 kbps XviD 25.000 FPS\nRESOLUTiON.[ 608 X 368\nSUBS.......[ None\nSiZE.......[ 692 MB\nSOURCE.....[ PAL DVD",
+  "parsed": {
+    "xt": "urn:btih:fd56d571266a2bc03f63db5af863648af46e6e3e",
+    "dn": "A Clockwork Orange[1971]DvDrip[Eng]-FXG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fd56d571266a2bc03f63db5af863648af46e6e3e",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        253,
+        86,
+        213,
+        113,
+        38,
+        106,
+        43,
+        192,
+        63,
+        99,
+        219,
+        90,
+        248,
+        99,
+        100,
+        138,
+        244,
+        110,
+        110,
+        62
+      ]
+    },
+    "name": "A Clockwork Orange[1971]DvDrip[Eng]-FXG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 43,
+  "peers": 27,
+  "last_updated": "2016-12-25T18:57:02.520Z"
+}

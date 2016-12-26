@@ -1,1 +1,61 @@
-{"title":"Parallels Desktop 9.0.23046.917896","uid":8889590,"size":421113592,"categoryP":"applications","categoryS":"mac","magnet":"?xt=urn:btih:fed2956fa7e41c5b6234508d9989e64d3424e8f0&amp;dn=Parallels+Desktop+9.0.23046.917896&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":49,"leechers":0,"uploader":"failzone","files":1,"time":1378550442,"description":"Mount, install, and enjoy!","torrent":{"xt":"urn:btih:fed2956fa7e41c5b6234508d9989e64d3424e8f0","amp;dn":"Parallels+Desktop+9.0.23046.917896","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fed2956fa7e41c5b6234508d9989e64d3424e8f0","infoHashBuffer":{"type":"Buffer","data":[254,210,149,111,167,228,28,91,98,52,80,141,153,137,230,77,52,36,232,240]},"announce":[],"urlList":[]}}
+{
+  "title": "Parallels Desktop 9.0.23046.917896",
+  "uid": 8889590,
+  "size": 421113592,
+  "categoryP": "applications",
+  "categoryS": "mac",
+  "magnet": "?xt=urn:btih:fed2956fa7e41c5b6234508d9989e64d3424e8f0&amp;dn=Parallels+Desktop+9.0.23046.917896&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 49,
+  "leechers": 0,
+  "uploader": "failzone",
+  "files": 1,
+  "time": 1378550442,
+  "description": "Mount, install, and enjoy!",
+  "parsed": {
+    "xt": "urn:btih:fed2956fa7e41c5b6234508d9989e64d3424e8f0",
+    "dn": "Parallels Desktop 9.0.23046.917896",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fed2956fa7e41c5b6234508d9989e64d3424e8f0",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        254,
+        210,
+        149,
+        111,
+        167,
+        228,
+        28,
+        91,
+        98,
+        52,
+        80,
+        141,
+        153,
+        137,
+        230,
+        77,
+        52,
+        36,
+        232,
+        240
+      ]
+    },
+    "name": "Parallels Desktop 9.0.23046.917896",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 22,
+  "last_updated": "2016-12-25T19:04:01.775Z"
+}

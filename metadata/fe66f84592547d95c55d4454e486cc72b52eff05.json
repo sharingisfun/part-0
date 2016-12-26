@@ -1,1 +1,61 @@
-{"title":"Hot Chip - Why Make Sense (2015) (256kbps)","uid":11774262,"size":94215195,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:fe66f84592547d95c55d4454e486cc72b52eff05&amp;dn=Hot+Chip+-+Why+Make+Sense+%282015%29+%28256kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":68,"leechers":0,"uploader":"rajabmm","files":11,"time":1427207238,"description":"Hot Chip - Why Make Sense (2015) (256kbps)","torrent":{"xt":"urn:btih:fe66f84592547d95c55d4454e486cc72b52eff05","amp;dn":"Hot+Chip+-+Why+Make+Sense+%282015%29+%28256kbps%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fe66f84592547d95c55d4454e486cc72b52eff05","infoHashBuffer":{"type":"Buffer","data":[254,102,248,69,146,84,125,149,197,93,68,84,228,134,204,114,181,46,255,5]},"announce":[],"urlList":[]}}
+{
+  "title": "Hot Chip - Why Make Sense (2015) (256kbps)",
+  "uid": 11774262,
+  "size": 94215195,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:fe66f84592547d95c55d4454e486cc72b52eff05&amp;dn=Hot+Chip+-+Why+Make+Sense+%282015%29+%28256kbps%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 68,
+  "leechers": 0,
+  "uploader": "rajabmm",
+  "files": 11,
+  "time": 1427207238,
+  "description": "Hot Chip - Why Make Sense (2015) (256kbps)",
+  "parsed": {
+    "xt": "urn:btih:fe66f84592547d95c55d4454e486cc72b52eff05",
+    "dn": "Hot Chip - Why Make Sense (2015) (256kbps)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fe66f84592547d95c55d4454e486cc72b52eff05",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        254,
+        102,
+        248,
+        69,
+        146,
+        84,
+        125,
+        149,
+        197,
+        93,
+        68,
+        84,
+        228,
+        134,
+        204,
+        114,
+        181,
+        46,
+        255,
+        5
+      ]
+    },
+    "name": "Hot Chip - Why Make Sense (2015) (256kbps)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 68,
+  "peers": 12,
+  "last_updated": "2016-12-25T19:01:57.403Z"
+}

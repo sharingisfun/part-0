@@ -1,1 +1,61 @@
-{"title":"Madeon - Adventure (Deluxe) {MP3-2015}","uid":11778280,"size":159153183,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ffba4b6e4661e12c950bb4886d6a4ff09729d247&amp;dn=Madeon+-+Adventure+%28Deluxe%29+%7BMP3-2015%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":71,"leechers":2,"uploader":"simpsonrony","files":18,"time":1427434582,"description":"Source: https://itunes.apple.com/de/album/adventure-deluxe/id955824966\n\nArtist: Madeon\n\nAlbum: Adventure (Deluxe)\n\nGenre: Dance, Electronic\n\nAudio Format: Mp3\n\nAudio Bitrate: 320kbps\n\n\nTracklist:\n**********\n\n01 Isometric (Intro)\n02 You're On (feat. Kyan)\n03 Ok\n04 La Lune (feat. Dan Smith)\n05 Pay No Mind (feat. Passion Pit)\n06 Beings\n07 Imperium\n08 Zephyr\n09 Nonsense (feat. Mark Foster)\n10 Innocence (feat. Aquilo)\n11 Pixel Empire\n12 Home\n13 Icarus\n14 Finale (feat. Nicholas Petricca)\n15 The City\n16 Cut the Kid\n17 Technicolor\n18 Only Way Out (feat. Vancouver Sleep Clinic)","torrent":{"xt":"urn:btih:ffba4b6e4661e12c950bb4886d6a4ff09729d247","amp;dn":"Madeon+-+Adventure+%28Deluxe%29+%7BMP3-2015%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ffba4b6e4661e12c950bb4886d6a4ff09729d247","infoHashBuffer":{"type":"Buffer","data":[255,186,75,110,70,97,225,44,149,11,180,136,109,106,79,240,151,41,210,71]},"announce":[],"urlList":[]}}
+{
+  "title": "Madeon - Adventure (Deluxe) {MP3-2015}",
+  "uid": 11778280,
+  "size": 159153183,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ffba4b6e4661e12c950bb4886d6a4ff09729d247&amp;dn=Madeon+-+Adventure+%28Deluxe%29+%7BMP3-2015%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 71,
+  "leechers": 2,
+  "uploader": "simpsonrony",
+  "files": 18,
+  "time": 1427434582,
+  "description": "Source: https://itunes.apple.com/de/album/adventure-deluxe/id955824966\n\nArtist: Madeon\n\nAlbum: Adventure (Deluxe)\n\nGenre: Dance, Electronic\n\nAudio Format: Mp3\n\nAudio Bitrate: 320kbps\n\n\nTracklist:\n**********\n\n01 Isometric (Intro)\n02 You're On (feat. Kyan)\n03 Ok\n04 La Lune (feat. Dan Smith)\n05 Pay No Mind (feat. Passion Pit)\n06 Beings\n07 Imperium\n08 Zephyr\n09 Nonsense (feat. Mark Foster)\n10 Innocence (feat. Aquilo)\n11 Pixel Empire\n12 Home\n13 Icarus\n14 Finale (feat. Nicholas Petricca)\n15 The City\n16 Cut the Kid\n17 Technicolor\n18 Only Way Out (feat. Vancouver Sleep Clinic)",
+  "parsed": {
+    "xt": "urn:btih:ffba4b6e4661e12c950bb4886d6a4ff09729d247",
+    "dn": "Madeon - Adventure (Deluxe) {MP3-2015}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ffba4b6e4661e12c950bb4886d6a4ff09729d247",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        255,
+        186,
+        75,
+        110,
+        70,
+        97,
+        225,
+        44,
+        149,
+        11,
+        180,
+        136,
+        109,
+        106,
+        79,
+        240,
+        151,
+        41,
+        210,
+        71
+      ]
+    },
+    "name": "Madeon - Adventure (Deluxe) {MP3-2015}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 73,
+  "peers": 48,
+  "last_updated": "2016-12-25T19:08:40.578Z"
+}

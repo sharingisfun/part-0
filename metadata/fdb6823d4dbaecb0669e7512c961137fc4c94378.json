@@ -1,1 +1,61 @@
-{"title":"Killing Floor v1017 - Full Game","uid":6183534,"size":1808059831,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:fdb6823d4dbaecb0669e7512c961137fc4c94378&amp;dn=Killing+Floor+v1017+-+Full+Game&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":46,"leechers":3,"uploader":"madworldpt","files":-1,"time":1297989625,"description":"Killing floor v 1017\n\nPlayable on the internet, no lagg, so you don\\'t need hamachi.\n\n\n\nRead me:\n\n1 - Unrar;\n2 - Run \\&quot;Runmefirst.exe\\&quot; inside the killing floor folder;\n3 - Run \\&quot;[KF] NameChanger.exe\\&quot; to change your name;\n4 - Play from \\&quot;KF_revLoader.exe\\&quot;.\n\n\nWorks through lan and internet. Haven\\'t tried on hamachi, but it doesn\\'t lagg if you play on the internet so you don\\'t need to use it.\n\nHave Fun.\n\nIf you get an error saying you need steam access, try to disable windows notifications, reboot, and run \\&quot;runmefirst.exe\\&quot; again.","torrent":{"xt":"urn:btih:fdb6823d4dbaecb0669e7512c961137fc4c94378","amp;dn":"Killing+Floor+v1017+-+Full+Game","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fdb6823d4dbaecb0669e7512c961137fc4c94378","infoHashBuffer":{"type":"Buffer","data":[253,182,130,61,77,186,236,176,102,158,117,18,201,97,19,127,196,201,67,120]},"announce":[],"urlList":[]}}
+{
+  "title": "Killing Floor v1017 - Full Game",
+  "uid": 6183534,
+  "size": 1808059831,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:fdb6823d4dbaecb0669e7512c961137fc4c94378&amp;dn=Killing+Floor+v1017+-+Full+Game&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 46,
+  "leechers": 3,
+  "uploader": "madworldpt",
+  "files": -1,
+  "time": 1297989625,
+  "description": "Killing floor v 1017\n\nPlayable on the internet, no lagg, so you don\\'t need hamachi.\n\n\n\nRead me:\n\n1 - Unrar;\n2 - Run \\&quot;Runmefirst.exe\\&quot; inside the killing floor folder;\n3 - Run \\&quot;[KF] NameChanger.exe\\&quot; to change your name;\n4 - Play from \\&quot;KF_revLoader.exe\\&quot;.\n\n\nWorks through lan and internet. Haven\\'t tried on hamachi, but it doesn\\'t lagg if you play on the internet so you don\\'t need to use it.\n\nHave Fun.\n\nIf you get an error saying you need steam access, try to disable windows notifications, reboot, and run \\&quot;runmefirst.exe\\&quot; again.",
+  "parsed": {
+    "xt": "urn:btih:fdb6823d4dbaecb0669e7512c961137fc4c94378",
+    "dn": "Killing Floor v1017 - Full Game",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fdb6823d4dbaecb0669e7512c961137fc4c94378",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        253,
+        182,
+        130,
+        61,
+        77,
+        186,
+        236,
+        176,
+        102,
+        158,
+        117,
+        18,
+        201,
+        97,
+        19,
+        127,
+        196,
+        201,
+        67,
+        120
+      ]
+    },
+    "name": "Killing Floor v1017 - Full Game",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 49,
+  "peers": 57,
+  "last_updated": "2016-12-25T18:58:36.798Z"
+}

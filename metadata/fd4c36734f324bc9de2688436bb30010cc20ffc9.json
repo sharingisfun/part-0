@@ -1,1 +1,61 @@
-{"title":"Charles Bradley - Victim of Love (2013) [MP3 320 - Stepherd]","uid":8312937,"size":99815120,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:fd4c36734f324bc9de2688436bb30010cc20ffc9&amp;dn=Charles+Bradley+-+Victim+of+Love+%282013%29+%5BMP3+320+-+Stepherd%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":70,"leechers":2,"uploader":"Stepherd","files":-1,"time":1364517673,"description":"Genre: Funk, Soul\nDisc Count: 1\nTrack Count: 11\nBit Rate: 320 kbps\n\n1. Strictly Reserved for You\n2. You Put the Flame On It\n3. Let Love Stand a Chance\n4. Victim of Love\n5. Love Bug Blues\n6. Dusty Blue\n7. Confusion\n8. Where Do We Go from Here\n9. Crying in the Chapel\n10. Hurricane\n11. Through the Storm\n","torrent":{"xt":"urn:btih:fd4c36734f324bc9de2688436bb30010cc20ffc9","amp;dn":"Charles+Bradley+-+Victim+of+Love+%282013%29+%5BMP3+320+-+Stepherd%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fd4c36734f324bc9de2688436bb30010cc20ffc9","infoHashBuffer":{"type":"Buffer","data":[253,76,54,115,79,50,75,201,222,38,136,67,107,179,0,16,204,32,255,201]},"announce":[],"urlList":[]}}
+{
+  "title": "Charles Bradley - Victim of Love (2013) [MP3 320 - Stepherd]",
+  "uid": 8312937,
+  "size": 99815120,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:fd4c36734f324bc9de2688436bb30010cc20ffc9&amp;dn=Charles+Bradley+-+Victim+of+Love+%282013%29+%5BMP3+320+-+Stepherd%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 70,
+  "leechers": 2,
+  "uploader": "Stepherd",
+  "files": -1,
+  "time": 1364517673,
+  "description": "Genre: Funk, Soul\nDisc Count: 1\nTrack Count: 11\nBit Rate: 320 kbps\n\n1. Strictly Reserved for You\n2. You Put the Flame On It\n3. Let Love Stand a Chance\n4. Victim of Love\n5. Love Bug Blues\n6. Dusty Blue\n7. Confusion\n8. Where Do We Go from Here\n9. Crying in the Chapel\n10. Hurricane\n11. Through the Storm\n",
+  "parsed": {
+    "xt": "urn:btih:fd4c36734f324bc9de2688436bb30010cc20ffc9",
+    "dn": "Charles Bradley - Victim of Love (2013) [MP3 320 - Stepherd]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fd4c36734f324bc9de2688436bb30010cc20ffc9",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        253,
+        76,
+        54,
+        115,
+        79,
+        50,
+        75,
+        201,
+        222,
+        38,
+        136,
+        67,
+        107,
+        179,
+        0,
+        16,
+        204,
+        32,
+        255,
+        201
+      ]
+    },
+    "name": "Charles Bradley - Victim of Love (2013) [MP3 320 - Stepherd]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 72,
+  "peers": 30,
+  "last_updated": "2016-12-25T18:56:48.481Z"
+}

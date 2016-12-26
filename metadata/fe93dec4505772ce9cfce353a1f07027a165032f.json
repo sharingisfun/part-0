@@ -1,1 +1,61 @@
-{"title":"Mr.Robot.S01E03.HDTV.x264-ASAP[ettv]","uid":12107088,"size":192499198,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:fe93dec4505772ce9cfce353a1f07027a165032f&amp;dn=Mr.Robot.S01E03.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":398,"leechers":10,"uploader":"ettv","files":3,"time":1436471978,"description":"[Name]: Mr.Robot.S01E03.HDTV.x264-ASAP\n\n[Duration]: 44mn 33s\n[Media]: video/H264\n[Format]: x264\n[Resolution]: 720x404 px\n[AspectRatio]: 16:9\n[FrameRate]: 23.976 fps\n\n\n\n#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU","torrent":{"xt":"urn:btih:fe93dec4505772ce9cfce353a1f07027a165032f","amp;dn":"Mr.Robot.S01E03.HDTV.x264-ASAP%5Bettv%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fe93dec4505772ce9cfce353a1f07027a165032f","infoHashBuffer":{"type":"Buffer","data":[254,147,222,196,80,87,114,206,156,252,227,83,161,240,112,39,161,101,3,47]},"announce":[],"urlList":[]}}
+{
+  "title": "Mr.Robot.S01E03.HDTV.x264-ASAP[ettv]",
+  "uid": 12107088,
+  "size": 192499198,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:fe93dec4505772ce9cfce353a1f07027a165032f&amp;dn=Mr.Robot.S01E03.HDTV.x264-ASAP%5Bettv%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 398,
+  "leechers": 10,
+  "uploader": "ettv",
+  "files": 3,
+  "time": 1436471978,
+  "description": "[Name]: Mr.Robot.S01E03.HDTV.x264-ASAP\n\n[Duration]: 44mn 33s\n[Media]: video/H264\n[Format]: x264\n[Resolution]: 720x404 px\n[AspectRatio]: 16:9\n[FrameRate]: 23.976 fps\n\n\n\n#ETTV -&gt; To avoid fakes, ALWAYS check that the torrent was added by ETTV.\n\n\n &lt;a href=&quot;\nhttp://extratorrent.cc/&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://extratorrent.cc/&lt;/a&gt;\n\n\n\nHelp us by donating with Bitcoin: 1XeH1kKXWYbzZcFHokGiZ4d3MWW5WyXzU",
+  "parsed": {
+    "xt": "urn:btih:fe93dec4505772ce9cfce353a1f07027a165032f",
+    "dn": "Mr.Robot.S01E03.HDTV.x264-ASAP[ettv]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fe93dec4505772ce9cfce353a1f07027a165032f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        254,
+        147,
+        222,
+        196,
+        80,
+        87,
+        114,
+        206,
+        156,
+        252,
+        227,
+        83,
+        161,
+        240,
+        112,
+        39,
+        161,
+        101,
+        3,
+        47
+      ]
+    },
+    "name": "Mr.Robot.S01E03.HDTV.x264-ASAP[ettv]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 408,
+  "peers": 50,
+  "last_updated": "2016-12-25T19:02:47.547Z"
+}

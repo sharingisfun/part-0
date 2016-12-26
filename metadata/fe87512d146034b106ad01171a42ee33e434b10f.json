@@ -1,1 +1,61 @@
-{"title":"Android NES - Nintendo Emulator + 1090 ROMs","uid":11718629,"size":123544300,"categoryP":"applications","categoryS":"android","magnet":"?xt=urn:btih:fe87512d146034b106ad01171a42ee33e434b10f&amp;dn=Android+NES+-+Nintendo+Emulator+%2B+1090+ROMs&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":3,"uploader":"Androider","files":1099,"time":1424709015,"description":"\nAdvanced open-source NES/Famicom emulator based on FCEUX 2.2.3-svn, designed and tested on the original Droid/Milestone, Xoom, Galaxy S2, Nexus 4, Nexus 7, NVidia Shield, and Xperia Play, but works on virtually any device with similar or better specs.\n\nFeatures include:\n\n* Backup memory and save state support, state files from FCEUX should work on NES.emu and vice-versa.\n* Supports ROM-based games in .nes and .unf formats, optionally in zip files\n* Famicom Disk System emulation using .fds files (select your BIOS in the options first)\n* VS UniSystem support, push Start to insert coins\n* Uses FCEU-compatible cheat files (.cht extension) with editing features\n* Zapper/Gun support, touch screen to fire, touch &amp; hold outside of display area to simulate firing away from the TV\n* Configurable on-screen multi-touch controls\n* HID Bluetooth/USB gamepad &amp; keyboard support compatible with any input device recognized by the OS (MOGA Pro, etc.), Wii controllers also supported if running Android 4.1 or lower, all devices support custom key profiles\n* Works in any orientation\n\nWhat's New:\n\n* Added Prescale 2x effect, gives sharp edges at any zoom level without turning off linear filter\n* Improved shader effect compatibility with some older GPUs\n* Fixed some text input issues\n\nMore info:\n &lt;a href=&quot;\nhttps://play.google.com/store/apps/details?id=com.explusalpha.NesEmu&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://play.google.com/store/apps/details?id=com.explusalpha.NesEmu&lt;/a&gt;","torrent":{"xt":"urn:btih:fe87512d146034b106ad01171a42ee33e434b10f","amp;dn":"Android+NES+-+Nintendo+Emulator+%2B+1090+ROMs","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fe87512d146034b106ad01171a42ee33e434b10f","infoHashBuffer":{"type":"Buffer","data":[254,135,81,45,20,96,52,177,6,173,1,23,26,66,238,51,228,52,177,15]},"announce":[],"urlList":[]}}
+{
+  "title": "Android NES - Nintendo Emulator + 1090 ROMs",
+  "uid": 11718629,
+  "size": 123544300,
+  "categoryP": "applications",
+  "categoryS": "android",
+  "magnet": "?xt=urn:btih:fe87512d146034b106ad01171a42ee33e434b10f&amp;dn=Android+NES+-+Nintendo+Emulator+%2B+1090+ROMs&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 3,
+  "uploader": "Androider",
+  "files": 1099,
+  "time": 1424709015,
+  "description": "\nAdvanced open-source NES/Famicom emulator based on FCEUX 2.2.3-svn, designed and tested on the original Droid/Milestone, Xoom, Galaxy S2, Nexus 4, Nexus 7, NVidia Shield, and Xperia Play, but works on virtually any device with similar or better specs.\n\nFeatures include:\n\n* Backup memory and save state support, state files from FCEUX should work on NES.emu and vice-versa.\n* Supports ROM-based games in .nes and .unf formats, optionally in zip files\n* Famicom Disk System emulation using .fds files (select your BIOS in the options first)\n* VS UniSystem support, push Start to insert coins\n* Uses FCEU-compatible cheat files (.cht extension) with editing features\n* Zapper/Gun support, touch screen to fire, touch &amp; hold outside of display area to simulate firing away from the TV\n* Configurable on-screen multi-touch controls\n* HID Bluetooth/USB gamepad &amp; keyboard support compatible with any input device recognized by the OS (MOGA Pro, etc.), Wii controllers also supported if running Android 4.1 or lower, all devices support custom key profiles\n* Works in any orientation\n\nWhat's New:\n\n* Added Prescale 2x effect, gives sharp edges at any zoom level without turning off linear filter\n* Improved shader effect compatibility with some older GPUs\n* Fixed some text input issues\n\nMore info:\n &lt;a href=&quot;\nhttps://play.google.com/store/apps/details?id=com.explusalpha.NesEmu&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttps://play.google.com/store/apps/details?id=com.explusalpha.NesEmu&lt;/a&gt;",
+  "parsed": {
+    "xt": "urn:btih:fe87512d146034b106ad01171a42ee33e434b10f",
+    "dn": "Android NES - Nintendo Emulator   1090 ROMs",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fe87512d146034b106ad01171a42ee33e434b10f",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        254,
+        135,
+        81,
+        45,
+        20,
+        96,
+        52,
+        177,
+        6,
+        173,
+        1,
+        23,
+        26,
+        66,
+        238,
+        51,
+        228,
+        52,
+        177,
+        15
+      ]
+    },
+    "name": "Android NES - Nintendo Emulator   1090 ROMs",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 50,
+  "peers": 216,
+  "last_updated": "2016-12-25T19:02:27.487Z"
+}

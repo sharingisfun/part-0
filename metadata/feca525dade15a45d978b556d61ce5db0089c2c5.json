@@ -1,1 +1,61 @@
-{"title":"The Black Keys - El Camino","uid":6880205,"size":93695208,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:feca525dade15a45d978b556d61ce5db0089c2c5&amp;dn=The+Black+Keys+-+El+Camino&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":39,"leechers":2,"uploader":"BloodyThorns","files":-1,"time":1323625991,"description":"320kbps CD Rip\n\n\n\nAll of my music is correctly labeled and ready for your Ipod.\n\n-----------------------------------------------------------------------------------\n\nDon't forget to comment!\n\nConverting any Movies, TV shows, Music Videos, or Music.  Please post your request in the comments.\n\n-----------------------------------------------------------------------------------\n\nIf you found something in any of my Torrents, consider that it may be a false positive and if you are positive please report it to me first.\n\nReport Bad Torrents Here:    &lt;a href=&quot;\nhttp://forum.suprbay.org/forumdisplay.php?fid=29&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://forum.suprbay.org/forumdisplay.php?fid=29&lt;/a&gt;\n\n-----------------------------------------------------------------------------------","torrent":{"xt":"urn:btih:feca525dade15a45d978b556d61ce5db0089c2c5","amp;dn":"The+Black+Keys+-+El+Camino","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"feca525dade15a45d978b556d61ce5db0089c2c5","infoHashBuffer":{"type":"Buffer","data":[254,202,82,93,173,225,90,69,217,120,181,86,214,28,229,219,0,137,194,197]},"announce":[],"urlList":[]}}
+{
+  "title": "The Black Keys - El Camino",
+  "uid": 6880205,
+  "size": 93695208,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:feca525dade15a45d978b556d61ce5db0089c2c5&amp;dn=The+Black+Keys+-+El+Camino&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 39,
+  "leechers": 2,
+  "uploader": "BloodyThorns",
+  "files": -1,
+  "time": 1323625991,
+  "description": "320kbps CD Rip\n\n\n\nAll of my music is correctly labeled and ready for your Ipod.\n\n-----------------------------------------------------------------------------------\n\nDon't forget to comment!\n\nConverting any Movies, TV shows, Music Videos, or Music.  Please post your request in the comments.\n\n-----------------------------------------------------------------------------------\n\nIf you found something in any of my Torrents, consider that it may be a false positive and if you are positive please report it to me first.\n\nReport Bad Torrents Here:    &lt;a href=&quot;\nhttp://forum.suprbay.org/forumdisplay.php?fid=29&quot; rel=&quot;nofollow&quot; target=&quot;_NEW&quot;&gt;\nhttp://forum.suprbay.org/forumdisplay.php?fid=29&lt;/a&gt;\n\n-----------------------------------------------------------------------------------",
+  "parsed": {
+    "xt": "urn:btih:feca525dade15a45d978b556d61ce5db0089c2c5",
+    "dn": "The Black Keys - El Camino",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "feca525dade15a45d978b556d61ce5db0089c2c5",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        254,
+        202,
+        82,
+        93,
+        173,
+        225,
+        90,
+        69,
+        217,
+        120,
+        181,
+        86,
+        214,
+        28,
+        229,
+        219,
+        0,
+        137,
+        194,
+        197
+      ]
+    },
+    "name": "The Black Keys - El Camino",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 41,
+  "peers": 16,
+  "last_updated": "2016-12-25T19:03:49.737Z"
+}

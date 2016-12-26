@@ -1,1 +1,61 @@
-{"title":"Guitar Pro 6 Soundbanks","uid":6098043,"size":1152655537,"categoryP":"audio","categoryS":"other","magnet":"?xt=urn:btih:ffc533341fdf682fee669f6c4d6ea6721e7deace&amp;dn=Guitar+Pro+6+Soundbanks&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":114,"leechers":2,"uploader":"malta95","files":1,"time":1294854524,"description":"Working soundbanks for guitar pro 6. Please seed!!","torrent":{"xt":"urn:btih:ffc533341fdf682fee669f6c4d6ea6721e7deace","amp;dn":"Guitar+Pro+6+Soundbanks","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ffc533341fdf682fee669f6c4d6ea6721e7deace","infoHashBuffer":{"type":"Buffer","data":[255,197,51,52,31,223,104,47,238,102,159,108,77,110,166,114,30,125,234,206]},"announce":[],"urlList":[]}}
+{
+  "title": "Guitar Pro 6 Soundbanks",
+  "uid": 6098043,
+  "size": 1152655537,
+  "categoryP": "audio",
+  "categoryS": "other",
+  "magnet": "?xt=urn:btih:ffc533341fdf682fee669f6c4d6ea6721e7deace&amp;dn=Guitar+Pro+6+Soundbanks&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 114,
+  "leechers": 2,
+  "uploader": "malta95",
+  "files": 1,
+  "time": 1294854524,
+  "description": "Working soundbanks for guitar pro 6. Please seed!!",
+  "parsed": {
+    "xt": "urn:btih:ffc533341fdf682fee669f6c4d6ea6721e7deace",
+    "dn": "Guitar Pro 6 Soundbanks",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ffc533341fdf682fee669f6c4d6ea6721e7deace",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        255,
+        197,
+        51,
+        52,
+        31,
+        223,
+        104,
+        47,
+        238,
+        102,
+        159,
+        108,
+        77,
+        110,
+        166,
+        114,
+        30,
+        125,
+        234,
+        206
+      ]
+    },
+    "name": "Guitar Pro 6 Soundbanks",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 116,
+  "peers": 142,
+  "last_updated": "2016-12-25T19:08:48.606Z"
+}

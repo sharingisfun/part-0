@@ -1,1 +1,61 @@
-{"title":"Pentatonix - PTX, Vol. 2 (2013)","uid":9149646,"size":37094709,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:ff50d49496b9b4cc81e06da401aca9fa8571da01&amp;dn=Pentatonix+-+PTX%2C+Vol.+2+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":47,"leechers":4,"uploader":"arbrown","files":-1,"time":1383665022,"description":"Pentatonix - PTX, Vol. 2 (2013)\n\n\n\n\n\n\n\n\nIf you enjoyed this please consider purchasing it on iTunes!","torrent":{"xt":"urn:btih:ff50d49496b9b4cc81e06da401aca9fa8571da01","amp;dn":"Pentatonix+-+PTX%2C+Vol.+2+%282013%29","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ff50d49496b9b4cc81e06da401aca9fa8571da01","infoHashBuffer":{"type":"Buffer","data":[255,80,212,148,150,185,180,204,129,224,109,164,1,172,169,250,133,113,218,1]},"announce":[],"urlList":[]}}
+{
+  "title": "Pentatonix - PTX, Vol. 2 (2013)",
+  "uid": 9149646,
+  "size": 37094709,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:ff50d49496b9b4cc81e06da401aca9fa8571da01&amp;dn=Pentatonix+-+PTX%2C+Vol.+2+%282013%29&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 47,
+  "leechers": 4,
+  "uploader": "arbrown",
+  "files": -1,
+  "time": 1383665022,
+  "description": "Pentatonix - PTX, Vol. 2 (2013)\n\n\n\n\n\n\n\n\nIf you enjoyed this please consider purchasing it on iTunes!",
+  "parsed": {
+    "xt": "urn:btih:ff50d49496b9b4cc81e06da401aca9fa8571da01",
+    "dn": "Pentatonix - PTX, Vol. 2 (2013)",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ff50d49496b9b4cc81e06da401aca9fa8571da01",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        255,
+        80,
+        212,
+        148,
+        150,
+        185,
+        180,
+        204,
+        129,
+        224,
+        109,
+        164,
+        1,
+        172,
+        169,
+        250,
+        133,
+        113,
+        218,
+        1
+      ]
+    },
+    "name": "Pentatonix - PTX, Vol. 2 (2013)",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 51,
+  "peers": 0,
+  "last_updated": "2016-12-25T19:06:32.216Z"
+}

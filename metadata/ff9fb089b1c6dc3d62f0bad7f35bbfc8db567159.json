@@ -1,1 +1,63 @@
-{"title":"South.Park.S20E02.XviD-AFG","uid":15876521,"size":180794672,"categoryP":"video","categoryS":"tv_shows","magnet":"?xt=urn:btih:ff9fb089b1c6dc3d62f0bad7f35bbfc8db567159&amp;dn=South.Park.S20E02.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":40,"leechers":6,"uploader":"TvTeam","files":7,"time":1474519166,"description":"Torrent from:\r\n~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!","torrent":{"xt":"urn:btih:ff9fb089b1c6dc3d62f0bad7f35bbfc8db567159","amp;dn":"South.Park.S20E02.XviD-AFG","amp;tr":["udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969","udp%3A%2F%2Fzer0day.ch%3A1337","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ff9fb089b1c6dc3d62f0bad7f35bbfc8db567159","infoHashBuffer":{"type":"Buffer","data":[255,159,176,137,177,198,220,61,98,240,186,215,243,91,191,200,219,86,113,89]},"announce":[],"urlList":[]}}
+{
+  "title": "South.Park.S20E02.XviD-AFG",
+  "uid": 15876521,
+  "size": 180794672,
+  "categoryP": "video",
+  "categoryS": "tv_shows",
+  "magnet": "?xt=urn:btih:ff9fb089b1c6dc3d62f0bad7f35bbfc8db567159&amp;dn=South.Park.S20E02.XviD-AFG&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fzer0day.ch%3A1337&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 40,
+  "leechers": 6,
+  "uploader": "TvTeam",
+  "files": 7,
+  "time": 1474519166,
+  "description": "Torrent from:\r\n~~~~~~~~~~~~ \nhttps://www.torrenting.com\r\n\r\nJoin us and become part of the BIG family! Yarrrrrrrrrrrrrr!!!",
+  "parsed": {
+    "xt": "urn:btih:ff9fb089b1c6dc3d62f0bad7f35bbfc8db567159",
+    "dn": "South.Park.S20E02.XviD-AFG",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "infoHash": "ff9fb089b1c6dc3d62f0bad7f35bbfc8db567159",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        255,
+        159,
+        176,
+        137,
+        177,
+        198,
+        220,
+        61,
+        98,
+        240,
+        186,
+        215,
+        243,
+        91,
+        191,
+        200,
+        219,
+        86,
+        113,
+        89
+      ]
+    },
+    "name": "South.Park.S20E02.XviD-AFG",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.leechers-paradise.org:6969",
+      "udp://zer0day.ch:1337"
+    ],
+    "urlList": []
+  },
+  "previous": 46,
+  "peers": 18,
+  "last_updated": "2016-12-25T19:08:00.458Z"
+}

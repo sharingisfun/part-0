@@ -1,1 +1,61 @@
-{"title":"Corel Draw X3 Portable","uid":7932312,"size":163965384,"categoryP":"applications","categoryS":"windows","magnet":"?xt=urn:btih:ff466cc4beca10e17d6c32d36bc4def3095af8cb&amp;dn=Corel+Draw+X3+Portable&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":67,"leechers":0,"uploader":"b0di","files":4,"time":1355752883,"description":"Corel Draw X3 Portable","torrent":{"xt":"urn:btih:ff466cc4beca10e17d6c32d36bc4def3095af8cb","amp;dn":"Corel+Draw+X3+Portable","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"ff466cc4beca10e17d6c32d36bc4def3095af8cb","infoHashBuffer":{"type":"Buffer","data":[255,70,108,196,190,202,16,225,125,108,50,211,107,196,222,243,9,90,248,203]},"announce":[],"urlList":[]}}
+{
+  "title": "Corel Draw X3 Portable",
+  "uid": 7932312,
+  "size": 163965384,
+  "categoryP": "applications",
+  "categoryS": "windows",
+  "magnet": "?xt=urn:btih:ff466cc4beca10e17d6c32d36bc4def3095af8cb&amp;dn=Corel+Draw+X3+Portable&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 67,
+  "leechers": 0,
+  "uploader": "b0di",
+  "files": 4,
+  "time": 1355752883,
+  "description": "Corel Draw X3 Portable",
+  "parsed": {
+    "xt": "urn:btih:ff466cc4beca10e17d6c32d36bc4def3095af8cb",
+    "dn": "Corel Draw X3 Portable",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "ff466cc4beca10e17d6c32d36bc4def3095af8cb",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        255,
+        70,
+        108,
+        196,
+        190,
+        202,
+        16,
+        225,
+        125,
+        108,
+        50,
+        211,
+        107,
+        196,
+        222,
+        243,
+        9,
+        90,
+        248,
+        203
+      ]
+    },
+    "name": "Corel Draw X3 Portable",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 67,
+  "peers": 34,
+  "last_updated": "2016-12-25T19:06:14.157Z"
+}

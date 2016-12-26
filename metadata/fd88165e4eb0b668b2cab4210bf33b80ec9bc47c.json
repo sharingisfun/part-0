@@ -1,1 +1,61 @@
-{"title":"Don't Starve Together v115992 [VIPER666]","uid":11546390,"size":249930534,"categoryP":"games","categoryS":"pc","magnet":"?xt=urn:btih:fd88165e4eb0b668b2cab4210bf33b80ec9bc47c&amp;dn=Don%27t+Starve+Together+v115992+%5BVIPER666%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":59,"leechers":0,"uploader":"geek_power","files":1,"time":1416735056,"description":"--===VIPER666===--\n\nDon't Starve Together now with multiplayer, thanks to 3DM and TwelveCharzzz. No steam account necessary.\n\n1. Extract\n2. Enjoy it\n\nUse Tunngle/Hamachi to play with friends and don't forget to set &quot;Show LAN&quot; in the Filters. Also ignore the &quot;Logging In...&quot; message, it shows because you're not using steam to play it.\nimage\n\n--===VIPER666===","torrent":{"xt":"urn:btih:fd88165e4eb0b668b2cab4210bf33b80ec9bc47c","amp;dn":"Don%27t+Starve+Together+v115992+%5BVIPER666%5D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fd88165e4eb0b668b2cab4210bf33b80ec9bc47c","infoHashBuffer":{"type":"Buffer","data":[253,136,22,94,78,176,182,104,178,202,180,33,11,243,59,128,236,155,196,124]},"announce":[],"urlList":[]}}
+{
+  "title": "Don't Starve Together v115992 [VIPER666]",
+  "uid": 11546390,
+  "size": 249930534,
+  "categoryP": "games",
+  "categoryS": "pc",
+  "magnet": "?xt=urn:btih:fd88165e4eb0b668b2cab4210bf33b80ec9bc47c&amp;dn=Don%27t+Starve+Together+v115992+%5BVIPER666%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 59,
+  "leechers": 0,
+  "uploader": "geek_power",
+  "files": 1,
+  "time": 1416735056,
+  "description": "--===VIPER666===--\n\nDon't Starve Together now with multiplayer, thanks to 3DM and TwelveCharzzz. No steam account necessary.\n\n1. Extract\n2. Enjoy it\n\nUse Tunngle/Hamachi to play with friends and don't forget to set &quot;Show LAN&quot; in the Filters. Also ignore the &quot;Logging In...&quot; message, it shows because you're not using steam to play it.\nimage\n\n--===VIPER666===",
+  "parsed": {
+    "xt": "urn:btih:fd88165e4eb0b668b2cab4210bf33b80ec9bc47c",
+    "dn": "Don't Starve Together v115992 [VIPER666]",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fd88165e4eb0b668b2cab4210bf33b80ec9bc47c",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        253,
+        136,
+        22,
+        94,
+        78,
+        176,
+        182,
+        104,
+        178,
+        202,
+        180,
+        33,
+        11,
+        243,
+        59,
+        128,
+        236,
+        155,
+        196,
+        124
+      ]
+    },
+    "name": "Don't Starve Together v115992 [VIPER666]",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 59,
+  "peers": 20,
+  "last_updated": "2016-12-25T18:57:42.637Z"
+}

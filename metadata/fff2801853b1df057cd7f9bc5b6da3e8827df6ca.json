@@ -1,1 +1,61 @@
-{"title":"Rae Sremmurd - SremmLife {MP3-2015}","uid":11677796,"size":111290855,"categoryP":"audio","categoryS":"music","magnet":"?xt=urn:btih:fff2801853b1df057cd7f9bc5b6da3e8827df6ca&amp;dn=Rae+Sremmurd+-+SremmLife+%7BMP3-2015%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969","seeders":428,"leechers":26,"uploader":"simpsonrony","files":11,"time":1422947365,"description":"Source: https://itunes.apple.com/us/album/sremmlife/id948398152\n\nArtist: Rae Sremmurd\n\nAlbum: SremmLife\n\nGenre: Hip-Hop/Rap\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\nTracklist:\n**********\n\n01 Lit Like Bic\n02 Unlock the Swag (feat. Jace of Two-9)\n03 No Flex Zone\n04 My X\n05 This Could Be Us\n06 Come Get Her\n07 Up Like Trump\n08 Throw Sum Mo (feat. Nicki Minaj &amp; Young Thug)\n09 Yno (feat. Big Sean)\n10 No Type\n11 Safe Sex Pay Checks","torrent":{"xt":"urn:btih:fff2801853b1df057cd7f9bc5b6da3e8827df6ca","amp;dn":"Rae+Sremmurd+-+SremmLife+%7BMP3-2015%7D","amp;tr":["udp%3A%2F%2Ftracker.openbittorrent.com%3A80","udp%3A%2F%2Fopen.demonii.com%3A1337","udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969","udp%3A%2F%2Fexodus.desync.com%3A6969"],"infoHash":"fff2801853b1df057cd7f9bc5b6da3e8827df6ca","infoHashBuffer":{"type":"Buffer","data":[255,242,128,24,83,177,223,5,124,215,249,188,91,109,163,232,130,125,246,202]},"announce":[],"urlList":[]}}
+{
+  "title": "Rae Sremmurd - SremmLife {MP3-2015}",
+  "uid": 11677796,
+  "size": 111290855,
+  "categoryP": "audio",
+  "categoryS": "music",
+  "magnet": "?xt=urn:btih:fff2801853b1df057cd7f9bc5b6da3e8827df6ca&amp;dn=Rae+Sremmurd+-+SremmLife+%7BMP3-2015%7D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969",
+  "seeders": 428,
+  "leechers": 26,
+  "uploader": "simpsonrony",
+  "files": 11,
+  "time": 1422947365,
+  "description": "Source: https://itunes.apple.com/us/album/sremmlife/id948398152\n\nArtist: Rae Sremmurd\n\nAlbum: SremmLife\n\nGenre: Hip-Hop/Rap\n\nAudio Format: MP3\n\nAudio Bitrate: 320kbps\n\n\nTracklist:\n**********\n\n01 Lit Like Bic\n02 Unlock the Swag (feat. Jace of Two-9)\n03 No Flex Zone\n04 My X\n05 This Could Be Us\n06 Come Get Her\n07 Up Like Trump\n08 Throw Sum Mo (feat. Nicki Minaj &amp; Young Thug)\n09 Yno (feat. Big Sean)\n10 No Type\n11 Safe Sex Pay Checks",
+  "parsed": {
+    "xt": "urn:btih:fff2801853b1df057cd7f9bc5b6da3e8827df6ca",
+    "dn": "Rae Sremmurd - SremmLife {MP3-2015}",
+    "tr": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "infoHash": "fff2801853b1df057cd7f9bc5b6da3e8827df6ca",
+    "infoHashBuffer": {
+      "type": "Buffer",
+      "data": [
+        255,
+        242,
+        128,
+        24,
+        83,
+        177,
+        223,
+        5,
+        124,
+        215,
+        249,
+        188,
+        91,
+        109,
+        163,
+        232,
+        130,
+        125,
+        246,
+        202
+      ]
+    },
+    "name": "Rae Sremmurd - SremmLife {MP3-2015}",
+    "announce": [
+      "udp://exodus.desync.com:6969",
+      "udp://open.demonii.com:1337",
+      "udp://tracker.coppersurfer.tk:6969",
+      "udp://tracker.openbittorrent.com:80"
+    ],
+    "urlList": []
+  },
+  "previous": 454,
+  "peers": 57,
+  "last_updated": "2016-12-25T19:09:38.760Z"
+}
