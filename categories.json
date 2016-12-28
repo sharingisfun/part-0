@@ -1,1 +1,56 @@
-{"video":{"hd___movies":8400,"movies":5095,"tv_shows":11634,"hd___tv_shows":3203,"movie_clips":32,"other":132,"3d":122,"movies_dvdr":79,"music_videos":60,"handheld":5},"games":{"pc":2821,"psx":60,"other":21,"xbox360":55,"wii":34,"android":55,"mac":50,"handheld":27,"ios_(ipad_iphone)":1},"applications":{"windows":2891,"mac":354,"other_os":21,"unix":26,"android":57,"handheld":9,"ios_(ipad_iphone)":2},"audio":{"other":946,"music":4956,"flac":234,"audio_books":187,"sound_clips":16},"other":{"other":324,"e_books":1315,"comics":179,"pictures":8},"porn":{"movies":2663,"movie_clips":3063,"hd___movies":416,"pictures":42,"games":59,"movies_dvdr":40,"other":306}}
+{
+  "video": {
+    "hd___movies": 8400,
+    "movies": 5095,
+    "tv_shows": 11634,
+    "hd___tv_shows": 3203,
+    "movie_clips": 32,
+    "other": 132,
+    "3d": 122,
+    "movies_dvdr": 79,
+    "music_videos": 60,
+    "handheld": 5
+  },
+  "games": {
+    "pc": 2821,
+    "psx": 60,
+    "other": 21,
+    "xbox360": 55,
+    "wii": 34,
+    "android": 55,
+    "mac": 50,
+    "handheld": 27,
+    "ios_(ipad_iphone)": 1
+  },
+  "applications": {
+    "windows": 2891,
+    "mac": 354,
+    "other_os": 21,
+    "unix": 26,
+    "android": 57,
+    "handheld": 9,
+    "ios_(ipad_iphone)": 2
+  },
+  "audio": {
+    "other": 946,
+    "music": 4956,
+    "flac": 234,
+    "audio_books": 187,
+    "sound_clips": 16
+  },
+  "other": {
+    "other": 324,
+    "e_books": 1315,
+    "comics": 179,
+    "pictures": 8
+  },
+  "porn": {
+    "movies": 2663,
+    "movie_clips": 3063,
+    "hd___movies": 416,
+    "pictures": 42,
+    "games": 59,
+    "movies_dvdr": 40,
+    "other": 306
+  }
+}
